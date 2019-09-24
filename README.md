@@ -23,7 +23,7 @@ This folder is missing the following entries (due to the fact that they were inc
 - entry_283.xml
 - entry_290.xml
 
-Note:
+**Note:**
 Entries in **correct_entries** folder might not be the same as entries in **tokenized_entries** folder.
 Assume that entries in **correct_entries** are correct and disregard the same entries in **tokenized_entries** folder.
 
@@ -47,7 +47,7 @@ the transformed entry word using the *difflib.SequenceMatcher.ratio()* function.
 on the similarity of those two words (the higer, the better). Ratios for all words are then summed up and divided
 by the number of words in the entry.
 
-Note:
+**Note:**
 - Entries that failed the transformation, usualy misplace the words. This happens because the original entry contains
 a word that is missing from tokens.xml file. Consequently this entry has a lower grade.
 - If grading failed, a grade of **-1%** is given to the entry.
