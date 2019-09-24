@@ -59,5 +59,5 @@ a word that is missing from tokens.xml file. Consequently this entry has a lower
 
 ## TO DO:
 Entries in **tokenized_entries** with grade lower than 90% should be rechecked. Mark which entries are faulty so I can
-correct them manualy.
+correct them manually.
 
