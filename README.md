@@ -55,4 +55,9 @@ by the number of words in the entry.
 - Entries that failed the transformation, usualy misplace the words. This happens because the original entry contains
 a word that is missing from tokens.xml file. Consequently this entry has a lower grade.
 - If grading failed, a grade of **-1%** is given to the entry.
+- Transformed entries with grade > 90% can be assumed they are correct.
+
+## TO DO:
+Entries in **tokenized_entries** with grade lower than 90% should be rechecked. Mark which entries are faulty so I can
+correct them manualy.
 
