@@ -38,7 +38,7 @@ Each entry in transformation log, has described with which word each word was re
 
 **Changed** -> shows the words that were taken from *tokens.xml* file and replaced the original ones.
 
-At the end of each entry, there is also a grade showing the similarity factor of the original and transformed entries given in %.
+At the end of each entry, there is also a grade showing the similarity factor of the original and transformed entries given in percentage.
 
 File **grade.log** contains grades for each entry.
 
