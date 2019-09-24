@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+authentic
+</orth>
+<form type="variant">
+<pron>
+/O:T*entIk/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Slika ali pismo, ki je
+<seg type="lemma">
+authentic
+</seg>
+je
+pristen in ne ponaredek ali posnetek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristen, verodostojen
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+authenticity
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*O*:Tent*IsI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He challenged the authenticity of the letter.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Podatek ali ra&#269;un, ki je
+<seg type="lemma">
+authentic
+</seg>
+je
+zanesljiv in natan&#269;en.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesljiv, verodostojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an authentic account of the war.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+authenticity
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+No historian has ever doubted the authenticity of Haldane's
+account.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

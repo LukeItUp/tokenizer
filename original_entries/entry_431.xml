@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amateur
+</orth>
+<form type="variant">
+<pron>
+/*#ae;m@tj0U0@, -tS@/
+</pron>
+</form>
+<form type="inflected">
+amateurs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An amateur
+</seg>
+je &#269;lovek, ki nekaj po&#269;ne iz
+veselja, za konji&#269;ek in ne za slu&#382;bo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+amater, ljubitelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a good amateur viola player.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Amateur
+</seg>
+lahko pomeni tudi isto kot
+<seg type="lemma">
+amateurish
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lai&#269;en, ljubiteljski
+</quote>
+</cit>
+</sense>
+</entry>

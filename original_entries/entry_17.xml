@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abide
+</orth>
+<form type="variant">
+<pron>
+/@b*a*Id/
+</pron>
+</form>
+<form type="inflected">
+abides, abiding, abided.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+can't abide something
+</seg>
+tistega ne mara.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne prenesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He likes you but he can't abide Dennis.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+abides
+</seg>
+se dogaja ali obstaja
+dolgo &#269;asa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, ne ponehati
+</quote>
+</cit>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+abide by.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To abide by a law, agreement, or decision
+</seg>
+pomeni ravnati tako, kot je dolo&#269;eno v zakonu, pogodbi ali sklepu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&#353;tevati, ravnati skladno z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Both parties must agree to abide by the court's decision.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

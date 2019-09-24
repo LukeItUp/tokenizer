@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abyss
+</orth>
+<form type="variant">
+<pron>
+/@3b*Is/
+</pron>
+</form>
+<form type="inflected">
+abysses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An abyss
+</seg>
+je zelo globoka jama v zemlji.
+</def>
+<cit type="translationEquivalent">
+<quote>
+brezno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We looked down into the abyss.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Abyss
+</seg>
+so okoli&#353;&#269;ine, ki vzbujajo mo&#269;an
+strah ali so zelo nevarne;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prepad, strahota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The world was teetering on the edge of the abyss of World War III.
+</quote>
+</seg>
+</sense>
+</entry>

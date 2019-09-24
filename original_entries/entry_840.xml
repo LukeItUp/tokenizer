@@ -1,0 +1,39 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attacker
+</orth>
+<form type="variant">
+<pron>
+/@t*#ae;k@/
+</pron>
+</form>
+<form type="inflected">
+attackers.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's attacker
+</seg>
+je oseba, ki &#269;loveka
+napade.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napadalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He described his attacker to the police.
+</quote>
+</seg>
+</sense>
+</entry>

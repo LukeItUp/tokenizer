@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alto
+</orth>
+<form type="variant">
+<pron>
+/*#ae;lt@U/
+</pron>
+</form>
+<form type="inflected">
+altos.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An alto
+</seg>
+je &#382;enska, ki poje z nizkim
+glasom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+altistka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glasbeni in&#353;trument, ki je
+<seg type="lemma">
+alto
+</seg>
+lahko
+oddaja tone srednje vi&#353;ine.
+</def>
+<cit type="translationEquivalent">
+<quote>
+altovski
+</quote>
+</cit>
+</sense>
+</entry>

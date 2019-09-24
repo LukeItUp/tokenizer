@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+automate
+</orth>
+<form type="variant">
+<pron>
+/*O*:t@6meIt/
+</pron>
+</form>
+<form type="inflected">
+automates, automating, automated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To automate a factory, office, or industrial
+process
+</seg>
+pomeni, da montiramo stroje, ki bodo opravljali delo namesto
+ljudi v neki tovarni, pisarni ali pri industrijskem postopku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtomatizirati, mehanizirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+automation
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*O*:t@6m*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This is an age of high technology and automation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

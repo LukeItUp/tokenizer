@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+any
+</orth>
+<form type="variant">
+<pron>
+/*eni1/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+DET
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+any
+</seg>
+uporabljamo v nikalnicah, na
+primer z
+<seg type="lemma">
+not
+</seg>
+ali
+<seg type="lemma">
+never
+</seg>
+da
+poudarimo odsotnost tistega, o &#269;emer govorimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&#269;, ni&#269;esar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't like any of this.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+DET
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+any
+</seg>
+uporabljamo v vpra&#353;anjih in
+pogojnih odvisnikih, kadar vpra&#353;amo po delu dolo&#269;ene stvari ali namignemo, da bi
+je lahko kaj bilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kakr&#353;enkoli, katerikoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Were you in any danger?
+</quote>
+<quote>
+They will retaliate if any of their ships are attacked.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+DET
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+any
+</seg>
+uporabljamo v trdilnih stavkih,
+kadar govorimo o ne&#269;em ali nekom, ne da bi natan&#269;no povedali, za koga ali kaj gre.
+</def>
+<cit type="translationEquivalent">
+<quote>
+katerikoli, kdorkoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Any big tin container will do.
+</quote>
+<quote>
+...things that any man might do under pressure.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+any
+</seg>
+lahko tudi poudarimo prislov
+ali primernik pridevnika v nikalnem stavku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne/ni&#269; ve&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I couldn't stand it any longer.
+</quote>
+</seg>
+</sense>
+</entry>

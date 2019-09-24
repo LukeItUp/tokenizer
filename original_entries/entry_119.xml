@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acid
+</orth>
+<form type="variant">
+<pron>
+/*#ae;sId/
+</pron>
+</form>
+<form type="inflected">
+acids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An acid
+</seg>
+je teko&#269;ina ali snov, katere pH
+vrednost je ni&#382;ja od sedem. Mo&#269;ne kisline nam lahko po&#353;kodujejo ko&#382;o ali obla&#269;ila.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kislina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dab it with a solution of weak acid.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an acid soil.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Sade&#382; ali pija&#269;a, ki je
+<seg type="lemma">
+acid
+</seg>
+ima kisel
+ali peko&#269; okus.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kisel, jedek
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pripomba, ki je
+<seg type="lemma">
+acid
+</seg>
+je neprijazna ali
+kriti&#269;na.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbadljiv, jedek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...her acid wit.
+</quote>
+</seg>
+</sense>
+</entry>

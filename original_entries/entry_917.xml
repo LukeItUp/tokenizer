@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+avid
+</orth>
+<form type="variant">
+<pron>
+/*#ae;vId/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+avid
+</seg>
+opi&#353;emo &#269;loveka, ki je za
+nekaj zelo vnet in navdu&#353;en.
+</def>
+<cit type="translationEquivalent">
+<quote>
+strasten, navdu&#353;en, zavzet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an avid reader of movie magazines.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+avidly
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They listened avidly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+<seg type="prep">
+"for"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+avid for something
+</seg>
+bi tisto zelo
+rad dobil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#382;eljan, lakomen
+</quote>
+</cit>
+</sense>
+</entry>

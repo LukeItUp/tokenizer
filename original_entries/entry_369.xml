@@ -1,0 +1,335 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+all
+</orth>
+<form type="variant">
+<pron>
+/*O*:l/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREDET, DET,
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+all
+</seg>
+povemo, da se povedano nana&#353;a
+na vso skupino ali na celoten predmet.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsi, vse
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the girls think it's great.
+</quote>
+<quote>
+They carried all the stuff into the hall.
+</quote>
+<quote>
+All of the defendants were proved guilty.
+</quote>
+<quote>
+They all live together.
+</quote>
+<quote>
+All was quiet in the gaol.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+all
+</seg>
+tudi poudarimo obseg, v
+katerem se nekaj zgodi ali za katerega nekaj velja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ves, povsem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spilled coffee all over himself.
+</quote>
+<quote>
+I'm all alone.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+all
+</seg>
+uporabimo, kadar govorimo o
+neodlo&#269;enem izidu igre. Na primer: kadar je izid
+<seg type="lemma">
+three
+all
+</seg>
+imata oba igralca po tri to&#269;ke.
+</def>
+<cit type="translationEquivalent">
+<quote>
+neodlo&#269;eno
+</quote>
+</cit>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+above all
+</seg>
+poudarimo, da je
+neka stvar pomembnej&#353;a od druge.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predvsem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Relax, and above all don't panic.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz
+<seg type="lemma">
+after all
+</seg>
+uporabimo, kadar &#382;elimo
+opozoriti na nekaj, kar so drugi morda pozabili ali &#269;esar prej nismo opazili.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navsezadnje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could it be true, after all, that money did not bring happiness?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+all in all
+</seg>
+uvedemo povzetek
+ali posplo&#353;itev.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v celoti vzeto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All in all, I'm not in favour.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&#269;emo, da nekaj ni
+<seg type="lemma">
+all that good
+</seg>
+ali
+<seg type="lemma">
+all that important
+</seg>
+&#382;elimo povedati, da ni
+zelo dobro ali pomembno;
+</def>
+<usg>
+rabimo zlasti v govoru.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+tako zelo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't know him all that well.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+All the more
+</seg>
+ali
+<seg type="lemma">
+all
+the better
+</seg>
+pomeni veliko ve&#269; ali bolje kakor prej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#353;e ve&#269;, &#353;e bolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must work all the more quickly now.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+at all
+</seg>
+poudarimo nikalnico
+ali vpra&#353;anje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sploh (ne)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We didn't go there at all.
+</quote>
+<quote>
+Haven't you got any at all?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+for all
+</seg>
+povemo, da dolo&#269;eno
+dejstvo ne vpliva na tisto ali ne nasprotuje tistemu, kar pripovedujemo, &#269;eprav
+vemo, da je videti druga&#269;e.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljub, navkljub
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For all her sensitivity, she's extremely tough.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+In all
+</seg>
+pomeni v celoti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(vsega) skupaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were nine in all.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazoma
+<seg type="lemma">
+in all seriousness
+</seg>
+ali
+<seg type="lemma">
+in all honesty
+</seg>
+poudarimo, da mislimo povsem resno ali
+odkrito.
+</def>
+<cit type="translationEquivalent">
+<quote>
+popolnoma resno, popolnoma odkrito
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I say this in all seriousness.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+of all
+</seg>
+poudarimo besedi
+<seg type="lemma">
+first
+</seg>
+ali
+<seg type="lemma">
+last
+</seg>
+prislov, ali pa
+prese&#382;nik pridevnika.
+</def>
+<cit type="translationEquivalent">
+<quote>
+najprej, nazadnje, naj-
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked them first of all if they were Welsh.
+</quote>
+<quote>
+This view is the best of all.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

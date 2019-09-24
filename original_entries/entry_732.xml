@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+article
+</orth>
+<form type="variant">
+<pron>
+/*A*:*tIk@0l/
+</pron>
+</form>
+<form type="inflected">
+articles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An article
+</seg>
+je pisni sestavek v &#269;asopisu
+ali reviji.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;lanek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+article
+</seg>
+lahko tudi na splo&#353;no
+govorimo o dolo&#269;eni stvari.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predmet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was ordered to pay for the articles he had stolen.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An article of a formal document
+</seg>
+je del
+uradne listine, ki obravnava dolo&#269;eno t&#233;mo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;len
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The invasion contravened article 51 of the UN charter.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi
+</seg>
+<ref>
+definite article
+</ref>
+<seg>
+in
+</seg>
+<ref>
+indefinite article.
+</ref>
+</xr>
+</sense>
+</entry>

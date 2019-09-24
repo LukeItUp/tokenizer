@@ -1,0 +1,304 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+act
+</orth>
+<form type="variant">
+<pron>
+/*#ae;kt/
+</pron>
+</form>
+<form type="inflected">
+acts, acting, acted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To act
+</seg>
+pomeni nekaj storiti z dolo&#269;enim
+namenom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukrepati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to act quickly.
+</quote>
+<quote>
+He acted alone in the shooting.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+acts in a particular way
+</seg>
+se
+vede na dolo&#269;en na&#269;in.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ravnati, vesti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We acted as if we had never seen each other before.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"as"
+</seg>
+<seg>
+or
+</seg>
+<seg type="prep">
+"like"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e neka stvar
+<seg type="lemma">
+acts as another
+</seg>
+deluje tako
+kot neka druga stvar.
+</def>
+<cit type="translationEquivalent">
+<quote>
+slu&#382;iti kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shark can twist its fins to act as brakes.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To act in a play or film
+</seg>
+pomeni imeti
+vlogo v igri ali filmu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An act
+</seg>
+je enkratno ravnanje ali tisto, kar
+nekdo stori.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dejanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sometimes the act of writing down the problems straightens out your
+thinking.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+in the act of doing
+something
+</seg>
+opravlja neko dejanje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri dejanju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He saw Jones in the act of snatching a gun.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovekovo vedenje
+<seg type="lemma">
+an act
+</seg>
+ne
+izra&#382;a njegovih resni&#269;nih &#269;ustev.
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra, pretvarjanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She appeared calm and confident but it was just an act.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An act
+</seg>
+je listina, ki jo sprejme vlada.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the 1944 Education Act.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An act
+</seg>
+v igri, operi ali baletu je eden od
+delov, na katere je delo razdeljeno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dejanje
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An act
+</seg>
+v predstavi je eden od kraj&#353;ih
+nastopov v njej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+to&#269;ka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...comedy acts.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+act up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To be acting up
+</seg>
+pomeni, da nekdo ali
+nekaj ne deluje ali se ne vede tako, kot bi bilo treba.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagajati, povzro&#269;ati te&#382;ave
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her car has started acting up again.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

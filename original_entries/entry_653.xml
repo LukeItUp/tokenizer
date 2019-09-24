@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+apt
+</orth>
+<form type="variant">
+<pron>
+/*#ae;pt/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Apt
+</seg>
+pomeni primeren.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustrezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a very apt description.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+aptly
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the aptly named village of Cold Weston.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+apt to behave in a particular
+way
+</seg>
+se pogosto vede na dolo&#269;en na&#269;in.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagnjen k
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was apt to fidget during a long performance.
+</quote>
+</seg>
+</sense>
+</entry>

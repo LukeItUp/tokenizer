@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assumption
+</orth>
+<form type="variant">
+<pron>
+/@3s*Vmp0S@0n/
+</pron>
+</form>
+<form type="inflected">
+assumptions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make an assumption
+</seg>
+pomeni misliti, da
+je nekaj res, v&#269;asih tudi zmotno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklepati, domnevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His suggestions are based on an assumption that the system is out of
+date.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's assumption of power or responsibility
+</seg>
+je dejstvo, da neki &#269;lovek dobi mo&#269; ali odgovornost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevzem, privzem
+</quote>
+</cit>
+</sense>
+</entry>

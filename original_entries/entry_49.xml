@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+absolutely
+</orth>
+<form type="variant">
+<pron>
+/*#ae;bs@6l*u*:tli1/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+<seg>
+or
+</seg>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Absolutely
+</seg>
+pomeni vsestransko in v celoti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+popolnoma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That's an absolutely fascinating piece of work.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+absolutely
+</seg>
+&#382;elimo poudariti, da
+se z nekom strinjamo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsekakor, popolnoma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+"She's excellent, though."&#8212;"Absolutely."
+</quote>
+</seg>
+</sense>
+</entry>

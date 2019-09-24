@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adjunct
+</orth>
+<form type="variant">
+<pron>
+/*#ae;dZVNkt/
+</pron>
+</form>
+<form type="inflected">
+adjuncts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+<seg>
+or
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An adjunct
+</seg>
+je nekaj, kar je povezano z
+ne&#269;im drugim, ve&#269;jim ali pomembnej&#353;im.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Duncan's survey was an adjunct to the current population survey.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V slovnici je
+<seg type="lemma">
+an adjunct
+</seg>
+eden glavnih
+delov stavka in daje podatke o &#269;asu, kraju ali na&#269;inu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilastek; prislovno dolo&#269;ilo
+</quote>
+</cit>
+</sense>
+</entry>

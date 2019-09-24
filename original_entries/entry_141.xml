@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acrobatic
+</orth>
+<form type="variant">
+<pron>
+/*#ae;kr@6b#ae;tIk/
+</pron>
+</form>
+<form type="inflected">
+acrobatics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Gib ali nastop, ki je
+<seg type="lemma">
+acrobatic
+</seg>
+vsebuje
+zahtevne skoke, premete in ravnote&#382;ne to&#269;ke.
+</def>
+<cit type="translationEquivalent">
+<quote>
+akrobatski
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Acrobatics
+</seg>
+so akrobatski gibi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+akrobatika
+</quote>
+</cit>
+</sense>
+</entry>

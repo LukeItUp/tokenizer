@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accident
+</orth>
+<form type="variant">
+<pron>
+/*#ae;ksId@2nt/
+</pron>
+</form>
+<form type="inflected">
+accidents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An accident
+</seg>
+je dogodek, ki se zgodi povsem
+po naklju&#269;ju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naklju&#269;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The fact that there is a university here is due to a historic
+accident.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An accident
+</seg>
+je tudi neprijeten ali
+nesre&#269;en dogodek, ki navadno povzro&#269;i po&#353;kodbo ali smrt.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezgoda
+</quote>
+</cit>
+<ref type="picture">
+glej slikovno prilogo
+<ref>
+HEALTH.
+</ref>
+</ref>
+<seg type="example">
+<quote>
+She was killed in a motor accident.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi
+<seg type="lemma">
+by accident
+</seg>
+se
+zgodi po naklju&#269;ju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+po nesre&#269;i, po naklju&#269;ju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I only came to Liverpool by accident.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

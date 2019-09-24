@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alienate
+</orth>
+<form type="variant">
+<pron>
+/*e*Ilj@neIt, *e*IlI@-/
+</pron>
+</form>
+<form type="inflected">
+alienates, alienating, alienated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To alienate someone
+</seg>
+pomeni povzro&#269;iti, da
+tisti &#269;lovek do nas postane neljubezniv ali brez&#269;uten.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtujiti, odbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I managed to alienate Dennis, who earlier on had been so friendly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+alienation
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*e*Ilj@n*e*IS@0n, *e*IlI@-/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...alienation on the part of many workers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be alienated from something
+</seg>
+pomeni biti
+&#269;ustveno ali razumsko lo&#269;en od tistega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtujen, odtrgan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People have been alienated from their roots.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+alienation
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a growing feeling of despair and alienation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

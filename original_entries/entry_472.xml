@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amplify
+</orth>
+<form type="variant">
+<pron>
+/*#ae;mplIfaI/
+</pron>
+</form>
+<form type="inflected">
+amplifies, amplifying, amplified.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To amplify a sound
+</seg>
+pomeni, da neki zvok
+naredimo glasnej&#353;i.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oja&#269;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These signals are then amplified.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To amplify an idea, statement, or piece of
+writing
+</seg>
+pomeni podrobneje razlo&#382;iti neko idejo, izjavo ali pisanje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrazlo&#382;iti, pojasniti, osvetliti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+amplification
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;mplIfIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His story needed confirmation and amplification.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+argue
+</orth>
+<form type="variant">
+<pron>
+/*A*:gju:/
+</pron>
+</form>
+<form type="inflected">
+argues, arguing, argued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+argues with someone
+</seg>
+z besedami,
+v&#269;asih tudi jeznimi, poka&#382;e, da se ne strinja z njim.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepirati se, pri&#269;kati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don't argue with me, George, just do as you're told.
+</quote>
+<quote>
+They were arguing about who should sit in front.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+argues
+</seg>
+da je nekaj tako, kot
+trdi, pove, da je po njegovem mnenju tako in navede razloge.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are those who argue that the existence of nuclear weapons has helped
+to maintain peace.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+argues for
+</seg>
+ali
+<seg type="lemma">
+argues against something
+</seg>
+navede razloge, zakaj bi se tisto moralo ali
+ne smelo zgoditi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadevati si za; nasprotovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some politicians argued against giving women the vote.
+</quote>
+</seg>
+</sense>
+</entry>

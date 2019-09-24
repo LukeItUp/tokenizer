@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ashamed
+</orth>
+<form type="variant">
+<pron>
+/@S*e*Imd/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+ashamed of something
+</seg>
+kar
+je storil, ima zaradi tistega dejanja ob&#269;utek zadrege ali krivde.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sramovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was ashamed of her tears.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+ashamed to do something
+</seg>
+tistega ne &#382;eli storiti, ker mu je nerodno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sramovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I bet that's what happened, and you're ashamed to admit it.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+ashamed of someone
+</seg>
+s
+katerim je povezan, je v zadregi zaradi njegovega ved&#234;nja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sramovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was ashamed of her for writing such lies.
+</quote>
+</seg>
+</sense>
+</entry>

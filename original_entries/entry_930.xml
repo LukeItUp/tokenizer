@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+awe
+</orth>
+<form type="variant">
+<pron>
+/*O*:/
+</pron>
+</form>
+<form type="inflected">
+awes, awed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Awe
+</seg>
+je spo&#353;tovanje in osuplost, ki ju
+ob&#269;utimo, kadar se soo&#269;imo z ne&#269;im &#269;udovitim ali stra&#353;nim.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&#269;udovanje; strahospo&#353;tovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The child stared at him in silent awe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+in awe of someone
+</seg>
+tistega &#269;loveka mo&#269;no spo&#353;tuje in se ga malce boji.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v strahospo&#353;tovanju
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be awed by someone or something
+</seg>
+pomeni,
+da smo zaradi tistega osupli in precej prepla&#353;eni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgro&#382;en
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+awed
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...talking in an awed whisper.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,165 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+average
+</orth>
+<form type="variant">
+<pron>
+/*#ae;v@0rIdZ/
+</pron>
+</form>
+<form type="inflected">
+averages, averaging, averaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An average
+</seg>
+je izid, ki ga dobimo, kadar
+se&#353;tejemo ve&#269; zneskov in se&#353;tevek delimo s &#353;tevilom zneskov.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpre&#269;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These pupils were examined in 39 subjects, an average of 6.5 subjects for
+each pupil.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The average age of the group was thirty-nine years.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To average a particular amount
+</seg>
+pomeni, da
+tista koli&#269;ina velja kot povpre&#269;je v dolo&#269;enem &#269;asu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti povpre&#269;no vrednost, enakomerno porazdeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Price increases during these years averaged around 20%.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+average
+</seg>
+je zna&#269;ilno za normalno
+velikost ali kakovost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpre&#269;en, srednje vrednosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sheet of paper of average thickness.
+</quote>
+<quote>
+Their language development is below average.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&#269;emo
+<seg type="lemma">
+on average
+</seg>
+ho&#269;emo
+povedati, da je dolo&#269;eno &#353;tevilo povpre&#269;je ve&#269; &#353;tevil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v povpre&#269;ju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can discover how many words, on average, a person reads in a
+minute.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+average out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+averages out a set of
+numbers
+</seg>
+izra&#269;una povpre&#269;je vrste &#353;tevil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+izra&#269;unati srednjo vrednost
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

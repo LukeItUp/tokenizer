@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+antecedent
+</orth>
+<form type="variant">
+<pron>
+/*#ae;ntIs*i*:d@nt/
+</pron>
+</form>
+<form type="inflected">
+antecedents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An antecedent of something
+</seg>
+je tisto, kar
+je podobno ne&#269;emu, kar se je &#382;e zgodilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predhodnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the prehistoric antecedents of the horse.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's antecedents
+</seg>
+so sorodniki, ki so
+&#382;iveli pred nami.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prednik
+</quote>
+</cit>
+</sense>
+</entry>

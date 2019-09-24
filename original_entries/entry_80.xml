@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accessible
+</orth>
+<form type="variant">
+<pron>
+/@3ks*es@1b@0l/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki kraj
+<seg type="lemma">
+accessible
+</seg>
+je mo&#382;no
+priti tja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dosegljiv, dostopen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hidden room was accessible only through a secret back entrance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+accessibility
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@ks*es@1bIlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+accessible to people
+</seg>
+ljudje tisto lahko uporabijo ali razumejo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dojemljiv, dostopen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...computers cheap enough to be accessible to virtually everyone.
+</quote>
+</seg>
+</sense>
+</entry>

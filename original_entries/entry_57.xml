@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abstract,
+</orth>
+<form type="inflected">
+abstracts, abstracting, abstracted;
+</form>
+<form type="variant">
+pridevnik in samostalnik izgovarjamo
+<pron>
+/*#ae;bstr#ae;kt/
+</pron>
+glagol pa
+<pron>
+/@3bstr*#ae;kt/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zamisel ali argument, ki je
+<seg type="lemma">
+abstract
+</seg>
+sloni na splo&#353;nih zamislih, ne pa na konkretnih predmetih ali dogodkih.
+</def>
+<cit type="translationEquivalent">
+<quote>
+abstrakten, teoreti&#269;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...our capacity for abstract reasoning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Umetnostni slog, ki je
+<seg type="lemma">
+abstract
+</seg>
+poudarja
+uporabo oblik in barv, ne pa oseb ali stvari.
+</def>
+<cit type="translationEquivalent">
+<quote>
+abstrakten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...abstract sculptures.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Samostalnik, ki je
+<seg type="lemma">
+abstract
+</seg>
+opisuje
+lastnost ali pojem, ne pa zunanjost predmeta.
+</def>
+<cit type="translationEquivalent">
+<quote>
+abstrakten
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An abstract of an article or speech
+</seg>
+je
+kraj&#353;i sestavek, v katerem ponovimo glavne to&#269;ke &#269;lanka ali govora.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzetek
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To abstract information
+</seg>
+pomeni narediti
+povzetek glavnih to&#269;k nekega &#269;lanka ali drugega zapisa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzeti, narediti kratek pregled
+</quote>
+</cit>
+</sense>
+</entry>

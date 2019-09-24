@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adore
+</orth>
+<form type="variant">
+<pron>
+/@d*O*:/
+</pron>
+</form>
+<form type="inflected">
+adores, adoring, adored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To adore someone
+</seg>
+pomeni tistega ljubiti in
+ob&#269;udovati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obo&#382;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She adored her sister.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To adore something
+</seg>
+pomeni imeti tisto zelo
+rad.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&#269;udovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People will adore this film.
+</quote>
+</seg>
+</sense>
+</entry>

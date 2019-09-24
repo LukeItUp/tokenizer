@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adherence
+</orth>
+<form type="variant">
+<pron>
+/@3dh*I*@r@2ns/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Adherence
+</seg>
+je upo&#353;tevanje dolo&#269;enega
+pravila ali dogovora.
+</def>
+<cit type="translationEquivalent">
+<quote>
+privr&#382;enost, zvestoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do they question our adherence to the treaty?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Adherence
+</seg>
+pomeni tudi podpiranje
+dolo&#269;enega prepri&#269;anja ali mnenja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdanost, privr&#382;enost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their adherence to democratic or totalitarian systems.
+</quote>
+</seg>
+</sense>
+</entry>

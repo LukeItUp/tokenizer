@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+agency
+</orth>
+<form type="variant">
+<pron>
+/*e*IdZ@nsi1/
+</pron>
+</form>
+<form type="inflected">
+agencies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An agency
+</seg>
+je podjetje, ki ponuja usluge
+drugemu podjetju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+agencija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an advertising agency.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V Zdru&#382;enih dr&#382;avah Amerike je
+<seg type="lemma">
+an agency
+</seg>
+upravna organizacija pod okriljem vlade.
+</def>
+<cit type="translationEquivalent">
+<quote>
+agencija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Central Intelligence Agency.
+</quote>
+</seg>
+</sense>
+</entry>

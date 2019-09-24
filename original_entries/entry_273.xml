@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+afraid
+</orth>
+<form type="variant">
+<pron>
+/@fr*e*Id/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+afraid of someone
+</seg>
+ali
+<seg type="lemma">
+afraid to do something
+</seg>
+se boji, ker misli, da se bo zaradi
+nekoga ali ne&#269;esa zgodilo nekaj stra&#353;nega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestra&#353;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were afraid of you.
+</quote>
+<quote>
+He was afraid even to turn his head.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+afraid
+</seg>
+da se bo zgodilo
+kaj neprijetnega, ga skrbi, da se bo tisto zgodilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaskrbljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was afraid that I might be embarrassed.
+</quote>
+<quote>
+He was terribly afraid of offending anyone.
+</quote>
+<quote>
+Don't be afraid to ask questions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e se &#382;elimo nekomu opravi&#269;iti ali vljudno povedati, da se z njim
+ne strinjamo, lahko stavek za&#269;nemo z izrazom
+<seg type="lemma">
+I'm afraid.
+</seg>
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojim se, &#382;al
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm afraid I can't agree.
+</quote>
+</seg>
+</sense>
+</entry>

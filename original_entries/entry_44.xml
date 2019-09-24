@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+absence
+</orth>
+<form type="variant">
+<pron>
+/*#ae;bs@ns/
+</pron>
+</form>
+<form type="inflected">
+absences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's absence from a place
+</seg>
+pomeni, da
+tisti &#269;lovek ni navzo&#269; na tistem kraju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odsotnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...frequent absences from school.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The absence of something
+</seg>
+pomeni, da
+tistega ni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomanjkanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The absence of electricity made matters worse.
+</quote>
+</seg>
+</sense>
+</entry>

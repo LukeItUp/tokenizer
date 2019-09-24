@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+addict
+</orth>
+<form type="variant">
+<pron>
+/*#ae;dIkt/
+</pron>
+</form>
+<form type="inflected">
+addicts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An addict
+</seg>
+je &#269;lovek, ki se ne more
+odpovedati uporabi mamil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasvojenec, odvisnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Swiss drug addict.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An addict
+</seg>
+je tudi nekdo, ki je zelo vnet
+za dolo&#269;eno stvar.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navdu&#353;enec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a radio addict.
+</quote>
+</seg>
+</sense>
+</entry>

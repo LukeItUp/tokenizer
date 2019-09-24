@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+advise
+</orth>
+<form type="variant">
+<pron>
+/@3dv*a*Iz/
+</pron>
+</form>
+<form type="inflected">
+advises, advising, advised.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advise someone to do something
+</seg>
+pomeni
+nekomu povedati, kaj mislimo, da bi moral storiti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He advised me not to buy it.
+</quote>
+<quote>
+Their job involves advising people how to avoid this disease.
+</quote>
+<quote>
+I would strongly advise you against it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advise people on a particular subject
+</seg>
+pomeni ljudem posredovati podatke in pomo&#269; pri dolo&#269;eni temi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A panel of bishops has been appointed to advise on matters of religious
+policy.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p26_s27845" id="p26_w499" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="571.782" base="578.19" width="21.8589" height="8.514">ankle</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p26_s27846" id="p26_w500" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="78.61" y="573.028" base="578.19" width="20.0602" height="6.844">/æÏk6</TOKEN>
+<TOKEN sid="p26_s27847" id="p26_w501" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="99" y="572.379" base="575.79" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p26_s27848" id="p26_w502" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="101.63" y="573.028" base="578.19" width="7.4416" height="6.844">l/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p26_s27849" id="p26_w503" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="111.31" y="572.85" base="578.19" width="22.1292" height="7.08">ankles.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p26_s27850" id="p26_w504" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.67" y="574.274" base="578.19" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p26_s27851" id="p26_w505" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="156.177" y="574.274" base="578.19" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p26_s27852" id="p26_w506" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.54" y="572.494" base="578.19" width="18.527" height="7.552">One's</TOKEN>
+<TOKEN sid="p26_s27853" id="p26_w507" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.306" y="572.494" base="578.19" width="18.7934" height="7.552">ankle</TOKEN>
+</seg>
+<TOKEN sid="p26_s27854" id="p26_w508" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.34" y="572.494" base="578.19" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p26_s27855" id="p26_w509" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="212.576" y="572.494" base="578.19" width="19.9872" height="7.552">sklep,</TOKEN>
+<TOKEN sid="p26_s27856" id="p26_w510" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="234.802" y="572.494" base="578.19" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p26_s27857" id="p26_w511" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1805" y="581.564" base="587.26" width="14.801" height="7.552">ve`e</TOKEN>
+<TOKEN sid="p26_s27858" id="p26_w512" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.9817" y="581.564" base="587.26" width="24.7997" height="7.552">stopalo</TOKEN>
+<TOKEN sid="p26_s27859" id="p26_w513" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="103.782" y="581.564" base="587.26" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p26_s27860" id="p26_w514" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.382" y="581.564" base="587.26" width="26.8006" height="7.552">golenjo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p26_s27862" id="p26_w516" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="144.42" y="581.564" base="587.26" width="23.989" height="7.552">gle`enj</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

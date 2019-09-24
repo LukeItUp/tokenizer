@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+allergy
+</orth>
+<form type="variant">
+<pron>
+/*#ae;l@dZi1/
+</pron>
+</form>
+<form type="inflected">
+allergies.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An allergy
+</seg>
+je bolezen, ki jo dobimo, kadar
+jemo, vdihavamo ali se dotaknemo snovi, zaradi katere ljudje navadno ne obolevajo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+alergija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had an allergy to milk.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+allergic
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@3l*$e*:dZIk/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Are you allergic to dogs?
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

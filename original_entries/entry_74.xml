@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accent,
+</orth>
+<form type="inflected">
+accents, accenting, accented;
+</form>
+<form type="variant">
+samostalnik izgovarjamo
+<pron>
+/*#ae;ks@2nt/
+</pron>
+glagol pa
+<pron>
+/#ae;ks*ent/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;lovek, ki govori z dolo&#269;enim
+<seg type="lemma">
+accent
+</seg>
+besede izgovarja tako, da izdaja svoje poreklo &#8212; dr&#382;avo, pokrajino ali dru&#382;beni
+razred.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has a strong Irish accent.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An accent
+</seg>
+je tudi znak, zapisan pod ali
+nad &#269;rkami v nekaterih jezikih, s katerim ozna&#269;imo, kako se izgovarjajo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglasno znamenje
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je na dolo&#269;eni zna&#269;ilnosti ne&#269;esa
+<seg type="lemma">
+accent
+</seg>
+je ta lastnost najpomembnej&#353;a.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudarek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The accent is on presentation in this contest.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To accent a word or a musical note
+</seg>
+pomeni,
+da neki besedi ali noti damo ve&#269;ji poudarek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudariti
+</quote>
+</cit>
+</sense>
+</entry>

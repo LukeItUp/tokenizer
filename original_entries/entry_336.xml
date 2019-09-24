@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+airy
+</orth>
+<form type="variant">
+<pron>
+/*e*@ri1/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stavba, ki je
+<seg type="lemma">
+airy
+</seg>
+je velika in je v njej
+dovolj sve&#382;ega zraka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zra&#269;en, prostoren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The church was airy and light inside.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+airy
+</seg>
+lahko opi&#353;emo &#269;loveka, ki
+brezskrbno in malomarno obravnava zadeve, ki bi jih moral jemati resno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povr&#353;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He applied in an airy way for the job of assistant manager.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+airily
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...talking airily of this and that.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,197 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+allow
+</orth>
+<form type="variant">
+<pron>
+/@l*a*U/
+</pron>
+</form>
+<form type="inflected">
+allows, allowing, allowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be allowed to do something
+</seg>
+pomeni, da
+je nekemu &#269;loveku omogo&#269;eno, da nekaj stori.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He agreed to allow me to take the course.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be allowed something
+</seg>
+pomeni dobiti
+dovoljenje, da tisto vzamemo ali dobimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sometimes, we were allowed a special treat.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To allow something to happen
+</seg>
+pomeni, da
+tistega dogodka ne prepre&#269;imo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoliti, dopustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The further this process is allowed to go, the more difficult it will be to
+reverse it.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+allows a particular thing to
+happen
+</seg>
+omogo&#269;i, da se dolo&#269;en dogodek zgodi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+omogo&#269;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The creatures had warm blood, which allowed them to be active at
+night.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To allow that something is true
+</seg>
+pomeni
+priznati, da je nekaj res;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dopustiti, priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He allowed that even world leaders could make mistakes.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+allow for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To allow for certain problems or expenses
+</seg>
+pomeni vra&#269;unati v na&#269;rt dodaten &#269;as ali stro&#353;ke, da jih bomo lahko
+pokrili, &#269;e bo treba.
+</def>
+<cit type="translationEquivalent">
+<quote>
+opravi&#269;iti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

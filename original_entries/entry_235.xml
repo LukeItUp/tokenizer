@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adverse
+</orth>
+<form type="variant">
+<pron>
+/*#ae;dv$e:s/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Odlo&#269;itve, okoli&#353;&#269;ine ali u&#269;inki, ki so
+<seg type="lemma">
+adverse
+</seg>
+so za &#269;loveka neugodni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+neugoden, &#353;kodljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Falling prices had an adverse effect on business.
+</quote>
+<quote>
+...adverse weather conditions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+adversely
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The majority of children are adversely affected.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

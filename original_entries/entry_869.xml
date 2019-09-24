@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+audit
+</orth>
+<form type="variant">
+<pron>
+/*O*:dIt/
+</pron>
+</form>
+<form type="inflected">
+audits, auditing, audited.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar revizor
+<seg type="lemma">
+audits an organization's
+accounts
+</seg>
+uradno pregleda ra&#269;une nekega podjetja, da se prepri&#269;a o
+njihovi pravilnosti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+opraviti revizijo
+</quote>
+</cit>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We're going to conduct a full audit.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

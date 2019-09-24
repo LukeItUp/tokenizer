@@ -1,0 +1,241 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+answer
+</orth>
+<form type="variant">
+<pron>
+/*A*:ns@/
+</pron>
+</form>
+<form type="inflected">
+answers, answering, answered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ,
+<seg>
+or
+</seg>
+REPORT
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+answers someone
+</seg>
+ki ga je
+nekaj vpra&#353;al, tistemu &#269;loveku nekaj odvrne.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+"Did he win?"&#8212;&#382;No," I answered.
+</quote>
+<quote>
+He answered that the price would be three pounds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To answer a letter or advertisement
+</seg>
+pomeni
+odpisati osebi, ki nam je poslala pismo ali oglas.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovoriti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An answer
+</seg>
+je nekaj, kar re&#269;emo ali
+napi&#353;emo, kadar nekomu odgovarjamo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The answer to your question is no!
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+answers the telephone
+</seg>
+dvigne
+telefonsko slu&#353;alko, ko zazvoni. Kadar &#269;lovek
+<seg type="lemma">
+answers the
+door
+</seg>
+odpre vrata, kadar zasli&#353;i trkanje ali zvonjenje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odzvati se (oglasiti se, odpreti)
+</quote>
+</cit>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I rang the doorbell, but there was no answer.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An answer to a problem
+</seg>
+je mo&#382;na razre&#353;itev
+problema.
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&#353;itev
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The answer to a question
+</seg>
+na izpitu je
+nekaj, kar &#353;tudent napi&#353;e ali pove v &#382;elji, da bi navedel podatke.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovor
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+answers a question
+</seg>
+v
+vpra&#353;alniku ali na izpitu, nanj da odgovor.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have to answer four questions.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+answer back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &#269;lovek, zlasti otrok,
+<seg type="lemma">
+answers
+someone back
+</seg>
+ali
+<seg type="lemma">
+answers back
+</seg>
+nesramno
+odgovori, kadar ga ogovorimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+jezikati, gofljati, odgovarjati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

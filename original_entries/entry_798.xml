@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assure
+</orth>
+<form type="variant">
+<pron>
+/@3S*U*@/
+</pron>
+</form>
+<form type="inflected">
+assures, assuring, assured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assure someone that something is true or will
+happen
+</seg>
+pomeni nekemu &#269;loveku povedati, da je nekaj vsekakor res ali se bo
+zgodilo, da bi mu olaj&#353;ali skrbi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kurt assured me that he was an excellent climber.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+OBJ
+<seg>
+or
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be assured of something
+</seg>
+pomeni, da bomo
+tisto vsekakor dobili.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This film had assured him a place in movie history.
+</quote>
+</seg>
+</sense>
+</entry>

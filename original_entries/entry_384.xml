@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+allocate
+</orth>
+<form type="variant">
+<pron>
+/*#ae;l@6keIt/
+</pron>
+</form>
+<form type="inflected">
+allocates, allocating, allocated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+allocated to a person or for a
+purpose
+</seg>
+je dano dolo&#269;eni osebi ali cilju ali uporabljeno v dolo&#269;en
+namen.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You've been allocated room 426.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+allocation
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;l@6k*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the allocation of responsibilities.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

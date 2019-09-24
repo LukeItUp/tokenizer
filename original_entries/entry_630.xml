@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+appoint
+</orth>
+<form type="variant">
+<pron>
+/@p*O*Int/
+</pron>
+</form>
+<form type="inflected">
+appoints, appointing, appointed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appoint someone to a job or post
+</seg>
+pomeni
+nekoga uradno izbrati za neko delo ali polo&#382;aj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appoint a time or place
+</seg>
+ko naj bi se
+nekaj zgodilo, pomeni skleniti, kdaj ali kje se bo tisto zgodilo;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dolo&#269;iti, dogovoriti; predpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I arrived at the appointed time.
+</quote>
+</seg>
+</sense>
+</entry>

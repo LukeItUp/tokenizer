@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p39_s42258" id="p39_w694" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="281.262" base="287.67" width="38.3792" height="8.514">astronaut</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p39_s42259" id="p39_w695" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="294.99" y="282.508" base="287.67" width="20.8702" height="6.844">/æstr6</TOKEN>
+<TOKEN sid="p39_s42260" id="p39_w696" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="316.1" y="281.87" base="285.28" width="2.39636" height="4.52176">7</TOKEN>
+<TOKEN sid="p39_s42261" id="p39_w697" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="318.67" y="282.508" base="287.67" width="17.5116" height="6.844">nÕÂt/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p39_s42262" id="p39_w698" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="337.67" y="282.33" base="287.67" width="34.6208" height="7.08">astronauts.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p39_s42263" id="p39_w699" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="373.75" y="283.754" base="287.67" width="18.6506" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p39_s42264" id="p39_w700" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="393.416" y="283.754" base="287.67" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p39_s42265" id="p39_w701" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="399.08" y="281.974" base="287.67" width="9.8892" height="7.552">An</TOKEN>
+<TOKEN sid="p39_s42266" id="p39_w702" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="410.457" y="281.974" base="287.67" width="31.7722" height="7.552">astronaut</TOKEN>
+</seg>
+<TOKEN sid="p39_s42267" id="p39_w703" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="291.054" base="296.75" width="5.99976" height="7.552">je</TOKEN>
+<TOKEN sid="p39_s42268" id="p39_w704" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="268.815" y="291.054" base="296.75" width="21.2148" height="7.552">oseba,</TOKEN>
+<TOKEN sid="p39_s42269" id="p39_w705" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.036" y="291.054" base="296.75" width="6.79896" height="7.552">ki</TOKEN>
+<TOKEN sid="p39_s42270" id="p39_w706" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="300.841" y="291.054" base="296.75" width="21.6108" height="7.552">potuje</TOKEN>
+<TOKEN sid="p39_s42271" id="p39_w707" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.458" y="291.054" base="296.75" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p39_s42272" id="p39_w708" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="330.467" y="291.054" base="296.75" width="29.6093" height="7.552">vesoljski</TOKEN>
+<TOKEN sid="p39_s42273" id="p39_w709" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.082" y="291.054" base="296.75" width="17.6076" height="7.552">ladji.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p39_s42275" id="p39_w711" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="387.95" y="291.054" base="296.75" width="34.2727" height="7.552">astronavt,</TOKEN>
+<TOKEN sid="p39_s42276" id="p39_w712" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.223" y="291.054" base="296.75" width="17.9971" height="7.552">veso-</TOKEN>
+<TOKEN sid="p39_s42277" id="p39_w713" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="300.134" base="305.83" width="11.9909" height="7.552">ljec</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

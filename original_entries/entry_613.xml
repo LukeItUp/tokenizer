@@ -1,0 +1,232 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+appeal
+</orth>
+<form type="variant">
+<pron>
+/@p*i*:l/
+</pron>
+</form>
+<form type="inflected">
+appeals, appealing, appealed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"for
+</seg>
+<seg>
+or
+</seg>
+REPORT
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appeal for something
+</seg>
+pomeni, da resno
+in nujno zahtevamo nekaj, kar potrebujemo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was appealing for funds to build a new school.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An appeal
+</seg>
+je resna in nujna pro&#353;nja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poziv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A radio appeal asking for money for cancer research, raised
+&#163;75,000.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appeal to someone's reason or feelings
+</seg>
+pomeni nekomu predlagati, naj stori tisto, za kar ga prosimo, &#269;e ho&#269;e dajati
+vtis, da je razumen ali so&#269;uten.
+</def>
+<cit type="translationEquivalent">
+<quote>
+rotiti, sklicevati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are confident they can appeal to her sense of duty.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an appeal to her maternal feelings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appeal to someone
+</seg>
+na visokem polo&#382;aju
+proti neki odlo&#269;itvi pomeni uradno prositi za njeno spremembo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prito&#382;iti se
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An appeal
+</seg>
+je uradna zahteva po spremembi
+odlo&#269;itve.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prito&#382;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Supreme Court turned down our appeal.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+appeals to someone
+</seg>
+je tisto
+zanj privla&#269;no ali zanimivo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The idea appealed to him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+appealing
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She had an appealing sense of humour.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The appeal of something
+</seg>
+je lastnost nekega
+predmeta, ki je za ljudi privla&#269;na ali zanimiva.
+</def>
+<cit type="translationEquivalent">
+<quote>
+privla&#269;nost
+</quote>
+</cit>
+</sense>
+</entry>

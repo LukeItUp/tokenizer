@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+author
+</orth>
+<form type="variant">
+<pron>
+/*O*:T@/
+</pron>
+</form>
+<form type="inflected">
+authors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The author of a piece of writing
+</seg>
+je oseba,
+ki je nekaj napisala.
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtor, pisec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An author
+</seg>
+je &#269;lovek, ki se poklicno
+ukvarja s pisanjem knjig.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisatelj
+</quote>
+</cit>
+</sense>
+</entry>

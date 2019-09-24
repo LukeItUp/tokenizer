@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+absurd
+</orth>
+<form type="variant">
+<pron>
+/@3bs*$e*:d/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+absurd
+</seg>
+je neumno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+neumen, sme&#353;en, absurden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It seemed absurd to try to carry a twenty-five-pound camera about.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+absurdity
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@3bs*$e*:dI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the oddities and absurdities of the language.
+</quote>
+<quote>
+...a feeling of absurdity.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+absurdly
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+<seg>
+or
+</seg>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an absurdly low rent.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

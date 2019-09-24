@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assistant
+</orth>
+<form type="variant">
+<pron>
+/@s*Ist@nt/
+</pron>
+</form>
+<form type="inflected">
+assistants.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's assistant
+</seg>
+je &#269;lovek, ki drugemu
+pomaga pri delu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomo&#269;nik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Naziv
+<seg type="lemma">
+assistant
+</seg>
+uporabljamo pred uradnimi
+ali slu&#382;benimi nazivi, da naka&#382;emo malo ni&#382;ji polo&#382;aj. Na primer:
+<seg type="lemma">
+an assistant director
+</seg>
+je za stopni&#269;ko ni&#382;e kot re&#382;iser.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomo&#269;nik
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An assistant
+</seg>
+ali
+<seg type="variant">
+a
+shop assistant
+</seg>
+je oseba, ki prodaja v trgovini.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodajalec
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p13_s13971" id="p13_w890" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="499.152" base="505.56" width="14.9907" height="8.514">afar</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p13_s13972" id="p13_w891" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="271.49" y="500.398" base="505.56" width="19.8516" height="6.844">/6fÊÂ/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<sense value="phrase">
+<gramGrp>
+<pos>
+<TOKEN sid="p13_s13973" id="p13_w892" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="292.74" y="501.644" base="505.56" width="21.0697" height="5.192">PHRASE</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p13_s13974" id="p13_w893" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="315.26" y="499.864" base="505.56" width="17.6616" height="7.552">From</TOKEN>
+<TOKEN sid="p13_s13975" id="p13_w894" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.321" y="499.864" base="505.56" width="13.4014" height="7.552">afar</TOKEN>
+</seg>
+<TOKEN sid="p13_s13976" id="p13_w895" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.15" y="499.864" base="505.56" width="24.1956" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p13_s13977" id="p13_w896" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.745" y="499.864" base="505.56" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p13_s13978" id="p13_w897" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.745" y="499.864" base="505.56" width="19.3932" height="7.552">velike</TOKEN>
+<TOKEN sid="p13_s13979" id="p13_w898" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="400.538" y="499.864" base="505.56" width="41.5886" height="7.552">oddaljenosti;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p13_s13980" id="p13_w899" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="508.944" base="514.64" width="25.5917" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p13_s13981" id="p13_w900" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.402" y="508.944" base="514.64" width="17.6011" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p13_s13983" id="p13_w902" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="314.23" y="508.944" base="514.64" width="8.40168" height="7.552">od</TOKEN>
+<TOKEN sid="p13_s13984" id="p13_w903" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.632" y="508.944" base="514.64" width="19.998" height="7.552">dale~;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p13_s13985" id="p13_w904" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.63" y="508.944" base="514.64" width="32.387" height="7.552">…visitors</TOKEN>
+<TOKEN sid="p13_s13986" id="p13_w905" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.017" y="508.944" base="514.64" width="15.8566" height="7.552">from</TOKEN>
+<TOKEN sid="p13_s13987" id="p13_w906" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.873" y="508.944" base="514.64" width="14.4799" height="7.552">afar.</TOKEN>
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

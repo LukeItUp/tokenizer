@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attempt
+</orth>
+<form type="variant">
+<pron>
+/@3t*empt/
+</pron>
+</form>
+<form type="inflected">
+attempts, attempting, attempted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attempt something
+</seg>
+ali
+<seg type="lemma">
+to attempt to do something
+</seg>
+pomeni poskusiti tisto opraviti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti, prizadevati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A long time had elapsed since I had attempted any serious study.
+</quote>
+<quote>
+Some of the crowd attempted to break through police cordons.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The young birds manage to fly several kilometres at their first
+attempt.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

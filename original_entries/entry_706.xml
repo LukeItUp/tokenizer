@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+army
+</orth>
+<form type="variant">
+<pron>
+/*A*:mi1/
+</pron>
+</form>
+<form type="inflected">
+armies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An army
+</seg>
+je velika, organizirana skupina
+oboro&#382;enih, za boj izurjenih ljudi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vojska
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An army of people, animals, or things
+</seg>
+je
+veliko &#353;tevilo oseb, &#382;ivali ali stvari skupaj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vojska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an army of ants.
+</quote>
+</seg>
+</sense>
+</entry>

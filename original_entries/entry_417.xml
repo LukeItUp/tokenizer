@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alternative
+</orth>
+<form type="variant">
+<pron>
+/Qlt*$e*:n@tIv/
+</pron>
+</form>
+<form type="inflected">
+alternatives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An alternative
+</seg>
+je nekaj, kar obstaja ali
+kar lahko storimo namesto ne&#269;esa drugega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbira, druga mo&#382;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are there alternatives to prison?
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+But still people try to find alternative explanations.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+alternative
+</seg>
+uporabljamo tudi za
+opisovanje ne&#269;esa, kar je druga&#269;no od navadnih primerkov svoje vrste, zlasti kadar
+je preprostej&#353;e, naravnej&#353;e ali ne sodi k ustaljeni praksi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+alternativen, druga&#269;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sources of alternative energy.
+</quote>
+</seg>
+</sense>
+</entry>

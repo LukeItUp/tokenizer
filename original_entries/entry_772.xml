@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assassinate
+</orth>
+<form type="variant">
+<pron>
+/@s*#ae;sIneIt/
+</pron>
+</form>
+<form type="inflected">
+assassinates, assassinating, assassinated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je pomemben &#269;lovek
+<seg type="lemma">
+assassinated
+</seg>
+ga
+ubijejo zaradi politike.
+</def>
+<cit type="translationEquivalent">
+<quote>
+umoriti, izvesti atentat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The president was assassinated as he left the building.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assassination
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@s*#ae;sIn*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the assassination of Martin Luther King.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

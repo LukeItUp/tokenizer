@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acquaint
+</orth>
+<form type="variant">
+<pron>
+/@kw*e*Int/
+</pron>
+</form>
+<form type="inflected">
+acquaints, acquainting, acquainted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+<seg type="prep">
+"with"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To acquaint someone with something
+</seg>
+pomeni
+nekemu &#269;loveku o ne&#269;em nekaj povedati;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+seznaniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I will acquaint you with the facts.
+</quote>
+</seg>
+</sense>
+</entry>

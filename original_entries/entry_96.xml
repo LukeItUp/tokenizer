@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accord
+</orth>
+<form type="variant">
+<pron>
+/@3k*O*:d/
+</pron>
+</form>
+<form type="inflected">
+accords, according, accorded.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e nekaj stori&#353;
+<seg type="lemma">
+of your own accord
+</seg>
+tisto stori&#353; po svoji volji, ker tako &#382;eli&#353;.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostovoljno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew they would leave of their own accord.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in accord
+</seg>
+pomeni, da se ljudje o
+ne&#269;em strinjajo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v soglasju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are few issues on which the two are in perfect accord.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+OBJ
+<seg>
+or
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To accord someone a particular kind of
+treatment
+</seg>
+pomeni, da s tistim &#269;lovekom ravnamo na dolo&#269;en na&#269;in.
+</def>
+<cit type="translationEquivalent">
+<quote>
+podeliti, dati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Newsmen accorded her the kind of coverage normally reserved for film
+stars.
+</quote>
+<quote>
+They are given more importance than we would accord to them if left to
+ourselves.
+</quote>
+</seg>
+</sense>
+</entry>

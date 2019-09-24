@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amend
+</orth>
+<form type="variant">
+<pron>
+/@3m*end/
+</pron>
+</form>
+<form type="inflected">
+amends, amending, amended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To amend something
+</seg>
+kar je bilo zapisano
+ali izre&#269;eno, pomeni tisto spremeniti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Last year the regulations were amended to allow other awards to be
+made.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make amends
+</seg>
+potem ko smo nekoga
+o&#353;kodovali, pomeni storiti nekaj, kar o&#353;kodovancu ugaja, da bi tako pokazali,
+da nam je &#382;al.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkupiti se za nekaj, poravnati, opravi&#269;iti se
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

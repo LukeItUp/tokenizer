@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+appearance
+</orth>
+<form type="variant">
+<pron>
+/@p*I*@r@ns/
+</pron>
+</form>
+<form type="inflected">
+appearances.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The appearance of someone in a place
+</seg>
+je
+prihod &#269;loveka na neki kraj, zlasti &#269;e je nepri&#269;akovan.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojav, nastop, prihod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The fight was soon stopped, thanks to the prompt appearance of the
+police.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Someone or something's appearance
+</seg>
+je
+videz, ki ga nekdo ali nekaj ka&#382;e ljudem.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zunanjost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had ceased to worry about my appearance.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The appearance of something new
+</seg>
+je
+dejstvo, da nekaj novega za&#269;ne obstajati ali pride v rabo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prihod, pojav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+With the appearance of credit cards more people got into debt.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+makes an appearance in a play or
+show
+</seg>
+sodeluje v drami ali predstavi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has made several television appearances recently.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put in an appearance at an event
+</seg>
+pomeni, da gremo na tisto prireditev za kratek &#269;as, vendar ne ostanemo do
+konca.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikazati se, pokazati se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj resni&#269;no
+<seg type="lemma">
+to all appearances
+</seg>
+ali
+<seg type="phrase_variant">
+by all appearances
+</seg>
+ka&#382;e, da je tako
+po tistem, kar o stvari vemo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vsem (videzu) sode&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To all appearances he doesn't work hard.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

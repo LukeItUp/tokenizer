@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aimless
+</orth>
+<form type="variant">
+<pron>
+/*e*ImlI2s/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali dejavnost, ki je
+<seg type="lemma">
+aimless
+</seg>
+nima
+jasnega namena ali cilja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+brezciljen, nesmiseln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...drawing aimless doodles in the sand.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+aimlessly
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She wandered aimlessly along the beach.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

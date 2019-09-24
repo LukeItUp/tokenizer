@@ -47,3 +47,4 @@ Note:
 - Entries that failed the transformation, usualy misplace the words. This happens because the original entry contains
 a word that is missing from tokens.xml file. Consequently this entry has a lower grade.
 - If grading failed, a grade of **-1%** is given to the entry.
+

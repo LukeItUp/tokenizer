@@ -1,0 +1,143 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+address
+</orth>
+<form type="variant">
+<pron>
+/@dr*es/
+</pron>
+</form>
+<form type="inflected">
+addresses, addressing, addressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's address
+</seg>
+so podatki o hi&#353;ni &#353;tevilki,
+imenu ulice in kraja, v katerem &#269;lovek &#382;ivi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naslov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The address is 70 Brompton Road, London SW1.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je pismo
+<seg type="lemma">
+addressed to someone
+</seg>
+sta
+na njem napisana ime in naslov tistega &#269;loveka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasloviti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An address
+</seg>
+je tudi uradni nagovor.
+</def>
+<cit type="translationEquivalent">
+<quote>
+govor, nagovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gave an address to the Psychological Association.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To address a group of people
+</seg>
+pomeni
+govoriti skupini ljudi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagovoriti, imeti govor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He addressed a meeting in Bristol.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+addresses a problem
+</seg>
+se z njim
+soo&#269;i ali spopade.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has not addressed the issue of the strike.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+Asian
+</orth>
+<form type="variant">
+<pron>
+/*e*IS@n, *e*IZ@n/
+</pron>
+</form>
+<form type="inflected">
+Asians.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Asian
+</seg>
+je tak, ki pripada Aziji ali je
+povezan z njo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+azijski
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An Asian
+</seg>
+je oseba, ki je po rodu iz
+Indije, Pakistana ali kakega drugega dela Azije.
+</def>
+<cit type="translationEquivalent">
+<quote>
+Azijec/-jka
+</quote>
+</cit>
+</sense>
+</entry>

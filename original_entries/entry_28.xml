@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abolish
+</orth>
+<form type="variant">
+<pron>
+/@b*QlIS/
+</pron>
+</form>
+<form type="inflected">
+abolishes, abolishing, abolished.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To abolish a system or practice
+</seg>
+pomeni
+ustaviti neki sistem ali dejavnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukiniti, odpraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They believed the death penalty should be abolished.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+abolition
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;b@l*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the abolition of slavery.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

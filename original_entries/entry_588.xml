@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+anyone
+</orth>
+<form type="variant">
+<pron>
+/*enIw@9n/
+</pron>
+</form>
+<seg>
+ali
+</seg>
+<seg type="variant">
+anybody
+</seg>
+<form type="variant">
+<pron>
+/*enIb@7di1/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+INDEF PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+anyone
+</seg>
+ali
+<seg type="variant">
+anybody
+</seg>
+uporabljamo v nikalnih stavkih, na primer z
+<seg type="lemma">
+not
+</seg>
+ali
+<seg type="lemma">
+never
+</seg>
+kadar ho&#269;emo povedati, da nih&#269;e
+ni navzo&#269; ali vpleten v dolo&#269;eno dejanje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nih&#269;e, kdorkoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There wasn't anyone there.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+INDEF PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedi
+<seg type="lemma">
+anyone
+</seg>
+ali
+<seg type="variant">
+anybody
+</seg>
+uporabljamo v vpra&#353;alnih ali pogojnih stavkih, kadar spra&#353;ujemo
+ali govorimo o tem, ali je nekdo navzo&#269; ali nekaj po&#269;enja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(sploh) kdo, kdorkoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Was there anyone behind you?
+</quote>
+<quote>
+If anyone asks where you are I'll say you've just gone out.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+INDEF PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedi
+<seg type="lemma">
+anyone
+</seg>
+in
+<seg type="variant">
+anybody
+</seg>
+se lahko nana&#353;ata tudi na osebo ali ljudi na splo&#353;no, kadar ne
+&#382;elimo povedati, o kateri osebi ali ljudeh govorimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kdorkoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took longer than anybody else.
+</quote>
+</seg>
+</sense>
+</entry>

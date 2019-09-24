@@ -1,0 +1,156 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aid
+</orth>
+<form type="variant">
+<pron>
+/*e*Id/
+</pron>
+</form>
+<form type="inflected">
+aids, aiding, aided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Aid
+</seg>
+so denar, oprema ali usluge, ki jih
+dajemo ljudem v stiski.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomo&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...food and medical aid.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An aid
+</seg>
+je nekaj, kar nam olaj&#353;a delo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomo&#269;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a valuable aid to digestion.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To aid a person or an organization
+</seg>
+pomeni
+pomagati nekemu &#269;loveku ali organizaciji.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He crossed the border aided by a priest.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Dejavnost ali dogodek, ki je
+<seg type="lemma">
+in aid of a
+particular cause
+</seg>
+nam pomaga zbrati denar za tisti namen.
+</def>
+<cit type="translationEquivalent">
+<quote>
+za pomo&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cricket match in aid of cancer relief.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To do something with the aid of a particular
+person or thing
+</seg>
+pomeni, da nam dolo&#269;en &#269;lovek ali stvar pomaga pri
+delu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+s/z, ob pomo&#269;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The programmes had been prepared with the aid of various
+broadcasters.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To go to the aid of someone
+</seg>
+pomeni
+truditi se, da bi nekomu pomagali.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(iti) na pomo&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had rushed to her aid.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

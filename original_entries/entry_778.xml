@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assert
+</orth>
+<form type="variant">
+<pron>
+/@3s*$e*:t/
+</pron>
+</form>
+<form type="inflected">
+asserts, asserting, asserted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assert a fact or belief
+</seg>
+pomeni odlo&#269;no
+izpovedati neko dejstvo ali prepri&#269;anje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The protesters asserted their right to be heard.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assertion
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@3s*$e*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I challenge that assertion.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assert one's authority
+</seg>
+pomeni jasno
+pokazati, da imamo glavno besedo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+uveljaviti oblast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wished to assert his authority in his own house.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assertion
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an assertion of power.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assert oneself
+</seg>
+pomeni govoriti in
+ravnati tako prepri&#269;ljivo, da nas ljudje upo&#353;tevajo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+uveljaviti svojo pravico
+</quote>
+</cit>
+</sense>
+</entry>

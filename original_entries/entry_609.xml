@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+apparatus
+</orth>
+<form type="variant">
+<pron>
+/*#ae;p@r*e*It@s/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Apparatus
+</seg>
+je priprava, ki jo uporabljamo
+za opravljanje dolo&#269;ene naloge ali dejavnosti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+stroj, orodje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The apparatus of an organization
+</seg>
+sta
+ustroj in metoda delovanja tiste organizacije.
+</def>
+<cit type="translationEquivalent">
+<quote>
+organiziranost, sistem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the whole apparatus of the welfare state.
+</quote>
+</seg>
+</sense>
+</entry>

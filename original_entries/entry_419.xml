@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+although
+</orth>
+<form type="variant">
+<pron>
+/O:lD*@*U/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+although
+</seg>
+za&#269;nemo odvisni stavek;
+v njem navedemo trditev, zaradi katere je glavni stavek videti presenetljiv.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;eprav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Although he was late he stopped to buy a sandwich.
+</quote>
+<quote>
+Gretchen kept her coat on, although it was warm in the room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+although
+</seg>
+za&#269;nemo tudi odvisni
+stavek, ki pogosto vsebuje nikalnico
+<seg type="lemma">
+not
+</seg>
+in spreminja
+pomen glavnega stavka ter popravi zgre&#353;en vtis, ki bi ga morda lahko dobili.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljub temu, vendar (pa)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have a lot of my grandfather's features, although I'm not so tall as he
+was.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+await
+</orth>
+<form type="variant">
+<pron>
+/@w*e*It/
+</pron>
+</form>
+<form type="inflected">
+awaits, awaiting, awaited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To await someone or something
+</seg>
+pomeni, da
+nekoga ali nekaj &#269;akamo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&#269;akovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I returned to the States to find the FBI awaiting me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+awaits someone
+</seg>
+se bo &#269;loveku
+tisto v prihodnosti zgodilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the adventures that awaited him.
+</quote>
+</seg>
+</sense>
+</entry>

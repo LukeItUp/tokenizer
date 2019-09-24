@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acoustic
+</orth>
+<form type="variant">
+<pron>
+/@k*u*:stIk/
+</pron>
+</form>
+<form type="inflected">
+acoustics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Acoustic
+</seg>
+pomeni tak, ki je povezan z
+zvokom ali sluhom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+akusti&#269;en, slu&#353;en, zvo&#269;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Acoustic contact had been made.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The acoustics of a room
+</seg>
+so strukturne
+lastnosti neke sobe, ki dolo&#269;ajo, kako dobro v njej sli&#353;imo glasbo ali govor.
+</def>
+<cit type="translationEquivalent">
+<quote>
+akustika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The theatre was large, with good acoustics.
+</quote>
+</seg>
+</sense>
+</entry>

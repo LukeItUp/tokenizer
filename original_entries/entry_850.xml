@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attest
+</orth>
+<form type="variant">
+<pron>
+/@3t*est/
+</pron>
+</form>
+<form type="inflected">
+attests, attesting, attested.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attest something
+</seg>
+ali
+<seg type="lemma">
+to attest to something
+</seg>
+pomeni pokazati, da je nekaj res;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dokazati, potrditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The perfection of their design is attested by the fact that they survived
+for thousands of years.
+</quote>
+<quote>
+Historic documents attest to the truth of this.
+</quote>
+</seg>
+</sense>
+</entry>

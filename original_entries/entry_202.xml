@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+admirer
+</orth>
+<form type="variant">
+<pron>
+/@3dm*a*I@0r@/
+</pron>
+</form>
+<form type="inflected">
+admirers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An admirer
+</seg>
+je mo&#353;ki, ki se mu zdi dolo&#269;ena
+&#382;enska privla&#269;na.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obo&#382;evalec, ob&#269;udovalec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+an admirer of someone
+</seg>
+ima
+tistega &#269;loveka rad in ceni njega ali njegovo delo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&#269;udovalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am not myself an admirer of Hogarth.
+</quote>
+</seg>
+</sense>
+</entry>

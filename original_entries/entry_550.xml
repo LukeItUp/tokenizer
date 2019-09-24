@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+another
+</orth>
+<form type="variant">
+<pron>
+/@n*VD@/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+DET
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Another
+</seg>
+pomeni dodaten.
+</def>
+<cit type="translationEquivalent">
+<quote>
+drug, &#353;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We walked another hundred metres.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+DET
+<seg>
+or
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Another
+</seg>
+lahko pomeni tudi druga&#269;no stvar
+ali &#269;loveka od tistega, ki smo ga pravkar omenili.
+</def>
+<cit type="translationEquivalent">
+<quote>
+drug
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Parents say one thing and do another.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+one another
+</seg>
+povemo, da vsak
+&#269;lan skupine po&#269;ne nekaj drugim &#269;lanom skupine ali zanje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+drug drugega, drug drugemu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Members usually meet in one another's homes.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

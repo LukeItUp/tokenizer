@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+all right;
+</orth>
+<form type="variant">
+pi&#353;emo tudi
+<orth>
+alright.
+</orth>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+or
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+all right
+</seg>
+je zadovoljivo ali
+sprejemljivo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v redu, prav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+"Do you like this champagne?"&#8212;"It's all right."
+</quote>
+<quote>
+He's getting on all right.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+all right
+</seg>
+je zdrav,
+nepo&#353;kodovan ali na varnem.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v redu, dobro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Someone should see if she's all right.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz
+<seg type="lemma">
+"all right"
+</seg>
+uporabimo, kadar v nekaj
+privolimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prav, v redu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+"Can you help?"&#8212;"All right. What do you want me to do?"
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<seg type="lemma">
+All right?
+</seg>
+</seg>
+re&#269;emo &#269;loveku, kadar &#382;elimo preveriti, ali je razumel tisto, kar smo
+pravkar povedali.
+</def>
+<cit type="translationEquivalent">
+<quote>
+Prav? Razume&#353;?
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you feel dizzy again put your head in your hands, all right?
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

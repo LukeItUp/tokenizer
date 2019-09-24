@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amuse
+</orth>
+<form type="variant">
+<pron>
+/@3mj*u*:z/
+</pron>
+</form>
+<form type="inflected">
+amuses, amusing, amused.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+amuses someone
+</seg>
+se &#269;lovek
+tistemu &#382;eli nasmehniti ali zasmejati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He laughed as if the idea amused him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+amused
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was highly amused by a comment Shaw made.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+<seg>
+or
+</seg>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To amuse oneself
+</seg>
+ali
+<seg type="lemma">
+to
+amuse someone
+</seg>
+pomeni po&#269;eti nekaj, da nam ali drugemu &#269;loveku &#269;as mine in
+ni dolg&#269;as.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabavati (se), kratko&#269;asiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sam amused himself by throwing branches into the fire.
+</quote>
+</seg>
+</sense>
+</entry>

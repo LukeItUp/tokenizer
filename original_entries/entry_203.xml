@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+admission
+</orth>
+<form type="variant">
+<pron>
+/@3dm*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+admissions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Admission
+</seg>
+je dovoljenje za vstop v prostor
+ali organizacijo, izdano osebi ali skupini oseb.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dostop, vstop
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No admission allowed after 10 pm.
+</quote>
+<quote>
+His Act tightened up the admission of immigrants into Britain.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The admission fee
+</seg>
+je znesek, ki ga pla&#269;amo
+za vstop.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vstopnina
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An admission
+</seg>
+je izjava o resni&#269;nosti
+ne&#269;esa slabega, neprijetnega ali sramotnega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He submitted his resignation, together with an admission of his
+guilt.
+</quote>
+</seg>
+</sense>
+</entry>

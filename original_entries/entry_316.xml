@@ -1,0 +1,207 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aim
+</orth>
+<form type="variant">
+<pron>
+/*e*Im/
+</pron>
+</form>
+<form type="inflected">
+aims, aiming, aimed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To aim a weapon or object at something
+</seg>
+pomeni naperiti oro&#382;je ali predmet v neki cilj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+meriti kam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Roger picked up a stone, aimed it, and threw it at Henry.
+</quote>
+<quote>
+He aimed at the far wall and squeezed the trigger.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He leaned against a tree to steady his aim.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take aim at someone or something
+</seg>
+pomeni z oro&#382;jem ali predmetom pokazati na nekoga ali nekaj v
+pripravljenosti, da bomo streljali ali vrgli tisti predmet.
+</def>
+<cit type="translationEquivalent">
+<quote>
+meriti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To aim at something
+</seg>
+ali
+<seg type="lemma">
+to aim to do something
+</seg>
+pomeni na&#269;rtovati ali upati, da bomo dosegli svoj
+cilj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadevati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are aiming at a higher production level.
+</quote>
+<quote>
+A good solid job is the thing to aim for.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PASSIVE VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"at"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je dejanje ali na&#269;rt
+<seg type="lemma">
+aimed at achieving
+something
+</seg>
+z njim nameravamo nekaj uresni&#269;iti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+namenjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...policies aimed at securing mass support.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An aim
+</seg>
+je tisto, kar &#382;elimo dose&#269;i z nekim
+dejanjem ali na&#269;rtom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+cilj, namen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is our aim to set up a workshop.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+<seg type="prep">
+"at"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je na&#353;e dejanje
+<seg type="lemma">
+aimed at a particular
+person
+</seg>
+ho&#269;emo z njim vplivati na dolo&#269;eno osebo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+namenjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This anti-smoking campaign is mainly aimed at young teenagers.
+</quote>
+</seg>
+</sense>
+</entry>

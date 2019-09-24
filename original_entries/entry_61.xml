@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abundance
+</orth>
+<form type="variant">
+<pron>
+/@b*Vnd@ns/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An abundance of something
+</seg>
+pomeni veliko
+koli&#269;ino ne&#269;esa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obilje, obilica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an abundance of evidence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+in abundance
+</seg>
+je
+koli&#269;ina tiste stvari velika.
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pretek, v obilici
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was grass in abundance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

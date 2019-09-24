@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+achievement
+</orth>
+<form type="variant">
+<pron>
+/@3tS*i*:vm@2nt/
+</pron>
+</form>
+<form type="inflected">
+achievements.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An achievement
+</seg>
+je nekaj, kar se je nekomu
+posre&#269;ilo narediti, posebej &#269;e je moral v to vlo&#382;iti veliko truda.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&#382;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was an astonishing achievement.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Achievement
+</seg>
+je postopek, s katerim nekaj
+dose&#382;emo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+uspeh, dose&#382;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This fact did not lessen her sense of achievement.
+</quote>
+</seg>
+</sense>
+</entry>

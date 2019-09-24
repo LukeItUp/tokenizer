@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+announcement
+</orth>
+<form type="variant">
+<pron>
+/@3n*a*Unsm@2nt/
+</pron>
+</form>
+<form type="inflected">
+announcements.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An announcement
+</seg>
+je javna izjava, ki
+vsebuje podatke o ne&#269;em, kar se je ali se bo zgodilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+objava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Government announcement gave details of small increases in
+taxes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The announcement of something
+</seg>
+je
+obve&#353;&#269;anje ljudi o neki stvari.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvestilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the events which follow the announcement of your resignation.
+</quote>
+</seg>
+</sense>
+</entry>

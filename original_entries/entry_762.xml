@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aspect
+</orth>
+<form type="variant">
+<pron>
+/*#ae;spekt/
+</pron>
+</form>
+<form type="inflected">
+aspects.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An aspect of something
+</seg>
+je del narave ali
+zna&#269;aja ne&#269;esa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vidik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The most terrifying aspect of nuclear bombing is radiation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Soba ali okno, ki ima dolo&#269;eni
+<seg type="lemma">
+aspect
+</seg>
+je
+obrnjeno v tisto smer;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an office with a south-west aspect.
+</quote>
+</seg>
+</sense>
+</entry>

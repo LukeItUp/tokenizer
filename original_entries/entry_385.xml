@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+allot
+</orth>
+<form type="variant">
+<pron>
+/@3l*Qt/
+</pron>
+</form>
+<form type="inflected">
+allots, allotting, allotted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+allotted to someone
+</seg>
+je
+nekomu dano kot dele&#382;.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmeriti, dolo&#269;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All seats in the Public Gallery are allotted in advance by ticket.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+allotted
+</orth>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...our allotted sum of money.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

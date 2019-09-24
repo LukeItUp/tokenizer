@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alter
+</orth>
+<form type="variant">
+<pron>
+/*Qlt@/
+</pron>
+</form>
+<form type="inflected">
+alters, altering, altered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+alters
+</seg>
+ali &#269;e &#269;lovek
+<seg type="lemma">
+alters something
+</seg>
+se tisto predruga&#269;i.
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremeniti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The weather could alter violently.
+</quote>
+<quote>
+America must radically alter its economic policy.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+alteration
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*Qlt@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It is not possible to make major alterations to existing
+arrangements.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

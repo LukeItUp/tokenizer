@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ambush
+</orth>
+<form type="variant">
+<pron>
+/*#ae;mbUS/
+</pron>
+</form>
+<form type="inflected">
+ambushes, ambushing, ambushed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje
+<seg type="lemma">
+ambush their enemies
+</seg>
+se
+skrijejo, po&#269;akajo svoje sovra&#382;nike in &#353;ele potem napadejo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti zasedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Weyler's troops successfully ambushed a rebel force.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A whole battalion got caught in an ambush.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+avalanche
+</orth>
+<form type="variant">
+<pron>
+/*#ae;v@lA:ntS/
+</pron>
+</form>
+<form type="inflected">
+avalanches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An avalanche
+</seg>
+je velika gmota snega ali
+kamenja, ki zdrsne po gorskem pobo&#269;ju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+plaz
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An avalanche of something
+</seg>
+je velika
+koli&#269;ina ne&#269;esa, kar pride ali se zgodi ob istem &#269;asu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+plaz, poplava, ploha
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an avalanche of tourists.
+</quote>
+</seg>
+</sense>
+</entry>

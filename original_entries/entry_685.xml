@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aren't
+</orth>
+<form type="variant">
+<pron>
+/*A*:nt/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Aren't
+</seg>
+navadno izgovorimo namesto
+<seg type="lemma">
+are not
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nisi, nismo, niste, niso
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We aren't ready.
+</quote>
+<quote>
+They are coming, aren't they?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+Aren't
+</seg>
+uporabljamo v vpra&#353;alni obliki
+nikalnic namesto
+<seg type="lemma">
+am not
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ali nisem, mar nisem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm right, aren't I?
+</quote>
+</seg>
+</sense>
+</entry>

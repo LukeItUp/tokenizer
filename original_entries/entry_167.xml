@@ -1,0 +1,224 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+add
+</orth>
+<form type="variant">
+<pron>
+/*#ae;d/
+</pron>
+</form>
+<form type="inflected">
+adds, adding, added.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To add one thing to another
+</seg>
+pomeni dati
+eno stvar k drugi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She added a tree to the picture.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To add numbers or amounts
+</seg>
+pomeni
+izra&#269;unati vsoto &#353;tevil ali koli&#269;in.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&#353;teti, se&#353;teti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ,
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+adds to something else
+</seg>
+povzro&#269;i, da je druga stvar po stopnji ali koli&#269;ini ve&#269;ja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&#269;ati, dodati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is given answers that only add to his confusion.
+</quote>
+<quote>
+This process adds an extra &#163;3 to the cost.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+added
+</orth>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There are added complications.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek med govorjenjem
+<seg type="lemma">
+adds something
+</seg>
+pove &#353;e nekaj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodati, pristaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He added that the fee would be &#163;100.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+add up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To add up several numbers
+</seg>
+pomeni
+izra&#269;unati vsoto ve&#269; &#353;tevil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&#353;teti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+&#268;e dejstva ali dogodki
+<seg type="lemma">
+add up
+</seg>
+zaradi njih dojamemo pravi zna&#269;aj okoli&#353;&#269;in.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeljati do sklepa, iziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It all added up. I became aware that Halliday was the thief.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+add up to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+&#268;e zneski
+<seg type="lemma">
+add up to a particular
+total
+</seg>
+pomeni, da jih se&#353;tejemo in dobimo rezultat.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&#353;teti, pripeljati do, skupaj &#353;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This adds up to 75,000 miles of new streets.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

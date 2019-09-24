@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attendance
+</orth>
+<form type="variant">
+<pron>
+/@3t*end@ns/
+</pron>
+</form>
+<form type="inflected">
+attendances.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The attendance at a meeting
+</seg>
+je &#353;tevilo
+ljudi, ki so navzo&#269;i na sestanku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+udele&#382;ba, navzo&#269;i
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's attendance at an institution
+</seg>
+pomeni,
+da tisti &#269;lovek redno hodi v dolo&#269;eno ustanovo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was allowed to resume her attendance at the High School.
+</quote>
+</seg>
+</sense>
+</entry>

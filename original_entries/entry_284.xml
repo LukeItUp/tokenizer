@@ -1,0 +1,222 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+age
+</orth>
+<form type="variant">
+<pron>
+/*e*IdZ/
+</pron>
+</form>
+<form type="inflected">
+ages, ageing
+<seg>
+ali
+</seg>
+<form>
+aging,
+</form>
+aged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's age
+</seg>
+je &#353;tevilo let, ki jih je &#269;lovek
+pre&#382;ivel.
+</def>
+<cit type="translationEquivalent">
+<quote>
+starost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is eighty years of age.
+</quote>
+<quote>
+He died at the age of forty.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Age
+</seg>
+je &#382;ivljenjsko obdobje, ko &#269;lovek
+postane star.
+</def>
+<cit type="translationEquivalent">
+<quote>
+starost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her age and frailty are giving him cause for concern.
+</quote>
+<quote>
+...medals stained with age.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo
+<seg type="lemma">
+ages
+</seg>
+postane ali je videti
+precej starej&#353;i kot prej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+postarati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was dismayed to see how much he had aged.
+</quote>
+<quote>
+The strain of looking after her had aged him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ageing
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an ageing film star.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An age
+</seg>
+je zgodovinsko obdobje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+doba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the great age of Greek sport.
+</quote>
+<quote>
+...a detailed study of woman's role throughout the ages.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+<seg>
+or
+</seg>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+an age
+</seg>
+ali
+<seg type="variant">
+ages
+</seg>
+ozna&#269;imo zelo dolgo obdobje;
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+(cela) ve&#269;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took an age to dress.
+</quote>
+<quote>
+I've known him for ages.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&#268;lovek, ki je
+<seg type="lemma">
+under age
+</seg>
+po zakonu ni
+dovolj star za kaj, na primer za kupovanje alkoholnih pija&#269;.
+</def>
+<cit type="translationEquivalent">
+<quote>
+mladoleten
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+comes of age
+</seg>
+po zakonu
+postane odrasel. V Veliki Britaniji mladi postanejo odrasli pri osemnajstih
+letih.
+</def>
+<cit type="translationEquivalent">
+<quote>
+postati polnoleten
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

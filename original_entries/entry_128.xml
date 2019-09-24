@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acquaintance
+</orth>
+<form type="variant">
+<pron>
+/@kw*e*Int@ns/
+</pron>
+</form>
+<form type="inflected">
+acquaintances.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An acquaintance
+</seg>
+je oseba, ki smo jo &#382;e
+sre&#269;ali, vendar je ne poznamo dobro.
+</def>
+<cit type="translationEquivalent">
+<quote>
+znanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My cousin is an acquaintance of Lord Northcliffe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's acquaintance with a subject
+</seg>
+je
+&#269;lovekovo poznavanje neke snovi ali izku&#353;enost z njo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznanjenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...her acquaintance with modern art.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+makes someone's acquaintance
+</seg>
+se prvi&#269; sre&#269;a z neko osebo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznaniti se z nekom
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a nodding or passing acquaintance
+with someone
+</seg>
+pomeni, da osebo sicer poznamo, vendar ne preve&#269; dobro.
+</def>
+<cit type="translationEquivalent">
+<quote>
+be&#382;no se poznati z nekom
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

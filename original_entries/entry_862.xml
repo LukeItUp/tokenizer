@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+auction
+</orth>
+<form type="variant">
+<pron>
+/*O*:kS@0n/
+</pron>
+</form>
+<form type="inflected">
+auctions, auctioning, auctioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An auction
+</seg>
+je javna prodaja predmetov
+osebam, ki ponudijo najvi&#353;jo ceno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dra&#382;ba, javna razprodaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The big house was sold by auction.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To auction something
+</seg>
+pomeni nekaj prodati
+na dra&#382;bi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+licitirati, ponuditi v prodajo na dra&#382;bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are going to auction the pictures at the end of the month.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+auction off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To auction off a number of things
+</seg>
+pomeni, da se vrste predmetov znebimo s prodajo na dra&#382;bi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razprodati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+afford
+</orth>
+<form type="variant">
+<pron>
+/@f*O*:d/
+</pron>
+</form>
+<form type="inflected">
+affords, affording, afforded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+can afford something
+</seg>
+zmore
+tisto pla&#269;ati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+privo&#353;&#269;iti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...families who can afford cars.
+</quote>
+<quote>
+I can't afford to rent this flat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+cannot afford to allow something to
+happen
+</seg>
+pomeni, da bi bil tisti dogodek zanj &#353;kodljiv ali sramoten.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne smeti privo&#353;&#269;iti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can't afford another scandal.
+</quote>
+<quote>
+He could not afford to be associated with them.
+</quote>
+</seg>
+</sense>
+</entry>

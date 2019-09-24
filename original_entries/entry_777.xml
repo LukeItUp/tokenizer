@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assent
+</orth>
+<form type="variant">
+<pron>
+/@3s*ent/
+</pron>
+</form>
+<form type="inflected">
+assents, assenting, assented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give one's assent to something
+</seg>
+kar je
+bilo predlagano, pomeni v tisto privoliti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sogla&#353;ati, strinjati se
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assent to something
+</seg>
+pomeni, da se z
+ne&#269;im strinjamo;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sogla&#353;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They all assented to the proposition.
+</quote>
+</seg>
+</sense>
+</entry>

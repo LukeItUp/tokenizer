@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attribute,
+</orth>
+<form type="inflected">
+attributes, attributing, attributed;
+</form>
+<form type="variant">
+glagol izgovarjamo
+<pron>
+/@3tr*Ibju:t/
+</pron>
+samostalnik pa
+<pron>
+/*#ae;trIbju:t/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attribute something to an event or
+situation
+</seg>
+pomeni, da mislimo, da je vzrok za tako stanje tisti dogodek
+ali polo&#382;aj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Economists attributed the lack of progress to poor cooperation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attribute a remark, a piece of writing, or a
+work to someone
+</seg>
+pomeni povedati, da je nekdo tisto pripombo, besedilo ali
+umetnino izrekel, napisal ali izdelal.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripisati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attribute a particular quality or feature to
+someone or something
+</seg>
+pomeni misliti, da ima tisti &#269;lovek ali stvar
+dolo&#269;eno lastnost ali zna&#269;ilnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Here we are attributing human feelings to animals.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+attribution
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;trIbj*u*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the attribution of mysterious powers to these men.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An attribute
+</seg>
+je zna&#269;ilnost ali oznaka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lastnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...her physical attributes.
+</quote>
+</seg>
+</sense>
+</entry>

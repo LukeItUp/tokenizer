@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attack
+</orth>
+<form type="variant">
+<pron>
+/@t*#ae;k/
+</pron>
+</form>
+<form type="inflected">
+attacks, attacking, attacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attack someone
+</seg>
+pomeni, da poskusimo
+tistega &#269;loveka raniti z uporabo telesnega nasilja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The court decided that he was insane when he attacked the women.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a worrying increase in attacks on old people.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attack a person, belief, or idea
+</seg>
+pomeni
+mo&#269;no grajati neko osebo, prepri&#269;anje ali idejo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The senator attacked the press for misleading the public.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...attacks on various aspects of apartheid.
+</quote>
+<quote>
+Burt's work came under violent attack.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attack a job or a problem
+</seg>
+pomeni, da se
+za&#269;nemo z nekim delom ali problemom intenzivno ukvarjati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lotiti se
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#353;portniki
+<seg type="lemma">
+attack
+</seg>
+posku&#353;ajo zabiti
+gol, na primer pri nogometu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti, iti v napad
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An attack of an illness
+</seg>
+je kraj&#353;e obdobje,
+ko smo zelo bolni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an attack of smallpox.
+</quote>
+</seg>
+</sense>
+</entry>

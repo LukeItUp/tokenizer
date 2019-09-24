@@ -1,0 +1,202 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+advance
+</orth>
+<form type="variant">
+<pron>
+/@3dv*A*:ns/
+</pron>
+</form>
+<form type="inflected">
+advances, advancing, advanced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advance
+</seg>
+pomeni, da se nekaj giblje
+naprej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napredovati, iti naprej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She advanced on him, shouting and waving her ticket.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+advancing
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...rows of advancing enemy tanks.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advance in something
+</seg>
+pomeni razvijati
+se pri tistem, kar po&#269;nemo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napredovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This student has advanced in reading and writing.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...radical advances in computer design.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advance someone a sum of money
+</seg>
+pomeni
+tistemu &#269;loveku izro&#269;iti vsoto denarja vnaprej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati predujem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Axel advanced him the money for a suit.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An advance
+</seg>
+je denar, ki ga nekomu posodimo
+ali damo vnaprej.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predujem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a twenty pound advance.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Rezervacija ali svarilo, ki sta
+<seg type="lemma">
+advance
+</seg>
+sta dana pred dogodkom samim.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vnaprej&#353;nji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was no advance warning of the President's departure.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something in advance
+</seg>
+pomeni tisto
+opraviti pred dolo&#269;enim datumom ali dogodkom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vnaprej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You should book well in advance, preferably six weeks before.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

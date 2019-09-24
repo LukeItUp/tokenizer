@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+awake
+</orth>
+<form type="variant">
+<pron>
+/@w*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+awakes, awaking, awoke
+</form>
+<form type="variant">
+<pron>
+/@w*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+awoken
+</form>
+<form type="variant">
+<pron>
+/@w*@*Uk@0n/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+awake
+</seg>
+ne spi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+buden, zbujen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lay awake all night.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+awakes
+</seg>
+ali kadar nekaj
+<seg type="lemma">
+awakes someone
+</seg>
+se tisti &#269;lovek zbudi;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prebuditi, predramiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I awoke from a deep sleep.
+</quote>
+</seg>
+</sense>
+</entry>

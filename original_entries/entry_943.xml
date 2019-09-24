@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+axis
+</orth>
+<form type="variant">
+<pron>
+/*#ae;ksIs/
+</pron>
+</form>
+<form type="inflected">
+axes
+</form>
+<form type="variant">
+<pron>
+/*#ae;ksi:z/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An axis
+</seg>
+je umi&#353;ljena &#269;rta, ki te&#269;e skozi
+sredino ne&#269;esa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+os
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The earth's axis is tilted at an angle of about 23&#176;.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An axis of a graph
+</seg>
+je ena od obeh &#269;rt na
+zemljevidu ali grafikonu, na kateri so ozna&#269;ene mere ali merske enote.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navpi&#269;na/vodoravna koordinata
+</quote>
+</cit>
+</sense>
+</entry>

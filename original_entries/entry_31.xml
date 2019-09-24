@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abort
+</orth>
+<form type="variant">
+<pron>
+/@b*O*:t/
+</pron>
+</form>
+<form type="inflected">
+aborts, aborting, aborted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nose&#269;nost
+<seg type="lemma">
+aborted
+</seg>
+ali &#269;e &#382;enska
+<seg type="lemma">
+aborts
+</seg>
+se njena nose&#269;nost umetno prekine in plod umre.
+</def>
+<cit type="translationEquivalent">
+<quote>
+splaviti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To abort a process, plan or activity
+</seg>
+pomeni prekiniti tisti postopek, na&#269;rt ali dejavnost, preden so kon&#269;ani.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaviti, prekiniti
+</quote>
+</cit>
+</sense>
+</entry>

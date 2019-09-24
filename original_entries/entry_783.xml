@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assign
+</orth>
+<form type="variant">
+<pron>
+/@s*a*In/
+</pron>
+</form>
+<form type="inflected">
+assigns, assigning, assigned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assign a task or function to someone
+</seg>
+pomeni nekomu dati nalogo ali funkcijo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodeliti, dolo&#269;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She kept calling him up to assign some new task to him.
+</quote>
+<quote>
+Mother and father play out the roles assigned to them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be assigned to a place or group
+</seg>
+pomeni,
+da nas po&#353;ljejo delat v dolo&#269;en kraj ali skupino.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was assigned to the men's wards.
+</quote>
+</seg>
+</sense>
+</entry>

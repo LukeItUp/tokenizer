@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+asset
+</orth>
+<form type="variant">
+<pron>
+/*#ae;set/
+</pron>
+</form>
+<form type="inflected">
+assets.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, kar &#269;lovek ima,
+<seg type="lemma">
+an asset
+</seg>
+je zanj koristno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a great asset to the committee.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The assets of a company or a person
+</seg>
+je vse
+premo&#382;enje nekega podjetja ali osebe.
+</def>
+<cit type="translationEquivalent">
+<quote>
+aktiva
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+artist
+</orth>
+<form type="variant">
+<pron>
+/*A*:tIst/
+</pron>
+</form>
+<form type="inflected">
+artists.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An artist
+</seg>
+je &#269;lovek, ki ustvarja risbe,
+slike ali kak&#353;na druga&#269;na umetni&#353;ka dela.
+</def>
+<cit type="translationEquivalent">
+<quote>
+umetnik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz
+<seg type="lemma">
+an artist
+</seg>
+uporabljamo tudi za
+glasbenike, igralce, plesalce in druge nastopajo&#269;e.
+</def>
+<cit type="translationEquivalent">
+<quote>
+umetnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has acted with great artists like Edith Evans.
+</quote>
+</seg>
+</sense>
+</entry>

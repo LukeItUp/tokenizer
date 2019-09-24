@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p30_s32458" id="p30_w791" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="299.422" base="305.83" width="33.7323" height="8.514">appetite</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p30_s32459" id="p30_w792" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="289.87" y="300.668" base="305.83" width="16.3101" height="6.844">/æp6</TOKEN>
+<TOKEN sid="p30_s32460" id="p30_w793" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="306.51" y="300.03" base="303.44" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p30_s32461" id="p30_w794" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="309.14" y="300.668" base="305.83" width="17.2916" height="6.844">taËt/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p30_s32462" id="p30_w795" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="329.63" y="300.49" base="305.83" width="31.1189" height="7.08">appetites.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p30_s32464" id="p30_w797" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="371.83" y="301.914" base="305.83" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p30_s32465" id="p30_w798" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="393.004" y="301.914" base="305.83" width="4.12335" height="5.192">N</TOKEN>
+<seg>
+<TOKEN sid="p30_s32466" id="p30_w799" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="399.332" y="301.914" base="305.83" width="4.94901" height="5.192">or</TOKEN>
+</seg>
+<TOKEN sid="p30_s32467" id="p30_w800" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="406.486" y="301.914" base="305.83" width="27.2141" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p30_s32468" id="p30_w801" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="435.905" y="301.914" base="305.83" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p30_s32469" id="p30_w802" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="309.214" base="314.91" width="18.527" height="7.552">One's</TOKEN>
+<TOKEN sid="p30_s32470" id="p30_w803" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="278.986" y="309.214" base="314.91" width="27.9907" height="7.552">appetite</TOKEN>
+</seg>
+<TOKEN sid="p30_s32471" id="p30_w804" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.84" y="309.214" base="314.91" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p30_s32472" id="p30_w805" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="316.687" y="309.214" base="314.91" width="34.007" height="7.552">~lovekova</TOKEN>
+<TOKEN sid="p30_s32473" id="p30_w806" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.543" y="309.214" base="314.91" width="15.9955" height="7.552">`elja</TOKEN>
+<TOKEN sid="p30_s32474" id="p30_w807" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.389" y="309.214" base="314.91" width="8.40168" height="7.552">po</TOKEN>
+<TOKEN sid="p30_s32475" id="p30_w808" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="380.64" y="309.214" base="314.91" width="14.7931" height="7.552">jedi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p30_s32477" id="p30_w810" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="403.37" y="309.214" base="314.91" width="12.7994" height="7.552">tek,</TOKEN>
+<TOKEN sid="p30_s32478" id="p30_w811" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.02" y="309.214" base="314.91" width="21.9989" height="7.552">apetit;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p30_s32479" id="p30_w812" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="318.294" base="323.99" width="10.3954" height="7.552">All</TOKEN>
+<TOKEN sid="p30_s32480" id="p30_w813" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.475" y="318.294" base="323.99" width="14.0018" height="7.552">that</TOKEN>
+<TOKEN sid="p30_s32481" id="p30_w814" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.948" y="318.294" base="323.99" width="17.5946" height="7.552">work</TOKEN>
+<TOKEN sid="p30_s32482" id="p30_w815" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.012" y="318.294" base="323.99" width="11.5978" height="7.552">has</TOKEN>
+<TOKEN sid="p30_s32483" id="p30_w816" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="322.081" y="318.294" base="323.99" width="18.4003" height="7.552">given</TOKEN>
+<TOKEN sid="p30_s32484" id="p30_w817" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="342.951" y="318.294" base="323.99" width="9.99936" height="7.552">me</TOKEN>
+<TOKEN sid="p30_s32485" id="p30_w818" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="355.421" y="318.294" base="323.99" width="8.40168" height="7.552">an</TOKEN>
+<TOKEN sid="p30_s32486" id="p30_w819" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.292" y="318.294" base="323.99" width="29.9966" height="7.552">appetite.</TOKEN>
+</quote>
+<quote>
+<TOKEN sid="p30_s32487" id="p30_w820" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.719" y="318.294" base="323.99" width="17.1914" height="7.552">…his</TOKEN>
+<TOKEN sid="p30_s32488" id="p30_w821" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.38" y="318.294" base="323.99" width="12.7922" height="7.552">loss</TOKEN>
+<TOKEN sid="p30_s32489" id="p30_w822" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.642" y="318.294" base="323.99" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p30_s32490" id="p30_w823" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="327.374" base="333.07" width="30.0024" height="7.552">appetite.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p30_s32492" id="p30_w825" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="297.4" y="329.154" base="333.07" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p30_s32493" id="p30_w826" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="317.787" y="329.154" base="333.07" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p30_s32494" id="p30_w827" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.97" y="327.374" base="333.07" width="8.1432" height="7.552">To</TOKEN>
+<TOKEN sid="p30_s32495" id="p30_w828" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.173" y="327.374" base="333.07" width="16.0034" height="7.552">have</TOKEN>
+<TOKEN sid="p30_s32496" id="p30_w829" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.236" y="327.374" base="333.07" width="8.40168" height="7.552">an</TOKEN>
+<TOKEN sid="p30_s32497" id="p30_w830" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.698" y="327.374" base="333.07" width="27.9958" height="7.552">appetite</TOKEN>
+<TOKEN sid="p30_s32498" id="p30_w831" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="392.754" y="327.374" base="333.07" width="9.99936" height="7.552">for</TOKEN>
+<TOKEN sid="p30_s32499" id="p30_w832" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.813" y="327.374" base="333.07" width="35.195" height="7.552">something</TOKEN>
+</seg>
+<TOKEN sid="p30_s32500" id="p30_w833" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="336.454" base="342.15" width="27.1973" height="7.552">pomeni,</TOKEN>
+<TOKEN sid="p30_s32501" id="p30_w834" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.557" y="336.454" base="342.15" width="8.40168" height="7.552">da</TOKEN>
+<TOKEN sid="p30_s32502" id="p30_w835" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="299.708" y="336.454" base="342.15" width="5.59368" height="7.552">si</TOKEN>
+<TOKEN sid="p30_s32503" id="p30_w836" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.052" y="336.454" base="342.15" width="15.1963" height="7.552">tisto</TOKEN>
+<TOKEN sid="p30_s32504" id="p30_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.998" y="336.454" base="342.15" width="22.4035" height="7.552">mo~no</TOKEN>
+<TOKEN sid="p30_s32505" id="p30_w838" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="351.151" y="336.454" base="342.15" width="24.3965" height="7.552">`elimo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p30_s32507" id="p30_w840" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="385.29" y="336.454" base="342.15" width="33.9919" height="7.552">po`elenje,</TOKEN>
+<TOKEN sid="p30_s32508" id="p30_w841" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.032" y="336.454" base="342.15" width="17.9964" height="7.552">`elja;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p30_s32509" id="p30_w842" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="345.524" base="351.22" width="17.9978" height="7.552">…the</TOKEN>
+<TOKEN sid="p30_s32510" id="p30_w843" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="278.608" y="345.524" base="351.22" width="27.9958" height="7.552">appetite</TOKEN>
+<TOKEN sid="p30_s32511" id="p30_w844" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.604" y="345.524" base="351.22" width="9.59616" height="7.552">for</TOKEN>
+<TOKEN sid="p30_s32512" id="p30_w845" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.2" y="345.524" base="351.22" width="22.0752" height="7.552">power.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

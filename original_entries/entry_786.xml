@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assimilate
+</orth>
+<form type="variant">
+<pron>
+/@s*ImIleIt/
+</pron>
+</form>
+<form type="inflected">
+assimilates, assimilating, assimilated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To assimilate ideas, customs, or methods
+</seg>
+pomeni nau&#269;iti se dolo&#269;enih idej, navad ali metod in jih uporabljati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvojiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was quick to assimilate new ideas.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assimilation
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@3s*ImIl*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the rapid assimilation of new techniques in industry.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so priseljenci
+<seg type="lemma">
+assimilated into a
+community
+</seg>
+postanejo sestavni del skupnosti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+asimilirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+assimilation
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the assimilation of the new arrivals.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

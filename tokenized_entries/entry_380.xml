@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p20_s21247" id="p20_w293" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="390.212" base="396.62" width="19.0084" height="8.514">alley</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p20_s21248" id="p20_w294" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="75.16" y="391.458" base="396.62" width="13.3896" height="6.844">/æli</TOKEN>
+<TOKEN sid="p20_s21249" id="p20_w295" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="88.92" y="390.81" base="394.22" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p20_s21250" id="p20_w296" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.56" y="391.458" base="396.62" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p20_s21251" id="p20_w297" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="98.09" y="391.28" base="396.62" width="20.2595" height="7.08">alleys.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p20_s21252" id="p20_w298" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="119.98" y="392.704" base="396.62" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p20_s21253" id="p20_w299" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="140.077" y="392.704" base="396.62" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p20_s21254" id="p20_w300" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.84" y="390.924" base="396.62" width="10.0001" height="7.552">An</TOKEN>
+<TOKEN sid="p20_s21255" id="p20_w301" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.47" y="390.924" base="396.62" width="16.3987" height="7.552">alley</TOKEN>
+</seg>
+<TOKEN sid="p20_s21256" id="p20_w302" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.5" y="390.924" base="396.62" width="8.7912" height="7.552">ali</TOKEN>
+<seg type="variant">
+<TOKEN sid="p20_s21257" id="p20_w303" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.93" y="390.924" base="396.62" width="30.4006" height="7.552">alleyway</TOKEN>
+</seg>
+<TOKEN sid="p20_s21258" id="p20_w304" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.96" y="390.924" base="396.62" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p20_s21259" id="p20_w305" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="225.586" y="390.924" base="396.62" width="16.0034" height="7.552">ozka</TOKEN>
+<TOKEN sid="p20_s21260" id="p20_w306" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1794" y="399.994" base="405.69" width="11.2003" height="7.552">pot</TOKEN>
+<TOKEN sid="p20_s21261" id="p20_w307" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="73.3785" y="399.994" base="405.69" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p20_s21262" id="p20_w308" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="84.1727" y="399.994" base="405.69" width="18.792" height="7.552">ulica.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p20_s21264" id="p20_w310" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.21" y="399.994" base="405.69" width="25.8516" height="7.552">prehod,</TOKEN>
+<TOKEN sid="p20_s21265" id="p20_w311" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.06" y="399.994" base="405.69" width="22.7866" height="7.552">uli~ica</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

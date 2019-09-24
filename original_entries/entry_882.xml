@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+authenticate
+</orth>
+<form type="variant">
+<pron>
+/O:T*entIkeIt/
+</pron>
+</form>
+<form type="inflected">
+authenticates, authenticating, authenticated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To authenticate something
+</seg>
+pomeni, da tisto
+pregledamo in ugotovimo, ali je pristno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+overiti, dokazati pristnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These stories seem to be well authenticated.
+</quote>
+</seg>
+</sense>
+</entry>

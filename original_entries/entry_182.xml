@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adhesive
+</orth>
+<form type="variant">
+<pron>
+/@3dh*i*:sIv/
+</pron>
+</form>
+<form type="inflected">
+adhesives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An adhesive
+</seg>
+je snov, ki jo uporabljamo, da
+se predmeti sprimejo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lepilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Make sure you stick them on with the correct adhesive.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+adhesive
+</seg>
+se trdno prime drugega
+predmeta.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lepljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...adhesive plasters.
+</quote>
+</seg>
+</sense>
+</entry>

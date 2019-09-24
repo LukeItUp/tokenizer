@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+approximate,
+</orth>
+<form type="inflected">
+approximates, approximating, approximated;
+</form>
+<form type="variant">
+pridevnik izgovarjamo
+<pron>
+/@3pr*Qks@1m@1t/
+</pron>
+glagol pa
+<pron>
+/@3pr*Qks@1meIt/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#352;tevilo, &#269;as ali polo&#382;aj, ki je
+<seg type="lemma">
+approximate
+</seg>
+je blizu pravilnemu, vendar ni to&#269;en.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribli&#382;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She gave me some approximate figures.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+approximately
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We have approximately 40 pupils.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+approximates to something
+else
+</seg>
+je tistemu podobno, vendar ne enako.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pri)bli&#382;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...social conditions approximate those of the early thirties.
+</quote>
+<quote>
+...stories which vaguely approximated to the truth.
+</quote>
+</seg>
+</sense>
+</entry>

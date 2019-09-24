@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assess
+</orth>
+<form type="variant">
+<pron>
+/@3s*es/
+</pron>
+</form>
+<form type="inflected">
+assesses, assessing, assessed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+assesses a person, feeling, or
+situation
+</seg>
+razmisli o njih in si ustvari svojo sodbo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They meet monthly to assess the current political situation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assessment
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@3s*esm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the assessment of his academic progress.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+assesses an amount of money
+</seg>
+oceni vrednost ne&#269;esa ali dolo&#269;i vsoto denarja, ki bi jo bilo vredno za nekaj
+pla&#269;ati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked the house over and assessed its rough market value.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+assessment
+</orth>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...assessments made by the tax man.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

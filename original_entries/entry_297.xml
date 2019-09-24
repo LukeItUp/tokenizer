@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+agile
+</orth>
+<form type="variant">
+<pron>
+/*#ae;dZaIl/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+agile
+</seg>
+se zmore premikati s
+presenetljivo lahkoto in hitrostjo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+gib&#269;en, spreten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was as agile as a monkey.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+agility
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@dZ*IlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He leaped out of the car with surprising agility.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an agile mind
+</seg>
+pomeni hitro in
+pametno razmi&#353;ljati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti bistre glave
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+agility
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...tests of mental agility.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

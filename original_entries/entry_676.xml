@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+architect
+</orth>
+<form type="variant">
+<pron>
+/*A*:kItekt/
+</pron>
+</form>
+<form type="inflected">
+architects.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An architect
+</seg>
+je &#269;lovek, ki na&#269;rtuje
+stavbe.
+</def>
+<cit type="translationEquivalent">
+<quote>
+arhitekt, stavbenik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The architect of an idea or event
+</seg>
+je
+oseba, ki si je izmislila neko idejo ali dogodek ali poskrbela za nastanek zamisli
+ali dogodka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+idejni o&#269;e, za&#269;etnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was the real architect of the country's independence.
+</quote>
+</seg>
+</sense>
+</entry>

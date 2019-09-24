@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attach
+</orth>
+<form type="variant">
+<pron>
+/@t*#ae;tS/
+</pron>
+</form>
+<form type="inflected">
+attaches, attaching, attached.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attach something to an object
+</seg>
+pomeni
+tisto zdru&#382;iti ali pritrditi na neki predmet.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritrditi, privezati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be attached to an organization
+</seg>
+pomeni
+delati za tisto organizacijo, navadno kraj&#353;i &#269;as.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodeliti, dolo&#269;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hospital officers would be temporarily attached to NHS hospitals.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attach a quality to something or someone
+</seg>
+pomeni domnevati, da ima nekaj ali nekdo tako lastnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don't attach too much importance to what he said.
+</quote>
+</seg>
+</sense>
+</entry>

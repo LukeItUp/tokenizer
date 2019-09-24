@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+appear
+</orth>
+<form type="variant">
+<pron>
+/@p*I*@/
+</pron>
+</form>
+<form type="inflected">
+appears, appearing, appeared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+appears
+</seg>
+se premakne tja, kjer
+se vidi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A glow of light appeared over the sea.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj novega
+<seg type="lemma">
+appears
+</seg>
+za&#269;ne
+obstajati ali postane dostopno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+iziti, pojaviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His second novel appeared under the title "Getting By".
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"in"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+appears in a play or show
+</seg>
+sodeluje v drami ali predstavi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastopiti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To appear before a court of law
+</seg>
+pomeni iti
+na sodi&#353;&#269;e, da bi odgovarjali za obto&#382;be ali dali podatke.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zglasiti se
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+TO-INF
+<seg>
+or
+</seg>
+COMPLEMENT,
+<seg>
+or
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+appears to be
+</seg>
+tak&#353;no, kot
+opisujemo, da je, ho&#269;emo povedati, da mi tako mislimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their offer appears to be the most attractive.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+African
+</orth>
+<form type="variant">
+<pron>
+/*#ae;frIk@n/
+</pron>
+</form>
+<form type="inflected">
+Africans.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+African
+</seg>
+je tak, ki pripada Afriki ali je
+povezan z njo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+afri&#353;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the African population of Johannesburg.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An African
+</seg>
+je oseba, ki je po rodu iz
+Afrike.
+</def>
+<cit type="translationEquivalent">
+<quote>
+Afri&#269;an/-nka
+</quote>
+</cit>
+</sense>
+</entry>

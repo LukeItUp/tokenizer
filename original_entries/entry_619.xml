@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+appetite
+</orth>
+<form type="variant">
+<pron>
+/*#ae;p@1taIt/
+</pron>
+</form>
+<form type="inflected">
+appetites.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's appetite
+</seg>
+je &#269;lovekova &#382;elja po jedi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+tek, apetit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All that work has given me an appetite.
+</quote>
+<quote>
+...his loss of appetite.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an appetite for something
+</seg>
+pomeni,
+da si tisto mo&#269;no &#382;elimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&#382;elenje, &#382;elja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the appetite for power.
+</quote>
+</seg>
+</sense>
+</entry>

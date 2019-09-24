@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+abdicate
+</orth>
+<form type="variant">
+<pron>
+/*#ae;bdIkeIt/
+</pron>
+</form>
+<form type="inflected">
+abdicates, abdicating, abdicated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kralj ali kraljica
+<seg type="lemma">
+abdicates
+</seg>
+se
+odpovesta svojemu polo&#382;aju.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odstopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the day Edward VIII abdicated
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+abdication
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;bdIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the abdication crisis of 1936.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+abdicates responsibility for
+something
+</seg>
+za dolo&#269;eno stvar no&#269;e ve&#269; odgovarjati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odre&#269;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We would be abdicating our responsibility to the local community.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+abdication
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an abdication of political responsibility.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

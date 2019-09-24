@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ancestor
+</orth>
+<form type="variant">
+<pron>
+/*#ae;nsest@/
+</pron>
+</form>
+<form type="inflected">
+ancestors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's ancestors
+</seg>
+so ljudje, katerih potomec
+je tisti &#269;lovek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predniki
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An ancestor of something modern
+</seg>
+je
+predhodna oblika, iz katere se je razvilo nekaj sodobnega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predhodnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These creatures are the ancestors of modern man.
+</quote>
+</seg>
+</sense>
+</entry>

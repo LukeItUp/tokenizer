@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acquit
+</orth>
+<form type="variant">
+<pron>
+/@kw*It/
+</pron>
+</form>
+<form type="inflected">
+acquits, acquitting, acquitted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be acquitted of a crime
+</seg>
+pomeni, da
+sodi&#353;&#269;e o nekom uradno izjavi, da ni storil zlo&#269;ina.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprostiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The jury acquitted her of theft.
+</quote>
+<quote>
+Campbell was acquitted on all charges.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To acquit oneself in a particular way
+</seg>
+pomeni, da ljudje &#269;utijo, da smo se vedli na dolo&#269;en na&#269;in;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izkazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She acquitted herself well.
+</quote>
+</seg>
+</sense>
+</entry>

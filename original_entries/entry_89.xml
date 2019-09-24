@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accompaniment
+</orth>
+<form type="variant">
+<pron>
+/@k*Vmp@0nIm@2nt/
+</pron>
+</form>
+<form type="inflected">
+accompaniments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The accompaniment to a song or tune
+</seg>
+je
+glasba v pesmi ali napevu, ki jo igrajo kot podlago hkrati z osnovnim napevom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremljava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a guitar accompaniment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An accompaniment to something
+</seg>
+je nekaj,
+kar se zgodi ali obstaja hkrati z drugo stvarjo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodatek, priloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This sauce is often served as an accompaniment to fish.
+</quote>
+</seg>
+</sense>
+</entry>

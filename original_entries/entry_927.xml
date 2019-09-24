@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+award
+</orth>
+<form type="variant">
+<pron>
+/@w*O*:d/
+</pron>
+</form>
+<form type="inflected">
+awards, awarding, awarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An award
+</seg>
+je potrdilo ali dokazilo, da neka
+oseba nekaj dobro dela.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagrada
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An award
+</seg>
+je tudi znesek, ki ga nekomu
+dolo&#269;i sodi&#353;&#269;e kot nadomestilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+od&#353;kodnina
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To award something to someone
+</seg>
+pomeni, da
+tisto nekomu podelimo kot nagrado, priznanje ali od&#353;kodnino.
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagraditi, prisoditi
+</quote>
+</cit>
+</sense>
+</entry>

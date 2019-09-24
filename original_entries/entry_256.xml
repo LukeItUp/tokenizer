@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+affect
+</orth>
+<form type="variant">
+<pron>
+/@3f*ekt/
+</pron>
+</form>
+<form type="inflected">
+affects, affecting, affected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+affects something else
+</seg>
+na
+tisto vpliva ali povzro&#269;i spremembo tistega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplivati (na)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the ways in which computers can affect our lives.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar bolezen
+<seg type="lemma">
+affects someone
+</seg>
+povzro&#269;i,
+da &#269;lovek zboli.
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The disease primarily affected Jane's lungs.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To affect a particular characteristic
+</seg>
+pomeni delati se, kot da je dolo&#269;ena lastnost za nas naravna;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pretvarjati se, hliniti, igrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She affected a lisp.
+</quote>
+<quote>
+He affected to despise every Briton he met.
+</quote>
+</seg>
+</sense>
+</entry>

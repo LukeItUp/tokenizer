@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+addition
+</orth>
+<form type="variant">
+<pron>
+/@3d*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+additions.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+in addition to
+</seg>
+povemo &#353;e
+nekaj poleg tistega, kar smo &#382;e rekli.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poleg tega, tudi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In addition, there were meetings with trade unionists.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An addition to something
+</seg>
+je predmet ali
+koli&#269;ina, ki jo damo zraven drugega predmeta ali koli&#269;ine.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They can also award a weekly addition for extra heating.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The addition of something
+</seg>
+je tudi dejstvo
+ali postopek, ko se nekaj pove&#269;uje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodajanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These houses have been improved by the addition of bathrooms.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Addition
+</seg>
+je proces izra&#269;unavanja vsote
+dveh ali ve&#269; &#353;tevil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&#353;tevanje
+</quote>
+</cit>
+</sense>
+</entry>

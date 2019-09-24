@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alert
+</orth>
+<form type="variant">
+<pron>
+/@l*$e*:t/
+</pron>
+</form>
+<form type="inflected">
+alerts, alerting, alerted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+alert
+</seg>
+je zelo pozoren na
+tisto, kar se dogaja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;uje&#269;, buden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to be alert all the time and look for our opportunity.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+alertness
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The job requires constant alertness and vigilance.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+alert to something
+</seg>
+se
+tistega popolnoma zaveda.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were both alert to the dangers.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An alert
+</seg>
+so okoli&#353;&#269;ine, v katerih se
+ljudje pripravijo na nevarnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+preplah, alarm
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The city centre was on a nuclear alert.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+on the alert
+</seg>
+je
+pripravljen soo&#269;iti se z vsem, kar bi se lahko zgodilo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v pripravljenosti, na pre&#382;i
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To alert someone
+</seg>
+pomeni opozoriti drugega
+&#269;loveka na nevarnost ali te&#382;ave.
+</def>
+<cit type="translationEquivalent">
+<quote>
+opozoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pressed the horn of the vehicle to alert the squadron.
+</quote>
+</seg>
+</sense>
+</entry>

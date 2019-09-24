@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+anchor
+</orth>
+<form type="variant">
+<pron>
+/*#ae;Nk@/
+</pron>
+</form>
+<form type="inflected">
+anchors, anchoring, anchored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An anchor
+</seg>
+je te&#382;ak predmet s kavlji, ki ga
+na verigi spustimo v morje, da ladja ostane na istem mestu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sidro
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;oln
+<seg type="lemma">
+anchors
+</seg>
+ali kadar &#269;lovek
+<seg type="lemma">
+anchors a boat
+</seg>
+pomeni, da spustimo sidro v vodo, da &#269;oln
+ostane na istem mestu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasidrati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To anchor an object
+</seg>
+pomeni prepre&#269;iti, da
+bi se neki predmet premikal, tako da ga, na primer, prive&#382;emo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasidrati, pritrditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We anchored his wheelchair to a huge stone.
+</quote>
+</seg>
+</sense>
+</entry>

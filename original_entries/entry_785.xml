@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+assignment
+</orth>
+<form type="variant">
+<pron>
+/@s*a*Inm@2nt/
+</pron>
+</form>
+<form type="inflected">
+assignments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An assignment
+</seg>
+je delo, ki ga moramo
+opraviti kot del slu&#382;be ali &#353;tudija.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naloga, dol&#382;nost
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An assignment to a task or job
+</seg>
+je
+dolo&#269;ilo, naj neki &#269;lovek opravi neko nalogo ali delo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naloga, pooblastilo
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accustom
+</orth>
+<form type="variant">
+<pron>
+/@3k*Vst@m/
+</pron>
+</form>
+<form type="inflected">
+accustoms, accustoming, accustomed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+REFL VB
+<seg>
+or
+</seg>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To accustom oneself to something different
+</seg>
+pomeni privaditi se ne&#269;emu, kar je druga&#269;no.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navaditi se &#269;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat very still, trying to accustom himself to the darkness.
+</quote>
+<quote>
+I think it is preferable to accustom babies to sleeping on the
+stomach.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+accustomed
+</orth>
+</form>
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I am not accustomed to being interrupted.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+astonishing
+</orth>
+<form type="variant">
+<pron>
+/@3st*QnISIN/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+astonishing
+</seg>
+je zelo presenetljivo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+osupljiv, neverjeten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shape of their bodies changes with astonishing speed.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+astonishingly
+</orth>
+</form>
+<gramGrp>
+<pos>
+SUBMOD
+<seg>
+or
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Birth rates there are astonishingly high.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

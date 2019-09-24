@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+attend
+</orth>
+<form type="variant">
+<pron>
+/@3t*end/
+</pron>
+</form>
+<form type="inflected">
+attends, attending, attended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attend a meeting or other event
+</seg>
+pomeni
+biti navzo&#269; na sestanku ali pri kakem drugem dogodku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+udele&#382;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I stopped off in London to attend a conference.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attend an institution
+</seg>
+pomeni, da nekam
+redno hodimo, na primer v &#353;olo ali cerkev.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskovati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To attend to something
+</seg>
+pomeni, da tisto
+opravimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpeljati, narediti; poskrbeti
+</quote>
+</cit>
+</sense>
+</entry>

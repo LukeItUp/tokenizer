@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+accuse
+</orth>
+<form type="variant">
+<pron>
+/@3kj*u*:z/
+</pron>
+</form>
+<form type="inflected">
+accuses, accusing, accused.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To accuse someone of something
+</seg>
+pomeni
+izjaviti, da je tisti &#269;lovek storil nekaj narobe.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&#382;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was accused of incompetence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be accused of a crime
+</seg>
+pomeni, da so
+nekomu pripisali zlo&#269;in in mu zanj sodijo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&#382;en (biti)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is accused of killing ten young women.
+</quote>
+</seg>
+</sense>
+</entry>

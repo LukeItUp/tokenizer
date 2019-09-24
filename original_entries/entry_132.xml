@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+acquire
+</orth>
+<form type="variant">
+<pron>
+/@3kw*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+acquires, acquiring, acquired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To acquire something
+</seg>
+pomeni nekaj dose&#269;i
+ali dobiti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobiti, priskrbeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tried to acquire the information I needed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To acquire a skill or habit
+</seg>
+pomeni nau&#269;iti
+se neke spretnosti ali navade.
+</def>
+<cit type="translationEquivalent">
+<quote>
+priu&#269;iti se, pridobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is a habit well worth acquiring.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+acquired
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...hereditary and acquired characteristics.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

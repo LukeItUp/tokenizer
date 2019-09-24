@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+agent
+</orth>
+<form type="variant">
+<pron>
+/*e*IdZ@2nt/
+</pron>
+</form>
+<form type="inflected">
+agents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An agent
+</seg>
+je &#269;lovek, ki priskrbi delo ali
+kup&#269;ijo drugemu &#269;loveku, navadno igralcu ali glasbeniku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+agent, zastopnik, posrednik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I phoned my agent in London about the job.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An agent
+</seg>
+je tudi &#269;lovek, ki dela v tajni
+vohunski slu&#382;bi neke dr&#382;ave.
+</def>
+<cit type="translationEquivalent">
+<quote>
+agent, vohun
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an enemy agent.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An agent
+</seg>
+je tudi vzrok za dolo&#269;en u&#269;inek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&#269;itelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the agent of change.
+</quote>
+</seg>
+</sense>
+</entry>

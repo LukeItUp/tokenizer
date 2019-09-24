@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+apparent
+</orth>
+<form type="variant">
+<pron>
+/@p*#ae;r@nt/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Okoli&#353;&#269;ine, kakovost ali &#269;ustva, ki so
+<seg type="lemma">
+apparent
+</seg>
+na videz obstajajo, &#269;eprav o tem ne moremo biti prepri&#269;ani.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navidezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the apparent success of their marriage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+apparent to someone
+</seg>
+tisti
+jasno vidi, da je tako.
+</def>
+<cit type="translationEquivalent">
+<quote>
+jasen, o&#269;iten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was becoming increasingly apparent to me that he disliked me.
+</quote>
+</seg>
+</sense>
+</entry>

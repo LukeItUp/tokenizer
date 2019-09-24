@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adorn
+</orth>
+<form type="variant">
+<pron>
+/@d*O*:n/
+</pron>
+</form>
+<form type="inflected">
+adorns, adorning, adorned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To adorn something
+</seg>
+pomeni tistemu nekaj
+dodati, da postane lep&#353;e;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+(o)krasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The container is adorned with semi-precious stones.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+adorns a place
+</seg>
+naredi tisti
+kraj privla&#269;nej&#353;i in lep&#353;i.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(o)krasiti, (o)lep&#353;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Oil paintings adorned the walls.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+adornment
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@d*O*:nm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+or
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...adornments such as make-up and jewellery.
+</quote>
+<quote>
+Styles of adornment have changed over the centuries.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

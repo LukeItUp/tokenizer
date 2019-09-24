@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+advocate,
+</orth>
+<form type="inflected">
+advocates, advocating, advocated;
+</form>
+<form type="variant">
+glagol izgovarjamo
+<pron>
+/*#ae;dv@6keIt/
+</pron>
+samostalnik pa
+<pron>
+/*#ae;dv@6k@t/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To advocate a particular action or plan
+</seg>
+pomeni javno podpirati dolo&#269;eno dejanje ali na&#269;rt.
+</def>
+<cit type="translationEquivalent">
+<quote>
+priporo&#269;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He advocated that Britain should join the alliance.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+<seg>
+with
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An advocate of a particular action or plan
+</seg>
+je &#269;lovek, ki javno podpira dolo&#269;eno dejanje ali na&#269;rt.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagovornik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the advocates of women's rights.
+</quote>
+<quote>
+...a strong advocate of nuclear power.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An advocate
+</seg>
+je pravnik, ki govori v korist
+dolo&#269;enega &#269;loveka ali ga brani na sodi&#353;&#269;u;
+</def>
+<usg>
+pravna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odvetnik, branilec
+</quote>
+</cit>
+</sense>
+</entry>

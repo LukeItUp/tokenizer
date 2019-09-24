@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+autograph
+</orth>
+<form type="variant">
+<pron>
+/*O*:t@6grA:f/
+</pron>
+</form>
+<form type="inflected">
+autographs, autographing, autographed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar slavno osebo prosimo za njen
+<seg type="lemma">
+autograph
+</seg>
+jo prosimo, da se nam podpi&#353;e.
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtogram, podpis
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar slavna oseba
+<seg type="lemma">
+autographs something
+</seg>
+na nekaj napi&#353;e svoje ime.
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpisati se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+autographed
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gave me an autographed copy of his book.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

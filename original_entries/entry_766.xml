@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aspire
+</orth>
+<form type="variant">
+<pron>
+/@sp*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+aspires, aspiring, aspired.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To aspire to something
+</seg>
+pomeni, da si
+nekaj, na primer pomemben polo&#382;aj v slu&#382;bi, mo&#269;no &#382;elimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+hlepeti, hrepeneti, te&#382;iti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Edward has always aspired to leadership.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+aspiring
+</orth>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an aspiring concert pianist.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

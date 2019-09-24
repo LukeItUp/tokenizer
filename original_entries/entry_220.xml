@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adult
+</orth>
+<form type="variant">
+<pron>
+/*#ae;dVlt, @3d*Vlt/
+</pron>
+</form>
+<form type="inflected">
+adults.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An adult
+</seg>
+je zrel, povsem razvit &#269;lovek ali
+&#382;ival.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odrasel; odrasla &#382;ival
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A happy home is one in which children and adults have equal rights.
+</quote>
+</seg>
+<sense value="morph">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...adult insects.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+adult
+</seg>
+je primerno za odrasle
+ljudi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+za odrasle
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children can assist in adult work at an early age.
+</quote>
+</seg>
+</sense>
+</entry>

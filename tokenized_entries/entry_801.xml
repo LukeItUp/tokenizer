@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p39_s41893" id="p39_w329" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="399.562" base="405.97" width="30.3619" height="8.514">asterisk</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p39_s41894" id="p39_w330" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="88.51" y="400.808" base="405.97" width="17.4897" height="6.844">/æst6</TOKEN>
+<TOKEN sid="p39_s41895" id="p39_w331" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="106.18" y="400.17" base="403.58" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p39_s41896" id="p39_w332" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="108.71" y="400.808" base="405.97" width="17.6016" height="6.844">rËsk/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p39_s41897" id="p39_w333" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="127.74" y="400.63" base="405.97" width="28.1927" height="7.08">asterisks.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p39_s41898" id="p39_w334" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="157.34" y="402.054" base="405.97" width="18.4922" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p39_s41899" id="p39_w335" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="176.808" y="402.054" base="405.97" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p39_s41900" id="p39_w336" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.42" y="400.274" base="405.97" width="9.82944" height="7.552">An</TOKEN>
+<TOKEN sid="p39_s41901" id="p39_w337" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.679" y="400.274" base="405.97" width="25.5917" height="7.552">asterisk</TOKEN>
+</seg>
+<TOKEN sid="p39_s41902" id="p39_w338" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="220.67" y="400.274" base="405.97" width="5.82624" height="7.552">je</TOKEN>
+<TOKEN sid="p39_s41903" id="p39_w339" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.925" y="400.274" base="405.97" width="15.8875" height="7.552">znak</TOKEN>
+<TOKEN sid="p39_s41904" id="p39_w340" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3902" y="410.344" base="416.04" width="6.00192" height="7.552">*.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p39_s41906" id="p39_w342" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.62" y="409.344" base="415.04" width="33.1927" height="7.552">(grafi~na)</TOKEN>
+<TOKEN sid="p39_s41907" id="p39_w343" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.813" y="409.344" base="415.04" width="31.199" height="7.552">zvezdica,</TOKEN>
+<TOKEN sid="p39_s41908" id="p39_w344" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.012" y="409.344" base="415.04" width="26.7862" height="7.552">asterisk</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

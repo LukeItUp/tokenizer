@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+anyhow
+</orth>
+<form type="variant">
+<pron>
+/*enIhaU/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Anyhow
+</seg>
+pomeni isto kot
+<seg type="lemma">
+anyway
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vendarle
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something anyhow
+</seg>
+pomeni, da tisto
+naredimo nemarno ali neurejeno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povr&#353;no, slabo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were all shoved in anyhow.
+</quote>
+</seg>
+</sense>
+</entry>

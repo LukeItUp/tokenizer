@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+arrest
+</orth>
+<form type="variant">
+<pron>
+/@r*est/
+</pron>
+</form>
+<form type="inflected">
+arrests, arresting, arrested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar policija
+<seg type="lemma">
+arrests someone
+</seg>
+&#269;loveka
+ujame in ga nekam odpelje, preden ga preda sodi&#353;&#269;u.
+</def>
+<cit type="translationEquivalent">
+<quote>
+aretirati, pripreti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar policija
+<seg type="lemma">
+makes an arrest
+</seg>
+&#269;loveka
+pripre.
+</def>
+<cit type="translationEquivalent">
+<quote>
+aretirati, prijeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A number of arrests were made.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+under arrest
+</seg>
+ga je
+policija prijela in ne sme na prostost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaprt, v zaporu
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To arrest something
+</seg>
+pomeni prepre&#269;iti, da
+bi se nekaj zgodilo;
+</def>
+<usg>
+knji&#382;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ustaviti, zadr&#382;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to arrest the course of destruction.
+</quote>
+</seg>
+</sense>
+</entry>

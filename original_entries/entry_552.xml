@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+answerable
+</orth>
+<form type="variant">
+<pron>
+/*A*:ns@0r@b@0l/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+answerable to someone
+</seg>
+se
+mora nekomu javiti in mu pojasniti svoja dejanja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti odgovoren (nekomu)
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+<seg type="prep">
+"for"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek
+<seg type="lemma">
+answerable for his
+actions
+</seg>
+mora prevzeti odgovornost za svoja dejanja ali dejanja nekoga
+drugega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovoren biti (za nekoga ali nekaj)
+</quote>
+</cit>
+</sense>
+</entry>

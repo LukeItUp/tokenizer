@@ -1,0 +1,143 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+arrange
+</orth>
+<form type="variant">
+<pron>
+/@3r*e*IndZ/
+</pron>
+</form>
+<form type="inflected">
+arranges, arranging, arranged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+arranges
+</seg>
+dogodek ali sre&#269;anje,
+naredi na&#269;rte zanj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti, organizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They arrange holidays in Eastern Europe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"with"
+</seg>
+<seg>
+or
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+arranges with someone to do
+something
+</seg>
+skupaj na&#269;rtujeta, da bosta tisto storila.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dogovoriti se, domeniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I've arranged with somebody else to go there.
+</quote>
+<quote>
+We had arranged to meet in the street outside.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+arranges something for someone
+</seg>
+omogo&#269;i, da tisti &#269;lovek to dobi ali stori.
+</def>
+<cit type="translationEquivalent">
+<quote>
+urediti, poskrbeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can arrange loans.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e &#269;lovek
+<seg type="lemma">
+arranges
+</seg>
+vrsto predmetov, jih
+postavi v dolo&#269;eno zaporedje ali polo&#382;aj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvrstiti, razmestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...four chairs arranged around the table.
+</quote>
+</seg>
+</sense>
+</entry>

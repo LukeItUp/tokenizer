@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+arguable
+</orth>
+<form type="variant">
+<pron>
+/*A*:gjU@b@0l/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;e je ideja, poanta ali pripomba
+<seg type="lemma">
+arguable
+</seg>
+na prvi pogled ni resni&#269;na ali pravilna in bi morali o njej podvomiti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sporen, vpra&#353;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whether he was right or not is arguable.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be arguable that something is true
+</seg>
+pomeni, da obstajajo dobri razlogi za misel, da nekaj ni resni&#269;no.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sporen, vpra&#353;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is arguable that western civilisation was saved by his actions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+arguably
+</orth>
+</form>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Deforestation is arguably the most serious environmental issue of our
+time.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

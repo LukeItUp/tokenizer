@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p12_s13003" id="p12_w1014" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="562.702" base="569.11" width="46.2811" height="8.514">adventurer</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p12_s13004" id="p12_w1015" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="303.01" y="563.948" base="569.11" width="6.30028" height="6.844">/6</TOKEN>
+<TOKEN sid="p12_s13005" id="p12_w1016" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="309.76" y="563.3" base="566.71" width="2.39636" height="4.52176">3</TOKEN>
+<TOKEN sid="p12_s13006" id="p12_w1017" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="312.48" y="563.948" base="569.11" width="38.3916" height="6.844">dventÄ6r6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p12_s13007" id="p12_w1018" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="354.63" y="563.77" base="569.11" width="41.6725" height="7.08">adventurers.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p12_s13008" id="p12_w1019" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="400.07" y="565.194" base="569.11" width="19.4109" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p12_s13009" id="p12_w1020" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="422.076" y="565.194" base="569.11" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p12_s13010" id="p12_w1021" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="429.87" y="563.414" base="569.11" width="10.1498" height="7.552">An</TOKEN>
+<TOKEN sid="p12_s13011" id="p12_w1022" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="572.494" base="578.19" width="37.4522" height="7.552">adventurer</TOKEN>
+</seg>
+<TOKEN sid="p12_s13012" id="p12_w1023" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="298.33" y="572.494" base="578.19" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p12_s13013" id="p12_w1024" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.597" y="572.494" base="578.19" width="24.0005" height="7.552">~lovek,</TOKEN>
+<TOKEN sid="p12_s13014" id="p12_w1025" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="332.868" y="572.494" base="578.19" width="6.79608" height="7.552">ki</TOKEN>
+<TOKEN sid="p12_s13015" id="p12_w1026" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="341.934" y="572.494" base="578.19" width="12.8002" height="7.552">ima</TOKEN>
+<TOKEN sid="p12_s13016" id="p12_w1027" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.005" y="572.494" base="578.19" width="11.5978" height="7.552">rad</TOKEN>
+<TOKEN sid="p12_s13017" id="p12_w1028" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.872" y="572.494" base="578.19" width="48.389" height="7.552">pustolov{~ine.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p12_s13019" id="p12_w1030" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="428.03" y="572.494" base="578.19" width="11.9966" height="7.552">pu-</TOKEN>
+<TOKEN sid="p12_s13020" id="p12_w1031" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="581.564" base="587.26" width="27.5998" height="7.552">stolovec</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

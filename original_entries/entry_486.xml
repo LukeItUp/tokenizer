@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+analogy
+</orth>
+<form type="variant">
+<pron>
+/@n*#ae;l@7dZi1/
+</pron>
+</form>
+<form type="inflected">
+analogies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make or draw an analogy
+</seg>
+med dvema
+stvarema pomeni pokazati, da sta sorodni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+podobnost, analogija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made an analogy between parental and judicial discipline.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To explain something by analogy
+</seg>
+pomeni,
+da tisto razlo&#382;imo z opisovanjem ne&#269;esa drugega, sorodnega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+po analogiji, po podobnosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The models are meant to show, by analogy, how matter is built
+up.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

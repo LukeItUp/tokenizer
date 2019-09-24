@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alias
+</orth>
+<form type="variant">
+<pron>
+/*e*IlI@s/
+</pron>
+</form>
+<form type="inflected">
+aliases.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An alias
+</seg>
+je privzeto ime, kakr&#353;no
+najve&#269;krat uporabljajo zlo&#269;inci.
+</def>
+<cit type="translationEquivalent">
+<quote>
+la&#382;no ime
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo
+<seg type="lemma">
+alias
+</seg>
+uporabimo, kadar omenimo
+nepravo ime nekega &#269;loveka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ali, z drugim imenom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Dr Christopher Pallis, alias Martin Grainger.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amiss
+</orth>
+<form type="variant">
+<pron>
+/@m*Is/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+amiss
+</seg>
+je pri tistem nekaj
+slabega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+narobe, napa&#269;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I immediately sensed something amiss.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+takes a remark amiss
+</seg>
+ga
+neka pripomba u&#382;ali in razburi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zameriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You mustn't take anything I say amiss.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&#269;emo
+<seg type="lemma">
+something would not come
+amiss
+</seg>
+ho&#269;emo povedati, da bi bilo nekaj dobrodo&#353;lo in koristno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne bi bilo odve&#269;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A little calm wouldn't come amiss.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

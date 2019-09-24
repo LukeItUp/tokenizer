@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alcoholic
+</orth>
+<form type="variant">
+<pron>
+/*#ae;lk@6h*QlIk/
+</pron>
+</form>
+<form type="inflected">
+alcoholics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pija&#269;a, ki je
+<seg type="lemma">
+alcoholic
+</seg>
+vsebuje alkohol.
+</def>
+<cit type="translationEquivalent">
+<quote>
+alkoholen
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&#268;lovek, ki je
+<seg type="lemma">
+an alcoholic
+</seg>
+je zasvojen z
+alkoholom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+alkoholik, pijanec
+</quote>
+</cit>
+</sense>
+</entry>

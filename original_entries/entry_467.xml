@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+amount
+</orth>
+<form type="variant">
+<pron>
+/@m*a*Unt/
+</pron>
+</form>
+<form type="inflected">
+amounts, amounting, amounted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An amount of something
+</seg>
+pove, koliko
+tistega imamo, potrebujemo ali dobimo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+koli&#269;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the amount of potatoes that people buy.
+</quote>
+<quote>
+I was horrified by the amount of work I had to do.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+PREP
+<seg type="prep">
+"to"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+amounts to a particular total
+</seg>
+vsi sestavni deli pripomorejo k celoti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zna&#353;ati, znesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...very high fees which amount to &#163;2,000.
+</quote>
+</seg>
+</sense>
+</entry>

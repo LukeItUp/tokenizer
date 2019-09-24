@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+aged;
+</orth>
+<form type="variant">
+pri 1. pomenu besedo izgovarjamo
+<pron>
+/*e*IdZd/
+</pron>
+pri 2.
+in 3. pa
+<pron>
+/*e*IdZI2d/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+aged
+</seg>
+za katero stoji &#353;tevilo,
+povemo, koliko let ima &#269;lovek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+star, -leten, -letnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...men aged 60 and over.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi
+</seg>
+<ref>
+middle-aged.
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj
+<seg type="lemma">
+aged
+</seg>
+to pomeni,
+da je zelo star.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostarel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his aged aunt.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Vse zelo stare ljudi lahko imenujemo
+<seg type="lemma">
+the
+aged.
+</seg>
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostareli, starci
+</quote>
+</cit>
+</sense>
+</entry>

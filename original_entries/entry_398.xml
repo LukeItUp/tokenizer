@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ally,
+</orth>
+<form type="inflected">
+allies, allying, allied;
+</form>
+<form type="variant">
+samostalnik izgovarjamo
+<pron>
+/*#ae;laI/
+</pron>
+glagol pa
+<pron>
+/@3l*a*I/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An ally
+</seg>
+je dr&#382;ava, organizacija ali oseba,
+ki pomaga drugi ali jo podpira.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaveznik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...our European allies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+<seg>
+with
+</seg>
+<seg type="prep">
+"with"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ally oneself with someone
+</seg>
+pomeni
+podpirati tistega &#269;loveka.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezati se, zdru&#382;iti se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi
+</seg>
+<ref>
+allied.
+</ref>
+</xr>
+</sense>
+</entry>

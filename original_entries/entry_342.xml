@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+alarm
+</orth>
+<form type="variant">
+<pron>
+/@l*A*:m/
+</pron>
+</form>
+<form type="inflected">
+alarms, alarming, alarmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Alarm
+</seg>
+je nenaden ob&#269;utek strahu ali
+nemira.
+</def>
+<cit type="translationEquivalent">
+<quote>
+preplah, strah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked round in alarm.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An alarm
+</seg>
+je avtomatska naprava, ki nas
+posvari pred nevarnostjo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+alarmna naprava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The alarm went off.
+</quote>
+<quote>
+...a burglar alarm.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To sound
+</seg>
+ali
+<seg type="phrase_variant">
+to raise the alarm
+</seg>
+pomeni opozoriti ljudi na nevarnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&#382;iti alarm
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+alarms someone
+</seg>
+tisto &#269;loveka
+nenadoma prestra&#353;i ali razburi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepla&#353;iti, vznemiriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sight of the school alarmed her.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+alarmed
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She looked alarmed.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

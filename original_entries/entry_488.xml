@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+analysis
+</orth>
+<form type="variant">
+<pron>
+/@n*#ae;lI1sIs/
+</pron>
+</form>
+<form type="inflected">
+analyses
+</form>
+<form type="variant">
+<pron>
+/@n*#ae;lI1si:z/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Analysis
+</seg>
+je postopek razmi&#353;ljanja o ne&#269;em,
+da bi tisto razumeli ali ugotovili, iz &#269;esa je.
+</def>
+<cit type="translationEquivalent">
+<quote>
+analiza, raz&#269;lenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...linguistic analysis.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An analysis
+</seg>
+je razlaga, ki je posledica
+razmi&#353;ljanja o ne&#269;em.
+</def>
+<cit type="translationEquivalent">
+<quote>
+analiza, raz&#269;lenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He offers a calm analysis of the situation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom
+<seg type="lemma">
+in the final analysis
+</seg>
+ali
+<seg type="phrase_variant">
+in the last analysis
+</seg>
+povemo, da na&#353;a izjava
+velja za osnovna dejstva v dolo&#269;enih okoli&#353;&#269;inah.
+</def>
+<cit type="translationEquivalent">
+<quote>
+konec koncev, nazadnje, na koncu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the final analysis power rested in the hands of one man.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

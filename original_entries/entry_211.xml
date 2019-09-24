@@ -1,0 +1,135 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+adopt
+</orth>
+<form type="variant">
+<pron>
+/@d*Qpt/
+</pron>
+</form>
+<form type="inflected">
+adopts, adopting, adopted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To adopt someone else's child
+</seg>
+pomeni
+sprejeti tujega otroka v svojo dru&#382;ino in ga uradno vzeti za svojega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvojiti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+adopted
+</orth>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...parents of adopted children.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+adoption
+</orth>
+</form>
+<form type="variant">
+<pron>
+/@d*QpS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+or
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the shortage of children available for adoption.
+</quote>
+<quote>
+...the commitment involved in the adoption of a child.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To adopt an attitude, position, or way of
+behaving
+</seg>
+pomeni, da zavzamemo nov odnos, stali&#353;&#269;e ali ved&#234;nje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+privzeti, sprejeti; zate&#269;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had to adopt other methods of persuasion.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+adoption
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+<seg>
+with
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This would complicate the adoption of a rule.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

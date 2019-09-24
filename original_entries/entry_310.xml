@@ -1,0 +1,160 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ahead
+</orth>
+<form type="variant">
+<pron>
+/@h*ed/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+ahead
+</seg>
+je pred nami.
+</def>
+<cit type="translationEquivalent">
+<quote>
+spredaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The road ahead is foggy.
+</quote>
+<quote>
+She stared ahead.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek pri delu ali dose&#382;kih
+<seg type="lemma">
+ahead of
+someone
+</seg>
+napreduje bolj kot nekdo drug.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pred, spredaj
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &#269;lovek ali mo&#353;tvo na tekmovanju
+<seg type="lemma">
+ahead
+</seg>
+zmaguje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+spredaj
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV
+<seg>
+with
+</seg>
+<seg type="prep">
+"of"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek nekam pride
+<seg type="lemma">
+ahead of someone
+</seg>
+pride tja pred tistim &#269;lovekom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehiteti
+</quote>
+</cit>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+goes on ahead
+</seg>
+ali
+<seg type="lemma">
+is sent on ahead
+</seg>
+nekam odide ali je poslan prej kakor
+drugi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naprej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our parents had gone on ahead in father's car.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ahead
+</seg>
+se nana&#353;a tudi na prihodnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+naprej, na prihodnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven't had time to think far ahead.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi
+</seg>
+<ref>
+go ahead.
+</ref>
+</xr>
+</sense>
+</entry>

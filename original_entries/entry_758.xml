@@ -1,0 +1,249 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ask
+</orth>
+<form type="variant">
+<pron>
+/*A:sk/
+</pron>
+</form>
+<form type="inflected">
+asks, asking, asked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+or
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone something
+</seg>
+pomeni nekomu
+re&#269;i nekaj v obliki vpra&#353;anja, ker &#382;elimo izvedeti kak podatek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&#353;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked him what he wanted.
+</quote>
+<quote>
+"Why?" he asked.
+</quote>
+<quote>
+He started asking questions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone to do something
+</seg>
+pomeni
+tistemu &#269;loveku izraziti svojo &#382;eljo, naj tisto stori.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He asked her to marry him.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone's permission or forgiveness
+</seg>
+pomeni poskusiti od nekoga dobiti dovoljenje ali odpu&#353;&#269;anje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked permission to leave.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+<seg>
+and
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone somewhere
+</seg>
+pomeni tistega
+&#269;loveka prositi, naj gre tja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She asked me in.
+</quote>
+</seg>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj od nekoga ali nekje
+<seg type="lemma">
+for the
+asking
+</seg>
+tisto lahko dobimo &#382;e, &#269;e le izrazimo to &#382;eljo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+samo re&#269;i je treba
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&#269;emo
+<seg type="lemma">
+"if you ask me"
+</seg>
+poudarimo, da izra&#382;amo svoje lastno mnenje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&#269;e mene vpra&#353;ate
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole thing's stupid if you ask me.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+ask after.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask after someone
+</seg>
+pomeni
+vpra&#353;ati, kako tistemu &#269;loveku gre.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&#353;ati po nekom (po njegovem po&#269;utju)
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+ask for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To ask for someone
+</seg>
+pomeni re&#269;i, da
+bi radi govorili s tistim &#269;lovekom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&#353;ati po nekom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rang the office and asked for Cynthia.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To ask for something
+</seg>
+pomeni re&#269;i, da
+bi tisto radi imeli.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

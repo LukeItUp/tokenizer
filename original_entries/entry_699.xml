@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+armed
+</orth>
+<form type="variant">
+<pron>
+/*A*:md/.
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+armed
+</seg>
+nosi oro&#382;je.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oboro&#382;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was seized by armed men.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri napadu ali sporu, ki je
+<seg type="lemma">
+armed
+</seg>
+se
+ljudje bojujejo s strelnim oro&#382;jem.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oboro&#382;en
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+<seg>
+with
+</seg>
+<seg type="prep">
+"with"
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be armed with something useful
+</seg>
+na
+primer s podatki ali spretnostjo, pomeni, da tisto imamo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+opremljen, oboro&#382;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Armed with secretarial skills, she will easily find a job.
+</quote>
+</seg>
+</sense>
+</entry>

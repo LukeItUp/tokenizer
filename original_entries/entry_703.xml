@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+armour
+</orth>
+<form type="variant">
+<pron>
+/*A*:m@/
+</pron>
+;
+</form>
+<form type="variant">
+v ameri&#353;ki angle&#353;&#269;ini pi&#353;emo
+<orth>
+armor.
+</orth>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Armour
+</seg>
+je kovinsko obla&#269;ilo, ki ga vojaki
+uporabljajo za za&#353;&#269;ito.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oklep, vojna oprema
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Armour
+</seg>
+je tudi trd pokrov, ki nekatere
+&#382;ivali varuje pred napadalci.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oklep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an armour of horny scales.
+</quote>
+</seg>
+</sense>
+</entry>

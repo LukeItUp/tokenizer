@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+atmosphere
+</orth>
+<form type="variant">
+<pron>
+/*#ae;tm@sfI@/
+</pron>
+</form>
+<form type="inflected">
+atmospheres.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A planet's atmosphere
+</seg>
+je plast zraka ali
+kak&#353;nega drugega plina okoli planeta.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozra&#269;je, atmosfera
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+atmospheric
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*#ae;tm@sf*erIk/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...atmospheric pollution.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The atmosphere of a place
+</seg>
+je zrak, ki ga v
+nekem kraju dihamo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozra&#269;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the polluted atmosphere of towns and cities.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+<seg>
+with
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo
+<seg type="lemma">
+atmosphere
+</seg>
+opisujemo tudi splo&#353;ni
+vtis, ki nam ga daje dolo&#269;en kraj.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpolo&#382;enje, atmosfera
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It's got such a friendly atmosphere.
+</quote>
+</seg>
+</sense>
+</entry>

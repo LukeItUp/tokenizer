@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+anticipate
+</orth>
+<form type="variant">
+<pron>
+/#ae;nt*IsIpeIt/
+</pron>
+</form>
+<form type="inflected">
+anticipates, anticipating, anticipated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To anticipate an event
+</seg>
+pomeni vnaprej
+ugotoviti, da se nekaj lahko zgodi, in se na dogodek pripraviti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+predvideti, pri&#269;akovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Secretary had anticipated the question.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+anticipation
+</orth>
+</form>
+<form type="variant">
+<pron>
+/#ae;nt*IsIp*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Petrol coupons were issued in anticipation of rationing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To anticipate something
+</seg>
+pomeni z veseljem
+pri&#269;akovati, da se bo zgodilo nekaj prijetnega ali vznemirljivega.
+</def>
+<cit type="translationEquivalent">
+<quote>
+veseliti se (&#269;esa)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had often pleasurably anticipated the moment when she would hand in her
+resignation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+anticipation
+</orth>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+"Please!" the children cried, jumping up and down in
+anticipation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

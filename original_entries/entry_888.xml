@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+authorize
+</orth>
+<form type="variant">
+<pron>
+/*O*:T@raIz/
+</pron>
+</form>
+<form type="inflected">
+authorizes, authorizing, authorized;
+</form>
+<form type="variant">
+pi&#353;emo tudi
+<orth>
+authorise.
+</orth>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &#269;lovek na visokem polo&#382;aju
+<seg type="lemma">
+authorizes
+something
+</seg>
+da za tisto svoje uradno dovoljenje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odobriti, dovoliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The president authorized the bombings.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+authorization
+</orth>
+</form>
+<form type="variant">
+<pron>
+/*O*:T@raIz*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They will have to phone your branch for authorization.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

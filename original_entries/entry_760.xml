@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+asleep
+</orth>
+<form type="variant">
+<pron>
+/@sl*i:p/.
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+asleep
+</seg>
+spi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti spe&#269;, spati
+</quote>
+</cit>
+</sense>
+<sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &#269;lovek
+<seg type="lemma">
+falls asleep
+</seg>
+za&#269;ne spati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+fast asleep
+</seg>
+ali
+<seg type="phrase_variant">
+sound asleep
+</seg>
+mo&#269;no spi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+trdno spati
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

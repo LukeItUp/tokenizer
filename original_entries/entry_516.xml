@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+anger
+</orth>
+<form type="variant">
+<pron>
+/*#ae;Ng@/
+</pron>
+</form>
+<form type="inflected">
+angers, angering, angered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Anger
+</seg>
+je mo&#269;no &#269;ustvo, ki ga ob&#269;utimo,
+kadar mislimo, da se je nekdo vedel tako krivi&#269;no, kruto ali &#382;aljivo, da mu &#382;elimo
+odlo&#269;no pokazati svoja &#269;ustva.
+</def>
+<cit type="translationEquivalent">
+<quote>
+jeza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+"You're a fool."&#8212;&#382;Am I?" he said, red with anger.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+<seg>
+with
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj
+<seg type="lemma">
+angers somebody
+</seg>
+ga
+spravi v jezo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razjeziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His hostile attitude angered her.
+</quote>
+</seg>
+</sense>
+</entry>
