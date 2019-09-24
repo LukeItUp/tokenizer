@@ -23,6 +23,10 @@ This folder is missing the following entries (due to the fact that they were inc
 - entry_283.xml
 - entry_290.xml
 
+Note:
+Entries in **correct_entries** folder might not be the same as entries in **tokenized_entries** folder.
+Assume that entries in **correct_entries** are correct and disregard the same entries in **tokenized_entries** folder.
+
 Transformation log is in **info.log** file. This log contains info about the transformation for each entry.
 Each entry in transformation log, has described with which word each word was replaced.
 
