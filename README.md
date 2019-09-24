@@ -61,7 +61,7 @@ a word that is missing from *tokens.xml* file. Consequently this entry has a low
 Entries in **tokenized_entries** with grade lower than 90% should be rechecked.
 Mark which entries are faulty so I can correct them manually.
 
-- Sometimes an original word might be split as mentioned above. This is not incorrect.
+- Sometimes an original word might be split with "-" character, as mentioned above. This is not incorrect.
 - Some characters (Š, Č, Ž) in original word are different after transformation. This doesn't meant that entry is incorrect.
 - As mentioned above, some words might be missing in *tokens.xml* file, which misplaces all the following words. This is an
 incorrect entry and should be marked down.
