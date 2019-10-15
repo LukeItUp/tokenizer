@@ -18,11 +18,14 @@ This folder is missing the following entries (due to the fact that they were inc
 - entry_190.xml
 - entry_211.xml
 - entry_255.xml
+- entry_256.xml
 - entry_261.xml
 - entry_267.xml
 - entry_276.xml
 - entry_283.xml
 - entry_290.xml
+
+Folder **dictScrap** contains entries with *< dictScrap >* tags for unused tokens.
 
 **Note:**
 
