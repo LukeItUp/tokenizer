@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p9_s9071" id="p9_w398" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="462.832" base="469.24" width="9.97015" height="8.514">ad</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p9_s9072" id="p9_w399" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="68.27" y="464.078" base="469.24" width="17.9116" height="6.844">/æd/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p9_s9073" id="p9_w400" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="87.77" y="463.9" base="469.24" width="13.1004" height="7.08">ads.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p9_s9074" id="p9_w401" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="102.46" y="465.324" base="469.24" width="18.9318" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p9_s9075" id="p9_w402" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="122.477" y="465.324" base="469.24" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p9_s9076" id="p9_w403" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="128.21" y="463.544" base="469.24" width="9.98928" height="7.552">An</TOKEN>
+<TOKEN sid="p9_s9077" id="p9_w404" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.788" y="463.544" base="469.24" width="8.39088" height="7.552">ad</TOKEN>
+</seg>
+<TOKEN sid="p9_s9078" id="p9_w405" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.77" y="463.544" base="469.24" width="5.98608" height="7.552">je</TOKEN>
+<TOKEN sid="p9_s9079" id="p9_w406" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.343" y="463.544" base="469.24" width="29.7821" height="7.552">reklama;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p9_s9080" id="p9_w407" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.714" y="463.544" base="469.24" width="35.9222" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p9_s9081" id="p9_w408" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.224" y="463.544" base="469.24" width="17.5579" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<dictScrap>
+<TOKEN sid="p9_s9082" id="p9_w409" font-name="slsymbol" symbolic="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="62.39" y="473.445" base="478.32" width="4.23262" height="6.5">ρ</TOKEN>
+</dictScrap>
+<TOKEN sid="p9_s9083" id="p9_w410" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="472.624" base="478.32" width="19.602" height="7.552">oglas,</TOKEN>
+<TOKEN sid="p9_s9084" id="p9_w411" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.2222" y="472.624" base="478.32" width="27.8467" height="7.552">reklama</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

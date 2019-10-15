@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p3_s2953" id="p3_w851" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="408.362" base="414.77" width="45.2928" height="8.514">abundance</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p3_s2954" id="p3_w852" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.11" y="409.608" base="414.77" width="40.1916" height="6.844">/6bØnd6ns/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An abundance of something
+</seg>
+pomeni veliko
+koli&#269;ino ne&#269;esa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obilje, obilica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an abundance of evidence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj
+<seg type="lemma">
+in abundance
+</seg>
+je
+koli&#269;ina tiste stvari velika.
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pretek, v obilici
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was grass in abundance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>
