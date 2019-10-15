@@ -7,7 +7,7 @@
 <pron>
 <TOKEN sid="p6_s6319" id="p6_w943" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="295.05" y="509.478" base="514.64" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p6_s6320" id="p6_w944" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="301.54" y="508.83" base="512.24" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p6_s6321" id="p6_w945" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.18" y="509.478" base="514.64" width="29.1116" height="6.844">kØst6m/,</TOKEN>
+<TOKEN sid="p6_s6321" id="p6_w945" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.18" y="509.478" base="514.64" width="29.1116" height="6.844">k&#216;st6m/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -53,7 +53,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p6_s6346" id="p6_w970" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="294.96" y="536.995" base="541.87" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p6_s6346" id="p6_w970" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="294.96" y="536.995" base="541.87" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6347" id="p6_w971" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.55" y="536.174" base="541.87" width="28.399" height="7.552">navaditi</TOKEN>
 <TOKEN sid="p6_s6348" id="p6_w972" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="332.309" y="536.174" base="541.87" width="6.79608" height="7.552">se</TOKEN>
@@ -91,11 +91,11 @@
 <TOKEN sid="p6_s6374" id="p6_w998" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.646" y="554.334" base="560.03" width="30.4006" height="7.552">stomach.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p6_s6375" id="p6_w999" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="563.11" base="569.11" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p6_s6375" id="p6_w999" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="563.11" base="569.11" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6376" id="p6_w1000" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="264.71" y="563.414" base="569.11" width="41.5886" height="7.568">accustomed</TOKEN>
 </orth>
@@ -109,7 +109,7 @@
 </seg>
 <TOKEN sid="p6_s6380" id="p6_w1004" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="346.929" y="565.194" base="569.11" width="13.7481" height="5.192">PREP</TOKEN>
 <seg type="prep">
-<TOKEN sid="p6_s6381" id="p6_w1005" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="361.772" y="565.194" base="569.11" width="7.42698" height="5.192">što’</TOKEN>
+<TOKEN sid="p6_s6381" id="p6_w1005" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="361.772" y="565.194" base="569.11" width="7.42698" height="5.192">&#353;to&#8217;</TOKEN>
 </seg>
 </pos>
 </gramGrp>
@@ -124,6 +124,6 @@
 <TOKEN sid="p6_s6388" id="p6_w1012" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.814" y="572.494" base="578.19" width="41.1833" height="7.552">interrupted.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

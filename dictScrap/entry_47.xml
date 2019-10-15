@@ -23,7 +23,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p3_s2222" id="p3_w120" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="75.8" y="182.935" base="187.81" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p3_s2222" id="p3_w120" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="75.8" y="182.935" base="187.81" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p3_s2223" id="p3_w121" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.59" y="182.114" base="187.81" width="32.5685" height="7.552">raztresen,</TOKEN>
 <TOKEN sid="p3_s2224" id="p3_w122" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="115.658" y="182.114" base="187.81" width="33.4872" height="7.552">zami{ljen;</TOKEN>
@@ -39,11 +39,11 @@
 <TOKEN sid="p3_s2230" id="p3_w128" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="191.194" base="196.89" width="28.6373" height="7.552">careless.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p3_s2231" id="p3_w129" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.62" y="190.89" base="196.89" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p3_s2231" id="p3_w129" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.62" y="190.89" base="196.89" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p3_s2232" id="p3_w130" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="98.72" y="191.194" base="196.89" width="57.587" height="7.568">absent-mindedly</TOKEN>
 </orth>
@@ -55,7 +55,7 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p3_s2234" id="p3_w132" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.04" y="191.194" base="196.89" width="11.9909" height="7.552">…if</TOKEN>
+<TOKEN sid="p3_s2234" id="p3_w132" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.04" y="191.194" base="196.89" width="11.9909" height="7.552">&#8230;if</TOKEN>
 <TOKEN sid="p3_s2235" id="p3_w133" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="184.629" y="191.194" base="196.89" width="12.4013" height="7.552">you</TOKEN>
 <TOKEN sid="p3_s2236" id="p3_w134" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.629" y="191.194" base="196.89" width="45.1778" height="7.552">absent-mind-</TOKEN>
 <TOKEN sid="p3_s2237" id="p3_w135" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="200.274" base="205.97" width="14.3978" height="7.552">edly</TOKEN>
@@ -67,6 +67,6 @@
 <TOKEN sid="p3_s2243" id="p3_w141" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="152.229" y="200.274" base="205.97" width="16.3915" height="7.552">sink.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

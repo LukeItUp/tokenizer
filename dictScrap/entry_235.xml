@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p13_s13134" id="p13_w53" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.47" y="129.888" base="135.05" width="31.0416" height="6.844">/ædvÅÂs/.</TOKEN>
+<TOKEN sid="p13_s13134" id="p13_w53" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.47" y="129.888" base="135.05" width="31.0416" height="6.844">/&#230;dv&#197;&#194;s/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -34,7 +34,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p13_s13148" id="p13_w67" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="214.47" y="139.395" base="144.27" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p13_s13148" id="p13_w67" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="214.47" y="139.395" base="144.27" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p13_s13149" id="p13_w68" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="220.29" y="138.574" base="144.27" width="23.5188" height="7.552">neugo-</TOKEN>
 <TOKEN sid="p13_s13150" id="p13_w69" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3897" y="147.794" base="153.49" width="14.3957" height="7.552">den,</TOKEN>
@@ -53,16 +53,16 @@
 <TOKEN sid="p13_s13159" id="p13_w78" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3897" y="157.014" base="162.71" width="29.3429" height="7.552">business.</TOKEN>
 </quote>
 <quote>
-<TOKEN sid="p13_s13160" id="p13_w79" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.2323" y="157.014" base="162.71" width="32.2819" height="7.552">…adverse</TOKEN>
+<TOKEN sid="p13_s13160" id="p13_w79" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.2323" y="157.014" base="162.71" width="32.2819" height="7.552">&#8230;adverse</TOKEN>
 <TOKEN sid="p13_s13161" id="p13_w80" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.984" y="157.014" base="162.71" width="26.8114" height="7.552">weather</TOKEN>
 <TOKEN sid="p13_s13162" id="p13_w81" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.265" y="157.014" base="162.71" width="36.288" height="7.552">conditions.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p13_s13163" id="p13_w82" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.13" y="156.71" base="162.71" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p13_s13163" id="p13_w82" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.13" y="156.71" base="162.71" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p13_s13164" id="p13_w83" font-name="ssunivers" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="199.16" y="157.014" base="162.71" width="31.7693" height="7.568">adversely</TOKEN>
 </orth>
@@ -83,6 +83,6 @@
 <TOKEN sid="p13_s13172" id="p13_w91" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.077" y="166.234" base="171.93" width="28.5746" height="7.552">affected.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

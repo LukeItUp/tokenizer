@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p16_s17348" id="p16_w919" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.19" y="482.238" base="487.4" width="42.8516" height="6.844">/ægrËkØltÄ6/.</TOKEN>
+<TOKEN sid="p16_s17348" id="p16_w919" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.19" y="482.238" base="487.4" width="42.8516" height="6.844">/&#230;gr&#203;k&#216;lt&#196;6/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -35,23 +35,23 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p16_s17363" id="p16_w934" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="291.99" y="500.685" base="505.56" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p16_s17363" id="p16_w934" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="291.99" y="500.685" base="505.56" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p16_s17364" id="p16_w935" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="298.52" y="499.864" base="505.56" width="37.9872" height="7.552">kmetijstvo;</TOKEN>
 </quote>
 </cit>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p16_s17365" id="p16_w936" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.81" y="499.56" base="505.56" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p16_s17365" id="p16_w936" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.81" y="499.56" base="505.56" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p16_s17366" id="p16_w937" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="345.61" y="499.864" base="505.56" width="39.2033" height="7.568">agricultural</TOKEN>
 </orth>
 </form>
 <form type="variant">
 <pron>
-<TOKEN sid="p16_s17367" id="p16_w938" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="387.11" y="500.398" base="505.56" width="38.0296" height="6.844">/ægrËkØltÄ6</TOKEN>
+<TOKEN sid="p16_s17367" id="p16_w938" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="387.11" y="500.398" base="505.56" width="38.0296" height="6.844">/&#230;gr&#203;k&#216;lt&#196;6</TOKEN>
 <TOKEN sid="p16_s17368" id="p16_w939" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="425.47" y="499.76" base="503.17" width="2.39636" height="4.52176">0</TOKEN>
 <TOKEN sid="p16_s17369" id="p16_w940" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="428.1" y="500.398" base="505.56" width="11.9199" height="6.844">r6l/</TOKEN>
 </pron>
@@ -63,11 +63,11 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p16_s17371" id="p16_w942" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.05" y="508.944" base="514.64" width="33.1942" height="7.552">…modern</TOKEN>
+<TOKEN sid="p16_s17371" id="p16_w942" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.05" y="508.944" base="514.64" width="33.1942" height="7.552">&#8230;modern</TOKEN>
 <TOKEN sid="p16_s17372" id="p16_w943" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.244" y="508.944" base="514.64" width="40.7873" height="7.552">agricultural</TOKEN>
 <TOKEN sid="p16_s17373" id="p16_w944" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.032" y="508.944" base="514.64" width="30.7958" height="7.552">methods.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

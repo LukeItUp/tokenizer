@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p9_s9109" id="p9_w436" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="96.59" y="509.478" base="514.64" width="38.7016" height="6.844">/æd6m6nt/.</TOKEN>
+<TOKEN sid="p9_s9109" id="p9_w436" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="96.59" y="509.478" base="514.64" width="38.7016" height="6.844">/&#230;d6m6nt/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -38,7 +38,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p9_s9127" id="p9_w454" font-name="slsymbol" symbolic="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="72.83" y="527.915" base="532.79" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p9_s9127" id="p9_w454" font-name="slsymbol" symbolic="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="72.83" y="527.915" base="532.79" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p9_s9128" id="p9_w455" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="78.63" y="527.094" base="532.79" width="42.4591" height="7.552">nepopustljiv,</TOKEN>
 <TOKEN sid="p9_s9129" id="p9_w456" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.588" y="527.094" base="532.79" width="27.7639" height="7.552">odlo~en;</TOKEN>
@@ -59,11 +59,11 @@
 <TOKEN sid="p9_s9140" id="p9_w467" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.887" y="536.174" base="541.87" width="42.3914" height="7.552">nationalism.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p9_s9141" id="p9_w468" font-name="slsymbol" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.87" y="535.87" base="541.87" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p9_s9141" id="p9_w468" font-name="slsymbol" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.87" y="535.87" base="541.87" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p9_s9142" id="p9_w469" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.01" y="536.174" base="541.87" width="36.3989" height="7.568">adamantly</TOKEN>
 </orth>
@@ -86,6 +86,6 @@
 <TOKEN sid="p9_s9152" id="p9_w479" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.047" y="545.254" base="550.95" width="29.5934" height="7.552">hospital.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

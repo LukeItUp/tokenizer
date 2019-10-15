@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p11_s11343" id="p11_w414" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.93" y="527.628" base="532.79" width="37.0896" height="6.844">/ædm6r6b6</TOKEN>
+<TOKEN sid="p11_s11343" id="p11_w414" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.93" y="527.628" base="532.79" width="37.0896" height="6.844">/&#230;dm6r6b6</TOKEN>
 <TOKEN sid="p11_s11344" id="p11_w415" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="136.33" y="526.99" base="530.4" width="2.39636" height="4.52176">0</TOKEN>
 <TOKEN sid="p11_s11345" id="p11_w416" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="138.95" y="527.628" base="532.79" width="7.4016" height="6.844">l/.</TOKEN>
 </pron>
@@ -34,7 +34,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p11_s11357" id="p11_w428" font-name="slsymbol" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="210.3" y="536.995" base="541.87" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p11_s11357" id="p11_w428" font-name="slsymbol" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="210.3" y="536.995" base="541.87" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p11_s11358" id="p11_w429" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.21" y="536.174" base="541.87" width="27.5998" height="7.552">~udovit,</TOKEN>
 <TOKEN sid="p11_s11359" id="p11_w430" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="545.254" base="550.95" width="42.1992" height="7.552">ob~udovanja</TOKEN>
@@ -52,11 +52,11 @@
 <TOKEN sid="p11_s11367" id="p11_w438" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="554.334" base="560.03" width="21.5683" height="7.552">cision.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p11_s11368" id="p11_w439" font-name="slsymbol" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.48" y="554.03" base="560.03" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p11_s11368" id="p11_w439" font-name="slsymbol" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.48" y="554.03" base="560.03" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p11_s11369" id="p11_w440" font-name="ssunivers" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.55" y="554.334" base="560.03" width="33.8386" height="7.568">admirably</TOKEN>
 </orth>
@@ -75,6 +75,6 @@
 <TOKEN sid="p11_s11375" id="p11_w446" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.069" y="554.334" base="560.03" width="35.7257" height="7.552">admirably.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p1_s258" id="p1_w258" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.05" y="355.138" base="360.3" width="26.6716" height="6.844">/6baËd/,</TOKEN>
+<TOKEN sid="p1_s258" id="p1_w258" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.05" y="355.138" base="360.3" width="26.6716" height="6.844">/6ba&#203;d/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -15,7 +15,7 @@
 </form>
 </form>
 <sense n="1">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <dictScrap>
@@ -39,7 +39,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p1_s272" id="p1_w272" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="413.08" y="364.505" base="369.38" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p1_s272" id="p1_w272" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="413.08" y="364.505" base="369.38" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p1_s273" id="p1_w273" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.87" y="363.684" base="369.38" width="7.8984" height="7.552">ne</TOKEN>
 <TOKEN sid="p1_s274" id="p1_w274" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="428.267" y="363.684" base="369.38" width="13.9608" height="7.552">pre-</TOKEN>
@@ -58,7 +58,7 @@
 <TOKEN sid="p1_s283" id="p1_w283" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="380.03" y="372.764" base="378.46" width="25.1453" height="7.552">Dennis.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -85,7 +85,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p1_s295" id="p1_w295" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="415.55" y="382.665" base="387.54" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p1_s295" id="p1_w295" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="415.55" y="382.665" base="387.54" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p1_s296" id="p1_w296" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="421.43" y="381.844" base="387.54" width="20.7972" height="7.552">vztra-</TOKEN>
 <TOKEN sid="p1_s297" id="p1_w297" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="390.924" base="396.62" width="13.5979" height="7.552">jati,</TOKEN>
@@ -95,7 +95,7 @@
 </cit>
 </sense>
 <sense>
-<sense value="phr vb">
+<re value="phr vb">
 <form type="lemma">
 <orth>
 <TOKEN sid="p1_s300" id="p1_w300" font-name="ssunivers" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="399.994" base="405.69" width="18.8006" height="7.568">abide</TOKEN>
@@ -136,7 +136,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p1_s324" id="p1_w324" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="323.53" y="418.975" base="423.85" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p1_s324" id="p1_w324" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="323.53" y="418.975" base="423.85" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p1_s325" id="p1_w325" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.28" y="418.154" base="423.85" width="35.8992" height="7.552">upo{tevati,</TOKEN>
 <TOKEN sid="p1_s326" id="p1_w326" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.609" y="418.154" base="423.85" width="23.7802" height="7.552">ravnati</TOKEN>
@@ -159,6 +159,6 @@
 </quote>
 </seg>
 </sense>
-</sense>
+</re>
 </sense>
 </entry>

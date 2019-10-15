@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p3_s2954" id="p3_w852" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.11" y="409.608" base="414.77" width="40.1916" height="6.844">/6bØnd6ns/.</TOKEN>
+<TOKEN sid="p3_s2954" id="p3_w852" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.11" y="409.608" base="414.77" width="40.1916" height="6.844">/6b&#216;nd6ns/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -34,7 +34,7 @@ obilje, obilica
 </seg>
 </sense>
 <sense n="2">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 PHRASE
@@ -58,6 +58,6 @@ na pretek, v obilici
 There was grass in abundance.
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -5,12 +5,12 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p14_s14821" id="p14_w691" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="279.07" y="228.548" base="233.71" width="26.1816" height="6.844">/6fiÂld/.</TOKEN>
+<TOKEN sid="p14_s14821" id="p14_w691" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="279.07" y="228.548" base="233.71" width="26.1816" height="6.844">/6fi&#194;ld/.</TOKEN>
 </pron>
 </form>
 </form>
 <sense>
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p14_s14822" id="p14_w692" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="308.88" y="229.794" base="233.71" width="21.8196" height="5.192">PHRASE</TOKEN>
@@ -33,7 +33,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p14_s14833" id="p14_w703" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="349.69" y="237.905" base="242.78" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p14_s14833" id="p14_w703" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="349.69" y="237.905" base="242.78" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p14_s14834" id="p14_w704" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="355.83" y="237.084" base="242.78" width="17.9971" height="7.552">dale~</TOKEN>
 <TOKEN sid="p14_s14835" id="p14_w705" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="375.727" y="237.084" base="242.78" width="19.5948" height="7.552">stran;</TOKEN>
@@ -53,6 +53,6 @@
 <TOKEN sid="p14_s14845" id="p14_w715" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.196" y="246.144" base="251.84" width="42.3929" height="7.552">deputations.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -5,9 +5,9 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p16_s16978" id="p16_w549" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="292.47" y="119.098" base="124.26" width="15.4501" height="6.844">/æg6</TOKEN>
+<TOKEN sid="p16_s16978" id="p16_w549" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="292.47" y="119.098" base="124.26" width="15.4501" height="6.844">/&#230;g6</TOKEN>
 <TOKEN sid="p16_s16979" id="p16_w550" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="308.1" y="118.46" base="121.87" width="2.39636" height="4.52176">7</TOKEN>
-<TOKEN sid="p16_s16980" id="p16_w551" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="310.63" y="119.098" base="124.26" width="24.7016" height="6.844">naËzËÏ/;</TOKEN>
+<TOKEN sid="p16_s16980" id="p16_w551" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="310.63" y="119.098" base="124.26" width="24.7016" height="6.844">na&#203;z&#203;&#207;/;</TOKEN>
 </pron>
 </form>
 <form type="variant">
@@ -44,14 +44,14 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p16_s16996" id="p16_w567" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="291.17" y="137.545" base="142.42" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p16_s16996" id="p16_w567" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="291.17" y="137.545" base="142.42" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p16_s16997" id="p16_w568" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="297.58" y="136.724" base="142.42" width="24.3972" height="7.552">mu~en;</TOKEN>
 </quote>
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p16_s16998" id="p16_w569" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.15" y="136.724" base="142.42" width="40.3999" height="7.552">…agonizing</TOKEN>
+<TOKEN sid="p16_s16998" id="p16_w569" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.15" y="136.724" base="142.42" width="40.3999" height="7.552">&#8230;agonizing</TOKEN>
 <TOKEN sid="p16_s16999" id="p16_w570" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.72" y="136.724" base="142.42" width="25.987" height="7.552">feelings</TOKEN>
 <TOKEN sid="p16_s17000" id="p16_w571" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.877" y="136.724" base="142.42" width="6.40008" height="7.552">of</TOKEN>
 <TOKEN sid="p16_s17001" id="p16_w572" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="403.447" y="136.724" base="142.42" width="21.5971" height="7.552">shame</TOKEN>
@@ -59,11 +59,11 @@
 <TOKEN sid="p16_s17003" id="p16_w574" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="145.804" base="151.5" width="17.9892" height="7.552">guilt.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p16_s17004" id="p16_w575" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.77" y="145.5" base="151.5" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p16_s17004" id="p16_w575" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.77" y="145.5" base="151.5" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p16_s17005" id="p16_w576" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.45" y="145.804" base="151.5" width="39.6" height="7.568">agonizingly</TOKEN>
 </orth>
@@ -82,7 +82,7 @@
 <TOKEN sid="p16_s17011" id="p16_w582" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="154.884" base="160.58" width="26.3801" height="7.552">painful.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -109,7 +109,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p16_s17023" id="p16_w594" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="304.21" y="164.775" base="169.65" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p16_s17023" id="p16_w594" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="304.21" y="164.775" base="169.65" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p16_s17024" id="p16_w595" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="310.44" y="163.954" base="169.65" width="22.3992" height="7.552">mu~en</TOKEN>
 </quote>

@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p6_s6049" id="p6_w673" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="289.24" y="228.038" base="233.2" width="18.8399" height="6.844">/ækj6</TOKEN>
+<TOKEN sid="p6_s6049" id="p6_w673" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="289.24" y="228.038" base="233.2" width="18.8399" height="6.844">/&#230;kj6</TOKEN>
 <TOKEN sid="p6_s6050" id="p6_w674" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="308.41" y="227.4" base="230.81" width="2.39636" height="4.52176">4</TOKEN>
 <TOKEN sid="p6_s6051" id="p6_w675" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="311.05" y="228.038" base="233.2" width="6.51022" height="6.844">r6</TOKEN>
 <TOKEN sid="p6_s6052" id="p6_w676" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="317.89" y="227.4" base="230.81" width="2.39636" height="4.52176">1</TOKEN>
@@ -45,7 +45,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p6_s6072" id="p6_w696" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="274.25" y="246.485" base="251.36" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p6_s6072" id="p6_w696" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="274.25" y="246.485" base="251.36" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6073" id="p6_w697" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.98" y="245.664" base="251.36" width="28.872" height="7.552">pravilen,</TOKEN>
 <TOKEN sid="p6_s6074" id="p6_w698" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="310.262" y="245.664" base="251.36" width="31.68" height="7.552">natan~en;</TOKEN>
@@ -53,7 +53,7 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p6_s6075" id="p6_w699" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.35" y="245.664" base="251.36" width="15.2208" height="7.552">…an</TOKEN>
+<TOKEN sid="p6_s6075" id="p6_w699" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.35" y="245.664" base="251.36" width="15.2208" height="7.552">&#8230;an</TOKEN>
 <TOKEN sid="p6_s6076" id="p6_w700" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="359.981" y="245.664" base="251.36" width="27.8676" height="7.552">accurate</TOKEN>
 <TOKEN sid="p6_s6077" id="p6_w701" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.259" y="245.664" base="251.36" width="23.0998" height="7.552">picture</TOKEN>
 <TOKEN sid="p6_s6078" id="p6_w702" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.769" y="245.664" base="251.36" width="6.21" height="7.552">of</TOKEN>
@@ -61,11 +61,11 @@
 <TOKEN sid="p6_s6080" id="p6_w704" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="254.744" base="260.44" width="25.5607" height="7.552">history.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p6_s6081" id="p6_w705" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.39" y="254.44" base="260.44" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p6_s6081" id="p6_w705" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.39" y="254.44" base="260.44" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6082" id="p6_w706" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.13" y="254.744" base="260.44" width="35.2087" height="7.568">accurately</TOKEN>
 </orth>
@@ -84,7 +84,7 @@
 <TOKEN sid="p6_s6088" id="p6_w712" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.439" y="254.744" base="260.44" width="15.5995" height="7.552">told.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -114,7 +114,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p6_s6103" id="p6_w727" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="356.23" y="273.725" base="278.6" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p6_s6103" id="p6_w727" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="356.23" y="273.725" base="278.6" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6104" id="p6_w728" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="363.31" y="272.904" base="278.6" width="33.2006" height="7.552">natan~en;</TOKEN>
 </quote>
@@ -138,11 +138,11 @@
 <TOKEN sid="p6_s6117" id="p6_w741" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.564" y="291.054" base="296.75" width="28.7813" height="7.552">spelling.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p6_s6118" id="p6_w742" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="319.12" y="290.75" base="296.75" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p6_s6118" id="p6_w742" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="319.12" y="290.75" base="296.75" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6119" id="p6_w743" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.4" y="291.054" base="296.75" width="35.2087" height="7.568">accurately</TOKEN>
 </orth>
@@ -163,6 +163,6 @@
 <TOKEN sid="p6_s6127" id="p6_w751" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.208" y="300.134" base="305.83" width="26.8013" height="7.552">enough.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -7,7 +7,7 @@
 <pron>
 <TOKEN sid="p6_s6277" id="p6_w901" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="291" y="464.078" base="469.24" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p6_s6278" id="p6_w902" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="297.49" y="463.44" base="466.85" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p6_s6279" id="p6_w903" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.12" y="464.078" base="469.24" width="28.3716" height="6.844">kjuÂzËÏ/.</TOKEN>
+<TOKEN sid="p6_s6279" id="p6_w903" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.12" y="464.078" base="469.24" width="28.3716" height="6.844">kju&#194;z&#203;&#207;/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -42,7 +42,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p6_s6299" id="p6_w923" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="318.32" y="482.525" base="487.4" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p6_s6299" id="p6_w923" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="318.32" y="482.525" base="487.4" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6300" id="p6_w924" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.33" y="481.704" base="487.4" width="35.2015" height="7.552">obto`ujo~;</TOKEN>
 </quote>
@@ -58,11 +58,11 @@
 <TOKEN sid="p6_s6307" id="p6_w931" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="270.559" y="490.784" base="496.48" width="16.2029" height="7.552">look.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p6_s6308" id="p6_w932" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.16" y="490.48" base="496.48" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p6_s6308" id="p6_w932" font-name="slsymbol" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.16" y="490.48" base="496.48" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p6_s6309" id="p6_w933" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="294.17" y="490.784" base="496.48" width="34.6529" height="7.568">accusingly</TOKEN>
 </orth>
@@ -74,15 +74,15 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p6_s6311" id="p6_w935" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.05" y="490.784" base="496.48" width="14.4202" height="7.552">šYou</TOKEN>
+<TOKEN sid="p6_s6311" id="p6_w935" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.05" y="490.784" base="496.48" width="14.4202" height="7.552">&#353;You</TOKEN>
 <TOKEN sid="p6_s6312" id="p6_w936" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="358.92" y="490.784" base="496.48" width="16.5888" height="7.552">liked</TOKEN>
-<TOKEN sid="p6_s6313" id="p6_w937" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.958" y="490.784" base="496.48" width="16.596" height="7.552">him,’</TOKEN>
+<TOKEN sid="p6_s6313" id="p6_w937" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.958" y="490.784" base="496.48" width="16.596" height="7.552">him,&#8217;</TOKEN>
 <TOKEN sid="p6_s6314" id="p6_w938" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.003" y="490.784" base="496.48" width="7.848" height="7.552">he</TOKEN>
 <TOKEN sid="p6_s6315" id="p6_w939" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.3" y="490.784" base="496.48" width="13.5432" height="7.552">said</TOKEN>
 <TOKEN sid="p6_s6316" id="p6_w940" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="419.293" y="490.784" base="496.48" width="20.7252" height="7.552">accus-</TOKEN>
 <TOKEN sid="p6_s6317" id="p6_w941" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="499.864" base="505.56" width="18.761" height="7.552">ingly.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

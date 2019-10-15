@@ -7,7 +7,7 @@
 <pron>
 <TOKEN sid="p10_s10697" id="p10_w880" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="286.48" y="409.608" base="414.77" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p10_s10698" id="p10_w881" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="292.97" y="408.97" base="412.38" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p10_s10699" id="p10_w882" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="295.6" y="409.608" base="414.77" width="23.4016" height="6.844">dÇÅÂn/,</TOKEN>
+<TOKEN sid="p10_s10699" id="p10_w882" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="295.6" y="409.608" base="414.77" width="23.4016" height="6.844">d&#199;&#197;&#194;n/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -41,7 +41,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p10_s10716" id="p10_w899" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="330.06" y="428.055" base="432.93" width="4.23262" height="6.5">ρ</TOKEN>
+<TOKEN sid="p10_s10716" id="p10_w899" font-name="slsymbol" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="330.06" y="428.055" base="432.93" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p10_s10717" id="p10_w900" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="337.97" y="427.234" base="432.93" width="29.1125" height="7.552">odlo`iti;</TOKEN>
 </quote>
@@ -59,11 +59,11 @@
 <TOKEN sid="p10_s10726" id="p10_w909" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="351.656" y="436.314" base="442.01" width="31.2854" height="7.552">morning.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <dictScrap>
-<TOKEN sid="p10_s10727" id="p10_w910" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.73" y="436.01" base="442.01" width="4.5068" height="8">τ</TOKEN>
+<TOKEN sid="p10_s10727" id="p10_w910" font-name="slsymbol" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.73" y="436.01" base="442.01" width="4.5068" height="8">&#964;</TOKEN>
 </dictScrap>
 <TOKEN sid="p10_s10728" id="p10_w911" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.89" y="436.314" base="442.01" width="45.0936" height="7.568">adjournment</TOKEN>
 </orth>
@@ -72,7 +72,7 @@
 <pron>
 <TOKEN sid="p10_s10729" id="p10_w912" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="258.61" y="445.928" base="451.09" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p10_s10730" id="p10_w913" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="265.1" y="445.28" base="448.69" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p10_s10731" id="p10_w914" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="267.73" y="445.928" base="451.09" width="27.9202" height="6.844">dÇÅÂnm6</TOKEN>
+<TOKEN sid="p10_s10731" id="p10_w914" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="267.73" y="445.928" base="451.09" width="27.9202" height="6.844">d&#199;&#197;&#194;nm6</TOKEN>
 <TOKEN sid="p10_s10732" id="p10_w915" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="295.98" y="445.28" base="448.69" width="2.39636" height="4.52176">2</TOKEN>
 <TOKEN sid="p10_s10733" id="p10_w916" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.61" y="445.928" base="451.09" width="9.78" height="6.844">nt/</TOKEN>
 </pron>
@@ -91,6 +91,6 @@
 <TOKEN sid="p10_s10739" id="p10_w922" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="410.419" y="445.394" base="451.09" width="22.3949" height="7.552">called.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>
