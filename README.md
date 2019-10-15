@@ -2,6 +2,7 @@
 This repository contains original entries and transformed entries form **Bridge_A.pdf** Dictionary.
 Entries from folder **original_entries** were transformed where each word has *< TOKEN >* tags around it.
 Transformed entries are located in **tokenized_entries** folder.
+
 Correct entries with *< dictScrap >* and *< re >* tags are located in **dictScrap** folder.
 
 In **correct_entries** folder, are entries that had been manually checked for errors.
