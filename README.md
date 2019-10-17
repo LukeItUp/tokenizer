@@ -5,24 +5,13 @@ Transformed entries are located in **tokenized_entries** folder.
 
 In **correct_entries** folder, are entries that had been manually checked for errors.
 This folder is missing the following entries (due to the fact that they were incorrectly transformed).
-- entry_9.xml
 - entry_22.xml
-- entry_44.xml
 - entry_51.xml
-- entry_52.xml
-- entry_64.xml
-- entry_80.xml
 - entry_116.xml
-- entry_151.xml
-- entry_170.xml
 - entry_190.xml
 - entry_211.xml
-- entry_255.xml
 - entry_261.xml
 - entry_267.xml
-- entry_276.xml
-- entry_283.xml
-- entry_290.xml
 
 **Note:**
 
