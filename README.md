@@ -8,12 +8,6 @@ Correct entries with *< dictScrap >* and *< re >* tags are located in **dictScra
 In **correct_entries** folder, are entries that had been manually checked for errors.
 This folder is missing the following entries (due to the fact that they were incorrectly transformed).
 - entry_22.xml
-- entry_51.xml
-- entry_116.xml
-- entry_190.xml
-- entry_211.xml
-- entry_261.xml
-- entry_267.xml
 
 **Note:**
 
