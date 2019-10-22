@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rating
+</orth>
+<form type="variant">
+<pron>
+/r*e*ItIN/
+</pron>
+</form>
+<form type="inflected">
+ratings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rating 
+</seg>
+je ocena ali to&ccaron;kovanje lastnosti, ki jih ima neka stvar ali oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrednost, ocena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...jobs which are assigned a low rating on the economic scale.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ratings 
+</seg>
+so statisti&ccaron;ni podatki o tem, koliko ljudi gleda katero televizijsko oddajo; objavljeni vsak teden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ocena gledanosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ratings are a disaster and the reviews are worse.
+</quote>
+</seg>
+</sense>
+</entry>

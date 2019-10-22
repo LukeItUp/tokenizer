@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+martyr
+</orth>
+<form type="variant">
+<pron>
+/m*A*:t@/
+</pron>
+</form>
+<form type="inflected">
+martyrs, martyred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A martyr 
+</seg>
+je &ccaron;lovek, ki so ga ubili zaradi njegovega verskega prepri&ccaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mu&ccaron;enik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+St Sebastian was a Christian martyr.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is martyred
+</seg>
+, ga ubijejo zaradi njegovega verskega prepri&ccaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umreti mu&ccaron;eni&scaron;ke smrti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is where St Peter was supposed to have been martyred.
+</quote>
+</seg>
+</sense>
+</entry>

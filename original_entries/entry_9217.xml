@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+morning
+</orth>
+<form type="variant">
+<pron>
+/m*O*:nIN/
+</pron>
+</form>
+<form type="inflected">
+mornings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The morning 
+</seg>
+je del dneva med &ccaron;asom, ko se ljudje zbudijo, in kosilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopoldne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She left after breakfast on Saturday morning.
+</quote>
+<quote>
+I was reading the morning paper.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi del dneva med polno&ccaron;jo in poldnevom se imenuje 
+<seg type="lemma">
+the morning
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jutro, dopoldne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She died in the very early hours of this morning.
+</quote>
+<quote>
+It was five o&apos;clock in the morning.
+</quote>
+</seg>
+</sense>
+</entry>

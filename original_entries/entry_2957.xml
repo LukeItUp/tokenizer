@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contrary
+</orth>
+<form type="variant">
+<pron>
+/k*Qntr@ri1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zamisli ali mnenja, ki so 
+<seg type="lemma">
+contrary
+</seg>
+, si nasprotujejo in ne morejo veljati za isto osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasproten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They happily tolerated the existence of opinions contrary to their own.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da je nekaj res 
+<seg type="lemma">
+contrary to what someone else believes or says
+</seg>
+, ho&ccaron;emo povedati, da je res in se drugi v svojih prepri&ccaron;anjih ali trditvah motijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v nasprotju, nasproti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Contrary to what is generally assumed, the adjustment is easily made.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+On the contrary 
+</seg>
+re&ccaron;emo, kadar nasprotujemo pravkar povedanemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(ravno) nasprotno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;You'll get tired of it.&rsquo;&mdash;&lsquo;On the contrary. I shall enjoy it.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Dokazi ali trditve 
+<seg type="lemma">
+to the contrary 
+</seg>
+nasprotujejo tistemu, kar govorimo mi ali kar je rekel nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasproten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This method, despite statements to the contrary, has no damaging effects.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

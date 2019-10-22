@@ -5,39 +5,39 @@ analyse
 </orth>
 <form type="variant">
 <pron>
-/*#ae;n@laIz/
+/*&ae;n@laIz/
 </pron>
 </form>
 <form type="inflected">
 analyses, analysing, analysed;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-analyze.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+analyze
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To analyse something
+To analyse something 
 </seg>
-pomeni tisto
-premisliti ali preu&#269;iti, da bi razumeli ali ugotovili, iz &#269;esa sestoji.
+pomeni tisto premisliti ali preu&ccaron;iti, da bi razumeli ali ugotovili, iz &ccaron;esa sestoji. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-analizirati, raz&#269;leniti
+analizirati, raz&ccaron;leniti
 </quote>
 </cit>
 </sense>

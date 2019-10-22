@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+certainly
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:t@0nli1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+certainly 
+</seg>
+poudarimo tisto, kar govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gotovo, vsekakor, zanesljivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If nothing is done there will certainly be an economic crisis.
+</quote>
+<quote>
+It certainly looks wonderful, doesn't it?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+certainly 
+</seg>
+uporabljamo tudi takrat, ko se strinjamo z ne&ccaron;im, kar je nekdo prej rekel ali predlagal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seveda, vsekakor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Would you agree that it is still a difficult world for women to live in?&rsquo;&mdash;&lsquo;Oh certainly.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Certainly not 
+</seg>
+re&ccaron;emo takrat, ko ho&ccaron;emo mo&ccaron;no poudariti nikalnico 
+<seg type="lemma">
+no
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nikakor ne, seveda ne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Had you forgotten?&rsquo;&mdash;&lsquo;Certainly not.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

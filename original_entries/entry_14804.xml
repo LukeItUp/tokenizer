@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+treasure
+</orth>
+<form type="variant">
+<pron>
+/tr*eZ@/
+</pron>
+</form>
+<form type="inflected">
+treasures, treasuring, treasured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Treasure 
+</seg>
+je zbirka zlata, srebra ali draguljev, zlasti kadar jo je nekdo skril. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaklad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...buried treasure.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Treasures 
+</seg>
+so dragocene umetnine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dragocenosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the sale of art treasures.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To treasure something 
+</seg>
+pomeni, da nam nekaj, kar imamo, veliko pomeni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the memories which they would treasure.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+treasured
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...my most treasured possessions.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

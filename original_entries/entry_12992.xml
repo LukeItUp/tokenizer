@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sir
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+sir 
+</seg>
+se v&ccaron;asih uporablja za mo&scaron;kega, kadar govorec &zcaron;eli biti vljuden in uraden. 
+<seg type="lemma">
+Dear Sir
+</seg>
+ (Spo&scaron;tovani) se pogosto uporablja na za&ccaron;etku uradnih pisem, naslovljenih mo&scaron;kim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gospod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What would you like, sir?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sir 
+</seg>
+je naziv pred imenom viteza ali baroneta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Sir John Hargreaves.
+</quote>
+</seg>
+</sense>
+</entry>

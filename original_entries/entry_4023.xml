@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dismissal
+</orth>
+<form type="variant">
+<pron>
+/dIsm*Is@0l/
+</pron>
+</form>
+<form type="inflected">
+dismissals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dismissal 
+</seg>
+je dejanje, ko se znebimo zaposlenega delavca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpust, odslovitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They discussed the dismissal of a teacher.
+</quote>
+<quote>
+...a tribunal dealing with unfair dismissals.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dismissal 
+</seg>
+je tudi odlo&ccaron;itev, da nekaj ni dovolj pomembno ali dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odklonitev, opustitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...this dismissal of the computer's potential.
+</quote>
+</seg>
+</sense>
+</entry>

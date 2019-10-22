@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+staff
+</orth>
+<form type="variant">
+<pron>
+/st*A*:f/
+</pron>
+</form>
+<form type="inflected">
+staffs, staffed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The staff of an organization 
+</seg>
+so ljudje, ki delajo v neki organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osebje, zaposleni
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was invited to join the staff of the BBC.
+</quote>
+<quote>
+There are two students to every member of staff.
+</quote>
+<quote>
+They have already agreed to cut their staffs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neka organizacija 
+<seg type="lemma">
+staffed by particular people
+</seg>
+, dolo&ccaron;ene osebe delajo zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oskrbljen z osebjem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was staffed and run by engineers.
+</quote>
+</seg>
+</sense>
+</entry>

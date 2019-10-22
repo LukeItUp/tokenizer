@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+province
+</orth>
+<form type="variant">
+<pron>
+/pr*QvIns/
+</pron>
+</form>
+<form type="inflected">
+provinces.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A province 
+</seg>
+je veliko obmo&ccaron;je znotraj dr&zcaron;ave, ki je samostojna upravna enota. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokrajina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...rallies in Zimbabwe&apos;s five provinces.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The provinces 
+</seg>
+so deli dr&zcaron;ave zunaj glavnega mesta in njegove neposredne okolice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+provinca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...teenage life in the provinces.
+</quote>
+</seg>
+</sense>
+</entry>

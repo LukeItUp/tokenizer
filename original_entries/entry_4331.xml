@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drown
+</orth>
+<form type="variant">
+<pron>
+/dr*a*Un/
+</pron>
+</form>
+<form type="inflected">
+drowns, drowning, drowned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+drowns 
+</seg>
+ali
+<seg type="variant">
+ is drowned
+</seg>
+, umre, ker je &scaron;el pod vodo in ni mogel dihati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utoniti, utopiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A man fell from a bridge and drowned.
+</quote>
+<quote>
+I couldn't make myself drown the poor creature.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+drowns a sound
+</seg>
+, je glasnej&scaron;e od nekega drugega zvoka, ki ga zato ne moremo sli&scaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preglasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the heckling which drowned his speech.
+</quote>
+</seg>
+</sense>
+</entry>

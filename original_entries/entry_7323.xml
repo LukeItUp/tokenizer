@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+increase,
+</orth>
+<form type="inflected">
+increases, increasing, increased;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/*IN1kri:s/
+</pron>
+, glagol pa 
+<pron>
+/IN1kr*i*:s/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+increases
+</seg>
+, postane ve&ccaron;je po koli&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narasti, pove&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crime has increased by three per cent in the past year.
+</quote>
+<quote>
+...men seeking to increase their knowledge.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+increased
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...increased productivity.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+increasing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Japanese industry is making increasing use of robots.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An increase 
+</seg>
+je pove&ccaron;anje &scaron;tevila ali koli&ccaron;ine ne&ccaron;esa ali dvig ravni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+porast, pove&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They demanded a sharp increase in wages.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+on the increase
+</seg>
+, postaja pogostej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vse pogostej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crime is on the increase.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

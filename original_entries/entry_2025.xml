@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+carrot
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;r@t/
+</pron>
+</form>
+<form type="inflected">
+carrots.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A carrot 
+</seg>
+je zelenjava s podolgovatim oran&zcaron;nim podzemnim korenom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+korenje
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Carrot 
+</seg>
+se lahko nana&scaron;a tudi na tisto, kar ljudem ponudimo, da bi jih pregovorili, naj nekaj storijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podkupnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The free cottage is the carrot which makes him accept his low wage.
+</quote>
+</seg>
+</sense>
+</entry>

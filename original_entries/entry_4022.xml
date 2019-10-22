@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dismiss
+</orth>
+<form type="variant">
+<pron>
+/dIsm*Is/
+</pron>
+</form>
+<form type="inflected">
+dismisses, dismissing, dismissed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dismiss something 
+</seg>
+pomeni skleniti ali re&ccaron;i, da nekaj ni dovolj pomembno ali dobro, da bi o tistem razmi&scaron;ljali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odsloviti, odkloniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This plan was dismissed as foolish.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be dismissed from a job
+</seg>
+ pomeni, da se je tistega &ccaron;loveka delodajalec znebil.
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpustiti, odsloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were dismissed for refusing to join a union.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo, ki ima oblast, 
+<seg type="lemma">
+dismisses someone
+</seg>
+, nekomu da dovoljenje za odhod; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odsloviti, odposlati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dismissing the other children, she told me to wait.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plural
+</orth>
+<form type="variant">
+<pron>
+/pl*U*@r@l/
+</pron>
+</form>
+<form type="inflected">
+plurals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V slovnici je 
+<seg type="lemma">
+plural 
+</seg>
+izraz za obliko samostalnika, zaimka, pridevni&scaron;kega zaimka ali glagola, ki se nana&scaron;a na dve ali ve&ccaron; oseb, stvari ali skupin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mno&zcaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Use the first person plural.
+</quote>
+<quote>
+The singular is &lsquo;louse&rsquo; and the plural form is &lsquo;lice&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+plural 
+</seg>
+opisuje tudi vse, kar je sestavljeno iz ve&ccaron; kot ene osebe ali stvari ali iz razli&ccaron;nih vrst oseb ali stvari; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pluralen, mno&zcaron;inski, ve&ccaron;delen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We need a plural system of education.
+</quote>
+</seg>
+</sense>
+</entry>

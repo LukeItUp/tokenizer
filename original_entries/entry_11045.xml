@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+price
+</orth>
+<form type="variant">
+<pron>
+/pr*a*Is/
+</pron>
+</form>
+<form type="inflected">
+prices, pricing, priced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The price of something 
+</seg>
+je znesek, ki ga moramo pla&ccaron;ati, kadar &zcaron;elimo nekaj kupiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The price of firewood has risen steeply.
+</quote>
+<quote>
+Petrol will continue to drop in price.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The price that one pays for something 
+</seg>
+je nekaj neprijetnega, kar moramo narediti, da dobimo ali dose&zcaron;emo nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was the price that had to be paid for progress.
+</quote>
+<quote>
+This is a small price to pay for freedom.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is priced at a particular amount
+</seg>
+, stane dolo&ccaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti (dolo&ccaron;eno) ceno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The least expensive will be priced at &pound;7,000.
+</quote>
+<quote>
+...reasonably priced accommodation.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cut-price
+</ref>
+</xr>
+</sense>
+</entry>

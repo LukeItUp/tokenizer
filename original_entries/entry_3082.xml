@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cough
+</orth>
+<form type="variant">
+<pron>
+/k*Qf/
+</pron>
+</form>
+<form type="inflected">
+coughs, coughing, coughed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cough 
+</seg>
+pomeni potisniti zrak iz grla ob nenadnem, ostrem zvoku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaka&scaron;ljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Willet coughed nervously.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a muffled cough outside the study door.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+coughing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They suffered abdominal pains and intense coughing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cough blood or phlegm 
+</seg>
+pomeni potisniti kri ali sluz iz grla ob nenadnem, ostrem zvoku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izka&scaron;ljati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cough 
+</seg>
+je tudi bolezen, pri kateri veliko ka&scaron;ljamo in nas boli v prsih ali grlu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ka&scaron;elj
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cough up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cough up money 
+</seg>
+pomeni nekomu dati denar; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How can he persuade the authorities to cough up for the private education of his children?
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,238 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cry
+</orth>
+<form type="variant">
+<pron>
+/kr*a*I/
+</pron>
+</form>
+<form type="inflected">
+cries, crying, cried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+cries
+</seg>
+, mu iz o&ccaron;i te&ccaron;ejo solze, ker je nesre&ccaron;en ali ranjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jokati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Helen began to cry.
+</quote>
+<quote>
+He kept on crying.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I think she had had a good cry.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cry something 
+</seg>
+pomeni nekaj na glas zakri&ccaron;ati ali re&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavpiti, zaklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Come on!&rsquo; he cried.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I heard a cry for help.
+</quote>
+<quote>
+Claud let out a cry of horror.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glasen pti&ccaron;ji klic lahko opi&scaron;emo kot 
+<seg type="lemma">
+a cry
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krik, vre&scaron;&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A sea bird flapped upwards with a hoarse cry.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a far cry from something else
+</seg>
+, je zelo razli&ccaron;no od ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivo nasprotje, povsem druga zgodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tropical grasslands are a far cry from the lush green pastures of Ireland.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cry off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cry off 
+</seg>
+pomeni skleniti, da ne bomo storili ne&ccaron;esa, za kar smo se &zcaron;e dogovorili; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+premisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm afraid I cried off at the last moment.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cry out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cry out 
+</seg>
+pomeni glasno zaklicati ali kaj re&ccaron;i, na primer zato, ker smo zaskrbljeni ali prepla&scaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzklikniti, zakri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I heard Mary cry out in fright.
+</quote>
+<quote>
+&lsquo;Father! You must stop that!&rsquo; he suddenly cried out.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cry out for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neka stvar 
+<seg type="lemma">
+is crying out for another
+</seg>
+, zelo potrebuje drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eleti, hrepeneti, klicati po
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a vast surplus of workers crying out for employment.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

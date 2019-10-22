@@ -1,0 +1,365 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+level
+</orth>
+<form type="variant">
+<pron>
+/l*ev@0l/
+</pron>
+</form>
+<form type="inflected">
+levels, levelling, levelled;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+leveling 
+</SV>
+in 
+<SV>
+leveled
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A level 
+</seg>
+je to&ccaron;ka na merilu ali lestvici, na primer za koli&ccaron;ino, pomembnost ali te&zcaron;avnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mammals maintain their body temperature at a constant level.
+</quote>
+<quote>
+...a high level of unemployment.
+</quote>
+<quote>
+...an intermediate level English course.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The level of a lake or river 
+</seg>
+ali 
+<seg type="lemma">
+the level of a liquid in a container 
+</seg>
+je vi&scaron;ina gladine jezera, reke ali teko&ccaron;ine v posodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gladina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The level of the lake continues to rise.
+</quote>
+<quote>
+Check the oil level and tyre pressure of your car regularly.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+sea level
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+at the level of another thing
+</seg>
+, je na isti vi&scaron;ini kot druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v isti vi&scaron;ini
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had a pile of books which reached to the level of his chin.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+level with another thing
+</seg>
+, je v isti vi&scaron;ini kot druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v isti vi&scaron;ini, poravnan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had his hands in front of him, level with his chest.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer trgovina, 
+<seg type="lemma">
+stays level with something else
+</seg>
+, postane ve&ccaron;je ali manj&scaron;e z enako hitrostjo kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzporeden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Food production is going to keep level with population growth.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo nekam gre in 
+<seg type="lemma">
+draws level with someone
+</seg>
+, se mu pribli&zcaron;a, dokler ni ob njegovi strani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzporeden, v isti &ccaron;rti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Coming towards me was a man and when we drew level, I smiled.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+level
+</seg>
+, je popolnoma ravno, tako da noben del ni vi&scaron;ji od drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raven, vodoraven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The floor is quite level.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To level an area of land 
+</seg>
+pomeni neko zemlji&scaron;&ccaron;e narediti ravno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zravnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...gardeners digging and levelling the ground.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To level something
+</seg>
+, na primer stavbo ali gozd, pomeni popolnoma ga podreti, da ni&ccaron; ne ostane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti, zravnati z zemljo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Specially built tractors levelled more than 1,000 acres of forest.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To level a criticism or accusation at or against someone 
+</seg>
+pomeni nekoga kritizirati ali obto&zcaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameriti, naperiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...criticisms he has levelled against gangsters.
+</quote>
+<quote>
+Serious charges were levelled at television during the sixties.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+level off 
+<VS>
+ali 
+</VS>
+<VV>
+level out.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+levels off 
+</seg>
+ali 
+<seg type="variant">
+levels out
+</seg>
+, se preneha pove&ccaron;evati ali zmanj&scaron;evati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaliti se, umiriti se, uravnovesiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Economic growth was starting to level off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar letalo 
+<seg type="lemma">
+levels off 
+</seg>
+ali 
+<seg type="variant">
+levels out
+</seg>
+, leti vodoravno, ko je prej letelo navzgor ali navzdol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zravnati se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+player
+</orth>
+<form type="variant">
+<pron>
+/pl*e*I@/
+</pron>
+</form>
+<form type="inflected">
+players.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri &scaron;portu ali igrah je 
+<seg type="lemma">
+a player 
+</seg>
+oseba, ki sodeluje v tekmi ali igri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igralec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A player 
+</seg>
+je tudi oseba, ki igra na neki in&scaron;trument. Na primer, 
+<seg type="lemma">
+a piano player 
+</seg>
+je oseba, ki igra na klavir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasbenik, igralec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s one of the most original guitar players in jazz.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+record player
+</ref>
+</xr>
+</sense>
+</entry>

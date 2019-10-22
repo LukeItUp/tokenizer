@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+usually
+</orth>
+<form type="variant">
+<pron>
+/j*u*:ZU0@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+usually happens
+</seg>
+, se najve&ccaron;krat zgodi v dolo&ccaron;enih okoli&scaron;&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navadno, obi&ccaron;ajno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She usually found it easy to go to sleep at night.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+more than usually 
+</seg>
+pomeni, da nekaj ka&zcaron;e dolo&ccaron;eno lastnost v &scaron;e ve&ccaron;ji meri kot obi&ccaron;ajno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj kot ponavadi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had shown themselves to be more than usually gullible.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

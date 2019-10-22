@@ -1,0 +1,170 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sick
+</orth>
+<form type="variant">
+<pron>
+/s*Ik/
+</pron>
+</form>
+<form type="inflected">
+sicker, sickest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sick
+</seg>
+, ni zdrav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolan
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel sick 
+</seg>
+pomeni, da nam gre na bruhanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti slabo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Flying always makes me feel sick.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sick of something 
+</seg>
+pomeni, da nas nekaj jezi ali dolgo&ccaron;asi in da &zcaron;elimo, da bi se tisto kon&ccaron;alo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sit, naveli&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re sick of sitting around waiting for something to happen.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zgodba ali &scaron;ala, ki je 
+<seg type="lemma">
+sick
+</seg>
+, na neprijetno neresen na&ccaron;in govori o smrti ali trpljenju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neokusen, bolan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She made a rather sick joke.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be sick 
+</seg>
+pomeni izlo&ccaron;iti zau&zcaron;ito hrano skozi usta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bruhati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think I&apos;m going to be sick.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes someone sick
+</seg>
+, je nekdo zaradi tistega jezen ali ogor&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti slabo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It makes me sick the way they waste our money.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be worried sick 
+</seg>
+pomeni biti izjemno zaskrbljen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti na smrt zaskrbljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was worried sick that the factory might close.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

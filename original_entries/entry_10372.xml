@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+penetrate
+</orth>
+<form type="variant">
+<pron>
+/p*enItreIt/
+</pron>
+</form>
+<form type="inflected">
+penetrates, penetrating, penetrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+penetrates an area
+</seg>
+, mu uspe priti na to obmo&ccaron;je ali skozenj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They penetrated into territory where no man had ever gone before.
+</quote>
+<quote>
+The sun was not high enough yet to penetrate the thick foliage overhead.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+penetration
+</orth>
+<form type="variant">
+<pron>
+/p*enItr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the penetration of hostile defences.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+penetrates an enemy group
+</seg>
+, se mu uspe pridru&zcaron;iti sovra&zcaron;ni skupini, da bi zberal podatke o njej ali ji povzro&ccaron;al te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtihotapiti se
+</quote>
+</cit>
+</sense>
+</entry>

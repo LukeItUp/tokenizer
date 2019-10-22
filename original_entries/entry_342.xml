@@ -20,10 +20,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Alarm
+Alarm 
 </seg>
-je nenaden ob&#269;utek strahu ali
-nemira.
+je nenaden ob&ccaron;utek strahu ali nemira. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -44,10 +43,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An alarm
+An alarm 
 </seg>
-je avtomatska naprava, ki nas
-posvari pred nevarnostjo.
+je avtomatska naprava, ki nas posvari pred nevarnostjo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -67,15 +65,15 @@ The alarm went off.
 <seg type="lemma">
 To sound
 </seg>
-ali
-<seg type="phrase_variant">
-to raise the alarm
-</seg>
-pomeni opozoriti ljudi na nevarnost.
+ ali 
+<FV>
+to raise the alarm 
+</FV>
+pomeni opozoriti ljudi na nevarnost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-spro&#382;iti alarm
+spro&zcaron;iti alarm
 </quote>
 </cit>
 </sense>
@@ -83,9 +81,9 @@ spro&#382;iti alarm
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
@@ -93,14 +91,13 @@ OBJ
 <def xml:lang="sl">
 Kadar nekaj
 <seg type="lemma">
-alarms someone
+ alarms someone
 </seg>
-tisto &#269;loveka
-nenadoma prestra&#353;i ali razburi.
+, tisto &ccaron;loveka nenadoma prestra&scaron;i ali razburi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-prepla&#353;iti, vznemiriti
+prepla&scaron;iti, vznemiriti
 </quote>
 </cit>
 <seg type="example">
@@ -113,7 +110,6 @@ The sight of the school alarmed her.
 <orth>
 alarmed
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADJ

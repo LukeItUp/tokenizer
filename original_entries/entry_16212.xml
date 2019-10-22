@@ -1,0 +1,381 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+write
+</orth>
+<form type="variant">
+<pron>
+/r*a*It/
+</pron>
+</form>
+<form type="inflected">
+writes, writing, wrote
+</form>
+<form type="variant">
+<pron>
+/r*@*Ut/
+</pron>
+</form>
+<form type="inflected">
+written
+</form>
+<form type="variant">
+<pron>
+/r*It@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To write something 
+</seg>
+ali 
+<seg type="lemma">
+to write something down 
+</seg>
+pomeni uporabiti pero ali svin&ccaron;nik, da na neko povr&scaron;ino napi&scaron;emo besede, &ccaron;rke ali &scaron;tevilke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati, zapisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m learning to read and write.
+</quote>
+<quote>
+Write the appropriate letter on the label.
+</quote>
+<quote>
+I wrote down what the boy said.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To write something 
+</seg>
+pomeni nekaj ustvariti in zaznamovati na papirju, na primer knjigo, pesem ali skladbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have been asked to write a biography of Dylan Thomas.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To write 
+</seg>
+pomeni ustvarjati knjige, zgodbe ali &ccaron;lanke, navadno za objavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She writes on anthropology.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To write to someone 
+</seg>
+ali 
+<seg type="lemma">
+to write someone a letter 
+</seg>
+pomeni v pismu nekomu dati podatke, ga nekaj vpra&scaron;ati ali izraziti svoja &ccaron;ustva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati (pismo)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve written to invite him here.
+</quote>
+<quote>
+She wrote me a letter from Singapore.
+</quote>
+<quote>
+She wrote a note to the chief of police.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To write something 
+</seg>
+ali 
+<seg type="lemma">
+to write something out 
+</seg>
+pomeni na nekaj, na primer &ccaron;ek ali potrdilo, zapisati zahtevane podatke in jih podpisati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napisati, izpolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I remember writing a cheque for &pound;100.
+</quote>
+<quote>
+I&apos;ll write you a prescription.
+</quote>
+<quote>
+I went to write out the death certificate.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+writing, 
+</ref>
+<ref>
+written
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+write in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To write in to an organization 
+</seg>
+pomeni poslati pismo neki organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People have been phoning and writing in asking for advice.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+write into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar je neko pravilo ali podrobnost 
+<seg type="lemma">
+written into a contract or agreement
+</seg>
+, je vklju&ccaron;ena v pogodbo ali sporazum, ko je sestavljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodati, pripisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The new arrangements have been written into the agreement.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+write off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To write off to a company or organization 
+</seg>
+pomeni poslati pismo nekemu podjetju ali organizaciji in v njem za nekaj prositi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was writing off to various places asking about work opportunities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To write off an amount of money 
+</seg>
+pomeni sprijazniti se s tem, da ne bomo nikdar dobili nazaj zneska, ki smo ga izgubili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve written off that hundred pounds.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To write off a plan or project 
+</seg>
+pomeni sprijazniti se s tem, da ne bomo uspe&scaron;ni pri nekem na&ccaron;rtu ali projektu, in ga ne nadaljevati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpisati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To write someone off 
+</seg>
+pomeni skleniti, da je nekdo nepomemben ali nekoristen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You will be written off as a hysterical woman.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+write up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To write up something 
+</seg>
+pomeni nekaj, kar je bilo storjeno ali re&ccaron;eno, spraviti na papir v urejeni in popolni obliki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These are notes that you are going to write up afterwards.
+</quote>
+<quote>
+The results were written up into a report.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+write-up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

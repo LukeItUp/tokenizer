@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slam
+</orth>
+<form type="variant">
+<pron>
+/sl*&ae;m/
+</pron>
+</form>
+<form type="inflected">
+slams, slamming, slammed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+slams a door or window 
+</seg>
+ali kadar vrata ali okno 
+<seg type="lemma">
+slams
+</seg>
+, jih nekdo s treskom zapre ali pa se sama tako zaprejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloputniti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went out, slamming the door behind her.
+</quote>
+<quote>
+I waited for the gate behind me to slam shut.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slam something down 
+</seg>
+pomeni nekaj naglo in z veliko mo&ccaron;jo nekam polo&zcaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti, butniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slammed the money on the table.
+</quote>
+</seg>
+</sense>
+</entry>

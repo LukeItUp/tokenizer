@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+diabetic
+</orth>
+<form type="variant">
+<pron>
+/d*a*I*@b*etIk/
+</pron>
+</form>
+<form type="inflected">
+diabetics.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A diabetic 
+</seg>
+je oseba, ki ima sladkorno bolezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sladkorni bolnik, diabetik
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...in a diabetic coma.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+parasite
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;r@saIt/
+</pron>
+</form>
+<form type="inflected">
+parasites.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A parasite 
+</seg>
+je majhna &zcaron;ival ali rastlina, ki &zcaron;ivi na ve&ccaron;ji &zcaron;ivali ali rastlini ali v njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajedavec
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+parasitic
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;r@s*ItIk/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...tiny parasitic insects.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za &ccaron;loveka re&ccaron;emo, da je 
+<seg type="lemma">
+a parasite
+</seg>
+, &zcaron;elimo povedati, da dobiva denar in druge stvari od ljudi, ne da bi jim to kako povrnil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+parazit, prisklednik
+</quote>
+</cit>
+</sense>
+</entry>

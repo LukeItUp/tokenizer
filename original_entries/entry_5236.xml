@@ -1,0 +1,186 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+feeling
+</orth>
+<form type="variant">
+<pron>
+/f*i*:lIN/
+</pron>
+</form>
+<form type="inflected">
+feelings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A feeling 
+</seg>
+je &ccaron;ustvo ali pristop. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utek, &ccaron;utenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A feeling of panic was rising in him.
+</quote>
+<quote>
+She tried to hide her feelings.
+</quote>
+<quote>
+...a voice rich in real feeling.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A feeling 
+</seg>
+je tudi telesno ob&ccaron;utje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an itchy feeling.
+</quote>
+<quote>
+...feelings of nausea.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have no feeling in a part of one&apos;s body 
+</seg>
+pomeni ne vedeti, kdaj se nekdo dotakne dolo&ccaron;enega dela na&scaron;ega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utljivost, ob&ccaron;utek
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a feeling that something is the case 
+</seg>
+pomeni misliti, da tisto najbr&zcaron; dr&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My feeling is that it would work very well.
+</quote>
+<quote>
+I have a nasty feeling you&apos;re right.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Feeling for someone or something 
+</seg>
+je naklonjenost do nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He may be moved by feeling for his fellow-citizens.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Bad feeling 
+</seg>
+je odpor ali sovra&zcaron;nost med ljudmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nejevolja, sovra&zcaron;nost
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To hurt someone&apos;s feelings 
+</seg>
+pomeni nekoga prizadeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&zcaron;aliti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have no hard feelings towards someone 
+</seg>
+pomeni ne &ccaron;utiti jeze do &ccaron;loveka, ki nas je vznemiril. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne zameriti
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

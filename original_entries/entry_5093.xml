@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+facility
+</orth>
+<form type="variant">
+<pron>
+/f@s*IlI1ti1/
+</pron>
+</form>
+<form type="inflected">
+facilities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Facilities 
+</seg>
+so stavbe ali oprema, priskrbljena v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+objekt, zgradba, prostor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...play facilities for young children.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A facility 
+</seg>
+je koristna lastnost ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomo&ccaron;ek, mo&zcaron;nost, ugodnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a computer with a message-swapping facility.
+</quote>
+</seg>
+</sense>
+</entry>

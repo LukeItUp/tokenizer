@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+textile
+</orth>
+<form type="variant">
+<pron>
+/t*ekstaIl/
+</pron>
+</form>
+<form type="inflected">
+textiles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A textile 
+</seg>
+je kos tkanega blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tkanina
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Textiles 
+</seg>
+je industrija, ki izdeluje blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekstilna industrija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are more people employed in textiles than in computers.
+</quote>
+</seg>
+</sense>
+</entry>

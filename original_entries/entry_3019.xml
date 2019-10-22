@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+copy
+</orth>
+<form type="variant">
+<pron>
+/k*Qpi1/
+</pron>
+</form>
+<form type="inflected">
+copies, copying, copied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A copy 
+</seg>
+je nekaj, kar je narejeno tako, da je podobno ne&ccaron;emu drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopija, dvojnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I will send you a copy of the letter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To copy something 
+</seg>
+pomeni nekaj znova zapisati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a comment she had copied from his notes.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To copy a person or someone's ideas 
+</seg>
+pomeni vesti se tako kot nekdo drug ali uporabljati zamisli nekoga drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posnemati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our scheme has been copied by other universities.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A copy of a book, newspaper, or record 
+</seg>
+je ena od ve&ccaron; enakih knjig, &ccaron;asopisov ali plo&scaron;&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sixty thousand copies of the record were sold.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+copy down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To copy down 
+</seg>
+nekaj, kar nekdo re&ccaron;e ali napi&scaron;e, pomeni, da tisto sami zapi&scaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shouldn't bother to copy these figures down.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+copy out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To copy out 
+</seg>
+pomeni v celoti zapisati dolgo besedilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I remember copying out the whole play.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

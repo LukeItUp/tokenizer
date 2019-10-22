@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+doubtful
+</orth>
+<form type="variant">
+<pron>
+/d*a*UtfUl/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+doubtful
+</seg>
+, je videti neverjetno ali negotovo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+negotov, dvomljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is doubtful whether the Chairman would approve.
+</quote>
+<quote>
+The organisation has a doubtful future.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be doubtful about something 
+</seg>
+pomeni biti negotov o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezaupljiv, sumni&ccaron;av
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was a little doubtful about accepting the job.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+doubtfully
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Ralph looked at him doubtfully.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

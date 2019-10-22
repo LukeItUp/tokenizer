@@ -1,0 +1,151 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+treat
+</orth>
+<form type="variant">
+<pron>
+/tr*i*:t/
+</pron>
+</form>
+<form type="inflected">
+treats, treating, treated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To treat someone or something in a particular way 
+</seg>
+pomeni vesti se do ne&ccaron;esa ali nekoga na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ravnati z nekom ali ne&ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their parents continue to treat them as children.
+</quote>
+<quote>
+Electricity is potentially dangerous, so treat it with respect.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zdravnik 
+<seg type="lemma">
+treats a patient or an illness
+</seg>
+, posku&scaron;a bolniku pomagati, da bi ozdravel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a way to treat cancer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar les ali blago 
+<seg type="lemma">
+is treated
+</seg>
+, nanj nanesemo posebno snov, da ga zavarujemo ali mu damo posebne lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdelati, preparirati, impregnirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+New timber should be treated with a preservative.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone a treat 
+</seg>
+pomeni nekomu kupiti ali prirediti nekaj posebnega, kar ga bo razveselilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribolj&scaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Granny took us for tea at Lyons Corner House as a special treat.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Treat yourself to a new pair of shoes.
+</quote>
+<quote>
+I was treated to lunch by the vice-president.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

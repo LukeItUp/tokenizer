@@ -1,0 +1,483 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+up
+</orth>
+<form type="variant">
+<pron>
+/*Vp/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Up 
+</seg>
+pomeni proti vi&scaron;jemu prostoru ali na vi&scaron;jem prostoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gor, navzgor, zgoraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I carried my suitcase up the stairs behind her.
+</quote>
+<quote>
+Bill put up his hand.
+</quote>
+<quote>
+...comfortable houses up in the hills.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stand up 
+</seg>
+pomeni vstati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She scrambled up from the floor.
+</quote>
+<quote>
+She helped Henry up from the bench.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Up 
+</seg>
+pomeni tudi na severu ali proti severu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgoraj, gor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re having brilliant sunshine up here.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To go up a road 
+</seg>
+pomeni iti po cesti navzgor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We walked up the road together.
+</quote>
+<quote>
+There&apos;s a cafe just a hundred yards further up.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To go up a river 
+</seg>
+pomeni iti po reki proti njenemu izviru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gor, navzgor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a voyage up the Nile.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Beseda 
+<seg type="lemma">
+up 
+</seg>
+pomeni tudi, da je nekaj blizu ne&ccaron;esa drugega ali da se tistemu pribli&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do, k
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s only when you get right up to them that you realise what they are.
+</quote>
+<quote>
+Ferdinand ran up to his father-in-law.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be up 
+</seg>
+pomeni, da smo pokonci oziroma da nismo v postelji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were up early.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar znesek 
+<seg type="lemma">
+goes up
+</seg>
+, se pove&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when interest rates go up.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obdobje je 
+<seg type="lemma">
+up
+</seg>
+, kadar se izte&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri koncu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the six weeks were up, everybody was sad that she had to leave.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be up for election, review, or examination 
+</seg>
+pomeni, da bo oseba ali stvar v kratkem na vrsti za izvolitev, pregled ali oceno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na vrsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One of my colleagues comes up for election next week.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To move up and down 
+</seg>
+pomeni premikati se izmeni&ccaron;no v eno in drugo smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gor in dol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was so happy I jumped up and down.
+</quote>
+<quote>
+He started pacing up and down the office.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have ups and downs 
+</seg>
+pomeni do&zcaron;ivljati me&scaron;anico dobrih in slabih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzponi in padci
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is up
+</seg>
+, je nekaj narobe ali se dogaja nekaj zaskrbljujo&ccaron;ega; 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dogajati se
+</quote>
+</cit>
+<usg>
+pogovorna raba.
+</usg>
+<seg type="example">
+<quote>
+What&apos;s up, Myra? You look sad.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+up against something
+</seg>
+, je v te&zcaron;avnem polo&zcaron;aju ali pred te&zcaron;avo, s katero se mora spoprijeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v &scaron;kripcih
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+up to 
+</seg>
+uporabljamo v opisih, kako veliko je lahko nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They might be up to a metre wide.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+up to 
+</seg>
+uporabljamo tudi za opis, kak&scaron;no stopnjo je nekaj doseglo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The work isn&apos;t up to the standard I require.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is not up to much
+</seg>
+, ni vredno veliko; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+brez velike vrednosti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+does not feel up to doing something
+</seg>
+, ima ob&ccaron;utek, da ne&ccaron;esa ni zmo&zcaron;en narediti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne biti kos
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is up to something
+</seg>
+, na skrivaj po&ccaron;ne nekaj, &ccaron;esar ne bi smel; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+skrivaj delati, naklepati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is up to someone
+</seg>
+, je dol&zcaron;nost dolo&ccaron;ene osebe, da tisto naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is up to the teacher not to accept shoddy work.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+up to 
+</seg>
+ali 
+<FV>
+up until a particular time
+</FV>
+, se zgodi pred tistim &ccaron;asom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do, pred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Up until the early sixties there was no shortage.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

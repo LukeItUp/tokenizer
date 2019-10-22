@@ -5,7 +5,7 @@ athletic
 </orth>
 <form type="variant">
 <pron>
-/#ae;Tl*etIk/
+/&ae;Tl*etIk/
 </pron>
 </form>
 <form type="inflected">
@@ -20,22 +20,22 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Athletics
+Athletics 
 </seg>
-je &#353;portna panoga, v katero
-sodijo na primer tek, skok v vi&#353;ino in metanje kopja.
+je &scaron;portna panoga, v katero sodijo na primer tek, skok v vi&scaron;ino in metanje kopja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 atletika
 </quote>
 </cit>
-<ref type="picture">
-glej slikovno prilogo
-<ref>
-SPORT.
-</ref>
-</ref>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SPORT
+</QZ>
+.
+</QP>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -45,14 +45,13 @@ ATTRIB ADJ
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Athletic
+Athletic 
 </seg>
-pomeni povezan s &#353;portom in
-&#353;portniki.
+pomeni povezan s &scaron;portom in &scaron;portniki. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#353;porten, atletski
+&scaron;porten, atletski
 </quote>
 </cit>
 </sense>
@@ -63,16 +62,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 athletic
 </seg>
-je telesno izurjen,
-zdrav in dejaven.
+, je telesno izurjen, zdrav in dejaven. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#353;porten, atletski
+&scaron;porten, atletski
 </quote>
 </cit>
 </sense>

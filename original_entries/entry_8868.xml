@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+melt
+</orth>
+<form type="variant">
+<pron>
+/m*elt/
+</pron>
+</form>
+<form type="inflected">
+melts, melting, melted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar trdna snov 
+<seg type="lemma">
+melts 
+</seg>
+ali 
+<seg type="lemma">
+is melted
+</seg>
+, se spremeni v teko&ccaron;ino, ker se segreje ali ker jo segrevamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+topiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The snow and ice had melted.
+</quote>
+<quote>
+Melt the margarine in a saucepan.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+melts 
+</seg>
+ali 
+<seg type="lemma">
+melts away
+</seg>
+, postopoma izginja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izginjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lynn&apos;s inhibitions melted.
+</quote>
+<quote>
+Their differences melted away.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+melt down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+melts down a metal or glass object
+</seg>
+, kovinski ali steklen predmet toliko &ccaron;asa segreva, da se stali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+staliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Railings were melted down for cannon.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shatter
+</orth>
+<form type="variant">
+<pron>
+/S*&ae;t@/
+</pron>
+</form>
+<form type="inflected">
+shatters, shattering, shattered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shatters
+</seg>
+, se razleti na veliko majhnih kosov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztre&scaron;&ccaron;iti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The vase fell from her hand and shattered on the floor.
+</quote>
+<quote>
+I shattered the glass.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shatters someone&apos;s beliefs or hopes
+</seg>
+, uni&ccaron;i &ccaron;lovekova prepri&ccaron;anja ali upe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podreti, uni&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+shattered by an event
+</seg>
+, ga nek dogodek presune in vznemiri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadeti, pretresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My father was shattered by the news.
+</quote>
+</seg>
+</sense>
+</entry>

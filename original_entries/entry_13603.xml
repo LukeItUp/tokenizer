@@ -1,0 +1,448 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+start
+</orth>
+<form type="variant">
+<pron>
+/st*A*:t/
+</pron>
+</form>
+<form type="inflected">
+starts, starting, started.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To start to do something 
+</seg>
+pomeni storiti nekaj, &ccaron;esar prej nismo po&ccaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph started to run.
+</quote>
+<quote>
+He started laughing.
+</quote>
+<quote>
+My father started work when he was ten.
+</quote>
+<quote>
+Now we have to start again.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We&apos;ve not made a bad start.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+start 
+</seg>
+povemo, kak&scaron;na je bila prva slu&zcaron;ba nekega &ccaron;loveka. Na primer, &ccaron;e je bila njegova prva slu&zcaron;ba, da je bil nosa&ccaron;, lahko re&ccaron;emo: 
+<seg type="lemma">
+he started as a porter
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+starts
+</seg>
+, se dogaja od dolo&ccaron;enega &ccaron;asa naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The meeting starts at 7.
+</quote>
+<quote>
+We didn&apos;t want to start a panic.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the start of negotiations.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To start a business or organization 
+</seg>
+pomeni ustvariti neko podjetje ali organizacijo ali povzro&ccaron;iti, da nastane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti, ustanoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He scraped up the money to start a restaurant.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To start an engine or car 
+</seg>
+pomeni, da motor ali vozilo za&ccaron;ne delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v&zcaron;gati, pognati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have to push it to start it.
+</quote>
+<quote>
+The engine just wouldn&apos;t start.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To start 
+</seg>
+pomeni, da nam telo trzne, ker smo presene&ccaron;eni ali prepla&scaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrzniti se, posko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I sat down so quietly that she started.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He awakened with a start.
+</quote>
+</seg>
+</T>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+for a start 
+</seg>
+napovemo prvo od ve&ccaron;jega &scaron;tevila stvari, ki jih bomo povedali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za za&ccaron;etek, prvi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can&apos;t afford this house for a start.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+head start.
+</ref>
+</xr>
+<xr type="related">
+<QF>
+in fits and starts: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+fit.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+start off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+start off 
+</seg>
+povemo, kak&scaron;na je bila prva slu&zcaron;ba nekega &ccaron;loveka. Na primer, &ccaron;e je bila njegova prva slu&zcaron;ba voznik taksija, lahko re&ccaron;emo: 
+<seg type="lemma">
+he started off as a taxi driver
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To start off by doing something 
+</seg>
+pomeni nekaj storiti kot prvi del dolo&ccaron;ene dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I started off by showing a slide of the diseased cell.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To start something off 
+</seg>
+pomeni povzro&ccaron;iti, da se nekaj za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti, povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I know what started it all off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+start on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To start on something 
+</seg>
+pomeni za&ccaron;eti delati nekaj, kaj je treba narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She put the forks in a neat pile and started on the knives.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+start out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+starts out as a particular thing
+</seg>
+, je na za&ccaron;etku tista stvar, &ccaron;eprav se pozneje spremeni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These areas started out as the private lands of settlers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To start out doing something 
+</seg>
+pomeni nekaj storiti na za&ccaron;etku dolo&ccaron;ene dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti, posku&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You started out by saying that this was the weapon they used.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+start up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To start up something 
+</seg>
+pomeni nekaj ustvariti ali povzro&ccaron;iti, da se za&ccaron;ne, na primer novo podjetje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti, za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wanted to start up a little country pub.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To start up an engine or car 
+</seg>
+pomeni poskrbeti, da motor ali vozilo za&ccaron;ne delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v&zcaron;gati, pognati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The driver started up the car.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ban
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;n/
+</pron>
+</form>
+<form type="inflected">
+bans, banning, banned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+banned
+</seg>
+, tistega ne smemo delati, kazati ali uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepovedan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His play was banned by the BBC.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ban 
+</seg>
+je uradni odlok o tem, da je nekaj prepovedano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepoved
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was no ban on smoking.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be banned from doing something 
+</seg>
+pomeni ne imeti uradnega dovoljenja, da bi nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti prepoved
+</quote>
+</cit>
+</sense>
+</entry>

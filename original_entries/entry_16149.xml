@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+workload
+</orth>
+<form type="variant">
+<pron>
+/w*$ekl@Ud/
+</pron>
+</form>
+<form type="inflected">
+workloads.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s workload 
+</seg>
+je obseg dela, ki ga moramo opraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovne naloge, delovna obremenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have a terrible workload this year.
+</quote>
+</seg>
+</sense>
+</entry>

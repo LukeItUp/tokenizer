@@ -1,0 +1,241 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+escape
+</orth>
+<form type="variant">
+<pron>
+/I2sk*e*Ip/
+</pron>
+</form>
+<form type="inflected">
+escapes, escaping, escaped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To escape from something or someone 
+</seg>
+pomeni uspe&scaron;no se izogniti nekomu ali ne&ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobegniti, uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph was thankful to have escaped responsibility.
+</quote>
+<quote>
+The two other burglars were tipped off by a lookout and escaped.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To escape from a place 
+</seg>
+pomeni uspe&scaron;no oditi z nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobegniti, uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On 7 October Eva escaped from prison.
+</quote>
+<quote>
+He escaped to Britain.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+escaped
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had shot and killed two escaped convicts.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An escape 
+</seg>
+je pobeg z dolo&ccaron;enega kraja ali iz dolo&ccaron;enih okoli&scaron;&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+beg, pobeg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were now able to make their escape.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+escape 
+</seg>
+lahko povemo, da smo nekaj sre&ccaron;no pre&zcaron;iveli, na primer nesre&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fortunately we all escaped unhurt.
+</quote>
+<quote>
+The minister escaped without a scratch.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+escapes someone 
+</seg>
+ali 
+<seg type="lemma">
+escapes one's attention
+</seg>
+, za tisto ne vemo ali se tistega ne spominjamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne opaziti, ne spomniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I doubt that such tactics escaped their notice.
+</quote>
+<quote>
+Their names escaped him.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An escape 
+</seg>
+je na&ccaron;in izogibanja te&zcaron;avam ali odgovornostim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+beg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Reading is an escape from reality.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar plin ali teko&ccaron;ina 
+<seg type="lemma">
+escapes
+</seg>
+, pu&scaron;&ccaron;a iz pipe ali posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uhajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...air escaping from a tyre.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+fire escape
+</ref>
+</xr>
+</sense>
+</entry>

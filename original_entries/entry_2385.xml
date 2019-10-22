@@ -1,0 +1,266 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+claim
+</orth>
+<form type="variant">
+<pron>
+/kl*e*Im/
+</pron>
+</form>
+<form type="inflected">
+claims, claiming, claimed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+to claim 
+</seg>
+povemo, kaj je nekdo rekel, kadar nismo prepri&ccaron;ani, da je tisto res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He claimed that he found the money in the forest.
+</quote>
+<quote>
+They claimed to have shot down twenty-two planes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A claim 
+</seg>
+je tisto, kar nekdo re&ccaron;e, ne more pa dokazati in morda tudi ni resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Forecasts do not support the government's claim that the economy is picking up.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+claims responsibility or credit for something
+</seg>
+, pravi, da je za nekaj odgovoren ali zaslu&zcaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lastiti si, priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rebels claimed responsibility for the bombing.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+claims something
+</seg>
+, na primer denar ali imetje, prosi za tisto, ker je to njegova pravica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati, terjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Voluntary workers can claim travelling expenses.
+</quote>
+<quote>
+Don't forget to claim for a first-class rail ticket to London.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A claim 
+</seg>
+je tudi zahteva po ne&ccaron;em, do &ccaron;esar imamo po svojem mnenju pravico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahteva, terjatev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pay claim.
+</quote>
+<quote>
+...a claim for compensation.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar boj ali nesre&ccaron;a 
+<seg type="lemma">
+claims someone's life
+</seg>
+, je tisti &ccaron;lovek pri tem ubit; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zahtevati, terjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wave of bombings and street clashes is claiming new lives every day.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ima &ccaron;lovek 
+<seg type="lemma">
+a claim on someone
+</seg>
+, ima pravico, da od nekoga nekaj zahteva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upravi&ccaron;enost, pravica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She realized that she had no claims on the man.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lay claim to something 
+</seg>
+pomeni re&ccaron;i, da je nekaj na&scaron;e; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+lastiti si, zahtevati
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+stake a claim: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+stake
+</ref>
+</xr>
+</sense>
+</entry>

@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+succession
+</orth>
+<form type="variant">
+<pron>
+/s@ks*eS@0n/
+</pron>
+</form>
+<form type="inflected">
+successions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A succession of things 
+</seg>
+je ve&ccaron; stvari, ki se zgodijo druga za drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaporedje, niz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My life is a succession of failures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Succession 
+</seg>
+je pravica &ccaron;loveka, da kot naslednji dobi dolo&ccaron;eno delovno mesto ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dedovanje, nasledstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his succession to the peerage.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+for a number of weeks or years in succession
+</seg>
+, se redno zgodi vsak teden ali leto v tistem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapored
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Vita went to Florence for the third year in succession.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

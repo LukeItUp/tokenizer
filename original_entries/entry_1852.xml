@@ -1,0 +1,155 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+buy
+</orth>
+<form type="variant">
+<pron>
+/b*a*I/
+</pron>
+</form>
+<form type="inflected">
+buys, buying, bought
+</form>
+<form type="variant">
+<pron>
+/b*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+.
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To buy something 
+</seg>
+pomeni nekaj pridobiti tako, da pla&ccaron;amo z denarjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She could not afford to buy it.
+</quote>
+<quote>
+Let me buy you a drink.
+</quote>
+<quote>
+Many people have their cars bought for them by their firm.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek re&ccaron;e, da je nekaj 
+<seg type="lemma">
+a good buy
+</seg>
+, ho&ccaron;e povedati, da je dobre kakovosti in ima nizko ceno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugoden nakup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Other good buys include cameras and toys.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+buy out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To buy someone out 
+</seg>
+pomeni od nekoga kupiti njegov dele&zcaron; pri ne&ccaron;em, kar sta imela prej v skupni lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpla&ccaron;ati, odkupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sold off the shops to buy out his partner.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+buy up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To buy up land or property 
+</seg>
+pomeni kupiti zemljo ali posest v velikih koli&ccaron;inah ali vso, kar je je na voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokupiti, nakupiti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

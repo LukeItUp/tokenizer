@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pinpoint
+</orth>
+<form type="variant">
+<pron>
+/p*InpOInt/
+</pron>
+</form>
+<form type="inflected">
+pinpoints, pinpointing, pinpointed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pinpoint something 
+</seg>
+pomeni odkriti nekaj ali razlo&zcaron;iti, kaj natan&ccaron;no to je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+definirati, natan&ccaron;no opredeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In their book, Jackson and Marsden pinpointed the difference.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pinpoint the position of something 
+</seg>
+pomeni natan&ccaron;no pokazati, kje nekaj je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no pokazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Just here,&rsquo; he said, pinpointing it on the map.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chapter
+</orth>
+<form type="variant">
+<pron>
+/tS*&ae;pt@/
+</pron>
+</form>
+<form type="inflected">
+chapters.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+N 
+<seg>
+with 
+</seg>
+NUMBER
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chapter 
+</seg>
+je eden od delov, na katere je razdeljena knjiga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poglavje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the subjects of the next two chapters.
+</quote>
+<quote>
+I'd nearly finished chapter 8.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+a chapter
+</seg>
+ lahko uporabljamo tudi za imenovanje dela svojega &zcaron;ivljenja ali nekega zgodovinskega obdobja; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poglavje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A new chapter of my career as a journalist was about to commence.
+</quote>
+</seg>
+</sense>
+</entry>

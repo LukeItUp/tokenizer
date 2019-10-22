@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+monster
+</orth>
+<form type="variant">
+<pron>
+/m*Qnst@/
+</pron>
+</form>
+<form type="inflected">
+monsters.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A monster 
+</seg>
+je veliko domi&scaron;ljijsko bitje, ki zbuja strah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;ast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...hairy white monsters.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Monster 
+</seg>
+pomeni izjemno velik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gromozanski, orja&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the monster Piccadilly Hotel.
+</quote>
+</seg>
+</sense>
+</entry>

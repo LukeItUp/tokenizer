@@ -1,0 +1,993 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hold
+</orth>
+<form type="variant">
+<pron>
+/h*@*Uld/
+</pron>
+</form>
+<form type="inflected">
+holds, holding, held
+</form>
+<form type="variant">
+<pron>
+/h*eld/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold something 
+</seg>
+pomeni nekaj nesti ali podpreti, navadno s prsti ali rokami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati, prijeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was holding a bottle of milk.
+</quote>
+<quote>
+I held the picture up to the light.
+</quote>
+<quote>
+He held her in his arms.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take hold of something 
+</seg>
+pomeni dati roko tesno okoli ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijeti, dr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took hold of my wrist.
+</quote>
+<quote>
+He still had hold of my jacket.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She resumed her hold on the rope.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold one&apos;s body or part of one&apos;s body 
+</seg>
+pomeni ohraniti telo ali del telesa v dolo&ccaron;enem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Etta held her head back.
+</quote>
+<quote>
+Mrs Patel held herself erect.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka stvar 
+<seg type="lemma">
+holds another thing
+</seg>
+, dr&zcaron;i drugo stvar v pravilnem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was just a rail holding it.
+</quote>
+<quote>
+The glue held.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+holds a particular amount of something
+</seg>
+, lahko vsebuje dolo&ccaron;eno koli&ccaron;ino ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati, sprejeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The theatre itself can hold only a limited number of people.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold someone 
+</seg>
+pomeni nekoga imeti zaprtega v je&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was held overnight in a cell.
+</quote>
+<quote>
+The young private had been held a prisoner by the guerrillas.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold power or office 
+</seg>
+pomeni imeti oblast ali uradni polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The reins of power are held by a restricted group of Shi&rsquo;ite clergy.
+</quote>
+<quote>
+...one of the greatest Prime Ministers who ever held office.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a hold over someone 
+</seg>
+pomeni imeti oblast ali nadzor nad nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti nekoga v pesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The party tightened its hold on the union.
+</quote>
+<quote>
+The farmer had a hold over me. He had discovered my illegal whiskey still.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold a qualification, licence or other official document 
+</seg>
+pomeni imeti kvalifikacije, dovoljenje ali kako drugo uradno listino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You need to hold a work permit.
+</quote>
+<quote>
+She held a BA degree in psychology.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold an event 
+</seg>
+pomeni organizirati neki dogodek in ga izpeljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had promised he would hold elections in June.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold a conversation with someone 
+</seg>
+pomeni z nekom se pogovarjati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti pogovor
+</quote>
+</cit>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+hold 
+</seg>
+lahko povemo, da je nekaj dolo&ccaron;ene kakovosti ali ima dolo&ccaron;ene zna&ccaron;ilnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti, prinesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These legends hold a romantic fascination for many Japanese.
+</quote>
+<quote>
+We will have to see what the future holds.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold a particular opinion 
+</seg>
+pomeni biti dolo&ccaron;enega mnenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti mnenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People who hold this view are sometimes dismissed as cranks.
+</quote>
+<quote>
+Marxists hold that people are all naturally creative.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nas med telefoniranjem nekdo prosi 
+<seg type="lemma">
+to hold the line
+</seg>
+, ho&ccaron;e, naj po&ccaron;akamo, da nas bodo prevezali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;akati (pri telefonu)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The line&apos;s engaged; will you hold?
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold someone&apos;s interest or attention 
+</seg>
+pomeni poskrbeti, da se nekdo &scaron;e naprej zanima za nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdr&zcaron;ati, zadr&zcaron;ati
+</quote>
+</cit>
+</sense>
+<sense n="16">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neka ponudba ali vabilo 
+<seg type="lemma">
+still holds
+</seg>
+, sta &scaron;e vedno veljavna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Will you tell her the offer still holds?
+</quote>
+</seg>
+</sense>
+<sense n="17">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s luck holds 
+</seg>
+ali 
+<seg type="lemma">
+the weather holds 
+</seg>
+re&ccaron;emo, kadar sre&ccaron;a ali vreme ostaneta lepa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdr&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If my luck continues to hold, I think I&apos;ve got a fair chance.
+</quote>
+</seg>
+</sense>
+<sense n="18">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The hold of a ship or aeroplane 
+</seg>
+je prostor na ladji ali v letalu, kjer je spravljen tovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skladi&scaron;&ccaron;e, prostor za prtljago
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold tight 
+</seg>
+pomeni nekaj zelo trdno dr&zcaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;vrsto (se) dr&zcaron;ati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+takes hold
+</seg>
+, za&ccaron;ne imeti velik u&ccaron;inek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijeti se, raz&scaron;iriti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Then the fire took hold.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get hold of something or someone 
+</seg>
+pomeni uspeti nekoga dobiti ali najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can you get hold of a car this weekend?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Hold it 
+</seg>
+ali 
+<FV>
+hold everything 
+</FV>
+re&ccaron;emo, kadar &zcaron;elimo nekomu povedati, naj neha delati tisto, kar dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stoj, takoj nehaj
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold one&apos;s own 
+</seg>
+pomeni, da nas nasprotnik ne premaga, ker smo mu kos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, ne popustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was still able to hold her own with the Prime Minister.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hold against.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to hold something against someone 
+</seg>
+uporabimo, kadar nekdo stori nekaj slabega in zaradi tega z njim ravnamo stro&zcaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;itati, uporabiti proti komu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His refusal to cooperate will be held against him.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold back 
+</seg>
+pomeni obotavljati se, preden nekaj storimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati se, vzdr&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Police have held back from going into such a holy place.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold someone or something back 
+</seg>
+pomeni prepre&ccaron;iti, da bi nekdo napredoval ali bi se nekaj pove&ccaron;alo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati, zadr&zcaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If she is ambitious, don&apos;t try to hold her back.
+</quote>
+<quote>
+The rise in living standards has been held back for so long.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold something back 
+</seg>
+pomeni nekomu ne povedati vseh podrobnosti o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikrivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I want the truth now, with nothing held back.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold down a job 
+</seg>
+pomeni uspeti obdr&zcaron;ati slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was surprised to find her holding down a successful job in high finance.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hold something off 
+</seg>
+pomeni prepre&ccaron;iti, da bi nas nekaj doseglo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izogibati se, prepre&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The French and British wanted to hold off Portuguese textile competition.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold on 
+</seg>
+pomeni nekaj &ccaron;vrsto dr&zcaron;ati v roki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;vrsto se dr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to pull free but she held on tight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone to hold on 
+</seg>
+pomeni nekoga prositi, naj kratek &ccaron;as po&ccaron;aka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hold on a moment, please.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold onto.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold onto something 
+</seg>
+pomeni nekaj &ccaron;vrsto dr&zcaron;ati z roko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijeti se, dr&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has to hold onto something to steady himself.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold onto something 
+</seg>
+pomeni tudi nekaj obdr&zcaron;ati in ne izgubiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Politicians want to hold on to power at all costs.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold out one&apos;s hand or something that is in your hand 
+</seg>
+pomeni stegniti roko ali tisto, kar imamo v roki, proti nekomu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomoliti, ponuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;John?&rsquo; Esther held out the phone.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hold out 
+</seg>
+pomeni trdno stati in se uspe&scaron;no upirati nasprotnikom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, vzdr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Women all over the country are holding out for more freedom.
+</quote>
+<quote>
+I can&apos;t hold out forever.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+holds someone up
+</seg>
+, povzro&ccaron;i, da ima ta oseba zamudo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole thing was held up about half an hour.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+hold-up
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hold with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+Not to hold with something 
+</seg>
+pomeni ne&ccaron;esa ne odobravati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne strinjati se, ne sogla&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man who did not hold with these notions.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

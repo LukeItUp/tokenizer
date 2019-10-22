@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+floor
+</orth>
+<form type="variant">
+<pron>
+/fl*O*:/
+</pron>
+</form>
+<form type="inflected">
+floors, flooring, floored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The floor 
+</seg>
+je ploski del sobe; po njem hodimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tla, pod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The book fell to the floor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A floor of a building 
+</seg>
+so vse sobe na dolo&ccaron;eni vi&scaron;ini v stavbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadstropje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My office is on the second floor.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e pripomba ali vpra&scaron;anje 
+<seg type="lemma">
+floors someone
+</seg>
+, nekoga tako preseneti ali zmede, da ne more odgovoriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presenetiti, zbegati, vzeti sapo
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+shop floor
+</ref>
+</xr>
+</sense>
+</entry>

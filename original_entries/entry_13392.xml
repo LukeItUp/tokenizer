@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spectrum
+</orth>
+<form type="variant">
+<pron>
+/sp*ektr@m/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The spectrum 
+</seg>
+je lestvica razli&ccaron;nih barv, ki nastanejo, ko svetloba pada skozi prizmo ali kapljico vode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spekter, paleta
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spectrum of opinions or emotions 
+</seg>
+je &scaron;irok razpon mnenj ali &ccaron;ustev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spekter
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have support at both ends of the political spectrum.
+</quote>
+</seg>
+</sense>
+</entry>

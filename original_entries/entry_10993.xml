@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prerequisite
+</orth>
+<form type="variant">
+<pron>
+/pr*i*:r*ekwIzIt/
+</pron>
+</form>
+<form type="inflected">
+prerequisites.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+a prerequisite for another
+</seg>
+, se mora zgoditi ali obstajati, preden je mo&zcaron;na neka druga stvar; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pogoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Confidence is a prerequisite for mastering other skills.
+</quote>
+</seg>
+</sense>
+</entry>

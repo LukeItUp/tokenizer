@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fortune
+</orth>
+<form type="variant">
+<pron>
+/f*O*:tS@4n/
+</pron>
+</form>
+<form type="inflected">
+fortunes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fortune 
+</seg>
+ali 
+<seg type="lemma">
+good fortune 
+</seg>
+je sre&ccaron;a. 
+<seg type="lemma">
+Ill fortune 
+</seg>
+je smola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;a; smola
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has since had the good fortune to be promoted.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's fortunes 
+</seg>
+je obseg tistega, kar nekdo dobro dela ali pri &ccaron;emer je uspe&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the following years, Victor's fortunes improved considerably.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tell someone's fortune 
+</seg>
+pomeni nekomu povedati, kaj se mu bo zgodilo v prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vede&zcaron;evati, napovedati prihodnost
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fortune 
+</seg>
+je zelo velika vsota denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bogastvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His father left him an immense fortune.
+</quote>
+</seg>
+</sense>
+</entry>

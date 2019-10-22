@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nest
+</orth>
+<form type="variant">
+<pron>
+/n*est/
+</pron>
+</form>
+<form type="inflected">
+nests, nesting, nested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nest 
+</seg>
+je prostor, ki si ga pripravijo ptice, &zcaron;u&zcaron;elke in druge &zcaron;ivali, da v njem izvalijo jajca ali povr&zcaron;ejo mladi&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnezdo; koti&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had a wasp&apos;s nest in the roof.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptica 
+<seg type="lemma">
+nests somewhere
+</seg>
+, si nekje naredi gnezdo in izvali jajca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnezditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hornbills nest in holes in trees.
+</quote>
+</seg>
+</sense>
+</entry>

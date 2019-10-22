@@ -1,0 +1,520 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+side
+</orth>
+<form type="variant">
+<pron>
+/s*a*Id/
+</pron>
+</form>
+<form type="inflected">
+sides, siding, sided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The side of something 
+</seg>
+je polo&zcaron;aj levo ali desno od ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran, bok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A taxi bumped into us from the side.
+</quote>
+<quote>
+Standing on either side of him were two younger men.
+</quote>
+<quote>
+I sat down by her side.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+on one side of a boundary or barrier
+</seg>
+, je na enem od dveh obmo&ccaron;ij, ki ju lo&ccaron;uje meja ali pregrada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were told of threatening developments on the other side of the border.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s sides 
+</seg>
+sta dela telesa od pazduh do bokov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stranski del trupa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She lay on her side with her back to me.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sides of an object 
+</seg>
+sta zunanji povr&scaron;ini predmeta, ki nista zgoraj ali spodaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The box opens on this side.
+</quote>
+<quote>
+Hogan walked round to the side of the car and unlocked the door.
+</quote>
+<quote>
+She was kneeling by the side of the bed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Smithy left the side door open.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sides of an area or surface 
+</seg>
+sta polovici nekega obmo&ccaron;ja ali njegovi robovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Blood was streaming from one side of her face.
+</quote>
+<quote>
+...the wrong side of the road.
+</quote>
+<quote>
+A hedge surrounds my garden on three sides.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sides of something flat 
+</seg>
+sta ravni strani ploskega predmeta, na primer lista papirja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What does the leaflet say on the other side?
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sides of a hill or valley 
+</seg>
+so dvigajo&ccaron;i se ali spu&scaron;&ccaron;ajo&ccaron;i se deli hriba ali doline med vrhom in vzno&zcaron;jem oziroma dnom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobo&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were driving up the side of a mountain.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A side road 
+</seg>
+je manj pomembna cesta, ki se odcepi od pomembnej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stranska cesta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I slipped away down a side street.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The two sides of an argument, war, or game 
+</seg>
+sta skupini ljudi, ki si nasprotujeta v sporu, vojni ali tekmovanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The argument was settled to the satisfaction of both sides.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The two sides of an argument 
+</seg>
+sta nasprotni stali&scaron;&ccaron;i v razpravi o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She only ever hears his side of things.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular side of something 
+</seg>
+je eden izmed ve&ccaron; vidikov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The producers wanted to emphasize the political side of the play.
+</quote>
+<quote>
+There is something distasteful about this side of her character.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The two sides of one&apos;s family 
+</seg>
+so sorodniki iz o&ccaron;etove in materine rodbine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My grandparents on my father&apos;s side were both Polish.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put something to one side 
+</seg>
+pomeni nekaj lo&ccaron;iti od drugih stvari, da se bomo s tistim ukvarjali pozneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati na stran, odlo&zcaron;iti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sta dve osebi 
+<seg type="lemma">
+side by side
+</seg>
+, sta druga ob drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tesno skupaj, z ramo ob rami
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+at someone&apos;s side 
+</seg>
+ali 
+<FV>
+by someone&apos;s side
+</FV>
+, je v bli&zcaron;ini nekoga in ga podpira ali tola&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob strani
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wanted to live forever by her side.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take sides 
+</seg>
+ali 
+<FV>
+to take someone&apos;s side 
+</FV>
+pomeni podpirati nekoga, ki je v sporu z nekom drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti se na stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wouldn&apos;t want anyone to take my side against Tom.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be on someone&apos;s side 
+</seg>
+pomeni podpirati nekoga, ki je v sporu ali vojni z nekom drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na strani
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whose side are you on?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+on the side
+</seg>
+, tisto naredimo poleg svojega rednega dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povrhu, dodatno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If the farm prospers, we could start a little business on the side.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+side 
+</seg>
+lahko uporabimo, ko &zcaron;elimo povedati svoje mnenje o velikosti ali kakovosti ne&ccaron;esa. Na primer, &ccaron;e je nekaj 
+<seg type="lemma">
+on the large side
+</seg>
+, je nekoliko preveliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekoliko, rahlo, malce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The food is excellent though on the expensive side.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep on the right side of someone 
+</seg>
+pomeni, da posku&scaron;amo nekomu ustre&ccaron;i in se trudimo, da ga ne bi spravili v slabo voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z nekom delati v rokavicah, biti vedno prijazen z nekom
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+err on the side of 
+</QF>
+<QI>
+something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+err.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+side with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To side with someone 
+</seg>
+pomeni podpirati nekoga v sporu z nekom drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati z, potegniti z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The daughters sided with their mothers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

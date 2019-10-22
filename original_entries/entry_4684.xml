@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+engine
+</orth>
+<form type="variant">
+<pron>
+/*endZIn/
+</pron>
+</form>
+<form type="inflected">
+engines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The engine of a vehicle 
+</seg>
+je tisti del vozila, ki ustvarja energijo za premikanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+motor
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An engine 
+</seg>
+je tudi veliko vozilo, ki vle&ccaron;e &zcaron;elezni&scaron;ke vagone. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lokomotiva
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo
+<QZ>
+TRANSPORT
+</QZ>
+.
+</QP>
+</sense>
+</entry>

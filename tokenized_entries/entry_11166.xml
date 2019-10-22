@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p592_s649221" id="p592_w633" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.12" y="173.034" base="178.73" width="39.1248" height="7.552">pronounced</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p592_s649222" id="p592_w634" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.715" y="173.034" base="178.73" width="29.759" height="7.552">East-lon.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p592_s649224" id="p592_w636" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="386.08" y="174.814" base="178.73" width="7.05721" height="5.192">VB</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p592_s649225" id="p592_w637" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="394.142" y="174.814" base="178.73" width="10.4499" height="5.192">with</TOKEN>
+<TOKEN sid="p592_s649226" id="p592_w638" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="405.597" y="174.814" base="178.73" width="9.71883" height="5.192">OBJ</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p592_s649227" id="p592_w639" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="416.321" y="174.814" base="178.73" width="8.61993" height="5.192">and</TOKEN>
+</seg>
+<TOKEN sid="p592_s649228" id="p592_w640" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="425.945" y="174.814" base="178.73" width="14.0837" height="5.192">COM-</TOKEN>
+<TOKEN sid="p592_s649229" id="p592_w641" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="258.61" y="183.894" base="187.81" width="26.1211" height="5.192">PLEMENT</TOKEN>
+<TOKEN sid="p592_s649230" id="p592_w642" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.88" y="182.114" base="187.81" width="8.15328" height="7.552">To</TOKEN>
+<TOKEN sid="p592_s649231" id="p592_w643" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="299.195" y="182.114" base="187.81" width="35.8459" height="7.552">pronounce</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p592_s649232" id="p592_w644" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.201" y="182.114" base="187.81" width="35.195" height="7.552">something</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p592_s649233" id="p592_w645" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.556" y="182.114" base="187.81" width="6.80328" height="7.552">to</TOKEN>
+<TOKEN sid="p592_s649234" id="p592_w646" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.519" y="182.114" base="187.81" width="7.99848" height="7.552">be</TOKEN>
+<TOKEN sid="p592_s649235" id="p592_w647" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="397.678" y="182.114" base="187.81" width="13.9946" height="7.552">true</TOKEN>
+<TOKEN sid="p592_s649236" id="p592_w648" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="414.83" y="182.114" base="187.81" width="25.1892" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p592_s649237" id="p592_w649" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="191.194" base="196.89" width="24.3936" height="7.552">uradno</TOKEN>
+<TOKEN sid="p592_s649238" id="p592_w650" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.603" y="191.194" base="196.89" width="25.9877" height="7.552">izjaviti,</TOKEN>
+<TOKEN sid="p592_s649239" id="p592_w651" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="312.189" y="191.194" base="196.89" width="8.40096" height="7.552">da</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

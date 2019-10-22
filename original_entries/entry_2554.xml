@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+coffin
+</orth>
+<form type="variant">
+<pron>
+/k*QfIn/
+</pron>
+</form>
+<form type="inflected">
+coffins.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A coffin 
+</seg>
+je zaboj, v katerem pokopljejo ali se&zcaron;gejo truplo umrlega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krsta
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a nail in another thing's coffin
+</seg>
+, bo povzro&ccaron;ilo konec ali propad druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ebelj v krsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Credit cards are the first nails in the coffin of traditional financial methods.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

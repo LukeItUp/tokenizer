@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oral
+</orth>
+<form type="variant">
+<pron>
+/*O*:r@l/
+</pron>
+</form>
+<form type="inflected">
+orals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+oral 
+</seg>
+opisujemo stvari, ki so povezane z govorjenjem in ne na primer s pisanjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an oral test in German.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+orally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The candidate will be examined orally.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An oral 
+</seg>
+je ustni preskus znanja ali izpit. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustni izpit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The oral follows a written paper.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so zdravila 
+<seg type="lemma">
+oral
+</seg>
+, jih pogoltnemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oralen, za notranjo uporabo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an oral vaccine.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+orally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a pill taken orally.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

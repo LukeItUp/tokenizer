@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+park
+</orth>
+<form type="variant">
+<pron>
+/p*A*:k/
+</pron>
+</form>
+<form type="inflected">
+parks, parking, parked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A park 
+</seg>
+je javno zemlji&scaron;&ccaron;e, poraslo s travo in drevjem, na katerega gredo ljudje za sprostitev in zabavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+park
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took her children for a walk in the park.
+</quote>
+<quote>
+...Hyde Park.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<usg>
+V Veliki Britaniji
+</usg>
+<def xml:lang="sl">
+je 
+<seg type="lemma">
+a park 
+</seg>
+tudi zasebno zamlji&scaron;&ccaron;e, poraslo s travo in drevjem, okoli velike pode&zcaron;elske hi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+park
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parks a vehicle
+</seg>
+, vozilo zapelje na mesto, kjer ga sme pustiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+parkirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She parked in front of the library.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+parked
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We could see the lights of a parked car.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+car park, 
+</ref>
+<ref>
+national park
+</ref>
+</xr>
+</sense>
+</entry>

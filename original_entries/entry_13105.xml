@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slit
+</orth>
+<form type="variant">
+<pron>
+/sl*It/
+</pron>
+</form>
+<form type="inflected">
+slits, slitting.
+</form>
+<IN>
+<IH>
+Slit 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slit something 
+</seg>
+pomeni narediti dolgo ozko zarezo v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prerezati, razparati, odrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She got a knife and slit the envelope.
+</quote>
+<quote>
+He slit open the packet with his thumb nail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slit 
+</seg>
+je dolga ozka odprtina, ki jo naredimo z rezilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zareza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We make a tiny slit in it with a razor blade.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slit 
+</seg>
+je tudi dolga ozka odprtina v ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...neon light came through the slits in the blind.
+</quote>
+</seg>
+</sense>
+</entry>

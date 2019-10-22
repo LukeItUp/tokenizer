@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wrap
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+wraps, wrapping, wrapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+wraps something
+</seg>
+, tesno ovije papir ali tkanino okrog ne&ccaron;esa, da tisto prekrije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wrapped the ring in my handkerchief.
+</quote>
+<quote>
+The book was wrapped in brown paper.
+</quote>
+<quote>
+A handkerchief was wrapped around his left hand.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;round&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;around&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wrap one&apos;s arms or fingers around something 
+</seg>
+pomeni tesno stisniti z rokami ali prsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+objeti, oviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wrapped his arms around me.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+wrapping
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wrap up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+wraps something up
+</seg>
+, tesno ovije papir ali tkanino okoli ne&ccaron;esa, da tisto prekrije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could you wrap the vase up?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To wrap up 
+</seg>
+pomeni nadeti si topla obla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+toplo se oble&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wrap up well. It&apos;s a cold night tonight.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To wrap up a job or an agreement 
+</seg>
+pomeni zadovoljivo kon&ccaron;ati neko nalogo ali sporazum; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dokon&ccaron;ati, izpeljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole deal was wrapped up in a matter of days.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

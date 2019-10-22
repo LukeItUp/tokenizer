@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+well-off.
+</orth>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+well-off
+</seg>
+, je precej bogat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premo&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A lot of the students were quite well-off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo 
+<seg type="lemma">
+doesn&apos;t know when one&apos;s well off
+</seg>
+, ga kritiziramo, ker ne ceni tega, da ima sre&ccaron;o; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne zavedati se svoje sre&ccaron;e
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

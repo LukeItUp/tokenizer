@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+illuminate
+</orth>
+<form type="variant">
+<pron>
+/Il*u*:mIneIt/
+</pron>
+</form>
+<form type="inflected">
+illuminates, illuminating, illuminated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To illuminate something 
+</seg>
+pomeni posvetiti z lu&ccaron;jo na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvetliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lamps were arranged to illuminate his work.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+illuminated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...Vienna&apos;s most spectacularly illuminated church.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To illuminate something 
+</seg>
+pomeni nekaj, kar je te&zcaron;ko razumljivo, narediti jasnej&scaron;e tako, da tisto pojasnimo ali damo primere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razjasniti, pojasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their doctrine illuminates much that might seem obscure in the Muslim teaching.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+illuminating
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his illuminating book on the subject.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flip
+</orth>
+<form type="variant">
+<pron>
+/fl*Ip/
+</pron>
+</form>
+<form type="inflected">
+flips, flipping, flipped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;through&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flip through a book or file 
+</seg>
+pomeni hitro obra&ccaron;ati liste v knjigi ali kartoteki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pre)listati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flip something into a different position 
+</seg>
+pomeni povzro&ccaron;iti, da se stanje ne&ccaron;esa spremeni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+frcniti, tleskniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He flipped open his notebook.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,231 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+single
+</orth>
+<form type="variant">
+<pron>
+/s*INg@0l/
+</pron>
+</form>
+<form type="inflected">
+singles, singling, singled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar, ki je 
+<seg type="lemma">
+single
+</seg>
+, je edina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+en sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We heard a single shot.
+</quote>
+<quote>
+I just couldn&apos;t think of a single thing to say.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+single 
+</seg>
+uporabimo tudi, ko o neki stvari govorimo lo&ccaron;eno od vseh drugih, ki so ji podobne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posamezen, (prav) vsak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is the most important single invention since the wheel.
+</quote>
+<quote>
+We went to the house every single day for six months.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba, ki je 
+<seg type="lemma">
+single
+</seg>
+, ni poro&ccaron;ena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samski
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Postelja ali soba, ki je 
+<seg type="lemma">
+single
+</seg>
+, je mi&scaron;ljena samo za eno osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enojen; enoposteljen
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Vozovnica, ki je 
+<seg type="lemma">
+single
+</seg>
+, velja za potovanje od nekega kraja do drugega, ne pa tudi nazaj; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+enosmeren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How much is the single fare to London?
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A single to Edinburgh, please.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A single 
+</seg>
+je tudi majhna gramofonska plo&scaron;&ccaron;a; na vsaki strani je posneta samo ena pesem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mala plo&scaron;&ccaron;a
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Singles 
+</seg>
+je igra tenisa ali badmintona, v kateri nastopata samo dva igralca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra posameznikov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The high serve is used a lot in singles.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<QF>
+in single figures: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+figure.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+single out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To single someone out 
+</seg>
+pomeni v skupini izbrati nekoga, ki mu posvetimo posebno pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrati, izlo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Three other people were singled out for special praise.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

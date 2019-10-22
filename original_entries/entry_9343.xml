@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+muscle
+</orth>
+<form type="variant">
+<pron>
+/m*Vs@0l/
+</pron>
+</form>
+<form type="inflected">
+muscles, muscling, muscled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A muscle 
+</seg>
+je telesni del, ki se lahko kr&ccaron;i ali spro&scaron;&ccaron;a in tako omogo&ccaron;a gibanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mi&scaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boys couldn&apos;t help admiring their bulging muscles.
+</quote>
+<quote>
+Your mouth is mainly composed of muscle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima &ccaron;lovek 
+<seg type="lemma">
+muscle
+</seg>
+, ima mo&ccaron;, ki mu omogo&ccaron;a, da naredi nekaj te&zcaron;avnega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron;, energija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The campaign was valueless without the muscle of an organisation behind it.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+muscle in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muscles in on something
+</seg>
+, si utre dostop tudi tja, kjer ni dobrodo&scaron;el. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vriniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They resent the way you are muscling in on their territory.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

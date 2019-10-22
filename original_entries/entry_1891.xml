@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cake
+</orth>
+<form type="variant">
+<pron>
+/k*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+cakes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cake 
+</seg>
+je sladica, spe&ccaron;ena iz me&scaron;anice moke, jajc, sladkorja in ma&scaron;&ccaron;obe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+torta, poga&ccaron;a, kola&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She cut the cake and gave me a piece.
+</quote>
+<quote>
+...a slice of cake.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cake of soap 
+</seg>
+je kos mila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos mila
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a piece of cake
+</seg>
+, je zelo preprosto; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+otro&ccaron;je lahek
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is selling like hot cakes
+</seg>
+, ljudje tisto veliko kupujejo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+iti za med, prodajati se kot sve&zcaron;e &zcaron;emlje
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+the icing on the cake: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+icing
+</ref>
+</xr>
+</B>
+</entry>

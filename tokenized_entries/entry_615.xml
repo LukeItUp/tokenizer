@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p30_s32145" id="p30_w478" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="103.9" y="527.628" base="532.79" width="36.3816" height="6.844">/6pË6r6ns/,</TOKEN>
+<TOKEN sid="p30_s32145" id="p30_w478" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="103.9" y="527.628" base="532.79" width="36.3816" height="6.844">/6p&#203;6r6ns/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -210,7 +210,7 @@
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
@@ -259,12 +259,12 @@
 <TOKEN sid="p30_s32313" id="p30_w646" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="337.201" y="136.724" base="142.42" width="42.3936" height="7.552">appearances</TOKEN>
 </seg>
 <TOKEN sid="p30_s32314" id="p30_w647" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.501" y="136.724" base="142.42" width="8.7912" height="7.552">ali</TOKEN>
-<seg type="phrase_variant">
+<FV>
 <TOKEN sid="p30_s32315" id="p30_w648" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="392.211" y="136.724" base="142.42" width="8.40168" height="7.552">by</TOKEN>
 <TOKEN sid="p30_s32316" id="p30_w649" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="402.522" y="136.724" base="142.42" width="8.79696" height="7.552">all</TOKEN>
 <TOKEN sid="p30_s32317" id="p30_w650" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.228" y="136.724" base="142.42" width="26.7941" height="7.552">appear-</TOKEN>
 <TOKEN sid="p30_s32318" id="p30_w651" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="145.804" base="151.5" width="20.2118" height="7.552">ances,</TOKEN>
-</seg>
+</FV>
 <TOKEN sid="p30_s32319" id="p30_w652" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.302" y="145.804" base="151.5" width="17.1202" height="7.552">ka`e,</TOKEN>
 <TOKEN sid="p30_s32320" id="p30_w653" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="298.902" y="145.804" base="151.5" width="8.28144" height="7.552">da</TOKEN>
 <TOKEN sid="p30_s32321" id="p30_w654" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.663" y="145.804" base="151.5" width="5.87664" height="7.552">je</TOKEN>
@@ -296,5 +296,5 @@
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

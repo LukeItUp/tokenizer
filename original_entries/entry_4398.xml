@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dye
+</orth>
+<form type="variant">
+<pron>
+/d*a*I/
+</pron>
+</form>
+<form type="inflected">
+dyes, dyeing, dyed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dye hair or cloth 
+</seg>
+pomeni spremeniti barvo las ali tkanine tako, da jih namo&ccaron;imo v barvasti teko&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+barvati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+dyed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a woman with dyed red hair.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dye 
+</seg>
+je snov, ki jo zame&scaron;amo v teko&ccaron;ino in uporabimo za spreminjanje barve tkanine ali las. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+barva, barvilo
+</quote>
+</cit>
+</sense>
+</entry>

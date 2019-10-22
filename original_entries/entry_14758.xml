@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+transfer,
+</orth>
+<form type="inflected">
+transfers, transferring, transferred;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/tr&ae;nsf*$e*:/
+</pron>
+, samostalnik pa 
+<pron>
+/tr*&ae;nsf$e:/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To transfer something from one place or person to another 
+</seg>
+pomeni nekaj prenesti od ene osebe drugi ali z enega kraja na drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prenesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ten thousand pounds has been transferred into your account.
+</quote>
+<quote>
+He transferred the trout to a plate.
+</quote>
+<quote>
+Ravenscroft transferred his affections to his secretary.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the electronic transfer of money.
+</quote>
+<quote>
+...a transfer of public funds.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be transferred to a different place or job 
+</seg>
+pomeni znotraj iste ustanove za&ccaron;eti delati v drugem kraju ali na drugem delovnem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What branch did you say you would like to transfer to?
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had applied for a transfer to the north.
+</quote>
+<quote>
+He resisted his transfer to the political section.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

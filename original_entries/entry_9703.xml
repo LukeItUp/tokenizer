@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oak
+</orth>
+<form type="variant">
+<pron>
+/*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+oaks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An oak 
+</seg>
+ali 
+<seg type="variant">
+an oak tree 
+</seg>
+je veliko drevo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hrast
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Oak 
+</seg>
+je hrastov les; je zelo vzdr&zcaron;ljiv in trd. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hrast, hrastovina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a square oak table.
+</quote>
+</seg>
+</sense>
+</entry>

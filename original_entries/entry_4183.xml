@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dominate
+</orth>
+<form type="variant">
+<pron>
+/d*QmIneIt/
+</pron>
+</form>
+<form type="inflected">
+dominates, dominating, dominated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dominate a situation 
+</seg>
+pomeni biti najmo&ccaron;nej&scaron;a ali najpomembnej&scaron;a oseba ali stvar v nekem okviru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevladovati, dominirati, obvladovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These issues dominated the election.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+domination
+</orth>
+<form type="variant">
+<pron>
+/d*QmIn*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the company's increasing domination of the UK market.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ena dr&zcaron;ava 
+<seg type="lemma">
+dominates another country
+</seg>
+, ima oblast nad drugo dr&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vladati, obvladovati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+domination
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the domination of Europe over the rest of the world.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

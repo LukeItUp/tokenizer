@@ -1,0 +1,223 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sell
+</orth>
+<form type="variant">
+<pron>
+/s*el/
+</pron>
+</form>
+<form type="inflected">
+sells, selling, sold
+</form>
+<form type="variant">
+<pron>
+/s*@*Uld/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sell something 
+</seg>
+pomeni nekomu nekaj dati, ker nam za tisto da denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hope to sell the house for &pound;60,000.
+</quote>
+<quote>
+He is going to sell me his car.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar trgovina 
+<seg type="lemma">
+sells a particular thing
+</seg>
+, so v njej na prodaj dolo&ccaron;eni izdelki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you sell flowers?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sells for a particular price
+</seg>
+, je na prodaj po dolo&ccaron;eni ceni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These little books sell for 95p each.
+</quote>
+<quote>
+...a pocket calculator selling at the same price.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sells
+</seg>
+, ljudje tisto kupujejo v ve&ccaron;jih koli&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro se prodajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their revolutionary jet did not sell well.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sells a product
+</seg>
+, spodbuja kupce, da kupujejo dolo&ccaron;en izdelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&ccaron;evati/spodbujati prodajo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Scandal and gossip is what sells newspapers.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sell out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar trgovina 
+<seg type="lemma">
+is sold out of something 
+</seg>
+ali 
+<seg type="variant">
+has sold out of something
+</seg>
+, so v njej prodali vso zalogo blaga dolo&ccaron;ene vrste, tako da ga ni ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vse prodati, zmanjkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;ve sold out of bread.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar gledali&scaron;ka, kinematografska ali druga predstava 
+<seg type="lemma">
+is sold out
+</seg>
+, so bile vse vstopnice zanjo prodane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti razprodan
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

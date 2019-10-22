@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sew
+</orth>
+<form type="variant">
+<pron>
+/s*@*U/
+</pron>
+</form>
+<form type="inflected">
+sews, sewing, sewed, sewn
+</form>
+<form type="variant">
+<pron>
+/s*@*Un/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sew things together 
+</seg>
+pomeni zdru&zcaron;iti stvari s &scaron;ivanko in sukancem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;ivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sewing buttons onto one of my shirts.
+</quote>
+<quote>
+They teach the children to cook, sew, or knit.
+</quote>
+</seg>
+</sense>
+</entry>

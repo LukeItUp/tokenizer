@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p7_s6632" id="p7_w169" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="75.15" y="230.808" base="235.97" width="23.8016" height="6.844">/æsËd/,</TOKEN>
+<TOKEN sid="p7_s6632" id="p7_w169" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="75.15" y="230.808" base="235.97" width="23.8016" height="6.844">/&#230;s&#203;d/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -61,7 +61,7 @@
 <TOKEN sid="p7_s6667" id="p7_w204" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="144.663" y="257.974" base="263.67" width="16.3958" height="7.552">acid.</TOKEN>
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p7_s6668" id="p7_w205" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="163.2" y="257.974" base="263.67" width="17.599" height="7.552">Tudi:</TOKEN>
@@ -70,11 +70,11 @@
 <seg type="example">
 <quote>
 <TOKEN sid="p7_s6669" id="p7_w206" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="182.95" y="259.754" base="263.67" width="10.4504" height="5.192">ADJ</TOKEN>
-<TOKEN sid="p7_s6670" id="p7_w207" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.53" y="257.974" base="263.67" width="15.601" height="7.552">…an</TOKEN>
+<TOKEN sid="p7_s6670" id="p7_w207" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.53" y="257.974" base="263.67" width="15.601" height="7.552">&#8230;an</TOKEN>
 <TOKEN sid="p7_s6671" id="p7_w208" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.271" y="257.974" base="263.67" width="14.3978" height="7.552">acid</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -131,7 +131,7 @@
 <seg type="example">
 <quote>
 <TOKEN sid="p7_s6701" id="p7_w238" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.396" y="285.674" base="291.37" width="19.89" height="7.552">jedek;</TOKEN>
-<TOKEN sid="p7_s6702" id="p7_w239" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.77" y="285.674" base="291.37" width="18.0914" height="7.552">…her</TOKEN>
+<TOKEN sid="p7_s6702" id="p7_w239" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.77" y="285.674" base="291.37" width="18.0914" height="7.552">&#8230;her</TOKEN>
 <TOKEN sid="p7_s6703" id="p7_w240" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.36" y="285.674" base="291.37" width="14.0954" height="7.552">acid</TOKEN>
 </quote>
 </seg>

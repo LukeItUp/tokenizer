@@ -1,0 +1,153 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+elaborate,
+</orth>
+<form type="inflected">
+elaborates, elaborating, elaborated;
+</form>
+<PN>
+pridevnik izgovarjamo 
+<pron>
+/i1l*&ae;b@r@1t/
+</pron>
+, glagol pa
+<pron>
+/i1l*&ae;b@reIt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+elaborate
+</seg>
+, je zelo zapleteno, ker ima veliko razli&ccaron;nih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamotan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the elaborate network of canals.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+elaborately
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Every inch of its surface was elaborately decorated.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To elaborate on an idea 
+</seg>
+ali 
+<seg type="lemma">
+to elaborate an idea 
+</seg>
+pomeni povedati ve&ccaron; podrobnosti o neki zamisli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopolniti, izpopolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It isn't a statement I want to elaborate on.
+</quote>
+<quote>
+Some of these points will have to be further elaborated as we go along.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+elaboration
+</orth>
+<form type="variant">
+<pron>
+/i1l*&ae;b@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+An elaboration of this idea will follow in Chapter 12.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To elaborate something 
+</seg>
+pomeni tudi nekaj narediti bolj zapleteno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poglobiti, izpopolniti, dodelati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This type of plan could be elaborated.
+</quote>
+</seg>
+</sense>
+</entry>

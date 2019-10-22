@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+institution
+</orth>
+<form type="variant">
+<pron>
+/*InstItj*u*:S@0n/
+</pron>
+</form>
+<form type="inflected">
+institutions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An institution 
+</seg>
+je navada ali sistem, ki je pomembna ali zna&ccaron;ilna lastnost neke dru&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaljena navada, institucija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the institution of marriage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An institution 
+</seg>
+je tudi velika organizacija, na primer univerza, banka ali bolni&scaron;nica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustanova
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These universities accept lower grades than the more prestigious institutions.
+</quote>
+<quote>
+He may end up in a mental institution.
+</quote>
+<quote>
+...financial institutions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+institutional
+</orth>
+<form type="variant">
+<pron>
+/*InstItj*u*:S@0n@l, -S@n@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...institutional reform.
+</quote>
+<quote>
+The child has been in institutional care for many years.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

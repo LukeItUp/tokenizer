@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gurgle
+</orth>
+<form type="variant">
+<pron>
+/g*$e*:g@0l/
+</pron>
+</form>
+<form type="inflected">
+gurgles, gurgling, gurgled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar voda 
+<seg type="lemma">
+gurgles
+</seg>
+, povzro&ccaron;a klokotajo&ccaron; zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;uboreti, klokotati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dojen&ccaron;ek 
+<seg type="lemma">
+gurgles
+</seg>
+, iz grla spu&scaron;&ccaron;a grgrajo&ccaron;e glasove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;lobudrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kicking and gurgling, his little brother looked up at him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...gurgles of pleasure.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

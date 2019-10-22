@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+narrate
+</orth>
+<form type="variant">
+<pron>
+/n@r*e*It/
+</pron>
+</form>
+<form type="inflected">
+narrates, narrating, narrated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+narrates 
+</seg>
+zgodbo, jo pove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati, pripovedovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He narrated this tale with great effect.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+narration
+</orth>
+<form type="variant">
+<pron>
+/n@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The richness of the novel comes from his narration.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

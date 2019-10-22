@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+canvas
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;nv@s/
+</pron>
+</form>
+<form type="inflected">
+canvases.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Canvas 
+</seg>
+je trpe&zcaron;na, te&zcaron;ka tkanina, iz katere izdelujejo &scaron;otore, jadra in torbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+platno
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+under canvas
+</seg>
+, biva in spi v &scaron;otoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v &scaron;otoru
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A canvas 
+</seg>
+je tudi kos platna, na katerem je naslikana oljna slika, ali pa slika sama. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slikarsko platno; oljna slika, olje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...oil paintings on canvas.
+</quote>
+<quote>
+...the canvases of Hieronymus Bosch.
+</quote>
+</seg>
+</sense>
+</entry>

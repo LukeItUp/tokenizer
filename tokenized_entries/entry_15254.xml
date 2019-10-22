@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p827_s911087" id="p827_w902" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="488.232" base="494.64" width="42.6696" height="8.514">unmarried</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p827_s911088" id="p827_w903" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="301.47" y="489.478" base="494.64" width="12.7264" height="6.844">/&#216;m</TOKEN>
+<TOKEN sid="p827_s911089" id="p827_w904" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="314.6" y="488.84" base="492.25" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p827_s911090" id="p827_w905" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="317.26" y="489.478" base="494.64" width="27.2916" height="6.844">m&#230;r&#203;d/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p827_s911091" id="p827_w906" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="348.2" y="490.724" base="494.64" width="10.5108" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p827_s911092" id="p827_w907" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.33" y="488.944" base="494.64" width="17.7134" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p827_s911093" id="p827_w908" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="383.683" y="488.944" base="494.64" width="6.03648" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p827_s911094" id="p827_w909" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.38" y="488.944" base="494.64" width="38.3717" height="7.552">unmarried,</TOKEN>
+</seg>
+<TOKEN sid="p827_s911095" id="p827_w910" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="435.387" y="488.944" base="494.64" width="6.83352" height="7.552">ni</TOKEN>
+<TOKEN sid="p827_s911096" id="p827_w911" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="498.164" base="503.86" width="29.0491" height="7.552">poro~en.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p827_s911098" id="p827_w913" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="298.1" y="498.164" base="503.86" width="37.0505" height="7.552">neporo~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p827_s911099" id="p827_w914" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="337.15" y="498.164" base="503.86" width="15.601" height="7.552">&#8230;an</TOKEN>
+<TOKEN sid="p827_s911100" id="p827_w915" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="354.751" y="498.164" base="503.86" width="35.987" height="7.552">unmarried</TOKEN>
+<TOKEN sid="p827_s911101" id="p827_w916" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="392.738" y="498.164" base="503.86" width="25.2886" height="7.552">mother.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

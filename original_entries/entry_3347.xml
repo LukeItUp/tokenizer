@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+current
+</orth>
+<form type="variant">
+<pron>
+/k*Vr@nt/
+</pron>
+</form>
+<form type="inflected">
+currents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A current 
+</seg>
+je vztrajno, neprekinjeno gibanje vode ali zraka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The child had been swept out to sea by the current.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An electric current 
+</seg>
+je elektrika, ki te&ccaron;e po &zcaron;ici ali krogu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektri&ccaron;ni tok
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+current
+</seg>
+, se dogaja zdaj, se izvaja zdaj ali to uporabljamo zdaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdaj&scaron;nji, veljaven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our current methods of production are too expensive.
+</quote>
+<quote>
+The words &lsquo;light pollution&rsquo; are in current use among astronomers.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+currently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...experiments currently in progress.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

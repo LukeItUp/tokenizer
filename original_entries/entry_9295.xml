@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+movie
+</orth>
+<form type="variant">
+<pron>
+/m*u*:vi1/
+</pron>
+</form>
+<form type="inflected">
+movies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A movie 
+</seg>
+je druga beseda za kinematografski film. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+film
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a war movie.
+</quote>
+<quote>
+I went to a movie.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za kinematograf v&ccaron;asih uporabimo izraz 
+<seg type="lemma">
+the movies
+</seg>
+; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kino
+</quote>
+</cit>
+</sense>
+</entry>

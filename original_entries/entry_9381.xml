@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mystic
+</orth>
+<form type="variant">
+<pron>
+/m*IstIk/
+</pron>
+</form>
+<form type="inflected">
+mystics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mystic 
+</seg>
+je &ccaron;lovek, ki se ukvarja z religioznim misticizmom ali vanj verjame. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mistik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mystic 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+mystical
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misti&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a performer in a mystic rite.
+</quote>
+</seg>
+</sense>
+</entry>

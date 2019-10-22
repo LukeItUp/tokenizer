@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exaggerate
+</orth>
+<form type="variant">
+<pron>
+/I2gz*&ae;dZ@reIt/
+</pron>
+</form>
+<form type="inflected">
+exaggerates, exaggerating, exaggerated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exaggerate 
+</seg>
+pomeni narediti tisto, o &ccaron;emer govorimo, navidezno ve&ccaron;je ali pomembnej&scaron;e, kot je v resnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretiravati, napihniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am exaggerating a little.
+</quote>
+<quote>
+It is impossible to exaggerate the horrors of the system.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exaggeration
+</orth>
+<form type="variant">
+<pron>
+/I2gz*&ae;dZ@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Isn't that a bit of an exaggeration?
+</quote>
+<quote>
+One can speak, without exaggeration, of a peaceful revolution.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exaggerate something 
+</seg>
+pomeni nekaj narediti preve&ccaron; o&ccaron;itno, na primer gib
+</def>
+<cit type="translationEquivalent">
+<quote>
+preve&ccaron; poudariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ballet exaggerates ordinary body movements.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exaggerated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Brody heaved an exaggerated sigh.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

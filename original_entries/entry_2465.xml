@@ -1,0 +1,40 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clockwise
+</orth>
+<form type="variant">
+<pron>
+/kl*QkwaIz/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj premika 
+<seg type="lemma">
+in a clockwise direction
+</seg>
+, se premika v krogu v isti smeri kot kazalci na uri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v smeri urnega kazalca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pushed the bolt back in and twisted it clockwise.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twitch
+</orth>
+<form type="variant">
+<pron>
+/tw*ItS/
+</pron>
+</form>
+<form type="inflected">
+twitches, twitching, twitched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twitch 
+</seg>
+pomeni delati sunkovite majhne premike, ki jih ne moremo nadzorovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trzati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph felt his lips twitch.
+</quote>
+<quote>
+She trembled and twitched as I touched her.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...twitches of the muscles.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twitch something 
+</seg>
+pomeni nekaj ne&zcaron;no potegniti, da se premakne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potegniti, cukniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She twitched the curtain into place.
+</quote>
+</seg>
+</sense>
+</entry>

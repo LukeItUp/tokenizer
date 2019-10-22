@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smear
+</orth>
+<form type="variant">
+<pron>
+/sm*I*@/
+</pron>
+</form>
+<form type="inflected">
+smears, smearing, smeared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A smear 
+</seg>
+je umazana ali mastna sled, ki ostane, ko se nekaj podrgne ob neko povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+made&zcaron;, packa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a smear of blue paint.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smear something 
+</seg>
+pomeni povzro&ccaron;iti made&zcaron;e ali mastne packe na ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umazati, zamazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Soot smeared our faces.
+</quote>
+<quote>
+The windows were all smeared.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smear a surface with a substance 
+</seg>
+ali 
+<seg type="lemma">
+to smear a substance onto a surface 
+</seg>
+pomeni nanesti nekaj po povr&scaron;ini v enakomernem sloju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namazati, razmazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Smear the baking tin with butter.
+</quote>
+<quote>
+She smeared this blood onto a slide.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A smear 
+</seg>
+je tudi neprijetna in neresni&ccaron;na govorica ali obto&zcaron;ba, katere namen je uni&ccaron;iti &ccaron;lovekovo dobro ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kleveta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Party leaders denounced the allegation as a right-wing smear.
+</quote>
+</seg>
+</sense>
+</entry>

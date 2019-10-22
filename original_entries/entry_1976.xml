@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+captain
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;ptIn/
+</pron>
+</form>
+<form type="inflected">
+captains, captaining, captained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The captain of an aeroplane or ship 
+</seg>
+je &ccaron;astnik, ki vodi letalo ali ladjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pilot; kapitan
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V vojski je 
+<seg type="lemma">
+a captain 
+</seg>
+&ccaron;astnik ni&zcaron;je stopnje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kapetan
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The captain of a sports team 
+</seg>
+je vodja &scaron;portnega mo&scaron;tva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kapetan
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To captain a sports team 
+</seg>
+pomeni biti voditelj &scaron;portne ekipe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti kapetan, voditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Willis is probably the best player to have captained England.
+</quote>
+</seg>
+</sense>
+</entry>

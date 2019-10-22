@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frown
+</orth>
+<form type="variant">
+<pron>
+/fr*a*Un/
+</pron>
+</form>
+<form type="inflected">
+frowns, frowning, frowned.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To frown 
+</seg>
+pomeni pomakniti obrvi blizu skupaj, ker smo jezni, zaskrbljeni ali poglobljeno razmi&scaron;ljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namr&scaron;&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He frowned as though deep in thought.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a frown of disappointment.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+frown on 
+<VS>
+ali 
+</VS>
+<VV>
+frown upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+frowned on 
+</seg>
+ali 
+<seg type="variant">
+frowned upon
+</seg>
+, tistega ljudje ne odobravajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrko gledati, postrani gledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Non-membership of a union is frowned upon.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

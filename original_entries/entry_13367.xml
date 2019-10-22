@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spawn
+</orth>
+<form type="variant">
+<pron>
+/sp*O*:n/
+</pron>
+</form>
+<form type="inflected">
+spawns, spawning, spawned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Spawn 
+</seg>
+je &zcaron;eleju podobna snov, v kateri so jaj&ccaron;eca rib ali &zcaron;ab. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrest
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ribe ali &zcaron;abe 
+<seg type="lemma">
+spawn
+</seg>
+, odlagajo jaj&ccaron;eca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drstiti se; odlo&zcaron;iti jaj&ccaron;eca
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spawn something 
+</seg>
+pomeni povzro&ccaron;iti nastanek ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ustvariti, spro&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Poverty had spawned numerous religious movements.
+</quote>
+</seg>
+</sense>
+</entry>

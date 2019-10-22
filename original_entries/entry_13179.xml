@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sneer
+</orth>
+<form type="variant">
+<pron>
+/sn*I*@/
+</pron>
+</form>
+<form type="inflected">
+sneers, sneering, sneered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sneer at someone or something 
+</seg>
+pomeni izraziti zani&ccaron;evanje nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posmehovati se, vihati nos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was afraid he would sneer at the idea.
+</quote>
+<quote>
+&lsquo;We could certainly get cheaper estimates,&rsquo; sneered Casson.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Oh yes,&rsquo; said McFee, a sneer flitting over his face.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overwork
+</orth>
+<form type="variant">
+<pron>
+/*@*Uv@w*$e*:k/
+</pron>
+</form>
+<form type="inflected">
+overworks, overworking, overworked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is overworking 
+</seg>
+ali 
+<seg type="lemma">
+is overworked
+</seg>
+, pretirava z delom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;iti si preve&ccaron; dela
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You look tired. Have you been overworking?
+</quote>
+<quote>
+They were overworked and poorly paid.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a body made weak through undernourishment and overwork.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To overwork something 
+</seg>
+pomeni nekaj preve&ccaron; uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Farmers have overworked the soil.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+overworked
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Crisis&rsquo; has become one of the most overworked words of modern politics.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

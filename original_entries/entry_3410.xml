@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dairy
+</orth>
+<form type="variant">
+<pron>
+/d*e*@ri1/
+</pron>
+</form>
+<form type="inflected">
+dairies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dairy 
+</seg>
+je trgovina ali podjetje, ki prodaja mleko, maslo in sir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlekarna, sirarna
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na kmetiji je 
+<seg type="lemma">
+a dairy 
+</seg>
+zgradba, kjer hranijo mleko ali izdelujejo smetano, maslo in sir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlekarna, sirarna
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izdelki, ki so 
+<seg type="lemma">
+dairy
+</seg>
+, so iz mleka, na primer maslo in sir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mle&ccaron;en
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dairy 
+</seg>
+se nana&scaron;a tudi na uporabo goveda za pridelovanje mleka, v nasprotju z govedom, ki ga redijo za meso. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlekarski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a dairy herd of 105 cattle.
+</quote>
+</seg>
+</sense>
+</entry>

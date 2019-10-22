@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mechanic
+</orth>
+<form type="variant">
+<pron>
+/mI2k*&ae;nIk/
+</pron>
+</form>
+<form type="inflected">
+mechanics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mechanic 
+</seg>
+je oseba, ki poklicno popravlja stroje in motorje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mehanik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The mechanics of something 
+</seg>
+je na&ccaron;in, kako je nekaj narejeno ali kako tisto deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tehnika, mehanizem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the mechanics of reading.
+</quote>
+</seg>
+</sense>
+</entry>

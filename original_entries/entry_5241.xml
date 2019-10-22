@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fellow
+</orth>
+<form type="variant">
+<pron>
+/f*el@U/
+</pron>
+</form>
+<form type="inflected">
+fellows.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fellow 
+</seg>
+je mo&scaron;ki; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+fant, tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Doug is an exceedingly amiable fellow.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+fellow 
+</seg>
+opi&scaron;emo osebe, ki imajo z nami nekaj skupnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovari&scaron;, dru&zcaron;abnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fellow passenger.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He sought the approval of his fellows.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fellow of a society or academic institution 
+</seg>
+je starej&scaron;i &ccaron;lan neke dru&zcaron;be ali akademske ustanove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lan, sodelavec
+</quote>
+</cit>
+</sense>
+</entry>

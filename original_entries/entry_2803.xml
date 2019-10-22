@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+confidential
+</orth>
+<form type="variant">
+<pron>
+/k*QnfId*enS@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Podatek, ki je 
+<seg type="lemma">
+confidential
+</seg>
+, naj bi ostal skrivnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This arrangement is to be kept strictly confidential.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+confidentially
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I wrote to you confidentially on 30th September 1987.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+confidentiality
+</orth>
+<form type="variant">
+<pron>
+/k*QnfIdEnSi1*&ae;l@1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Please respect the confidentiality of this information.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar z nekom govorimo 
+<seg type="lemma">
+in a confidential way
+</seg>
+, govorimo potiho, ker mu pripovedujemo skrivnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He became very confidential.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+confidentially
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She leaned forward and whispered to him confidentially.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

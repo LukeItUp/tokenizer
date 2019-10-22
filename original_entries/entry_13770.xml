@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+strangely
+</orth>
+<form type="variant">
+<pron>
+/str*e*Ind0Zli1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+strangely 
+</seg>
+povemo, da je neka lastnost ali dejanje nenavadno ali nepri&ccaron;akovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;uden, presenetljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had acted strangely as he went by.
+</quote>
+<quote>
+He answered in a strangely calm voice.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+strangely 
+</seg>
+ali 
+<seg type="variant">
+strangely enough 
+</seg>
+poudarimo, da je tisto, kar govorimo, presenetljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;uda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has, strangely, only recently been discovered.
+</quote>
+<quote>
+&lsquo;Are students interested in religion these days?&rsquo;&mdash;&lsquo;Strangely enough, they are.&rsquo;
+</quote>
+</seg>
+</sense>
+</entry>

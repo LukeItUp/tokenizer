@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rhyme
+</orth>
+<form type="variant">
+<pron>
+/r*a*Im/
+</pron>
+</form>
+<form type="inflected">
+rhymes, rhyming, rhymed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena beseda 
+<seg type="lemma">
+rhymes with another word 
+</seg>
+ali kadar dve besedi 
+<seg type="lemma">
+rhyme
+</seg>
+, imata na koncu podobne glasove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rimati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She called him Guppy, to rhyme with puppy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rhyme 
+</seg>
+je beseda, ki se rima z neko drugo besedo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rima
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...two words he could not find a rhyme for.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rhyme 
+</seg>
+je tudi kratka pesem, ki ima na koncu vrstic rimane besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pesmica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...children&apos;s games and rhymes.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+nursery rhyme
+</ref>
+</xr>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rhyme 
+</seg>
+je uporaba rimanih besed kot poseben postopek v pesni&scaron;tvu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rimanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a gift for rhythm and rhyme.
+</quote>
+</seg>
+</sense>
+</entry>

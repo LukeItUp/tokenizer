@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hunter
+</orth>
+<form type="variant">
+<pron>
+/h*Vnt@/
+</pron>
+</form>
+<form type="inflected">
+hunters.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hunter 
+</seg>
+je oseba, ki lovi divje &zcaron;ivali za hrano ali &scaron;port. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lovec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Osebe, ki i&scaron;&ccaron;ejo stvari dolo&ccaron;ene vrste, pogosto imenujemo 
+<seg type="lemma">
+hunters
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskalec, lovec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bargain hunters.
+</quote>
+<quote>
+...fossil hunters.
+</quote>
+</seg>
+</sense>
+</entry>

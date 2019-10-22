@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subway
+</orth>
+<form type="variant">
+<pron>
+/s*VbweI/
+</pron>
+</form>
+<form type="inflected">
+subways.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A subway 
+</seg>
+je prehod za pe&scaron;ce, ki poteka pod prometno cesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podzemni prehod
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A subway 
+</seg>
+je v ameri&scaron;ki angle&scaron;&ccaron;ini podzemna &zcaron;eleznica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podzemna &zcaron;eleznica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a subway station.
+</quote>
+</seg>
+</sense>
+</entry>

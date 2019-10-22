@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+outburst
+</orth>
+<form type="variant">
+<pron>
+/*a*Utb$e:st/
+</pron>
+</form>
+<form type="inflected">
+outbursts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An outburst 
+</seg>
+je nenaden in silovit izraz jeze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh, napad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I apologize for my outburst just now.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An outburst of violent activity 
+</seg>
+je nenadna pojavitev nasilnega dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There followed an outburst of shooting.
+</quote>
+</seg>
+</sense>
+</entry>

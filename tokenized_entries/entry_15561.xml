@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p841_s925736" id="p841_w815" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="326.662" base="333.07" width="34.247" height="8.514">vertebra</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p841_s925737" id="p841_w816" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="291.09" y="327.908" base="333.07" width="34.3316" height="6.844">/v&#197;&#194;t&#203;br6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p841_s925738" id="p841_w817" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="327.12" y="327.73" base="333.07" width="30.3777" height="7.08">vertebrae</TOKEN>
+</form>
+<form type="variant">
+<pron>
+<TOKEN sid="p841_s925739" id="p841_w818" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="359.21" y="327.908" base="333.07" width="36.8316" height="6.844">/v&#197;&#194;t&#203;bre&#203;/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p841_s925740" id="p841_w819" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="397.74" y="329.154" base="333.07" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p841_s925741" id="p841_w820" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="417.879" y="329.154" base="333.07" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p841_s925742" id="p841_w821" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.7" y="327.374" base="333.07" width="18.5299" height="7.552">One's</TOKEN>
+<TOKEN sid="p841_s925743" id="p841_w822" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="336.454" base="342.15" width="32.2596" height="7.552">vertebrae</TOKEN>
+</seg>
+<TOKEN sid="p841_s925744" id="p841_w823" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="295.06" y="336.454" base="342.15" width="7.19928" height="7.552">so</TOKEN>
+<TOKEN sid="p841_s925745" id="p841_w824" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="304.259" y="336.454" base="342.15" width="25.1964" height="7.552">majhne</TOKEN>
+<TOKEN sid="p841_s925746" id="p841_w825" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.456" y="336.454" base="342.15" width="16.7947" height="7.552">kosti</TOKEN>
+<TOKEN sid="p841_s925747" id="p841_w826" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.251" y="336.454" base="342.15" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p841_s925748" id="p841_w827" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="356.254" y="336.454" base="342.15" width="33.1848" height="7.552">hrbtenici.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p841_s925750" id="p841_w829" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="397.67" y="336.454" base="342.15" width="28.6596" height="7.552">vretence</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p449_s492509" id="p449_w445" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="544.542" base="550.95" width="37.9902" height="8.514">luminous</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p449_s492510" id="p449_w446" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="96.63" y="545.788" base="550.95" width="36.8916" height="6.844">/lu&#194;m&#203;n6s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p449_s492511" id="p449_w447" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.45" y="547.034" base="550.95" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p449_s492512" id="p449_w448" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.82" y="545.254" base="550.95" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p449_s492513" id="p449_w449" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.944" y="545.254" base="550.95" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p449_s492514" id="p449_w450" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.87" y="545.254" base="550.95" width="33.5815" height="7.552">luminous,</TOKEN>
+</seg>
+<TOKEN sid="p449_s492515" id="p449_w451" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.381" y="545.254" base="550.95" width="11.5898" height="7.552">sije</TOKEN>
+<TOKEN sid="p449_s492516" id="p449_w452" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.901" y="545.254" base="550.95" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p449_s492517" id="p449_w453" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.627" y="545.254" base="550.95" width="13.1954" height="7.552">`ari</TOKEN>
+<TOKEN sid="p449_s492518" id="p449_w454" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="554.334" base="560.03" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p449_s492519" id="p449_w455" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.3529" y="554.334" base="560.03" width="17.1979" height="7.552">temi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p449_s492521" id="p449_w457" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.69" y="554.334" base="560.03" width="26.3902" height="7.552">ble{~e~,</TOKEN>
+<TOKEN sid="p449_s492522" id="p449_w458" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.041" y="554.334" base="560.03" width="25.195" height="7.552">svetle~;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p449_s492523" id="p449_w459" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.19" y="554.334" base="560.03" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p449_s492524" id="p449_w460" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.147" y="554.334" base="560.03" width="31.5886" height="7.552">luminous</TOKEN>
+<TOKEN sid="p449_s492525" id="p449_w461" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.696" y="554.334" base="560.03" width="20.3947" height="7.552">hands</TOKEN>
+<TOKEN sid="p449_s492526" id="p449_w462" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="225.05" y="554.334" base="560.03" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p449_s492527" id="p449_w463" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="233.41" y="554.334" base="560.03" width="10.4033" height="7.552">my</TOKEN>
+<TOKEN sid="p449_s492528" id="p449_w464" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3894" y="563.414" base="569.11" width="22.7988" height="7.552">watch.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

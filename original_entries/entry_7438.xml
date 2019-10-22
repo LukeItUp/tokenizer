@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inferior
+</orth>
+<form type="variant">
+<pron>
+/Inf*I*@rI@/
+</pron>
+</form>
+<form type="inflected">
+inferiors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+inferior
+</seg>
+, ni tako dober ali pomemben kot druge osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Charlie, aged sixteen, felt inferior to lads of his own age.
+</quote>
+<quote>
+It was a cheap and inferior product.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inferiority
+</orth>
+<form type="variant">
+<pron>
+/InfI@rI*QrIti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...feelings of inferiority.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s inferiors 
+</seg>
+so osebe, ki imajo ni&zcaron;ji polo&zcaron;aj od nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podrejeni
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+steak
+</orth>
+<form type="variant">
+<pron>
+/st*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+steaks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Steak 
+</seg>
+je govedina z malo ma&scaron;&ccaron;obe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrezek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fish steak 
+</seg>
+je velik kos ribjega mesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odrezek (ribe)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...four halibut steaks.
+</quote>
+</seg>
+</sense>
+</entry>

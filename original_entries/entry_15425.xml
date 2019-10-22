@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+urgent
+</orth>
+<form type="variant">
+<pron>
+/*$e*:dZ@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+urgent
+</seg>
+, moramo narediti ali obravnavati &ccaron;im prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nujen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of the motorway network is in urgent need of repair.
+</quote>
+<quote>
+...urgent messages.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+urgently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Improved health and education are urgently needed.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+urgency
+</orth>
+<form type="variant">
+<pron>
+/*$e*:dZ@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...matters of the greatest urgency.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar govorimo 
+<seg type="lemma">
+in an urgent way
+</seg>
+, poka&zcaron;emo, da nam je veliko do tega, da bi ljudje nekaj opazili ali naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vnet, zagret
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She spoke to him in a low and urgent voice.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+urgently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Do you see it?&rsquo; he demanded urgently.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+urgency
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a note of urgency in his voice.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

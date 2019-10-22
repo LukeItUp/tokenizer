@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dent
+</orth>
+<form type="variant">
+<pron>
+/d*ent/
+</pron>
+</form>
+<form type="inflected">
+dents, denting, dented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dent something 
+</seg>
+pomeni po&scaron;kodovati povr&scaron;ino ne&ccaron;esa, tako da udarimo po njej in v njej naredimo udrtino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;kodovati, udreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I drove into a post and dented the bumper slightly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dent 
+</seg>
+je vdolbina na povr&scaron;ini ne&ccaron;esa, povzro&ccaron;ena z udarcem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udrtina
+</quote>
+</cit>
+</sense>
+</entry>

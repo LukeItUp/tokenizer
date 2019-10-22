@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p231_s252290" id="p231_w877" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="435.602" base="442.01" width="33.2475" height="8.514">electron</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p231_s252291" id="p231_w878" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="291.07" y="436.848" base="442.01" width="5.06995" height="6.844">/i</TOKEN>
+<TOKEN sid="p231_s252292" id="p231_w879" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="296.5" y="436.21" base="439.62" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p231_s252293" id="p231_w880" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="299.14" y="436.848" base="442.01" width="30.2216" height="6.844">lektr&#201;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p231_s252294" id="p231_w881" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="332.04" y="436.67" base="442.01" width="31.1189" height="7.08">electrons.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p231_s252295" id="p231_w882" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="365.83" y="438.094" base="442.01" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p231_s252296" id="p231_w883" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="386.639" y="438.094" base="442.01" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p231_s252297" id="p231_w884" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.44" y="436.314" base="442.01" width="9.99936" height="7.552">An</TOKEN>
+<TOKEN sid="p231_s252298" id="p231_w885" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.108" y="436.314" base="442.01" width="27.4486" height="7.552">electron</TOKEN>
+</seg>
+<TOKEN sid="p231_s252299" id="p231_w886" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.23" y="436.314" base="442.01" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p231_s252300" id="p231_w887" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="445.394" base="451.09" width="21.9924" height="7.552">del~ek</TOKEN>
+<TOKEN sid="p231_s252301" id="p231_w888" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.803" y="445.394" base="451.09" width="19.998" height="7.552">snovi,</TOKEN>
+<TOKEN sid="p231_s252302" id="p231_w889" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.801" y="445.394" base="451.09" width="22.7916" height="7.552">manj{i</TOKEN>
+<TOKEN sid="p231_s252303" id="p231_w890" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.593" y="445.394" base="451.09" width="8.40168" height="7.552">od</TOKEN>
+<TOKEN sid="p231_s252304" id="p231_w891" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="341.995" y="445.394" base="451.09" width="23.2092" height="7.552">atoma.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p231_s252306" id="p231_w893" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="373.43" y="445.394" base="451.09" width="28.2478" height="7.552">elektron</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

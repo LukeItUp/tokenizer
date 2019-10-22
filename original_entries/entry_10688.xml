@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plead
+</orth>
+<form type="variant">
+<pron>
+/pl*i*:d/
+</pron>
+</form>
+<form type="inflected">
+pleads, pleading, pleaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plead with someone to do something 
+</seg>
+pomeni zelo &ccaron;ustveno prositi nekoga, naj nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi, moledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was pleading with her to control herself.
+</quote>
+<quote>
+&lsquo;Take me with you,&rsquo; he pleaded.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar odvetnik ali druga oseba 
+<seg type="lemma">
+pleads someone else&apos;s case or cause
+</seg>
+, govori v podporo ali obrambo nekoga drugega; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zagovarjati, braniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Of course his mother does her best to plead his case.
+</quote>
+<quote>
+Who will plead for us?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plead a particular thing 
+</seg>
+pomeni navesti dolo&ccaron;eno stvar kot vzrok ali opravi&ccaron;ilo za to, da ne&ccaron;esa nismo naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgovarjati se, braniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I pleaded that I felt ill.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plead in a court of law 
+</seg>
+pomeni, da nekdo, ki je obto&zcaron;en kaznivega dejanja, pred sodi&scaron;&ccaron;em uradno izjavi, ali se &ccaron;uti krivega ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati/zanikati krivdo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;How do you plead?&rsquo;&mdash;&lsquo;Not guilty.&rsquo;
+</quote>
+</seg>
+</sense>
+</entry>

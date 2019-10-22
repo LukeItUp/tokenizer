@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brake
+</orth>
+<form type="variant">
+<pron>
+/br*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+brakes, braking, braked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na vozilu so 
+<seg type="lemma">
+the brakes
+</seg>
+ naprave, ki poskrbijo, da gre vozilo po&ccaron;asneje ali se ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavora
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar voznik avtomobila 
+<seg type="lemma">
+brakes
+</seg>
+, ali kadar vozilo 
+<seg type="lemma">
+brakes
+</seg>
+, voznik z zavorami povzro&ccaron;i, da vozilo pelje po&ccaron;asneje ali se ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavirati, ustaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try to avoid sudden braking.
+</quote>
+</seg>
+</sense>
+</entry>

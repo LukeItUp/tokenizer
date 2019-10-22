@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lucid
+</orth>
+<form type="variant">
+<pron>
+/l*u*:sId/
+</pron>
+;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zapis ali govor, ki je 
+<seg type="lemma">
+lucid
+</seg>
+, je jasen in zlahka razumljiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlo&ccaron;en, lahko razumljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a brief and lucid account.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lucidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her ideas are very lucidly set out in his book.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+lucidity
+</orth>
+<form type="variant">
+<pron>
+/lu:s*IdI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He expresses himself with quiet lucidity.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be lucid 
+</seg>
+pomeni po prestani bolezni biti spet sposoben jasno misliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bister
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a ringing in my head, yet I was lucid.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lucidity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...in one of his moments of lucidity.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

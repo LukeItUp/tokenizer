@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tend
+</orth>
+<form type="variant">
+<pron>
+/t*end/
+</pron>
+</form>
+<form type="inflected">
+tends, tending, tended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tends to happen
+</seg>
+, se dogaja ponavadi ali pogosto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rado se zgoditi, imeti navado
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tend to wake up early in the morning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tend someone or something 
+</seg>
+pomeni skrbeti za nekoga ali nekaj z veliko pozornostjo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+negovati, skrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;d tended four very sick men.
+</quote>
+<quote>
+...a young man who tended his crops well.
+</quote>
+</seg>
+</sense>
+</entry>

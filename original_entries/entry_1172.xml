@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bed
+</orth>
+<form type="variant">
+<pron>
+/b*ed/
+</pron>
+</form>
+<form type="inflected">
+beds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bed 
+</seg>
+je kos pohi&scaron;tva; na njem med spanjem le&zcaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postelja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat down on the bed.
+</quote>
+<quote>
+He went to bed at ten.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To go to bed with someone 
+</seg>
+pomeni z nekom imeti spolne odnose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti spat z nekom
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flower bed 
+</seg>
+je kos zemlje; na njem gojimo okrasne rastline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cvetli&ccaron;na greda
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sea bed 
+</seg>
+ali 
+<seg type="lemma">
+a river bed 
+</seg>
+je zemlja na dnu morja ali reke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+morsko dno; re&ccaron;no dno
+</quote>
+</cit>
+</sense>
+</entry>

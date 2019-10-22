@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fragment,
+</orth>
+<form type="inflected">
+fragments, fragmenting, fragmented;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/fr*&ae;gm@2nt/
+</pron>
+, glagol pa 
+<pron>
+/fr&ae;gm*ent/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fragment of something 
+</seg>
+je majhen kos ali del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drobec, delec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a small fragment of bone.
+</quote>
+<quote>
+This was only a fragment out of a long conversation with John.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fragments 
+</seg>
+ali 
+<seg type="lemma">
+is fragmented
+</seg>
+, se zlomi ali razpade na majhne kose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdrobiti (se), razdeliti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Farms are constantly being fragmented into smaller holdings.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fragmentation
+</orth>
+<form type="variant">
+<pron>
+/fr*&ae;gment*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This led to its fragmentation into eight independent parties.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

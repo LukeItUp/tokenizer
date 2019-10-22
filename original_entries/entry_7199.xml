@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+implant,
+</orth>
+<form type="inflected">
+implants, implanting, implanted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/Impl*A*:nt/
+</pron>
+, samostalnik pa 
+<pron>
+/*ImplA:nt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To implant something 
+</seg>
+pomeni nekaj vstaviti v &ccaron;lovekovo telo z operacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsaditi
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An implant 
+</seg>
+je nekaj, kar &ccaron;loveku vstavijo v telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsadek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...hormone implants.
+</quote>
+</seg>
+</sense>
+</entry>

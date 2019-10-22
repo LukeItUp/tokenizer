@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+graze
+</orth>
+<form type="variant">
+<pron>
+/gr*e*Iz/
+</pron>
+</form>
+<form type="inflected">
+grazes, grazing, grazed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+grazes
+</seg>
+, j&eacute; travo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti (se), muliti travo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The horses graze peacefully.
+</quote>
+<quote>
+The people of the town fought for the right to graze cattle on the Common.
+</quote>
+<quote>
+...land grazed by sheep and cattle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To graze a part of one&apos;s body 
+</seg>
+pomeni po&scaron;kodovati si ko&zcaron;o, tako da jo ob nekaj podrgnemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opraskati, odrgniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I grazed my legs as he pulled me up.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...cuts and grazes.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

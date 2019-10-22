@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loosen
+</orth>
+<form type="variant">
+<pron>
+/l*u*:s@n/
+</pron>
+</form>
+<form type="inflected">
+loosens, loosening, loosened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+loosens 
+</seg>
+ali 
+<seg type="lemma">
+is loosened
+</seg>
+, se odve&zcaron;e ali postane manj &ccaron;vrsto pritrjeno na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popustiti, zrahljati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tyre on one of his wheels had loosened.
+</quote>
+<quote>
+The wind had loosened some leaves.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To loosen something 
+</seg>
+pomeni nekoliko sprostiti nekaj, kaj je privezano ali pritrjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popustiti, zrahljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took off his jacket and loosened his tie.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+loosen up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+loosens up 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+loosens someone up
+</seg>
+, tista oseba postane mirnej&scaron;a in manj zaskrbljena; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sprostiti (se), umiriti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her second drink loosened her up.
+</quote>
+<quote>
+As the day wore on he loosened up and became more chatty.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

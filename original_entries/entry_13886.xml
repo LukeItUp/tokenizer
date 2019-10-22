@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+submerge
+</orth>
+<form type="variant">
+<pron>
+/s@bm*$e*:dZ/
+</pron>
+</form>
+<form type="inflected">
+submerges, submerging, submerged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+submerges 
+</seg>
+ali 
+<seg type="lemma">
+is submerged
+</seg>
+, izgine pod vodno gladino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potopiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The alligator showed its snout before submerging.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+submerged
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a line of submerged rocks.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To submerge oneself in an activity 
+</seg>
+pomeni neki dejavnosti posvetiti vso svojo pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poglobiti se, zatopiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He submerged himself in company reports.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dinner
+</orth>
+<form type="variant">
+<pron>
+/d*In@/
+</pron>
+</form>
+<form type="inflected">
+dinners.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dinner 
+</seg>
+je glavni obed, ki ga jemo zve&ccaron;er. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;erja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dinner 
+</seg>
+je ve&ccaron;eren uraden dru&zcaron;abni dogodek, pri katerem postre&zcaron;ejo z obrokom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slavnostna ve&ccaron;erja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Thatcher attended a dinner at the Mansion House last night.
+</quote>
+</seg>
+</sense>
+</entry>

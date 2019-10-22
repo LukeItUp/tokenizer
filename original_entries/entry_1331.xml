@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bisect
+</orth>
+<form type="variant">
+<pron>
+/b*a*Is*ekt/
+</pron>
+</form>
+<form type="inflected">
+bisects, bisecting, bisected.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bisect an area or line 
+</seg>
+pomeni razdeliti obmo&ccaron;je ali &ccaron;rto na polovico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpoloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The main north-south road bisects the town.
+</quote>
+</seg>
+</sense>
+</entry>

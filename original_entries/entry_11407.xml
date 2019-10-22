@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quirk
+</orth>
+<form type="variant">
+<pron>
+/kw*$e*:k/
+</pron>
+</form>
+<form type="inflected">
+quirks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quirk 
+</seg>
+je navada ali osebna lastnost, ki je &ccaron;udna ali nenavadna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posebnost
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quirk 
+</seg>
+je tudi nenavaden dogodek, ki ga te&zcaron;ko razlo&zcaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra usode, naklju&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By one of those strange quirks of fate, both had died within a few days of each other.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+liquidate
+</orth>
+<form type="variant">
+<pron>
+/l*IkwIdeIt/
+</pron>
+</form>
+<form type="inflected">
+liquidates, liquidating, liquidated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To liquidate people 
+</seg>
+pomeni dati pobiti osebe, ki povzro&ccaron;ajo te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+likvidirati, ubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All his supporters were expelled, exiled, or liquidated.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neko podjetje 
+<seg type="lemma">
+liquidated
+</seg>
+, ga zaprejo; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+likvidirati, zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...if it permitted the industry to be liquidated because of the present glut of oil.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+liquidation
+</orth>
+<form type="variant">
+<pron>
+/l*IkwId*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+By April 1969, the group faced liquidation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

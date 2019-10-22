@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dosage
+</orth>
+<form type="variant">
+<pron>
+/d*@*UsIdZ/
+</pron>
+</form>
+<form type="inflected">
+dosages.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dosage of a medicine or drug 
+</seg>
+je koli&ccaron;ina zdravila, ki jo je treba vzeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmerek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a daily dosage of 150 mg.
+</quote>
+</seg>
+</sense>
+</entry>

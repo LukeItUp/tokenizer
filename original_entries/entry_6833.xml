@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hoist
+</orth>
+<form type="variant">
+<pron>
+/h*O*Ist/
+</pron>
+</form>
+<form type="inflected">
+hoists, hoisting, hoisted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hoist something somewhere 
+</seg>
+pomeni nekaj dvigniti ali nekam povle&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti, privzdigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She hoisted the child onto her shoulder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hoist a flag or a sail 
+</seg>
+pomeni z vrvjo povle&ccaron;i zastavo ali jadro v pravilni polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The American flag was hoisted.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hoist 
+</seg>
+je stroj za dviganje te&zcaron;kih predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigalo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an electric hoist.
+</quote>
+</seg>
+</sense>
+</entry>

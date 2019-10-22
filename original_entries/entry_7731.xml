@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invent
+</orth>
+<form type="variant">
+<pron>
+/Inv*ent/
+</pron>
+</form>
+<form type="inflected">
+invents, inventing, invented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+invents something
+</seg>
+, je prvi, ki si je nekaj izmislil ali izdelal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izumiti, iznajti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the men who invented the sewing machine.
+</quote>
+<quote>
+He invented this phrase himself.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inventor
+</orth>
+<form type="variant">
+<pron>
+/Inv*ent@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...Cockerell, the inventor of the hovercraft.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To invent a story or excuse 
+</seg>
+pomeni poskusiti prepri&ccaron;ati ljudi, da je neka zgodba ali izgovor resni&ccaron;en, &ccaron;eprav ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...lies invented for a political purpose.
+</quote>
+</seg>
+</sense>
+</entry>

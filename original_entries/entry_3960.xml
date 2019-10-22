@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discovery
+</orth>
+<form type="variant">
+<pron>
+/dIsk*Vv@0ri1/
+</pron>
+</form>
+<form type="inflected">
+discoveries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A discovery 
+</seg>
+je odkritje ne&ccaron;esa ali dejstva, za katero ni nih&ccaron;e vedel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkritje, razkritje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+New scientific discoveries are being made every day.
+</quote>
+<quote>
+Further discovery can be made about his condition.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A discovery 
+</seg>
+je tudi nekaj, kar najdemo ali za kar izvemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkritje, razodetje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the discovery that he wanted to hurt her.
+</quote>
+</seg>
+</sense>
+</entry>

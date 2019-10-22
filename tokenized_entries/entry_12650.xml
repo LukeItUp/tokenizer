@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p680_s746299" id="p680_w802" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="263.112" base="269.52" width="38.5588" height="8.514">senseless</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p680_s746300" id="p680_w803" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="293.04" y="264.358" base="269.52" width="21.7491" height="6.844">/sensl&#203;</TOKEN>
+<TOKEN sid="p680_s746301" id="p680_w804" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="315.05" y="263.72" base="267.13" width="2.39636" height="4.52176">2</TOKEN>
+<TOKEN sid="p680_s746302" id="p680_w805" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="317.63" y="264.358" base="269.52" width="8.0116" height="6.844">s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p680_s746304" id="p680_w807" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="333.25" y="265.604" base="269.52" width="10.3306" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p680_s746305" id="p680_w808" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="345.09" y="263.824" base="269.52" width="27.8273" height="7.552">Dejanje,</TOKEN>
+<TOKEN sid="p680_s746306" id="p680_w809" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.396" y="263.824" base="269.52" width="6.71544" height="7.552">ki</TOKEN>
+<TOKEN sid="p680_s746307" id="p680_w810" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.59" y="263.824" base="269.52" width="5.91624" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p680_s746308" id="p680_w811" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.96" y="263.824" base="269.52" width="31.6418" height="7.552">senseless,</TOKEN>
+</seg>
+<TOKEN sid="p680_s746309" id="p680_w812" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.082" y="263.824" base="269.52" width="16.9589" height="7.552">nima</TOKEN>
+<TOKEN sid="p680_s746310" id="p680_w813" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="272.904" base="278.6" width="26.802" height="7.552">pomena</TOKEN>
+<TOKEN sid="p680_s746311" id="p680_w814" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.282" y="272.904" base="278.6" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p680_s746312" id="p680_w815" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="297.949" y="272.904" base="278.6" width="16.794" height="7.552">cilja.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p680_s746314" id="p680_w817" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="322.71" y="272.904" base="278.6" width="28.7914" height="7.552">neumen,</TOKEN>
+<TOKEN sid="p680_s746315" id="p680_w818" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="353.37" y="272.904" base="278.6" width="35.5766" height="7.552">nesmiseln;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p680_s746316" id="p680_w819" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.83" y="272.904" base="278.6" width="5.60088" height="7.552">It</TOKEN>
+<TOKEN sid="p680_s746317" id="p680_w820" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.301" y="272.904" base="278.6" width="13.1962" height="7.552">was</TOKEN>
+<TOKEN sid="p680_s746318" id="p680_w821" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.367" y="272.904" base="278.6" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p680_s746319" id="p680_w822" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="419.23" y="272.904" base="278.6" width="20.79" height="7.552">sense-</TOKEN>
+<TOKEN sid="p680_s746320" id="p680_w823" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="281.974" base="287.67" width="12.389" height="7.552">less</TOKEN>
+<TOKEN sid="p680_s746321" id="p680_w824" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="272.919" y="281.974" base="287.67" width="17.9971" height="7.552">thing</TOKEN>
+<TOKEN sid="p680_s746322" id="p680_w825" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.836" y="281.974" base="287.67" width="6.80328" height="7.552">to</TOKEN>
+<TOKEN sid="p680_s746323" id="p680_w826" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.56" y="281.974" base="287.67" width="10.4026" height="7.552">do.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p680_s746325" id="p680_w828" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="320.48" y="283.754" base="287.67" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p680_s746326" id="p680_w829" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="332.85" y="281.974" base="287.67" width="21.5971" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p680_s746327" id="p680_w830" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="356.367" y="281.974" base="287.67" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p680_s746328" id="p680_w831" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="364.284" y="281.974" base="287.67" width="20.7979" height="7.552">nekdo</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p680_s746329" id="p680_w832" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="387.01" y="281.974" base="287.67" width="32.3813" height="7.552">senseless,</TOKEN>
+</seg>
+<TOKEN sid="p680_s746330" id="p680_w833" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="421.308" y="281.974" base="287.67" width="6.79464" height="7.552">ni</TOKEN>
+<TOKEN sid="p680_s746331" id="p680_w834" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="430.02" y="281.974" base="287.67" width="9.98928" height="7.552">pri</TOKEN>
+<TOKEN sid="p680_s746332" id="p680_w835" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="291.054" base="296.75" width="24.5498" height="7.552">zavesti.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p680_s746334" id="p680_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="290.34" y="291.054" base="296.75" width="37.6992" height="7.552">nezavesten;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p680_s746335" id="p680_w838" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.46" y="291.054" base="296.75" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p680_s746336" id="p680_w839" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="336.501" y="291.054" base="296.75" width="19.4069" height="7.552">heavy</TOKEN>
+<TOKEN sid="p680_s746337" id="p680_w840" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.358" y="291.054" base="296.75" width="15.9502" height="7.552">blow</TOKEN>
+<TOKEN sid="p680_s746338" id="p680_w841" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.759" y="291.054" base="296.75" width="15.1438" height="7.552">with</TOKEN>
+<TOKEN sid="p680_s746339" id="p680_w842" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="391.354" y="291.054" base="296.75" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p680_s746340" id="p680_w843" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="396.768" y="291.054" base="296.75" width="13.9486" height="7.552">club</TOKEN>
+<TOKEN sid="p680_s746341" id="p680_w844" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="412.167" y="291.054" base="296.75" width="27.8971" height="7.552">knocked</TOKEN>
+<TOKEN sid="p680_s746342" id="p680_w845" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="300.134" base="305.83" width="13.1947" height="7.552">him</TOKEN>
+<TOKEN sid="p680_s746343" id="p680_w846" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.803" y="300.134" base="305.83" width="32.3726" height="7.552">senseless.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

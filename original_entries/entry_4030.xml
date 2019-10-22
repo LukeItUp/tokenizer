@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disordered
+</orth>
+<form type="variant">
+<pron>
+/dIs*O*:d@d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+disordered
+</seg>
+, je neurejeno in ni pospravljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmetan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the small disordered room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+mentally disordered
+</seg>
+, trpi za boleznijo, ki prizadeva njegov um. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(umsko) moten, neuravnove&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the care of mentally disordered patients.
+</quote>
+</seg>
+</sense>
+</entry>

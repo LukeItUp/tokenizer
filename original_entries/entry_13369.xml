@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+speaker
+</orth>
+<form type="variant">
+<pron>
+/sp*i*:k@/
+</pron>
+</form>
+<form type="inflected">
+speakers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The speaker 
+</seg>
+je oseba, ki govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govorec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the gap between the speaker and the listener.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A speaker 
+</seg>
+je tudi oseba, ki ima govor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govornik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chairman got up to introduce the speaker.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A speaker of a particular language 
+</seg>
+je oseba, ki zna govoriti neki jezik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govorec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some sounds are very difficult for French speakers of English.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A speaker 
+</seg>
+je tudi del opreme, na primer radijskega sprejemnika ali glasbenega stolpa, iz katerega prihajajo zvoki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvo&ccaron;nik
+</quote>
+</cit>
+</sense>
+</entry>

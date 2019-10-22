@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+belch
+</orth>
+<form type="variant">
+<pron>
+/b*eltS/
+</pron>
+</form>
+<form type="inflected">
+belches, belching, belched.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+belches
+</seg>
+, iz grla spusti nenaden zvok, ker mu iz &zcaron;elodca pride zrak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spahniti se, rigniti; kup&ccaron;ek podreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The baby drank his milk and belched.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Amazing,&rsquo; said Brody, stifling a belch.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

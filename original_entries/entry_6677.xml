@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hedge
+</orth>
+<form type="variant">
+<pron>
+/h*edZ/
+</pron>
+</form>
+<form type="inflected">
+hedges, hedging, hedged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hedge 
+</seg>
+je vrsta grmov ob robu vrta, polja ali ceste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;iva meja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hedge 
+</seg>
+pomeni izogniti se odgovoru na vpra&scaron;anje ali prevzemanju obveznosti za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Politicians are known for hedging on promises.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hedge one&apos;s bets 
+</seg>
+pomeni izogniti se tveganju, da bi veliko izgubili, tako da podpremo ve&ccaron; kot eno osebo ali stvar; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zavarovati se
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

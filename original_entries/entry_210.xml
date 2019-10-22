@@ -5,7 +5,7 @@ adolescent
 </orth>
 <form type="variant">
 <pron>
-/*#ae;d@7l*es@2nt/
+/*&ae;d@7l*es@2nt/
 </pron>
 </form>
 <form type="inflected">
@@ -20,17 +20,16 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An adolescent
+An adolescent 
 </seg>
-je mlad &#269;lovek, ki ni ve&#269;
-otrok in &#353;e ni odrasla oseba.
+je mlad &ccaron;lovek, ki ni ve&ccaron; otrok in &scaron;e ni odrasla oseba. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 mladoletnik
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ATTRIB ADJ
@@ -41,6 +40,6 @@ ATTRIB ADJ
 ...a father with an adolescent son.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

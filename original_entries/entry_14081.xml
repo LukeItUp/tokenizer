@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suspicion
+</orth>
+<form type="variant">
+<pron>
+/s@sp*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+suspicions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Suspicion 
+</seg>
+je ob&ccaron;utek, da nekomu ne smemo zaupati ali da je nekaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sum, sumni&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Derek shared Lynn&apos;s suspicion of Michael.
+</quote>
+<quote>
+I had aroused his suspicions last week.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+under suspicion
+</seg>
+, zanj ljudje sumijo, da je nekaj zakrivil, na primer zlo&ccaron;in ali prestopek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti osumljen
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A suspicion 
+</seg>
+je ob&ccaron;utek, da je nekaj verjetno res ali da se bo verjetno zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Investigators have strong suspicions of a clandestine trade.
+</quote>
+</seg>
+</sense>
+</entry>

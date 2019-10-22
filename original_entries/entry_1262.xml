@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+besides
+</orth>
+<form type="variant">
+<pron>
+/bi1s*a*Idz/
+</pron>
+</form>
+<LN>
+Obliko 
+<LH>
+beside 
+</LH>
+lahko uporabljamo pri 1. pomenu.
+</LN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Besides 
+</seg>
+ali 
+<seg type="variant">
+beside 
+</seg>
+v&ccaron;asih pomeni dodatno, zraven ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poleg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What languages do you know besides English?
+</quote>
+<quote>
+He needed so much else besides.
+</quote>
+<quote>
+Thomas was the only blond in the family, beside the mother.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+besides 
+</seg>
+navedemo dodaten poudarek ali razlog. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poleg tega, povrhu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Would these figures prove anything? And besides, who keeps such statistics?
+</quote>
+</seg>
+</sense>
+</entry>

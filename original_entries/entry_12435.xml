@@ -1,0 +1,176 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+schedule
+</orth>
+<form type="variant">
+<pron>
+/S*edju4l/
+</pron>
+</form>
+<form type="inflected">
+schedules, scheduling, scheduled;
+</form>
+<PN>
+besedo izgovarjamo tudi 
+<pron>
+/sk*edju4l/
+</pron>
+, zlasti v ameri&scaron;ki angle&scaron;&ccaron;ini.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A schedule 
+</seg>
+je na&ccaron;rt, ki vsebuje seznam dogodkov ali obveznosti, ob njih pa je naveden &ccaron;as, ko naj bi se zgodili oziroma ko naj bi jih izpolnili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+program, urnik; razporeditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the next place on his busy schedule.
+</quote>
+<quote>
+...the daily schedule of classes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+scheduled to happen at a particular time
+</seg>
+, je nekdo pripravil vse, da bi se tisto zgodilo ob dolo&ccaron;enem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rtovati, pripraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was scheduled to leave Plymouth yesterday.
+</quote>
+<quote>
+A meeting had been scheduled for that day.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A schedule 
+</seg>
+je tudi napisan seznam ne&ccaron;esa, na primer cen, podrobnosti ali pogojev; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+seznam, popis
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+ahead of schedule
+</seg>
+, se zgodi prej, kot je bilo predvideno v programu ali urniku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pred predvidenim &ccaron;asom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We arrived several hours ahead of schedule.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be behind schedule 
+</seg>
+pomeni nekaj delati pozneje, kot je bilo predvideno v programu ali urniku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamujati, biti v zaostanku
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+on schedule
+</seg>
+, se zgodi, kot je bilo na&ccaron;rtovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob predvidenem &ccaron;asu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Simon showed up right on schedule.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj narejeno 
+<seg type="lemma">
+to schedule 
+</seg>
+ali 
+<FV>
+according to schedule
+</FV>
+, je narejeno, kot je bilo predvideno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po programu, po urniku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The operations have been carried out according to schedule.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intensify
+</orth>
+<form type="variant">
+<pron>
+/Int*ensIfaI/
+</pron>
+</form>
+<form type="inflected">
+intensifies, intensifying, intensified.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+intensifies something 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+intensifies
+</seg>
+, tisto pridobi na mo&ccaron;i ali se pove&ccaron;a po stopnji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrepiti (se), stopnjevati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the late 1960s the pressures suddenly intensified.
+</quote>
+<quote>
+The search was intensified using dogs.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+intensified
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...intensified international competition.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

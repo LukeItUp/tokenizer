@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+roof
+</orth>
+<form type="variant">
+<pron>
+/r*u*:f/
+</pron>
+</form>
+<form type="inflected">
+roofs
+</form>
+<form type="variant">
+<pron>
+/r*u*:vz, r*u*:fs/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The roof 
+</seg>
+je gornji del stavbe ali vozila, ki ga pokriva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streha
+</quote>
+</cit>
+<QP>
+glej slikovni prilogi 
+<QZ>
+HOUSE AND FLAT 
+</QZ>
+<seg>
+in 
+</seg>
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a slate roof.
+</quote>
+<quote>
+I fixed a leak in the roof of her shed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The roof 
+</seg>
+je gornji del ust ali votline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nebo; strop
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A roof over one&apos;s head 
+</seg>
+pomeni, da imamo prostor, kjer stanujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streha nad glavo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was without money and with no real roof over her head.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To hit the roof 
+</seg>
+pomeni biti zelo jezen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+skakati do stropa
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+third
+</orth>
+<form type="variant">
+<pron>
+/T*$e*:d/
+</pron>
+</form>
+<form type="inflected">
+thirds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Element, ki je v nekem zaporedju 
+<seg type="lemma">
+third
+</seg>
+, je na tretjem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tretji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This room was on the third floor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A third 
+</seg>
+je eden od treh enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tretjina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It covers a third of the world&apos;s surface.
+</quote>
+</seg>
+</sense>
+</entry>

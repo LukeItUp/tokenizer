@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+comic
+</orth>
+<form type="variant">
+<pron>
+/k*QmIk/
+</pron>
+</form>
+<form type="inflected">
+comics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+comic 
+</seg>
+ali 
+<seg type="variant">
+comical
+</seg>
+, nas spravi v smeh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komi&ccaron;en, sme&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a story rich in comic and dramatic detail.
+</quote>
+<quote>
+There is something slightly comical about him.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A comic 
+</seg>
+je &ccaron;lovek, ki pripoveduje &scaron;ale, da se ljudje smejijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komik, &scaron;aljivec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the comic comes on they'll all laugh.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A comic 
+</seg>
+je tudi revija, v kateri so zgodbe, povedane v slikah; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+strip
+</quote>
+</cit>
+</sense>
+</entry>

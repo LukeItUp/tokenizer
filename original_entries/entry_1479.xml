@@ -1,0 +1,138 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bomb
+</orth>
+<form type="variant">
+<pron>
+/b*Qm/
+</pron>
+</form>
+<form type="inflected">
+bombs, bombing, bombed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bomb 
+</seg>
+je naprava, ki jo raznese, zato po&scaron;koduje ali uni&ccaron;i ve&ccaron;je obmo&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bomba
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Jedrsko oro&zcaron;je v&ccaron;asih imenujemo 
+<seg type="lemma">
+the bomb
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+atomska bomba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ban the bomb!
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bomb a place 
+</seg>
+pomeni napasti neki kraj z bombami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bombardirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They bombed the airports in three cities.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bombing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It replaced the building destroyed by bombing in 1940.
+</quote>
+<quote>
+...the current wave of bombings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bomb out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Stavbo, ki je 
+<seg type="lemma">
+bombed out
+</seg>
+, je uni&ccaron;ila bomba. Ljudem, ki so 
+<seg type="lemma">
+bombed out
+</seg>
+, so bombe razru&scaron;ile hi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbombardirati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+because
+</orth>
+<form type="variant">
+<pron>
+/bi1k@7z/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+because 
+</seg>
+za&ccaron;nemo vzro&ccaron;ni podredni stavek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ker
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I couldn't see Helen's expression, because her head was turned.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+because of 
+</seg>
+uporabimo tudi na za&ccaron;etku vzro&ccaron;ne predlo&zcaron;ne zveze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He retired last month because of illness.
+</quote>
+</seg>
+</sense>
+</entry>

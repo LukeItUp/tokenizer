@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+radiator
+</orth>
+<form type="variant">
+<pron>
+/r*e*IdIeIt@/
+</pron>
+</form>
+<form type="inflected">
+radiators.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A radiator 
+</seg>
+je votla kovinska naprava, ki je povezana s sistemom centralnega ogrevanja in greje prostor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+radiator
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A car radiator 
+</seg>
+je tisti del avtomobila, ki hladi motor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladilnik
+</quote>
+</cit>
+</sense>
+</entry>

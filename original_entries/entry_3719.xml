@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+derive
+</orth>
+<form type="variant">
+<pron>
+/di1r*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+derives, deriving, derived.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To derive a particular feeling
+</seg>
+ pomeni, da od nekoga ali ne&ccaron;esa dobimo dolo&ccaron;en ob&ccaron;utek; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dobiti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+derives 
+</seg>
+ali 
+<seg type="lemma">
+is derived from another thing
+</seg>
+, prihaja iz neke druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The word &lsquo;detergent&rsquo; is derived from the Latin word for &lsquo;cleaner&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

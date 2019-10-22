@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+basis
+</orth>
+<form type="variant">
+<pron>
+/b*e*IsIs/
+</pron>
+</form>
+<form type="inflected">
+bases
+</form>
+<form type="variant">
+<pron>
+/b*e*Isi:z/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The basis of something 
+</seg>
+je osrednji in najpomembnej&scaron;i del ne&ccaron;esa, iz katerega se lahko naprej razvija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osnova, temelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was the basis of the final design.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The basis for something 
+</seg>
+je nekaj, kar daje razlog za nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podlaga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...arguments which had no logical basis.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi ali je storjeno 
+<seg type="lemma">
+on a particular basis
+</seg>
+, se zgodi ali je storjeno tako ali po taki metodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na podlagi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We run the service on a voluntary basis.
+</quote>
+<quote>
+The Chairman is paid on a part-time basis.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

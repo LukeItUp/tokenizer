@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bell
+</orth>
+<form type="variant">
+<pron>
+/b*el/
+</pron>
+</form>
+<form type="inflected">
+bells.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bell 
+</seg>
+je naprava, ki oddaja zvonek glas, s katerim vzbudi pozornost ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvonec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He approached the front door and rang the bell.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bell 
+</seg>
+je tudi votel kovinski predmet, po obliki podoben obrnjeni skodelici; v njem visi kos kovine, ki lahko zadeva ob stene in oddaja zvoke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvonec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the distance a church bell was ringing.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rings a bell
+</seg>
+, nas spominja na nekaj drugega, le da se ne moremo natan&ccaron;no spomniti, na kaj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+znano zveneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The name rings a bell.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

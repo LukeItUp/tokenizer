@@ -1,0 +1,135 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heaven
+</orth>
+<form type="variant">
+<pron>
+/h*ev@0n/
+</pron>
+</form>
+<form type="inflected">
+heavens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PROPER N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heaven 
+</seg>
+je kraj, kjer naj bi &zcaron;ivel Bog in kamor naj bi &scaron;li po smrti dobri ljudje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nebesa
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The heavens 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+the sky
+</seg>
+; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nebo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The moon was high in the heavens.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+heaven knows 
+</seg>
+poudarimo, da ne&ccaron;esa ne vemo ali nas mo&ccaron;no presneti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bog ve
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Heaven knows what I would do without it.
+</quote>
+<quote>
+He ended up, heaven knows why, in the Geological Museum.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+good heavens 
+</seg>
+ali 
+<FV>
+heavens 
+</FV>
+poka&zcaron;emo presene&ccaron;enje ali poudarimo, da se strinjamo ali ne strinjamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sveta nebesa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Heavens, is that the time?
+</quote>
+<quote>
+&lsquo;Oh, good heavens, no,&rsquo; said Etta.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+thank heavens: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+thank
+</ref>
+</xr>
+<xr type="related">
+<QF>
+for heaven&apos;s sake: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+sake
+</ref>
+</xr>
+</B>
+</entry>

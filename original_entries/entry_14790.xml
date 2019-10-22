@@ -1,0 +1,137 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+travel
+</orth>
+<form type="variant">
+<pron>
+/tr*&ae;v@0l/
+</pron>
+</form>
+<form type="inflected">
+travels, travelling, travelled;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+traveling 
+</SV>
+in 
+<SV>
+traveled
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To travel 
+</seg>
+pomeni iti iz enega kraja v drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I travelled sixty miles to buy those books.
+</quote>
+<quote>
+I travelled to work by train.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Travel 
+</seg>
+je to, da gremo iz kraja v kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...air travel.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s travels 
+</seg>
+so potovanja, pri katerih gremo dale&ccaron; od doma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(po)potovanja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his extensive travels abroad.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+travels
+</seg>
+, pride iz enega kraja v drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sound travels better in water.
+</quote>
+<quote>
+News travels fast.
+</quote>
+</seg>
+</sense>
+</entry>

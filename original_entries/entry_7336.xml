@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+indebted
+</orth>
+<form type="variant">
+<pron>
+/Ind*etI2d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be indebted to someone 
+</seg>
+pomeni nekomu dolgovati hvale&zcaron;nost za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dol&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am indebted to Bob Waller for many of the ideas expressed here.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+indebtedness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I readily acknowledge my indebtedness to my friends.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be indebted 
+</seg>
+pomeni nekomu dolgovati denar; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zadol&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His company became indebted to the bank.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+indebtedness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Home ownership involves higher indebtedness than renting.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

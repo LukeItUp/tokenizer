@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p748_s823032" id="p748_w183" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="244.952" base="251.36" width="36.1084" height="8.514">streetcar</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p748_s823033" id="p748_w184" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.26" y="246.198" base="251.36" width="35.8216" height="6.844">/stri&#194;tk&#202;&#194;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p748_s823034" id="p748_w185" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="131.72" y="246.02" base="251.36" width="33.0008" height="7.08">streetcars.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p748_s823035" id="p748_w186" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="167.35" y="247.444" base="251.36" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p748_s823036" id="p748_w187" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="188.129" y="247.444" base="251.36" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p748_s823037" id="p748_w188" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.89" y="245.664" base="251.36" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p748_s823038" id="p748_w189" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="203.12" y="245.664" base="251.36" width="29.8447" height="7.552">streetcar</TOKEN>
+</seg>
+<TOKEN sid="p748_s823039" id="p748_w190" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.6" y="245.664" base="251.36" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p748_s823040" id="p748_w191" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="254.744" base="260.44" width="28.661" height="7.552">tramvaj;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p748_s823041" id="p748_w192" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.4209" y="254.744" base="260.44" width="31.0514" height="7.552">ameri{ka</TOKEN>
+<TOKEN sid="p748_s823042" id="p748_w193" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.052" y="254.744" base="260.44" width="17.5205" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p748_s823044" id="p748_w195" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.01" y="254.744" base="260.44" width="28.661" height="7.552">tramvaj;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p748_s823045" id="p748_w196" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="178.26" y="254.744" base="260.44" width="9.57672" height="7.552">He</TOKEN>
+<TOKEN sid="p748_s823046" id="p748_w197" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="189.416" y="254.744" base="260.44" width="23.1012" height="7.552">caught</TOKEN>
+<TOKEN sid="p748_s823047" id="p748_w198" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="214.097" y="254.744" base="260.44" width="10.7582" height="7.552">the</TOKEN>
+<TOKEN sid="p748_s823048" id="p748_w199" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.435" y="254.744" base="260.44" width="15.1366" height="7.552">next</TOKEN>
+<TOKEN sid="p748_s823049" id="p748_w200" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="263.824" base="269.52" width="29.8498" height="7.552">streetcar</TOKEN>
+<TOKEN sid="p748_s823050" id="p748_w201" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.03" y="263.824" base="269.52" width="20.4019" height="7.552">home.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pace
+</orth>
+<form type="variant">
+<pron>
+/p*e*Is/
+</pron>
+</form>
+<form type="inflected">
+paces, pacing, paced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pace of something 
+</seg>
+je hitrost, s katero se nekaj dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hitrost, tempo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the pace of change.
+</quote>
+<quote>
+The sale resumed at a brisk pace.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s pace 
+</seg>
+je hitrost, s katero nekdo hodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He proceeds at a leisurely pace.
+</quote>
+<quote>
+He quickened his pace.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pace 
+</seg>
+je razdalja, za katero se premaknemo, ko naredimo en korak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took two quick paces forward.
+</quote>
+<quote>
+He stopped when he was a few paces away.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+paces up and down
+</seg>
+, hodi sem ter tja, ker je nervozen ali nestrpen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hoditi gor in dol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Harold paced nervously up and down the platform.
+</quote>
+<quote>
+She paced the room angrily.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+ keeps pace with something
+</seg>
+, se hitro spreminja v odziv na tisto, kar se spreminja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Earnings have not kept pace with inflation.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo nekaj naredi 
+<seg type="lemma">
+at one&apos;s own pace
+</seg>
+, tisto naredi tako hitro, kot mu najbolj ustreza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez hitenja
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

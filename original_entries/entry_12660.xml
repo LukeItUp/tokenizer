@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sentence
+</orth>
+<form type="variant">
+<pron>
+/s*ent@ns/
+</pron>
+</form>
+<form type="inflected">
+sentences, sentencing, sentenced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sentence 
+</seg>
+je skupina besed, ki se v pisavi za&ccaron;ne z veliko za&ccaron;etnico in kon&ccaron;a s piko, klicajem ali vpra&scaron;ajem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavek, poved
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the opening sentence of the report.
+</quote>
+<quote>
+He put the phone down before she could finish the sentence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na sodi&scaron;&ccaron;u je 
+<seg type="lemma">
+a sentence 
+</seg>
+kazen, ki jo nekdo dobi, ko je spoznan za krivega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazen, obsodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is serving a life sentence for murder.
+</quote>
+<quote>
+...offenders who misbehave during their sentence.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sodnik 
+<seg type="lemma">
+sentences someone
+</seg>
+, na sodi&scaron;&ccaron;u razglasi, kako bo nekdo kaznovan za svoj prestopek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obsoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Griffiths was sentenced to four years&apos; imprisonment.
+</quote>
+</seg>
+</sense>
+</entry>

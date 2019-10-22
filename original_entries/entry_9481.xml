@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+neighbour
+</orth>
+<form type="variant">
+<pron>
+/n*e*Ib@/
+</pron>
+</form>
+<form type="inflected">
+neighbours;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+neighbor
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s neighbours 
+</seg>
+so ljudje, ki &zcaron;ivijo v okolici, zlasti v neposredni sose&scaron;&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sosedje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t be afraid of what the neighbours will think.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s neighbour 
+</seg>
+je tudi &ccaron;lovek, ki stoji ali sedi poleg nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sosed
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rudolph turned his head towards his neighbour.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za nekaj, kar je poleg ali blizu ne&ccaron;esa drugega, lahko re&ccaron;emo, da je 
+<seg type="lemma">
+its neighbour
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sosed
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The young plant risks being overshadowed by its neighbours.
+</quote>
+</seg>
+</sense>
+</entry>

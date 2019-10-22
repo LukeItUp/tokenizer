@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bless
+</orth>
+<form type="variant">
+<pron>
+/bl*es/
+</pron>
+</form>
+<form type="inflected">
+blesses, blessing, blessed 
+<IS>
+ali 
+</IS>
+<IV>
+blest 
+</IV>
+<pron>
+/bl*est/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar duhovnik 
+<seg type="lemma">
+blesses people or things
+</seg>
+, prosi Boga za milost in za&scaron;&ccaron;ito tistih ljudi ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blagosloviti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+blessed with a particular good quality or skill
+</seg>
+, ima dolo&ccaron;eno dobro lastnost ali spretnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdarjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is blessed with immense talent and boundless energy.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekomu re&ccaron;emo 
+<seg type="lemma">
+God bless 
+</seg>
+ali 
+<FV>
+bless you
+</FV>
+, mu izrazimo svojo naklonjenost, hvale&zcaron;nost ali dobre &zcaron;elje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozdravljen, bog lonaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bless you, it's terribly good of you to come.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Bless you 
+</seg>
+lahko re&ccaron;emo &ccaron;loveku, ki je pravkar kihnil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zdravje
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

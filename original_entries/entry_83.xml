@@ -5,7 +5,7 @@ accidental
 </orth>
 <form type="variant">
 <pron>
-/*#ae;ksId*ent@0l/.
+/*&ae;ksId*ent@0l/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 accidental
 </seg>
-se zgodi po nesre&#269;i.
+, se zgodi po nesre&ccaron;i. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-naklju&#269;en
+naklju&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -37,7 +37,6 @@ The evidence doesn't suggest accidental death.
 <orth>
 accidentally
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV

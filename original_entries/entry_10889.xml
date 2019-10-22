@@ -1,0 +1,185 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pound
+</orth>
+<form type="variant">
+<pron>
+/p*a*Und/
+</pron>
+</form>
+<form type="inflected">
+pounds, pounding, pounded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pound 
+</seg>
+je denarna enota v Veliki Britaniji. Deli se na sto penijev. Denarno enoto z enakim imenom imajo tudi &scaron;tevilne druge dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+funt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was paid fifty pounds a week.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pound 
+</seg>
+je tudi ute&zcaron;na enota, ki ustreza pribli&zcaron;no 0,454 kg; deli se na 16 un&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+funt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one pound of rice.
+</quote>
+<quote>
+He weighs about 140 pounds.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pound something 
+</seg>
+ali 
+<seg type="lemma">
+to pound on something 
+</seg>
+pomeni s pestmi udarjati po ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tol&ccaron;i, b&iacute;ti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In frustration she would pound the dining-room table.
+</quote>
+<quote>
+They began pounding on the walls.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+pounding
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The pounding of the drums grew louder.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pound something 
+</seg>
+pomeni tudi nekaj tol&ccaron;i, da se spremeni v kremo, pra&scaron;ek ali zelo majhne ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drobiti, tol&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The women of the village pounded grain in their mortars.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar srce nekega &ccaron;loveka 
+<seg type="lemma">
+is pounding
+</seg>
+, bije hitro in mo&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+divje b&iacute;ti, razbijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My heart pounded with joy.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+pounding
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I felt only the pounding of my heart.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

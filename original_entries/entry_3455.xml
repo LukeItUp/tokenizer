@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+daunt
+</orth>
+<form type="variant">
+<pron>
+/d*O*:nt/
+</pron>
+</form>
+<form type="inflected">
+daunts, daunting, daunted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+daunts someone
+</seg>
+, v &ccaron;loveku vzbudi strah ali skrb pred ukvarjanjem s tisto stvarjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opla&scaron;iti, prestra&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They may be daunted by the size of the task.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+daunting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a daunting prospect.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

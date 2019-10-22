@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mutually
+</orth>
+<form type="variant">
+<pron>
+/mj*u*:tSU0@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+mutually 
+</seg>
+opisujemo polo&zcaron;aj, v katerem so medsebojna &ccaron;ustva dveh ali ve&ccaron; ljudi enaka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obojestranski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He enjoyed a mutually respectful relationship with them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta dve stvari 
+<seg type="lemma">
+mutually exclusive 
+</seg>
+ali 
+<FV>
+mutually contradictory
+</FV>
+, ne moreta biti obe res ali obe obstajati skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+medsebojno izklju&ccaron;ujo&ccaron;; v protislovju drug z drugim
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The principles on which it is based are mutually contradictory.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+establish
+</orth>
+<form type="variant">
+<pron>
+/I2st*&ae;blIS/
+</pron>
+</form>
+<form type="inflected">
+establishes, establishing, established.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To establish an organization or a system 
+</seg>
+pomeni ustvariti neko organizacijo ali sistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustanoviti, postaviti temelje, za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had set out to establish his own business.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+established
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the established institutions of society.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+establishment
+</orth>
+<form type="variant">
+<pron>
+/I2st*&ae;blISm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the establishment of free trade unions.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To establish contact with a group of people 
+</seg>
+pomeni za&ccaron;eti pogovor z neko skupino oseb.
+</def>
+<cit type="translationEquivalent">
+<quote>
+navezati, vzpostaviti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To establish that something is true 
+</seg>
+pomeni dokazati, da je nekaj vsekakor res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dognati, dokazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A court of enquiry established that there were faults on both sides.
+</quote>
+<quote>
+So far they have been unable to establish the cause of death.
+</quote>
+</seg>
+</sense>
+</entry>

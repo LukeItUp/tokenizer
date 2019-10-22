@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whisper
+</orth>
+<form type="variant">
+<pron>
+/w*Isp@/
+</pron>
+</form>
+<form type="inflected">
+whispers, whispering, whispered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whisper something 
+</seg>
+pomeni nekaj zelo potihoma re&ccaron;i, tako da uporabimo samo sapo in ne grla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;epetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Follow me,&rsquo; Claude whispered. &lsquo;And keep quiet.&rsquo;
+</quote>
+<quote>
+When we were washing I whispered the news to my sister.
+</quote>
+<quote>
+Why are you whispering?
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Hooper lowered his voice to a whisper.
+</quote>
+<quote>
+We spoke in whispers.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+truthful
+</orth>
+<form type="variant">
+<pron>
+/tr*u*:TfUl/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+truthful
+</seg>
+, je po&scaron;ten in govori resnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskren, resnicoljuben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many patients are more truthful when they talk to the computer than when they talk to the doctor.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+truthfully
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+If I ask him a question he will answer it as truthfully as he can.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izjava ali opis, ki je 
+<seg type="lemma">
+truthful
+</seg>
+, je resni&ccaron;en in ne izmi&scaron;ljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verodostojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gave a truthful answer.
+</quote>
+</seg>
+</sense>
+</entry>

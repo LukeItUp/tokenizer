@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quantity
+</orth>
+<form type="variant">
+<pron>
+/kw*QntI1ti1/
+</pron>
+</form>
+<form type="inflected">
+quantities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quantity of something
+</seg>
+ je koli&ccaron;ina snovi ali stvari, ki jo lahko izmerimo ali pre&scaron;tejemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koli&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You only need a very small quantity.
+</quote>
+<quote>
+...a quantity of leaves.
+</quote>
+<quote>
+Natural gas was discovered in large quantities beneath the North Sea.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Quantity 
+</seg>
+je koli&ccaron;ina ne&ccaron;esa; pogosto se uporablja kot nasprotje kakovosti iste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koli&ccaron;ina, kvantiteta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The food supply has grown less, in quantity and quality.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar izdelujemo 
+<seg type="lemma">
+in quantity
+</seg>
+, izdelujemo v velikih koli&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v velikih koli&ccaron;inah, na veliko
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je oseba ali stvar 
+<seg type="lemma">
+an unknown quantity
+</seg>
+, ho&ccaron;emo re&ccaron;i, da o njej ne vemo ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neznanka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To Shanti the outside world was a totally unknown quantity.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

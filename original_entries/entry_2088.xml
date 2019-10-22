@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+caution
+</orth>
+<form type="variant">
+<pron>
+/k*O*:S@0n/
+</pron>
+</form>
+<form type="inflected">
+cautions, cautioning, cautioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Caution 
+</seg>
+je velika skrbnost, s katero se izognemo nevarnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+previdnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must proceed with extreme caution.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+cautions someone
+</seg>
+, drugega &ccaron;loveka posvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opozoriti, opomniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I cautioned him not to reveal too much to anyone.
+</quote>
+<quote>
+The doctor cautioned that any such state of tension could be highly dangerous.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a word of caution.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar policisti 
+<seg type="lemma">
+caution someone
+</seg>
+, &ccaron;loveku povedo, da lahko vse, kar bo izjavil, uporabijo kot dokaz na sojenju proti njemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opozoriti
+</quote>
+</cit>
+</sense>
+</entry>

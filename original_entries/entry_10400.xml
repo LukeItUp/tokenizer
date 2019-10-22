@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+perception
+</orth>
+<form type="variant">
+<pron>
+/p@s*epS@0n/
+</pron>
+</form>
+<form type="inflected">
+perceptions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki ima 
+<seg type="lemma">
+perception
+</seg>
+, opa&zcaron;a stvari, ki niso o&ccaron;itne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostro opa&zcaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a person of extraordinary perception.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A perception 
+</seg>
+je mnenje, ki ga imamo o kom ali &ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videnje, pogled na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My perception of her had changed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Perception 
+</seg>
+je prepoznavanje stvari s &ccaron;uti, zlasti vidom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaznavanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...visual perception.
+</quote>
+</seg>
+</sense>
+</entry>

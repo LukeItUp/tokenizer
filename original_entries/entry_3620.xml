@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deliberation
+</orth>
+<form type="variant">
+<pron>
+/dI1l*Ib@r*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+deliberations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Deliberation 
+</seg>
+je temeljito razmi&scaron;ljanje o neki t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premislek, preudarek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After considerable deliberation, I decided to accept the job.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar storimo 
+<seg type="lemma">
+with deliberation
+</seg>
+, tisto storimo po&ccaron;asi in previdno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s premislekom
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Deliberations 
+</seg>
+so uradni pogovori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetovanje, razgovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I left the committee to its deliberations.
+</quote>
+</seg>
+</sense>
+</entry>

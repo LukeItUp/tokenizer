@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+correction
+</orth>
+<form type="variant">
+<pron>
+/k@r*ekS@0n/
+</pron>
+</form>
+<form type="inflected">
+corrections.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A correction 
+</seg>
+je nekaj, kar popravi tisto, kar je narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popravek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A couple of mistakes need correction.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Correction 
+</seg>
+je spreminjanje ne&ccaron;esa, tako da ni ve&ccaron; zmotno ali nezadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbolj&scaron;anje, popravljanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Deaf children need speech correction.
+</quote>
+</seg>
+</sense>
+</entry>

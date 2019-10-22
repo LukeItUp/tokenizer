@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mock
+</orth>
+<form type="variant">
+<pron>
+/m*Qk/
+</pron>
+</form>
+<form type="inflected">
+mocks, mocking, mocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mocks someone
+</seg>
+, o nekom govori neprijazne stvari ali pa ga nedobrohotno posnema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posmehovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No child in this school would mock a stutterer.
+</quote>
+<quote>
+...an unsympathetic teacher who had mocked her domestic ambitions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+mocking
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the boys&apos; mocking laughter.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+mock 
+</seg>
+opisujemo stvari, ki niso pristne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hlinjen, nepravi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Robert squealed in mock terror.
+</quote>
+<quote>
+...mock battles.
+</quote>
+</seg>
+</sense>
+</entry>

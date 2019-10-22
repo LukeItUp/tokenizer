@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sneak
+</orth>
+<form type="variant">
+<pron>
+/sn*i*:k/
+</pron>
+</form>
+<form type="inflected">
+sneaks, sneaking, sneaked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sneak somewhere 
+</seg>
+pomeni nekam tiho priti ali oditi in se truditi, da nas ne bi nih&ccaron;e videl ali sli&scaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikrasti se, pritihotapiti se; odkrasti se, odtihotapiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I didn&apos;t notice Bob sneaking up behind me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sneak something somewhere 
+</seg>
+pomeni nekaj skrivaj nekam nesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tihotapiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Eugene would sneak food down to his room.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sneak a look at someone or something 
+</seg>
+pomeni na hitro in skrivaj pogledati nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrivoma pogledati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prilo&zcaron;nost, ki je 
+<seg type="lemma">
+sneak
+</seg>
+, je neuradna; takrat si lahko nekaj ogledamo, preden je uradno na ogled javnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neuraden, za javnost zaprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were shown his latest masterpiece in a sneak preview.
+</quote>
+</seg>
+</sense>
+</entry>

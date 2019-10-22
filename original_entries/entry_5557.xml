@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fool
+</orth>
+<form type="variant">
+<pron>
+/f*u*:l/
+</pron>
+</form>
+<form type="inflected">
+fools, fooling, fooled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekoga imenujemo 
+<seg type="lemma">
+a fool
+</seg>
+, s tem mislimo, da je neumen ali je storil nekaj neumnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bedak, norec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You stupid fool!
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fool someone 
+</seg>
+pomeni nekoga ogoljufati ali prevarati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukaniti, prinesti okrog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fooled them with false promises.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor
+<seg type="lemma">
+ makes a fool of someone
+</seg>
+, poskrbi, da je neka oseba videti sme&scaron;na, tako da ljudem pove za kak&scaron;no neumnost, ki jo je naredila, ali da jo potegne za nos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti koga za norca
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make a fool of oneself 
+</seg>
+pomeni vesti se tako, da smo videti sme&scaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osme&scaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had never learned to dance and was not prepared to make a fool of himself.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To play the fool 
+</seg>
+pomeni vesti se nor&ccaron;avo, po otro&ccaron;je ali neumno, ponavadi da bi zabavali druge; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zganjati nor&ccaron;ije
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fool about 
+<VS>
+ali 
+</VS>
+<VV>
+fool around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fool about 
+</seg>
+ali 
+<seg type="variant">
+to fool around 
+</seg>
+pomeni vesti se igrivo in neumno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zganjati nor&ccaron;ije
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always fooling about.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

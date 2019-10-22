@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deceive
+</orth>
+<form type="variant">
+<pron>
+/dIs*i*:v/
+</pron>
+</form>
+<form type="inflected">
+deceives, deceiving, deceived.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deceive someone 
+</seg>
+pomeni povzro&ccaron;iti, da nekdo verjame nekaj neresni&ccaron;nega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varati, goljufati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to deceive me.
+</quote>
+<quote>
+His unkempt appearance deceived the staff into believing that he was a student.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deceive oneself 
+</seg>
+pomeni ne priznati si nekaj, za kar vemo, da je resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slepiti se, varati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They try to deceive themselves that everything is all right.
+</quote>
+</seg>
+</sense>
+</entry>

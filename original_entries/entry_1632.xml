@@ -1,0 +1,211 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+breathe
+</orth>
+<form type="variant">
+<pron>
+/br*i*:D/
+</pron>
+</form>
+<form type="inflected">
+breathes, breathing, breathed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali &zcaron;ivali 
+<seg type="lemma">
+breathe
+</seg>
+, vdihnejo zrak v plju&ccaron;a in ga spet izdihnejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dihati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I breathed deeply.
+</quote>
+<quote>
+When we breathed the air, it smelt sweet.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+breathing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He could hear her deep, regular breathing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To breathe smoke or fumes over someone 
+</seg>
+pomeni v nekoga pihati dim ali hlape. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+puhati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be breathing down one's neck 
+</seg>
+pomeni, da nekdo posve&ccaron;a pretirano pozornost vsemu, kar po&ccaron;ne nekdo drug, zato je tistemu neprijetno in se &ccaron;uti oviranega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadlegovati; viseti na grbi, dihati za ovratnik
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+breathes something
+</seg>
+, tisto re&ccaron;e zelo potiho; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dahniti, za&scaron;epetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Frank,&rsquo; she breathed. &lsquo;Help me, please.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+breathes life, confidence, or excitement into something
+</seg>
+, tistemu vlije novo &zcaron;ivljenje, samozavest ali vznemirljivost; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vdihniti (nekaj ne&ccaron;emu)
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+breathe in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To breathe in 
+</seg>
+pomeni zajeti zrak v plju&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdihniti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+breathe out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To breathe out 
+</seg>
+pomeni spustiti zrak iz plju&ccaron; skozi usta ali nos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdihniti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

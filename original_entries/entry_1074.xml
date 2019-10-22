@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bark
+</orth>
+<form type="variant">
+<pron>
+/b*A*:k/
+</pron>
+</form>
+<form type="inflected">
+barks, barking, barked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar pes 
+<seg type="lemma">
+barks
+</seg>
+, enkrat ali ve&ccaron;krat spusti kratek, oster glas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dogs began to bark.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His spaniel gave a sudden bark.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bark at someone 
+</seg>
+pomeni na nekoga kri&ccaron;ati z glasnim, grobim glasom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lajati na koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He barked an order at us.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Bark 
+</seg>
+je trda snov, ki pokriva zunanjo plast drevesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lubje, skorja
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p696_s764476" id="p696_w509" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="552.702" base="559.11" width="41.3102" height="8.514">shutdown</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p696_s764477" id="p696_w510" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.04" y="553.948" base="559.11" width="33.7916" height="6.844">/&#196;&#216;tda&#205;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p696_s764478" id="p696_w511" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="134.05" y="553.77" base="559.11" width="37.1122" height="7.08">shutdowns.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p696_s764479" id="p696_w512" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="173.37" y="555.194" base="559.11" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p696_s764480" id="p696_w513" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="193.859" y="555.194" base="559.11" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p696_s764481" id="p696_w514" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.2" y="553.414" base="559.11" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p696_s764482" id="p696_w515" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.01" y="553.414" base="559.11" width="33.5902" height="7.552">shutdown</TOKEN>
+</seg>
+<TOKEN sid="p696_s764483" id="p696_w516" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="562.644" base="568.34" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p696_s764484" id="p696_w517" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.1268" y="562.644" base="568.34" width="37.8482" height="7.552">prenehanje</TOKEN>
+<TOKEN sid="p696_s764485" id="p696_w518" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="107.925" y="562.644" base="568.34" width="33.2006" height="7.552">delovanja</TOKEN>
+<TOKEN sid="p696_s764486" id="p696_w519" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.075" y="562.644" base="568.34" width="28.003" height="7.552">tovarne,</TOKEN>
+<TOKEN sid="p696_s764487" id="p696_w520" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="173.028" y="562.644" base="568.34" width="28.2694" height="7.552">trgovine</TOKEN>
+<TOKEN sid="p696_s764488" id="p696_w521" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="203.248" y="562.644" base="568.34" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p696_s764489" id="p696_w522" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.995" y="562.644" base="568.34" width="27.6005" height="7.552">drugega</TOKEN>
+<TOKEN sid="p696_s764490" id="p696_w523" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="571.875" base="577.571" width="29.9909" height="7.552">podjetja.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p696_s764492" id="p696_w525" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="98.41" y="571.874" base="577.57" width="25.8444" height="7.552">zaprtje;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p696_s764493" id="p696_w526" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.26" y="571.874" base="577.57" width="42.7975" height="7.552">&#8230;temporary</TOKEN>
+<TOKEN sid="p696_s764494" id="p696_w527" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.058" y="571.874" base="577.57" width="38.7871" height="7.552">shutdowns.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

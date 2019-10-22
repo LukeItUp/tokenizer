@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+elbow
+</orth>
+<form type="variant">
+<pron>
+/*elb@U/
+</pron>
+</form>
+<form type="inflected">
+elbows, elbowing, elbowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's elbow 
+</seg>
+je del telesa sredi roke, tam, kjer se roka upogne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komolec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sat with her elbows on the table.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To elbow someone away 
+</seg>
+pomeni nekoga s komolcem potisniti vstran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odriniti
+</quote>
+</cit>
+</sense>
+</entry>

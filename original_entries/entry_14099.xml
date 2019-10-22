@@ -1,0 +1,196 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swear
+</orth>
+<form type="variant">
+<pron>
+/sw*e*@/
+</pron>
+</form>
+<form type="inflected">
+swears, swearing, swore 
+<pron>
+/sw*O*:/
+</pron>
+, 
+<form type="inflected">
+sworn 
+<pron>
+/sw*O*:n/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swear 
+</seg>
+pomeni uporabljati kletvice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kleti, preklinjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Glenys leant out of the car window and swore at the other driver.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swear to do something 
+</seg>
+pomeni slovesno obljubiti, da bomo nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prise&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Will you swear not to run away and vanish?
+</quote>
+<quote>
+I swear I will never tell anyone.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swear that something is true 
+</seg>
+ali 
+<seg type="variant">
+to swear to it 
+</seg>
+pomeni zelo odlo&ccaron;no zatrditi, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prise&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I swear that he never consulted me.
+</quote>
+<quote>
+...thousands of experts who would swear to its impossibility.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+sworn.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+swear by.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To swear by a particular thing 
+</seg>
+pomeni verjeti, da je nekaj zelo u&ccaron;inkovito ali zanesljivo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prisegati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He swears by my herbal tea to make him sleep.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+swear in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sworn in 
+</seg>
+pomeni slovesno obljubiti, da bomo izpolnjevali dol&zcaron;nosti na novem delovnem mestu ali polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaprise&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The jury was sworn in on May 4.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

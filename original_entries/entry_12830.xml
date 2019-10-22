@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shore
+</orth>
+<form type="variant">
+<pron>
+/S*O*:/
+</pron>
+</form>
+<form type="inflected">
+shores, shoring, shored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The shore of a sea, lake, or wide river 
+</seg>
+je zemlji&scaron;&ccaron;e na robu morja, jezera ali &scaron;iroke reke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obala, obre&zcaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We could see the trees on the other shore.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on shore
+</seg>
+, ni na ladji, temve&ccaron; na kopnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na kopnem
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shore up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shore up something 
+</seg>
+pomeni poskrbeti, da nekaj, kar je &scaron;ibko ali slabotno, postane mo&ccaron;nej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrepiti, utrditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Action is needed to shore up economic links with American suppliers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

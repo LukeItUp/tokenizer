@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+include
+</orth>
+<form type="variant">
+<pron>
+/IN1kl*u*:d/
+</pron>
+</form>
+<form type="inflected">
+includes, including, included.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+includes another
+</seg>
+, ima drugo stvar za enega svojih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsebovati, vklju&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The four-man crew included one Briton.
+</quote>
+<quote>
+The proposals included the nationalization of major industries.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To include one thing in another 
+</seg>
+pomeni eno stvar narediti za del druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti, obsegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Carpets and curtains are to be included in the purchase price.
+</quote>
+</seg>
+</sense>
+</entry>

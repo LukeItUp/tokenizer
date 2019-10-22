@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+toy
+</orth>
+<form type="variant">
+<pron>
+/t*O*I/
+</pron>
+</form>
+<form type="inflected">
+toys, toying, toyed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A toy 
+</seg>
+je stvar, s katero se otroci igrajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a toy car.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+toy with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To toy with an idea 
+</seg>
+pomeni ne preve&ccaron; resno razmi&scaron;ljati o neki ideji, ne da bi se na koncu odlo&ccaron;ili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poigravati se, spogledovati se
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To toy with an object 
+</seg>
+pomeni prestavljati nek predmet, medtem ko razmi&scaron;ljamo o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra&ccaron;kati se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

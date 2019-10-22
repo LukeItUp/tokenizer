@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+package
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;kIdZ/
+</pron>
+</form>
+<form type="inflected">
+packages, packaging, packaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A package 
+</seg>
+je majhen zavoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavitek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a small package wrapped in tissue paper.
+</quote>
+</seg>
+</sense>
+<sense>
+						
+<MM>
+2
+</MM>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is packaged
+</seg>
+, je shranjeno v varovalni karton in pripravljeno za prodajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pakirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cereal is packaged in plain boxes.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A package 
+</seg>
+je tudi skupina predlogov, ki jih lahko sprejmemo ali zavrnemo edino vse skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paket
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the announcement of a fresh package of spending cuts.
+</quote>
+<quote>
+They offered a package worth sixty million dollars.
+</quote>
+</seg>
+</sense>
+</entry>

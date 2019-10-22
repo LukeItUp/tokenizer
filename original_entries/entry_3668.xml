@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+density
+</orth>
+<form type="variant">
+<pron>
+/d*ensI1ti1/
+</pron>
+</form>
+<form type="inflected">
+densities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The density of something 
+</seg>
+je stopnja, do katere nekaj napolnjuje prostor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gostota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Traffic density was increasing.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The density of a substance or object 
+</seg>
+je razmerje med maso neke snovi ali predmeta in prostornino, ki jo ta snov ali predmet zavzema; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+gostota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the density of water.
+</quote>
+</seg>
+</sense>
+</entry>

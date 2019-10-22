@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+belly
+</orth>
+<form type="variant">
+<pron>
+/b*eli1/
+</pron>
+</form>
+<form type="inflected">
+bellies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's belly 
+</seg>
+je &ccaron;lovekov trebuh; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+trebuh, &zcaron;elodec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The belly of an animal 
+</seg>
+je spodnji del &zcaron;ivalskega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trebuh, vamp
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...lions creeping on their bellies.
+</quote>
+</seg>
+</sense>
+</entry>

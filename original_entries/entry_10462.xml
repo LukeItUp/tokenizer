@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+persuade
+</orth>
+<form type="variant">
+<pron>
+/p@sw*e*Id/
+</pron>
+</form>
+<form type="inflected">
+persuades, persuading, persuaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+persuades someone to do a particular thing
+</seg>
+, z dobrim razlogom nekoga spodbudi, da nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Marsha was trying to persuade Posy to change her mind.
+</quote>
+<quote>
+...as the threat of unemployment persuades workers to moderate their pay demands.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+persuades someone that something is true
+</seg>
+, govori stvari, zaradi katerih na koncu tista oseba verjame, da je res tako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We worked hard to persuade them that we were genuinely interested.
+</quote>
+<quote>
+Persuade him of your seriousness about this.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+persuaded
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Few of them are persuaded of the benefits of the shop.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+binding
+</orth>
+<form type="variant">
+<pron>
+/b*a*IndIN/
+</pron>
+</form>
+<form type="inflected">
+bindings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je obljuba ali pogodba 
+<seg type="lemma">
+binding
+</seg>
+, jo je treba upo&scaron;tevati ali uresni&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezujo&ccaron;, veljaven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Spanish law that is still binding in California.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The binding of a book 
+</seg>
+je zunanji del knjige. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vezava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...books in ugly economy bindings.
+</quote>
+<quote>
+...durable leather binding.
+</quote>
+</seg>
+</sense>
+</entry>

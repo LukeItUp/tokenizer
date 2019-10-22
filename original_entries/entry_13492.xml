@@ -1,0 +1,261 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spring
+</orth>
+<form type="variant">
+<pron>
+/spr*IN/
+</pron>
+</form>
+<form type="inflected">
+springs, springing, sprang 
+<pron>
+/spr*&ae;N/
+</pron>
+, 
+<form type="inflected">
+sprung 
+<pron>
+/spr*VN/
+</pron>
+.
+</form>
+<IN>
+V ameri&scaron;ki angle&scaron;&ccaron;ini 
+<IH>
+sprung 
+</IH>
+<IC>
+v&ccaron;asih uporabljamo kot preteklik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Spring 
+</seg>
+je letni &ccaron;as med zimo in poletjem. V tem letnem &ccaron;asu se vreme otopli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomlad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the first day of spring.
+</quote>
+<quote>
+He left in the spring of 1956.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spring 
+</seg>
+je zvitek &zcaron;ice, ki se vrne v prvotno obliko, ko pritisnemo nanj ali ga raztegnemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzmet
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spring 
+</seg>
+je tudi kraj, kjer voda privre iz zemlje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvir, studenec
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar oseba ali &zcaron;ival 
+<seg type="lemma">
+springs
+</seg>
+, se nenadoma premakne navzgor ali naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti, planiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sprang to her feet and faced him.
+</quote>
+<quote>
+The panther crouched, ready to spring.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+springs in a particular direction
+</seg>
+, se nenadoma in naglo premakne v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hitro se premakniti, dvigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hands sprang up.
+</quote>
+<quote>
+The door of the safe had sprung open.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+springs from another
+</seg>
+, je prva stvar posledica druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izhajati, izvirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These problems spring from different causes.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spring some news or an event on someone 
+</seg>
+pomeni nekomu ne vnaprej povedati dolo&ccaron;ene novice ali omeniti nekega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati nekaj presenetljivega
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;oln, posoda ali streha 
+<seg type="lemma">
+springs a leak
+</seg>
+, se na povr&scaron;ini pojavi razpoka ali luknja in za&ccaron;ne pu&scaron;&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepri&ccaron;akovano nastati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+spring up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+springs up
+</seg>
+, se nenadoma pojavi ali nastane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati se, nastati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Computer stores are springing up all over the place.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

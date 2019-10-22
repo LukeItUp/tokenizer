@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+juvenile
+</orth>
+<form type="variant">
+<pron>
+/dZ*u*:v@1naIl/
+</pron>
+</form>
+<form type="inflected">
+juveniles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejavnost ali vedenje, ki sta 
+<seg type="lemma">
+juvenile
+</seg>
+, se nana&scaron;ata na ravnanje mladih oseb, ki &scaron;e niso odrasle. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mladoleten, mladosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the increase in juvenile crime.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+juvenile
+</seg>
+, se neumno vede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezrel, otro&ccaron;ji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mike has a somewhat juvenile sense of humour.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A juvenile 
+</seg>
+je otrok ali mlada oseba, ki &scaron;e ni dovolj stara, da bi veljala za odraslo; 
+</def>
+<usg>
+pravna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mladoletnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+17% of all crime in 1983 was committed by juveniles.
+</quote>
+</seg>
+</sense>
+</entry>

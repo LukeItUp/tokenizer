@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cloth
+</orth>
+<form type="variant">
+<pron>
+/kl*QT/
+</pron>
+</form>
+<form type="inflected">
+cloths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Cloth 
+</seg>
+je tkanina, izdelana s tkanjem, pletenjem ali kak&scaron;nim podobnim postopkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blago, sukno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...strips of cotton cloth.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cloth 
+</seg>
+je kos blaga, ki ga uporabljamo v dolo&ccaron;en namen, na primer za &ccaron;i&scaron;&ccaron;enje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krpa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Clean with a soft cloth dipped in warm soapy water.
+</quote>
+</seg>
+</sense>
+</entry>

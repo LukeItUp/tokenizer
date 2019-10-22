@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+error
+</orth>
+<form type="variant">
+<pron>
+/*er@/
+</pron>
+</form>
+<form type="inflected">
+errors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An error 
+</seg>
+je napaka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomota, zmota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The doctor committed an appalling error of judgement.
+</quote>
+<quote>
+A degree of error is inevitable.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e se nekaj zgodi 
+<seg type="lemma">
+in error
+</seg>
+, se zgodi po pomoti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomotoma, nena&ccaron;rtovano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Another village had been wiped out in error.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<xr type="related">
+<QF>
+trial and error: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+trial
+</ref>
+</xr>
+</sense>
+</entry>

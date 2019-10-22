@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+menace
+</orth>
+<form type="variant">
+<pron>
+/m*enI1s/
+</pron>
+</form>
+<form type="inflected">
+menaces, menacing, menaced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+a menace
+</seg>
+, lahko povzro&ccaron;i veliko &scaron;kodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gro&zcaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These riots are a menace to democracy.
+</quote>
+<quote>
+...the menace of totalitarianism.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Menace 
+</seg>
+je nekaj groze&ccaron;ega ali prete&ccaron;ega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gro&zcaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was anger and menace in his eyes.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+menaces someone
+</seg>
+, mu grozi, da mu bo naredil nekaj hudega ali mu lahko naredi nekaj hudega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+groziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were menaced by drunks.
+</quote>
+<quote>
+...the formidable threat that menaces Europe.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+menacing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He advanced on me in a menacing fashion.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+menacingly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Joy scowled at him and waved her knife menacingly.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

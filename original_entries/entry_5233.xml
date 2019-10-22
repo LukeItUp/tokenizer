@@ -1,0 +1,215 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+feed
+</orth>
+<form type="variant">
+<pron>
+/f*i*:d/
+</pron>
+</form>
+<form type="inflected">
+feeds, feeding, fed
+</form>
+<form type="variant">
+<pron>
+/f*ed/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feed a baby or an animal 
+</seg>
+pomeni dati hrano otroku ali &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hraniti, krmiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She fed the baby some milk.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+What time is his next feed?
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival ali dojen&ccaron;ek 
+<seg type="lemma">
+feeds
+</seg>
+, nekaj j&eacute;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hraniti se, prehranjevati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Not all bats feed on insects.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Feed 
+</seg>
+je hrana, ki jo damo &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krma
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feed one&apos;s family or a community 
+</seg>
+pomeni dobaviti ali pripraviti hrano za dru&zcaron;ino ali dru&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The farmers grew too little to feed even their own families.
+</quote>
+<quote>
+Are you feeding yourself properly?
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+feeds on something 
+</seg>
+ali kadar je nekaj 
+<seg type="lemma">
+fed by something
+</seg>
+, tisto postaja mo&ccaron;nej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hraniti se; pod&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Anger feeds on disappointment.
+</quote>
+<quote>
+The fires were being fed by escaping gas.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feed something into a container, store, or other object 
+</seg>
+pomeni postopoma vstaviti nekaj v posodo, shrambo ali kam drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vstaviti, vlo&zcaron;iti, vnesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This data is fed into the computer.
+</quote>
+</seg>
+</sense>
+</entry>

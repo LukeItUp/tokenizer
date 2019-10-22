@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+election
+</orth>
+<form type="variant">
+<pron>
+/i1l*ekS@0n/
+</pron>
+</form>
+<form type="inflected">
+elections.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An election 
+</seg>
+je postopek, pri katerem ljudje na volitvah izberejo &ccaron;loveka ali skupino ljudi za uradne polo&zcaron;aje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volitve
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Labour did badly in the election.
+</quote>
+<quote>
+I may vote for her at the next election.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+by-election,
+</ref>
+<ref>
+general election
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The election of a person or a political party 
+</seg>
+je uspeh neke osebe ali politi&ccaron;ne stranke pri zmagi na volitvah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvolitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the election of Mr Heath's government in 1970.
+</quote>
+</seg>
+</sense>
+</entry>

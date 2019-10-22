@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+erupt
+</orth>
+<form type="variant">
+<pron>
+/i1r*Vpt/
+</pron>
+</form>
+<form type="inflected">
+erupts, erupting, erupted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+erupts
+</seg>
+, se zgodi nenadoma in nepri&ccaron;akovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruhniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Cuban Missile Crisis had erupted.
+</quote>
+<quote>
+...the urban riots that erupted this summer in Britain.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+eruption
+</orth>
+<form type="variant">
+<pron>
+/i1r*VpS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This may have stopped the eruption of a major war between the superpowers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje na nekem kraju 
+<seg type="lemma">
+erupt 
+</seg>
+ali kadar neki kraj 
+<seg type="lemma">
+erupts
+</seg>
+, ljudje tam nenadoma postanejo jezni ali nasilni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruhniti; dvigniti se, upreti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The inhabitants had erupted in massive protests.
+</quote>
+<quote>
+The room erupted.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ognjenik 
+<seg type="lemma">
+erupts
+</seg>
+, iz njega pridejo lava, pepel in para. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruhniti, bruhati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+eruption
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the most violent eruption of Mount Etna.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

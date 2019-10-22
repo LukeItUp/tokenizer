@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ocean
+</orth>
+<form type="variant">
+<pron>
+/*@*US@0n/
+</pron>
+</form>
+<form type="inflected">
+oceans.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ocean 
+</seg>
+je morje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ocean
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...in the depths of the ocean.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ocean 
+</seg>
+je del imena petih zelo velikih morij na svetu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ocean
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Atlantic Ocean.
+</quote>
+</seg>
+</sense>
+</entry>

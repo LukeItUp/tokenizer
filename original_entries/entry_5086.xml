@@ -1,0 +1,386 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+face
+</orth>
+<form type="variant">
+<pron>
+/f*e*Is/
+</pron>
+</form>
+<form type="inflected">
+faces, facing, faced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s face 
+</seg>
+je prednji del &ccaron;lovekove glave od brade do &ccaron;ela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obraz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her face was sad.
+</quote>
+<quote>
+...the expression on her face.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The face of a mountain 
+</seg>
+je strmo pobo&ccaron;je gore. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the north face of the Eiger.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The face of a clock or watch 
+</seg>
+je povr&scaron;ina stenske ali zapestne ure, ki ka&zcaron;e &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevil&ccaron;nica
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The face of a place or organization 
+</seg>
+je zunanjost ali narava kraja ali organizacije; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+podoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The face of a city can change completely in a year.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+faces in a particular direction
+</seg>
+, ima sprednji del obrnjen v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti obrnjen proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boys faced each other.
+</quote>
+<quote>
+The seats face forward.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To face something difficult or unpleasant 
+</seg>
+ali 
+<seg type="lemma">
+to face the truth 
+</seg>
+pomeni sprejeti nekaj te&zcaron;avnega, neprijetnega ali resni&ccaron;nega, in se soo&ccaron;iti s tem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spoprijeti se, soo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is the biggest problem he has ever faced.
+</quote>
+<quote>
+They face a sentence of ten years in prison.
+</quote>
+<quote>
+We simply must face facts.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+cannot face something
+</seg>
+, se ni sposoben spoprijeti z ne&ccaron;im, ker je videti zelo te&zcaron;avno ali neprijetno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soo&ccaron;iti se; sprijazniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I just couldn&apos;t face the idea of going back there.
+</quote>
+<quote>
+She could not face speaking to them.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+face down
+</seg>
+, je sprednji del tistega obrnjen navzdol. Kadar je nekaj 
+<FV>
+face up
+</FV>
+, je sprednji del tistega obrnjen navzgor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z licem navzdol, z licem navzgor
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sta dve osebi 
+<seg type="lemma">
+face to face
+</seg>
+, gledata naravnost druga v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasproti, iz o&ccaron;i v o&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I suddenly came face to face with Karen.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be brought face to face with an unpleasant fact 
+</seg>
+pomeni, da se ne moremo izogniti neprijetnemu dejstvu in se moramo spoprijeti z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti k soo&ccaron;enju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It brings patients face to face with their problems.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make a face 
+</seg>
+ali 
+<FV>
+to pull a face 
+</FV>
+pomeni nadeti si grd izraz, da bi pokazali, kadar nam nekaj ni v&scaron;e&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spa&ccaron;iti se nad ne&ccaron;im
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+loses face
+</seg>
+, to pomeni, da ljudje izgubijo spo&scaron;tovanje do njega. 
+<FV>
+To save face 
+</FV>
+pa pomeni nekaj storiti zato, da si ne bi zapravili spo&scaron;tovanja drugih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgubiti ugled; ohraniti ugled
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To do something in the face of a particular problem or difficulty 
+</seg>
+pomeni nekaj storiti kljub temu, da neka te&zcaron;ava ali problem obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljub, ne glede na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They carry on smiling in the face of adversity.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+on the face of it 
+</seg>
+povemo, da opisujemo, kak&scaron;no je nekaj videti, resni&ccaron;na narava tistega pa je morda druga&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zunaj, na prvi pogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On the face of it, it sounds like a good idea.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+at face value: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+value
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+face up to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To face up to a difficult situation 
+</seg>
+pomeni sprejeti te&zcaron;aven polo&zcaron;aj in se spoprijeti z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soo&ccaron;iti se, spopasti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had to face up to many setbacks.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

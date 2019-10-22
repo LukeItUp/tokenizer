@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tandem
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;nd@0m/
+</pron>
+</form>
+<form type="inflected">
+tandems.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tandem 
+</seg>
+je kolo za dve osebi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tandem
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve osebi nekaj naredita 
+<seg type="lemma">
+in tandem
+</seg>
+, tisto naredita skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v tandemu, v sodelovanju, skupaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a new play we had written in tandem.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

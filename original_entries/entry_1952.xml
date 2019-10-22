@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+canopy
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;n@pi1/
+</pron>
+</form>
+<form type="inflected">
+canopies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A canopy 
+</seg>
+je okra&scaron;ena stre&scaron;ica nad ne&ccaron;im, na primer nad posteljo ali prestolom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+baldahin
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A canopy 
+</seg>
+je tudi plast ne&ccaron;esa, kar pokriva dolo&ccaron;eno obmo&ccaron;je, na primer veje in listje v vrhnjem delu gozda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streha, baldahin; kro&scaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The leaves created a dense canopy that cut out much of the light.
+</quote>
+</seg>
+</sense>
+</entry>

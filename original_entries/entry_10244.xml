@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+partition
+</orth>
+<form type="variant">
+<pron>
+/pA:t*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+partitions, partitioning, partitioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A partition 
+</seg>
+je stena ali zaslon, ki lo&ccaron;i en del sobe ali vozila od drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predelna stena, pregrada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+David tapped on the glass partition and the car stopped.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+partitions a room
+</seg>
+, sobo s pregrado razdeli na dva dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregraditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had partitioned the inside into offices.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to partition a country 
+</seg>
+pomeni, da dr&zcaron;avo razdelimo na dve ali ve&ccaron; samostojnih dr&zcaron;av. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One plan involved partitioning the country.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the partition of India in 1947.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

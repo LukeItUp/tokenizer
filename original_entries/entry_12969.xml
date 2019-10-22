@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sin
+</orth>
+<form type="variant">
+<pron>
+/s*In/
+</pron>
+</form>
+<form type="inflected">
+sins, sinning, sinned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sin 
+</seg>
+je ved&ecirc;nje, ki velja za slabo in nespodobno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+greh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They believed they were being punished for their sins.
+</quote>
+<quote>
+They had no sense of sin.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sin 
+</seg>
+pomeni narediti nekaj, kar velja za slabo in nespodobno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gre&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have sinned against the Lord.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sinner
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Christ is inviting sinners to repentance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ram
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;m/
+</pron>
+</form>
+<form type="inflected">
+rams, ramming, rammed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar eno vozilo 
+<seg type="lemma">
+rams another vehicle
+</seg>
+, se z vso mo&ccaron;jo zaleti v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti, zaleteti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ship had been rammed by a British destroyer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ram something somewhere 
+</seg>
+pomeni nekaj z vso silo potisniti v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I rammed the bolt back across the door.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ram 
+</seg>
+je samec ovce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oven
+</quote>
+</cit>
+</sense>
+</entry>

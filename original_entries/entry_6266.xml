@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grave
+</orth>
+<form type="variant">
+<pron>
+/gr*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+graves; graver, gravest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grave 
+</seg>
+je kraj, kjer je pokopana umrla oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grob
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Flowers had been put on the grave.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Polo&zcaron;aj, ki je 
+<seg type="lemma">
+grave
+</seg>
+, je zelo resen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kriti&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had the gravest suspicions about the whole enterprise.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gravely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His father was gravely ill.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

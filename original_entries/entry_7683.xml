@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interval
+</orth>
+<form type="variant">
+<pron>
+/*Int@v@l/
+</pron>
+</form>
+<form type="inflected">
+intervals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The interval between two events or dates 
+</seg>
+je &ccaron;as med dvema dogodkoma ali datumoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presledek, vmesno obdobje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the interval between supper and bedtime.
+</quote>
+<quote>
+...after an interval of ten years.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V gledali&scaron;ki prestai ali na koncertu je 
+<seg type="lemma">
+an interval
+</seg>
+ premor med dvema dejanjema ali deloma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The audience were going out for the interval.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+at intervals
+</seg>
+, se zgodi ve&ccaron;krat, vmes pa so presledki ali premori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v presledkih, tu in tam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At intervals, the carriage was halted.
+</quote>
+<quote>
+They kept coming back at six-month intervals.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar so stvari postavljene 
+<seg type="lemma">
+at particular intervals
+</seg>
+, so med njimi presledki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v presledku, v razmiku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were scattered through the forest, at varying intervals.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

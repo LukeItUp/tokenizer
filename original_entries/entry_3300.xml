@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cube
+</orth>
+<form type="variant">
+<pron>
+/kj*u*:b/
+</pron>
+</form>
+<form type="inflected">
+cubes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cube 
+</seg>
+je tridimenzionalno telo s &scaron;estimi ploskvami enake velikosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kocka
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cube of a number 
+</seg>
+je &scaron;tevilo, ki ga dobimo, &ccaron;e neko &scaron;tevilo dvakrat pomno&zcaron;imo samo s seboj. Na primer: 
+<seg type="lemma">
+the cube
+</seg>
+ &scaron;tevila dve je osem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kubi&ccaron;no &scaron;tevilo
+</quote>
+</cit>
+</sense>
+</entry>

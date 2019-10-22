@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impulse
+</orth>
+<form type="variant">
+<pron>
+/*ImpVls/
+</pron>
+</form>
+<form type="inflected">
+impulses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An impulse 
+</seg>
+je nenadna &zcaron;elja, da bi nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagib, nagon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had a sudden impulse to turn around and walk out.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo nekaj naredi 
+<seg type="lemma">
+on impulse
+</seg>
+, tisto stori nenadoma, ne da bi na&ccaron;rtoval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagonsko
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An impulse 
+</seg>
+je tudi kratek elektri&ccaron;ni signal, poslan po &zcaron;ici, &zcaron;ivcu ali zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+impulz
+</quote>
+</cit>
+</sense>
+</entry>

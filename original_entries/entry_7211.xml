@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impose
+</orth>
+<form type="variant">
+<pron>
+/Imp*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+imposes, imposing, imposed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To impose something on people 
+</seg>
+pomeni ljudi prisiliti, da nekaj sprejmejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsiliti, nalo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was a harsh mother and imposed severe discipline on her children.
+</quote>
+<quote>
+...the proposal to impose a 20p admission charge for museums.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+imposition
+</orth>
+<form type="variant">
+<pron>
+/*Imp@z*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the imposition of a wages freeze.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To impose on someone 
+</seg>
+pomeni pri&ccaron;akovati, da bo nekdo storil za nas nekaj, &ccaron;esar ne &zcaron;eli storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+siliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She would hate to feel that she was imposing on anyone.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+imposition
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;d be so grateful, though really it&apos;s an imposition.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+envy
+</orth>
+<form type="variant">
+<pron>
+/*envi1/
+</pron>
+</form>
+<form type="inflected">
+envies, envying, envied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To envy someone 
+</seg>
+pomeni &zcaron;eleti si, da bi imeli iste stvari ali lastnosti kot nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavidati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It would be unfair to envy him his good fortune.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Envy 
+</seg>
+je &ccaron;ustvo, ki ga ob&ccaron;utimo, kadar si &zcaron;elimo, da bi imeli isto stvar ali lastnost kot nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavist, nevo&scaron;&ccaron;ljivost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her undisputed good looks caused envy and admiration.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e imamo nekaj, kar si &zcaron;elijo drugi, lahko re&ccaron;emo, da je to 
+<seg type="lemma">
+the envy of other people. 
+</seg>
+</def>
+<cit type="translationEquivalent">
+<quote>
+predmet zavisti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has a robust economy that is the envy of its neighbours.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

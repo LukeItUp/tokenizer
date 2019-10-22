@@ -1,0 +1,288 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pin
+</orth>
+<form type="variant">
+<pron>
+/p*In/
+</pron>
+</form>
+<form type="inflected">
+pins, pinning, pinned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pin 
+</seg>
+je zelo majhen tanek koni&ccaron;ast kos kovine, s katerim spnemo kose blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bucika
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+drawing pin, 
+</ref>
+<ref>
+safety pin
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pin something somewhere 
+</seg>
+pomeni nekaj nekam pritrditi z buciko, risalnim &zcaron;eblji&ccaron;kom ali varnostno zaponko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wore a white rose pinned to her blouse.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pin someone in a particular position 
+</seg>
+pomeni nekoga tako trdno pritiskati ob zid ali drugo oporo, da se ne more ganiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ti&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His strong arms were around me, pinning me down.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pin the blame for something on someone 
+</seg>
+pomeni trditi, da je nekdo kriv za nekaj ali da je povzro&ccaron;il nekaj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+naprtiti krivdo, obdol&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t pin that on me.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pin one&apos;s hopes on something 
+</seg>
+pomeni upati, da bo nekaj uspe&scaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+graditi upe na &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pinned his hopes on the prospect of a split in the opposition party.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pin down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To pin down something 
+</seg>
+pomeni natan&ccaron;no povedati, kaj je nekaj, kar je te&zcaron;ko opisati, ali kak&scaron;no je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no opredeliti, definirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The courts have found obscenity impossible to pin down as a punishable offence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To pin someone down 
+</seg>
+pomeni prisiliti nekoga, da se natan&ccaron;no opredeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti k izjavi, priviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was anxious to pin the Minister down to some definite commitment.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pin up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To pin up a poster or notice 
+</seg>
+pomeni pritrditi plakat ali obvestilo na steno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeti na steno
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To pin up a piece of clothing 
+</seg>
+pomeni pripeti spodnji del obla&ccaron;ila vi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+speti z bucikami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hem was pinned up.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+pin-up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

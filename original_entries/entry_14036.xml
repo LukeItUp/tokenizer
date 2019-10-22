@@ -1,0 +1,158 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+supposed;
+</orth>
+<PN>
+pri 1. pomenu besedo izgovarjamo 
+<pron>
+/s@9p*@*Uzd/
+</pron>
+, pri 2., 3. in 4. pa 
+<pron>
+/s@9p*@*Uzd/
+</pron>
+ ali 
+<pron>
+/s@9p*@*Usd/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+supposed 
+</seg>
+poka&zcaron;emo dvom o dolo&ccaron;enem opisu ne&ccaron;esa ali splo&scaron;nem prepri&ccaron;anju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domneven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his supposed ancestor, the pirate Henry Morgan.
+</quote>
+<quote>
+...the supposed benefits of a progressive welfare state.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+supposedly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a robot supposedly capable of understanding spoken commands.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is supposed to be done
+</seg>
+, je tisto treba narediti, ker tako zahteva pravilo, navodilo ali obi&ccaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naj bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You are supposed to report it to the police as soon as possible.
+</quote>
+<quote>
+I&apos;m not supposed to talk to you about this.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is supposed to happen
+</seg>
+, je na&ccaron;rtovano ali nameravano, vendar se pogosto ne zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naj bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was supposed to go last summer.
+</quote>
+<quote>
+A machine at the entrance is supposed to check the tickets.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is supposed to be true
+</seg>
+, ljudje na splo&scaron;no mislijo, da je tisto res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naj bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are supposed to be the best in London.
+</quote>
+<quote>
+The hill was supposed to be haunted by a ghost.
+</quote>
+</seg>
+</sense>
+</entry>

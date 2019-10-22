@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p568_s622846" id="p568_w563" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="101.042" base="107.45" width="46.9823" height="8.514">pocketbook</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p568_s622847" id="p568_w564" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="301.41" y="102.288" base="107.45" width="37.7916" height="6.844">/p&#201;k&#203;tb&#205;k/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p568_s622848" id="p568_w565" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="340.63" y="102.11" base="107.45" width="40.6694" height="7.08">pocketbooks.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p568_s622850" id="p568_w567" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="388.76" y="103.534" base="107.45" width="18.611" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p568_s622851" id="p568_w568" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="408.341" y="103.534" base="107.45" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p568_s622852" id="p568_w569" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.93" y="101.754" base="107.45" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p568_s622853" id="p568_w570" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="420.962" y="101.754" base="107.45" width="19.0728" height="7.552">pock-</TOKEN>
+<TOKEN sid="p568_s622854" id="p568_w571" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="110.814" base="116.51" width="23.0004" height="7.552">etbook</TOKEN>
+</seg>
+<TOKEN sid="p568_s622855" id="p568_w572" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.55" y="110.814" base="116.51" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p568_s622856" id="p568_w573" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.526" y="110.814" base="116.51" width="25.596" height="7.552">majhna</TOKEN>
+<TOKEN sid="p568_s622857" id="p568_w574" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="322.101" y="110.814" base="116.51" width="21.5928" height="7.552">knjiga</TOKEN>
+<TOKEN sid="p568_s622858" id="p568_w575" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.673" y="110.814" base="116.51" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p568_s622859" id="p568_w576" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="358.448" y="110.814" base="116.51" width="24.7954" height="7.552">zvezek.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p568_s622861" id="p568_w578" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.45" y="110.814" base="116.51" width="19.9958" height="7.552">`epna</TOKEN>
+<TOKEN sid="p568_s622862" id="p568_w579" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.424" y="110.814" base="116.51" width="23.593" height="7.552">knjiga;</TOKEN>
+<TOKEN sid="p568_s622863" id="p568_w580" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="119.864" base="125.56" width="25.9906" height="7.552">bele`ka</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p568_s622865" id="p568_w582" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="293.8" y="121.644" base="125.56" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p568_s622866" id="p568_w583" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="314.331" y="121.644" base="125.56" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p568_s622867" id="p568_w584" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.72" y="119.864" base="125.56" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p568_s622868" id="p568_w585" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="328.592" y="119.864" base="125.56" width="39.6007" height="7.552">pocketbook</TOKEN>
+</seg>
+<TOKEN sid="p568_s622869" id="p568_w586" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.45" y="119.864" base="125.56" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p568_s622870" id="p568_w587" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="378.715" y="119.864" base="125.56" width="13.9925" height="7.552">tudi</TOKEN>
+<TOKEN sid="p568_s622871" id="p568_w588" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.976" y="119.864" base="125.56" width="33.9869" height="7.552">denarnica</TOKEN>
+<TOKEN sid="p568_s622872" id="p568_w589" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.231" y="119.864" base="125.56" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p568_s622873" id="p568_w590" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="128.924" base="134.62" width="29.5992" height="7.552">ovojnica,</TOKEN>
+<TOKEN sid="p568_s622874" id="p568_w591" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="289.658" y="128.924" base="134.62" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p568_s622875" id="p568_w592" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="295.111" y="128.924" base="134.62" width="19.6416" height="7.552">kateri</TOKEN>
+<TOKEN sid="p568_s622876" id="p568_w593" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="316.202" y="128.924" base="134.62" width="23.6448" height="7.552">nosimo</TOKEN>
+<TOKEN sid="p568_s622877" id="p568_w594" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="341.296" y="128.924" base="134.62" width="18.9936" height="7.552">denar</TOKEN>
+<TOKEN sid="p568_s622878" id="p568_w595" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.739" y="128.924" base="134.62" width="6.6456" height="7.552">in</TOKEN>
+<TOKEN sid="p568_s622879" id="p568_w596" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="369.834" y="128.924" base="134.62" width="38.6424" height="7.552">dokumente;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p568_s622880" id="p568_w597" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.926" y="128.924" base="134.62" width="30.1392" height="7.552">ameri{ka</TOKEN>
+<TOKEN sid="p568_s622881" id="p568_w598" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="137.974" base="143.67" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p568_s622883" id="p568_w600" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.44" y="137.974" base="143.67" width="25.1777" height="7.552">listnica</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

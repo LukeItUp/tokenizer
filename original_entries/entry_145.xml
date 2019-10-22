@@ -5,7 +5,7 @@ act
 </orth>
 <form type="variant">
 <pron>
-/*#ae;kt/
+/*&ae;kt/
 </pron>
 </form>
 <form type="inflected">
@@ -22,8 +22,7 @@ VB
 <seg type="lemma">
 To act
 </seg>
-pomeni nekaj storiti z dolo&#269;enim
-namenom.
+ pomeni nekaj storiti z dolo&ccaron;enim namenom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -42,20 +41,19 @@ He acted alone in the shooting.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 ADJUNCT
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 acts in a particular way
 </seg>
-se
-vede na dolo&#269;en na&#269;in.
+, se vede na dolo&ccaron;en na&ccaron;in. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -71,32 +69,31 @@ We acted as if we had never seen each other before.
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"as"
+&lsquo;as&rsquo; 
 </seg>
 <seg>
-or
+or 
 </seg>
 <seg type="prep">
-"like"
+&lsquo;like&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e neka stvar
+&Ccaron;e neka stvar 
 <seg type="lemma">
 acts as another
 </seg>
-deluje tako
-kot neka druga stvar.
+, deluje tako kot neka druga stvar. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-slu&#382;iti kot
+slu&zcaron;iti kot
 </quote>
 </cit>
 <seg type="example">
@@ -108,19 +105,18 @@ The shark can twist its fins to act as brakes.
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To act in a play or film
+To act in a play or film 
 </seg>
-pomeni imeti
-vlogo v igri ali filmu.
+pomeni imeti vlogo v igri ali filmu. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -131,19 +127,18 @@ igrati
 <sense n="5">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An act
+An act 
 </seg>
-je enkratno ravnanje ali tisto, kar
-nekdo stori.
+je enkratno ravnanje ali tisto, kar nekdo stori. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -152,18 +147,16 @@ dejanje
 </cit>
 <seg type="example">
 <quote>
-Sometimes the act of writing down the problems straightens out your
-thinking.
+Sometimes the act of writing down the problems straightens out your thinking.
 </quote>
 </seg>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-in the act of doing
-something
+in the act of doing something
 </seg>
-opravlja neko dejanje.
+, opravlja neko dejanje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -184,12 +177,11 @@ SING N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovekovo vedenje
+Kadar je &ccaron;lovekovo vedenje 
 <seg type="lemma">
 an act
 </seg>
-ne
-izra&#382;a njegovih resni&#269;nih &#269;ustev.
+, ne izra&zcaron;a njegovih resni&ccaron;nih &ccaron;ustev. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -210,9 +202,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An act
+An act 
 </seg>
-je listina, ki jo sprejme vlada.
+je listina, ki jo sprejme vlada. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -233,10 +225,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An act
+An act 
 </seg>
-v igri, operi ali baletu je eden od
-delov, na katere je delo razdeljeno.
+v igri, operi ali baletu je eden od delov, na katere je delo razdeljeno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -252,14 +243,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An act
+An act 
 </seg>
-v predstavi je eden od kraj&#353;ih
-nastopov v njej.
+v predstavi je eden od kraj&scaron;ih nastopov v njej. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-to&#269;ka
+to&ccaron;ka
 </quote>
 </cit>
 <seg type="example">
@@ -268,7 +258,6 @@ to&#269;ka
 </quote>
 </seg>
 </sense>
-<sense>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -283,14 +272,13 @@ PHR VB
 <sense>
 <def xml:lang="sl">
 <seg type="lemma">
-To be acting up
+To be acting up 
 </seg>
-pomeni, da nekdo ali
-nekaj ne deluje ali se ne vede tako, kot bi bilo treba.
+pomeni, da nekdo ali nekaj ne deluje ali se ne vede tako, kot bi bilo treba. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-nagajati, povzro&#269;ati te&#382;ave
+nagajati, povzro&ccaron;ati te&zcaron;ave
 </quote>
 </cit>
 <seg type="example">

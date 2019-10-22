@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p175_s191125" id="p175_w755" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="372.012" base="378.42" width="16.151" height="8.514">daft</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p175_s191126" id="p175_w756" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="76.32" y="373.258" base="378.42" width="24.5216" height="6.844">/d&#202;&#194;ft/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p175_s191127" id="p175_w757" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="104.3" y="373.08" base="378.42" width="20.1143" height="7.08">dafter,</TOKEN>
+<TOKEN sid="p175_s191128" id="p175_w758" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="127.66" y="373.08" base="378.42" width="23.6203" height="7.08">daftest.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p175_s191129" id="p175_w759" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="154.74" y="374.504" base="378.42" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p175_s191130" id="p175_w760" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.64" y="372.724" base="378.42" width="15.6002" height="7.552">Daft</TOKEN>
+</seg>
+<TOKEN sid="p175_s191131" id="p175_w761" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.7" y="372.724" base="378.42" width="25.1964" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p175_s191132" id="p175_w762" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.357" y="372.724" base="378.42" width="17.1979" height="7.552">zabit</TOKEN>
+<TOKEN sid="p175_s191133" id="p175_w763" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="237.015" y="372.724" base="378.42" width="6.79608" height="7.552">in</TOKEN>
+<TOKEN sid="p175_s191134" id="p175_w764" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3896" y="381.804" base="387.5" width="40.4942" height="7.552">neob~utljiv;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p175_s191135" id="p175_w765" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="106.493" y="381.804" base="387.5" width="36.0835" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p175_s191136" id="p175_w766" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="146.186" y="381.804" base="387.5" width="17.6386" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p175_s191138" id="p175_w768" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.27" y="381.804" base="387.5" width="28.8562" height="7.552">neumen,</TOKEN>
+<TOKEN sid="p175_s191139" id="p175_w769" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.736" y="381.804" base="387.5" width="36.077" height="7.552">prismojen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p175_s191140" id="p175_w770" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="390.884" base="396.58" width="19.1995" height="7.552">Don't</TOKEN>
+<TOKEN sid="p175_s191141" id="p175_w771" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.5895" y="390.884" base="396.58" width="7.60248" height="7.552">be</TOKEN>
+<TOKEN sid="p175_s191142" id="p175_w772" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.1922" y="390.884" base="396.58" width="15.5995" height="7.552">daft.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

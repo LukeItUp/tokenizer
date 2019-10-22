@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+instruct
+</orth>
+<form type="variant">
+<pron>
+/Instr*Vkt/
+</pron>
+</form>
+<form type="inflected">
+instructs, instructing, instructed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To instruct someone to do something 
+</seg>
+pomeni nekomu ukazati, naj nekaj stori; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dati napotek, nalo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve been instructed to take you to London.
+</quote>
+<quote>
+&lsquo;Breathe in,&rsquo; he instructed her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To instruct people in a subject or skill 
+</seg>
+pomeni pou&ccaron;evati ljudi neki predmet ali spretnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pou&ccaron;evati
+</quote>
+</cit>
+</sense>
+</entry>

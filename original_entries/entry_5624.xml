@@ -1,0 +1,188 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+forget
+</orth>
+<form type="variant">
+<pron>
+/f@g*et/
+</pron>
+</form>
+<form type="inflected">
+forgets, forgetting, forgot
+</form>
+<form type="variant">
+<pron>
+/f@g*Qt/
+</pron>
+</form>
+<form type="inflected">
+forgotten
+</form>
+<form type="variant">
+<pron>
+/f@g*Qt@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forget something 
+</seg>
+ali 
+<seg type="variant">
+to forget how to do something
+</seg>
+pomeni ne spomniti se ne&ccaron;esa ali na&ccaron;ina, kako je treba nekaj narediti, &ccaron;eprav smo v preteklosti to vedeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I never forget a face.
+</quote>
+<quote>
+She had forgotten how to ride a bicycle.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+forgotten
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a forgotten event in her past.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forget to do something 
+</seg>
+pomeni ne spomniti se, da bi nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozabiti, ne se spomniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I meant to see her on Friday, but I forgot all about it.
+</quote>
+<quote>
+I forgot to mention that John is a musician.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forget something 
+</seg>
+pomeni ne spomniti se, da bi s seboj vzeli nekaj, kar smo nameravali vzeti s seboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sorry to disturb you&mdash;I forgot my key.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Re&ccaron;emo tudi: 
+<seg type="lemma">
+someone forgets something
+</seg>
+, kadar nekdo namenoma ne misli ve&ccaron; na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozabiti, ne misliti na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you want my advice I think you ought to forget her.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forget oneself 
+</seg>
+pomeni vesti se neobvladano ali nesprejemljivo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+spozabiti se
+</quote>
+</cit>
+</sense>
+</entry>

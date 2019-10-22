@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+laundry
+</orth>
+<form type="variant">
+<pron>
+/l*O*:ndri1/
+</pron>
+</form>
+<form type="inflected">
+laundries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Laundry 
+</seg>
+so obla&ccaron;ila, rjuhe in brisa&ccaron;e, ki so umazane in jih je treba oprati ali pa so bile pravkar oprane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+perilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The washing machine takes about two hours to do my laundry.
+</quote>
+<quote>
+...laundry hung out to dry in the sun.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A laundry 
+</seg>
+je podjetje, kjer ljudem perejo in likajo obla&ccaron;ila, rjuhe in brisa&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pralnica
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A laundry 
+</seg>
+je tudi soba v hi&scaron;i ali hotelu, kjer perejo obla&ccaron;ila, rjuhe in brisa&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pralnica
+</quote>
+</cit>
+</sense>
+</entry>

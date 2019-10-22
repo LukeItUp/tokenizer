@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+child
+</orth>
+<form type="variant">
+<pron>
+/tS*a*Ild/
+</pron>
+</form>
+<form type="inflected">
+children
+</form>
+<form type="variant">
+<pron>
+/tS*Ildr@n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A child 
+</seg>
+je &ccaron;lovek, ki &scaron;e ni odrasel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otrok
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's children 
+</seg>
+so sinovi in h&ccaron;ere nekega &ccaron;loveka, ne glede na starost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otroci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their children are all married.
+</quote>
+</seg>
+</sense>
+</entry>

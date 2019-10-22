@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shop
+</orth>
+<form type="variant">
+<pron>
+/S*Qp/
+</pron>
+</form>
+<form type="inflected">
+shops, shopping, shopped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shop 
+</seg>
+je stavba ali del stavbe, v katerem prodajajo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two customers came into the shop.
+</quote>
+<quote>
+...a shoe shop.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shop 
+</seg>
+pomeni iti v trgovine in tam za denar dobiti stvari, ki jih &zcaron;elimo ali potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kupovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We allow the older girls to shop in the village without an escort.
+</quote>
+<quote>
+They went shopping after lunch.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+shopper
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The city centre was crowded with shoppers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shop 
+</seg>
+je tudi kraj, kjer izdelujejo predmete dolo&ccaron;ene vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delavnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...metalwork shops.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+shopping.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shop around.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shop around 
+</seg>
+pomeni iti v razli&ccaron;ne trgovine ter primerjati cene in kakovost, preden nekaj kupimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti po trgovinah
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

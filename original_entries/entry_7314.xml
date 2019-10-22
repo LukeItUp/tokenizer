@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inconsistent
+</orth>
+<form type="variant">
+<pron>
+/*IN1k@ns*Ist@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be inconsistent 
+</seg>
+pomeni vesti se razli&ccaron;no v podobnih okoli&scaron;&ccaron;inah; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nedosleden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The blame was laid on an inconsistent government.
+</quote>
+<quote>
+Some of your answers are rather inconsistent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inconsistency
+</orth>
+<form type="variant">
+<pron>
+/*IN1k@7ns*Ist@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His life was full of inconsistencies.
+</quote>
+<quote>
+...the complete inconsistency between the two views expressed by John.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+inconsistent with a particular set of ideas or values
+</seg>
+, ni v skladu z dolo&ccaron;eno skupino zamisli ali vrednot. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neskladen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a monarch whose behaviour they judged to be inconsistent with Hindu religious values.
+</quote>
+</seg>
+</sense>
+</entry>

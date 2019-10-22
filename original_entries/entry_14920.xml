@@ -1,0 +1,256 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tune
+</orth>
+<form type="variant">
+<pron>
+/tj*u*:n/
+</pron>
+</form>
+<form type="inflected">
+tunes, tuning, tuned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tune 
+</seg>
+je niz tonov, ki je prijeten in si ga zlahka zapomnimo. V glasbenih delih se v&ccaron;asih ve&ccaron;krat ponovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+melodija, napev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The orchestra was playing a selection of tunes from The Merry Widow.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tune a musical instrument 
+</seg>
+pomeni prilagoditi glasbeni in&scaron;trument, tako da bo spet oddajal prave tone. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uglasiti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tune an engine or machine 
+</seg>
+pomeni prilagoditi motor ali stroj tako, da bo dobro delal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naravnati, nastaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I told her the car needed tuning.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar radijski ali televizijski sprejemnik 
+<seg type="lemma">
+is tuned to a particular broadcasting station
+</seg>
+, je nastavljen tako, da lahko poslu&scaron;amo ali gledamo oddaje dolo&ccaron;ene radijske ali televizijske postaje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naravnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Stay tuned to Radio Desland for a further announcement.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je glasbilo 
+<seg type="lemma">
+in tune
+</seg>
+, daje prave tone. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugla&scaron;en
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be in tune with a group of people 
+</seg>
+pomeni strinjati se ali so&ccaron;ustvovati z neko skupino ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugla&scaron;en, skladen, v sozvo&ccaron;ju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His ideas are in tune with the spirit of his age.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To change one&apos;s tune 
+</seg>
+pomeni govoriti ali delati druga&ccaron;e kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubrati drugo pesem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He soon changed his tune and started working as hard as the others.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To the tune of a particular amount 
+</seg>
+pomeni v obsegu dolo&ccaron;enega zneska ali koli&ccaron;ine; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v znesku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The university subsidises its students to the tune of &pound;100,000 a year.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tune in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tune in to a radio station 
+</seg>
+pomeni naravnati radijski sprejemnik tako, da lahko poslu&scaron;amo program dolo&ccaron;ene radijske postaje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naravnati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He turned the dial and tuned in to Radio Paris.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tune up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar skupina glasbenikov 
+<seg type="lemma">
+tunes up
+</seg>
+, svoje in&scaron;trumente prilagodi tako, da dajejo prave tone. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uglasiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The orchestra was tuning up for its regular Sunday afternoon broadcast.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

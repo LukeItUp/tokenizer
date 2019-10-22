@@ -1,0 +1,233 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+complete
+</orth>
+<form type="variant">
+<pron>
+/k@7mpl*i*:t/
+</pron>
+</form>
+<form type="inflected">
+completes, completing, completed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+complete
+</seg>
+, vsebuje vse potrebne sestavne dele. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ves, cel, popoln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is not a complete list.
+</quote>
+<quote>
+...an almost complete skeleton of a dinosaur.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+complete 
+</seg>
+povemo, da je nekaj tako visoke stopnje ali velike koli&ccaron;ine, kolikor je najve&ccaron; mogo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popoln, cel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a complete change of diet.
+</quote>
+<quote>
+They were in complete agreement.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+completely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was completely bald.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To complete something 
+</seg>
+pomeni nekaj dokon&ccaron;ati ali izdelati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokon&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cathedral was begun in 1240 and completed forty years later.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+completion
+</orth>
+<form type="variant">
+<pron>
+/k@7mpl*i*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The house was due for completion in 1983.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Naloga, ki je 
+<seg type="lemma">
+complete
+</seg>
+, je dokon&ccaron;ana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokon&ccaron;an, gotov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The harvesting was complete.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+completes a set
+</seg>
+, je tisto zadnji predmet, potreben za dokon&ccaron;anje ali dopolnitev celote. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopolniti, dovr&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A black silk tie completed the outfit.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To complete a form 
+</seg>
+pomeni napisati potrebne podatke na obrazec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpolniti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+complete with a particular thing
+</seg>
+, vsebuje kot dodatek tudi tisto stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupaj z, izpopolnjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lovely mansion, complete with swimming pool.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

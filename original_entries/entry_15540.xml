@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+venomous
+</orth>
+<form type="variant">
+<pron>
+/v*en@m@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ka&ccaron;a, &scaron;korpijon ali pajek, ki je 
+<seg type="lemma">
+venomous
+</seg>
+, sovra&zcaron;nika ali plen napade s strupom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strupen
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ved&ecirc;nje je 
+<seg type="lemma">
+venomous
+</seg>
+, kadar ka&zcaron;e hudo zagrenjenost ali jezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strupen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...venomous glances.
+</quote>
+</seg>
+</sense>
+</entry>

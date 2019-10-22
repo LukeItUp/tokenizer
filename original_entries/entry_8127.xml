@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+latitude
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;tItju:d/
+</pron>
+</form>
+<form type="inflected">
+latitudes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The latitude of a place 
+</seg>
+je oddaljenost nekega kraja od ekvatorja: primerjaj 
+<ref>
+longitude
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemljepisna &scaron;irina
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Latitude 
+</seg>
+je mo&zcaron;nost, da izberemo, kako bomo nekaj storili; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+svoboda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was given considerable latitude in how she spent the money.
+</quote>
+</seg>
+</sense>
+</entry>

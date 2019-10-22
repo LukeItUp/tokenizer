@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p481_s526610" id="p481_w161" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="245.282" base="251.69" width="40.368" height="8.514">molecular</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p481_s526611" id="p481_w162" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="99.63" y="246.528" base="251.69" width="12.33" height="6.844">/m6</TOKEN>
+<TOKEN sid="p481_s526612" id="p481_w163" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="112.29" y="245.89" base="249.3" width="2.39636" height="4.52176">6</TOKEN>
+<TOKEN sid="p481_s526613" id="p481_w164" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="114.92" y="246.528" base="251.69" width="16.2999" height="6.844">lekj6</TOKEN>
+<TOKEN sid="p481_s526614" id="p481_w165" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="131.55" y="245.89" base="249.3" width="2.39636" height="4.52176">4</TOKEN>
+<TOKEN sid="p481_s526615" id="p481_w166" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="134.18" y="246.528" base="251.69" width="11.0316" height="6.844">l6/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p481_s526616" id="p481_w167" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="147.75" y="247.774" base="251.69" width="19.1847" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p481_s526617" id="p481_w168" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="168.69" y="247.774" base="251.69" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p481_s526618" id="p481_w169" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.68" y="245.994" base="251.69" width="34.3886" height="7.552">Molecular</TOKEN>
+</seg>
+<TOKEN sid="p481_s526619" id="p481_w170" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.61" y="245.994" base="251.69" width="25.1892" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p481_s526620" id="p481_w171" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3904" y="255.054" base="260.75" width="13.2005" height="7.552">tak,</TOKEN>
+<TOKEN sid="p481_s526621" id="p481_w172" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="77.7401" y="255.054" base="260.75" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p481_s526622" id="p481_w173" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="86.6846" y="255.054" base="260.75" width="6.79536" height="7.552">se</TOKEN>
+<TOKEN sid="p481_s526623" id="p481_w174" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.6292" y="255.054" base="260.75" width="23.9976" height="7.552">nana{a</TOKEN>
+<TOKEN sid="p481_s526624" id="p481_w175" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.776" y="255.054" base="260.75" width="8.40096" height="7.552">na</TOKEN>
+<TOKEN sid="p481_s526625" id="p481_w176" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.326" y="255.054" base="260.75" width="33.1877" height="7.552">molekule.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p481_s526627" id="p481_w178" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.07" y="255.054" base="260.75" width="44.7905" height="7.552">molekuralen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p481_s526628" id="p481_w179" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="221" y="255.054" base="260.75" width="22.7995" height="7.552">&#8230;mol-</TOKEN>
+<TOKEN sid="p481_s526629" id="p481_w180" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="264.114" base="269.81" width="21.1932" height="7.552">ecular</TOKEN>
+<TOKEN sid="p481_s526630" id="p481_w181" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.5834" y="264.114" base="269.81" width="26.3686" height="7.552">biology.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

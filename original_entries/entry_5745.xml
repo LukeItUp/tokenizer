@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frequent,
+</orth>
+<form type="inflected">
+frequents, frequenting, frequented;
+</form>
+<PN>
+pridevnik izgovarjamo 
+<pron>
+/fr*i*:kw@nt/
+</pron>
+, glagol pa 
+<pron>
+/fri1kw*ent/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+frequent
+</seg>
+, se dogaja pogosto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogost, vsakdanji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George's absences were frequent.
+</quote>
+<quote>
+They move at frequent intervals.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+frequently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This question is frequently asked.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To frequent a place 
+</seg>
+pomeni pogosto hoditi na neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskovati, zahajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jo liked to frequent the bars.
+</quote>
+</seg>
+</sense>
+</entry>

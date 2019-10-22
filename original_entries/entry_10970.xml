@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prejudice
+</orth>
+<form type="variant">
+<pron>
+/pr*edZUdIs/
+</pron>
+</form>
+<form type="inflected">
+prejudices.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Prejudice 
+</seg>
+je neutemljen odpor do koga ali &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predsodek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...racial prejudice.
+</quote>
+<quote>
+Barber was a man of strong prejudices.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To show prejudice in favour of someone 
+</seg>
+pomeni z nekom ravnati bolje kot z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristranskost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was some regrettable prejudice in favour of middle class children.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+forgive
+</orth>
+<form type="variant">
+<pron>
+/f@g*Iv/
+</pron>
+</form>
+<form type="inflected">
+forgives, forgiving, forgave
+</form>
+<form type="variant">
+<pron>
+/f@g*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+forgiven.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forgive someone 
+</seg>
+pomeni ne se ve&ccaron; jeziti na osebo, ki je storila nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'll never forgive you for what you did.
+</quote>
+<quote>
+I forgave him everything.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da nekdo 
+<seg type="lemma">
+could be forgiven for doing something
+</seg>
+, ho&ccaron;emo povedati, da razumemo razloge za ved&ecirc;nje neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprostiti, odpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We could be forgiven for thinking that we were still in London.
+</quote>
+</seg>
+</sense>
+</entry>

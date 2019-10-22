@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tot
+</orth>
+<form type="variant">
+<pron>
+/t*Qt/
+</pron>
+</form>
+<form type="inflected">
+tots, totting, totted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tot 
+</seg>
+je zelo majhen otrok; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mal&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tiny tots.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tot of whisky or rum 
+</seg>
+je zelo majhna koli&ccaron;ina viskija ali ruma v kozarcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&zcaron;irek
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tot up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tot up numbers 
+</seg>
+pomeni se&scaron;teti &scaron;tevila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&scaron;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The machine totted up your score.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

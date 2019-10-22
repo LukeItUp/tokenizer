@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+riot
+</orth>
+<form type="variant">
+<pron>
+/r*a*I*@t/
+</pron>
+</form>
+<form type="inflected">
+riots, rioting, rioted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A riot 
+</seg>
+je nasilno ved&ecirc;nje skupine ljudi na javnem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemir, izgred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In May 1968 there was a wave of student riots.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To riot 
+</seg>
+pomeni nasilno se vesti na javnem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;ati izgrede, razgrajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If food prices are put up too far, the people will riot.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rioter
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Courts dealt with rioters quickly and harshly.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

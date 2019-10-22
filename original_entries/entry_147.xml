@@ -5,7 +5,7 @@ action
 </orth>
 <form type="variant">
 <pron>
-/*#ae;kS@0n/
+/*&ae;kS@0n/
 </pron>
 </form>
 <form type="inflected">
@@ -20,10 +20,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Action
+Action 
 </seg>
-je dolo&#269;eno ravnanje s posebnim
-namenom.
+je dolo&ccaron;eno ravnanje s posebnim namenom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -44,10 +43,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An action
+An action 
 </seg>
-je nekaj, kar po&#269;nemo ob
-dolo&#269;eni prilo&#382;nosti.
+je nekaj, kar po&ccaron;nemo ob dolo&ccaron;eni prilo&zcaron;nosti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -68,10 +66,9 @@ SING N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The action
+The action 
 </seg>
-se nana&#353;a na vse pomembne in
-razburljive dogodke v dolo&#269;enih okoli&#353;&#269;inah.
+se nana&scaron;a na vse pomembne in razburljive dogodke v dolo&ccaron;enih okoli&scaron;&ccaron;inah. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -95,9 +92,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Action
+Action 
 </seg>
-je tudi bojevanje v vojni.
+je tudi bojevanje v vojni. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -113,27 +110,27 @@ Henry had been killed in action.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
 To put an idea or policy into action
 </seg>
-pomeni za&#269;eti uporabljati neko zamisel ali politiko.
+ pomeni za&ccaron;eti uporabljati neko zamisel ali politiko. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-uresni&#269;iti, udejaniti
+uresni&ccaron;iti, udejaniti
 </quote>
 </cit>
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-&#268;e je stroj
+&Ccaron;e je stroj 
 <seg type="lemma">
 out of action
 </seg>
-ne dela.
+, ne dela. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -141,5 +138,5 @@ ne delovati, pokvarjen biti
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

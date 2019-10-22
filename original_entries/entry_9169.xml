@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+monitor
+</orth>
+<form type="variant">
+<pron>
+/m*QnIt@/
+</pron>
+</form>
+<form type="inflected">
+monitors, monitoring, monitored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+monitors something
+</seg>
+, redno preverja razvoj ali napredek ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The child&apos;s progress is being monitored.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A monitor 
+</seg>
+je naprava, s katero nadzorujemo ali zapisujemo potek stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+monitor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The patient was connected to the monitor.
+</quote>
+</seg>
+</sense>
+</entry>

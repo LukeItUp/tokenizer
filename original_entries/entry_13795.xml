@@ -1,0 +1,171 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stress
+</orth>
+<form type="variant">
+<pron>
+/str*es/
+</pron>
+</form>
+<form type="inflected">
+stresses, stressing, stressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stress a point 
+</seg>
+pomeni posebej opozoriti na nekaj, ker menimo, da je pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I ought to stress that this was not a trial but an enquiry.
+</quote>
+<quote>
+He stressed the importance of better public relations.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...this stress on community values.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel under stress 
+</seg>
+ali 
+<seg type="lemma">
+to be under stress 
+</seg>
+pomeni, da smo napeti ali zaskrbljeni zaradi &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisk, stres
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...parents under stress.
+</quote>
+<quote>
+...the stress of examinations.
+</quote>
+<quote>
+Too many stresses are being placed on the family.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stresses 
+</seg>
+so mo&ccaron;na delovanja sile ali te&zcaron;e na kak predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisk, obremenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Earthquakes can result from stresses in the earth&apos;s crust.
+</quote>
+<quote>
+It has stood up to tests under extreme heat and stress.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stress 
+</seg>
+je izgovor besede ali dela besede z nekoliko mo&ccaron;nej&scaron;im glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudarek
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stress a word or part of a word 
+</seg>
+pomeni, da pri izgovoru besede ali dela besede uporabimo mo&ccaron;nej&scaron;i glas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You should stress the second syllable in &lsquo;computer&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

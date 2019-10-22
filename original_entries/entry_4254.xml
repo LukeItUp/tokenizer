@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dozen
+</orth>
+<form type="variant">
+<pron>
+/d*Vz@0n/
+</pron>
+</form>
+<form type="inflected">
+dozens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+NUMBER
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dozen 
+</seg>
+pomeni dvanajst. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ducat, dvanajst kosov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a dozen eggs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+dozens 
+</seg>
+mislimo ve&ccaron;je &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na ducate
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There had been dozens of attempts at reform.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subtract
+</orth>
+<form type="variant">
+<pron>
+/s@btr*&ae;kt/
+</pron>
+</form>
+<form type="inflected">
+subtracts, subtracting, subtracted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To subtract one number from another 
+</seg>
+pomeni, da prvo &scaron;tevilo od&scaron;tejemo od drugega. Na primer, kadar nekdo 
+<seg type="lemma">
+subtracts 3 from 5
+</seg>
+, dobi 2. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+od&scaron;teti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+subtraction
+</orth>
+<form type="variant">
+<pron>
+/s@btr*&ae;kS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...simple techniques for handling subtraction.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

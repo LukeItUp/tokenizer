@@ -1,0 +1,346 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heart
+</orth>
+<form type="variant">
+<pron>
+/h*A*:t/
+</pron>
+</form>
+<form type="inflected">
+hearts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s heart 
+</seg>
+je organ v prsnem ko&scaron;u; &ccaron;rpa kri po telesu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She could hear her heart beating.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s heart 
+</seg>
+lahko pomeni tudi &ccaron;lovekova &ccaron;ustva in zna&ccaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the troubled heart of the younger man.
+</quote>
+<quote>
+He&apos;s got a very soft heart.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heart 
+</seg>
+uporabljamo v razli&ccaron;nih izrazih, ki se nana&scaron;ajo na pogum in odlo&ccaron;nost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sr&ccaron;nost, pogum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was a bad time and people were losing heart.
+</quote>
+<quote>
+No one had the heart to tell her.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The heart of something 
+</seg>
+je osrednji ali najpomembnej&scaron;i del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srce, jedro, sredi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the heart of the problem.
+</quote>
+<quote>
+Thousands of protesters marched into the heart of San Francisco.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A heart 
+</seg>
+je tudi lik, podoben pravemu srcu, ki ga uporabljamo predvsem kot znamenje ljubezni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sr&ccaron;ek, srce
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES
+</QZ>
+.
+</QP>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Hearts 
+</seg>
+je ena od &scaron;tirih barv v kompletu igralnih kart. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srce
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES
+</QZ>
+.
+</QP>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo dolo&ccaron;ene vrste &ccaron;lovek 
+<seg type="lemma">
+at heart
+</seg>
+, pomeni, da je tak v resnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po srcu, v bistvu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was at heart a kindly man.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e znamo nekaj, na primer pesem, 
+<seg type="lemma">
+by heart
+</seg>
+, se tistega spomnimo do potankosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(znati) na pamet
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a change of heart 
+</seg>
+pomeni, da se na&scaron;a &ccaron;ustva do ne&ccaron;esa spremenijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premisliti si
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj re&ccaron;emo 
+<seg type="lemma">
+from the heart 
+</seg>
+ali 
+<FV>
+from the bottom of one&apos;s heart
+</FV>
+, smo iskreni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+od srca, iskreno
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da 
+<seg type="lemma">
+one&apos;s heart isn&apos;t in what someone is doing
+</seg>
+, ho&ccaron;emo re&ccaron;i, da nekdo ka&zcaron;e zelo malo navdu&scaron;enja za tisto, kar dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne biti z vsem srcem pri ne&ccaron;em
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo lahko nekaj po&ccaron;ne 
+<seg type="lemma">
+to his heart&apos;s content
+</seg>
+, lahko tisto po&ccaron;ne, kolikor ho&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do mile volje, kolikor srce po&zcaron;eli
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+breaks someone&apos;s heart
+</seg>
+, nekoga naredi zelo nesre&ccaron;nega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streti komu srce
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+close to one&apos;s heart 
+</seg>
+ali 
+<FV>
+dear to one&apos;s heart
+</FV>
+, imamo tisto zelo radi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri srcu
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s heart leaps
+</seg>
+ pomeni, da je nekdo nenadoma zelo vznemirjen in sre&ccaron;en. 
+<FV>
+One&apos;s heart sinks 
+</FV>
+pomeni, da je nekdo nenadoma zelo razo&ccaron;aran ali nesre&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srce posko&ccaron;i od sre&ccaron;e; srce se stisne
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To set one&apos;s heart on something 
+</seg>
+pomeni nekaj si zelo mo&ccaron;no &zcaron;eleti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz vsega srca &zcaron;eleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had set her heart on going.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take an experience to heart 
+</seg>
+pomeni, da neka izku&scaron;nja globoko vpliva na neko osebo in jo vznemiri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti si k srcu
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

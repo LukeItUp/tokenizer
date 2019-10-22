@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seeming
+</orth>
+<form type="variant">
+<pron>
+/s*i*:mIN/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je pripravljenost ali zanimanje nekega &ccaron;loveka 
+<seg type="lemma">
+seeming
+</seg>
+, na njegovi podlagi domnevamo, da je pripravljen nekaj narediti, vendar o tem nismo prepri&ccaron;ani; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dozdeven, navidezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his seeming willingness to participate.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+seemingly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their seemingly limitless resources.
+</quote>
+<quote>
+Seemingly they don&apos;t have any problems.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brick
+</orth>
+<form type="variant">
+<pron>
+/br*Ik/
+</pron>
+</form>
+<form type="inflected">
+bricks, bricking, bricked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Bricks 
+</seg>
+so pravokotni kosi &zcaron;gane gline, ki jih uporabljamo za graditev zidov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opeka
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HOUSE AND FLAT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a massive old building of crumbling red brick.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+brick up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To brick up a door or window 
+</seg>
+pomeni zapreti vrata ali okno z ope&ccaron;nim zidom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zazidati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

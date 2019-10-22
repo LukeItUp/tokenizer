@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+venture
+</orth>
+<form type="variant">
+<pron>
+/v*entS@/
+</pron>
+</form>
+<form type="inflected">
+ventures, venturing, ventured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A venture 
+</seg>
+je nekaj novega, vznemirljivega in zahtevnega; vklju&ccaron;uje tveganje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvig, tvegano dejanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an interesting scientific venture.
+</quote>
+<quote>
+The number of successful new business ventures is dwindling.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To venture into an activity 
+</seg>
+pomeni narediti nekaj, kar vklju&ccaron;uje tveganje, ker je novo in druga&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podati se v kaj, spustiti se v kaj, lotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I might actually venture into advertising if I had enough money.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To venture an opinion 
+</seg>
+pomeni, da previdno in obotavljaje povemo svoje mnenje, ker se bojimo, da je neumno ali napa&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drzniti si, dovoliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I&apos;d make a good husband,&rsquo; he ventured.
+</quote>
+<quote>
+No one has ventured to suggest why this should be.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To venture somewhere 
+</seg>
+pomeni iti nekam, &ccaron;eprav je to morda nevarno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drzniti si, upati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wouldn&apos;t venture far from his mother&apos;s door.
+</quote>
+</seg>
+</sense>
+</entry>

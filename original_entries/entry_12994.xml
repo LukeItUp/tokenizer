@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sister
+</orth>
+<form type="variant">
+<pron>
+/s*Ist@/
+</pron>
+</form>
+<form type="inflected">
+sisters.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s sister 
+</seg>
+je dekle ali &zcaron;enska, ki ima iste star&scaron;e kot oseba, o kateri govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Have you got any brothers and sisters?
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+half-sister.
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sister 
+</seg>
+je tudi pripadnica verskega reda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestra
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sister 
+</seg>
+je vi&scaron;ja medicinska sestra, ki je odgovorna za potek dela na bolni&scaron;ni&ccaron;nem oddelku; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+glavna sestra
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+a sister 
+</seg>
+v&ccaron;asi uporabi &zcaron;enska, ko govori o drugi &zcaron;enski, s katero imata enaka prepri&ccaron;anja ali cilje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They would go to Paris and stay with feminist sisters there.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sister of something 
+</seg>
+je tisto, kar je iste vrste kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The city shows every sign of outgrowing its sister.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her sister ship was sunk by a torpedo.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

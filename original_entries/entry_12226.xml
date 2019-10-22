@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rumour
+</orth>
+<form type="variant">
+<pron>
+/r*u*:m@/
+</pron>
+</form>
+<form type="inflected">
+rumours, rumoured;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+rumor
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rumour 
+</seg>
+je resni&ccaron;en ali neresni&ccaron;en podatek, ki kro&zcaron;i med ljudmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govorica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There&apos;s a rumour that Mangel is coming here to speak.
+</quote>
+<quote>
+...rumours of street fighting and violence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is rumoured to be true
+</seg>
+, ljudje govorijo, da je tisto res, vendar tega ne vedo zanesljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govori se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was rumored to be living in Detroit.
+</quote>
+<quote>
+It was rumoured that the body had been removed.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cloak
+</orth>
+<form type="variant">
+<pron>
+/kl*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+cloaks, cloaking, cloaked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cloak 
+</seg>
+je &scaron;irok, ohlapen pla&scaron;&ccaron;, ki se zapenja pri vratu in nima rokavov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogrinjalo, pelerina
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+cloak 
+</seg>
+opi&scaron;emo nekaj, kar naj bi prikrilo resnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krinka, pretveza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He could be using the story as a cloak for more sinister activities.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cloak something 
+</seg>
+pomeni nekaj pokriti ali skriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekriti, zakriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hills were cloaked by thick mists.
+</quote>
+</seg>
+</sense>
+</entry>

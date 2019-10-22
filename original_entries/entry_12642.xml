@@ -1,0 +1,294 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+send
+</orth>
+<form type="variant">
+<pron>
+/s*end/
+</pron>
+</form>
+<form type="inflected">
+sends, sending, sent
+</form>
+<form type="variant">
+<pron>
+/s*ent/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To send something to someone 
+</seg>
+pomeni poskrbeti, da nekaj prispe do dolo&ccaron;ene osebe, na primer po po&scaron;ti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I drafted a letter and sent it to the President.
+</quote>
+<quote>
+Send it round in the morning.
+</quote>
+<quote>
+I promised I would send her the money.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sender
+</orth>
+<form type="variant">
+<pron>
+/s*end@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The sender&apos;s name and address should be written on the back.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To send a radio signal or message 
+</seg>
+pomeni poslati radijski signal ali sporo&ccaron;ilo do dolo&ccaron;enega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Marconi succeeded in sending a signal across the Atlantic.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To send someone somewhere 
+</seg>
+pomeni urediti, da nekdo nekam gre ali nekje ostane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The doctor sent me to a specialist.
+</quote>
+<quote>
+Could you send someone round to help?
+</quote>
+<quote>
+His parents couldn&apos;t afford to send him to university.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sends things or people in a particular direction
+</seg>
+, je tisto vzrok, da se stvari ali osebe za&ccaron;nejo premikati v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pognati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The stubble was burning in the fields, sending wisps of black smoke into the air.
+</quote>
+<quote>
+The noise sent them racing towards the bush.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+send for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To send for someone 
+</seg>
+pomeni nekomu poslati sporo&ccaron;ilo, v katerem ga prosimo, da pride k nam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati, poslati po
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sent for a doctor.
+</quote>
+<quote>
+We&apos;d better send for the police.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To send for something 
+</seg>
+ali 
+<seg type="variant">
+to send off for something 
+</seg>
+pomeni, da napi&scaron;emo sporo&ccaron;ilo, v katerem nekoga prosimo, naj nam nekaj po&scaron;lje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;iti, poslati po
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Send for the nomination forms before it&apos;s too late.
+</quote>
+<quote>
+I&apos;ll send off for them next week.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+send off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To send off a letter or parcel 
+</seg>
+pomeni, da pismo ali paket nekam po&scaron;ljemo po po&scaron;ti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odposlati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You fill in both parts of the form, then send it off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+send off for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+send for
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

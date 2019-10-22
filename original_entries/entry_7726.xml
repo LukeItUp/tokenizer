@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invalid,
+</orth>
+<form type="inflected">
+invalids;
+</form>
+<PN>
+samostalnik ali samostalnik v vlogi levega prilastka izgovarjamo 
+<pron>
+/*Inv@lId/
+</pron>
+, pridevnik pa 
+<pron>
+/Inv*&ae;lId/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An invalid 
+</seg>
+je zelo bolna ali pohabljena oseba, za katero mora skrbeti nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+invalid
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The family treated her like an invalid.
+</quote>
+<quote>
+...her invalid mother.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neka trditev, sklep ali izid 
+<seg type="lemma">
+invalid
+</seg>
+, ni pravilen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepravilen, neveljaven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The comparison is invalid.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+invalidity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My experiments show the invalidity of his argument.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je uradna pogodba, listina ali postopek 
+<seg type="lemma">
+invalid
+</seg>
+, zakonsko ni sprejemljiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neveljaven, ni&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The court ruled his election invalid.
+</quote>
+</seg>
+</sense>
+</entry>

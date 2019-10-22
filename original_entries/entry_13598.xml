@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stark
+</orth>
+<form type="variant">
+<pron>
+/st*A*:k/
+</pron>
+</form>
+<form type="inflected">
+starker, starkest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+stark
+</seg>
+, je zelo prazno in enoli&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pust
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the stark black rocks and deserted beaches.
+</quote>
+<quote>
+The names were written in stark black print.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stark 
+</seg>
+pomeni oster in neprijeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trd, okoren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Those are the stark facts of the matter.
+</quote>
+<quote>
+...grim stark poverty.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be stark naked 
+</seg>
+pomeni biti &ccaron;isto gol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popolnoma gol
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

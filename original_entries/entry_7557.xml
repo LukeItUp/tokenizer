@@ -1,0 +1,174 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inside
+</orth>
+<form type="variant">
+<pron>
+/*Ins*a*Id/
+</pron>
+</form>
+<form type="inflected">
+insides.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+inside a place, container, or object
+</seg>
+, je v kraju, posodi ali predmetu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znotraj, notri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two minutes later we were inside the taxi.
+</quote>
+<quote>
+You left your lighter inside.
+</quote>
+<quote>
+It is a fruit with a seed inside.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The door had no inside bolt.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The inside of something 
+</seg>
+je del ne&ccaron;esa, ki ga obkro&zcaron;ajo ali omejujejo njegovi stranski deli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+notranjost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The inside of my mouth was dry.
+</quote>
+<quote>
+...the inside of the castle.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s insides 
+</seg>
+so &ccaron;lovekovi notranji organi, zlasti &zcaron;elodec; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+trebuh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What we all need is a bit of food in our insides.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na &scaron;iroki cesti so 
+<seg type="lemma">
+the inside lanes 
+</seg>
+pasovi, ki so najbli&zcaron;ji zunanjemu robu ceste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vozni pas
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be inside 
+</seg>
+pomeni biti v zaporu; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v arestu
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, na primer obla&ccaron;ilo, 
+<seg type="lemma">
+inside out
+</seg>
+, je notranji del obrnjen tako, da gleda navzven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narobe obrnjen
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

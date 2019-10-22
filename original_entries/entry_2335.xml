@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chunk
+</orth>
+<form type="variant">
+<pron>
+/tS*VNk/
+</pron>
+</form>
+<form type="inflected">
+chunks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chunk of something 
+</seg>
+je kos ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos, kepa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a great chunk of meat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chunk 
+</seg>
+je tudi velika koli&ccaron;ina ali del ne&ccaron;esa; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kos, zalogaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Research and development now take up a sizeable chunk of the military budget.
+</quote>
+</seg>
+</sense>
+</entry>

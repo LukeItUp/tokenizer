@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+request
+</orth>
+<form type="variant">
+<pron>
+/rI1kw*est/
+</pron>
+</form>
+<form type="inflected">
+requests, requesting, requested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To request something 
+</seg>
+pomeni za nekaj uradno zaprositi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prositi za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The President requested an emergency session of the United Nations.
+</quote>
+<quote>
+Visitors are requested not to pick the flowers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a request for something 
+</seg>
+pomeni prositi za kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pro&scaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I made repeated requests for money.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar naredimo nekaj 
+<seg type="lemma">
+on request
+</seg>
+, tisto naredimo zato, ker smo napro&scaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pro&scaron;njo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A booklet on this subject will be sent on request.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar naredimo nekaj 
+<seg type="lemma">
+at someone&apos;s request
+</seg>
+, tisto naredimo zato, ker je dolo&ccaron;ena oseba prosila za to. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pro&scaron;njo nekoga
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

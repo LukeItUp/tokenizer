@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kingdom
+</orth>
+<form type="variant">
+<pron>
+/k*INd@m/
+</pron>
+</form>
+<form type="inflected">
+kingdoms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A kingdom 
+</seg>
+je dr&zcaron;ava ali de&zcaron;ela, ki ji vlada kralj ali kraljica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kraljestvo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The animal kingdom 
+</seg>
+je skupno poimenovanje za vse &zcaron;ivali na svetu, 
+<seg type="lemma">
+the plant kingdom 
+</seg>
+pa za vse rastline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivalsko/rastlinsko kraljestvo
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+restrain
+</orth>
+<form type="variant">
+<pron>
+/rI1str*e*In/
+</pron>
+</form>
+<form type="inflected">
+restrains, restraining, restrained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To restrain someone 
+</seg>
+pomeni prepre&ccaron;iti nekomu nekaj, kar je nameraval narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaviti, zadr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She raised a finger as if to restrain Morris from speaking.
+</quote>
+<quote>
+He had been unable to restrain himself from telling Gertrude.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To restrain something 
+</seg>
+pomeni dose&ccaron;i, da nekaj, kar raste ali se pove&ccaron;uje, ne postane preveliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the efforts of governments to restrain inflation.
+</quote>
+</seg>
+</sense>
+</entry>

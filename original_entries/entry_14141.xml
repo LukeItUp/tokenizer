@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sworn
+</orth>
+<form type="variant">
+<pron>
+/sw*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Sworn 
+</seg>
+je pretekli dele&zcaron;nik glagola 
+<ref>
+to swear
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preklinjati; prise&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a sworn statement or declaration 
+</seg>
+pomeni prise&ccaron;i, da je vse, kar smo rekli, res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaprise&zcaron;en, pod prisego
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The American made a sworn statement to the police.
+</quote>
+</seg>
+</sense>
+</entry>

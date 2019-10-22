@@ -1,0 +1,119 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impossible
+</orth>
+<form type="variant">
+<pron>
+/Imp*Qs@1b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+impossible
+</seg>
+, ne more biti storjeno, se ne more zgoditi ali tistemu ni mogo&ccaron;e verjeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izklju&ccaron;en, neizvedljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was an impossible task.
+</quote>
+<quote>
+Staying awake all night was virtually impossible.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+impossibly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had impossibly thin legs.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+impossibility
+</orth>
+<form type="variant">
+<pron>
+/Imp*Qs@b*IlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the impossibility of change.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki polo&zcaron;aj ali oseba 
+<seg type="lemma">
+impossible
+</seg>
+, je z njo zelo te&zcaron;ko ravnati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemogo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are in an impossible position on this matter.
+</quote>
+<quote>
+You&apos;re an impossible man to please.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+impossibly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Flats make life impossibly restrictive for energetic young children.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

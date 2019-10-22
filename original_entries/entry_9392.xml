@@ -1,0 +1,203 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nail
+</orth>
+<form type="variant">
+<pron>
+/n*e*Il/
+</pron>
+</form>
+<form type="inflected">
+nails, nailing, nailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nail 
+</seg>
+je ko&scaron;&ccaron;ek kovine z ostro konico; &ccaron;e ga &zcaron;elimo v kaj potisniti, po njem udarimo s kladivom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ebelj
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...the mirror that hung from a nail on the wall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nails something somewhere
+</seg>
+, z &zcaron;ebljem nekaj pritrdi na neko povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They nail plastic sheets over their windows.
+</quote>
+<quote>
+There were signs nailed to the trees.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s nails 
+</seg>
+so tanke trde plo&scaron;&ccaron;ice, ki pokrivajo konice prstov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+noht
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He keeps biting his nails.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo 
+<seg type="lemma">
+hits the nail on the head
+</seg>
+, to pomeni, da je tisto, kar je rekel, zelo to&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeti &zcaron;ebljico na glavico
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<xr type="related">
+<QI>
+a 
+</QI>
+<QF>
+nail in 
+</QF>
+<QI>
+something&apos;s 
+</QI>
+<QF>
+coffin: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+coffin
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+nail down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nails something down
+</seg>
+, tisto stvar pribije v tla z &zcaron;eblji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribiti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+nail up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nails something up
+</seg>
+, tisto stvar z &zcaron;eblji pritrdi na pokon&ccaron;no povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the warning notice that he had nailed up on the pole.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

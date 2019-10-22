@@ -1,0 +1,190 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dream
+</orth>
+<form type="variant">
+<pron>
+/dr*i*:m/
+</pron>
+</form>
+<form type="inflected">
+dreams, dreaming, dreamed 
+<IS>
+ali 
+</IS>
+<IV>
+dreamt 
+</IV>
+<pron>
+/dr*emt/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dream 
+</seg>
+je vrsta dogodkov, o katerih sanjamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sen, sanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In his dream he was sitting in a theatre watching a play.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek takrat, ko spi, 
+<seg type="lemma">
+dreams
+</seg>
+, v mislih vidi podobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sanjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I dreamt that I was beaten up by Ernest Hemingway.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dream 
+</seg>
+je tudi nekaj, o &ccaron;emer pogosto razmi&scaron;ljamo, ker &zcaron;elimo, da bi se zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sen, ideal
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His dream of being champion had come true.
+</quote>
+<quote>
+...a dream world.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dream 
+</seg>
+pomeni razmi&scaron;ljati o nekih okoli&scaron;&ccaron;inah ali dogodku, za katerega si mo&ccaron;no &zcaron;elimo, da bi se zgodil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sanjariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She dreamed of having a car.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a dream house.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek re&ccaron;e: 
+<seg type="lemma">
+I would not dream of doing something
+</seg>
+, ho&ccaron;e poudariti, da ne&ccaron;esa ne bi storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;e na misel mi ne pride, da bi to storil
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A lot of the boys would never dream of going away for residential courses.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dream up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dream up a plan 
+</seg>
+pomeni izmisliti si na&ccaron;rt. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He would never dream up a desperate scheme like that on his own.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

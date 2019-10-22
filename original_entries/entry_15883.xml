@@ -1,0 +1,216 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+welcome
+</orth>
+<form type="variant">
+<pron>
+/w*elk@m/
+</pron>
+</form>
+<form type="inflected">
+welcomes, welcoming, welcomed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To welcome someone 
+</seg>
+pomeni nekoga ljubeznivo pozdraviti, ko prispe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisr&ccaron;no pozdraviti, lepo sprejeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He moved eagerly towards the door to welcome his visitor.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was given a warm welcome by the President.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;Welcome&rsquo; 
+</seg>
+re&ccaron;emo osebi, ki je pravkar prispela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobrodo&scaron;el
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Welcome to Peking.
+</quote>
+<quote>
+Welcome back.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be welcome in a place 
+</seg>
+pomeni, da so ljudje veseli, ko nekam pridemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobrodo&scaron;el
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All members of the public are welcome.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekomu re&ccaron;emo, da je 
+<seg type="lemma">
+welcome to do something
+</seg>
+, ga opogumimo, naj nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobrodo&scaron;el
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You will always be welcome to come back.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To welcome something new 
+</seg>
+pomeni odobriti in podpreti nekaj novega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprejeti, razveseliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I warmly welcomed his proposal.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, kar se zgodi ali pripeti, 
+<seg type="lemma">
+welcome
+</seg>
+, smo tistega veseli ali tisto odobravamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobrodo&scaron;el, razveseljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is a welcome development.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make someone welcome 
+</seg>
+pomeni poskrbeti, da je nekdo sre&ccaron;en in ga lepo sprejmejo, ko pride v nov kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lepo sprejeti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+you&apos;re welcome
+</seg>
+, sprejmemo hvale&zcaron;nost neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prosim, ni za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Thank you for the beautiful scarf.&rsquo;&mdash;&lsquo;You&apos;re welcome. I&apos;m glad you like it.&rsquo;
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

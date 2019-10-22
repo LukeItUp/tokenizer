@@ -1,0 +1,273 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+little
+</orth>
+<form type="variant">
+<pron>
+/l*It@0l/
+</pron>
+</form>
+<IN>
+Pri 5. in 6. pomenu je oblika 
+<ref>
+less 
+</ref>
+<IC>
+primernik, prese&zcaron;nik pa je 
+</IC>
+<ref>
+least
+</ref>
+<IC>
+: glej ustrezni gesli.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvari, ki so 
+<seg type="lemma">
+little
+</seg>
+, so majhne po velikosti ali kratke po dol&zcaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+majhen, kratek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a little table with a glass top.
+</quote>
+<quote>
+...little groups of people.
+</quote>
+<quote>
+...after he had walked for a little way.
+</quote>
+<quote>
+She lay awake a little while longer.
+</quote>
+<quote>
+...a little chat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Otrok, ki je 
+<seg type="lemma">
+little
+</seg>
+, je &scaron;e zelo mlad. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+majhen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...two little girls.
+</quote>
+<quote>
+I often heard him do that when I was little.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s little sister or brother 
+</seg>
+je mlaj&scaron;a sestra ali mlaj&scaron;i brat nekega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlaj&scaron;i
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Little 
+</seg>
+pomeni tudi nepomemben. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+malenkosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t bother me with little things like that.
+</quote>
+<quote>
+...annoying little mishaps.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+QUANTIF 
+<seg>
+or 
+</seg>
+DET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+little 
+</seg>
+tudi poudarimo, da je ne&ccaron;esa samo malo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+malo, komaj kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Little of the equipment was standardized.
+</quote>
+<quote>
+There is little to worry about.
+</quote>
+<quote>
+John and I had very little money left.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Little 
+</seg>
+pomeni tudi ne zelo pogosto ali samo v majhni meri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redko, malo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Richardson interrupted very little.
+</quote>
+<quote>
+She seemed little changed.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+QUANTIF 
+<seg>
+or 
+</seg>
+DET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A little of something 
+</seg>
+je majhna koli&ccaron;ina ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+malo, nekaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The waiter poured a little of the wine into a glass.
+</quote>
+<quote>
+He spoke a little French.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A little 
+</seg>
+ali 
+<FV>
+a little bit 
+</FV>
+pomeni v majhni meri ali nizki stopnji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+malo, malce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He frowned a little.
+</quote>
+<quote>
+I felt a little uncomfortable.
+</quote>
+<quote>
+I thought he was a little bit afraid.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+little by little
+</seg>
+, se zgodi postopoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po malem, po&ccaron;asi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Then I learnt, little by little, the early history of her family.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+depend
+</orth>
+<form type="variant">
+<pron>
+/di1p*end/
+</pron>
+</form>
+<form type="inflected">
+depends, depending, depended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To depend on someone or something 
+</seg>
+pomeni nekoga ali nekaj potrebovati za pre&zcaron;ivetje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti odvisen od
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These factories depend upon natural resources.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To depend on someone or something 
+</seg>
+pomeni vedeti, da nam bo nekdo ali nekaj pomagal, ko bomo to potrebovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesti se, ra&ccaron;unati z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I knew I could depend on you.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+depends on something else
+</seg>
+, se bo zgodilo samo, &ccaron;e bodo dolo&ccaron;ene okoli&scaron;&ccaron;ine ugodne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti odvisen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The success of the meeting depends largely on whether the chairman is efficient.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom, kot je 
+<seg type="lemma">
+it depends
+</seg>
+, namignemo, da nismo prepri&ccaron;ani, kaj se bo zgodilo ali kak&scaron;en je najbolj&scaron;i odgovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvisno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What will you do?&rsquo;&mdash;&lsquo;I don&apos;t know. It depends.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+depending on 
+</seg>
+povemo, da je tisto, kar se zgodi, lahko razli&ccaron;no glede na okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvisno od
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This training takes a variable time, depending on the chosen speciality.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

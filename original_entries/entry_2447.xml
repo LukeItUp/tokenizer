@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+climb
+</orth>
+<form type="variant">
+<pron>
+/kl*a*Im/
+</pron>
+</form>
+<form type="inflected">
+climbs, climbing, climbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To climb something 
+</seg>
+pomeni pomikati se proti vrhu ne&ccaron;esa, na primer drevesa, gore ali lestve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We started to climb the hill.
+</quote>
+<quote>
+We climbed to the top of the mountain.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We were still out of breath from the climb.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To climb somewhere 
+</seg>
+pomeni previdno in pogosto nerodno se pomikati nekam, najve&ccaron;krat zato, ker ni dovolj prostora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She climbed into her car.
+</quote>
+<quote>
+Four men climbed down through the hatch.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To climb 
+</seg>
+pomeni tudi pomikati se navzgor ali pove&ccaron;ati raven ali vrednost ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti se, vzpeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plane climbed steeply and banked.
+</quote>
+<quote>
+The cost has climbed to a staggering &pound;35 billion.
+</quote>
+</seg>
+</sense>
+</entry>

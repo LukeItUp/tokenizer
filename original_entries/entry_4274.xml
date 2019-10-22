@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drape
+</orth>
+<form type="variant">
+<pron>
+/dr*e*Ip/
+</pron>
+</form>
+<form type="inflected">
+drapes, draping, draped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drape a piece of cloth somewhere 
+</seg>
+pomeni nekam dati kos tkanine tako, da visi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti, ogrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He began to drape the shawl over Gertrude's shoulders.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+draped with a piece of cloth
+</seg>
+, je pokrito s kosom tkanine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrasiti, zastreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...coffins draped with American flags.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Drapes 
+</seg>
+so zavese; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zavese
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+married
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;rId/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je oseba 
+<seg type="lemma">
+married
+</seg>
+, ima mo&zcaron;a ali &zcaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poro&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;s married to an Englishman.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar oseba 
+<seg type="lemma">
+gets married
+</seg>
+, sklene zakonsko zvezo z nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poro&ccaron;iti se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+married 
+</seg>
+se uporablja tudi sicer v zvezi z zakonsko zvezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakonski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their early married life.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twang
+</orth>
+<form type="variant">
+<pron>
+/tw*&ae;N/
+</pron>
+</form>
+<form type="inflected">
+twangs, twanging, twanged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A twang 
+</seg>
+je zvok, podoben tistemu, ki ga sli&scaron;imo, ko potegnemo in nato spustimo napeto &zcaron;ico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brenk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the twang of tennis balls bouncing off tightly-strung rackets.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was sitting twanging a guitar.
+</quote>
+<quote>
+The bed springs twanged.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,192 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+voice
+</orth>
+<form type="variant">
+<pron>
+/v*O*Is/
+</pron>
+</form>
+<form type="inflected">
+voices, voicing, voiced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s voice 
+</seg>
+je tisto, kar sli&scaron;imo, ko nekdo govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He recognized me by my voice.
+</quote>
+<quote>
+&lsquo;I suppose we&apos;d better go,&rsquo; said John in a low voice.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s voice 
+</seg>
+je tudi &ccaron;lovekovo mnenje o dolo&ccaron;enem vpra&scaron;anju in tisto, kar re&ccaron;e o tem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Numerous voices were raised against the idea.
+</quote>
+<quote>
+The only dissenting voice was Mr Foot&apos;s.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a voice in something 
+</seg>
+pomeni imeti pravico, da izrazimo svoje mnenje o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti besedo pri &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Students should have a voice in determining the way universities develop.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To voice an opinion or an emotion 
+</seg>
+pomeni povedati svoje mnenje ali ob&ccaron;utke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izraziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The African delegates voiced their anger.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je glagol 
+<seg type="lemma">
+in the active voice
+</seg>
+, je v tvorni obliki, ki pove, da osebek izra&zcaron;a vr&scaron;ilca dejanja. Kadar je glagol 
+<seg type="lemma">
+in the passive voice
+</seg>
+, je v trpni obliki, ki pove, da osebek izra&zcaron;a osebo ali stvar, prizadeto v glagolskem dejanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glagolski na&ccaron;in
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To raise one&apos;s voice 
+</seg>
+pomeni govoriti glasneje. 
+<FV>
+To lower one&apos;s voice 
+</FV>
+pomeni govoriti ti&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzdigniti glas; sti&scaron;ati glas
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nam nekdo re&ccaron;e 
+<seg type="lemma">
+keep your voice down
+</seg>
+, zahteva, da govorimo ti&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govori potiho
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo nekaj re&ccaron;e 
+<seg type="lemma">
+at the top of one&apos;s voice
+</seg>
+, tisto re&ccaron;e zelo glasno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na ves glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I am drenched,&rsquo; she declared at the top of her voice.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,162 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dawn
+</orth>
+<form type="variant">
+<pron>
+/d*O*:n/
+</pron>
+</form>
+<form type="inflected">
+dawns, dawning, dawned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dawn 
+</seg>
+je &ccaron;as v dnevu, ko se na nebu prvi&ccaron; poka&zcaron;e svetloba, preden vzide sonce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zora, svit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tom woke me at dawn.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dan 
+<seg type="lemma">
+dawns
+</seg>
+, nebo po kon&ccaron;ani no&ccaron;i postane svetlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svitati se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dawn of a period of time or a situation 
+</seg>
+je za&ccaron;etek nekega obdobja ali polo&zcaron;aja; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;etek, zora
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This marked the dawn of a new era in human history.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be dawning 
+</seg>
+pomeni, da se nekaj za&ccaron;ne razvijati ali kazati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The age of the answering machine is just dawning.
+</quote>
+<quote>
+...the dawning hopes of reconciliation in Western Europe.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dawn on 
+<VS>
+ali 
+</VS>
+<VV>
+dawn upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neko dejstvo ali zamisel 
+<seg type="lemma">
+dawns on someone 
+</seg>
+ali 
+<seg type="variant">
+dawns upon someone
+</seg>
+, ga &ccaron;lovek spozna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetiti se, ugotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Then it dawned on me that they were speaking Spanish.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

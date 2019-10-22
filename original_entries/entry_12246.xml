@@ -1,0 +1,323 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rush
+</orth>
+<form type="variant">
+<pron>
+/r*VS/
+</pron>
+</form>
+<form type="inflected">
+rushes, rushing, rushed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush somewhere 
+</seg>
+pomeni odpraviti se nekam z vso naglico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odhiteti, odbrzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When they saw us, they rushed forward.
+</quote>
+<quote>
+Please don&apos;t rush off.
+</quote>
+<quote>
+The water rushed in over the top of his boots.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a little rush of air.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush to do something 
+</seg>
+pomeni nekaj narediti brez odla&scaron;anja, ker smo zelo zavzeti, da bi tisto naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohiteti, planiti, zagnati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People were rushing to buy the newspaper.
+</quote>
+<quote>
+Her friends rushed to her aid.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush something 
+</seg>
+pomeni nekaj na hitro narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohiteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I rushed my lunch.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rushed
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It&apos;ll be a bit of a rushed job, I&apos;m afraid.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush someone or something to a place 
+</seg>
+pomeni, da nekoga ali nekaj hitro nekam odpeljemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hitro odvesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Barnett was rushed to hospital with a broken back.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush someone into doing something 
+</seg>
+pomeni pripraviti nekoga do tega, da nekaj naredi na hitro, ne da bi imel dovolj &ccaron;asa, da bi o tistem prej razmislil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priganjati, siliti v preuranjeno ravnanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do not be rushed into parting with goods before taking legal advice.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+no rush to do something 
+</seg>
+povemo, da ni nikakr&scaron;ne potrebe, da bi nekaj naredili hitro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne mudi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is no rush to fill the vacancy.
+</quote>
+<quote>
+I&apos;m not in any rush.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rush for something 
+</seg>
+ali 
+<seg type="lemma">
+a rush to do something 
+</seg>
+pomeni, da se naenkrat pove&ccaron;a &scaron;tevilo poskusov, da bi nekaj dobili ali dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrzlica, naval
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There had been a rush for tickets.
+</quote>
+<quote>
+...a rush to find the treasure.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To experience a rush of a feeling 
+</seg>
+pomeni naenkrat zelo mo&ccaron;no ob&ccaron;utiti dolo&ccaron;eno &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenaden izbruh, mo&ccaron;no pove&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She felt a rush of pity for the boy.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rushes 
+</seg>
+so rastline, ki rastejo ob vodi in imajo visoka tanka stebla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;je
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rush into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rush into a situation 
+</seg>
+pomeni zaplesti se v kaj, ne da bi o tistem prej temeljito premislili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaleteti se, slepo planiti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

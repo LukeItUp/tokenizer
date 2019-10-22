@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+till
+</orth>
+<form type="variant">
+<pron>
+/t*Il/
+</pron>
+</form>
+<form type="inflected">
+tills.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Till 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+until
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do, dokler
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wrote from morning till night.
+</quote>
+<quote>
+Wait till I come back.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A till 
+</seg>
+je v trgovini predal ali &scaron;katla, v kateri hranijo denar. Najve&ccaron;krat je del blagajne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predal blagajne; &scaron;katla za denar
+</quote>
+</cit>
+</sense>
+</entry>

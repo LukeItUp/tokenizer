@@ -5,7 +5,7 @@ analysis
 </orth>
 <form type="variant">
 <pron>
-/@n*#ae;lI1sIs/
+/@n*&ae;lI1sIs/
 </pron>
 </form>
 <form type="inflected">
@@ -13,30 +13,29 @@ analyses
 </form>
 <form type="variant">
 <pron>
-/@n*#ae;lI1si:z/.
+/@n*&ae;lI1si:z/
 </pron>
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-or
+or 
 </seg>
 COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Analysis
+Analysis 
 </seg>
-je postopek razmi&#353;ljanja o ne&#269;em,
-da bi tisto razumeli ali ugotovili, iz &#269;esa je.
+je postopek razmi&scaron;ljanja o ne&ccaron;em, da bi tisto razumeli ali ugotovili, iz &ccaron;esa je. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-analiza, raz&#269;lenitev
+analiza, raz&ccaron;lenitev
 </quote>
 </cit>
 <seg type="example">
@@ -53,14 +52,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An analysis
+An analysis 
 </seg>
-je razlaga, ki je posledica
-razmi&#353;ljanja o ne&#269;em.
+je razlaga, ki je posledica razmi&scaron;ljanja o ne&ccaron;em. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-analiza, raz&#269;lenitev
+analiza, raz&ccaron;lenitev
 </quote>
 </cit>
 <seg type="example">
@@ -77,16 +75,15 @@ PHRASE
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-in the final analysis
+in the final analysis 
 </seg>
-ali
-<seg type="phrase_variant">
-in the last analysis
-</seg>
-povemo, da na&#353;a izjava
-velja za osnovna dejstva v dolo&#269;enih okoli&#353;&#269;inah.
+ali 
+<FV>
+in the last analysis 
+</FV>
+povemo, da na&scaron;a izjava velja za osnovna dejstva v dolo&ccaron;enih okoli&scaron;&ccaron;inah. 
 </def>
 <cit type="translationEquivalent">
 <quote>

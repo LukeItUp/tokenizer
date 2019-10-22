@@ -1,0 +1,185 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drag
+</orth>
+<form type="variant">
+<pron>
+/dr*&ae;g/
+</pron>
+</form>
+<form type="inflected">
+drags, dragging, dragged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drag something or someone somewhere 
+</seg>
+pomeni s te&zcaron;avo nekoga nekam spraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He listened as the body was dragged up the stairs.
+</quote>
+<quote>
+She grabbed her husband by the wrist and dragged him away.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drag someone somewhere 
+</seg>
+pomeni tudi nekoga prisiliti, da nekam gre; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm sorry to drag you to the telephone, but something awful has happened.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drag oneself somewhere 
+</seg>
+pomeni po&ccaron;asi se nekam premikati, ker smo bolni ali &scaron;ibki ali ker ne &zcaron;elimo iti tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was able to drag myself shakily to my feet.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neki dogodek 
+<seg type="lemma">
+drags
+</seg>
+, je zelo dolgo&ccaron;asen in imamo ob&ccaron;utek, da dolgo traja.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i se, biti dolgo&ccaron;asen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The part of the play which drags is the last half-hour.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je mo&scaron;ki 
+<seg type="lemma">
+in drag
+</seg>
+, nosi &zcaron;enska obla&ccaron;ila; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v &zcaron;enskih obla&ccaron;ilih, oble&ccaron;en kot travestit
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+drag out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To drag something out 
+</seg>
+pomeni poskrbeti, da nekaj traja dlje, kot je treba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavla&ccaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How could we prevent them from dragging out the talks?
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

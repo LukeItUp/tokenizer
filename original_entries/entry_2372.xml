@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+city
+</orth>
+<form type="variant">
+<pron>
+/s*Iti1/
+</pron>
+</form>
+<form type="inflected">
+cities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A city 
+</seg>
+je veliko mesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto, velemesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the city of Birmingham.
+</quote>
+<quote>
+...a modern city centre.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PROPER N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The City 
+</seg>
+je del Londona, kjer imajo svoje urade &scaron;tevilne finan&ccaron;ne organizacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+londonsko mestno sredi&scaron;&ccaron;e
+</quote>
+</cit>
+</sense>
+</entry>

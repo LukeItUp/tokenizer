@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dwell
+</orth>
+<form type="variant">
+<pron>
+/dw*el/
+</pron>
+</form>
+<form type="inflected">
+dwells, dwelling, dwelled 
+<IS>
+ali 
+</IS>
+<IV>
+dwelt
+</IV>
+</form>
+<form type="variant">
+<pron>
+/dw*elt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dwell somewhere 
+</seg>
+pomeni nekje stanovati; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+(pre)bivati, domovati
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dwell on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dwell on something 
+</seg>
+ali 
+<seg type="variant">
+to dwell upon something 
+</seg>
+pomeni veliko razmi&scaron;ljati, govoriti ali pisati o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premlevati, ukvarjati se, premi&scaron;ljevati, zaposlovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She began to dwell on memories of her mother.
+</quote>
+<quote>
+So far we have dwelt upon the negative elements in the situation.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

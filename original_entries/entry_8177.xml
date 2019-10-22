@@ -1,0 +1,247 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lean
+</orth>
+<form type="variant">
+<pron>
+/l*i*:n/
+</pron>
+</form>
+<form type="inflected">
+leans, leaning, leaned 
+<IS>
+ali 
+</IS>
+<IV>
+leant 
+</IV>
+<pron>
+/l*ent/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lean in a particular direction 
+</seg>
+pomeni nagniti telo v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagibati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was sitting on the edge of his chair and leaning eagerly forwards.
+</quote>
+<quote>
+I leaned out of the window.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lean on something 
+</seg>
+pomeni nasloniti se na nekaj, da delno podpira na&scaron;o te&zcaron;o. 
+<seg type="lemma">
+To lean an object on something 
+</seg>
+pomeni postaviti neki predmet tako, da njegovo te&zcaron;o delno podpira stvar, na katero se naslanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisloniti, nasloniti na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He leaned against a tree.
+</quote>
+<quote>
+He leaned the bike against a railing.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;towards&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lean towards a particular idea or action 
+</seg>
+pomeni odobravati neko idejo ali dejanje in se vesti temu primerno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagibati se k &ccaron;emu, dajati prednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...parents who naturally lean towards strictness.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+lean
+</seg>
+, je suh, vendar je videti mo&ccaron;an in v dobri kondiciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vitek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lean, handsome man.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Meso, ki je 
+<seg type="lemma">
+lean
+</seg>
+, ne vsebuje veliko ma&scaron;&ccaron;obe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pust
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V obdobju, ki je 
+<seg type="lemma">
+lean
+</seg>
+, ljudje nimajo veliko hrane, denarja ali uspeha. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab, boren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the lean years, crop failures are common.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+lean on 
+<VS>
+ali 
+</VS>
+<VV>
+lean upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To lean on someone 
+</seg>
+ali 
+<seg type="variant">
+to lean upon someone 
+</seg>
+pomeni poskusiti vplivati na nekoga z gro&zcaron;njami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisniti na koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They can lean on the administration by threatening to withhold their subscriptions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To lean on someone 
+</seg>
+ali 
+<seg type="variant">
+to lean upon someone 
+</seg>
+pomeni tudi biti odvisen od nekoga za podporo in spodbudo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zana&scaron;ati se na koga
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

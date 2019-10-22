@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glad
+</orth>
+<form type="variant">
+<pron>
+/gl*&ae;d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be glad about something 
+</seg>
+pomeni biti sre&ccaron;en in zadovoljen zaradi ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vesel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m so glad that your niece was able to use the tickets.
+</quote>
+<quote>
+Ralph was glad of a chance to change the subject.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gladly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gladly accepted their invitation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be glad to do something 
+</seg>
+pomeni biti voljan nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vesel, zadovoljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many people would be glad to work half time.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gladly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We will gladly do it if it is within our power.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

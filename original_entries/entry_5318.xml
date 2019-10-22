@@ -1,0 +1,239 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+file
+</orth>
+<form type="variant">
+<pron>
+/f*a*Il/
+</pron>
+</form>
+<form type="inflected">
+files, filing, filed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A file 
+</seg>
+je &scaron;katla ali mapa za hranjenje listin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kartoteka, register
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He closed the file and looked up at Rodin.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To file a document 
+</seg>
+pomeni vlo&zcaron;iti listino v pravo kartoteko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+arhivirati, registrirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bills are not filed under B; but under U for unpleasant.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V ra&ccaron;unalni&scaron;tvu je 
+<seg type="lemma">
+a file 
+</seg>
+skupina povezanih podatkov, ki ima svoje ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+datoteka
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To file a complaint or request 
+</seg>
+pomeni uradno oddati prito&zcaron;bo ali zahtevo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lawsuit they have filed.
+</quote>
+<quote>
+I&apos;m filing for divorce.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; ljudi 
+<seg type="lemma">
+file somewhere
+</seg>
+, hodijo v vrsti drug za drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korakati v gosjem redu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They filed out in silence.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A file 
+</seg>
+je tudi orodje z grobimi povr&scaron;inami, ki ga uporabljamo za glajenje in oblikovanje trdih snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pila
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To file an object 
+</seg>
+pomeni zgladiti povr&scaron;ino predmeta ali ga oblikovati s pilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...filing her fingernails.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+on file 
+</seg>
+ali 
+<FV>
+on the files
+</FV>
+, je zapisano v zbirki podatkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+registriran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The police had both men on their files.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se ljudje pomikajo naprej 
+<seg type="lemma">
+in single file
+</seg>
+, so v vrsti drug za drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v koloni; v gosjem redu
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

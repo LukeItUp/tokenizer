@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stutter
+</orth>
+<form type="variant">
+<pron>
+/st*Vt@/
+</pron>
+</form>
+<form type="inflected">
+stutters, stuttering, stuttered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stutter 
+</seg>
+pomeni imeti te&zcaron;ave pri izgovorjavi besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jecljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I...I want to do it,&rsquo; she stuttered.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a stutter 
+</seg>
+pomeni pogosto zajecljati med govorjenjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jecljanje
+</quote>
+</cit>
+</sense>
+</entry>

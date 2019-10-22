@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deprive
+</orth>
+<form type="variant">
+<pron>
+/di1pr*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+deprives, depriving, deprived.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deprive someone of something 
+</seg>
+pomeni nekaj nekomu vzeti ali prepre&ccaron;iti, da bi tisto imel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvzeti, prikraj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...to deprive a peasant of his land.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deprivation
+</orth>
+<form type="variant">
+<pron>
+/d*eprI2v*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...suffering years of deprivation and poverty.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

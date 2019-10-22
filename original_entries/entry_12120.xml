@@ -1,0 +1,208 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rock
+</orth>
+<form type="variant">
+<pron>
+/r*Qk/
+</pron>
+</form>
+<form type="inflected">
+rocks, rocking, rocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rock 
+</seg>
+je trda snov, ki sestavlja zemeljsko povr&scaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skala, skalovje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Large masses of rock are constantly falling into the sea.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rock 
+</seg>
+je velik kamen, ki &scaron;trli iz tal ali morja ali pa se je odtrgal od gore ali pe&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skala
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I sat down on a rock.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rock 
+</seg>
+pomeni po&ccaron;asi in enakomerno se premikati naprej in nazaj ali levo in desno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gugati se, zibati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sat there, rocking gently.
+</quote>
+<quote>
+Our parents cuddle and hug us, and rock us gently back and forth.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rock people 
+</seg>
+pomeni povzro&ccaron;iti osuplost in grozo med ljudmi; 
+</def>
+<usg>
+rabimo v pisni angle&scaron;&ccaron;ini.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pretresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+France was rocked by an outbreak of violent crime.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rock 
+</seg>
+ali 
+<seg type="variant">
+rock music 
+</seg>
+je glasna glasba z mo&ccaron;nim ritmom, ki jo igra in poje majhna skupina ljudi z razli&ccaron;nimi in&scaron;trumenti, med katerimi so kitare in bobni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rock
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a rock concert.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rock 
+</seg>
+je tudi podolgovat trd bonbon, kakr&scaron;ne ponavadi prodajajo v turisti&ccaron;nih krajih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pali&ccaron;ast bonbon
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar alkoholno pija&ccaron;o postre&zcaron;emo 
+<seg type="lemma">
+on the rocks
+</seg>
+, ji dodamo led. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z ledom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...whisky on the rocks.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je odnos med dvema osebama, ustanovama ali dr&zcaron;avama 
+<seg type="lemma">
+on the rocks
+</seg>
+, ni uspe&scaron;en in se bo verjetno kmalu kon&ccaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v &scaron;kripcih
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+rock the boat: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+boat
+</ref>
+</xr>
+</B>
+</entry>

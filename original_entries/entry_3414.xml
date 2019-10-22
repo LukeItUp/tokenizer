@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+damage
+</orth>
+<form type="variant">
+<pron>
+/d*&ae;mIdZ/
+</pron>
+</form>
+<form type="inflected">
+damages, damaging, damaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To damage something 
+</seg>
+pomeni nekaj raniti ali po&scaron;kodovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(po)&scaron;kodovati, (po)kvariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A fire had severely damaged part of the school.
+</quote>
+<quote>
+Unofficial strikes were damaging the British economy.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+damaging
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The incident was damaging to his career and reputation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Damage 
+</seg>
+je po&scaron;kodba ali &scaron;koda, ki je ne&ccaron;emu povzro&ccaron;ena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;koda, izguba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It can cause lethal damage to the liver.
+</quote>
+<quote>
+He could not repair the damage done to the party&apos;s credibility.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sodi&scaron;&ccaron;e 
+<seg type="lemma">
+awards damages to someone
+</seg>
+, odredi, da tistemu &ccaron;loveku izpla&ccaron;a denar nekdo, ki je o&scaron;kodoval njegov ugled ali lastnino ali pa ga je po&scaron;kodoval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+od&scaron;kodnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He finally got &pound;4,000 in damages.
+</quote>
+</seg>
+</sense>
+</entry>

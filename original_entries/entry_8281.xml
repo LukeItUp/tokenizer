@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lick
+</orth>
+<form type="variant">
+<pron>
+/l*Ik/
+</pron>
+</form>
+<form type="inflected">
+licks, licking, licked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lick something 
+</seg>
+pomeni iti z jezikom &ccaron;ez neko povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lizati, polizati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He licked the last of the egg off his knife.
+</quote>
+<quote>
+The cat was licking its paw.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a few licks and nibbles.
+</quote>
+</seg>
+</T>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To lick one&apos;s lips 
+</seg>
+pomeni iti z jezikom &ccaron;ez ustnice, ko z veseljem razmi&scaron;ljamo o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblizovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked at the plate and licked her lips.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be licking one&apos;s wounds 
+</seg>
+pomeni okrevati po porazu ali poni&zcaron;anju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+celiti si rane
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

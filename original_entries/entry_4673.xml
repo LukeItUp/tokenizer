@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+endure
+</orth>
+<form type="variant">
+<pron>
+/I2ndj0*U*@/
+</pron>
+</form>
+<form type="inflected">
+endures, enduring, endured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To endure a painful or difficult situation 
+</seg>
+pomeni mirno in potrpe&zcaron;ljivo trpeti bole&ccaron; ali te&zcaron;aven polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzdr&zcaron;ati, prena&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was more than I could endure.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+endures
+</seg>
+, &scaron;e naprej obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, zdr&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a city which will endure for ever.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enduring
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...hopes for an enduring peace.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

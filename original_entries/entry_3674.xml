@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deny
+</orth>
+<form type="variant">
+<pron>
+/dI2n*a*I/
+</pron>
+</form>
+<form type="inflected">
+denies, denying, denied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deny something 
+</seg>
+pomeni re&ccaron;i, da nekaj, na primer obto&zcaron;ba, ni resni&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanikati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He denied that he was involved.
+</quote>
+<quote>
+Green denied doing anything illegal.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deny someone something 
+</seg>
+pomeni nekomu ne pustiti, da bi imel nekaj, kar si &zcaron;eli ali do &ccaron;esar ima pravico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Freedom is denied to the young.
+</quote>
+</seg>
+</sense>
+</entry>

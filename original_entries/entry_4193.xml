@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+donor
+</orth>
+<form type="variant">
+<pron>
+/d*@*Un@/
+</pron>
+</form>
+<form type="inflected">
+donors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A donor 
+</seg>
+je oseba, ki dovoli, da ji iz telesa vzamejo kri ali kak organ in ga dajo bolniku, ki ga potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+darovalec; krvodajalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...kidney donors.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A donor 
+</seg>
+je tudi oseba, ki nekaj, na primer denar, podari dobrodelni ali kak&scaron;ni drugi organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+donator, darovalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+About half this amount comes from individual donors.
+</quote>
+</seg>
+</sense>
+</entry>

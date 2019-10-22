@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p654_s717431" id="p654_w345" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="417.442" base="423.85" width="23.3518" height="8.514">ruddy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p654_s717432" id="p654_w346" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="79.36" y="418.688" base="423.85" width="16.3396" height="6.844">/r&#216;di</TOKEN>
+<TOKEN sid="p654_s717433" id="p654_w347" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="95.99" y="418.05" base="421.46" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p654_s717434" id="p654_w348" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.57" y="418.688" base="423.85" width="4.8216" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p654_s717435" id="p654_w349" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="104.91" y="419.934" base="423.85" width="10.3307" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p654_s717436" id="p654_w350" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.79" y="418.154" base="423.85" width="13.0349" height="7.552">Kar</TOKEN>
+<TOKEN sid="p654_s717437" id="p654_w351" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.344" y="418.154" base="423.85" width="5.91624" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p654_s717438" id="p654_w352" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.76" y="418.154" base="423.85" width="21.9715" height="7.552">ruddy,</TOKEN>
+</seg>
+<TOKEN sid="p654_s717439" id="p654_w353" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.252" y="418.154" base="423.85" width="12.6389" height="7.552">ima</TOKEN>
+<TOKEN sid="p654_s717440" id="p654_w354" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.41" y="418.154" base="423.85" width="14.3928" height="7.552">rde~</TOKEN>
+<TOKEN sid="p654_s717441" id="p654_w355" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.322" y="418.154" base="423.85" width="22.703" height="7.552">pridih;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p654_s717442" id="p654_w356" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.545" y="418.154" base="423.85" width="25.1078" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p654_s717443" id="p654_w357" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="427.234" base="432.93" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p654_s717445" id="p654_w359" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="86.02" y="427.234" base="432.93" width="31.0507" height="7.552">rde~kast;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p654_s717446" id="p654_w360" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.06" y="427.234" base="432.93" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p654_s717447" id="p654_w361" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.271" y="427.234" base="432.93" width="22.253" height="7.552">square</TOKEN>
+<TOKEN sid="p654_s717448" id="p654_w362" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="156.523" y="427.234" base="432.93" width="20.3918" height="7.552">ruddy</TOKEN>
+<TOKEN sid="p654_s717449" id="p654_w363" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="178.914" y="427.234" base="432.93" width="15.5966" height="7.552">face.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

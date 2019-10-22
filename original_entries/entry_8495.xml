@@ -1,0 +1,316 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+love
+</orth>
+<form type="variant">
+<pron>
+/l*Vv/
+</pron>
+</form>
+<form type="inflected">
+loves, loving, loved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To love someone 
+</seg>
+pomeni &ccaron;utiti ljubezen ali spolno privla&ccaron;nost do nekoga in je za tistega &ccaron;loveka ta oseba zelo pomembna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I do not think I love him enough to marry him.
+</quote>
+<quote>
+&lsquo;I love you, Colin.&rsquo;&mdash;&lsquo;I love you too, Janet.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+loves someone
+</seg>
+, mu je tista oseba zelo pri srcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti rad, ljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a little baby to love.
+</quote>
+<quote>
+They make us feel safe and secure, loved and wanted.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+loves something
+</seg>
+, ima nekaj zelo rad in &ccaron;uti, da je pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rad imeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They don&apos;t love their village in the way that their parents did.
+</quote>
+<quote>
+Sarah loves playing the flute.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Love 
+</seg>
+je zelo mo&ccaron;no &ccaron;ustvo pripadnosti ali ljubezni do nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubezen, naklonjenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her love for him never wavered.
+</quote>
+<quote>
+You are not marrying for love.
+</quote>
+<quote>
+...a man with a genuine love of literature.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+would love to do something
+</seg>
+, si zelo &zcaron;eli nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zelo rad nekaj delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I would love a photograph of Edith Evans.
+</quote>
+<quote>
+Posy said she&apos;d love to stay.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Nekateri ljudje uporabljajo besedo 
+<seg type="lemma">
+love 
+</seg>
+kot ljubezniv na&ccaron;in ogovarjanja drugih oseb; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sr&ccaron;ek, ljub&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thanks a lot, love.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+love 
+</seg>
+ali 
+<seg type="variant">
+love from
+</seg>
+, ki mu sledi na&scaron;e ime, lahko uporabimo na koncu neuradnega pisma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lep pozdrav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hope you are all well at home. Love, Dan.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<def xml:lang="sl">
+Pri tenisu izid 
+<seg type="lemma">
+love 
+</seg>
+pomeni rezultat ni&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+loving
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+in love with someone
+</seg>
+, &ccaron;uti ljubezen ali spolno privla&ccaron;nost do nekoga in ve, da je ta oseba zanj zelo pomembna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti zaljubljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are in love with each other and wish to marry.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To fall in love with someone 
+</seg>
+pomeni za&ccaron;eti nekoga ljubiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaljubiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I fell madly in love with Ellen the first time I saw her.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar dve osebi 
+<seg type="lemma">
+make love
+</seg>
+, imata spolni odnos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubiti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a love-hate relationship with someone or something 
+</seg>
+pomeni &ccaron;utiti mo&ccaron;na &ccaron;ustva tako ljubezni kot sovra&scaron;tva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odnos, v katerem se prepletata ljubezen in sovra&scaron;tvo
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pretty
+</orth>
+<form type="variant">
+<pron>
+/pr*Iti1/
+</pron>
+</form>
+<form type="inflected">
+prettier, prettiest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pretty 
+</seg>
+pomeni privla&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;eden, lep; ljubek, prikupen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Who&apos;s that pretty little girl?
+</quote>
+<quote>
+The wallpaper was very pretty, covered in roses.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+pretty 
+</seg>
+lahko uporabimo pred pridevnikom ali prislovom v pomenu 
+<seg type="lemma">
+quite
+</seg>
+ ali 
+<seg type="lemma">
+rather
+</seg>
+; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+precej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I thought it was pretty good.
+</quote>
+<quote>
+I&apos;m pretty certain she enjoys it.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pretty much 
+</seg>
+ali 
+<FV>
+pretty well 
+</FV>
+pomeni skoraj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bolj ali manj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt pretty much the same.
+</quote>
+<quote>
+She hated pretty well all of them.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

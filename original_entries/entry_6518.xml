@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hangover
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;N@Uv@/
+</pron>
+</form>
+<form type="inflected">
+hangovers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+a hangover 
+</seg>
+opisujemo glavobol in slabost, ki se pojavita po popitju prevelike koli&ccaron;ine alkohola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ma&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hangover from the past 
+</seg>
+je posledica prepri&ccaron;anj, ki so jih ljudje imeli nekdaj, vendar niso ve&ccaron; v splo&scaron;ni rabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preostanek, ostanek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a hangover from earlier, more primitive times.
+</quote>
+</seg>
+</sense>
+</entry>

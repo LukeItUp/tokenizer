@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+list
+</orth>
+<form type="variant">
+<pron>
+/l*Ist/
+</pron>
+</form>
+<form type="inflected">
+lists, listing, listed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A list 
+</seg>
+je vrsta stvari, ki so napisane druga pod drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Look at your list of things to be mended.
+</quote>
+<quote>
+Find out all their names and make a list.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+short-list
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To list a set of things 
+</seg>
+pomeni omeniti vrsto stvari drugo za drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&scaron;teti, navesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a label on each case listing its contents.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+listed
+</seg>
+, je vklju&ccaron;eno kot to&ccaron;ka na seznamu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is still listed in the files by his code name, the Jackal.
+</quote>
+</seg>
+</sense>
+</entry>

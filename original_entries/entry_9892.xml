@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+opt
+</orth>
+<form type="variant">
+<pron>
+/*Qpt/
+</pron>
+</form>
+<form type="inflected">
+opts, opting, opted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To opt for something 
+</seg>
+pomeni izbrati nekaj. 
+<seg type="lemma">
+To opt to do something 
+</seg>
+pomeni, da se odlo&ccaron;imo, da bomo nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My father left the choice of career to me, and I opted for law.
+</quote>
+<quote>
+...those who opt to cooperate with the regime.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+opt out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To opt out of something 
+</seg>
+pomeni odlo&ccaron;iti se, da pri ne&ccaron;em ne bomo sodelovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umakniti se, ne sodelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to opt out of political decision-making.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

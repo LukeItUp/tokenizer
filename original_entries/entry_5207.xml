@@ -1,0 +1,36 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+faulty
+</orth>
+<form type="variant">
+<pron>
+/f*O*:lti1/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stroj ali del opreme, ki je 
+<seg type="lemma">
+faulty
+</seg>
+, ne deluje pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okvarjen, nepopoln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a faulty transformer.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cart
+</orth>
+<form type="variant">
+<pron>
+/k*A*:t/
+</pron>
+</form>
+<form type="inflected">
+carts, carting, carted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cart 
+</seg>
+je starinsko leseno vozilo; navadno ga vle&ccaron;e &zcaron;ival. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voz, ko&ccaron;ija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cart loaded with hay.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cart things or people somewhere 
+</seg>
+pomeni stvari ali ljudi nekam prenesti ali prepeljati, najve&ccaron;krat s te&zcaron;avo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zvle&ccaron;i, spraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It took several trips to cart it all back up the stairs.
+</quote>
+<quote>
+He was carted off to hospital.
+</quote>
+</seg>
+</sense>
+</entry>

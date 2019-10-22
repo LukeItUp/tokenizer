@@ -1,0 +1,186 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sling
+</orth>
+<form type="variant">
+<pron>
+/sl*IN/
+</pron>
+</form>
+<form type="inflected">
+slings, slinging, slung
+</form>
+<form type="variant">
+<pron>
+/sl*VN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sling something somewhere 
+</seg>
+pomeni nekaj vre&ccaron;i nekam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalu&ccaron;ati, vre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She slung the book across the room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sling something over one&apos;s shoulder or over a chair 
+</seg>
+pomeni nekaj hitro in malomarno dati nekam, da tam visi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Patrick gets his bag and slings it over his shoulder.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+slung
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His few bits of clothing were slung over a string on the wall.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sling something between two points 
+</seg>
+pomeni nekaj, na primer vrv, pritrditi na dve to&ccaron;ki, tako da ohlapno visi med njima. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohlapno napeti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+slung
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Pieces of meat were hanging to dry over a rope slung on the wall.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sling 
+</seg>
+je predmet iz vrvi, jermenov ali kosa blaga, s katerim nosimo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nosilna zanka, jermen prek rame, kenguruj&ccaron;ek (za dojen&ccaron;ka)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mothers carry their babies around with them in slings.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sling 
+</seg>
+je tudi kos blaga, ki si ga zave&zcaron;emo okoli vratu, da na njem po&ccaron;iva po&scaron;kodovana roka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nosilna preveza, ruta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His arm was in a sling.
+</quote>
+</seg>
+</sense>
+</entry>

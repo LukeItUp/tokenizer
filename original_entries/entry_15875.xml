@@ -1,0 +1,197 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weigh
+</orth>
+<form type="variant">
+<pron>
+/w*e*I/
+</pron>
+</form>
+<form type="inflected">
+weighs, weighing, weighed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+weighs a particular amount
+</seg>
+, je te&zcaron;ko toliko, kot dolo&ccaron;a omenjena koli&ccaron;ina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tehtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It weighs ten tons.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weigh something 
+</seg>
+pomeni s tehtnico izmeriti, kako te&zcaron;ko je nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stehtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was weighing a parcel.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+weigh down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To be weighed down by something 
+</seg>
+pomeni nositi veliko ne&ccaron;esa zelo te&zcaron;kega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obte&zcaron;iti, obremeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was weighed down with weapons and equipment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is weighed down by a difficulty
+</seg>
+, ga neka te&zcaron;ava spravlja v hude skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;ati skrbi
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+weigh on 
+<VS>
+ali 
+</VS>
+<VV>
+weigh upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neka te&zcaron;ava 
+<seg type="lemma">
+weighs on someone 
+</seg>
+ali 
+<seg type="variant">
+weighs upon someone
+</seg>
+, nekoga spravlja v skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritiskati, potreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her absence began to weigh upon me.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+weigh up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To weigh up a situation 
+</seg>
+pomeni pazljivo razmisliti o razli&ccaron;nih vpletenih dejavnikih v dolo&ccaron;enem polo&zcaron;aju, preden se odlo&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretehtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have to weigh up in your mind whether to punish him or not.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To weigh someone up 
+</seg>
+pomeni o nekom razmisliti in si o njem ustvariti mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretehtati, oceniti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

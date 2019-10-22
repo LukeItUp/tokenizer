@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+summon
+</orth>
+<form type="variant">
+<pron>
+/s*Vm@n/
+</pron>
+</form>
+<form type="inflected">
+summons, summoning, summoned.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To summon someone 
+</seg>
+pomeni ukazati nekomu, naj pride k nam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He summoned his secretary.
+</quote>
+<quote>
+He was summoned to report on the accident.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+summon up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To summon up one&apos;s strength or courage 
+</seg>
+pomeni potruditi se, da smo mo&ccaron;ni ali pogumni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He eventually summoned up the courage to ask them if Melanie was all right.
+</quote>
+<quote>
+...if you can&apos;t summon up enough energy to get up early.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

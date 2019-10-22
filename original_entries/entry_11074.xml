@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+printer
+</orth>
+<form type="variant">
+<pron>
+/pr*Int@/
+</pron>
+</form>
+<form type="inflected">
+printers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A printer 
+</seg>
+je oseba ali podjetje, ki tiska knjige, &ccaron;asopise ali letake. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiskar, tiskarna
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A printer 
+</seg>
+je tudi stroj, ki natisne podatke iz ra&ccaron;unalnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiskalnik
+</quote>
+</cit>
+</sense>
+</entry>

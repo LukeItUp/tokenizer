@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+solvent
+</orth>
+<form type="variant">
+<pron>
+/s*Qlv@nt/
+</pron>
+</form>
+<form type="inflected">
+solvents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je oseba ali podjetje 
+<seg type="lemma">
+solvent
+</seg>
+, ima dovolj denarja, da pla&ccaron;a vse svoje dolgove; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+solventen
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A solvent 
+</seg>
+je teko&ccaron;ina, ki lahko topi druge snovi; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+topilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...rubber solvents.
+</quote>
+<quote>
+...grease solvent.
+</quote>
+</seg>
+</sense>
+</entry>

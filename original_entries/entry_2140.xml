@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ceramic
+</orth>
+<form type="variant">
+<pron>
+/sI1r*&ae;mIk/
+</pron>
+</form>
+<form type="inflected">
+ceramics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvari, ki so 
+<seg type="lemma">
+ceramic
+</seg>
+, so izdelane iz &zcaron;gane gline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kerami&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ceramic tiles.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ceramics 
+</seg>
+so izdelki iz keramike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+keramika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Chinese ceramics.
+</quote>
+</seg>
+</sense>
+</entry>

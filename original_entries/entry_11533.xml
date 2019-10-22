@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+raven
+</orth>
+<form type="variant">
+<pron>
+/r*e*Iv@0n/
+</pron>
+</form>
+<form type="inflected">
+ravens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A raven 
+</seg>
+je velika &ccaron;rna ptica z globokim raskavim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krokar, vran
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Lasje, ki so 
+<seg type="lemma">
+raven
+</seg>
+, so ble&scaron;&ccaron;e&ccaron;i in &ccaron;rni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vranje &ccaron;rn
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a raven-haired girl.
+</quote>
+</seg>
+</sense>
+</entry>

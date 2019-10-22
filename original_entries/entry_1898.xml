@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+calculation
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;lkj@4l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+calculations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A calculation 
+</seg>
+je nekaj, o &ccaron;emer razmi&scaron;ljamo, in kar matemati&ccaron;no izra&ccaron;unamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izra&ccaron;un, cenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I did a rapid calculation.
+</quote>
+<quote>
+...a technique for quick calculation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Calculation 
+</seg>
+je ved&ecirc;nje, zna&ccaron;ilno za tiste, ki mislijo le nase in ne na druge ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prera&ccaron;unljivost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His behaviour seems free of all calculation.
+</quote>
+</seg>
+</sense>
+</entry>

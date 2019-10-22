@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chicken
+</orth>
+<form type="variant">
+<pron>
+/tS*IkIn/
+</pron>
+</form>
+<form type="inflected">
+chickens, chickening, chickened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chicken 
+</seg>
+je ptica; ljudje jo gojijo zaradi jajc in mesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pi&scaron;&ccaron;anec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Chicken 
+</seg>
+je pi&scaron;&ccaron;an&ccaron;je meso. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pi&scaron;&ccaron;anec
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+chicken out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To chicken out of something 
+</seg>
+pomeni skleniti, da ne&ccaron;esa ne bomo storili, ker nas je strah; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ustra&scaron;iti se, stisniti rep med noge
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

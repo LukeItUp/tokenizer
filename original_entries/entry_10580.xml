@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pilot
+</orth>
+<form type="variant">
+<pron>
+/p*a*Il@t/
+</pron>
+</form>
+<form type="inflected">
+pilots, piloting, piloted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pilot 
+</seg>
+je &ccaron;lovek, usposobljen za upravljanje letala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pilot
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pilot an aircraft 
+</seg>
+pomeni upravljati letalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pilotirati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pilot a new law or scheme 
+</seg>
+pomeni uvesti nov zakon ali program. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i uvedbo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was keen to see through the Bill which John Silkin was piloting.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je preskus projekta ali izdelka 
+<seg type="lemma">
+pilot
+</seg>
+, je majhen, da bi videli, ali bo uspe&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This year we are trying a pilot scheme whereby the university leases one or two houses for students.
+</quote>
+</seg>
+</sense>
+</entry>

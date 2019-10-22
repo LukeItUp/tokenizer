@@ -1,0 +1,33 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p60_s64988" id="p60_w99" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.0518" y="163.874" base="169.57" width="19.9886" height="7.552">undid</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p60_s64989" id="p60_w100" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="118.18" y="163.874" base="169.57" width="9.99072" height="7.552">his</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p60_s64990" id="p60_w101" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.309" y="163.874" base="169.57" width="33.9854" height="7.552">shoelaces.</TOKEN>
+</seg>
+<TOKEN sid="p60_s64992" id="p60_w103" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="173.1" y="163.874" base="169.57" width="15.6002" height="7.568">bent</TOKEN>
+<TOKEN sid="p60_s64993" id="p60_w104" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.84" y="165.654" base="169.57" width="14.5683" height="5.192">PRED</TOKEN>
+<TOKEN sid="p60_s64994" id="p60_w105" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="206.882" y="165.654" base="169.57" width="10.447" height="5.192">ADJ</TOKEN>
+<ref>
+<TOKEN sid="p60_s64995" id="p60_w106" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.47" y="163.874" base="169.57" width="14.3971" height="7.552">Dan</TOKEN>
+<TOKEN sid="p60_s64996" id="p60_w107" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="236.006" y="163.874" base="169.57" width="5.59296" height="7.552">is</TOKEN>
+</ref>
+<TOKEN sid="p60_s64997" id="p60_w108" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="172.944" base="178.64" width="14.801" height="7.552">bent</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p60_s64998" id="p60_w109" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.6515" y="172.944" base="178.64" width="14.801" height="7.552">over</TOKEN>
+<TOKEN sid="p60_s64999" id="p60_w110" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.123" y="172.944" base="178.64" width="10.7986" height="7.552">the</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

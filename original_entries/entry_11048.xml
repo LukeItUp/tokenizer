@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prickle
+</orth>
+<form type="variant">
+<pron>
+/pr*Ik@0l/
+</pron>
+</form>
+<form type="inflected">
+prickles, prickling, prickled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Prickles 
+</seg>
+so majhne, ostre konice, ki &scaron;trlijo iz listov ali stebel rastlin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bodica, trn
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ko&zcaron;a 
+<seg type="lemma">
+prickles
+</seg>
+, imamo ob&ccaron;utek, kot da bi se nam v ko&zcaron;o zabadalo veliko majhnih, drobnih konic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;emeti, pikati; srbeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shirt I was wearing made my skin prickle.
+</quote>
+<quote>
+My skin prickled with fear.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I felt a prickle of pleasure.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

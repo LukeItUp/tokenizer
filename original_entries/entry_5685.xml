@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fourth
+</orth>
+<form type="variant">
+<pron>
+/f*O*:T/
+</pron>
+</form>
+<form type="inflected">
+fourths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The fourth item 
+</seg>
+je v nekem zaporedju tisti element, ki je na &ccaron;etrtem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;etrti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fourth 
+</seg>
+je eden od &scaron;tirih enakih delov ne&ccaron;esa; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;etrtina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They conceded him three-fourths or more of the spending cuts he sought.
+</quote>
+</seg>
+</sense>
+</entry>

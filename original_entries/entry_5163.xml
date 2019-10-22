@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+farm
+</orth>
+<form type="variant">
+<pron>
+/f*A*:m/
+</pron>
+</form>
+<form type="inflected">
+farms, farming, farmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A farm 
+</seg>
+je zemlji&scaron;&ccaron;e, na katerem so polja in stavbe, kjer gojijo polj&scaron;&ccaron;ine ali redijo &zcaron;ivino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kmetija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My father worked on a farm.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To farm an area of land 
+</seg>
+pomeni na nekem ozemlju vzgajati polj&scaron;&ccaron;ine ali rediti &zcaron;ivino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kmetovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hill land is farmed by Mike Keeble.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+farming
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an economy based on farming and tourism.
+</quote>
+<quote>
+...sheep farming.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

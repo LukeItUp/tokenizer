@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+periodical
+</orth>
+<form type="variant">
+<pron>
+/p*I*@ri1*QdIk@0l/
+</pron>
+</form>
+<form type="inflected">
+periodicals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A periodical 
+</seg>
+je revija, zlasti z resno ali znanstveno vsebino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+revija
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Periodical 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+periodic
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;asen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These mood shifts are periodical and recurring.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+periodically
+</orth>
+<form type="variant">
+<pron>
+/p*I*@ri1*QdIk@0li1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We met them periodically during the summer break.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

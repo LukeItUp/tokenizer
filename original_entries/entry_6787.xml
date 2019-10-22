@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hilt
+</orth>
+<form type="variant">
+<pron>
+/h*Ilt/
+</pron>
+</form>
+<form type="inflected">
+hilts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The hilt of a sword or knife 
+</seg>
+je ro&ccaron;aj me&ccaron;a ali no&zcaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;aj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekoga podpiramo ali branimo 
+<seg type="lemma">
+to the hilt
+</seg>
+, mu damo toliko podpore, kolikor moremo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+z vsemi mo&ccaron;mi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had backed me to the hilt in all my projects.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

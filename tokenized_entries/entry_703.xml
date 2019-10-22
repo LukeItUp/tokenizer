@@ -5,32 +5,32 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p34_s36489" id="p34_w460" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.69" y="563.948" base="569.11" width="24.1316" height="6.844">/ÊÂm6/;</TOKEN>
+<TOKEN sid="p34_s36489" id="p34_w460" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.69" y="563.948" base="569.11" width="24.1316" height="6.844">/&#202;&#194;m6/;</TOKEN>
 </pron>
 <TOKEN sid="p34_s36490" id="p34_w461" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="115.082" y="563.414" base="569.11" width="4.0032" height="7.552">v</TOKEN>
 </form>
-<form type="variant">
+<SN>
 <TOKEN sid="p34_s36491" id="p34_w462" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.345" y="563.414" base="569.11" width="29.587" height="7.552">ameri{ki</TOKEN>
 <TOKEN sid="p34_s36492" id="p34_w463" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.192" y="563.414" base="569.11" width="34.3879" height="7.552">angle{~ini</TOKEN>
 <TOKEN sid="p34_s36493" id="p34_w464" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.84" y="563.414" base="569.11" width="23.994" height="7.552">pi{emo</TOKEN>
 <TOKEN sid="p34_s36494" id="p34_w465" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="220.1" y="563.77" base="569.11" width="21.5016" height="7.08">armor.</TOKEN>
-<orth>
+<SV>
 <TOKEN sid="p34_s36496" id="p34_w467" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="66.77" y="574.274" base="578.19" width="27.2141" height="5.192">UNCOUNT</TOKEN>
-</orth>
-</form>
+</SV>
+<TOKEN sid="p34_s36497" id="p34_w468" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="95.2983" y="574.274" base="578.19" width="4.12335" height="5.192">N</TOKEN>
+</SN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-<TOKEN sid="p34_s36497" id="p34_w468" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="95.2983" y="574.274" base="578.19" width="4.12335" height="5.192">N</TOKEN>
 <TOKEN sid="p34_s36498" id="p34_w469" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.33" y="572.494" base="578.19" width="26.7912" height="7.552">Armour</TOKEN>
+<TOKEN sid="p34_s36499" id="p34_w470" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.04" y="572.494" base="578.19" width="5.99616" height="7.552">je</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-<TOKEN sid="p34_s36499" id="p34_w470" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.04" y="572.494" base="578.19" width="5.99616" height="7.552">je</TOKEN>
-</seg>
 <TOKEN sid="p34_s36500" id="p34_w471" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="137.955" y="572.494" base="578.19" width="30.7915" height="7.552">kovinsko</TOKEN>
+</seg>
 <TOKEN sid="p34_s36501" id="p34_w472" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.665" y="572.494" base="578.19" width="29.1917" height="7.552">obla~ilo,</TOKEN>
 <TOKEN sid="p34_s36502" id="p34_w473" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.776" y="572.494" base="578.19" width="6.79536" height="7.552">ki</TOKEN>
 <TOKEN sid="p34_s36503" id="p34_w474" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.49" y="572.494" base="578.19" width="8.00496" height="7.552">ga</TOKEN>
@@ -39,31 +39,31 @@
 <TOKEN sid="p34_s36506" id="p34_w477" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.738" y="581.564" base="587.26" width="7.5996" height="7.552">za</TOKEN>
 <TOKEN sid="p34_s36507" id="p34_w478" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.332" y="581.564" base="587.26" width="25.578" height="7.552">za{~ito.</TOKEN>
 <TOKEN sid="p34_s36509" id="p34_w480" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.07" y="581.564" base="587.26" width="20.7792" height="7.552">oklep,</TOKEN>
+<TOKEN sid="p34_s36510" id="p34_w481" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.842" y="581.564" base="587.26" width="18.7891" height="7.552">vojna</TOKEN>
 </def>
 <cit type="translationEquivalent">
 <quote>
-<TOKEN sid="p34_s36510" id="p34_w481" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.842" y="581.564" base="587.26" width="18.7891" height="7.552">vojna</TOKEN>
 <TOKEN sid="p34_s36511" id="p34_w482" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.624" y="581.564" base="587.26" width="25.4354" height="7.552">oprema</TOKEN>
 <TOKEN sid="p34_s36513" id="p34_w484" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="222.65" y="583.344" base="587.26" width="13.4605" height="5.192">SING</TOKEN>
+<TOKEN sid="p34_s36514" id="p34_w485" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="237.478" y="583.344" base="587.26" width="4.12335" height="5.192">N</TOKEN>
 </quote>
 </cit>
 </sense>
 <sense n="2">
 <gramGrp>
 <pos>
-<TOKEN sid="p34_s36514" id="p34_w485" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="237.478" y="583.344" base="587.26" width="4.12335" height="5.192">N</TOKEN>
 <TOKEN sid="p34_s36515" id="p34_w486" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="60.1801" y="592.424" base="596.34" width="10.7187" height="5.192">with</TOKEN>
-<seg>
 <TOKEN sid="p34_s36516" id="p34_w487" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="72.4536" y="592.424" base="596.34" width="14.0253" height="5.192">SUPP</TOKEN>
-</seg>
+<seg>
 <TOKEN sid="p34_s36517" id="p34_w488" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.74" y="590.644" base="596.34" width="26.7912" height="7.552">Armour</TOKEN>
+</seg>
+<TOKEN sid="p34_s36518" id="p34_w489" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.8" y="590.644" base="596.34" width="5.99688" height="7.552">je</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-<TOKEN sid="p34_s36518" id="p34_w489" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.8" y="590.644" base="596.34" width="5.99688" height="7.552">je</TOKEN>
-</seg>
 <TOKEN sid="p34_s36519" id="p34_w490" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.056" y="590.644" base="596.34" width="13.9946" height="7.552">tudi</TOKEN>
+</seg>
 <TOKEN sid="p34_s36520" id="p34_w491" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="142.31" y="590.644" base="596.34" width="10.2557" height="7.552">trd</TOKEN>
 <TOKEN sid="p34_s36521" id="p34_w492" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.825" y="590.644" base="596.34" width="24.9631" height="7.552">pokrov,</TOKEN>
 <TOKEN sid="p34_s36522" id="p34_w493" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.048" y="590.644" base="596.34" width="6.79608" height="7.552">ki</TOKEN>
@@ -73,19 +73,20 @@
 <TOKEN sid="p34_s36526" id="p34_w497" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.8418" y="599.724" base="605.42" width="15.4519" height="7.552">pred</TOKEN>
 <TOKEN sid="p34_s36527" id="p34_w498" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.363" y="599.724" base="605.42" width="35.591" height="7.552">napadalci.</TOKEN>
 <TOKEN sid="p34_s36529" id="p34_w500" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.33" y="599.724" base="605.42" width="20.7972" height="7.552">oklep;</TOKEN>
+<TOKEN sid="p34_s36530" id="p34_w501" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.2" y="599.724" base="605.42" width="15.5995" height="7.552">&#8230;an</TOKEN>
 </def>
 <cit type="translationEquivalent">
 <quote>
-<TOKEN sid="p34_s36530" id="p34_w501" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.2" y="599.724" base="605.42" width="15.5995" height="7.552">…an</TOKEN>
+<TOKEN sid="p34_s36531" id="p34_w502" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.869" y="599.724" base="605.42" width="25.1928" height="7.552">armour</TOKEN>
 </quote>
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p34_s36531" id="p34_w502" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.869" y="599.724" base="605.42" width="25.1928" height="7.552">armour</TOKEN>
 <TOKEN sid="p34_s36532" id="p34_w503" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.131" y="599.724" base="605.42" width="6.39936" height="7.552">of</TOKEN>
 <TOKEN sid="p34_s36533" id="p34_w504" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="221.6" y="599.724" base="605.42" width="19.9958" height="7.552">horny</TOKEN>
 <TOKEN sid="p34_s36534" id="p34_w505" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1799" y="608.804" base="614.5" width="21.9917" height="7.552">scales.</TOKEN>
 <TOKEN sid="p34_s36535" id="p34_w506" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="64.102" base="70.51" width="41.7103" height="8.514">armoured</TOKEN>
+<TOKEN sid="p34_s36536" id="p34_w507" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.48" y="65.348" base="70.51" width="29.7816" height="6.844">/&#202;&#194;m6d/;</TOKEN>
 </quote>
 </seg>
 </sense>

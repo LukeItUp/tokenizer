@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+payment
+</orth>
+<form type="variant">
+<pron>
+/p*e*Im@2nt/
+</pron>
+</form>
+<form type="inflected">
+payments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Payment 
+</seg>
+je dejanje, pri katerem nekomu pla&ccaron;amo ali od njega sprejmemo pla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Was the payment of rent optional?
+</quote>
+<quote>
+When can I expect payment?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A payment 
+</seg>
+je znesek denarja, ki je nekomu izpla&ccaron;an. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ilo, znesek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some said that social security payments were too high.
+</quote>
+</seg>
+</sense>
+</entry>

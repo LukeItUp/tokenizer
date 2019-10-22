@@ -1,0 +1,180 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+man
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;n/
+</pron>
+</form>
+<form type="inflected">
+men
+</form>
+<form type="variant">
+<pron>
+/m*en/
+</pron>
+;
+</form>
+<form type="inflected">
+mans, manning, manned.
+</form>
+<IN>
+<IH>
+Men 
+</IH>
+<IC>
+je mno&zcaron;inska oblika samostalnika. 
+</IC>
+<IH>
+Mans 
+</IH>
+<IC>
+je oblika za 3. osebo ednine sedanjega &ccaron;asa.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A man 
+</seg>
+je odrasel &ccaron;lovek mo&scaron;kega spola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Larry was a handsome man in his early fifties.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+man 
+</seg>
+v&ccaron;asih uporabimo, ko govorimo o &ccaron;love&scaron;tvu nasploh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lovek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Why does man seem to have more diseases than animals?
+</quote>
+<quote>
+...a deserted island where no man could live.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V vojski so 
+<seg type="lemma">
+men 
+</seg>
+navadni vojaki, ne pa &ccaron;astniki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vojaki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In all, some 70,000 officers and men died.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To man a machine 
+</seg>
+pomeni biti ob stroju in ga upravljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati (na, pri)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They manned the phones all through the night.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+manned
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Pogovor, ki je 
+<seg type="lemma">
+man-to-man
+</seg>
+, je iskren in brez ovinkarjenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkrit
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+the man in the street: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+street
+</ref>
+</xr>
+</B>
+</entry>

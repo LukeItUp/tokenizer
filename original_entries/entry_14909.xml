@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tug
+</orth>
+<form type="variant">
+<pron>
+/t*Vg/
+</pron>
+</form>
+<form type="inflected">
+tugs, tugging, tugged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tug something 
+</seg>
+ali 
+<seg type="lemma">
+to tug at something 
+</seg>
+pomeni nekaj sunkovito potegniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tugged at the handle, and it came off in his hand.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tom felt a tug at his sleeve.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tug 
+</seg>
+je majhna mo&ccaron;na ladja, ki vle&ccaron;e velike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vla&ccaron;ilec
+</quote>
+</cit>
+</sense>
+</entry>

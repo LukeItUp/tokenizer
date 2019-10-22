@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wink
+</orth>
+<form type="variant">
+<pron>
+/w*INk/
+</pron>
+</form>
+<form type="inflected">
+winks, winking, winked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wink 
+</seg>
+pomeni na hitro zapreti oko, navadno v znamenje, da je nekaj &scaron;ala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pome&zcaron;ikniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Uncle John winked at me across the table.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;What a hostess!&rsquo; said Clarissa with a big wink at George.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Not to sleep a wink 
+</seg>
+pomeni ostati buden in sploh ne spati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne zatisniti o&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I never slept a wink that night.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

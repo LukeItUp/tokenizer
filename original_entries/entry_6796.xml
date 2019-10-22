@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hinge
+</orth>
+<form type="variant">
+<pron>
+/h*IndZ/
+</pron>
+</form>
+<form type="inflected">
+hinges, hinging, hinged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hinge 
+</seg>
+je premi&ccaron;en zgib iz kovine, lesa ali plastike, ki spaja dva predmeta tako, da eden od njiju lahko prosto niha. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The door was ripped from its hinges.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hinge on 
+<VS>
+ali 
+</VS>
+<VV>
+hinge upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+hinges on a fact or event 
+</seg>
+ali 
+<seg type="variant">
+hinges upon a fact or event
+</seg>
+, je odvisen od nekega dejstva ali dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti odvisen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everything hinged on what happened to the United States economy.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

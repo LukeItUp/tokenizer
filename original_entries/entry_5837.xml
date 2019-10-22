@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fund
+</orth>
+<form type="variant">
+<pron>
+/f*Vnd/
+</pron>
+</form>
+<form type="inflected">
+funds, funding, funded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Funds 
+</seg>
+so zneski, ki so na voljo na tro&scaron;enje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kapital, denar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...how to raise funds for a commercial project.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fund 
+</seg>
+je znesek, zbran v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made a generous donation to our campaign fund.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a fund of something 
+</seg>
+pomeni imeti veliko ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a large fund of scientific knowledge.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fund something 
+</seg>
+pomeni dati denar za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+financirati, vlo&zcaron;iti denar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The work is being funded both by governments and private industry.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+funding
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They provide funding in the form of loans.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

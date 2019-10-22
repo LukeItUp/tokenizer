@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lamb
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;m/
+</pron>
+</form>
+<form type="inflected">
+lambs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lamb 
+</seg>
+je mlada ovca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jagnje, ov&ccaron;ica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Lamb 
+</seg>
+je meso ovce ali jagnjeta, ki ga jemo za hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jagnjetina, ov&ccaron;etina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...roast lamb.
+</quote>
+</seg>
+</sense>
+</entry>

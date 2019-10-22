@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+temperamental
+</orth>
+<form type="variant">
+<pron>
+/t*emp@0r@m*ent@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+temperamental
+</seg>
+, pogosto in nepri&ccaron;akovano prehaja iz enega razpolo&zcaron;enja v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+muhast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a temperamental Polish actress.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+temperamental
+</seg>
+, se nana&scaron;a na &ccaron;lovekov zna&ccaron;aj ali naravo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zna&ccaron;ajski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Temperamental differences exist between them.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+temperamentally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My father wasn&apos;t temperamentally suited for business.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

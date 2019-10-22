@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ripe
+</orth>
+<form type="variant">
+<pron>
+/r*a*Ip/
+</pron>
+</form>
+<form type="inflected">
+riper, ripest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Sadje ali &zcaron;ito, ki je 
+<seg type="lemma">
+ripe
+</seg>
+, je zraslo dovolj in je primerno, da ga pojemo ali po&zcaron;anjemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The pears are heavy and ripe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+ripe for a change
+</seg>
+, je pripravljeno na spremembo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our people are ripe for freedom.
+</quote>
+<quote>
+The nation was ripe for collapse.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+the time is ripe 
+</seg>
+pomeni, da je pri&scaron;el primeren &ccaron;as za dolo&ccaron;en dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;as je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The time was ripe to break his silence.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor &zcaron;ivi 
+<seg type="lemma">
+to a ripe old age
+</seg>
+, je &zcaron;e zelo star. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+visoka starost
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

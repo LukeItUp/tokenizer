@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p5_s4461" id="p5_w163" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="92.84" y="228.038" base="233.2" width="26.5105" height="6.844">/æksËd6</TOKEN>
+<TOKEN sid="p5_s4461" id="p5_w163" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="92.84" y="228.038" base="233.2" width="26.5105" height="6.844">/&#230;ks&#203;d6</TOKEN>
 <TOKEN sid="p5_s4462" id="p5_w164" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="119.68" y="227.4" base="230.81" width="2.39636" height="4.52176">2</TOKEN>
 <TOKEN sid="p5_s4463" id="p5_w165" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="122.31" y="228.038" base="233.2" width="12.1516" height="6.844">nt/,</TOKEN>
 </pron>
@@ -90,66 +90,67 @@
 <TOKEN sid="p5_s4513" id="p5_w215" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.28" y="272.904" base="278.6" width="29.9995" height="7.552">nezgoda;</TOKEN>
 </quote>
 </cit>
-<ref type="picture">
+<QP>
 <TOKEN sid="p5_s4514" id="p5_w216" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="124.879" y="272.904" base="278.6" width="12.3941" height="7.552">glej</TOKEN>
 <TOKEN sid="p5_s4515" id="p5_w217" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.872" y="272.904" base="278.6" width="28.7899" height="7.552">slikovno</TOKEN>
 <TOKEN sid="p5_s4516" id="p5_w218" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="173.261" y="272.904" base="278.6" width="24.3922" height="7.552">prilogo</TOKEN>
-<ref>
+<QZ>
 <TOKEN sid="p5_s4517" id="p5_w219" font-name="ssexcelsior" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="201.29" y="274.328" base="278.6" width="26.1116" height="5.664">HEALTH.</TOKEN>
-</ref>
-</ref>
+</QZ>
+<TOKEN sid="p5_s4518" id="p5_w220" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="231" y="272.904" base="278.6" width="12.8002" height="7.552">She</TOKEN>
+</QP>
 <seg type="example">
 <quote>
-<TOKEN sid="p5_s4518" id="p5_w220" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="231" y="272.904" base="278.6" width="12.8002" height="7.552">She</TOKEN>
 <TOKEN sid="p5_s4519" id="p5_w221" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="281.974" base="287.67" width="13.055" height="7.552">was</TOKEN>
 <TOKEN sid="p5_s4520" id="p5_w222" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.9742" y="281.974" base="287.67" width="19.2348" height="7.552">killed</TOKEN>
 <TOKEN sid="p5_s4521" id="p5_w223" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="97.7382" y="281.974" base="287.67" width="6.72552" height="7.552">in</TOKEN>
 <TOKEN sid="p5_s4522" id="p5_w224" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="105.993" y="281.974" base="287.67" width="4.0032" height="7.552">a</TOKEN>
 <TOKEN sid="p5_s4523" id="p5_w225" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.526" y="281.974" base="287.67" width="20.1197" height="7.552">motor</TOKEN>
 <TOKEN sid="p5_s4524" id="p5_w226" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.174" y="281.974" base="287.67" width="30.2314" height="7.552">accident.</TOKEN>
+<TOKEN sid="p5_s4526" id="p5_w228" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="171.14" y="283.754" base="287.67" width="21.4706" height="5.192">PHRASE</TOKEN>
 </quote>
 </seg>
 </sense>
 <sense n="3">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
-<TOKEN sid="p5_s4526" id="p5_w228" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="171.14" y="283.754" base="287.67" width="21.4706" height="5.192">PHRASE</TOKEN>
+<TOKEN sid="p5_s4527" id="p5_w229" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.18" y="281.974" base="287.67" width="21.3178" height="7.552">Kadar</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-<TOKEN sid="p5_s4527" id="p5_w229" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.18" y="281.974" base="287.67" width="21.3178" height="7.552">Kadar</TOKEN>
 <TOKEN sid="p5_s4528" id="p5_w230" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.028" y="281.974" base="287.67" width="6.72624" height="7.552">se</TOKEN>
 <TOKEN sid="p5_s4529" id="p5_w231" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="225.285" y="281.974" base="287.67" width="18.517" height="7.552">nekaj</TOKEN>
 <TOKEN sid="p5_s4530" id="p5_w232" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="291.054" base="296.75" width="18.4003" height="7.552">zgodi</TOKEN>
-<seg type="lemma">
 <TOKEN sid="p5_s4531" id="p5_w233" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.7096" y="291.054" base="296.75" width="8.40168" height="7.552">by</TOKEN>
+<seg type="lemma">
 <TOKEN sid="p5_s4532" id="p5_w234" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.0416" y="291.054" base="296.75" width="30.7994" height="7.552">accident,</TOKEN>
-</seg>
 <TOKEN sid="p5_s4533" id="p5_w235" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.77" y="291.054" base="296.75" width="6.79536" height="7.552">se</TOKEN>
+</seg>
 <TOKEN sid="p5_s4534" id="p5_w236" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.494" y="291.054" base="296.75" width="18.3974" height="7.552">zgodi</TOKEN>
 <TOKEN sid="p5_s4535" id="p5_w237" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.82" y="291.054" base="296.75" width="8.40096" height="7.552">po</TOKEN>
 <TOKEN sid="p5_s4536" id="p5_w238" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.15" y="291.054" base="296.75" width="34.3814" height="7.552">naklju~ju.</TOKEN>
+<TOKEN sid="p5_s4538" id="p5_w240" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.63" y="291.054" base="296.75" width="8.40168" height="7.552">po</TOKEN>
 </def>
 <cit type="translationEquivalent">
 <quote>
-<TOKEN sid="p5_s4538" id="p5_w240" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.63" y="291.054" base="296.75" width="8.40168" height="7.552">po</TOKEN>
 <TOKEN sid="p5_s4539" id="p5_w241" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.961" y="291.054" base="296.75" width="25.8473" height="7.552">nesre~i,</TOKEN>
 <TOKEN sid="p5_s4540" id="p5_w242" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3902" y="300.134" base="305.83" width="8.40096" height="7.552">po</TOKEN>
 <TOKEN sid="p5_s4541" id="p5_w243" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="72.7898" y="300.134" base="305.83" width="34.3814" height="7.552">naklju~ju;</TOKEN>
+<TOKEN sid="p5_s4542" id="p5_w244" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.17" y="300.134" base="305.83" width="2.8008" height="7.552">I</TOKEN>
 </quote>
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p5_s4542" id="p5_w244" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.17" y="300.134" base="305.83" width="2.8008" height="7.552">I</TOKEN>
 <TOKEN sid="p5_s4543" id="p5_w245" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="113.971" y="300.134" base="305.83" width="14.801" height="7.552">only</TOKEN>
 <TOKEN sid="p5_s4544" id="p5_w246" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.772" y="300.134" base="305.83" width="17.6018" height="7.552">came</TOKEN>
 <TOKEN sid="p5_s4545" id="p5_w247" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.374" y="300.134" base="305.83" width="6.80328" height="7.552">to</TOKEN>
 <TOKEN sid="p5_s4546" id="p5_w248" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.178" y="300.134" base="305.83" width="33.1934" height="7.552">Liverpool</TOKEN>
 <TOKEN sid="p5_s4547" id="p5_w249" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.371" y="300.134" base="305.83" width="8.00568" height="7.552">by</TOKEN>
 <TOKEN sid="p5_s4548" id="p5_w250" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.377" y="300.134" base="305.83" width="30.7958" height="7.552">accident.</TOKEN>
+<TOKEN sid="p5_s4549" id="p5_w251" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="308.502" base="314.91" width="42.0472" height="8.514">accidental</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bible
+</orth>
+<form type="variant">
+<pron>
+/b*a*Ib@0l/
+</pron>
+</form>
+<form type="inflected">
+bibles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PROPER N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The Bible 
+</seg>
+je sveta knjiga kr&scaron;&ccaron;anske vere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+Sveto pismo, Biblija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a new translation of the Bible.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+biblical
+</orth>
+<form type="variant">
+<pron>
+/b*IblIk@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the biblical account of creation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bible 
+</seg>
+je kopija Biblije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biblija
+</quote>
+</cit>
+</sense>
+</entry>

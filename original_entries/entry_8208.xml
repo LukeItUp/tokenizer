@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+legacy
+</orth>
+<form type="variant">
+<pron>
+/l*eg@si1/
+</pron>
+</form>
+<form type="inflected">
+legacies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A legacy 
+</seg>
+je denar ali premo&zcaron;enje, ki nam ga nekdo zapusti, ko umre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapu&scaron;&ccaron;ina, dedi&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a legacy of five thousand pounds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The legacy of an event or period of history 
+</seg>
+je neposredna posledica nekega dogodka ali zgodovinskega obdobja in se nadaljuje &scaron;e po njegovem koncu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapu&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a legacy of pre-war unemployment.
+</quote>
+</seg>
+</sense>
+</entry>

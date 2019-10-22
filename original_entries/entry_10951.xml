@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+predictable
+</orth>
+<form type="variant">
+<pron>
+/pri1d*Ikt@b@0l/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+predictable
+</seg>
+, lahko vemo vnaprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napovedljiv, predvidljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The outcome is not always predictable.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+predictably
+</orth>
+<gramGrp>
+<pos>
+SENTENCE ADV 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Predictably, the affair went hopelessly wrong.
+</quote>
+<quote>
+...situations where everyone behaves predictably.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+predictability
+</orth>
+<form type="variant">
+<pron>
+/pr@1d*Ikt@b*IlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It happened month by month, with boring predictability.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

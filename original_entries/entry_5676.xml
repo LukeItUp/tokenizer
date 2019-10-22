@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+foundation
+</orth>
+<form type="variant">
+<pron>
+/faUnd*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+foundations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The foundation of something 
+</seg>
+je zamisel, odnos ali izku&scaron;nje, na katerih temelji neko prepri&ccaron;anje ali &zcaron;ivljenjski slog. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temelj, podlaga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Respect for the law is the foundation of civilised living.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The foundations of a building or other structure 
+</seg>
+so plasti opek ali betona pod zemljo, na katerih je zgrajena neka stavba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temelj
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nastane nova ustanova ali organizacija, ta dogodek lahko imenujemo 
+<seg type="lemma">
+its foundation
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustanovitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...since the foundation of the university.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A foundation 
+</seg>
+je organizacija, ki priskrbi denar v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the National Foundation for Educational Research.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zgodba, zamisel ali trditev 
+<seg type="lemma">
+has no foundation
+</seg>
+, tedaj z dejstvi ni mogo&ccaron;e dokazati, da je resni&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez podlage, neutemeljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The suggestion is absurd and without foundation.
+</quote>
+</seg>
+</sense>
+</entry>

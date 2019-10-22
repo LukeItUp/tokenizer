@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+developer
+</orth>
+<form type="variant">
+<pron>
+/dIv*el@7p@/
+</pron>
+</form>
+<form type="inflected">
+developers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A developer 
+</seg>
+je oseba ali podjetje, ki kupi zemlji&scaron;&ccaron;e, da bi na njem zgradilo nove stavbe ali tovarne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvajalec (stavbnih del), prenovitelj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je otrok 
+<seg type="lemma">
+an early developer 
+</seg>
+ali 
+<seg type="lemma">
+a late developer
+</seg>
+, se telesno ali du&scaron;evno razvije prej oziroma pozneje kot drugi otroci enake starosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodaj dorasel otrok; pozno dorasel otrok
+</quote>
+</cit>
+</sense>
+</entry>

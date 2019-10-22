@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vote
+</orth>
+<form type="variant">
+<pron>
+/v*@*Ut/
+</pron>
+</form>
+<form type="inflected">
+votes, voting, voted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s vote 
+</seg>
+je &ccaron;lovekova odlo&ccaron;itev na volitvah ali pri glasovanju na sestanku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an increase in votes for the Conservative Party.
+</quote>
+<quote>
+He will get my vote.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A group of people have a vote 
+</seg>
+ali 
+<seg type="lemma">
+take a vote
+</seg>
+, kadar se skupina ljudi odlo&ccaron;a tako, da dovoli vsakemu posamezniku v skupini povedati, kako bi izbral on. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let&apos;s have a vote.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The vote 
+</seg>
+je pri volitvah celotno &scaron;tevilo ljudi, ki z glasovanjem izrazijo svojo voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They captured 13 per cent of the vote.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To vote 
+</seg>
+pomeni izbrati ustreznega kandidata na volitvah ali sestanku, in sicer tako, da svojo izbiro zapi&scaron;emo ali dvignemo roko zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They voted to continue the strike.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have the vote 
+</seg>
+pomeni po zakonu imeti pravico, da na volitvah glasujemo za osebo, za katero &zcaron;elimo, da nas zastopa pri vodenju dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volilna pravica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Women have had the vote for over fifty years.
+</quote>
+</seg>
+</sense>
+</entry>

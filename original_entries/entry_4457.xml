@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ecology
+</orth>
+<form type="variant">
+<pron>
+/i1k*Ql@dZi1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ecology of a place 
+</seg>
+se nana&scaron;a na odnose med &zcaron;ivimi bitji in njihovim okoljem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ekologija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the delicate ecology of the rainforest.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ecological
+</orth>
+<form type="variant">
+<pron>
+/*I*:k@l*QdZIk@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Use of nitrogen fertilizers has damaged the ecological balance in the lake.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+ecologically
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an ecologically sound system of farm management.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ecology 
+</seg>
+je preu&ccaron;evanje odnosov med &zcaron;ivimi bitji in njihovim okoljem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ekologija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the most recent research in ecology.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ecologist
+</orth>
+<form type="variant">
+<pron>
+/i1k*Ql@7dZIst/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Ecologists estimate that half of the ancient woodlands in Britain are in danger of extinction.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

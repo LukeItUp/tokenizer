@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tide
+</orth>
+<form type="variant">
+<pron>
+/t*a*Id/
+</pron>
+</form>
+<form type="inflected">
+tides, tiding, tided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tide 
+</seg>
+je redno spreminjanje vi&scaron;ine morske gladine ob obali. 
+<seg type="lemma">
+The tide is in
+</seg>
+ re&ccaron;emo, kadar je plima in je vodna gladina najvi&scaron;ja. 
+<seg type="lemma">
+The tide is out
+</seg>
+ re&ccaron;emo, kadar je oseka in je vodna gladina najni&zcaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plimovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tide was coming in.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tidal
+</orth>
+<form type="variant">
+<pron>
+/t*a*Id@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...tidal estuaries.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+high tide, 
+</ref>
+<ref>
+low tide
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tide of opinion or fashion 
+</seg>
+je tisto, kar v nekem obdobju misli ali dela ve&ccaron;ina ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s always gone against the tide of fashion.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tide over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tides someone over
+</seg>
+, tistemu pomaga pre&zcaron;iveti te&zcaron;avno obdobje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebroditi, imeti za prvo silo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I only want to borrow enough to tide me over till Monday.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

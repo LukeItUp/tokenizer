@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deterrent
+</orth>
+<form type="variant">
+<pron>
+/di1t*er@nt/
+</pron>
+</form>
+<form type="inflected">
+deterrents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deterrent 
+</seg>
+je nekaj, kar ljudi prestra&scaron;i, in zato ne&ccaron;esa ne naredijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svarilo, odvra&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Severe punishment is the only true deterrent.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the deterrent effect of nuclear weapons.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deterrent 
+</seg>
+je tudi oro&zcaron;je, ki naj bi sovra&zcaron;niku s strahom pregnalo &zcaron;eljo po napadu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sile za odvra&ccaron;anje napada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the nuclear deterrent.
+</quote>
+</seg>
+</sense>
+</entry>

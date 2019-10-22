@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swap
+</orth>
+<form type="variant">
+<pron>
+/sw*Qp/
+</pron>
+</form>
+<form type="inflected">
+swaps, swapping, swapped;
+</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+swop
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swap something with someone 
+</seg>
+pomeni dati nekaj nekomu in v zamenjavo od njega dobiti nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He swapped a dozen goats for a female calf.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Let&apos;s do a swap.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swap one thing for another 
+</seg>
+pomeni odstraniti neko stvar in namesto nje uporabiti drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I swapped my cap for a large black waterproof hat.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swap stories or opinions with someone 
+</seg>
+pomeni, da si dve ali ve&ccaron; oseb pripovedujejo zgodbe ali mnenja o &ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They swap amusing stories about the place.
+</quote>
+</seg>
+</sense>
+</entry>

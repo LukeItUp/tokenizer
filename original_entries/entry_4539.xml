@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+electrify
+</orth>
+<form type="variant">
+<pron>
+/i1l*ektrIfaI/
+</pron>
+</form>
+<form type="inflected">
+electrifies, electrifying, electrified.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+electrifies someone
+</seg>
+, nekoga zelo vznemiri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navdu&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the news that had electrified the world.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+electrifying
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an electrifying speech.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+electrified
+</seg>
+, je povezano z virom elektrike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektrificirati; elektrificiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I toyed with the idea of electrifying the railings.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+electrified
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...electrified wire netting.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

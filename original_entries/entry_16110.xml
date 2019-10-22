@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wolf
+</orth>
+<form type="variant">
+<pron>
+/w*Ulf/
+</pron>
+</form>
+<form type="inflected">
+wolves 
+<pron>
+/w*Ulvz/
+</pron>
+; 
+<form type="inflected">
+wolfs, wolfing, wolfed.
+</form>
+<IN>
+<IH>
+Wolves 
+</IH>
+<IC>
+je mno&zcaron;inska oblika samostalnika. 
+</IC>
+<IH>
+Wolfs 
+</IH>
+<IC>
+je oblika za 3. osebo ednine sedanjega &ccaron;asa.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wolf 
+</seg>
+je divja &zcaron;ival, podobna velikemu psu; hrani se z drugimi &zcaron;ivalmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volk
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wolf food 
+</seg>
+ali 
+<seg type="lemma">
+to wolf food down 
+</seg>
+pomeni jesti hitro in po&zcaron;re&scaron;no; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+goltati, &zcaron;reti, metati vase
+</quote>
+</cit>
+</sense>
+</entry>

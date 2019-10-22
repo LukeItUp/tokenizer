@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+recommendation
+</orth>
+<form type="variant">
+<pron>
+/r*ek@mend*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+recommendations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a recommendation 
+</seg>
+pomeni predlagati, da bi nekdo moral nekaj imeti ali uporabljati, ker je dobro ali koristno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priporo&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The best way to find a gardener is through personal recommendation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A recommendation 
+</seg>
+je tudi nasvet, kaj bi bilo najbolje storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priporo&ccaron;ilo, nasvet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...recommendations for training.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+relay,
+</orth>
+<form type="inflected">
+relays, relaying, relayed;
+</form>
+<PN>
+pri prvih treh pomenih besedo izgovarjamo 
+<pron>
+/r*i*:leI/
+</pron>
+, pri 4. pa 
+<pron>
+/ri1l*e*I/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A relay 
+</seg>
+ali 
+<seg type="variant">
+a relay race 
+</seg>
+je tekmovanje med mo&scaron;tvi, pri katerem mora prete&ccaron;i ali preplavati del proge vsak &ccaron;lan skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tafeta
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj delamo 
+<seg type="lemma">
+in relays
+</seg>
+, tisto delamo v manj&scaron;ih skupinah ob razli&ccaron;nih &ccaron;asih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v izmenah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children at our school have to be fed in two relays.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To relay television or radio signals 
+</seg>
+pomeni po&scaron;iljati televizijske ali radijske signale naprej ali jih oddajati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prena&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Sunday Concert will be relayed live on Radio Three.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To relay something 
+</seg>
+pomeni, da nekaj, kar nam je nekdo povedal, ponovimo drugi osebi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prenesti, posredovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+McKenzie relayed the question to me.
+</quote>
+</seg>
+</sense>
+</entry>

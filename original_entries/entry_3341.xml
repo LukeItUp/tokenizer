@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curious
+</orth>
+<form type="variant">
+<pron>
+/kj*U*@rI@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+curious about something
+</seg>
+, ga nekaj zanima in bi se o tistem rad bolje pou&ccaron;il. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+radoveden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He seemed awfully curious about Robertson's day-to-day routine.
+</quote>
+<quote>
+She was curious to see what would happen.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+curiously
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They stopped and looked at her curiously.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+curious
+</seg>
+, je nenavadno in zanimivo ali presenetljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenavaden, &ccaron;uden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Not long after our arrival, a curious thing happened.
+</quote>
+<quote>
+It is curious how two such different problems can be solved so similarly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+curiously
+</orth>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She had a curiously husky voice.
+</quote>
+<quote>
+Curiously, Hearst worked energetically during his mental breakdown.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

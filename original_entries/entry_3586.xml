@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deficient
+</orth>
+<form type="variant">
+<pron>
+/di1f*IS@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+deficient in a particular thing
+</seg>
+, ne&ccaron;esa nima toliko, kot potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepopoln; v pomanjkanju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...old people deficient in vitamin C.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deficiency
+</orth>
+<form type="variant">
+<pron>
+/di1f*IS@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...vitamin deficiency.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+deficient
+</seg>
+, ni dovolj dobro; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pomanjkljiv, nezadosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...increasingly deficient public services.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deficiency
+</orth>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The deficiency of the answers was obvious to everybody.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

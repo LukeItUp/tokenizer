@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frill
+</orth>
+<form type="variant">
+<pron>
+/fr*Il/
+</pron>
+</form>
+<form type="inflected">
+frills.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A frill 
+</seg>
+je dolg, ozek, zlo&zcaron;en trak tkanine, ki je za okras na nekaj pritrjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naborek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a white pillow with a blue frill round it.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+frilled
+</orth>
+<form type="variant">
+<pron>
+/fr*Ild/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a white frilled blouse.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has no frills
+</seg>
+, je preprosto in nima nepotrebnih ali dodatnih zna&ccaron;ilnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrasek, dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a house with no frills.
+</quote>
+<quote>
+...the necessities of life but none of the frills.
+</quote>
+</seg>
+</sense>
+</entry>

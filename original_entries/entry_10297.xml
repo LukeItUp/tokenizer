@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+patrol
+</orth>
+<form type="variant">
+<pron>
+/p@tr*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+patrols, patrolling, patrolled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ko vojaki, policisti ali stra&zcaron;niki 
+<seg type="lemma">
+patrol an area or building
+</seg>
+, z obhodi preverjajo, ali je na nekem obmo&ccaron;ju ali v neki stavbi kaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+patruljirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw men patrolling the streets with rifles on their backs.
+</quote>
+<quote>
+...the policeman who is patrolling in a dangerous area.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+An entire platoon was ambushed during a patrol.
+</quote>
+<quote>
+The police came in a black patrol car.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudje, ki so 
+<seg type="lemma">
+on patrol
+</seg>
+, patruljirajo po dolo&ccaron;enem obmo&ccaron;ju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na obhodu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two policemen on patrol saw the boy running away.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A patrol 
+</seg>
+je skupina vojakov ali vozil, ki patruljirajo na nekem obmo&ccaron;ju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+patrulja
+</quote>
+</cit>
+</sense>
+</entry>

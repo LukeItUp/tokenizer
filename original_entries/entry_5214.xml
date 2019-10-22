@@ -1,0 +1,207 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fear
+</orth>
+<form type="variant">
+<pron>
+/f*I*@/
+</pron>
+</form>
+<form type="inflected">
+fears, fearing, feared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fear 
+</seg>
+je neprijeten ob&ccaron;utek zaskrbljenosti, ki ga dobimo, kadar mislimo, da smo v nevarnosti ali da se bo zgodilo nekaj stra&scaron;nega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strah, bojazen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They huddled together, quaking with fear.
+</quote>
+<quote>
+She was brought up with no fear of animals.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fear 
+</seg>
+je misel, da se lahko zgodi ali se je morda zgodilo nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My worst fears were quickly realized.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ne&ccaron;esa ne storimo 
+<seg type="lemma">
+for fear of something happening
+</seg>
+, tistega ne storimo, ker ne &zcaron;elimo, da bi se nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz strahu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They did not mention it for fear of offending him.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fear someone or something 
+</seg>
+pomeni, da smo zaradi nekoga ali ne&ccaron;esa &zcaron;iv&ccaron;ni ali zaskrbljeni; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bati se nekoga ali ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fears nothing.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fear something unpleasant 
+</seg>
+pomeni biti zaskrbljen, da se je ali da se bo morda zgodilo nekaj neprijetnega; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bati se ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An epidemic of plague was feared.
+</quote>
+<quote>
+They fear that their new-found independence might be lost.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fear for something 
+</seg>
+pomeni biti v skrbeh, da ne&ccaron;emu morda grozi nevarnost; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bati se za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Morris began to fear for the life of Mrs Reilly.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fear that something is the case 
+</seg>
+pomeni, da nam je &zcaron;al ali smo &zcaron;alostni, ker je nekaj tako, kot je; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is usually, I fear, the parents who are responsible.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+breakfast
+</orth>
+<form type="variant">
+<pron>
+/br*ekf@st/
+</pron>
+</form>
+<form type="inflected">
+breakfasts, breakfasting, breakfasted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Breakfast 
+</seg>
+je prvi obrok hrane v dnevu, ki ga navadno jemo zjutraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajtrk
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To breakfast 
+</seg>
+pomeni jesti zajtrk; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zajtrkovati
+</quote>
+</cit>
+</sense>
+</entry>

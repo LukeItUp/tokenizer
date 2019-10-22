@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+volunteer
+</orth>
+<form type="variant">
+<pron>
+/v*Ql@nt*I*@/
+</pron>
+</form>
+<form type="inflected">
+volunteers, volunteering, volunteered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A volunteer 
+</seg>
+je oseba, ki opravlja delo, za katero ne dobi pla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostovoljec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Teaching literacy to adults using volunteers began in 1963.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...volunteer work at the hospital.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A volunteer 
+</seg>
+je tudi oseba, ki se pridru&zcaron;i oboro&zcaron;enim silam, zlasti med vojno. Nasprotje tem ljudem so vpoklicani vojaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostovoljec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many Australians fought as volunteers on the Allied side.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To volunteer to do something 
+</seg>
+pomeni ponuditi, da nekaj naredimo sami, ne da bi nas kdo v to prisilil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostovoljno se javiti, ponuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He volunteered to do whatever he could for them.
+</quote>
+<quote>
+...an extra payment to those who volunteer for redundancy.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To volunteer information 
+</seg>
+pomeni posredovati podatke, ne da bi nas kdo zanje prosil; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+povedati sam od sebe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I volunteered no explanation for our visit.
+</quote>
+<quote>
+&lsquo;It&apos;s all fascinating and intriguing,&rsquo; Maria volunteered.
+</quote>
+</seg>
+</sense>
+</entry>

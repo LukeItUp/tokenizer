@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+celebrate
+</orth>
+<form type="variant">
+<pron>
+/s*el@1breIt/
+</pron>
+</form>
+<form type="inflected">
+celebrates, celebrating, celebrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+celebrates an event or anniversary
+</seg>
+, zaradi nekega dogodka ali obletnice stori nekaj posebnega in prijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+praznovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His victory was celebrated with music and dancing.
+</quote>
+<quote>
+The company was celebrating its fiftieth birthday.
+</quote>
+<quote>
+We ought to celebrate; let's have a bottle of champagne.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+celebration
+</orth>
+<form type="variant">
+<pron>
+/s*el@1br*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a time of celebration.
+</quote>
+<quote>
+...its tenth anniversary celebrations.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar duhovniki 
+<seg type="lemma">
+celebrate Holy Communion or Mass
+</seg>
+, uradno izvajajo obrede, ki sodijo k svetemu obhajilu ali ma&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+darovati ma&scaron;o
+</quote>
+</cit>
+</sense>
+</entry>

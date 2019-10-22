@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flame
+</orth>
+<form type="variant">
+<pron>
+/fl*e*Im/
+</pron>
+</form>
+<form type="inflected">
+flames.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flame 
+</seg>
+je dolg, za&scaron;iljen pramen gore&ccaron;ega plina, prihajajo&ccaron;ega od ne&ccaron;esa, kar gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plamen, ogenj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The flames and smoke rose hundreds of feet into the air.
+</quote>
+<quote>
+The aircraft disappeared in a ball of flame.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in flames
+</seg>
+, gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v plamenih, v ognju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My parents&apos; home was in flames.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bursts into flames
+</seg>
+, nenadoma za&ccaron;ne goreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzplameneti, zagoreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The satellite burst into flames and disintegrated.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+salt
+</orth>
+<form type="variant">
+<pron>
+/s*Qlt/
+</pron>
+</form>
+<form type="inflected">
+salts, salting, salted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Salt 
+</seg>
+je snov v obliki belega pra&scaron;ka ali kristalov; z njo izbolj&scaron;amo okus hrane ali jo konzerviramo. V naravi jo dobimo v morski vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sol
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To salt food 
+</seg>
+pomeni hrani dodati sol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The potatoes should be lightly salted.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rubs salt into one&apos;s wounds
+</seg>
+, neki neprijeten polo&zcaron;aj &scaron;e poslab&scaron;a, pogosto zato, ker tistega &ccaron;loveka spomni na njegove napake ali pomanjkljivosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sol na rano
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+takes something with a pinch of salt
+</seg>
+, ne verjame, da nekaj popolnoma dr&zcaron;i ali je res; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+z rezervo
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

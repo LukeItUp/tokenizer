@@ -1,0 +1,236 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shake
+</orth>
+<form type="variant">
+<pron>
+/S*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+shakes, shaking, shook
+</form>
+<form type="variant">
+<pron>
+/S*Uk/
+</pron>
+</form>
+<form type="inflected">
+shaken
+</form>
+<form type="variant">
+<pron>
+/S*e*Ik@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shake someone or something 
+</seg>
+pomeni nekoga ali nekaj hitro premikati naprej in nazaj ali gor in dol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stresati, tresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He awakened to find himself being shaken roughly by his father.
+</quote>
+<quote>
+The wind shook white petals from the tree.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She gave her skirts a vigorous shake.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shakes
+</seg>
+, se s hitrimi in kratkimi premiki prestavlja v eno in drugo stran ali navzgor in navzdol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tresti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The earth shook and the sky darkened.
+</quote>
+<quote>
+He was shaking with laughter.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar glas nekega &ccaron;loveka 
+<seg type="lemma">
+is shaking
+</seg>
+, tisti &ccaron;lovek ne more obvladati svojega glasu, ker je &zcaron;iv&ccaron;en ali jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tresti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His eyes were wild and his voice shook.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shakes someone
+</seg>
+, &ccaron;loveka presune in vznemiri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My mother&apos;s death had shaken him dreadfully.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+shaken
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was badly shaken. I had never had a crash before.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To shake hands with someone 
+</seg>
+ali 
+<FV>
+to shake someone&apos;s hand 
+</FV>
+pomeni se&ccaron;i nekomu v roko ob sre&ccaron;anju ali slovesu, pri &ccaron;estitanju ali v znak prijateljstva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rokovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Elijah and I shook hands and said good night.
+</quote>
+<quote>
+Someone shook my hand.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To shake one&apos;s head 
+</seg>
+pomeni premikati glavo v levo in desno in tako izraziti zanikanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkimati
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shake off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shake off someone or something 
+</seg>
+pomeni, da neki osebi uspe uiti ali se znebiti tistega &ccaron;loveka ali stvari, ki ji je v nadlego. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otresti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It had taken Franklin several hours to shake off the police.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

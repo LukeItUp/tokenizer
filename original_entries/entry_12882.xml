@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shrug
+</orth>
+<form type="variant">
+<pron>
+/Sr*Vg/
+</pron>
+</form>
+<form type="inflected">
+shrugs, shrugging, shrugged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shrug one&apos;s shoulders 
+</seg>
+pomeni dvigniti ramena in tako pokazati, da nas nekaj ne zanima, da ne&ccaron;esa ne vemo ali da nam je vseeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skomigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Do you mind if I wait?&rsquo; I asked. Melanie shrugged. &lsquo;Please yourself.&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The man nodded with a faint shrug of his shoulders.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shrug off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shrug something off 
+</seg>
+pomeni nekaj obravnavati kot nepomembno ali nevredno pozornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chairman shrugs off any criticism that their methods are not legal.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

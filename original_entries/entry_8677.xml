@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+manipulate
+</orth>
+<form type="variant">
+<pron>
+/m@3n*Ipj@4leIt/
+</pron>
+</form>
+<form type="inflected">
+manipulates, manipulating, manipulated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To manipulate people or events 
+</seg>
+pomeni vplivati na ljudi ali dogodke z namenom, da bi dosegli dolo&ccaron;en cilj; 
+</def>
+<usg>
+beseda pogosto izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+manipulirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Small children sometimes manipulate grown-ups.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+manipulation
+</orth>
+<form type="variant">
+<pron>
+/m@3n*Ipj@4l*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his unscrupulous manipulation of people.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+manipulates a piece of equipment
+</seg>
+, spretno ravna s pripomo&ccaron;kom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upravljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lawrence manipulated the knobs on his tape recorder.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+manipulation
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I had bent to watch the mechanic&apos;s manipulations.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

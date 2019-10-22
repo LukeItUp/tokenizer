@@ -1,0 +1,191 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+switch
+</orth>
+<form type="variant">
+<pron>
+/sw*ItS/
+</pron>
+</form>
+<form type="inflected">
+switches, switching, switched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A switch 
+</seg>
+je majhen gumb pri elektri&ccaron;ni napravi, s katerim usmerjamo delovanje naprave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stikalo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...electric light switches.
+</quote>
+<quote>
+Somebody pressed the wrong switch.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To switch to something different 
+</seg>
+pomeni nehati delati tisto, kar smo delali dotlej, in za&ccaron;eti delati nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremeniti, preiti, preklopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I would like now to switch to quite a different topic.
+</quote>
+<quote>
+He switched his attention back to the magazine.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a switch in policy.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To switch two things 
+</seg>
+pomeni nadomestiti eno stvar z drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plane switched loads and took off.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+switch off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To switch off a light or other electrical device 
+</seg>
+pomeni pritisniti na stikalo, da svetilka ali druga elektri&ccaron;na naprava neha delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izklju&ccaron;iti, ugasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He switched the radio off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To switch off 
+</seg>
+pomeni nehati posve&ccaron;ati pozornost ne&ccaron;emu; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izklopiti, nehati spremljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I just switched off after the first speech.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+switch on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To switch on a light or other electrical device 
+</seg>
+pomeni pritisniti na stikalo, da svetilka ali druga elektri&ccaron;na naprava za&ccaron;ne delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti, pri&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He switched on the TV.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

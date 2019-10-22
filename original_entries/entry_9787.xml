@@ -1,0 +1,261 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+offer
+</orth>
+<form type="variant">
+<pron>
+/*Qf@/
+</pron>
+</form>
+<form type="inflected">
+offers, offering, offered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To offer something to someone 
+</seg>
+pomeni vpra&scaron;ati nekoga, ali bi &zcaron;elel nekaj imeti ali uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an apple which he offered to his friend.
+</quote>
+<quote>
+I was offered a place at Harvard University.
+</quote>
+<quote>
+I&apos;ll offer you nine pounds for it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To offer to do something 
+</seg>
+pomeni re&ccaron;i, da smo pripravljeni nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Gopal offered to take us to Mysore.
+</quote>
+<quote>
+&lsquo;We could take it for you,&rsquo; offered Dolly.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make an offer 
+</seg>
+pomeni izre&ccaron;i besede, s katerimi nekomu nekaj ponudimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponudba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She accepted the offer of a cigarette.
+</quote>
+<quote>
+...Kirk&apos;s offer to take me to the clinic.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To offer someone information, advice, or praise 
+</seg>
+pomeni nekomu povedati podatke, dati nasvet ali pohvalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati; svetovati; pohvaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...offering him advice about accommodation.
+</quote>
+<quote>
+They didn&apos;t ask Liebermann&apos;s name and Liebermann didn&apos;t offer it.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+offers a service, opportunity, or product
+</seg>
+, zagotavlja neko dejavnost, prilo&zcaron;nost ali izdelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponujati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The new car plant offers the prospect of 5,000 jobs.
+</quote>
+<quote>
+...the facilities and equipment offered by the playgroup.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V trgovini je 
+<seg type="lemma">
+an offer 
+</seg>
+posebno nizka cena kakega izdelka ali nekaj dodatnega, kar dobimo, &ccaron;e kupimo dolo&ccaron;en izdelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posebna ponudba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cut price offers.
+</quote>
+<quote>
+...special offers.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+on offer
+</seg>
+, je mogo&ccaron;e uporabljati ali kupiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na voljo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the weird and wonderful range of gear on offer.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

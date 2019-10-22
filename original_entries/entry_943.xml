@@ -5,7 +5,7 @@ axis
 </orth>
 <form type="variant">
 <pron>
-/*#ae;ksIs/
+/*&ae;ksIs/
 </pron>
 </form>
 <form type="inflected">
@@ -13,7 +13,7 @@ axes
 </form>
 <form type="variant">
 <pron>
-/*#ae;ksi:z/.
+/*&ae;ksi:z/
 </pron>
 </form>
 </form>
@@ -25,10 +25,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An axis
+An axis 
 </seg>
-je umi&#353;ljena &#269;rta, ki te&#269;e skozi
-sredino ne&#269;esa.
+je umi&scaron;ljena &ccaron;rta, ki te&ccaron;e skozi sredino ne&ccaron;esa. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -37,7 +36,7 @@ os
 </cit>
 <seg type="example">
 <quote>
-The earth's axis is tilted at an angle of about 23&#176;.
+The earth's axis is tilted at an angle of about 23&deg;.
 </quote>
 </seg>
 </sense>
@@ -49,14 +48,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An axis of a graph
+An axis of a graph 
 </seg>
-je ena od obeh &#269;rt na
-zemljevidu ali grafikonu, na kateri so ozna&#269;ene mere ali merske enote.
+je ena od obeh &ccaron;rt na zemljevidu ali grafikonu, na kateri so ozna&ccaron;ene mere ali merske enote. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-navpi&#269;na/vodoravna koordinata
+navpi&ccaron;na/vodoravna koordinata
 </quote>
 </cit>
 </sense>

@@ -1,0 +1,209 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whip
+</orth>
+<form type="variant">
+<pron>
+/w*Ip/
+</pron>
+</form>
+<form type="inflected">
+whips, whipping, whipped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A whip 
+</seg>
+je kos usnja ali vrvi, pritrjen na ro&ccaron;aj; uporablja se za pretepanje ljudi ali &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was lashed with whips.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whip a person or animal 
+</seg>
+pomeni udariti osebo ali &zcaron;ival z bi&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bi&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw him whipping his mules.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+whipping
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He could not possibly have endured a whipping.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar veter 
+<seg type="lemma">
+whips something
+</seg>
+, nekaj ostro udari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bi&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wind whipped my face.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whip something out or off 
+</seg>
+pomeni nekaj zelo na hitro ali nenadoma vzeti ven ali odstraniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvle&ccaron;i, odvre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Glenn whipped off the mask to reveal his identity.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whip cream or eggs 
+</seg>
+pomeni zelo hitro me&scaron;ati smetano ali jajca, da postanejo gosta in penasta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stepati, tol&ccaron;i
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+whipped
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...fruit flan with whipped cream.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+whip up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To whip up a strong emotion 
+</seg>
+pomeni pri ljudeh namenoma povzro&ccaron;iti mo&ccaron;no &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvneti, razburkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The interview whipped up the Americans into a frenzy of rage.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

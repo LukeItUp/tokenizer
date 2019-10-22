@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+displace
+</orth>
+<form type="variant">
+<pron>
+/dIspl*e*Is/
+</pron>
+</form>
+<form type="inflected">
+displaces, displacing, displaced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ena stvar 
+<seg type="lemma">
+displaces another
+</seg>
+, izrine drugo stvar in zavzame njen prostor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregnati, zamenjati, nadomestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+London displaced Antwerp as the commercial capital of Europe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be displaced 
+</seg>
+pomeni biti prisiljen preseliti se z obmo&ccaron;ja, kjer &zcaron;ivi&scaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregnati; pregnan biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Greek Cypriots displaced from the North.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+displacement
+</orth>
+<form type="variant">
+<pron>
+/dIspl*e*Ism@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the displacement of large masses of people.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

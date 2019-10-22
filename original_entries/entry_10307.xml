@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pause
+</orth>
+<form type="variant">
+<pron>
+/p*O*:z/
+</pron>
+</form>
+<form type="inflected">
+pauses, pausing, paused.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pauses
+</seg>
+, ko govori ali kaj dela, se za kraj&scaron;i &ccaron;as ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premolkniti, po&ccaron;&iacute;ti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He paused and then went on in a low voice.
+</quote>
+<quote>
+He does not pause for breath until he reaches the top floor.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She continued after a pause.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

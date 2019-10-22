@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+panic
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;nIk/
+</pron>
+</form>
+<form type="inflected">
+panics, panicking, panicked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Panic 
+</seg>
+je mo&ccaron;an ob&ccaron;utek bojazni ali strahu, zaradi katerega ukrepamo brez preudarka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+panika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sandy was close to panic.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A panic 
+</seg>
+je polo&zcaron;aj, v katerem ljudje zaradi strahu ukrepajo brez preudarka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+panika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We don&apos;t want to start a panic.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+panics
+</seg>
+, ga je zelo strah in ravna brez preudarka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pani&ccaron;ariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She panicked as his hand closed on her wrist.
+</quote>
+</seg>
+</sense>
+</entry>

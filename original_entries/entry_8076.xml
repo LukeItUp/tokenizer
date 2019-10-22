@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lame
+</orth>
+<form type="variant">
+<pron>
+/l*e*Im/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+lame
+</seg>
+, ne more hoditi pravilno, ker ima zaradi po&scaron;kodbe ali bolezni okvarjeno eno ali obe nogi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;epav, hrom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The illness left her permanently lame.
+</quote>
+<quote>
+...a lame horse.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izgovor, dokaz ali pripomba, ki je 
+<seg type="lemma">
+lame
+</seg>
+, je neprepri&ccaron;ljiv ali &scaron;ibek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+beden, &scaron;epav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My lame excuse was that I had too much else to do.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lamely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;I didn&apos;t recognize you,&rsquo; Claude said lamely.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

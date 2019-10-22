@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+often
+</orth>
+<form type="variant">
+<pron>
+/*Qf@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar se zgodi 
+<seg type="lemma">
+often
+</seg>
+, se zgodi velikokrat ali pa se dogaja ve&ccaron;ino &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogosto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We often get very wet cold winters here.
+</quote>
+<quote>
+It&apos;s not often you meet someone who&apos;s really interested.
+</quote>
+</seg>
+<T>
+<def xml:lang="sl">
+Izraz se uporablja v vpra&scaron;alnih in povednih stavkih o pogostosti dogajanja. 
+</def>
+<seg type="example">
+<quote>
+How often do you need to weigh the baby?
+</quote>
+<quote>
+John came as often as he could.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da se nekaj zgodi 
+<seg type="lemma">
+every so often
+</seg>
+, to pomeni, da se dogaja ob&ccaron;asno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsake toliko &ccaron;asa, ob&ccaron;asno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Every so often, she spends a weekend in London.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

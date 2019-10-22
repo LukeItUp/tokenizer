@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chant
+</orth>
+<form type="variant">
+<pron>
+/t*S*A*:nt/
+</pron>
+</form>
+<form type="inflected">
+chants, chanting, chanted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chant 
+</seg>
+je beseda ali skupina besed, ki jih vedno znova ponavljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skandiranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The assembly broke into a chant: &lsquo;What's your name? What's your name?&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chant 
+</seg>
+je tudi cerkvena pesem ali molitev, ki jo pojemo samo na nekaj tonih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+psalm
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chant 
+</seg>
+pomeni vedno znova ponavljati iste besede ali peti versko pesem ali molitev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They marched to their coach chanting slogans.
+</quote>
+</seg>
+</sense>
+</entry>

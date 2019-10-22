@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p6_s5582" id="p6_w206" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="286.104" base="291.8" width="27.9835" height="7.552">incident</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p6_s5583" id="p6_w207" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.0224" y="286.104" base="291.8" width="6.79536" height="7.552">in</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p6_s5584" id="p6_w208" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="98.6768" y="286.104" base="291.8" width="10.7971" height="7.552">the</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p6_s5585" id="p6_w209" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.333" y="286.104" base="291.8" width="20.484" height="7.552">paper.</TOKEN>
+<TOKEN sid="p6_s5587" id="p6_w211" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="140.2" y="287.884" base="291.8" width="18.9714" height="5.192">COUNT</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p6_s5588" id="p6_w212" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="160.447" y="287.884" base="291.8" width="4.12335" height="5.192">N</TOKEN>
+<TOKEN sid="p6_s5589" id="p6_w213" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="166.43" y="286.104" base="291.8" width="31.6008" height="7.552">Accounts</TOKEN>
+</seg>
+<TOKEN sid="p6_s5590" id="p6_w214" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="199.89" y="286.104" base="291.8" width="7.19856" height="7.552">so</TOKEN>
+<TOKEN sid="p6_s5591" id="p6_w215" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.947" y="286.104" base="291.8" width="32.6542" height="7.552">podrobna</TOKEN>
+<TOKEN sid="p6_s5592" id="p6_w216" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1796" y="295.324" base="301.02" width="27.846" height="7.552">poro~ila</TOKEN>
+<TOKEN sid="p6_s5593" id="p6_w217" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="89.9358" y="295.324" base="301.02" width="4.0032" height="7.552">o</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p6_s5594" id="p6_w218" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.8491" y="295.324" base="301.02" width="17.1986" height="7.552">vsem</TOKEN>
+<TOKEN sid="p6_s5595" id="p6_w219" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="114.958" y="295.324" base="301.02" width="28.3918" height="7.552">denarju,</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p6_s5596" id="p6_w220" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.26" y="295.324" base="301.02" width="6.79608" height="7.552">ki</TOKEN>
+<TOKEN sid="p6_s5597" id="p6_w221" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="153.966" y="295.324" base="301.02" width="8.00568" height="7.552">ga</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p6_s5598" id="p6_w222" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="163.882" y="295.324" base="301.02" width="16.3994" height="7.552">neka</TOKEN>
+<TOKEN sid="p6_s5599" id="p6_w223" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.192" y="295.324" base="301.02" width="19.1995" height="7.552">oseba</TOKEN>
+<TOKEN sid="p6_s5600" id="p6_w224" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="203.301" y="295.324" base="301.02" width="8.79696" height="7.552">ali</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

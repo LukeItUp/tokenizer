@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blur
+</orth>
+<form type="variant">
+<pron>
+/bl*$e*:/
+</pron>
+</form>
+<form type="inflected">
+blurs, blurring, blurred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blur 
+</seg>
+je oblika ali obmo&ccaron;je, ki ga &ccaron;lovek ne vidi jasno, ker nima razlo&ccaron;nega obrisa ali se prehitro premika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lisa, made&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+blurs 
+</seg>
+ali kadar je nekaj 
+<seg type="lemma">
+blurred
+</seg>
+, tistega ne vidimo jasno, ker nima ve&ccaron; ostrih robov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabrisati (se), zamegliti (se)
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+blurred
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a blurred snapshot.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+blurs an idea or a concept
+</seg>
+, povzro&ccaron;i, da ideja ali predstava ni ve&ccaron; jasna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabrisati, zamegliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It blurred our essential message of racial reconciliation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+blurred
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The distinction between reform and revolution had become blurred in his mind.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

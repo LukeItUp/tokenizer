@@ -5,7 +5,7 @@ ambulance
 </orth>
 <form type="variant">
 <pron>
-/*#ae;mbj@4l@ns/
+/*&ae;mbj@4l@ns/
 </pron>
 </form>
 <form type="inflected">
@@ -20,21 +20,21 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An ambulance
+An ambulance 
 </seg>
-je vozilo, s katerim vozimo
-ljudi v bolni&#353;nico in iz nje.
+je vozilo, s katerim vozimo ljudi v bolni&scaron;nico in iz nje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-re&#353;ilni avtomobil
+re&scaron;ilni avtomobil
 </quote>
 </cit>
-<ref type="picture">
-glej slikovno prilogo
-<ref>
-HEALTH.
-</ref>
-</ref>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
 </sense>
 </entry>

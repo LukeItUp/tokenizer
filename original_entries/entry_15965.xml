@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whine
+</orth>
+<form type="variant">
+<pron>
+/w*a*In/
+</pron>
+</form>
+<form type="inflected">
+whines, whining, whined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whine 
+</seg>
+pomeni spustiti dolg, visok glas, zlasti &ccaron;e je &zcaron;alosten ali neprijeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cviliti, zavijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His dog was whining in pain.
+</quote>
+<quote>
+The clattering and whining elevator began to move slowly upwards.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the whine of the police sirens.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+whines about something
+</seg>
+, se na neprijeten na&ccaron;in prito&zcaron;uje zaradi ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stokati, tarnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My father never whined about his work.
+</quote>
+</seg>
+</sense>
+</entry>

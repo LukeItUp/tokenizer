@@ -1,0 +1,382 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+part
+</orth>
+<form type="variant">
+<pron>
+/p*A*:t/
+</pron>
+</form>
+<form type="inflected">
+parts, parting, parted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+a part of another thing
+</seg>
+ ali 
+<seg type="lemma">
+part of another thing
+</seg>
+, je ena izmed sestavin, kosov ali prvin, ki tvorijo drugo stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+del
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The head is the most sensitive part of the body.
+</quote>
+<quote>
+I don&apos;t know this part of London very well.
+</quote>
+<quote>
+The first part of that statement is a lie.
+</quote>
+<quote>
+Economic measures must form part of any solution to this crisis.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V igri ali filmu je 
+<seg type="lemma">
+a part 
+</seg>
+ena izmed oseb v zgodbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She plays the part of the witch.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s part 
+</seg>
+je &ccaron;lovekovo sodelovanje pri ne&ccaron;em, kar se zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was arrested for his part in the demonstrations.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve stvari, ki se dotikata, 
+<seg type="lemma">
+part 
+</seg>
+ali 
+<seg type="lemma">
+are parted
+</seg>
+, se odmakneta druga od druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpreti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph&apos;s lips parted in a delighted smile.
+</quote>
+<quote>
+Rudolph parted the curtains.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so lasje 
+<seg type="lemma">
+parted
+</seg>
+, so po&ccaron;esani v dve razli&ccaron;ni smeri, tako da vzdol&zcaron; glave te&ccaron;e ravna &ccaron;rta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;esan na pre&ccaron;o
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dva &ccaron;loveka 
+<seg type="lemma">
+part
+</seg>
+, odideta vsak na svoje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+raziti se, lo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A year ago they had parted for ever.
+</quote>
+<quote>
+I parted from them on excellent terms.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+parting, 
+</ref>
+<ref>
+partly
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+takes part in an activity
+</seg>
+, je eden izmed ljudi, ki sodelujejo v njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked her if she&apos;d take part in a discussion about the uprising.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+plays a large or important part in something
+</seg>
+, je zelo dejaven pri tistem in pomembno pripomore k poteku dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati pomembno vlogo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Men should play a bigger part in children&apos;s upbringing.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+on one&apos;s part
+</seg>
+ lahko uporabimo, ko govorimo o ob&ccaron;utkih ali dejanju neke osebe; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+s strani nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I consider this a gross oversight on your part.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+for the most part 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+mostly
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;inoma, ve&ccaron;idel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The forest is, for the most part, dark and wet.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in part 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+partly
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The improvement was brought about in part by the Trade Union Movement.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj 
+<seg type="lemma">
+part and parcel of another thing
+</seg>
+, poudarimo, da je del tega drugega ali vklju&ccaron;eno vanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bistven del
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These things are part and parcel of my everyday life.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se je nekaj dogajalo 
+<seg type="lemma">
+for the best part 
+</seg>
+ali 
+<seg type="variant">
+the better part of a period of time
+</seg>
+, je potekalo ve&ccaron;ji del tistega &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;ino
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The men stayed for the best part of a year.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+part with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parts with something
+</seg>
+, odda ali proda tisto, kar bi rad obdr&zcaron;al, nekomu drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn&apos;t want to part with the money.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

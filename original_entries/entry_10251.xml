@@ -1,0 +1,164 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+party
+</orth>
+<form type="variant">
+<pron>
+/p*A*:ti1/
+</pron>
+</form>
+<form type="inflected">
+parties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A party 
+</seg>
+je dru&zcaron;abni dogodek, pri katerem se ljudje sprostijo ob hrani, pija&ccaron;i, plesu, pogovoru ali igrah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a birthday party.
+</quote>
+<quote>
+They gave a farewell party for her.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+garden party
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V politiki je 
+<seg type="lemma">
+a party 
+</seg>
+organizacija, ki si prizadeva, da bi bili njeni &ccaron;lani izvoljeni v parlament. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stranka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s a member of the Labour Party.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A party of people 
+</seg>
+je skupina ljudi, ki nekaj delajo skupaj, na primer potujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina, dru&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a party of Americans on a tour.
+</quote>
+<quote>
+...rescue parties.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je vpleten v pravni dogovor ali spor, je prav tako 
+<seg type="lemma">
+a party
+</seg>
+; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the guilty party.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+third party
+</ref>
+</xr>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+is a party to an action or agreement
+</seg>
+, sodeluje pri dejanju ali sporazumu in je zato delno odgovoren zanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti udele&zcaron;en pri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They wouldn&apos;t be a party to such a ridiculous enterprise.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

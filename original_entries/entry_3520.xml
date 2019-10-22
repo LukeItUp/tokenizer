@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deceptive
+</orth>
+<form type="variant">
+<pron>
+/di1s*eptIv/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+deceptive
+</seg>
+, lahko povzro&ccaron;i, da verjamemo nekaj neresni&ccaron;nega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varljiv, zmoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Its fragile appearance was deceptive.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deceptively
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It all looks deceptively simple.
+</quote>
+<quote>
+It was deceptively presented as a scientific study.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+etch
+</orth>
+<form type="variant">
+<pron>
+/*etS/
+</pron>
+</form>
+<form type="inflected">
+etchs, etching, etched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To etch a design or pattern on a surface 
+</seg>
+pomeni vrezati neko risbo ali vzorec v neko povr&scaron;ino z ostrim orodjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jedkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The artists must have spent many hours etching the images on the walls.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+etched on someone's memory
+</seg>
+, to pomeni, da je na &ccaron;loveka naredilo mo&ccaron;an vtis.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtisniti v spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His face will remain permanently etched on my memory.
+</quote>
+</seg>
+</sense>
+</entry>

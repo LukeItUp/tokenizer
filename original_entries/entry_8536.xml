@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lunch
+</orth>
+<form type="variant">
+<pron>
+/l*Vnt0S/
+</pron>
+</form>
+<form type="inflected">
+lunches, lunching, lunched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Lunch 
+</seg>
+je obed, ki ga jemo sredi dneva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kosilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What did you have for lunch?
+</quote>
+<quote>
+After lunch I went to see our doctor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lunch 
+</seg>
+pomeni jesti kosilo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+k&oacute;siti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Why don&apos;t you two lunch with me tomorrow?
+</quote>
+</seg>
+</sense>
+</entry>

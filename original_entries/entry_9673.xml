@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nuclear
+</orth>
+<form type="variant">
+<pron>
+/nj*u*:klI@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+nuclear 
+</seg>
+uporabljamo za stvari, ki se nana&scaron;ajo na atomska jedra ali energijo, ki nastaja, ko se ta jedra cepijo ali zdru&zcaron;ujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jedrski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...nuclear physics.
+</quote>
+<quote>
+...nuclear energy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Nuclear 
+</seg>
+se nana&scaron;a tudi na oro&zcaron;ja, ki eksplodirajo zaradi energije, ki jo oddajajo atomi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jedrski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...nuclear weapons.
+</quote>
+<quote>
+...nuclear war.
+</quote>
+</seg>
+</sense>
+</entry>

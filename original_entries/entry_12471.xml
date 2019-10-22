@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scotch
+</orth>
+<form type="variant">
+<pron>
+/sk*QtS/
+</pron>
+</form>
+<form type="inflected">
+scotches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Scotch 
+</seg>
+ali 
+<seg type="variant">
+scotch whisky 
+</seg>
+je viski, narejen na &Scaron;kotskem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(&scaron;kotski) viski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bottle of Scotch.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A scotch 
+</seg>
+je kozarec &scaron;kotskega viskija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fixed two more scotches.
+</quote>
+</seg>
+</sense>
+</entry>

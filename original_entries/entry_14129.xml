@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swipe
+</orth>
+<form type="variant">
+<pron>
+/sw*a*Ip/
+</pron>
+</form>
+<form type="inflected">
+swipes, swiping, swiped.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swipe at something 
+</seg>
+pomeni tisto stvar poskusiti zadeti s &scaron;irokim gibom roke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamahniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The batsman swiped at the ball and missed it.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She took a casual swipe at the nettles.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

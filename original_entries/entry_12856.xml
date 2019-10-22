@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shove
+</orth>
+<form type="variant">
+<pron>
+/S*Vv/
+</pron>
+</form>
+<form type="inflected">
+shoves, shoving, shoved.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shove someone or something 
+</seg>
+pomeni nekoga ali nekaj premakniti s silo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He shoved the man through the door.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I gave him a shove in the direction of the street.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

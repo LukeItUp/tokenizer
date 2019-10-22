@@ -1,0 +1,253 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+watch
+</orth>
+<form type="variant">
+<pron>
+/w*QtS/
+</pron>
+</form>
+<form type="inflected">
+watches, watching, watched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A watch 
+</seg>
+je majhna ura, ki jo nosimo na jermen&ccaron;ku okoli zapestja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ro&ccaron;na ura
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My watch has stopped.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To watch someone or something 
+</seg>
+pomeni nekoga ali nekaj gledati dolo&ccaron;eno obdobje in biti pozoren na tisto, kar se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opazovati, gledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m just watching television.
+</quote>
+<quote>
+When did you last watch a football match?
+</quote>
+<quote>
+Watch me, Grandma.
+</quote>
+<quote>
+A policeman stood watching.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+watcher
+</orth>
+<form type="variant">
+<pron>
+/w*QtS@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Their behaviour baffled the watchers in the house.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To watch someone 
+</seg>
+pomeni tudi nekoga na skrivaj zasledovati ali oprezati za njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Liebermann&apos;s going to be watched from now on.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To watch a situation 
+</seg>
+pomeni biti pozoren na dolo&ccaron;ene okoli&scaron;&ccaron;ine ali se jih zavedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opazovati, gledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sits back and just watches a situation develop.
+</quote>
+<quote>
+Many companies have watched helplessly as their stock prices fell.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+keeps watch
+</seg>
+, ves &ccaron;as gleda okrog sebe, na primer takrat, ko drugi spijo, da jih lahko opozori na nevarnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stra&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A woman kept watch at the gate.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Watch it 
+</seg>
+re&ccaron;emo, kadar &zcaron;elimo nekoga opozoriti, naj bo previden; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pazi
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+watch out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To watch out 
+</seg>
+pomeni biti zelo previden, ker bi se nam lahko zgodilo kaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you don&apos;t watch out, he might stick a knife into you.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+watch over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To watch over someone or something 
+</seg>
+pomeni skrbeti za nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wives took turns to watch over the children.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

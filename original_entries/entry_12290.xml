@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sail
+</orth>
+<form type="variant">
+<pron>
+/s*e*Il/
+</pron>
+</form>
+<form type="inflected">
+sails, sailing, sailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sail 
+</seg>
+je velik kos blaga ali podobnega materiala, ki je pritrjen na jambor. Ko se veter ujame v ta material, premika plovilo po vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jadro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the white sails of the yacht.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sail a boat 
+</seg>
+pomeni voditi jadrnico z jadri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jadrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I spent two weeks swimming and sailing in New Hampshire.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ladja 
+<seg type="lemma">
+sails
+</seg>
+, se premika po vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pluti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ship sailed down the east coast of South America.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ladja 
+<seg type="lemma">
+sets sail
+</seg>
+, zapusti pristani&scaron;&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpluti; razpeti jadra
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+sails somewhere
+</seg>
+, se enakomerno in precej hitro giblje v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odjadrati, leteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I watched the ball as it went sailing over the bushes.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sail through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sail through a difficult situation or experience 
+</seg>
+pomeni zlahka in uspe&scaron;no opraviti s te&zcaron;avnim polo&zcaron;ajem ali izku&scaron;njo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez te&zcaron;av premagati, mimogrede opraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was expecting to sail through her exams.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

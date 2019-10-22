@@ -3,17 +3,17 @@
 <orth>
 aged;
 </orth>
-<form type="variant">
-pri 1. pomenu besedo izgovarjamo
+<PN>
+pri 1. pomenu besedo izgovarjamo 
 <pron>
 /*e*IdZd/
 </pron>
-pri 2.
-in 3. pa
+, pri 2. in 3. pa 
 <pron>
-/*e*IdZI2d/.
+/*e*IdZI2d/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -22,12 +22,11 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
 aged
 </seg>
-za katero stoji &#353;tevilo,
-povemo, koliko let ima &#269;lovek.
+, za katero stoji &scaron;tevilo, povemo, koliko let ima &ccaron;lovek. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -41,10 +40,10 @@ star, -leten, -letnik
 </seg>
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-middle-aged.
+middle-aged
 </ref>
 </xr>
 </sense>
@@ -55,12 +54,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekdo ali nekaj
+Kadar je nekdo ali nekaj 
 <seg type="lemma">
 aged
 </seg>
-to pomeni,
-da je zelo star.
+, to pomeni, da je zelo star. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -80,11 +78,11 @@ PLURAL N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Vse zelo stare ljudi lahko imenujemo
+Vse zelo stare ljudi lahko imenujemo 
 <seg type="lemma">
-the
-aged.
+the aged
 </seg>
+. 
 </def>
 <cit type="translationEquivalent">
 <quote>

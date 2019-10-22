@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tower
+</orth>
+<form type="variant">
+<pron>
+/t*a*U*@/
+</pron>
+</form>
+<form type="inflected">
+towers, towering, towered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tower 
+</seg>
+je visoka ozka stavba ali visok del stavbe, kakr&scaron;na je grad ali cerkev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stolp
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+towers over people or things
+</seg>
+, je veliko vi&scaron;je od drugih ljudi ali stvari; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dvigati se nad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jane stood up, towering over him.
+</quote>
+</seg>
+</sense>
+</entry>

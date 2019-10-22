@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+born
+</orth>
+<form type="variant">
+<pron>
+/b*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je otrok 
+<seg type="lemma">
+born
+</seg>
+, pride iz materinega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mary was born in Glasgow.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+born 
+</seg>
+povemo, da nekdo nekaj po&ccaron;ne dobro in z lahkoto. Na primer: 
+<seg type="lemma">
+a born cook 
+</seg>
+je kuhar, ki ima naraven dar, da dobro kuha. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojen
+</quote>
+</cit>
+</sense>
+</entry>

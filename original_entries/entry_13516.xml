@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+squad
+</orth>
+<form type="variant">
+<pron>
+/skw*Qd/
+</pron>
+</form>
+<form type="inflected">
+squads.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A squad 
+</seg>
+je delovna skupina policijske posadke, odgovorna za obravnavanje dolo&ccaron;ene vrste zlo&ccaron;inov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddelek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the drugs squad.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A squad of soldiers 
+</seg>
+je majhna skupina vojakov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vod, oddelek
+</quote>
+</cit>
+</sense>
+</entry>

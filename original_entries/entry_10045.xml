@@ -1,0 +1,39 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overdose
+</orth>
+<form type="variant">
+<pron>
+/*@*Uv@d@Us/
+</pron>
+</form>
+<form type="inflected">
+overdoses.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+takes an overdose
+</seg>
+, vzame ve&ccaron; zdravila ali mamila, kot je varno, in zato lahko izgubi zavest in umre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevelik odmerek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Alice took an overdose after a row with her mother.
+</quote>
+</seg>
+</sense>
+</entry>

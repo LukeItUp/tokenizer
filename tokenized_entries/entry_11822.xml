@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p632_s692756" id="p632_w507" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="571.822" base="578.23" width="30.8826" height="8.514">rename</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p632_s692757" id="p632_w508" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.75" y="573.068" base="578.23" width="32.5816" height="6.844">/ri&#194;ne&#203;m/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p632_s692758" id="p632_w509" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="122.7" y="572.89" base="578.23" width="29.6231" height="7.08">renames,</TOKEN>
+<TOKEN sid="p632_s692759" id="p632_w510" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="154.537" y="572.89" base="578.23" width="32.6187" height="7.08">renaming,</TOKEN>
+<TOKEN sid="p632_s692760" id="p632_w511" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="189.37" y="572.89" base="578.23" width="30.373" height="7.08">renamed.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p632_s692761" id="p632_w512" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="222.11" y="574.314" base="578.23" width="7.14681" height="5.192">VB</TOKEN>
+<seg>
+<TOKEN sid="p632_s692762" id="p632_w513" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="230.881" y="574.314" base="578.23" width="10.7187" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p632_s692763" id="p632_w514" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="60.1802" y="583.384" base="587.3" width="9.76041" height="5.192">OBJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p632_s692764" id="p632_w515" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="71.47" y="581.604" base="587.3" width="8.03232" height="7.552">To</TOKEN>
+<TOKEN sid="p632_s692765" id="p632_w516" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.0006" y="581.604" base="587.3" width="24.5434" height="7.552">rename</TOKEN>
+<TOKEN sid="p632_s692766" id="p632_w517" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="107.042" y="581.604" base="587.3" width="34.3886" height="7.552">something</TOKEN>
+</seg>
+<TOKEN sid="p632_s692767" id="p632_w518" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="142.9" y="581.604" base="587.3" width="24.6924" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p632_s692768" id="p632_w519" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.09" y="581.604" base="587.3" width="24.9869" height="7.552">tistemu</TOKEN>
+<TOKEN sid="p632_s692769" id="p632_w520" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.576" y="581.604" base="587.3" width="13.2962" height="7.552">dati</TOKEN>
+<TOKEN sid="p632_s692770" id="p632_w521" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.37" y="581.604" base="587.3" width="31.2934" height="7.552">druga~no</TOKEN>
+<TOKEN sid="p632_s692771" id="p632_w522" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1797" y="590.674" base="596.37" width="14.94" height="7.552">ime.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p632_s692773" id="p632_w524" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="86.82" y="590.674" base="596.37" width="49.207" height="7.552">preimenovati;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p632_s692774" id="p632_w525" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.8" y="590.674" base="596.37" width="10.1722" height="7.552">Mr</TOKEN>
+<TOKEN sid="p632_s692775" id="p632_w526" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="153.75" y="590.674" base="596.37" width="14.3611" height="7.552">Haq</TOKEN>
+<TOKEN sid="p632_s692776" id="p632_w527" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.89" y="590.674" base="596.37" width="11.9563" height="7.552">has</TOKEN>
+<TOKEN sid="p632_s692777" id="p632_w528" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.625" y="590.674" base="596.37" width="19.9166" height="7.552">taken</TOKEN>
+<TOKEN sid="p632_s692778" id="p632_w529" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="211.32" y="590.674" base="596.37" width="15.3389" height="7.552">over</TOKEN>
+<TOKEN sid="p632_s692779" id="p632_w530" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.438" y="590.674" base="596.37" width="11.1571" height="7.552">the</TOKEN>
+<TOKEN sid="p632_s692780" id="p632_w531" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="599.734" base="605.43" width="29.8404" height="7.552">Carousel</TOKEN>
+<TOKEN sid="p632_s692781" id="p632_w532" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.0206" y="599.734" base="605.43" width="15.197" height="7.552">Cafe</TOKEN>
+<TOKEN sid="p632_s692782" id="p632_w533" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.218" y="599.734" base="605.43" width="12.8002" height="7.552">and</TOKEN>
+<TOKEN sid="p632_s692783" id="p632_w534" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="124.018" y="599.734" base="605.43" width="29.4653" height="7.552">renamed</TOKEN>
+<TOKEN sid="p632_s692784" id="p632_w535" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.484" y="599.734" base="605.43" width="5.19768" height="7.552">it</TOKEN>
+<TOKEN sid="p632_s692785" id="p632_w536" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.681" y="599.734" base="605.43" width="12.8002" height="7.552">The</TOKEN>
+<TOKEN sid="p632_s692786" id="p632_w537" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.482" y="599.734" base="605.43" width="18.3931" height="7.552">Pearl</TOKEN>
+<TOKEN sid="p632_s692787" id="p632_w538" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.875" y="599.734" base="605.43" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p632_s692788" id="p632_w539" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.275" y="599.734" base="605.43" width="19.998" height="7.552">India.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

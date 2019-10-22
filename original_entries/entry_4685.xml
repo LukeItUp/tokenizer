@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+engineer
+</orth>
+<form type="variant">
+<pron>
+/*endZI1n*I*@/
+</pron>
+</form>
+<form type="inflected">
+engineers, engineering, engineered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An engineer 
+</seg>
+je strokovnjak, ki s poznavanjem tehnike na&ccaron;rtuje in gradi stroje, elektri&ccaron;ne naprave ali ceste in mostove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+in&zcaron;enir
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An engineer 
+</seg>
+je tudi oseba, ki popravlja mehanske ali elektri&ccaron;ne naprave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mehanik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a telephone engineer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To engineer an event or situation 
+</seg>
+pomeni spretno ali posredno povzro&ccaron;iti neki dogodek ali dolo&ccaron;ene okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izzvati, izpeljati, zmanevrirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was Dr Martin who had engineered Miss Jackson's dismissal.
+</quote>
+</seg>
+</sense>
+</entry>

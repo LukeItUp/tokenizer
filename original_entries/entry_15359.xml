@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unused;
+</orth>
+<PN>
+pri 1. pomenu besedo izgovarjamo 
+<pron>
+/Vnj*u*:zd/
+</pron>
+, pri 2. pa 
+<pron>
+/Vnj*u*:st/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+unused
+</seg>
+, ni bilo uporabljeno ali porabljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neuporabljen, nerabljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pile of unused fuel.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unused to something
+</seg>
+, ne&ccaron;esa ni naredil ali do&zcaron;ivel velikokrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was unused to hardship.
+</quote>
+</seg>
+</sense>
+</entry>

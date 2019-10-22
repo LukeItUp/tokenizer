@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hospitalize
+</orth>
+<form type="variant">
+<pron>
+/h*QspIt@laIz/
+</pron>
+</form>
+<form type="inflected">
+hospitalizes, hospitalizing, hospitalized.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be hospitalized 
+</seg>
+pomeni biti poslan v bolni&scaron;nico; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+napotiti ali biti sprejet v bolni&scaron;nico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She contracted pneumonia and had to be hospitalized.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+hospitalization
+</orth>
+<form type="variant">
+<pron>
+/h*QspIt@laIz*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Psychiatrists play safe and opt for hospitalization.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

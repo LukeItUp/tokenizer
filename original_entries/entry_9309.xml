@@ -1,0 +1,225 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+muddle
+</orth>
+<form type="variant">
+<pron>
+/m*Vd@0l/
+</pron>
+</form>
+<form type="inflected">
+muddles, muddling, muddled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A muddle 
+</seg>
+je zmedeno stanje ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zme&scaron;njava, godlja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have got into a muddle.
+</quote>
+<quote>
+...the worsening muddle of her finances.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muddles things
+</seg>
+, ve&ccaron; stvari pome&scaron;a med seboj in tako ustvari nered. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pome&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wish you wouldn&apos;t muddle my books and drawings.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muddles someone
+</seg>
+, nekoga zmede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbegati, zmesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t muddle her with too many suggestions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+muddled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;m sorry. I&apos;m getting muddled.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+muddle along.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muddles along
+</seg>
+, &zcaron;ivi ali obstaja brez pravega na&ccaron;rta ali smisla v &zcaron;ivljenju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivotariti, vegetirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The church has lost its way, muddling along from Sunday to Sunday.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+muddle through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muddles through
+</seg>
+, mu uspe narediti nekaj, &ccaron;eprav v resnici ne ve, kako se to pravilno dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znajti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children are left to muddle through on their own.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+muddle up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+muddles things up
+</seg>
+, stvari spravi v nered ali v napa&ccaron;no zaporedje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zame&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Later they may muddle up your names with those of your cousins.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+muddled up
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You&apos;ve got the story muddled up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</sense>
+</entry>

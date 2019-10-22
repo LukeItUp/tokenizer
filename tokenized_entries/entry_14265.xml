@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p777_s855420" id="p777_w831" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="321.892" base="328.3" width="16.6297" height="8.514">taut</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p777_s855421" id="p777_w832" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="273.84" y="323.138" base="328.3" width="19.4516" height="6.844">/t&#213;&#194;t/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p777_s855422" id="p777_w833" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="295.36" y="324.384" base="328.3" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p777_s855423" id="p777_w834" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.89" y="322.604" base="328.3" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p777_s855424" id="p777_w835" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.153" y="322.604" base="328.3" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p777_s855425" id="p777_w836" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.23" y="322.604" base="328.3" width="16.002" height="7.552">taut,</TOKEN>
+</seg>
+<TOKEN sid="p777_s855426" id="p777_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.302" y="322.604" base="328.3" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p777_s855427" id="p777_w838" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.369" y="322.604" base="328.3" width="13.5986" height="7.552">zelo</TOKEN>
+<TOKEN sid="p777_s855428" id="p777_w839" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="373.038" y="322.604" base="328.3" width="25.2029" height="7.552">napeto.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p777_s855430" id="p777_w841" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.63" y="322.604" base="328.3" width="35.5975" height="7.552">nategnjen,</TOKEN>
+<TOKEN sid="p777_s855431" id="p777_w842" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="331.834" base="337.53" width="21.2004" height="7.552">napet;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p777_s855432" id="p777_w843" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.01" y="331.834" base="337.53" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p777_s855433" id="p777_w844" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="297.212" y="331.834" base="337.53" width="13.9997" height="7.552">taut</TOKEN>
+<TOKEN sid="p777_s855434" id="p777_w845" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.21" y="331.834" base="337.53" width="17.0489" height="7.552">wire.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

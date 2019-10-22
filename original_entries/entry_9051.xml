@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mirror
+</orth>
+<form type="variant">
+<pron>
+/m*Ir@/
+</pron>
+</form>
+<form type="inflected">
+mirrors, mirroring, mirrored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mirror 
+</seg>
+je gladka steklena povr&scaron;ina, od katere se odbija svetloba, zato v njej lahko vidimo svojo podobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogledalo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She stared at herself in the mirror.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vidimo odsev ne&ccaron;esa v vodi, lahko re&ccaron;emo, da voda tisto 
+<seg type="lemma">
+mirrors
+</seg>
+; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zrcaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The clear water mirrored the blue sky.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To mirror something 
+</seg>
+pomeni tudi imeti podobne poteze, zato se na prvi pogled zdi, da tisto posnemamo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odsevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the country political allegiances mirrored existing divisions in society.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+truck
+</orth>
+<form type="variant">
+<pron>
+/tr*Vk/
+</pron>
+</form>
+<form type="inflected">
+trucks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A truck 
+</seg>
+je isto kot 
+<seg type="lemma">
+a lorry
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovornjak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a rusty old truck.
+</quote>
+<quote>
+...a truck driver.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A truck 
+</seg>
+je tudi odprt vagon za prevoz tovora na &zcaron;eleznici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odprt tovorni vagon
+</quote>
+</cit>
+</sense>
+</entry>

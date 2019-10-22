@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spell
+</orth>
+<form type="variant">
+<pron>
+/sp*el/
+</pron>
+</form>
+<form type="inflected">
+spells, spelling, spelled 
+<IS>
+ali 
+</IS>
+<IV>
+spelt
+</IV>
+</form>
+<form type="variant">
+<pron>
+/sp*elt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spell a word 
+</seg>
+pomeni napisati ali izgovoriti &ccaron;rko za &ccaron;rko v besedi v pravilnem zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rkovati, (za)pisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Qatar&rsquo;&mdash;&lsquo;How do you spell that?&rsquo;&mdash;&lsquo;Q-A-T-A-R&rsquo;
+</quote>
+<quote>
+Ninety per cent of the words were spelt wrong.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+spells a particular result
+</seg>
+, lahko pri&ccaron;akujemo, da bo imelo dolo&ccaron;ene posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nuclear conflict would spell the end of life as we know it.
+</quote>
+<quote>
+Any discussion of politics would spell disaster.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spell of an activity or type of weather 
+</seg>
+je kraj&scaron;e obdobje neke dejavnosti ali vrste vremena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kraj&scaron;e obdobje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a spell as editor.
+</quote>
+<quote>
+...a spell of good summer weather.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V otro&scaron;kih pravljicah je 
+<seg type="lemma">
+a spell 
+</seg>
+niz besed, ki naj bi imele &ccaron;ude&zcaron;ni u&ccaron;inek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;arobna formula; urok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The spell of the wicked fairy was broken.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+spell out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To spell something out 
+</seg>
+pomeni nekaj podrobno razlo&zcaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no povedati ali pojasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let me try and spell out what I mean by that.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

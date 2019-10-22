@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+moon
+</orth>
+<form type="variant">
+<pron>
+/m*u*:n/
+</pron>
+</form>
+<form type="inflected">
+moons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The moon 
+</seg>
+je nebesno telo, ki se pono&ccaron;i pojavi na nebu kot krog ali del kroga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+luna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...television pictures of a man walking on the moon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A moon 
+</seg>
+je naravno telo v vesolju, ki potuje okoli planeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+luna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Jupiter&apos;s four moons.
+</quote>
+</seg>
+</sense>
+</entry>

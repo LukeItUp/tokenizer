@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+injustice
+</orth>
+<form type="variant">
+<pron>
+/IndZ*VstIs/
+</pron>
+</form>
+<form type="inflected">
+injustices.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Injustice 
+</seg>
+je pomanjkanje pravi&ccaron;nosti v dolo&ccaron;enih okoli&scaron;&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivica, nepravi&ccaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There&apos;s social injustice everywhere.
+</quote>
+<quote>
+He contemplated the injustices of life.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do someone an injustice 
+</seg>
+pomeni nekoga prestrogo oceniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+storiti komu krivico
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

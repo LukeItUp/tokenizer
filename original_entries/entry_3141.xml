@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cow
+</orth>
+<form type="variant">
+<pron>
+/k*a*U/
+</pron>
+</form>
+<form type="inflected">
+cows, cowing, cowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cow 
+</seg>
+je odrasla samica goveda; na kmetijah jo imajo zaradi mleka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krava
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cow 
+</seg>
+je tudi katerakoli &zcaron;ival iz skupine govedi, samec ali samica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a herd of cows.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekdo 
+<seg type="lemma">
+cowed
+</seg>
+, ga z ustrahovanjem prisilijo, da se vede na dolo&ccaron;en na&ccaron;in; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+opla&scaron;iti, ustrahovati, terorizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People shouldn't allow themselves to be cowed into this.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+cowed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his tragically cowed and battered wife.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

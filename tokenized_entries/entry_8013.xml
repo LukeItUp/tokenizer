@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p415_s453635" id="p415_w441" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="508.232" base="514.64" width="23.7519" height="8.514">kitten</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p415_s453636" id="p415_w442" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="83.51" y="509.478" base="514.64" width="16.0001" height="6.844">/k&#203;t6</TOKEN>
+<TOKEN sid="p415_s453637" id="p415_w443" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="99.84" y="508.83" base="512.24" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p415_s453638" id="p415_w444" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="102.47" y="509.478" base="514.64" width="9.2516" height="6.844">n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p415_s453639" id="p415_w445" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="114.76" y="509.3" base="514.64" width="22.871" height="7.08">kittens.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p415_s453640" id="p415_w446" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="140.66" y="510.724" base="514.64" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p415_s453641" id="p415_w447" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="161.719" y="510.724" base="514.64" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p415_s453642" id="p415_w448" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.88" y="508.944" base="514.64" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p415_s453643" id="p415_w449" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.51" y="508.944" base="514.64" width="20.3904" height="7.552">kitten</TOKEN>
+</seg>
+<TOKEN sid="p415_s453644" id="p415_w450" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.94" y="508.944" base="514.64" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p415_s453645" id="p415_w451" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.975" y="508.944" base="514.64" width="13.5965" height="7.552">zelo</TOKEN>
+<TOKEN sid="p415_s453646" id="p415_w452" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.611" y="508.944" base="514.64" width="17.1965" height="7.552">mlad</TOKEN>
+<TOKEN sid="p415_s453647" id="p415_w453" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="518.014" base="523.71" width="24.0012" height="7.552">ma~ek.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p415_s453649" id="p415_w455" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="94.62" y="518.014" base="523.71" width="24.3972" height="7.552">mucek,</TOKEN>
+<TOKEN sid="p415_s453650" id="p415_w456" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.017" y="518.014" base="523.71" width="22.7995" height="7.552">mucka</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

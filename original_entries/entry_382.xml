@@ -5,7 +5,7 @@ allied
 </orth>
 <form type="variant">
 <pron>
-/*#ae;laId/.
+/*&ae;laId/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Dr&#382;ave, politi&#269;ne stranke ali druge skupine, ki so
+Dr&zcaron;ave, politi&ccaron;ne stranke ali druge skupine, ki so 
 <seg type="lemma">
 allied
 </seg>
-so povezane s politi&#269;nim ali voja&#353;kim sporazumom.
+, so povezane s politi&ccaron;nim ali voja&scaron;kim sporazumom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-zavezni&#353;ki
+zavezni&scaron;ki
 </quote>
 </cit>
 </sense>
@@ -35,12 +35,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-allied
+allied 
 </seg>
-opisujemo stvari, povezane
-z drugimi stvarmi zaradi skupnih lastnosti ali zna&#269;ilnosti.
+opisujemo stvari, povezane z drugimi stvarmi zaradi skupnih lastnosti ali zna&ccaron;ilnosti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -56,10 +55,10 @@ The aircraft and allied industries were nationalized.
 <sense n="3">
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-ally.
+ally
 </ref>
 </xr>
 </sense>

@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+orange
+</orth>
+<form type="variant">
+<pron>
+/*QrIndZ/
+</pron>
+</form>
+<form type="inflected">
+oranges.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+orange
+</seg>
+, je barve med rde&ccaron;o in rumeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oran&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an orange silk scarf.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An orange 
+</seg>
+je so&ccaron;en in sladek okrogel sade&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomaran&ccaron;a
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+</sense>
+</entry>

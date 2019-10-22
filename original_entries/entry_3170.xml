@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+crash
+</orth>
+<form type="variant">
+<pron>
+/kr*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+crashes, crashing, crashed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crash 
+</seg>
+je nezgoda, pri kateri premikajo&ccaron;e se vozilo v nekaj tr&ccaron;i in je zato po&scaron;kodovano ali uni&ccaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trk, tr&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her mother was killed in a car crash.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e premikajo&ccaron;e se vozilo 
+<seg type="lemma">
+crashes
+</seg>
+, se v nekaj zaleti in je zato po&scaron;kodovano ali uni&ccaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tr&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plane crashed within seconds of taking off.
+</quote>
+<quote>
+He crashed his car into the bar.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To crash 
+</seg>
+pomeni tudi silovito in z glasnim zvokom se premikati ali pasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The door crashed open.
+</quote>
+<quote>
+A glass crashed to the floor.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crash 
+</seg>
+je tudi nenaden glasen zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tresk, tru&scaron;&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a terrific crash of thunder.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The crash of a business 
+</seg>
+je hud neuspeh podjetja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polom, bankrot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the most spectacular financial crashes of the decade.
+</quote>
+</seg>
+</sense>
+</entry>

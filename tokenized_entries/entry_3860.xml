@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p198_s215911" id="p198_w222" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="290.342" base="296.75" width="37.0574" height="8.514">digestive</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p198_s215912" id="p198_w223" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="94.59" y="291.588" base="296.75" width="9.5192" height="6.844">/d&#203;</TOKEN>
+<TOKEN sid="p198_s215913" id="p198_w224" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="104.43" y="290.95" base="294.36" width="2.39636" height="4.52176">5</TOKEN>
+<TOKEN sid="p198_s215914" id="p198_w225" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="107.06" y="291.588" base="296.75" width="29.5816" height="6.844">d&#199;est&#203;v/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p198_s215915" id="p198_w226" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="139.66" y="292.834" base="296.75" width="19.1748" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p198_s215916" id="p198_w227" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="160.91" y="292.834" base="296.75" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p198_s215917" id="p198_w228" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.38" y="291.054" base="296.75" width="23.9904" height="7.552">Beseda</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p198_s215918" id="p198_w229" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.39" y="291.054" base="296.75" width="30.3869" height="7.552">digestive</TOKEN>
+</seg>
+<TOKEN sid="p198_s215919" id="p198_w230" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="234.8" y="291.054" base="296.75" width="6.8004" height="7.552">se</TOKEN>
+<TOKEN sid="p198_s215920" id="p198_w231" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="300.134" base="305.83" width="23.6988" height="7.552">nana{a</TOKEN>
+<TOKEN sid="p198_s215921" id="p198_w232" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.4182" y="300.134" base="305.83" width="8.3412" height="7.552">na</TOKEN>
+<TOKEN sid="p198_s215922" id="p198_w233" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.2981" y="300.134" base="305.83" width="42.025" height="7.552">prebavljanje</TOKEN>
+<TOKEN sid="p198_s215923" id="p198_w234" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.862" y="300.134" base="305.83" width="21.294" height="7.552">hrane.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p198_s215925" id="p198_w236" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.57" y="300.134" base="305.83" width="32.9688" height="7.552">prebaven;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p198_s215926" id="p198_w237" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.11" y="300.134" base="305.83" width="17.8142" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p198_s215927" id="p198_w238" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="221.462" y="300.134" base="305.83" width="20.129" height="7.552">diges-</TOKEN>
+<TOKEN sid="p198_s215928" id="p198_w239" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="309.214" base="314.91" width="12.7973" height="7.552">tive</TOKEN>
+<TOKEN sid="p198_s215929" id="p198_w240" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="74.9758" y="309.214" base="314.91" width="25.1914" height="7.552">system.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

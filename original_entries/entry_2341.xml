@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+churn
+</orth>
+<form type="variant">
+<pron>
+/tS*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+churns, churning, churned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A churn 
+</seg>
+je posoda, v kateri delamo maslo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pinja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To churn milk or cream 
+</seg>
+pomeni mo&ccaron;no me&scaron;ati mleko ali smetano, da nastane maslo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stepati, pinjiti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+churns mud or water 
+</seg>
+ali 
+<seg type="lemma">
+churns mud or water up
+</seg>
+, silovito vrtin&ccaron;i blato ali vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bulldozers were churning the mud.
+</quote>
+<quote>
+The wind churned up the water into a swirling foam.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+churn out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To churn things out 
+</seg>
+pomeni zelo hitro izdelovati predmete v velikem &scaron;tevilu; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bruhati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His organization began churning out tracts and posters.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

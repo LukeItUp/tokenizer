@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+damp
+</orth>
+<form type="variant">
+<pron>
+/d*&ae;mp/
+</pron>
+</form>
+<form type="inflected">
+damper, dampest; damps, damping, damped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Damp 
+</seg>
+pomeni nekoliko moker. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vla&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The building was cold and damp.
+</quote>
+<quote>
+She wiped the table with a damp cloth.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dampness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the cold and dampness of winter.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Damp 
+</seg>
+je blaga vla&zcaron;nost zraka ali sten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlaga
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+damp down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To damp down a difficult situation 
+</seg>
+pomeni umiriti ali ubla&zcaron;iti te&zcaron;aven polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umiriti, ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Neighbouring countries had been of no help in damping down the crisis.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

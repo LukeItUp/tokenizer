@@ -1,0 +1,40 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p180_s196551" id="p180_w439" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="535.562" base="541.97" width="26.6717" height="8.514">debtor</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p180_s196552" id="p180_w440" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="82.7" y="536.808" base="541.97" width="21.9016" height="6.844">/det6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p180_s196553" id="p180_w441" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="106.13" y="536.63" base="541.97" width="25.8208" height="7.08">debtors.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p180_s196554" id="p180_w442" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="133.47" y="538.054" base="541.97" width="18.7694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p180_s196555" id="p180_w443" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="153.299" y="538.054" base="541.97" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p180_s196556" id="p180_w444" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="158.98" y="536.274" base="541.97" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p180_s196557" id="p180_w445" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="166.11" y="536.274" base="541.97" width="22.0392" height="7.552">debtor</TOKEN>
+</seg>
+<TOKEN sid="p180_s196558" id="p180_w446" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="189.7" y="536.274" base="541.97" width="5.92848" height="7.552">je</TOKEN>
+<TOKEN sid="p180_s196559" id="p180_w447" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.16" y="536.274" base="541.97" width="20.8584" height="7.552">oseba,</TOKEN>
+<TOKEN sid="p180_s196560" id="p180_w448" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.55" y="536.274" base="541.97" width="6.72768" height="7.552">ki</TOKEN>
+<TOKEN sid="p180_s196561" id="p180_w449" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.809" y="536.274" base="541.97" width="13.7894" height="7.552">dol-</TOKEN>
+<TOKEN sid="p180_s196562" id="p180_w450" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="545.344" base="551.04" width="14.3957" height="7.552">guje</TOKEN>
+<TOKEN sid="p180_s196563" id="p180_w451" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.5746" y="545.344" base="551.04" width="20.7641" height="7.552">denar.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p180_s196565" id="p180_w453" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="105.58" y="545.344" base="551.04" width="25.5917" height="7.552">dol`nik</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

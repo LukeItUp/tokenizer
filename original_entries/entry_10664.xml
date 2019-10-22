@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plateau
+</orth>
+<form type="variant">
+<pron>
+/pl*&ae;t@U/
+</pron>
+</form>
+<form type="inflected">
+plateaus 
+<IS>
+ali 
+</IS>
+<IV>
+plateaux
+</IV>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plateau 
+</seg>
+je veliko obmo&ccaron;je visokega ravnega zemlji&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planota
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dejavnost ali dogajanje 
+<seg type="lemma">
+has reached a plateau
+</seg>
+, je doseglo stopnjo, ko ni ve&ccaron; mogo&ccaron;a nikakr&scaron;na sprememba ali nadaljnji napredek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plato
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The US space programme seemed to have reached a plateau of development.
+</quote>
+</seg>
+</sense>
+</entry>

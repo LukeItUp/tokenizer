@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p873_s960850" id="p873_w546" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="589.932" base="596.34" width="25.8005" height="8.514">wordy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p873_s960851" id="p873_w547" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="84.05" y="591.178" base="596.34" width="20.78" height="6.844">/w&#197;&#194;di</TOKEN>
+<TOKEN sid="p873_s960852" id="p873_w548" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="105.13" y="590.54" base="593.95" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p873_s960853" id="p873_w549" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="107.73" y="591.178" base="596.34" width="4.8416" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p873_s960854" id="p873_w550" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="114.1" y="592.424" base="596.34" width="10.3702" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p873_s960855" id="p873_w551" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.02" y="590.644" base="596.34" width="13.055" height="7.552">Kar</TOKEN>
+<TOKEN sid="p873_s960856" id="p873_w552" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.604" y="590.644" base="596.34" width="5.92632" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p873_s960857" id="p873_w553" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.08" y="590.644" base="596.34" width="23.1314" height="7.552">wordy,</TOKEN>
+</seg>
+<TOKEN sid="p873_s960858" id="p873_w554" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="172.74" y="590.644" base="596.34" width="25.1683" height="7.552">vsebuje</TOKEN>
+<TOKEN sid="p873_s960859" id="p873_w555" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="199.437" y="590.644" base="596.34" width="21.9542" height="7.552">preve~</TOKEN>
+<TOKEN sid="p873_s960860" id="p873_w556" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.92" y="590.644" base="596.34" width="20.8404" height="7.552">besed.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p873_s960862" id="p873_w558" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="599.724" base="605.42" width="39.996" height="7.552">dolgovezen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p873_s960863" id="p873_w559" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="110.62" y="599.724" base="605.42" width="19.9886" height="7.552">&#8230;this</TOKEN>
+<TOKEN sid="p873_s960864" id="p873_w560" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.607" y="599.724" base="605.42" width="14.7989" height="7.552">very</TOKEN>
+<TOKEN sid="p873_s960865" id="p873_w561" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.405" y="599.724" base="605.42" width="21.4553" height="7.552">wordy</TOKEN>
+<TOKEN sid="p873_s960866" id="p873_w562" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="172.859" y="599.724" base="605.42" width="16.4045" height="7.552">book</TOKEN>
+<TOKEN sid="p873_s960867" id="p873_w563" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.262" y="599.724" base="605.42" width="8.40096" height="7.552">on</TOKEN>
+<TOKEN sid="p873_s960868" id="p873_w564" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.662" y="599.724" base="605.42" width="26.3743" height="7.552">biology.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

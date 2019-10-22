@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contradiction
+</orth>
+<form type="variant">
+<pron>
+/k*Qntr@d*IkS@0n/
+</pron>
+</form>
+<form type="inflected">
+contradictions.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A contradiction 
+</seg>
+je razlika med dvema stvarema ali deloma ne&ccaron;esa; ta zmanj&scaron;uje njun u&ccaron;inek ali povzro&ccaron;i, da sta te&zcaron;ko razumljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+protislovje, navzkri&zcaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a contradiction between the two laws.
+</quote>
+<quote>
+There is no contradiction in this approach.
+</quote>
+<quote>
+I hate to admit all these contradictions in myself.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da je nekaj 
+<seg type="lemma">
+a contradiction in terms
+</seg>
+, ho&ccaron;emo povedati, da je v opisu lastnost, ki je tista stvar ne more imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+notranje protislovje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A rational religion is almost a contradiction in terms.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

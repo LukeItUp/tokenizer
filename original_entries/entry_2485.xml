@@ -1,0 +1,192 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cloud
+</orth>
+<form type="variant">
+<pron>
+/kl*a*Ud/
+</pron>
+</form>
+<form type="inflected">
+clouds, clouding, clouded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cloud 
+</seg>
+je velika koli&ccaron;ina vodne pare, ki jo vidimo kot belo ali sivo gmoto na nebu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were little white clouds high in the blue sky.
+</quote>
+<quote>
+There will be heavy cloud over many areas.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cloud of smoke or dust 
+</seg>
+je gmota dima ali prahu, ki plava po zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblak
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+clouds
+</seg>
+, postane manj prozorno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamegliti (se); zarositi (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lit a cigar and soon clouded the room in smoke.
+</quote>
+<quote>
+My glasses kept clouding up.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ena stvar 
+<seg type="lemma">
+clouds another
+</seg>
+, poskrbi, da je drugo stvar te&zcaron;e razumeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamegliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His explanations clouded the issue.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+clouds an event or situation
+</seg>
+, poskrbi, da je tisti dogodek ali polo&zcaron;aj bolj neprijeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatemniti, skaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Insanity clouded the last years of his life.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cloud over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovekov obraz ali o&ccaron;i 
+<seg type="lemma">
+cloud over
+</seg>
+, je &ccaron;lovek na lepem videti &zcaron;alosten ali jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skaliti se, zamegliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His face clouded over with anguish.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+it clouds over 
+</seg>
+pomeni, da se nebo prekrije z oblaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poobla&ccaron;iti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

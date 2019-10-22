@@ -5,7 +5,7 @@ attitude
 </orth>
 <form type="variant">
 <pron>
-/*#ae;tItju:d/
+/*&ae;tItju:d/
 </pron>
 </form>
 <form type="inflected">
@@ -15,19 +15,18 @@ attitudes.
 <sense n="1">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's attitude to something
+One's attitude to something 
 </seg>
-je na&#269;in, kako
-&#269;lovek o ne&#269;em misli ali &#269;uti.
+je na&ccaron;in, kako &ccaron;lovek o ne&ccaron;em misli ali &ccaron;uti.
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -38,19 +37,18 @@ odnos
 <sense n="2">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 POSS
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's attitude to someone
+One's attitude to someone 
 </seg>
-je na&#269;in, kako
-se &#269;lovek do nekoga vede.
+je na&ccaron;in, kako se &ccaron;lovek do nekoga vede. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -66,23 +64,22 @@ I resented his attitude.
 <sense n="3">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An attitude
+An attitude 
 </seg>
-je tudi polo&#382;aj &#269;lovekovega
-telesa.
+je tudi polo&zcaron;aj &ccaron;lovekovega telesa. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-dr&#382;a
+dr&zcaron;a
 </quote>
 </cit>
 <seg type="example">

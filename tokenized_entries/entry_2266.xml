@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p113_s123982" id="p113_w905" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="435.832" base="442.24" width="35.1508" height="8.514">childless</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p113_s123983" id="p113_w906" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="291.89" y="437.078" base="442.24" width="26.5691" height="6.844">/t&#196;a&#203;ldl&#203;</TOKEN>
+<TOKEN sid="p113_s123984" id="p113_w907" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="318.78" y="436.44" base="439.85" width="2.39636" height="4.52176">2</TOKEN>
+<TOKEN sid="p113_s123985" id="p113_w908" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="321.42" y="437.078" base="442.24" width="8.1516" height="6.844">s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p113_s123986" id="p113_w909" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="331.17" y="438.324" base="442.24" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p113_s123987" id="p113_w910" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.22" y="436.544" base="442.24" width="17.5925" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p113_s123988" id="p113_w911" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.412" y="436.544" base="442.24" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p113_s123989" id="p113_w912" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.01" y="436.544" base="442.24" width="31.5713" height="7.552">childless,</TOKEN>
+</seg>
+<TOKEN sid="p113_s123990" id="p113_w913" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="403.182" y="436.544" base="442.24" width="17.1986" height="7.552">nima</TOKEN>
+<TOKEN sid="p113_s123991" id="p113_w914" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="421.981" y="436.544" base="442.24" width="20.2514" height="7.552">otrok.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p113_s123993" id="p113_w916" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.05" y="445.604" base="451.3" width="14.6513" height="7.552">brez</TOKEN>
+<TOKEN sid="p113_s123994" id="p113_w917" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="283.699" y="445.604" base="451.3" width="20.2457" height="7.552">otrok;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p113_s123995" id="p113_w918" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="305.96" y="445.604" base="451.3" width="36.7783" height="7.552">&#8230;childless</TOKEN>
+<TOKEN sid="p113_s123996" id="p113_w919" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="344.739" y="445.604" base="451.3" width="27.5926" height="7.552">couples.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

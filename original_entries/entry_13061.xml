@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slap
+</orth>
+<form type="variant">
+<pron>
+/sl*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+slaps, slapping, slapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slap someone 
+</seg>
+pomeni udariti nekoga z dlanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klofniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slapped her across the face.
+</quote>
+<quote>
+I slapped her hand.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Give him a slap if he is too much of a pest.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slap someone on the back 
+</seg>
+pomeni nekoga prijateljsko udariti po hrbtu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrepljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I slapped him on the back and wished him the best of luck.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a hefty slap on the back.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slap something onto a surface 
+</seg>
+pomeni nekaj postaviti nekam hitro in nepazljivo, pogosto z veliko silo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti, po&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All you have to do is slap a bit of Sellotape across it.
+</quote>
+<quote>
+He slapped the report down on the table.
+</quote>
+</seg>
+</sense>
+</entry>

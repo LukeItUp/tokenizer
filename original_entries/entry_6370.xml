@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guess
+</orth>
+<form type="variant">
+<pron>
+/g*es/
+</pron>
+</form>
+<form type="inflected">
+guesses, guessing, guessed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guess something 
+</seg>
+pomeni dati odgovor ali mnenje o ne&ccaron;em, &ccaron;eprav ne vemo, ali je pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugibati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She guessed that she was fifty yards from shore.
+</quote>
+<quote>
+We can only guess at the number of deaths it has caused.
+</quote>
+<quote>
+My salary is, I would guess, about half of yours.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guess something 
+</seg>
+pomeni dati pravilen odgovor na problem ali vpra&scaron;anje, &ccaron;eprav prej nismo bili prepri&ccaron;ani, ali je odgovor pravilen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uganiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How did you guess?
+</quote>
+<quote>
+I had guessed the identity of her lover.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guess 
+</seg>
+je poskus, da bi na nekaj pravilno odgovorili, &ccaron;eprav ne vemo, kak&scaron;en je odgovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domneva, ugibanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t know the name but I&apos;ll take a guess at it.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+I guess 
+</seg>
+uporabimo, kadar mislimo, da je nekaj resni&ccaron;no ali verjetno; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+domnevam, sklepam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What&apos;s that?&rsquo;&mdash;&lsquo;Some sort of blackbird, I guess.&rsquo;
+</quote>
+<quote>
+&lsquo;Sure?&rsquo;&mdash;&lsquo;I guess so.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

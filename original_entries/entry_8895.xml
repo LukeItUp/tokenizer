@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mention
+</orth>
+<form type="variant">
+<pron>
+/m*enS@0n/
+</pron>
+</form>
+<form type="inflected">
+mentions, mentioning, mentioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mentions something
+</seg>
+, o ne&ccaron;em nekaj re&ccaron;e, ponavadi na kratko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Penny decided not to mention her cold.
+</quote>
+<quote>
+I mentioned to Tom that I was thinking of going back to work.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mention 
+</seg>
+je omemba ne&ccaron;esa ali nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omemba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My brother used to go purple in the face at the very mention of my name.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+not to mention 
+</seg>
+uporabljamo, kadar nekemu seznamu poudarjeno dodamo &scaron;e nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+da ne omenjam(o)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s always travelling to Buenos Aires and Delhi, not to mention London and Paris.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

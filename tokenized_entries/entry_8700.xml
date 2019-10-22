@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p458_s501633" id="p458_w114" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="184.532" base="190.94" width="25.1695" height="8.514">maple</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p458_s501634" id="p458_w115" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="81.59" y="185.778" base="190.94" width="22.9001" height="6.844">/me&#203;p6</TOKEN>
+<TOKEN sid="p458_s501635" id="p458_w116" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="104.81" y="185.13" base="188.54" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p458_s501636" id="p458_w117" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="107.45" y="185.778" base="190.94" width="7.4316" height="6.844">l/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p458_s501637" id="p458_w118" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="116.79" y="185.6" base="190.94" width="25.1221" height="7.08">maples.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p458_s501638" id="p458_w119" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="143.82" y="187.024" base="190.94" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p458_s501639" id="p458_w120" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="164.099" y="187.024" base="190.94" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p458_s501640" id="p458_w121" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.13" y="185.244" base="190.94" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p458_s501641" id="p458_w122" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.64" y="185.244" base="190.94" width="20.7979" height="7.552">maple</TOKEN>
+</seg>
+<TOKEN sid="p458_s501642" id="p458_w123" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.34" y="185.244" base="190.94" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p458_s501643" id="p458_w124" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.247" y="185.244" base="190.94" width="17.1979" height="7.552">vrsta</TOKEN>
+<TOKEN sid="p458_s501644" id="p458_w125" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.355" y="185.244" base="190.94" width="14.2409" height="7.552">dre-</TOKEN>
+<TOKEN sid="p458_s501645" id="p458_w126" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1795" y="194.454" base="200.15" width="16.799" height="7.552">vesa.</TOKEN>
+<TOKEN sid="p458_s501646" id="p458_w127" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="78.9773" y="194.454" base="200.15" width="26.3938" height="7.552">Njegovi</TOKEN>
+<TOKEN sid="p458_s501647" id="p458_w128" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="107.37" y="194.454" base="200.15" width="13.1846" height="7.552">listi</TOKEN>
+<TOKEN sid="p458_s501648" id="p458_w129" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.553" y="194.454" base="200.15" width="19.1966" height="7.552">imajo</TOKEN>
+<TOKEN sid="p458_s501649" id="p458_w130" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.748" y="194.454" base="200.15" width="10.7971" height="7.552">pet</TOKEN>
+<TOKEN sid="p458_s501650" id="p458_w131" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="156.544" y="194.454" base="200.15" width="20.7936" height="7.552">konic.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p458_s501652" id="p458_w133" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.59" y="194.454" base="200.15" width="17.6011" height="7.552">javor</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

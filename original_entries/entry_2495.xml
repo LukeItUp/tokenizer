@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clue
+</orth>
+<form type="variant">
+<pron>
+/kl*u*:/
+</pron>
+</form>
+<form type="inflected">
+clues.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A clue to a problem, mystery, or puzzle 
+</seg>
+je nekaj, kar nam pomaga poiskati odgovor na problem, skrivnost ali uganko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klju&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The clue to solving our energy problem lies in conservation.
+</quote>
+<quote>
+The police searched all the houses but found no clues.
+</quote>
+<quote>
+...a crossword clue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+I haven't a clue about it
+</seg>
+, povemo, da o ne&ccaron;em ni&ccaron;esar ne vemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne imeti pojma o ne&ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hadn't got a clue how to spell it.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

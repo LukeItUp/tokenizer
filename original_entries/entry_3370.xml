@@ -1,0 +1,718 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cut
+</orth>
+<form type="variant">
+<pron>
+/k*Vt/
+</pron>
+</form>
+<form type="inflected">
+cuts, cutting.
+</form>
+<IN>
+<IH>
+Cut 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut something 
+</seg>
+pomeni v neko stvar potisniti no&zcaron; ali podobno orodje, da odstranimo del te stvari, jo zaznamujemo ali po&scaron;kodujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prerezati, odrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She cut the cake and gave me a piece.
+</quote>
+<quote>
+His wife killed herself by cutting her wrists.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...thinly cut rye bread.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut oneself 
+</seg>
+pomeni po nesre&ccaron;i se po&scaron;kodovati z ostrim predmetom in zato krvaveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urezati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Robert cut his knee quite badly.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut across an area 
+</seg>
+ali 
+<seg type="variant">
+to cut through an area 
+</seg>
+pomeni zlahka iti &ccaron;ez neko obmo&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urezati jo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I cut across country for the next hundred miles.
+</quote>
+<quote>
+The big canoe was cutting through the water.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut an amount 
+</seg>
+pomeni zmanj&scaron;ati neko koli&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati, zni&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She cut her costs by half.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je del zapisa 
+<seg type="lemma">
+cut
+</seg>
+, ni natisnjen ali predvajan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rtati, izpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her publishers insisted on cutting several stories out of her memoirs.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He agreed to make a few minor changes and cuts in the play.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut someone's hair 
+</seg>
+pomeni nekomu skraj&scaron;ati lase s &scaron;karjami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostri&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tell him to get his hair cut.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obleke, ki so 
+<seg type="lemma">
+well cut
+</seg>
+, so dobro oblikovane in izdelane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro krojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wears beautifully cut suits.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a cut in something 
+</seg>
+pomeni v neko stvar potisniti no&zcaron; ali podobno orodje, da tisto zaznamujemo ali po&scaron;kodujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zarezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made a deep cut in the wood.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cut 
+</seg>
+je tudi po&scaron;kodba, ki nastane, kadar se ure&zcaron;emo z ostrim predmetom in krvavimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urez, ureznina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had some cuts and bruises but I'm OK.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cut of meat 
+</seg>
+je velik kos mesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;enj
+</quote>
+</cit>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cut in an amount 
+</seg>
+je zmanj&scaron;anje neke koli&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rez, kr&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...large cuts in government spending.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+a cut above other things of the same kind
+</seg>
+, je bolj&scaron;e kot druge stvari enake vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The meals they serve are a cut above most pub food.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="13">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cutting
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cut back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut back 
+</seg>
+ali 
+<seg type="variant">
+to cut back on some money 
+</seg>
+pomeni, da zmanj&scaron;amo koli&ccaron;ino denarja, ki ga tro&scaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skr&ccaron;iti, zmanj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Congress cut back the funds.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cutback
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cut down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut down on an activity 
+</seg>
+pomeni manj pogosto se ukvarjati z neko dejavnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati, omejiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had cut down on smoking.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut a tree down 
+</seg>
+pomeni zasekati skozi deblo, da drevo pade na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posekati, podreti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cut in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut in on someone 
+</seg>
+pomeni nekoga prekiniti, ko govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti v besedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Travers began a reply, but Mrs Patel cut in again.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cut off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut something off 
+</seg>
+pomeni nekaj odstraniti tako, da tisto odre&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lexington cut off a small piece of meat.
+</quote>
+<quote>
+...egg sandwiches with the crusts cut off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut off a place or a person 
+</seg>
+pomeni lo&ccaron;iti kraj ali osebo od tistega, s &ccaron;imer sta navadno povezana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odrezati, pretrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The town was cut off.
+</quote>
+<quote>
+We have cut ourselves off from the old ways of thinking.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She is completely cut off from friends.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+&Ccaron;e je dobava ne&ccaron;esa 
+<seg type="lemma">
+cut off
+</seg>
+, tistega ne dobavljajo ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, pretrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Gas supplies had now been cut off.
+</quote>
+<quote>
+They are threatening to cut off funds.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut someone off
+</seg>
+ pomeni prekiniti telefonsko zvezo, kadar se nekdo pogovarja po telefonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, pretrgati
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cut-off
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cut out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut out part of something 
+</seg>
+pomeni odstraniti del ne&ccaron;esa z orodjem, ki ima oster rob. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Badly decayed timber should be cut out and replaced.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut out 
+</seg>
+pomeni, da nehamo nekaj delati ali govoriti nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prenehati, opustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cut out waste.
+</quote>
+<quote>
+He's cut out the drinking altogether.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+&Ccaron;e neki predmet 
+<seg type="lemma">
+cuts out the light
+</seg>
+, svetlobi prepre&ccaron;i dostop do nekega prostora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasen&ccaron;iti, zastreti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar motor 
+<seg type="lemma">
+cuts out
+</seg>
+, nenadoma preneha delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugasniti, &lsquo;crkniti&rsquo;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It keeps cutting out when I stop.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cut-out
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cut up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cut something up 
+</seg>
+pomeni nekaj narezati na ve&ccaron; kosov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razrezati, razsekati
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+cut up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

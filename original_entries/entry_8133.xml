@@ -1,0 +1,138 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+laugh
+</orth>
+<form type="variant">
+<pron>
+/l*A*:f/
+</pron>
+</form>
+<form type="inflected">
+laughs, laughing, laughed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To laugh 
+</seg>
+pomeni ustvarjati zvok, ki ka&zcaron;e, da smo veseli ali se zabavamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smejati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He grinned, then started to laugh.
+</quote>
+<quote>
+The young men laughed at his jokes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Hurry up,&rsquo; said Tony with a laugh.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have the last laugh 
+</seg>
+pomeni uspeti potem, ko je &zcaron;e kazalo, da smo pora&zcaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadnji se smejati, triumfirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Henry had outlived all the others to have the last laugh.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+laugh at.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To laugh at someone or something 
+</seg>
+pomeni rogati se ali zbijati &scaron;ale na ra&ccaron;un nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posmehovati se, smejati se komu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t think it&apos;s nice to laugh at people&apos;s disabilities.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+laugh off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To laugh off a serious situation 
+</seg>
+pomeni namigniti, da je resen polo&zcaron;aj zabaven in nepomemben. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti na hec, vzeti s sme&scaron;ne plati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Northcliffe attempted to laugh the matter off.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

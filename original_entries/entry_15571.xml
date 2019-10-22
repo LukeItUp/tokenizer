@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vet
+</orth>
+<form type="variant">
+<pron>
+/v*et/
+</pron>
+</form>
+<form type="inflected">
+vets, vetting, vetted;
+</form>
+<usg>
+britanska beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A vet 
+</seg>
+je oseba, usposobljena za zdravljenje bolnih ali ranjenih &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veterinar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Get your kitten checked by the vet.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To vet someone or something 
+</seg>
+pomeni natan&ccaron;no preu&ccaron;iti podatke o nekom ali ne&ccaron;em, da se prepri&ccaron;amo, ali je sprejemljiv oziroma sprejemljivo; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preveriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His speeches were vetted.
+</quote>
+<quote>
+He was thoroughly vetted.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+vetting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He wanted to tighten the security vetting of civil servants.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

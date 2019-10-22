@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inspector
+</orth>
+<form type="variant">
+<pron>
+/Insp*ekt@/
+</pron>
+</form>
+<form type="inflected">
+inspectors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inspector 
+</seg>
+je oseba, ki slu&zcaron;beno preiskuje zadeve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+in&scaron;pektor, nadzornik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the factory inspector.
+</quote>
+<quote>
+The inspector&apos;s report was released to the public.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inspector 
+</seg>
+je tudi uradnik pri policiji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+in&scaron;pektor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Inspector Flint.
+</quote>
+</seg>
+</sense>
+</entry>

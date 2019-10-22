@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hog
+</orth>
+<form type="variant">
+<pron>
+/h*Qg/
+</pron>
+</form>
+<form type="inflected">
+hogs, hogging, hogged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hog 
+</seg>
+je kastriran pra&scaron;i&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pra&scaron;i&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hog something 
+</seg>
+pomeni sebi&ccaron;no in nevljudno vzeti vse, kar nam ponudijo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prisvojiti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a huge lorry hogging the centre of the road.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chink
+</orth>
+<form type="variant">
+<pron>
+/tS*INk/
+</pron>
+</form>
+<form type="inflected">
+chinks, chinking, chinked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chink 
+</seg>
+je zelo ozka odprtina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;a, &scaron;pranja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Through a chink she could see a bit of blue sky.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; predmetov 
+<seg type="lemma">
+chink
+</seg>
+, se dotaknejo drug drugega in povzro&ccaron;ijo kratek, tih, zvonek glas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;venketati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Empty bottles chinked as the milkman put them into his crate.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the chink of money.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p250_s272200" id="p250_w42" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="109.082" base="115.49" width="38.0133" height="8.514">examiner</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p250_s272201" id="p250_w43" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="94.14" y="110.328" base="115.49" width="5.16906" height="6.844">/&#203;</TOKEN>
+<TOKEN sid="p250_s272202" id="p250_w44" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="99.63" y="109.69" base="113.1" width="2.39636" height="4.52176">2</TOKEN>
+<TOKEN sid="p250_s272203" id="p250_w45" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="102.27" y="110.328" base="115.49" width="35.0016" height="6.844">gz&#230;m&#203;n6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p250_s272204" id="p250_w46" font-name="SSUnivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="138.89" y="110.15" base="115.49" width="35.2499" height="7.08">examiners.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p250_s272205" id="p250_w47" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="175.77" y="111.574" base="115.49" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p250_s272206" id="p250_w48" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="195.851" y="111.574" base="115.49" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p250_s272207" id="p250_w49" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.59" y="109.794" base="115.49" width="9.99936" height="7.552">An</TOKEN>
+<TOKEN sid="p250_s272208" id="p250_w50" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.208" y="109.794" base="115.49" width="28.3882" height="7.552">examin-</TOKEN>
+<TOKEN sid="p250_s272209" id="p250_w51" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="118.864" base="124.56" width="6.79752" height="7.552">er</TOKEN>
+</seg>
+<TOKEN sid="p250_s272210" id="p250_w52" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.9797" y="118.864" base="124.56" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p250_s272211" id="p250_w53" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.9767" y="118.864" base="124.56" width="21.2004" height="7.552">oseba,</TOKEN>
+<TOKEN sid="p250_s272212" id="p250_w54" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.177" y="118.864" base="124.56" width="6.79608" height="7.552">ki</TOKEN>
+<TOKEN sid="p250_s272213" id="p250_w55" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="108.974" y="118.864" base="124.56" width="27.9886" height="7.552">pripravi</TOKEN>
+<TOKEN sid="p250_s272214" id="p250_w56" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.962" y="118.864" base="124.56" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p250_s272215" id="p250_w57" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.759" y="118.864" base="124.56" width="17.9971" height="7.552">oceni</TOKEN>
+<TOKEN sid="p250_s272216" id="p250_w58" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.757" y="118.864" base="124.56" width="17.5932" height="7.552">izpit.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p250_s272218" id="p250_w60" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.57" y="118.864" base="124.56" width="41.9897" height="7.552">izpra{evalec</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

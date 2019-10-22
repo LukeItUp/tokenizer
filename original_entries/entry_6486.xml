@@ -1,0 +1,630 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hand
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;nd/
+</pron>
+</form>
+<form type="inflected">
+hands, handing, handed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s hands 
+</seg>
+so deli telesa na spodnjem delu podlahti. Vsak tak del ima po pet prstov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+roka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took her hand and squeezed it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The hands of a clock or watch 
+</seg>
+so ozki kosi kovine ali plastike, ki ka&zcaron;ejo, koliko je ura. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazalec
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone for a hand with something 
+</seg>
+pomeni nekoga prositi, naj nam pomaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomo&ccaron; (pri ne&ccaron;em)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Give me a hand with this desk, will you?
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hand 
+</seg>
+je oseba, katere naloga je opravljanje napornega telesnega dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fizi&ccaron;ni delavec, te&zcaron;ak
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hand something to someone 
+</seg>
+pomeni nekomu nekaj dati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izro&ccaron;iti, podati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could you hand me that piece of wood?
+</quote>
+<quote>
+He scribbled four lines and handed the note to the Field Marshal.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+on the one hand 
+</seg>
+uporabimo, kadar omenimo en vidik dolo&ccaron;enih okoli&scaron;&ccaron;in. Zatem uporabimo izraz 
+<FV>
+on the other hand
+</FV>
+, ko omenimo njihov drugi, nasprotni vidik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po eni strani, po drugi strani
+</quote>
+</cit>
+<seg type="example">
+<quote>
+John had great difficulties playing cricket. But on the other hand, he was an awfully good rugby player.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar ima nekdo neko odgovornost ali problem 
+<seg type="lemma">
+on one&apos;s hands
+</seg>
+, se mora spoprijeti z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na grbi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;ve still got an economic crisis on their hands.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The job or problem in hand 
+</seg>
+je delo ali problem, s katerim se trenutno ukvarjamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v delu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let&apos;s get on with the job in hand.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have some time in hand 
+</seg>
+pomeni imeti nekaj prostega &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He arrived with half an hour in hand and went for a walk.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+on hand
+</seg>
+, je v bli&zcaron;ini in pripravljen pomagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri roki
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have something to hand 
+</seg>
+pomeni imeti nekaj pripravljenega za morebitno uporabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na voljo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...using the material most readily to hand.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+at hand 
+</seg>
+ali 
+<FV>
+close at hand
+</FV>
+, je &ccaron;asovno ali krajevno zelo blizu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri roki, blizu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I picked up a book that happened to lie at hand.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+by hand
+</seg>
+, naredimo z rokami in ne s strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ro&ccaron;no, na roko
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sta dve osebi 
+<seg type="lemma">
+hand in hand
+</seg>
+, se dr&zcaron;ita za roke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z roko v roki
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar dve stvari 
+<seg type="lemma">
+go hand in hand
+</seg>
+, sta tesno povezani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v tesni povezavi, z roko v roki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Military superiority went hand in hand with organizational superiority.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neki kraj poznamo 
+<seg type="lemma">
+like the back of one&apos;s hand
+</seg>
+, ga poznamo izjemno dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot svoj &zcaron;ep
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To try one&apos;s hand at a new activity 
+</seg>
+pomeni poskusiti opravljati neko novo dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti se v &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had tried my hand at milking years ago.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a hand in a situation 
+</seg>
+pomeni biti dejavno udele&zcaron;en pri ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had a hand in drafting the appeal.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take someone in hand 
+</seg>
+pomeni prevzeti nadzor nad nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti v roke
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To give a free hand to someone 
+</seg>
+pomeni nekomu dovoliti, da opravi dolo&ccaron;eno nalogo natanko tako, kot &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati proste roke
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neko zamisel zavrnemo 
+<seg type="lemma">
+out of hand
+</seg>
+, to storimo takoj in popolnoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+takoj, v celoti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neka oseba ali okoli&scaron;&ccaron;ine 
+<seg type="lemma">
+get out of hand
+</seg>
+, jih nismo ve&ccaron; sposobni obvladovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uiti iz rok, uiti izpod nadzora
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neka lastnina 
+<seg type="lemma">
+changes hands
+</seg>
+, je prodana ali podarjena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti v druge roke, menjati lastnika
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To wash one&apos;s hands of someone or something 
+</seg>
+pomeni zavrniti, da bi &scaron;e naprej prevzemali odgovornost za nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umiti si roke
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hand down 
+<VS>
+ali 
+</VS>
+<VV>
+hand on.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hand something down 
+</seg>
+ali 
+<seg type="variant">
+to hand something on 
+</seg>
+pomeni nekaj izro&ccaron;iti ljudem mlaj&scaron;e generacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predati, prenesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Such knowledge was handed down from father to son.
+</quote>
+<quote>
+Property is something handed on from generation to generation.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hand in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hand in a written paper 
+</seg>
+pomeni izro&ccaron;iti zapis odgovorni osebi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t yet marked the work you handed in.
+</quote>
+<quote>
+I was tempted to hand in my resignation at once.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hand on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+hand down
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hand out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hand something out 
+</seg>
+pomeni nekaj izro&ccaron;iti ljudem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hand out the books.
+</quote>
+<quote>
+Family doctors handed out information on treatment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+handout
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hand over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hand something over to someone 
+</seg>
+pomeni nekomu nekaj dati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izro&ccaron;iti, predati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Samuel was clearly about to hand over large sums of money to this man.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hand over to someone 
+</seg>
+pomeni nekoga narediti odgovornega za nekaj, za kar smo bili prej odgovorni sami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predati ali prepustiti odgovornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sir John handed over to his deputy and left.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

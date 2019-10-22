@@ -1,0 +1,139 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fact
+</orth>
+<form type="variant">
+<pron>
+/f*&ae;kt/
+</pron>
+</form>
+<form type="inflected">
+facts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fact 
+</seg>
+je resni&ccaron;na trditev ali podatek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dejstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The report is full of facts and figures.
+</quote>
+<quote>
+He told me a few facts about her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+fact 
+</seg>
+uporabimo tudi, kadar govorimo o obstoje&ccaron;em polo&zcaron;aju ali o ne&ccaron;em, kar se je zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dejstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the fact of belonging to a certain race.
+</quote>
+<quote>
+...to investigate the facts of the killing.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je zgodba ali trditev 
+<seg type="lemma">
+fact
+</seg>
+, je resni&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvarnost, resnica, resni&ccaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How much of the novel is fiction and how much is fact?
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazi 
+<seg type="lemma">
+in fact
+</seg>
+, 
+<FV>
+in point of fact
+</FV>
+, 
+<FV>
+in actual fact
+</FV>
+, ali 
+<FV>
+as a matter of fact 
+</FV>
+poudarimo, da se je nekaj v resnici zgodilo ali je resni&ccaron;no, ali pa predstavimo neki podatek, zlasti &ccaron;e je natan&ccaron;nej&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dejansko, po pravici povedano, pravzaprav, v resnici
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is, in fact, what happened.
+</quote>
+<quote>
+In actual fact, we don&apos;t have all that much more leisure time than we used to.
+</quote>
+<quote>
+It was terribly cold weather&mdash;a blizzard in fact.
+</quote>
+<quote>
+As a matter of fact, I just got it this afternoon.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

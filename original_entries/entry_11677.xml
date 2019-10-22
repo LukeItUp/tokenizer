@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+redress,
+</orth>
+<form type="inflected">
+redresses, redressing, redressed;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/rI1dr*es/
+</pron>
+, samostalnik pa 
+<pron>
+/rI1dr*es/
+</pron>
+ ali 
+<pron>
+/r*i:dres/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To redress something 
+</seg>
+pomeni narediti nekaj, da popravimo krivico ali trpljenje ljudi, ki so bili neupravi&ccaron;eno prizadeti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+popraviti, nadomestiti &scaron;kodo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did all that he could to redress these wrongs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Redress 
+</seg>
+je popla&ccaron;ilo za povzro&ccaron;eno krivico; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+od&scaron;kodnina, zado&scaron;&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your claims for redress may yet succeed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To redress the balance between two unequal things 
+</seg>
+pomeni poskrbeti, da dve neenaki stvari spet postaneta enaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znova vzpostaviti ravnote&zcaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were refused the pay increase needed to redress the balance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

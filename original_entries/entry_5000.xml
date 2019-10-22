@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+expert
+</orth>
+<form type="variant">
+<pron>
+/*eksp$e:t/
+</pron>
+</form>
+<form type="inflected">
+experts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An expert 
+</seg>
+je oseba, ki je zelo izurjena pri nekem opravilu ali veliko v&eacute; o dolo&ccaron;eni t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strokovnjak, izvedenec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Experts were called in to dismantle the bomb.
+</quote>
+<quote>
+...an expert on Eastern philosophy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be expert at doing something 
+</seg>
+pomeni biti zelo spreten pri nekem opravilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izku&scaron;en, izveden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...expert acrobats.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+expertly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Burke drove expertly.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bleat
+</orth>
+<form type="variant">
+<pron>
+/bl*i*:t/
+</pron>
+</form>
+<form type="inflected">
+bleats, bleating, bleated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ovca ali koza 
+<seg type="lemma">
+bleats
+</seg>
+, se ogla&scaron;a tako, kot se navadno ogla&scaron;ajo ovce ali koze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blejati, meketati
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the bleat of a goat.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+bleats
+</seg>
+, govori s &scaron;ibkim, visokim, tarnajo&ccaron;im glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prito&zcaron;evati se, tarnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They bleat about how miserable they are.
+</quote>
+</seg>
+</sense>
+</entry>

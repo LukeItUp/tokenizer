@@ -1,0 +1,150 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+total
+</orth>
+<form type="variant">
+<pron>
+/t*@*Ut@0l/
+</pron>
+</form>
+<form type="inflected">
+totals, totalling, totalled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A total 
+</seg>
+je &scaron;tevilo, ki ga dobimo, ko se&scaron;tejemo ve&ccaron; drugih &scaron;tevil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupno &scaron;tevilo, se&scaron;tevek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The factory employed a total of forty workers.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the total number of students on campus.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in total 
+</seg>
+ozna&ccaron;ujemo, kolik&scaron;no je skupno &scaron;tevilo dolo&ccaron;enih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupaj, skupno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a force containing in total over half a million men.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; &scaron;tevil 
+<seg type="lemma">
+total a certain figure
+</seg>
+, z njihovim se&scaron;tetjem dobimo kon&ccaron;no &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znesti, zna&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Conoco&apos;s 1980 revenues totalled &pound;18.3 billion.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Total 
+</seg>
+pomeni v celoti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popoln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...total secrecy.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+totally
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He became almost totally blind.
+</quote>
+<quote>
+I totally disagree.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

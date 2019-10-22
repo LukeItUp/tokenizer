@@ -1,0 +1,632 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+place
+</orth>
+<form type="variant">
+<pron>
+/pl*e*Is/
+</pron>
+</form>
+<form type="inflected">
+places, placing, placed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A place 
+</seg>
+je kakr&scaron;nakoli to&ccaron;ka, stavba, obmo&ccaron;je, mesto ali de&zcaron;ela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kraj, prostor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cellar was a very dark place.
+</quote>
+<quote>
+...photographs of places taken during his travels abroad.
+</quote>
+<quote>
+...a meeting place.
+</quote>
+<quote>
+We were looking for a good place to camp.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prostor, kamor nekaj sodi, je 
+<seg type="lemma">
+its place
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto, prostor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She put the book back in its place on the shelf.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+place 
+</seg>
+lahko uporabimo za 
+<seg type="lemma">
+any
+</seg>
+, 
+<seg type="lemma">
+no
+</seg>
+, 
+<seg type="lemma">
+some
+</seg>
+ ali 
+<seg type="lemma">
+every
+</seg>
+ v pomenu 
+<seg type="lemma">
+anywhere
+</seg>
+, 
+<seg type="lemma">
+nowhere
+</seg>
+, 
+<seg type="lemma">
+somewhere
+</seg>
+ ali 
+<seg type="lemma">
+everywhere
+</seg>
+; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<seg type="example">
+<quote>
+You are not going any place.
+</quote>
+<quote>
+He had no place else to go.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s place 
+</seg>
+je hi&scaron;a ali stanovanje, kjer nekdo &zcaron;ivi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What sort of place do they have?
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s place at a table or in a classroom 
+</seg>
+je sede&zcaron;, ki je namenjen nekomu ali kjer ta oseba ponavadi sedi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostor, mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Kaul had to leave her place and go to the back of the room.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A place at a table 
+</seg>
+je tudi del mize, kjer so pripravljeni no&zcaron;, vilice in druge stvari za eno osebo, tako da tam lahko sede in j&eacute;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Every day 12 places are laid for dinner.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a place on a committee 
+</seg>
+ali 
+<seg type="lemma">
+a place at a college 
+</seg>
+pomeni biti &ccaron;lan nekega odbora ali biti sprejet na univerzo kot &scaron;tudent. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I got a place at a teachers&apos; training college.
+</quote>
+<quote>
+Harper failed to win a place on the committee.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s place in a society, system, or situation 
+</seg>
+je &ccaron;lovekov polo&zcaron;aj v dru&zcaron;bi, sistemu ali okoli&scaron;&ccaron;inah ali njegova vloga v odnosu do drugih ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj, mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Britain&apos;s place in the world.
+</quote>
+<quote>
+Frank felt it was not his place to raise any objection.
+</quote>
+<quote>
+The demonstration occupies a central place in their political campaign.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is well placed
+</seg>
+, ima veliko prednosti ali sredstev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti situiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As for finance, we&apos;re better placed than people think.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s place in a competition or on a scale 
+</seg>
+je polo&zcaron;aj nekoga ob koncu tekmovanja ali na lestvici. 
+<seg type="lemma">
+First place 
+</seg>
+je zmagovalna uvrstitev ali uvrstitev na vrhu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The US leapt from sixth place to second.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s place in a book or speech 
+</seg>
+je del v knjigi ali govoru, do katerega je nekdo pri&scaron;el. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto v besedilu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lost his place in his notes.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To place something somewhere 
+</seg>
+pomeni nekaj premi&scaron;ljeno ali skrbno dati nekam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti, polo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She placed the music on the piano and sat down.
+</quote>
+<quote>
+Chairs had been placed in rows all down the room.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To place responsibility, pressure, or a restriction on someone 
+</seg>
+pomeni nekoga obremeniti z odgovornostjo, pritiskom ali omejevanjem. 
+<seg type="lemma">
+To place emphasis or blame on something 
+</seg>
+pomeni nekaj poudariti ali razglasiti kot vzrok za nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;iti, pripisati, izvajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The responsibility placed upon us is too heavy to bear.
+</quote>
+<quote>
+Vita is placing most of the blame on her mother.
+</quote>
+<quote>
+The New Left placed much emphasis on the role of culture.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To place an order for goods
+</seg>
+ ali 
+<seg type="lemma">
+to place an advert in a newspaper 
+</seg>
+pomeni naro&ccaron;iti podjetju, naj nam po&scaron;lje izbrano blago, ali &ccaron;asopisu, naj objavi na&scaron; oglas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+cannot place someone
+</seg>
+, se ne more natan&ccaron;no spomniti, kdo je nekdo oziroma ali ga je &zcaron;e kdaj sre&ccaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vedeti, kdo nekdo je; &lsquo;kam nekoga dati&rsquo;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was looking at me as if she could not quite place me.
+</quote>
+</seg>
+</sense>
+<sense n="16">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ko povemo, koliko 
+<seg type="lemma">
+decimal places 
+</seg>
+je v nekem &scaron;tevilu, povemo, koliko &scaron;tevilk je desno od decimalne vejice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+decimalka
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in place
+</seg>
+, je tam, kjer mora biti ali kjer je ponavadi. Kadar je nekaj 
+<FV>
+out of place
+</FV>
+, ni tam, kjer mora biti ali kjer je ponavadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na svojem mestu; ne na svojem mestu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He held the handle in place while the glue set.
+</quote>
+<quote>
+She was slightly out of breath but not one hair was out of place.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in the first place 
+</seg>
+uporabimo, ko govorimo o za&ccaron;etku nekega dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sploh pa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nobody can remember what was agreed in the first place.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazoma 
+<seg type="lemma">
+in the first place 
+</seg>
+in 
+<FV>
+in the second place 
+</FV>
+uvajamo prvo in drugo med ve&ccaron; to&ccaron;kami, ki jih navajamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prvi&ccaron;; drugi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...information that, in the first place, would have been very difficult for me to obtain and, in the second place, would have been useless anyhow.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+takes place
+</seg>
+, se zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgoditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The next attack took place four hours later.
+</quote>
+<quote>
+The talks will take place in Vienna.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar eno stvar uporabimo 
+<seg type="lemma">
+in place of another
+</seg>
+ ali kadar ena stvar 
+<FV>
+takes the place of another
+</FV>
+, zamenja drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namesto; zamenjati, nadomestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This task is carried out by robots in place of human workers.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put someone in their place 
+</seg>
+pomeni nekomu pokazati, da ni tako pomemben ali pameten, kot misli; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pokazati (komu) pravo mesto
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

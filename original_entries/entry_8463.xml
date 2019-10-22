@@ -1,0 +1,954 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+look
+</orth>
+<form type="variant">
+<pron>
+/l*Uk/
+</pron>
+</form>
+<form type="inflected">
+looks, looking, looked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To look in a particular direction 
+</seg>
+pomeni obrniti pogled v dolo&ccaron;eno smer, da bi videli, kaj je tam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She turned to look out of the window.
+</quote>
+<quote>
+They looked at each other.
+</quote>
+<quote>
+He blushed and looked away.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Take a good look.
+</quote>
+<quote>
+Did you have a look at the shop?
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To look at something 
+</seg>
+pomeni nekaj prebrati, preu&ccaron;iti ali razmisliti o tistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogledati, ogledati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I&apos;d like to look at his medical history,&rsquo; Percival said.
+</quote>
+<quote>
+Let&apos;s look at the implications of these changes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tony, I&apos;ve had a look at that book you wrote.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To look at a situation from a particular point of view 
+</seg>
+pomeni okoli&scaron;&ccaron;ine presojati z dolo&ccaron;enega gledi&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you&apos;re a Democrat, you look at things one way, and if you&apos;re a Republican you look at them very differently.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT, 
+<seg type="prep">
+&lsquo;as if&rsquo;, 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;like&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izazom 
+<seg type="lemma">
+look 
+</seg>
+povemo, kak&scaron;no se nam nekaj zdi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plan looks impressive enough on paper.
+</quote>
+<quote>
+Looks as if we&apos;re going to be late.
+</quote>
+<quote>
+It looks like a good book.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone a particular kind of look 
+</seg>
+pomeni nekoga pogledati tako, da se vidi, kaj mislimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati (na dolo&ccaron;en na&ccaron;in)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t give me such severe looks. What have I done?
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT, 
+<seg type="prep">
+&lsquo;as if&rsquo;, 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;like&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+look 
+</seg>
+opi&scaron;emo zunanjost nekoga ali ne&ccaron;esa. Na primer: kadar nekaj 
+<seg type="variant">
+looks nice
+</seg>
+, je prijetnega videza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You look very pale.
+</quote>
+<quote>
+He looked as if he hadn&apos;t slept very much.
+</quote>
+<quote>
+&lsquo;What does he look like?&rsquo;&mdash;&lsquo;Pale, thin, dark-haired.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima nekdo ali nekaj 
+<seg type="lemma">
+a particular look
+</seg>
+, ima dolo&ccaron;eno zunanjost ali izraz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videz, pogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He didn&apos;t have the look of a man who was thinking.
+</quote>
+<quote>
+There is a nervous look in their eyes.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+one&apos;s looks 
+</seg>
+uporabimo, kadar mislimo na to, kako je nekdo lep ali &ccaron;eden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videz, zunanjost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had lost her looks.
+</quote>
+<quote>
+I didn&apos;t marry him for his looks.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar okno, soba ali stavba 
+<seg type="lemma">
+looks out onto something
+</seg>
+, ima razgled na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The kitchen window looks out onto a yard.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;Look&rsquo; 
+</seg>
+ali 
+<seg type="variant">
+&lsquo;look here&rsquo; 
+</seg>
+re&ccaron;emo, kadar &zcaron;elimo nekoga opozoriti na tisto, kar govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glej, poslu&scaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Look, Mrs Kintner, you&apos;ve got it wrong.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+look 
+</seg>
+uporabljamo tudi z besedami, kot so 
+<seg type="lemma">
+who
+</seg>
+, 
+<seg type="lemma">
+what
+</seg>
+ ali 
+<seg type="lemma">
+at
+</seg>
+, da pritegnemo pozornost na nekaj, na primer kadar smo jezni ali presene&ccaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poglej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Now look what you&apos;ve done.
+</quote>
+<quote>
+Goodness, look at the time. I promised I&apos;d be home at six.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+look after.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To look after someone or something 
+</seg>
+pomeni skrbeti za nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paziti, skrbeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your husband ought to be looking after the baby.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To look after something 
+</seg>
+pomeni biti odgovoren za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The duty of the local authority is to look after the interests of local people.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look back 
+</seg>
+pomeni misliti na stvari, ki so se zgodile v preteklosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozirati se nazaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People can often look back and reflect on happy childhood memories.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look down on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look down on someone 
+</seg>
+pomeni misliti, da je nekdo manjvreden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvi&scaron;ka gledati na koga, zani&ccaron;evati koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Farm labourers used to be looked down on.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look for someone or something 
+</seg>
+pomeni posku&scaron;ati najti nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve been looking for you.
+</quote>
+<quote>
+She looked around for some paper.
+</quote>
+<quote>
+...people looking for work.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look forward to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To be looking forward to something 
+</seg>
+pomeni &zcaron;eleti, da bi se nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veseliti se &ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m quite looking forward to it.
+</quote>
+<quote>
+I look forward to seeing you.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look into something 
+</seg>
+pomeni nekaj ugotoviti o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raziskati, poizvedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A working party was set up to look into the problem.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look on
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To look on 
+</seg>
+pomeni nekaj opazovati, medtem ko se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati, opazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His parents looked on with a triumphant smile.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To look on something as a particular thing 
+</seg>
+pomeni misliti, da je nekaj dolo&ccaron;ena stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked on us as idiots.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;Look out&rsquo; 
+</seg>
+re&ccaron;emo, da bi nekoga opozorili pred nevarnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pazi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Look out,&rsquo; I said. &lsquo;There&apos;s something coming.&rsquo;
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+lookout
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look out for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look out for something 
+</seg>
+pomeni potruditi se, da bi nekaj opazili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprezati, napenjati o&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s a film we shall look out for in the next couple of months.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look round.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look round a place 
+</seg>
+pomeni hoditi okoli nekega kraja in si ogledovati njegove razli&ccaron;ne dele. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogledati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Shall we look round the Cathedral this afternoon?
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look through something 
+</seg>
+pomeni nekaj preiskati, da bi na&scaron;li, kar i&scaron;&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He looked through the clothing on the bed.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To look to someone for something 
+</seg>
+pomeni upati, da nam bo nekdo nekaj ponudil ali dal, na primer pomo&ccaron; ali nasvet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;akovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many people in the community will be looking to us for leadership.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To look to the future 
+</seg>
+pomeni razmi&scaron;ljati o prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti na prihodnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some New Englanders look to the future with a certain anxiety.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To look up information 
+</seg>
+pomeni najti podatke tako, da pogledamo v knjigo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiskati (v knjigi)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He looked up the meaning of &lsquo;legislation&rsquo; in the dictionary.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To look someone up 
+</seg>
+pomeni nekoga obiskati, potem ko ga dolgo nismo videli; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+obiskati, oglasiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was such a fine day he thought he&apos;d look me up.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar polo&zcaron;aj 
+<seg type="lemma">
+is looking up
+</seg>
+, se izbolj&scaron;uje; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+iti na bolje, popravljati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That summer, things began looking up.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look upon something as a particular thing 
+</seg>
+pomeni na nekaj misliti, kot da je dolo&ccaron;ena stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Houses are looked upon as investments.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+look up to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To look up to someone 
+</seg>
+pomeni nekoga spo&scaron;tovati in ob&ccaron;udovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spo&scaron;tovati, ob&ccaron;udovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His younger brothers look up to him.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

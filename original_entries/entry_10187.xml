@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+parade
+</orth>
+<form type="variant">
+<pron>
+/p@r*e*Id/
+</pron>
+</form>
+<form type="inflected">
+parades, parading, paraded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A parade 
+</seg>
+je sprevod ljudi ali vozil, ki se premikajo skupaj, na primer po mestnih ulicah, v po&ccaron;astitev posebnega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+parada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the war was over there was a parade in London.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+parade
+</seg>
+, korakajo ali hodijo skupaj v urejeni skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paradirati, iti v paradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The army paraded round the square.
+</quote>
+<quote>
+The captured criminals were paraded in chains through the streets.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so vojaki 
+<seg type="lemma">
+on parade
+</seg>
+, ob uradni prilo&zcaron;nosti stojijo ali korakajo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v paradi
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parades something
+</seg>
+, tisto ka&zcaron;e ljudem, da bi nanje naredil dober vtis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She seldom paraded this knowledge.
+</quote>
+</seg>
+</sense>
+</entry>

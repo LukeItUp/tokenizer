@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p74_s80931" id="p74_w457" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="517.302" base="523.71" width="18.9904" height="8.514">born</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p74_s80932" id="p74_w458" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="75.95" y="518.548" base="523.71" width="22.3516" height="6.844">/b&#213;&#194;n/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p74_s80934" id="p74_w460" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="107.87" y="519.794" base="523.71" width="22.378" height="5.192">PASSIVE</TOKEN>
+<TOKEN sid="p74_s80935" id="p74_w461" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="131.934" y="519.794" base="523.71" width="7.1478" height="5.192">VB</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p74_s80936" id="p74_w462" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="141.53" y="518.014" base="523.71" width="21.5971" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p74_s80937" id="p74_w463" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.577" y="518.014" base="523.71" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p74_s80938" id="p74_w464" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.024" y="518.014" base="523.71" width="18.2506" height="7.552">otrok</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p74_s80939" id="p74_w465" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.72" y="518.014" base="523.71" width="18.0014" height="7.552">born,</TOKEN>
+</seg>
+<TOKEN sid="p74_s80940" id="p74_w466" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.17" y="518.014" base="523.71" width="17.987" height="7.552">pride</TOKEN>
+<TOKEN sid="p74_s80941" id="p74_w467" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.606" y="518.014" base="523.71" width="5.99616" height="7.552">iz</TOKEN>
+<TOKEN sid="p74_s80942" id="p74_w468" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="527.094" base="532.79" width="38.3983" height="7.552">materinega</TOKEN>
+<TOKEN sid="p74_s80943" id="p74_w469" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.198" y="527.094" base="532.79" width="21.5957" height="7.552">telesa.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p74_s80945" id="p74_w471" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="129.28" y="527.094" base="532.79" width="19.4486" height="7.552">rojen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p74_s80946" id="p74_w472" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.36" y="527.094" base="532.79" width="17.9978" height="7.552">Mary</TOKEN>
+<TOKEN sid="p74_s80947" id="p74_w473" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.978" y="527.094" base="532.79" width="13.1962" height="7.552">was</TOKEN>
+<TOKEN sid="p74_s80948" id="p74_w474" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="184.794" y="527.094" base="532.79" width="15.6002" height="7.552">born</TOKEN>
+<TOKEN sid="p74_s80949" id="p74_w475" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.014" y="527.094" base="532.79" width="6.79608" height="7.552">in</TOKEN>
+<TOKEN sid="p74_s80950" id="p74_w476" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.43" y="527.094" base="532.79" width="31.176" height="7.552">Glasgow.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p74_s80952" id="p74_w478" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="67.88" y="537.954" base="541.87" width="19.1847" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p74_s80953" id="p74_w479" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="89.1501" y="537.954" base="541.87" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p74_s80954" id="p74_w480" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="102.63" y="536.174" base="541.87" width="5.1984" height="7.552">Z</TOKEN>
+<TOKEN sid="p74_s80955" id="p74_w481" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="110.857" y="536.174" base="541.87" width="23.1912" height="7.552">besedo</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p74_s80956" id="p74_w482" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="137.08" y="536.174" base="541.87" width="15.9919" height="7.552">born</TOKEN>
+</seg>
+<TOKEN sid="p74_s80957" id="p74_w483" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="156.11" y="536.174" base="541.87" width="28.4069" height="7.552">povemo,</TOKEN>
+<TOKEN sid="p74_s80958" id="p74_w484" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.547" y="536.174" base="541.87" width="8.40168" height="7.552">da</TOKEN>
+<TOKEN sid="p74_s80959" id="p74_w485" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.978" y="536.174" base="541.87" width="20.7979" height="7.552">nekdo</TOKEN>
+<TOKEN sid="p74_s80960" id="p74_w486" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.806" y="536.174" base="541.87" width="18.7963" height="7.552">nekaj</TOKEN>
+<TOKEN sid="p74_s80961" id="p74_w487" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="545.254" base="550.95" width="19.9958" height="7.552">po~ne</TOKEN>
+<TOKEN sid="p74_s80962" id="p74_w488" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.7753" y="545.254" base="550.95" width="19.8569" height="7.552">dobro</TOKEN>
+<TOKEN sid="p74_s80963" id="p74_w489" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="105.231" y="545.254" base="550.95" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p74_s80964" id="p74_w490" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="114.626" y="545.254" base="550.95" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p74_s80965" id="p74_w491" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="120.825" y="545.254" base="550.95" width="27.9979" height="7.552">lahkoto.</TOKEN>
+<TOKEN sid="p74_s80966" id="p74_w492" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.422" y="545.254" base="550.95" width="9.99936" height="7.552">Na</TOKEN>
+<TOKEN sid="p74_s80967" id="p74_w493" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="164.021" y="545.254" base="550.95" width="25.1842" height="7.552">primer:</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p74_s80968" id="p74_w494" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.81" y="545.254" base="550.95" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p74_s80969" id="p74_w495" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.412" y="545.254" base="550.95" width="15.9941" height="7.552">born</TOKEN>
+<TOKEN sid="p74_s80970" id="p74_w496" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.006" y="545.254" base="550.95" width="16.0013" height="7.552">cook</TOKEN>
+</seg>
+<TOKEN sid="p74_s80971" id="p74_w497" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.6" y="545.254" base="550.95" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p74_s80972" id="p74_w498" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1795" y="554.334" base="560.03" width="21.5734" height="7.552">kuhar,</TOKEN>
+<TOKEN sid="p74_s80973" id="p74_w499" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.7516" y="554.334" base="560.03" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p74_s80974" id="p74_w500" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.5457" y="554.334" base="560.03" width="12.7987" height="7.552">ima</TOKEN>
+<TOKEN sid="p74_s80975" id="p74_w501" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="107.343" y="554.334" base="560.03" width="27.5962" height="7.552">naraven</TOKEN>
+<TOKEN sid="p74_s80976" id="p74_w502" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="136.938" y="554.334" base="560.03" width="12.7678" height="7.552">dar,</TOKEN>
+<TOKEN sid="p74_s80977" id="p74_w503" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.704" y="554.334" base="560.03" width="8.40096" height="7.552">da</TOKEN>
+<TOKEN sid="p74_s80978" id="p74_w504" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.104" y="554.334" base="560.03" width="19.8475" height="7.552">dobro</TOKEN>
+<TOKEN sid="p74_s80979" id="p74_w505" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.95" y="554.334" base="560.03" width="19.1966" height="7.552">kuha.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p74_s80981" id="p74_w507" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="211.4" y="554.334" base="560.03" width="17.4499" height="7.552">rojen</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

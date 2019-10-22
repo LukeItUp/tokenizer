@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blinding
+</orth>
+<form type="variant">
+<pron>
+/bl*a*IndIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Svetloba, ki je 
+<seg type="lemma">
+blinding
+</seg>
+, je izjemno mo&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slepe&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There came a blinding flash.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+blinding 
+</seg>
+poudarimo, da je nekaj zelo o&ccaron;itno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;iten, nedvoumen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the blinding obviousness of the advantage.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+blindingly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Isn't it blindingly obvious?
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

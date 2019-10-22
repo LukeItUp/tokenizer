@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dialogue
+</orth>
+<form type="variant">
+<pron>
+/d*a*I*@lQg/
+</pron>
+</form>
+<form type="inflected">
+dialogues;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+dialog
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dialogue 
+</seg>
+je sporazumevanje med skupinami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovor, dialog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The union continued to seek dialogue with the authorities.
+</quote>
+<quote>
+...the dialogue between rich nations and poor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dialogue 
+</seg>
+je pogovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovarjanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...500 words of movie dialogue.
+</quote>
+<quote>
+Their dialogue was interrupted by Philip's voice.
+</quote>
+</seg>
+</sense>
+</entry>

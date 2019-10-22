@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hazard
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;z@d/
+</pron>
+</form>
+<form type="inflected">
+hazards, hazarding, hazarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hazard 
+</seg>
+je nekaj, kar bi nam bilo lahko nevarno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tveganje, nevarnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a natural hazard, like an earth tremor.
+</quote>
+<quote>
+Drinking alcohol is a real health hazard if carried to excess.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hazard a guess 
+</seg>
+pomeni dati predlog, ki je samo ugibanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugibati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As to the author of the letter, I will hazard a guess that it is Howard.
+</quote>
+<quote>
+&lsquo;How much do you think he makes a year?&rsquo;&mdash;&lsquo;Fifteen thousand,&rsquo; Rudolph hazarded.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+budget
+</orth>
+<form type="variant">
+<pron>
+/b*VdZI2t/
+</pron>
+</form>
+<form type="inflected">
+budgets, budgeting, budgeted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A budget 
+</seg>
+je na&ccaron;rt, ki poka&zcaron;e, koliko denarja ima na voljo &ccaron;lovek ali organizacija in kako ga namerava potro&scaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prora&ccaron;un, bud&zcaron;et
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Work out a weekly budget.
+</quote>
+<quote>
+Education budgets have been cut.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To budget 
+</seg>
+pomeni skrbno na&ccaron;rtovati, koliko bomo potro&scaron;ili za tisto, kar si &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rtovati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+budgeting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Through careful budgeting they had equipped the entire school.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri ogla&scaron;evanju z besedo 
+<seg type="lemma">
+budget 
+</seg>
+povemo, da je nekaj na prodaj po nizki ceni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zni&zcaron;an, ugoden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...budget prices.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+budget for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To budget for something 
+</seg>
+pomeni nekaj vklju&ccaron;iti v prora&ccaron;un. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&scaron;tevati v prora&ccaron;unu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These expenses can all be budgeted for.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

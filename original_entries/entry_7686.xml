@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intervention
+</orth>
+<form type="variant">
+<pron>
+/*Int@v*enS@0n/
+</pron>
+</form>
+<form type="inflected">
+interventions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Intervention 
+</seg>
+je poskus, da bi z vme&scaron;avanjem spremenili okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posredovanje, poseg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was against American intervention in the war.
+</quote>
+<quote>
+...the interventions of government.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An intervention 
+</seg>
+je prekinitev med pogovorom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekinjanje, poseganje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the angry interventions of Lord Grant.
+</quote>
+</seg>
+</sense>
+</entry>

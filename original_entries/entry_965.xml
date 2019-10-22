@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+background
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;kgraUnd/
+</pron>
+</form>
+<form type="inflected">
+backgrounds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's background 
+</seg>
+je dru&zcaron;ina, iz katere &ccaron;lovek prihaja, ali izobrazba, ki jo je dosegel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvor, rod, poreklo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people from working-class backgrounds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The background to an event or situation 
+</seg>
+so dejstva, ki pojasnijo, kaj je povzro&ccaron;ilo neki dogodek ali razmere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozadje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...background information.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The background 
+</seg>
+se nana&scaron;a tudi na predmete, oblike, barve ali zvoke, ki so manj opazni ali pomembni in so pogosto skriti za drugimi stvarmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozadje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the background is a tall cypress tree.
+</quote>
+<quote>
+...blue flowers on a grey background.
+</quote>
+<quote>
+...background music.
+</quote>
+</seg>
+</sense>
+</entry>

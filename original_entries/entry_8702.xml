@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+marathon
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;r@T@0n/
+</pron>
+</form>
+<form type="inflected">
+marathons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A marathon 
+</seg>
+je tekmovanje, pri katerem ljudje prete&ccaron;ejo dobrih 42 kilometrov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+maraton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the London Marathon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delo, ki je 
+<seg type="lemma">
+marathon
+</seg>
+, traja dolgo &ccaron;asa in je zelo utrudljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+maratonski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You need stamina to get through such a marathon production.
+</quote>
+</seg>
+</sense>
+</entry>

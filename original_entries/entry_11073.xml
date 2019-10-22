@@ -1,0 +1,273 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+print
+</orth>
+<form type="variant">
+<pron>
+/pr*Int/
+</pron>
+</form>
+<form type="inflected">
+prints, printing, printed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To print a book, newspaper, or leaflet 
+</seg>
+pomeni izdelati knjigo, &ccaron;asopis ali letak s strojnim postopkom in v velikih koli&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked him for an estimate to print a weekly paper for me.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+printing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the invention of printing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To print a speech or a piece of writing 
+</seg>
+pomeni vklju&ccaron;iti govor ali besedilo v &ccaron;asopis ali revijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+objaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The paper printed a story about Margaret Thatcher.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The print 
+</seg>
+so &ccaron;rke ali &scaron;tevilke na papirju v knjigi ali &ccaron;asopisu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tisk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The print is rather poor.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A print 
+</seg>
+je fotografija ali fotografska kopija slike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slika, kopija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...simple black and white prints.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To print a pattern on cloth 
+</seg>
+pomeni z barvo in posebno opremo narediti odtis nekega vzorca na blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pattern which is printed onto the fabric by hand.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Prints 
+</seg>
+so sledi stopal ali prstov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His feet left prints in the soft soil.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To print 
+</seg>
+pomeni pisati s &ccaron;rkami, ki niso povezane skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati s tiskanimi &ccaron;rkami, tiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As long as you print clearly, you don&apos;t have to type.
+</quote>
+<quote>
+There was an envelope on her desk with her name printed on it.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj pojavi 
+<seg type="lemma">
+in print
+</seg>
+, je objavljeno v knjigi ali &ccaron;asopisu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v natisnjeni obliki, na papirju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He admitted it in print.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je knjiga 
+<seg type="lemma">
+out of print
+</seg>
+, je ni ve&ccaron; mogo&ccaron;e kupiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razprodan
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+print out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar podatki iz ra&ccaron;unalnika 
+<seg type="lemma">
+are printed out
+</seg>
+, so natisnjeni na papirju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti izpisan
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

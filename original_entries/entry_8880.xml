@@ -1,0 +1,164 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+memory
+</orth>
+<form type="variant">
+<pron>
+/m*em@0ri1/
+</pron>
+</form>
+<form type="inflected">
+memories.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s memory 
+</seg>
+je zmo&zcaron;nost, da si zapomnimo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people who have good memories.
+</quote>
+<quote>
+A few things stand out in my memory.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A memory 
+</seg>
+je nekaj, &ccaron;esar se spomnimo iz preteklosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My memories of a London childhood are happy ones.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A computer&apos;s memory 
+</seg>
+je zmo&zcaron;nost ra&ccaron;unalnika, da shranjuje podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomin
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+loses his memory
+</seg>
+, pozabi stvari, ki jih je v&ccaron;asih vedel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgubiti spomin
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+from memory
+</seg>
+, na primer recitiramo pesem ali zaigramo glasbeno delo, to naredimo, ne da bi gledali besedilo ali note. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pamet
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+in memory of someone who has died
+</seg>
+, to naredimo zato, da si bodo ljudje zapomnili dolo&ccaron;enega &ccaron;loveka, ki je umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v spomin na
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se je nekaj zgodilo 
+<seg type="lemma">
+within living memory
+</seg>
+, &scaron;e &zcaron;ivijo ljudje, ki se tega spomnijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;e &zcaron;ive&ccaron; v spominu starih ljudi
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+commit 
+</QF>
+<QI>
+something 
+</QI>
+<QF>
+to memory: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+commit
+</ref>
+</xr>
+</B>
+</entry>

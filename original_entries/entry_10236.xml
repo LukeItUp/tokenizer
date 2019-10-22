@@ -1,0 +1,39 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+participant
+</orth>
+<form type="variant">
+<pron>
+/pA:t*IsIp@nt/
+</pron>
+</form>
+<form type="inflected">
+participants.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a participant in an activity
+</seg>
+, sodeluje pri tisti dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udele&zcaron;enec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was a willing participant in these campaigns.
+</quote>
+</seg>
+</sense>
+</entry>

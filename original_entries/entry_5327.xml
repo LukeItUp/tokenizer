@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+filter
+</orth>
+<form type="variant">
+<pron>
+/f*Ilt@/
+</pron>
+</form>
+<form type="inflected">
+filters, filtering, filtered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To filter a substance 
+</seg>
+pomeni spustiti neko snov skozi napravo, namenjeno temu, da iz snovi odstrani trdne delce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+precediti, prefiltrirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Water would have to be filtered many times to remove any radioactive matter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A filter 
+</seg>
+je naprava, skozi katero nekaj pre&ccaron;istimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+filter
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar svetloba ali zvok 
+<seg type="lemma">
+filters into a place
+</seg>
+, komaj prihaja na tisti kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prenikati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...with the morning light already filtering through the curtains.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar novica ali podatek 
+<seg type="lemma">
+filters through to people
+</seg>
+, postopoma pride do ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pricurljati, pronikniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Disturbing rumours filtered back from the East.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+filter out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To filter out something from a substance 
+</seg>
+pomeni tisto odstraniti iz snovi, tako da jo spustimo skozi filter. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pre&ccaron;istiti, odstraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+First we would have to filter out some of the tar particles.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

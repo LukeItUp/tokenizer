@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+embark
+</orth>
+<form type="variant">
+<pron>
+/I2mb*A*:k/
+</pron>
+</form>
+<form type="inflected">
+embarks, embarking, embarked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To embark on something new 
+</seg>
+pomeni za&ccaron;eti po&ccaron;enjati nekaj novega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti, lotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Peru embarked on a massive programme of reform.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To embark on a ship 
+</seg>
+pomeni iti na krov ladje pred za&ccaron;etkom plovbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vkrcati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had embarked on the S.S. Gordon Castle at Tilbury.
+</quote>
+</seg>
+</sense>
+</entry>

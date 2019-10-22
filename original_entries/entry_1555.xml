@@ -1,0 +1,240 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bow,
+</orth>
+<form type="inflected">
+bows, bowing, bowed;
+</form>
+<PN>
+pri pomenih od 1 do 4 ter pri fraznem glagolu besedo izgovarjamo 
+<pron>
+/b*a*U/
+</pron>
+, pri 5., 6. in 7. pomenu pa jo izgovarjamo 
+<pron>
+/b*@*U/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bow to someone 
+</seg>
+pomeni na hitro nagniti trup proti nekomu kot uraden pozdrav ali dokaz spo&scaron;tovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokloniti se
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He opened the door with a bow.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bow one's head 
+</seg>
+pomeni nagniti glavo navzdol, tako da gledamo proti tlom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikloniti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bow to someone's wishes
+</seg>
+ ali 
+<seg type="lemma">
+to bow to pressure 
+</seg>
+pomeni strinjati se, da naredimo tisto, kar nekdo ho&ccaron;e od nas; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ukloniti se
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The bow 
+</seg>
+ali 
+<seg type="variant">
+the bows 
+</seg>
+je prednji del srajce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprsje
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bow 
+</seg>
+je vozel z dvema zankama in dvema prostima koncema, ki ga naredimo, kadar zavezujemo vezalke ali trakove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pentlja
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bow 
+</seg>
+je tudi oro&zcaron;je za streljanje s pu&scaron;&ccaron;icami, sestavljeno iz dolgega, upognjenega kosa lesa, na katerega je na obeh koncih pritrjena struna ali vrvica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lok
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bow
+</seg>
+ je tudi dolg, tanek lesen kos, na katerega je napeta &zcaron;ima; pri igranju na violino ali kako drugo godalo ga pomikamo pre&ccaron;no po strunah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lok
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bow down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bow down 
+</seg>
+pomeni zelo nizko se skloniti v znamenje globokega spo&scaron;tovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klanjati se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bow out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bow out of something 
+</seg>
+pomeni ne ve&ccaron; sodelovati pri ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We may do one more performance before we bow out.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+navigate
+</orth>
+<form type="variant">
+<pron>
+/n*&ae;vIgeIt/
+</pron>
+</form>
+<form type="inflected">
+navigates, navigating, navigated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+navigates
+</seg>
+, dolo&ccaron;a ali ugotavlja, po kateri poti naj gre ladja, letalo ali avtomobil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krmariti, usmerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sailors used to navigate by the stars.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+navigation
+</orth>
+<form type="variant">
+<pron>
+/n*&ae;vIg*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You can&apos;t teach navigation in the middle of a storm.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+navigates a dangerous place
+</seg>
+, potuje skozi nevaren kraj previdno in po&ccaron;asi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti previdno; premagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Until then no ship had been large enough to navigate the Atlantic.
+</quote>
+</seg>
+</sense>
+</entry>

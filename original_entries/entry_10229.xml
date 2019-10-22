@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+parry
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;ri1/
+</pron>
+</form>
+<form type="inflected">
+parries, parrying, parried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parries an argument or question
+</seg>
+, se trditvi ali vpra&scaron;anju spretno izogne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izogniti se, obiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He parried the arguments put to him by saying that he could not comment until the report was published.
+</quote>
+<quote>
+Instead of answering he parried with another question.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parries a blow
+</seg>
+, potisne vstran nasprotnikovo roko ali oro&zcaron;je, tako da ga nasprotnik ne po&scaron;koduje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odbiti
+</quote>
+</cit>
+</sense>
+</entry>

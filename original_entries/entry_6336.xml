@@ -1,0 +1,423 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ground
+</orth>
+<form type="variant">
+<pron>
+/gr*a*Und/
+</pron>
+</form>
+<form type="inflected">
+grounds, grounding, grounded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ground 
+</seg>
+je povr&scaron;je zemlje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tla
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He set down his bundle carefully on the ground.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ground 
+</seg>
+je kos zemlje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlji&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a rocky piece of ground.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ground 
+</seg>
+je obmo&ccaron;je, ki ga uporabljamo v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlji&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a burial ground.
+</quote>
+<quote>
+...fishing grounds.
+</quote>
+<quote>
+...football grounds.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The grounds of a building 
+</seg>
+je zemlji&scaron;&ccaron;e, ki obkro&zcaron;a stavbo in ji pripada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlji&scaron;&ccaron;e, park, vrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the school grounds.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Beseda 
+<seg type="lemma">
+ground 
+</seg>
+se lahko nana&scaron;a tudi na t&eacute;mo ali skupino stvari, kadar jo obravnavamo kot neko podro&ccaron;je, ki ga je treba obdelati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podro&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This course covers the same ground as the undergraduate degree in Social Administration.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+grounds for something else
+</seg>
+, je vzrok ali opravi&ccaron;ilo za nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povod, vzrok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have no real grounds for complaint.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gain ground 
+</seg>
+pomeni napredovati ali dobiti prednost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;iriti se, uveljaviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Godley&apos;s views are gaining political ground.
+</quote>
+<quote>
+He tried to regain lost ground.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar letalo ali piloti 
+<seg type="lemma">
+are grounded
+</seg>
+, nimajo dovoljenja za letenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti prepoved letenja
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka trditev ali mnenje 
+<seg type="lemma">
+is grounded in or on something
+</seg>
+, je na ne&ccaron;em zasnovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temeljiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a delusion grounded in fear.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<def xml:lang="sl">
+<seg type="lemma">
+Ground 
+</seg>
+je tudi pretekli &ccaron;as in pretekli dele&zcaron;nik glagola 
+<ref>
+to grind
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mleti; mlel
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izrazi 
+<seg type="lemma">
+on grounds of
+</seg>
+, 
+<FV>
+on the grounds of
+</FV>
+ in 
+<FV>
+on the grounds that 
+</FV>
+napovedujejo razlog za dolo&ccaron;eno dejanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always declining their invitations on grounds of ill health.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To go to ground 
+</seg>
+pomeni za nekaj &ccaron;asa se nekam skriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skriti se, pritajiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the people involved have gone to ground in cheap hotels.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To run something to ground 
+</seg>
+pomeni nekaj najti po dolgem, napornem iskanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;no najti, izslediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was run to ground in the nearby woods.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To break fresh ground 
+</seg>
+ali 
+<seg type="variant">
+to break new ground
+</seg>
+ pomeni nekaj odkriti ali za&ccaron;eti novo dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+orati ledino
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get something off the ground 
+</seg>
+pomeni nekaj za&ccaron;eti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti v tek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a hurry to get the new film off the ground.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To stand one&apos;s ground 
+</seg>
+ali 
+<FV>
+to hold one&apos;s ground 
+</FV>
+pomeni ne se umakniti ali vdati, kadar nam ljudje nasprotujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+have 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+ear to the ground: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+ear
+</ref>
+</xr>
+<xr type="related">
+<QF>
+thin on the ground: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+thin
+</ref>
+</xr>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+home ground
+</ref>
+</xr>
+</B>
+</entry>

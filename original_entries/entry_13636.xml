@@ -1,0 +1,324 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stay
+</orth>
+<form type="variant">
+<pron>
+/st*e*I/
+</pron>
+</form>
+<form type="inflected">
+stays, staying, stayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay somewhere 
+</seg>
+pomeni &scaron;e naprej biti na nekem kraju in se ne premakniti drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fewer women these days stay at home to look after their children.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay in a hotel or at someone&apos;s house 
+</seg>
+pomeni kraj&scaron;i &ccaron;as stanovati v hotelu ali pri nekom doma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was staying in a hotel as I was.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We were good friends throughout my stay in Germany.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+stays in a particular condition or situation
+</seg>
+, je &scaron;e naprej v dolo&ccaron;enem stanju ali polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Last night I stayed awake until the whole house was sleeping.
+</quote>
+<quote>
+We&apos;ll work till eight if it stays light.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay away from a place 
+</seg>
+pomeni izogibati se nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne priti, izostati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This town is unsafe: stay away from here.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay out of something 
+</seg>
+pomeni ne se vplesti v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati zunaj, izostati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We try to stay out of politics.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay put 
+</seg>
+pomeni nekje ostati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati na istem mestu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Those kinds of people stay put in one job all their lives.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+stay in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay in 
+</seg>
+pomeni ostati doma in ne iti ven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati doma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We ought to have stayed in tonight.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stay on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay on somewhere 
+</seg>
+pomeni &scaron;e naprej ostati na nekem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;evati se &scaron;e naprej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had stayed on to have a drink.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stay out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To stay out 
+</seg>
+pomeni ostati zunaj doma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati zunaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She stayed out all night.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar delavci 
+<seg type="lemma">
+stay out
+</seg>
+, ne gredo delat, temve&ccaron; stavkajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavkati, ne delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The men stayed out for nearly a year.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stay up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay up 
+</seg>
+pomeni iti spat pozneje kot navadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati pokonci, bedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Willie liked to eat out in restaurants and stay up late.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

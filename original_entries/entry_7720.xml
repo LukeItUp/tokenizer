@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intrusion
+</orth>
+<form type="variant">
+<pron>
+/Intr*u*:Z@0n/
+</pron>
+</form>
+<form type="inflected">
+intrusions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nas nekdo zmoti na zasebnem kraju ali med zasebnim pogovorom, njegovo vedenje lahko imenujemo 
+<seg type="lemma">
+an intrusion
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdor, nadlegovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I must ask your pardon for this intrusion.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An intrusion 
+</seg>
+je tudi nekaj, kar neza&zcaron;eleno vpliva na na&scaron;e delo ali na&ccaron;in &zcaron;ivljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdor, motnja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the bank&apos;s intrusions into Mr Wheeler&apos;s operations.
+</quote>
+<quote>
+Government could enforce the law with minimal intrusion.
+</quote>
+</seg>
+</sense>
+</entry>

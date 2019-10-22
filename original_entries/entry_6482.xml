@@ -1,0 +1,185 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hammer
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;m@/
+</pron>
+</form>
+<form type="inflected">
+hammers, hammering, hammered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hammer 
+</seg>
+je orodje za tol&ccaron;enje, sestavljeno iz te&zcaron;kega kovinskega dela, pritrjenega na ro&ccaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kladivo
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hammer something 
+</seg>
+pomeni nekaj udariti s kladivom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabiti, tol&ccaron;i s kladivom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hammered a peg into the crack.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hammer a surface 
+</seg>
+ali 
+<seg type="lemma">
+to hammer on a surface 
+</seg>
+pomeni ve&ccaron;krat udariti po neki povr&scaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tol&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hammered the table and told us he wanted results.
+</quote>
+<quote>
+Men used to hammer on our door late at night.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hammer 
+</seg>
+je tudi krogla, pritrjena na &zcaron;ico; me&ccaron;emo jo pri &scaron;portni disciplini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kladivo
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hammer an idea into people 
+</seg>
+pomeni ponavljati neko zamisel, da bi vplivala na ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vbiti (v glavo)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ideas hammered into their heads by a stream of movies.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hammer out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hammer out something 
+</seg>
+pomeni po dolgem ali napornem razpravljanju dose&ccaron;i soglasje, na primer o nekem sporazumu ali na&ccaron;rtu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skovati, zgladiti nesoglasje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...procedures hammered out over recent years.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

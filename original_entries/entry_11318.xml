@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+purchase
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:tS@1s/
+</pron>
+</form>
+<form type="inflected">
+purchases, purchasing, purchased;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To purchase something 
+</seg>
+pomeni nekaj kupiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sold the house he had purchased only two years before.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+purchaser
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:tS@1s@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...purchasers of paintings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Purchase 
+</seg>
+je dejanje, pri katerem nekaj nakupujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakupovanje, nakup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We need to know the exact day of purchase.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A purchase 
+</seg>
+je nekaj, kar kupimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakup, kupljena stvar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Among his purchases were several books.
+</quote>
+</seg>
+</sense>
+</entry>

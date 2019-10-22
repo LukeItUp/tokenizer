@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ignorant
+</orth>
+<form type="variant">
+<pron>
+/*Ign@r@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+ignorant
+</seg>
+, se vede neotesano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neolikan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is an ignorant woman.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ignorance
+</orth>
+<form type="variant">
+<pron>
+/*Ign@r@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the elimination of hunger, sickness, and ignorance.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be ignorant of something 
+</seg>
+pomeni ne vedeti za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neveden, nepou&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The masses were largely ignorant of the options open to them.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ignorance
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Individuals suffer through ignorance of their rights.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pretence
+</orth>
+<form type="variant">
+<pron>
+/pri1t*ens/
+</pron>
+</form>
+<form type="inflected">
+pretences;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+pretense
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pretence 
+</seg>
+je ved&ecirc;nje, s katerim &zcaron;elimo druge prepri&ccaron;ati, da bi verjeli nekaj, kar ni res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretvarjanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She leapt up with a pretence of eagerness.
+</quote>
+<quote>
+The industry has abandoned any pretence of restraint.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+under false pretences
+</seg>
+, tisto naredimo, ko ljudje ne poznajo resnice o nas in na&scaron;ih namerah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pod la&zcaron;no pretvezo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt that I was taking money under false pretences.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

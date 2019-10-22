@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smoky
+</orth>
+<form type="variant">
+<pron>
+/sm*@*Uki1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prostor, ki je 
+<seg type="lemma">
+smoky
+</seg>
+, je poln dima. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a smoky industrial scene of the 1930&apos;s.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+smoky 
+</seg>
+opi&scaron;emo tudi nekaj, kar nas spominja na dim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dimast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a smoky-blue scarf.
+</quote>
+<quote>
+...the smoky twilight.
+</quote>
+</seg>
+</sense>
+</entry>

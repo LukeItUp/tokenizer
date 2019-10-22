@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sausage
+</orth>
+<form type="variant">
+<pron>
+/s*QsIdZ/
+</pron>
+</form>
+<form type="inflected">
+sausages.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sausage 
+</seg>
+je drobno mleto meso, ki mu dodamo &scaron;e druge sestavine in s to me&scaron;anico napolnimo tanek cevast ovoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klobasa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We lunched on garlic sausage and bread.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sausage 
+</seg>
+je jed iz drobno mletega mesa v tankem cevastem ovoju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klobasa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bacon, eggs, and sausages for breakfast.
+</quote>
+</seg>
+</sense>
+</entry>

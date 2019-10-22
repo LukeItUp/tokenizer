@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guy
+</orth>
+<form type="variant">
+<pron>
+/g*a*I/
+</pron>
+</form>
+<form type="inflected">
+guys;
+</form>
+<usg>
+pogovorna beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guy 
+</seg>
+je mo&scaron;ki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&scaron;ki, tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the guy who drove the bus.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ameri&ccaron;ani skupino oseb v&ccaron;asih naslovijo 
+<seg type="lemma">
+guys 
+</seg>
+ali 
+<seg type="variant">
+you guys
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+fantje
+</quote>
+</cit>
+</sense>
+</entry>

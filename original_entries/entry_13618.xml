@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+station
+</orth>
+<form type="variant">
+<pron>
+/st*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+stations, stationing, stationed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A station 
+</seg>
+je poslopje ob &zcaron;elezni&scaron;ki progi, kjer se ustavi vlak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;elezni&scaron;ka postaja
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TRANSPORT.
+</QZ>
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bus station 
+</seg>
+ali 
+<seg type="lemma">
+a coach station 
+</seg>
+je kraj, kjer avtobusi za&ccaron;enjajo vo&zcaron;njo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtobusna postaja
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A radio station 
+</seg>
+je dolo&ccaron;ena frekvenca, ki jo uporablja radijska dru&zcaron;ba za predvajanje sporeda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+radijska postaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The radio was tuned permanently to his favourite station.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be stationed somewhere 
+</seg>
+pomeni, da nekoga za dolo&ccaron;en &ccaron;as nekam po&scaron;ljejo, da opravi neko nalogo ali delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two guards were stationed at the top of the stairs.
+</quote>
+<quote>
+...the British forces stationed in Germany.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+fire station, 
+</ref>
+<ref>
+gas station, 
+</ref>
+<ref>
+petrol station, 
+</ref>
+<ref>
+police station.
+</ref>
+</xr>
+</sense>
+</entry>

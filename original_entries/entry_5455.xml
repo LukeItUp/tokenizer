@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fleet
+</orth>
+<form type="variant">
+<pron>
+/fl*i*:t/
+</pron>
+</form>
+<form type="inflected">
+fleets.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fleet 
+</seg>
+je organizirana skupina ladij. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ladjevje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Britain had to increase her battle fleet.
+</quote>
+<quote>
+...a trawling fleet.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fleet
+</seg>
+ je lahko tudi skupina vozil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolona vozil
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...fleets of buses.
+</quote>
+</seg>
+</sense>
+</entry>

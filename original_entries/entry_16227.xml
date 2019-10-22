@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+X-ray
+</orth>
+<form type="variant">
+<pron>
+/*eks r*e*I/
+</pron>
+</form>
+<form type="inflected">
+X-rays, X-raying, X-rayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An X-ray 
+</seg>
+je &zcaron;arek, ki lahko prodre skozi nekatere trde snovi. Te &zcaron;arke uporabljajo zdravniki za pregledovanje kosti in organov v notranjosti telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rentgenski &zcaron;arek, rentgensko slikanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He agreed to go for an X-ray to see if the bone was broken.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An X-ray 
+</seg>
+je tudi posnetek, ki ga dobimo tako, da po&scaron;ljemo rentgenske &zcaron;arke skozi &ccaron;lovekovo telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rentgenska slika
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+The chest X-ray showed enlargement of the heart.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zdravnik 
+<seg type="lemma">
+X-rays someone
+</seg>
+, slika notranjost bolnikovega telesa z rentgenskim aparatom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slikati z rentgenom, rentgenizirati
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,226 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+burst
+</orth>
+<form type="variant">
+<pron>
+/b*$e*:st/
+</pron>
+</form>
+<form type="inflected">
+bursts, bursting.
+</form>
+<IN>
+<IH>
+Burst 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bursts
+</seg>
+ ali kadar &ccaron;lovek 
+<seg type="lemma">
+bursts something
+</seg>
+, se tisto nenadoma razpo&ccaron;i in spusti zrak ali kak&scaron;no drugo snov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As he braked, a tyre burst.
+</quote>
+<quote>
+She burst the balloon.
+</quote>
+<quote>
+...a burst water pipe.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;open&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vrata ali pokrov 
+<seg type="lemma">
+bursts open
+</seg>
+, se nenadoma odpre zaradi hudega pritiska na drugi strani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s pokom se odpreti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To burst into or through something 
+</seg>
+pomeni, da gremo nekam ali skozi nekaj nenadoma in silovito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti v, planiti skozi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+O&rsquo;Shea burst in through the opposite door.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A burst of something 
+</seg>
+je nenadno kratko obdobje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a burst of automatic rifle fire.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+burst in on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To burst in on someone 
+</seg>
+pomeni nenadoma stopiti k nekomu v sobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+burst into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To burst into tears or laughter 
+</seg>
+pomeni nenadoma za&ccaron;eti jokati ali se smejati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti v jok ali smeh
+</quote>
+</cit>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+burst into flames: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+flame
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+burst out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To burst out laughing or crying 
+</seg>
+pomeni nenadoma se za&ccaron;eti glasno smejati ali jokati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti v glasen smeh ali jok
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

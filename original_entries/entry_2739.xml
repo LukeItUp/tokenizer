@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+compute
+</orth>
+<form type="variant">
+<pron>
+/k@7mpj*u*:t/
+</pron>
+</form>
+<form type="inflected">
+computes, computing, computed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To compute a quantity or number 
+</seg>
+pomeni prera&ccaron;unati neko koli&ccaron;ino ali &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izra&ccaron;unati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is difficult to compute the loss in revenue.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+computation
+</orth>
+<form type="variant">
+<pron>
+/k*Qmpj@4t*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There had been a sudden advance in the field of automatic computation.
+</quote>
+<quote>
+He sat over his adding machine making rapid computations.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

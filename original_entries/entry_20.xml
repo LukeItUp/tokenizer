@@ -5,7 +5,7 @@ abject
 </orth>
 <form type="variant">
 <pron>
-/*#ae;bdZekt/.
+/*&ae;bdZekt/
 </pron>
 </form>
 </form>
@@ -16,12 +16,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
 abject
 </seg>
-povemo, da sta polo&#382;aj ali
-lastnost sramotna ali povzro&#269;ata potrtost.
+ povemo, da sta polo&zcaron;aj ali lastnost sramotna ali povzro&ccaron;ata potrtost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -41,16 +40,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 abject
 </seg>
-ne ka&#382;e samozavesti ali
-poguma.
+, ne ka&zcaron;e samozavesti ali poguma. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-nesamozavesten, pla&#353;en
+nesamozavesten, pla&scaron;en
 </quote>
 </cit>
 </sense>

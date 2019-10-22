@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+descent
+</orth>
+<form type="variant">
+<pron>
+/di1s*ent/
+</pron>
+</form>
+<form type="inflected">
+descents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A descent 
+</seg>
+je premik z vi&scaron;je ravni na ni&zcaron;jo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spust
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He saw an aircraft making a very steep descent.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s descent 
+</seg>
+je poreklo &ccaron;lovekove dru&zcaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Americans of Irish descent.
+</quote>
+</seg>
+</sense>
+</entry>

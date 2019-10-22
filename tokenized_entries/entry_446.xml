@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p23_s24439" id="p23_w226" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.18" y="327.908" base="333.07" width="30.5616" height="6.844">/æmbÍÄ/,</TOKEN>
+<TOKEN sid="p23_s24439" id="p23_w226" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.18" y="327.908" base="333.07" width="30.5616" height="6.844">/&#230;mb&#205;&#196;/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -59,7 +59,7 @@
 <TOKEN sid="p23_s24469" id="p23_w256" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.725" y="363.684" base="369.38" width="18.653" height="7.552">force.</TOKEN>
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p23_s24470" id="p23_w257" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="144.48" y="363.684" base="369.38" width="17.599" height="7.552">Tudi:</TOKEN>
@@ -79,6 +79,6 @@
 <TOKEN sid="p23_s24480" id="p23_w267" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.993" y="372.764" base="378.46" width="8.40168" height="7.552">an</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

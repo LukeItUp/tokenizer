@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cable
+</orth>
+<form type="variant">
+<pron>
+/k*e*Ib@0l/
+</pron>
+</form>
+<form type="inflected">
+cables.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cable 
+</seg>
+je debela, mo&ccaron;na vrv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(jeklena) vrv
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cable 
+</seg>
+je tudi snop elektri&ccaron;nih &zcaron;ic znotraj gumijaste ali plasti&ccaron;ne cevi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kabel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ten metres of electrical cable.
+</quote>
+</seg>
+</sense>
+</entry>

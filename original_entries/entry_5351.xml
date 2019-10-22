@@ -1,0 +1,319 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+finish
+</orth>
+<form type="variant">
+<pron>
+/f*InIS/
+</pron>
+</form>
+<form type="inflected">
+finishes, finishing, finished.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To finish something 
+</seg>
+pomeni dose&ccaron;i konec ne&ccaron;esa in stvar kon&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokon&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve finished reading your book.
+</quote>
+<quote>
+Brody finished his sandwich.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The finishing touches 
+</seg>
+so zadnje podrobnosti, ki jih moramo narediti, &ccaron;e ho&ccaron;emo nekaj dokon&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadnje poteze, pika na i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had been putting the finishing touches to her make-up.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+finishes
+</seg>
+, se kon&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati se, skleniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The course starts in October and finishes in June.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The finish of something 
+</seg>
+je zadnji del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konec, sklepni del
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In a thrilling finish, she won by two shots.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To finish work at a particular time 
+</seg>
+pomeni prenehati z delom ali &scaron;tudijem ob dolo&ccaron;enem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati, prenehati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I finish work at 3.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e na dirki ali tekmovanju omenimo 
+<seg type="lemma">
+the position that someone finishes in
+</seg>
+, mislimo na mesto, na katerem je tekmovalec na koncu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uvrstiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He finished fifth.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An object&apos;s finish 
+</seg>
+je videz ali sestavljenost povr&scaron;ine ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdelava, apretura
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Metallic finish is standard on this car.
+</quote>
+<quote>
+...a fabric which has a special finish.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+finished
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+finish off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To finish something off 
+</seg>
+pomeni izdelati zadnji del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokon&ccaron;ati, opraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He finished off his thesis.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To finish off something that you have been eating or drinking 
+</seg>
+pomeni pojesti ali spiti &scaron;e zadnji ostanek ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojesti; popiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He finished off the wine with a couple of swallows.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+finish up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To finish up in a particular place or situation 
+</seg>
+pomeni biti na nekem kraju ali v nekem polo&zcaron;aju, potem ko smo nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati, znajti se nekje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;ll be starting in Southampton and finishing up in London.
+</quote>
+<quote>
+They finished up serving in a shop.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+finish with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To finish with someone or something 
+</seg>
+pomeni prekiniti stike z nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, kon&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t finished with you yet.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

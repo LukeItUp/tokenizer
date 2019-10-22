@@ -1,0 +1,137 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+duplicate,
+</orth>
+<form type="inflected">
+duplicates, duplicating, duplicated;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/dj*u*:plIkeIt/
+</pron>
+, samostalnik ali pridevnik pa 
+<pron>
+/dj*u*:plIk@1t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To duplicate a piece of writing or a drawing 
+</seg>
+pomeni narediti natan&ccaron;no kopijo nekega zapisa ali risbe s strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopirati, reproducirati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A duplicate 
+</seg>
+je nekaj, kar je povsem enako kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojnik, kopija
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a duplicate key.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have something in duplicate 
+</seg>
+pomeni imeti dve povsem enaki kopiki ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojnik, kopija
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neka dejavnost 
+<seg type="lemma">
+duplicated
+</seg>
+, dve osebi ali dve skupini opravljata enako nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvojiti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+duplication
+</orth>
+<form type="variant">
+<pron>
+/dj*u*:plIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We try to avoid duplication of work.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

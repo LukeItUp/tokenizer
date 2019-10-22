@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stammer
+</orth>
+<form type="variant">
+<pron>
+/st*&ae;m@/
+</pron>
+</form>
+<form type="inflected">
+stammers, stammering, stammered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stammer 
+</seg>
+pomeni govoriti s te&zcaron;avo, zatikajo&ccaron;e, in ponavljati besede ali glasove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jecljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;But...but...that&apos;s impossible,&rsquo; the youth stammered.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a stammer 
+</seg>
+pomeni pri govoru jecljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jecljanje
+</quote>
+</cit>
+</sense>
+</entry>

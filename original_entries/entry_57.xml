@@ -6,16 +6,17 @@ abstract,
 <form type="inflected">
 abstracts, abstracting, abstracted;
 </form>
-<form type="variant">
-pridevnik in samostalnik izgovarjamo
+<PN>
+pridevnik in samostalnik izgovarjamo 
 <pron>
-/*#ae;bstr#ae;kt/
+/*&ae;bstr&ae;kt/
 </pron>
-glagol pa
+, glagol pa 
 <pron>
-/@3bstr*#ae;kt/.
+/@3bstr*&ae;kt/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -24,15 +25,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Zamisel ali argument, ki je
+Zamisel ali argument, ki je 
 <seg type="lemma">
 abstract
 </seg>
-sloni na splo&#353;nih zamislih, ne pa na konkretnih predmetih ali dogodkih.
+, sloni na splo&scaron;nih zamislih, ne pa na konkretnih predmetih ali dogodkih. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-abstrakten, teoreti&#269;en
+abstrakten, teoreti&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -48,12 +49,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Umetnostni slog, ki je
+Umetnostni slog, ki je 
 <seg type="lemma">
 abstract
 </seg>
-poudarja
-uporabo oblik in barv, ne pa oseb ali stvari.
+, poudarja uporabo oblik in barv, ne pa oseb ali stvari. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -73,12 +73,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Samostalnik, ki je
+Samostalnik, ki je 
 <seg type="lemma">
 abstract
 </seg>
-opisuje
-lastnost ali pojem, ne pa zunanjost predmeta.
+, opisuje lastnost ali pojem, ne pa zunanjost predmeta. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -96,8 +95,7 @@ COUNT N
 <seg type="lemma">
 An abstract of an article or speech
 </seg>
-je
-kraj&#353;i sestavek, v katerem ponovimo glavne to&#269;ke &#269;lanka ali govora.
+ je kraj&scaron;i sestavek, v katerem ponovimo glavne to&ccaron;ke &ccaron;lanka ali govora. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -108,9 +106,9 @@ povzetek
 <sense n="5">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
@@ -119,8 +117,7 @@ OBJ
 <seg type="lemma">
 To abstract information
 </seg>
-pomeni narediti
-povzetek glavnih to&#269;k nekega &#269;lanka ali drugega zapisa.
+ pomeni narediti povzetek glavnih to&ccaron;k nekega &ccaron;lanka ali drugega zapisa. 
 </def>
 <cit type="translationEquivalent">
 <quote>

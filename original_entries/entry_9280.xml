@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mourn
+</orth>
+<form type="variant">
+<pron>
+/m*O*:n/
+</pron>
+</form>
+<form type="inflected">
+mourns, mourning, mourned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mourns someone
+</seg>
+ ali 
+<seg type="lemma">
+mourns for someone
+</seg>
+, je zelo &zcaron;alosten in veliko misli na nekoga, ki je umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I remained to mourn him in Chicago.
+</quote>
+<quote>
+I shall always love Guy and mourn for him.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mourns something 
+</seg>
+ali 
+<seg type="lemma">
+mourns for something
+</seg>
+, je zelo &zcaron;alosten, ker tistega nima ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alovati za &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I mourned for the loss of my beauty.
+</quote>
+</seg>
+</sense>
+</entry>

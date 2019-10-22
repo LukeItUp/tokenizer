@@ -9,12 +9,13 @@ archaeology
 </pron>
 ;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-archeology.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+archeology
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -24,10 +25,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Archaeology
+Archaeology 
 </seg>
-je preu&#269;evanje preteklosti z
-raziskovanjem predmetov, na primer stavb ali orodja.
+je preu&ccaron;evanje preteklosti z raziskovanjem predmetov, na primer stavb ali orodja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -39,7 +39,6 @@ arheologija
 <orth>
 archaeological
 </orth>
-</form>
 <form type="variant">
 <pron>
 /*A*:ki1@l*QdZIk@l/
@@ -61,7 +60,6 @@ ADJ
 <orth>
 archaeologist
 </orth>
-</form>
 <form type="variant">
 <pron>
 /*A*:ki1*Ql@dZIst/

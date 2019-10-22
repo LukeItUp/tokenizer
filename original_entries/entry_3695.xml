@@ -1,0 +1,152 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deposit
+</orth>
+<form type="variant">
+<pron>
+/di1p*QzIt/
+</pron>
+</form>
+<form type="inflected">
+deposits, depositing, deposited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek 
+<seg type="lemma">
+deposits something somewhere
+</seg>
+, nekaj nekam polo&zcaron;i, pogosto zato, da bo na varnem, dokler tistega ne bo spet potreboval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti, odlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He deposited the case in the left luggage office.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deposit 
+</seg>
+je znesek, ki ga polo&zcaron;imo na ban&ccaron;ni ali kak drug ra&ccaron;un za var&ccaron;evanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polog, vloga
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deposit 
+</seg>
+je tudi denar, ki ga damo vnaprej kot delno pla&ccaron;ilo za blago ali uslugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ara, predpla&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ve saved enough for the deposit on a house.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deposit 
+</seg>
+je tudi znesek, ki ga damo osebi, pri kateri nekaj najamemo ali si sposodimo. Denar nam vrne, &ccaron;e blaga ne po&scaron;kodujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polog
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be deposited somewhere
+</seg>
+ pomeni, da neka snov nekje oble&zcaron;i zaradi kemi&ccaron;nega ali geolo&scaron;kega procesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;iti, naplaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Layers of sand were deposited on top of the peat.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deposit 
+</seg>
+je koli&ccaron;ina snovi, ki je nekje oble&zcaron;ala zaradi kemi&ccaron;nega ali geolo&scaron;kega procesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nahajali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...rich mineral deposits.
+</quote>
+</seg>
+</sense>
+</entry>

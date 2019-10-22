@@ -1,0 +1,216 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scrape
+</orth>
+<form type="variant">
+<pron>
+/skr*e*Ip/
+</pron>
+</form>
+<form type="inflected">
+scrapes, scraping, scraped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrape something from a surface 
+</seg>
+ali 
+<seg type="lemma">
+to scrape something off 
+</seg>
+pomeni odstraniti nekaj z neke povr&scaron;ine tako, da po njej drgnemo z no&zcaron;em ali drugim ostrim predmetom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostrgati, spraskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She scraped the mud off her boots.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrape something 
+</seg>
+pomeni odstraniti ko&zcaron;o ali zunanji sloj ne&ccaron;esa tako, da z no&zcaron;em potegnemo po njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The nuts can be eaten raw once they have been scraped.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrape one thing against another 
+</seg>
+pomeni, da eno stvar podrgnemo ob drugo in tako povzro&ccaron;imo manj&scaron;o po&scaron;kodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opraskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He scraped his hand painfully on a rock.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+scrapes something 
+</seg>
+ali 
+<seg type="lemma">
+scrapes against something
+</seg>
+, se podrgne ob nekaj drugega in tisto nekoliko po&scaron;koduje ali povzro&ccaron;i rezek zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opraskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In winter, the branches tapped and scraped the glass.
+</quote>
+<quote>
+His beard scraped against her skin.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the clink and scrape of knives and forks.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+scrape through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrape through an examination 
+</seg>
+pomeni s te&zcaron;avo narediti izpit. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlesti skozi, komaj narediti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+scrape together 
+<VS>
+ali 
+</VS>
+<VV>
+scrape up.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrape together 
+</seg>
+ali 
+<seg type="variant">
+to scrape up an amount of money or a number of things 
+</seg>
+pomeni s te&zcaron;avo zbrati dolo&ccaron;en znesek ali &scaron;tevilo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti skupaj, zbrati, napraskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He scraped up the money to start a restaurant.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

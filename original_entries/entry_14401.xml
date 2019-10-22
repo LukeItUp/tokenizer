@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+test
+</orth>
+<form type="variant">
+<pron>
+/t*est/
+</pron>
+</form>
+<form type="inflected">
+tests, testing, tested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To test something 
+</seg>
+pomeni poskusiti nekaj uporabiti, da bi tako ugotovili, kaj tisto je, v kak&scaron;nem stanju je ali kako dobro deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The BBC in Scotland wanted to test the range of their transmitters.
+</quote>
+<quote>
+A number of new techniques were tested.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an underground nuclear test.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To test someone 
+</seg>
+pomeni nekomu postavljati vpra&scaron;anja, da ugotovimo, koliko ve o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskusiti, preveriti znanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I will test you on your knowledge of French.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a mathematics test.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dogodek ali polo&zcaron;aj je 
+<seg type="lemma">
+a test of a person or thing
+</seg>
+, kadar poka&zcaron;e dobre lastnosti ali u&ccaron;inkovitost neke osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the first major test of the President&apos;s policies.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A medical test 
+</seg>
+je pregled dela telesa; z njim zdravnik ugotavlja, koliko je nekdo zdrav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a blood test.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put something to the test 
+</seg>
+pomeni poskusiti nekaj uporabiti, da ugotovimo, kako uporabno ali u&ccaron;inkovito je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The idea is being put to the test in a theatre in Paris.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

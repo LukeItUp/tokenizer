@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pepper
+</orth>
+<form type="variant">
+<pron>
+/p*ep@/
+</pron>
+</form>
+<form type="inflected">
+peppers, peppering, peppered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pepper 
+</seg>
+je za&ccaron;imba peko&ccaron;ega okusa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poper
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...salt and pepper.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pepper 
+</seg>
+je zelenjava z votlim zelenim ali rde&ccaron;im plodom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paprika
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a salad of green peppers.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is peppered with small objects
+</seg>
+, ti predmeti zadenejo obenj ali se raztresejo po njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti posut
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt my fingers being peppered with small, hot fragments.
+</quote>
+</seg>
+</sense>
+</entry>

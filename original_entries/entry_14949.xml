@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+TV
+</orth>
+<form type="variant">
+<pron>
+/t*i*: v*i*:/
+</pron>
+</form>
+<form type="inflected">
+TVs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+TV 
+</seg>
+je televizija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+TV
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve just been watching a film on TV.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A TV 
+</seg>
+je televizijski sprejemnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+televizija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nicola turned on the TV.
+</quote>
+</seg>
+</sense>
+</entry>

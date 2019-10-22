@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+merchant
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:tS@nt/
+</pron>
+</form>
+<form type="inflected">
+merchants.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A merchant
+</seg>
+ je &ccaron;lovek, ki prodaja ali kupuje stvari v ve&ccaron;jih koli&ccaron;inah, zlasti nekdo, ki uva&zcaron;a in izva&zcaron;a trgovsko blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a textile merchant.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ladje ali pomor&scaron;&ccaron;aki so 
+<seg type="lemma">
+merchant
+</seg>
+, kadar se ukvarjajo s preva&zcaron;anjem blaga za trgovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovski
+</quote>
+</cit>
+</sense>
+</entry>

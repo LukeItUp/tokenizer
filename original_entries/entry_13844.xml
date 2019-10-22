@@ -1,0 +1,216 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stuff
+</orth>
+<form type="variant">
+<pron>
+/st*Vf/
+</pron>
+</form>
+<form type="inflected">
+stuffs, stuffing, stuffed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stuff
+</seg>
+ je kakr&scaron;nakoli snov ali skupina predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeva, stvar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What&apos;s that stuff in the bucket?
+</quote>
+<quote>
+Quite a lot of stuff had been stolen.
+</quote>
+<quote>
+She was reading the travel stuff in the colour supplement.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stuff something somewhere 
+</seg>
+pomeni nekaj hitro in grobo potisniti nekam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stla&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Willie gathered up the bills and stuffed them carelessly into his pocket.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar prostor ali posoda 
+<seg type="lemma">
+is stuffed with things
+</seg>
+, je polna stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poln, natrpan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cupboard was stuffed with old fishing tackle.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stuffed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He&apos;d got a big rucksack, stuffed with notes, on his back.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stuff oneself 
+</seg>
+pomeni pojesti veliko hrane; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+basati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Karin was stuffing herself with eggs and toast.
+</quote>
+<quote>
+I was stuffing my face with ice-cream.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stuff a bird or a vegetable 
+</seg>
+pomeni nalo&zcaron;iti v perutnino ali zelenjavo me&scaron;ano hrano, preden jo damo kuhat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadevati
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stuff a dead animal 
+</seg>
+pomeni napolniti mrtvo &zcaron;ival z razli&ccaron;nim materialom, da se ohrani in jo je mo&zcaron;no razstaviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naga&ccaron;iti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+stuffed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a stuffed parrot.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

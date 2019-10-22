@@ -1,0 +1,223 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+poke
+</orth>
+<form type="variant">
+<pron>
+/p*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+pokes, poking, poked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To poke someone or something 
+</seg>
+pomeni na hitro potisniti prst ali oster predmet v nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People poked the students with their umbrellas.
+</quote>
+<quote>
+Ralph began to poke little holes in the sand.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Len gave him an affectionate poke.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To poke one thing into another 
+</seg>
+pomeni potisniti neko stvar v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtakniti, potisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Never poke scissors into an electric socket.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+pokes out of or through another thing
+</seg>
+, se poka&zcaron;e izza ali izpod ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+siliti iz, gledati iz, moleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cotton wool poking out of his ear.
+</quote>
+<quote>
+Blades of grass poked up between the paving stones.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To poke one&apos;s head through an opening 
+</seg>
+pomeni potisniti glavo skozi odprtino, pogosto zato, da bi nekaj la&zcaron;e videli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomoliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The driver slowed down and poked his head out of the window.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+poke about 
+<VS>
+ali 
+</VS>
+<VV>
+poke around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To poke about 
+</seg>
+ali 
+<seg type="variant">
+to poke around for something 
+</seg>
+pomeni nekaj iskati, najve&ccaron;krat tako, da premaknemo veliko predmetov; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+brskati, stikati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was lying flat on his stomach, poking around under the bed with his arm.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+poke at.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To poke at something 
+</seg>
+pomeni dotikati se ne&ccaron;esa z vrsto hitrih drobnih premikov koni&ccaron;astega predmeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chef poked at his little pile of ashes.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

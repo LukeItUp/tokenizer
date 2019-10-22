@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overpower
+</orth>
+<form type="variant">
+<pron>
+/*@*Uv@p*a*U*@/
+</pron>
+</form>
+<form type="inflected">
+overpowers, overpowering, overpowered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To overpower someone 
+</seg>
+pomeni, da nekoga, ki se upira, premagamo in zajamemo, ker smo mo&ccaron;nej&scaron;i od njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvladati, premagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They easily overpowered her and dragged her inside.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;ustvo ali ob&ccaron;utek 
+<seg type="lemma">
+overpowers someone
+</seg>
+, zelo mo&ccaron;no vpliva na &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premagati, prevladati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Occasionally this desire overpowers me and leads me to be cruel.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+overpowering
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an overpowering feeling of failure.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

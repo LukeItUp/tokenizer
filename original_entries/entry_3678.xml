@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+department
+</orth>
+<form type="variant">
+<pron>
+/di1p*A*:tm@2nt/
+</pron>
+</form>
+<form type="inflected">
+departments.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A department 
+</seg>
+je eden od delov velike prodajalne ali organizacije, kot je univerza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddelek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the cosmetics department of Harrods.
+</quote>
+<quote>
+...a Professor in the English department.
+</quote>
+<quote>
+...the Department of Health.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+departmental
+</orth>
+<form type="variant">
+<pron>
+/d*i*:pA:tm*ent@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a departmental meeting.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+description
+</orth>
+<form type="variant">
+<pron>
+/dI2skr*IpS@0n/
+</pron>
+</form>
+<form type="inflected">
+descriptions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A description 
+</seg>
+je pripoved o tem, kak&scaron;en je nekdo ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a detailed description of the house.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Description 
+</seg>
+je pripovedovanje, kak&scaron;na je neka oseba ali stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The relationships in his family are so complex that description is almost impossible.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+of a particular description
+</seg>
+, je take vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her dress was too tight to have concealed a weapon of any description.
+</quote>
+</seg>
+</sense>
+</entry>

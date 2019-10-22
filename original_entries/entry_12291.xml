@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sailing
+</orth>
+<form type="variant">
+<pron>
+/s*e*IlIN/
+</pron>
+</form>
+<form type="inflected">
+sailings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sailing 
+</seg>
+je vo&zcaron;nja, ki jo opravi ladja s potniki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plovba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...regular sailings from Portsmouth.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sailing 
+</seg>
+je po&ccaron;itni&scaron;ko potovanje ali &scaron;portno tekmovanje z jadrnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jadranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the traditional Royal sailing week in August.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+regrettable
+</orth>
+<form type="variant">
+<pron>
+/rI1gr*et@b@0l/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+regrettable
+</seg>
+, je nesre&ccaron;no in neza&zcaron;eleno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&zcaron;alovanja vreden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His tiredness caused him to make a regrettable error.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+regrettably
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Regrettably few of them have gone to university.
+</quote>
+<quote>
+Regrettably, it is not an easy plant to grow in this country.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

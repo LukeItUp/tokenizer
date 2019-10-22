@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inch
+</orth>
+<form type="variant">
+<pron>
+/*IntS/
+</pron>
+</form>
+<form type="inflected">
+inches, inching, inched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inch 
+</seg>
+je dol&zcaron;inska enota, enakovredna pribli&zcaron;no 2,54 centimetra. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+palec, cola
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Five inches of snow had fallen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inch somewhere 
+</seg>
+pomeni nekam se pomikati zelo po&ccaron;asi in previdno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomikati se po pol&zcaron;je, lezti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can only enter the caves by inching through a narrow tunnel on your stomach.
+</quote>
+<quote>
+Howard inched the van forward.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,170 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+leap
+</orth>
+<form type="variant">
+<pron>
+/l*i*:p/
+</pron>
+</form>
+<form type="inflected">
+leaps, leaping, leaped 
+<pron>
+/l*i*:pt, l*ept/
+</pron>
+ 
+<IS>
+ali 
+</IS>
+<IV>
+leapt 
+</IV>
+<form type="variant">
+<pron>
+/l*ept/
+</pron>
+</form>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To leap somewhere 
+</seg>
+pomeni sko&ccaron;iti visoko v zrak ali zelo dale&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some monkeys can leap five metres from one tree to another.
+</quote>
+<quote>
+They leaped into the water.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She took a flying leap at the fence.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To leap somewhere 
+</seg>
+pomeni tudi nenadoma in hitro se nekam premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She leapt into a taxi.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stvari 
+<seg type="lemma">
+leap
+</seg>
+, nenadoma napredujejo ali se mo&ccaron;no pove&ccaron;ajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The number of computers in the world is leaping upwards daily.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a leap in oil prices.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+leap at.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To leap at a chance or opportunity 
+</seg>
+pomeni hitro in &zcaron;eljno sprejeti neko prilo&zcaron;nost ali mo&zcaron;nost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pograbiti z obema rokama
+</quote>
+</cit>
+<seg type="example">
+<quote>
+David would have leaped at the chance to go.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

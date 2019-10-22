@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p201_s219281" id="p201_w356" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.8484" y="472.624" base="478.32" width="21.9996" height="7.552">pebble</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p201_s219282" id="p201_w357" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="106.108" y="472.624" base="478.32" width="13.1962" height="7.552">was</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p201_s219283" id="p201_w358" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.564" y="472.624" base="478.32" width="23.1941" height="7.552">clearly</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p201_s219284" id="p201_w359" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.018" y="472.624" base="478.32" width="39.1817" height="7.552">discernible.</TOKEN>
+<TOKEN sid="p201_s219286" id="p201_w361" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="195.38" y="474.404" base="478.32" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p201_s219287" id="p201_w362" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.09" y="472.624" base="478.32" width="8.79696" height="7.552">^e</TOKEN>
+<TOKEN sid="p201_s219288" id="p201_w363" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.146" y="472.624" base="478.32" width="5.99616" height="7.552">je</TOKEN>
+</seg>
+<TOKEN sid="p201_s219289" id="p201_w364" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.402" y="472.624" base="478.32" width="16.3973" height="7.552">neka</TOKEN>
+<TOKEN sid="p201_s219290" id="p201_w365" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="481.704" base="487.4" width="28.7942" height="7.552">lastnost,</TOKEN>
+<TOKEN sid="p201_s219291" id="p201_w366" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.0945" y="481.704" base="487.4" width="34.7911" height="7.552">zna~ilnost</TOKEN>
+<TOKEN sid="p201_s219292" id="p201_w367" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="129.796" y="481.704" base="487.4" width="8.79696" height="7.552">ali</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p201_s219293" id="p201_w368" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.503" y="481.704" base="487.4" width="22.7916" height="7.552">u~inek</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p201_s219294" id="p201_w369" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.2" y="481.704" base="487.4" width="39.5813" height="7.552">discernible,</TOKEN>
+<TOKEN sid="p201_s219295" id="p201_w370" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.69" y="481.704" base="487.4" width="6.39936" height="7.552">jo</TOKEN>
+<TOKEN sid="p201_s219296" id="p201_w371" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="214.998" y="481.704" base="487.4" width="28.7986" height="7.552">opazimo</TOKEN>
+<TOKEN sid="p201_s219297" id="p201_w372" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="490.784" base="496.48" width="8.676" height="7.552">ali</TOKEN>
+<TOKEN sid="p201_s219298" id="p201_w373" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="72.6054" y="490.784" base="496.48" width="35.1756" height="7.552">razumemo</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

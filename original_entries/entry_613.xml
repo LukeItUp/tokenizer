@@ -15,26 +15,24 @@ appeals, appealing, appealed.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"for
+&lsquo;for 
 </seg>
 <seg>
-or
+or 
 </seg>
-REPORT
-VB
+REPORT VB
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To appeal for something
+To appeal for something 
 </seg>
-pomeni, da resno
-in nujno zahtevamo nekaj, kar potrebujemo.
+pomeni, da resno in nujno zahtevamo nekaj, kar potrebujemo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -55,9 +53,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An appeal
+An appeal 
 </seg>
-je resna in nujna pro&#353;nja.
+je resna in nujna pro&scaron;nja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -66,30 +64,28 @@ poziv
 </cit>
 <seg type="example">
 <quote>
-A radio appeal asking for money for cancer research, raised
-&#163;75,000.
+A radio appeal asking for money for cancer research, raised &pound;75,000.
 </quote>
 </seg>
 </sense>
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To appeal to someone's reason or feelings
+To appeal to someone's reason or feelings 
 </seg>
-pomeni nekomu predlagati, naj stori tisto, za kar ga prosimo, &#269;e ho&#269;e dajati
-vtis, da je razumen ali so&#269;uten.
+pomeni nekomu predlagati, naj stori tisto, za kar ga prosimo, &ccaron;e ho&ccaron;e dajati vtis, da je razumen ali so&ccaron;uten. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -101,7 +97,7 @@ rotiti, sklicevati se
 They are confident they can appeal to her sense of duty.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -112,7 +108,7 @@ COUNT N
 ...an appeal to her maternal feelings.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="4">
 <gramGrp>
@@ -122,14 +118,13 @@ VB
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To appeal to someone
+To appeal to someone 
 </seg>
-na visokem polo&#382;aju
-proti neki odlo&#269;itvi pomeni uradno prositi za njeno spremembo.
+na visokem polo&zcaron;aju proti neki odlo&ccaron;itvi pomeni uradno prositi za njeno spremembo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-prito&#382;iti se
+prito&zcaron;iti se
 </quote>
 </cit>
 </sense>
@@ -141,14 +136,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An appeal
+An appeal 
 </seg>
-je uradna zahteva po spremembi
-odlo&#269;itve.
+je uradna zahteva po spremembi odlo&ccaron;itve. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-prito&#382;ba
+prito&zcaron;ba
 </quote>
 </cit>
 <seg type="example">
@@ -160,23 +154,22 @@ The Supreme Court turned down our appeal.
 <sense n="6">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekaj
+Kadar nekaj 
 <seg type="lemma">
 appeals to someone
 </seg>
-je tisto
-zanj privla&#269;no ali zanimivo.
+, je tisto zanj privla&ccaron;no ali zanimivo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -193,7 +186,6 @@ The idea appealed to him.
 <orth>
 appealing
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADJ
@@ -209,23 +201,22 @@ She had an appealing sense of humour.
 <sense n="7">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The appeal of something
+The appeal of something 
 </seg>
-je lastnost nekega
-predmeta, ki je za ljudi privla&#269;na ali zanimiva.
+je lastnost nekega predmeta, ki je za ljudi privla&ccaron;na ali zanimiva. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-privla&#269;nost
+privla&ccaron;nost
 </quote>
 </cit>
 </sense>

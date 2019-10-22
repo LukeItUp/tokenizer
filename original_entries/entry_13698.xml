@@ -1,0 +1,179 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sting
+</orth>
+<form type="variant">
+<pron>
+/st*IN/
+</pron>
+</form>
+<form type="inflected">
+stings, stinging, stung
+</form>
+<form type="variant">
+<pron>
+/st*VN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;u&zcaron;elka, &zcaron;ival ali rastlina 
+<seg type="lemma">
+stings someone
+</seg>
+, povzro&ccaron;i, da &ccaron;lovek ob&ccaron;uti ostro bole&ccaron;ino, ko ga zbode v ko&zcaron;o, navadno s strupom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbosti, pi&ccaron;iti, ugrizniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bees do not normally sting without being provoked.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sting of an insect or animal 
+</seg>
+je del telesa &zcaron;u&zcaron;elke ali &zcaron;ivali, ki nas pi&ccaron;i ali zbode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;elo, bodica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They paralyse their victims with their stings.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A part of one&apos;s body stings 
+</seg>
+re&ccaron;emo, kadar v delu telesa ob&ccaron;utimo mo&ccaron;no bole&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&ccaron;i, boleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My eyes were stinging.
+</quote>
+<quote>
+The fire smoked glumly and stung our eyes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the sting of ashes in his eyes.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovekove pripombe 
+<seg type="lemma">
+sting someone
+</seg>
+, nekoga vznemirijo in jezijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raniti, u&zcaron;aliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wondered why I&apos;d said it, knowing it would really sting him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stinging
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He made a stinging attack on Taverne.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+takes the sting out of a situation
+</seg>
+, neke okoli&scaron;&ccaron;ine naredi manj bole&ccaron;e ali neprijetne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti, omiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He smiled to take the sting out of his words.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -9,32 +9,31 @@ age
 </pron>
 </form>
 <form type="inflected">
-ages, ageing
-<seg>
-ali
-</seg>
-<form>
-aging,
-</form>
-aged.
+ages, ageing 
+<IS>
+ali 
+</IS>
+<IV>
+aging, 
+</IV>
+aged. 
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's age
+One's age 
 </seg>
-je &#353;tevilo let, ki jih je &#269;lovek
-pre&#382;ivel.
+je &scaron;tevilo let, ki jih je &ccaron;lovek pre&zcaron;ivel. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -58,10 +57,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Age
+Age 
 </seg>
-je &#382;ivljenjsko obdobje, ko &#269;lovek
-postane star.
+je &zcaron;ivljenjsko obdobje, ko &ccaron;lovek postane star. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -84,12 +82,11 @@ ERG VB
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekdo
+Kadar nekdo 
 <seg type="lemma">
 ages
 </seg>
-postane ali je videti
-precej starej&#353;i kot prej.
+, postane ali je videti precej starej&scaron;i kot prej. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -109,7 +106,6 @@ The strain of looking after her had aged him.
 <orth>
 ageing
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADJ
@@ -130,9 +126,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An age
+An age 
 </seg>
-je zgodovinsko obdobje.
+je zgodovinsko obdobje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -151,30 +147,30 @@ doba
 <sense n="5">
 <gramGrp>
 <pos>
-SING N
+SING N 
 <seg>
-or
+or 
 </seg>
 PLURAL N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-an age
+an age 
 </seg>
-ali
+ali 
 <seg type="variant">
-ages
+ages 
 </seg>
-ozna&#269;imo zelo dolgo obdobje;
+ozna&ccaron;imo zelo dolgo obdobje; 
 </def>
 <usg>
 pogovorna raba.
 </usg>
 <cit type="translationEquivalent">
 <quote>
-(cela) ve&#269;nost
+(cela) ve&ccaron;nost
 </quote>
 </cit>
 <seg type="example">
@@ -186,15 +182,14 @@ I've known him for ages.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-&#268;lovek, ki je
+&Ccaron;lovek, ki je 
 <seg type="lemma">
 under age
 </seg>
-po zakonu ni
-dovolj star za kaj, na primer za kupovanje alkoholnih pija&#269;.
+, po zakonu ni dovolj star za kaj, na primer za kupovanje alkoholnih pija&ccaron;. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -204,13 +199,11 @@ mladoleten
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 comes of age
 </seg>
-po zakonu
-postane odrasel. V Veliki Britaniji mladi postanejo odrasli pri osemnajstih
-letih.
+, po zakonu postane odrasel. V Veliki Britaniji mladi postanejo odrasli pri osemnajstih letih. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -218,5 +211,5 @@ postati polnoleten
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

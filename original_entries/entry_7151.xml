@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+immerse
+</orth>
+<form type="variant">
+<pron>
+/Im*$e*:s/
+</pron>
+</form>
+<form type="inflected">
+immerses, immersing, immersed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To immerse oneself in something 
+</seg>
+pomeni postati popolnoma vpleten v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatopiti se, pogrezniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That year I immersed myself totally in my work.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To immerse something in a liquid 
+</seg>
+pomeni nekaj dati v teko&ccaron;ino, tako da je v celoti pokrito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potopiti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+immersion
+</orth>
+<form type="variant">
+<pron>
+/Im*$e*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You must be baptized by total immersion in our pool.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+implement,
+</orth>
+<form type="inflected">
+implements, implementing, implemented;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/*ImplI1m@2nt/
+</pron>
+, samostalnik pa 
+<pron>
+/*ImplI1m@nt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To implement a plan, system, or law 
+</seg>
+pomeni uresni&ccaron;iti na&ccaron;rt, sistem ali zakon. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udejaniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...policies that they would like to see implemented.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+implementation
+</orth>
+<form type="variant">
+<pron>
+/*ImplI1m@2nt*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the implementation of the desired reforms.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An implement 
+</seg>
+je orodje ali kak drug del opreme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredstvo, orodje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...basic agricultural implements.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flock
+</orth>
+<form type="variant">
+<pron>
+/fl*Qk/
+</pron>
+</form>
+<form type="inflected">
+flocks, flocking, flocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flock of birds, sheep, or goats 
+</seg>
+je skupina ptic, ovac ali koz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jata, &ccaron;reda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a flock of seagulls.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's flock 
+</seg>
+je skupina oseb, za katere je nekdo, zlasti duhovnik, odgovoren; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ov&ccaron;ice, verniki
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+flock to a place or event
+</seg>
+, v velikem &scaron;tevilu gredo na neko prireditev ali kraj, ker je prijeten ali zanimiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgrinjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crowds flocked to see the treasures.
+</quote>
+</seg>
+</sense>
+</entry>

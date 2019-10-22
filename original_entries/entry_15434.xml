@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+used;
+</orth>
+<PN>
+pri 1. in 2. pomenu besedo izgovarjamo 
+<pron>
+/j*u*:st/
+</pron>
+, pri 3. in 4. pa 
+<pron>
+/j*u*:zd/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SEMI-MODAL 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+used to be done 
+</seg>
+ali 
+<seg type="lemma">
+used to be the case
+</seg>
+, se je v preteklosti redno dogajalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v&ccaron;asih je bilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They used to send me a card at Christmas time.
+</quote>
+<quote>
+I used to be very mean.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be used to something 
+</seg>
+pomeni, da nekaj poznamo, ker smo tisto &zcaron;e velikokrat naredili ali videli. 
+<FV>
+To get used to something 
+</FV>
+pomeni, da nekaj postopoma spoznavamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti navajen; navaditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+San Diego was not used to such demonstrations.
+</quote>
+<quote>
+We are used to working together.
+</quote>
+<quote>
+After a few days, I got used to it all.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Robec, brisa&ccaron;a ali kozarec, ki je 
+<seg type="lemma">
+used
+</seg>
+, je umazan, ker ga je nekdo &zcaron;e uporabil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rabljen, umazan
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Avto, ki je 
+<seg type="lemma">
+used
+</seg>
+, ni nov, ampak je &zcaron;e imel lastnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rabljen
+</quote>
+</cit>
+</sense>
+</entry>

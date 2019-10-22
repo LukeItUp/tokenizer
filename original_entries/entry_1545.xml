@@ -1,0 +1,245 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bound
+</orth>
+<form type="variant">
+<pron>
+/b*a*Und/
+</pron>
+</form>
+<form type="inflected">
+bounds, bounding, bounded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+bound to happen
+</seg>
+, se bo prav gotovo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotovljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are bound to win.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be bound by an agreement or law 
+</seg>
+pomeni imeti dol&zcaron;nost, da se dr&zcaron;imo sporazuma ali zakona. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vezan biti, prisiljen biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are bound by the government's pay policy.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Bounds 
+</seg>
+so meje, do katerih je dovoljeno nekaj po&ccaron;eti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meja, omejitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is not outside the bounds of possibility.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je obmo&ccaron;je ali ozemlje 
+<seg type="lemma">
+bounded by something
+</seg>
+, je tisto ob robu tistega obmo&ccaron;ja ali ozemlja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omejiti, mejiti na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plantation was bounded by marsh.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je vozilo 
+<seg type="lemma">
+bound for a particular place
+</seg>
+, potuje proti tistemu kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namenjen v, na poti proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He put her aboard the steamer bound for New York.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ivali ali ljudje 
+<seg type="lemma">
+bound
+</seg>
+, se gibljejo hitro in v velikih skokih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He bounded up the stairs.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<def xml:lang="sl">
+<seg type="lemma">
+Bound 
+</seg>
+je tudi pretekli &ccaron;as in pretekli dele&zcaron;nik glagola 
+<ref>
+to bind
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vezati; vezal, vezan
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;I am bound to say&rsquo; 
+</seg>
+ali 
+<seg type="variant">
+&lsquo;I am bound to admit&rsquo; 
+</seg>
+lahko re&ccaron;emo, kadar omenjamo dejstvo, ki ga ob&zcaron;alujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moram re&ccaron;i, moram priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sometimes, I'm bound to say, they are a hopeless muddle.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je neka stvar 
+<seg type="lemma">
+bound up with something
+</seg>
+, je s tistim tesno povezana.
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezan biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All this was bound up with what was happening in Egypt.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je neki kraj 
+<seg type="lemma">
+out of bounds
+</seg>
+, ljudem ni dovoljeno iti tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+onkraj dovoljenih meja; prepovedan
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+jolt
+</orth>
+<form type="variant">
+<pron>
+/dZ*@*Ult/
+</pron>
+</form>
+<form type="inflected">
+jolts, jolting, jolted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+jolts 
+</seg>
+ali kadar &ccaron;lovek 
+<seg type="lemma">
+jolts something
+</seg>
+, se nekaj nenadoma in silovito premakne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stresti (se), zatresti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...enormous loads that jolted and swayed.
+</quote>
+<quote>
+She jolted his arm.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I came down slowly at first, but then with a jolt.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be jolted by something 
+</seg>
+pomeni, da nam nekaj povzro&ccaron;i neprijetno presene&ccaron;enje ali &scaron;ok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretresti, &scaron;okirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was jolted awake by a bright light.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The aim of Detention Centres is to give kids a jolt.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

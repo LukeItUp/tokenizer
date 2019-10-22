@@ -1,0 +1,265 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+better
+</orth>
+<form type="variant">
+<pron>
+/b*et@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Better 
+</seg>
+je primernik pridevnika 
+<ref>
+good
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The results were better than expected.
+</quote>
+<quote>
+Milk is much better for you than lemonade.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Better 
+</seg>
+je tudi primernik prislova 
+<ref>
+well
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some people can ski better than others.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To like one thing better than another 
+</seg>
+pomeni imeti eno stvar raje kot drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I love this place better than anywhere else.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek po bolezni ali po&scaron;kodbi 
+<seg type="lemma">
+better
+</seg>
+, je &zcaron;e manj bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj&scaron;i, bolj zdrav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her cold was better.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+better 
+</seg>
+tvorimo primernik sestavljenih pridevnikov, ki se za&ccaron;nejo z 
+<seg type="lemma">
+good
+</seg>
+ ali 
+<seg type="lemma">
+well
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolj&scaron;i, bolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My husband was better-looking than that.
+</quote>
+<quote>
+She's much better known in Europe.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo
+<seg type="lemma">
+ had better do something
+</seg>
+ pomeni, da bi dolo&ccaron;en &ccaron;lovek moral tisto storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raje, raj&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'd better go.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+better off
+</seg>
+, je v bolj&scaron;ih gmotnih razmerah ali polo&zcaron;aju kakor prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are much better off than they were two years ago.
+</quote>
+<quote>
+She will be better off in hospital.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To change for the better
+</seg>
+ pomeni, da se nekaj izbolj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti na bolje, popraviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The weather had changed for the better.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+gets the better of somebody
+</seg>
+, se tisti &ccaron;lovek ne&ccaron;emu ne more upreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My curiosity got the better of me.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+know better: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+know
+</ref>
+</xr>
+<xr type="related">
+<QF>
+the better part of: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+part
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+think better of it: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+think
+</ref>
+</xr>
+</B>
+</entry>

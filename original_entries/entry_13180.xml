@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sneeze
+</orth>
+<form type="variant">
+<pron>
+/sn*i*:z/
+</pron>
+</form>
+<form type="inflected">
+sneezes, sneezing, sneezed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sneeze 
+</seg>
+pomeni nenadoma zajeti zrak in ga potem glasno iztisniti skozi nos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kihniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sneezed violently.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the coughs and sneezes.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

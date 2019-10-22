@@ -1,0 +1,344 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+be
+</orth>
+<form type="variant">
+<pron>
+/b*i*:/
+</pron>
+</form>
+<form type="inflected">
+am, are, is; was, were; being, been.
+</form>
+<IN>
+Razlage o rabi pregibnih oblik so pri posameznih geslih.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo pred sedanjim dele&zcaron;nikom, kadar tvorimo nedovr&scaron;no obliko glagola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Government is considering the introduction of student loans.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo pred nedolo&ccaron;nikom, kadar govorimo o prihodnjih dogodkih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; bo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Sandy Saunders is to be chairman.
+</quote>
+<quote>
+She is to appeal against the decision.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+S pomo&zcaron;nim glagolom 
+<seg type="lemma">
+to be 
+</seg>
+tvorimo trpni glagolski na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some milk products have been found to contain aluminium.
+</quote>
+<quote>
+Mr Harris was elected by the Council last month.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo pred pridevnikom, samostalnikom ali predlo&zcaron;no zvezo, da navedemo ve&ccaron; podatkov o osebku stavka. Na primer: morda &zcaron;elimo imenovati osebo ali kraj ali povedati podatke o njegovih lastnostih, zna&ccaron;ilnostih, starosti in tako dalje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was slightly disappointed with her Grade C pass.
+</quote>
+<quote>
+I'm from Dortmund originally.
+</quote>
+<quote>
+The iron was in her left hand.
+</quote>
+<quote>
+The head of the Corporation is Mr Paul Simpson.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabimo z osebkom 
+<seg type="lemma">
+it
+</seg>
+, kadar ho&ccaron;emo nekaj opisati ali omeniti eno od lastnosti tistega, o &ccaron;emer govorimo. To lahko storimo v preprostem stavku, na primer 
+<seg type="lemma">
+It's so cold today
+</seg>
+, ali v uvodu k stavku, na primer 
+<seg type="lemma">
+It's a pity we can't go later
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; to je, je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was terribly hot and airless.
+</quote>
+<quote>
+It's a shame she didn't enjoy the film.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo z osebkom 
+<seg type="lemma">
+it
+</seg>
+ ali 
+<seg type="lemma">
+what
+</seg>
+, da zadr&zcaron;imo konec stavka. Na primer: trditev 
+<seg type="lemma">
+John bought the car
+</seg>
+ lahko spremenimo v 
+<seg type="lemma">
+It was John who bought the car
+</seg>
+, kadar &zcaron;elimo poudariti osebo ali predmet, ki izvaja dolo&ccaron;eno dejanje, opisano z glagolom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; tisti, ki; tisto, kar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What I'm talking about is the satellite that fell out of its orbit.
+</quote>
+<quote>
+It was Ted who broke the news to me.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo z osebkom 
+<seg type="lemma">
+there
+</seg>
+, &ccaron;e ho&ccaron;emo povedati, da nekaj obstaja ali se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a rustling of papers.
+</quote>
+<quote>
+There is no such thing as a happy marriage.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+AUX 
+<seg>
+or 
+</seg>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo samostojno v podredjih, kjer je osebek odvisnika druga&ccaron;en kot osebek glavnega stavka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wasn't enjoying it, but the children were.
+</quote>
+<quote>
+He's exactly the same age as I am.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+AUX 
+<seg>
+or 
+</seg>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+lahko uporabimo samostojno tudi v odgovoru na vpra&scaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Rose, are you interested in underdeveloped countries at all?&rsquo;&mdash;&lsquo;Yes, I am.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+AUX 
+<seg>
+or 
+</seg>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&zcaron;ni glagol 
+<seg type="lemma">
+to be 
+</seg>
+uporabljamo tudi v izrazih kot je 
+<seg type="lemma">
+isn't it?
+</seg>
+ in 
+<seg type="lemma">
+aren't you?
+</seg>
+, ki jih na koncu dodamo trdilnemu stavku, da ga spremenimo v vpra&scaron;alnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti; ali ne? kajne?
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She's Welsh, isn't she?
+</quote>
+<quote>
+I hear things are much better in Liverpool, aren't they?
+</quote>
+</seg>
+</sense>
+</entry>

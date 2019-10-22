@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suggestion
+</orth>
+<form type="variant">
+<pron>
+/s@dZ*estS@0n/
+</pron>
+</form>
+<form type="inflected">
+suggestions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A suggestion 
+</seg>
+je zamisel ali na&ccaron;rt, ki ga povemo drugim, da bi ga pretehtali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predlog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I made a few suggestions about how we could spend the afternoon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A suggestion of something 
+</seg>
+je majhno znamenje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He replied to her question with the merest suggestion of a smile.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Suggestion 
+</seg>
+je vplivanje na ljudi, da za&ccaron;nejo misliti tako, kot &zcaron;elimo mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sugestija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Such is the power of suggestion that within two minutes the patient is asleep.
+</quote>
+</seg>
+</sense>
+</entry>

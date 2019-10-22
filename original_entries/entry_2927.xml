@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contend
+</orth>
+<form type="variant">
+<pron>
+/k@7nt*end/
+</pron>
+</form>
+<form type="inflected">
+contends, contending, contended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contend with a problem or difficulty 
+</seg>
+pomeni spopasti se s te&zcaron;avo ali jo premagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojevati se, kosati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The girls had problems of their own at home to contend with.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contend with someone for something
+</seg>
+ pomeni tekmovati z nekom ali ne&ccaron;im, da bi nekaj dosegli, na primer na prvenstvu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekmovati, kosati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...new worlds contending with old for mastery.
+</quote>
+<quote>
+Three parties are contending for power.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+contending
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Those decisions were fought out between contending groups.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+contender
+</orth>
+<form type="variant">
+<pron>
+/k@7nt*end@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a contender in the Presidential election.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contend that something is true 
+</seg>
+pomeni izjaviti ali trditi, da je nekaj resni&ccaron;no; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+trditi, izjaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She contended that the report was deficient.
+</quote>
+</seg>
+</sense>
+</entry>

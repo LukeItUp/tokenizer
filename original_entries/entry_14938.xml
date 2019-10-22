@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+turnover
+</orth>
+<form type="variant">
+<pron>
+/t*$e*:n@Uv@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The turnover of people in an organization 
+</seg>
+je &scaron;tevilo ljudi, ki zapustijo neko organizacijo v primerjavi s &scaron;tevilom tistih, ki vanjo pridejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+menjava/fluktuacija kadrov
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The turnover of a company 
+</seg>
+je vrednost izdelkov ali storitev, ki jih podjetje proda v dolo&ccaron;enem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+promet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Annual turnover is about &pound;9,000 million.
+</quote>
+</seg>
+</sense>
+</entry>

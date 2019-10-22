@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+yell
+</orth>
+<form type="variant">
+<pron>
+/j*el/
+</pron>
+</form>
+<form type="inflected">
+yells, yelling, yelled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To yell 
+</seg>
+pomeni glasno vpiti, navadno zato, ker smo razburjeni, jezni ali ker nas boli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I yelled at Richard to hang on.
+</quote>
+<quote>
+&lsquo;Speed up!&rsquo; he yelled to the driver.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A yell 
+</seg>
+je glasno vpitje nekoga, ki &ccaron;uti strah ali bole&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I heard a yell from inside the house.
+</quote>
+</seg>
+</sense>
+</entry>

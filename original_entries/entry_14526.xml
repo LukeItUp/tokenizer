@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+throb
+</orth>
+<form type="variant">
+<pron>
+/Tr*Qb/
+</pron>
+</form>
+<form type="inflected">
+throbs, throbbing, throbbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar del telesa 
+<seg type="lemma">
+throbs
+</seg>
+, &ccaron;lovek v njem &ccaron;uti mo&ccaron;no udarjanje ali utripanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbijati, udarjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His head was throbbing.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+throbs
+</seg>
+, niha in povzro&ccaron;a glasen ritmi&ccaron;en zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+b&iacute;ti, udarjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The drums seemed to throb in his ears.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the throb of the engine.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+night
+</orth>
+<form type="variant">
+<pron>
+/n*a*It/
+</pron>
+</form>
+<form type="inflected">
+nights.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The night 
+</seg>
+je tisti del dneva, ko je zunaj temno, zlasti &ccaron;as, ko ve&ccaron;ina ljudi spi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+no&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We walked for six days and six nights.
+</quote>
+<quote>
+He woke in the night with a dreadful pain.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Night 
+</seg>
+je tudi doba med koncem popoldneva in &ccaron;asom, ko gremo spat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;er
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was out that night.
+</quote>
+<quote>
+I went on Saturday night.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+day and night 
+</seg>
+ali 
+<FV>
+night and day
+</FV>
+, se dogaja ves &ccaron;as brez odmora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+no&ccaron; in dan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were being guarded night and day.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have an early night
+</seg>
+ pomeni iti zgodaj spat. 
+<FV>
+To have a late night
+</FV>
+ pomeni iti pozno spat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodaj/pozno iti spat
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

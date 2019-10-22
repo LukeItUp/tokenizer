@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p73_s79425" id="p73_w1" font-name="SSUnivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="64.102" base="70.51" width="20.4208" height="8.514">bony</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p73_s79426" id="p73_w2" font-name="SSExcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.59" y="65.348" base="70.51" width="21.31" height="6.844">/b6&#205;ni</TOKEN>
+<TOKEN sid="p73_s79427" id="p73_w3" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="102.26" y="64.7095" base="68.12" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p73_s79428" id="p73_w4" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="104.89" y="65.348" base="70.51" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p73_s79429" id="p73_w5" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="113.24" y="66.5939" base="70.5099" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p73_s79430" id="p73_w6" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="127.14" y="64.8139" base="70.5099" width="17.5946" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p73_s79431" id="p73_w7" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.184" y="64.8139" base="70.5099" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p73_s79432" id="p73_w8" font-name="SSExcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.62" y="64.8139" base="70.5099" width="18.8014" height="7.552">bony,</TOKEN>
+</seg>
+<TOKEN sid="p73_s79433" id="p73_w9" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="179.87" y="64.8139" base="70.5099" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p73_s79434" id="p73_w10" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="189.315" y="64.8139" base="70.5099" width="31.8362" height="7.552">pretirano</TOKEN>
+<TOKEN sid="p73_s79435" id="p73_w11" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.6" y="64.8139" base="70.5099" width="19.1952" height="7.552">vitek.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p73_s79437" id="p73_w13" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.66" y="74.034" base="79.73" width="25.1914" height="7.552">ko{~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p73_s79438" id="p73_w14" font-name="SSExcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.8998" y="74.034" base="79.73" width="9.59616" height="7.552">He</TOKEN>
+<TOKEN sid="p73_s79439" id="p73_w15" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="107.535" y="74.034" base="79.73" width="13.1947" height="7.552">was</TOKEN>
+<TOKEN sid="p73_s79440" id="p73_w16" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.769" y="74.034" base="79.73" width="13.595" height="7.552">tall,</TOKEN>
+<TOKEN sid="p73_s79441" id="p73_w17" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.403" y="74.034" base="79.73" width="15.9926" height="7.552">thin,</TOKEN>
+<TOKEN sid="p73_s79442" id="p73_w18" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="156.434" y="74.034" base="79.73" width="12.7987" height="7.552">and</TOKEN>
+<TOKEN sid="p73_s79443" id="p73_w19" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.272" y="74.034" base="79.73" width="18.0058" height="7.552">bony.</TOKEN>
+</quote>
+<quote>
+<TOKEN sid="p73_s79444" id="p73_w20" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.316" y="74.034" base="79.73" width="17.1893" height="7.552">&#8230;his</TOKEN>
+<TOKEN sid="p73_s79445" id="p73_w21" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.545" y="74.034" base="79.73" width="14.7989" height="7.552">long</TOKEN>
+<TOKEN sid="p73_s79446" id="p73_w22" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.383" y="74.034" base="79.73" width="16.4045" height="7.552">bony</TOKEN>
+<TOKEN sid="p73_s79447" id="p73_w23" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3895" y="83.254" base="88.95" width="25.1777" height="7.552">fingers.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+validate
+</orth>
+<form type="variant">
+<pron>
+/v*&ae;lIdeIt/
+</pron>
+</form>
+<form type="inflected">
+validates, validating, validated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+validates a statement or claim
+</seg>
+, dokazuje, da je izjava ali trditev pravilna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrditi, dokazati pravilnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their remarkable achievement seems to validate Bomberg&apos;s claim.
+</quote>
+</seg>
+</sense>
+</entry>

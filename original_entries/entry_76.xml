@@ -15,24 +15,23 @@ accepts, accepting, accepted.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e &#269;lovek
+&Ccaron;e &ccaron;lovek 
 <seg type="lemma">
 accepts something
 </seg>
-privoli, da
-bo vzel, kar mu je nekdo ponudil.
+, privoli, da bo vzel, kar mu je nekdo ponudil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-upo&#353;tevati
+upo&scaron;tevati
 </quote>
 </cit>
 <seg type="example">
@@ -48,7 +47,6 @@ I thanked him and accepted.
 <orth>
 acceptance
 </orth>
-</form>
 <form type="variant">
 <pron>
 /@3ks*ept@ns/
@@ -69,18 +67,18 @@ UNCOUNT N
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To accept someone's advice or suggestion
+To accept someone's advice or suggestion 
 </seg>
-pomeni strinjati se z nasvetom ali predlogom nekoga drugega.
+pomeni strinjati se z nasvetom ali predlogom nekoga drugega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -101,10 +99,9 @@ REPORT VB
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To accept a story or statement
+To accept a story or statement 
 </seg>
-pomeni
-verjeti tisti zgodbi ali trditvi.
+pomeni verjeti tisti zgodbi ali trditvi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -123,20 +120,18 @@ The majority do not accept that there has been any discrimination.
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To accept a difficult or unpleasant
-situation
+To accept a difficult or unpleasant situation
 </seg>
-pomeni sprejeti te&#382;aven ali neprijeten polo&#382;aj in razumeti, da
-ga ni mogo&#269;e spremeniti.
+ pomeni sprejeti te&zcaron;aven ali neprijeten polo&zcaron;aj in razumeti, da ga ni mogo&ccaron;e spremeniti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -153,7 +148,6 @@ sprijazniti se
 <orth>
 acceptance
 </orth>
-</form>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -169,19 +163,18 @@ UNCOUNT N
 <sense n="5">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To accept the blame or responsibility for
-something
+To accept the blame or responsibility for something 
 </seg>
-pomeni priznati krivdo ali odgovornost za tisto.
+pomeni priznati krivdo ali odgovornost za tisto. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -192,21 +185,19 @@ prevzeti
 <sense n="6">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar neka ustanova ali organizacija
+Kadar neka ustanova ali organizacija 
 <seg type="lemma">
-accepts
-someone
+accepts someone
 </seg>
-tistega &#269;loveka sprejme v slu&#382;bo ali mu dovoli, da se ji
-pridru&#382;i.
+, tistega &ccaron;loveka sprejme v slu&zcaron;bo ali mu dovoli, da se ji pridru&zcaron;i. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -223,7 +214,6 @@ I was accepted by the Open University.
 <orth>
 acceptance
 </orth>
-</form>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -239,19 +229,19 @@ UNCOUNT N
 <sense n="7">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar neka skupina
+Kadar neka skupina 
 <seg type="lemma">
 accepts someone
 </seg>
-tistega &#269;loveka vzame za svojega &#269;lana.
+, tistega &ccaron;loveka vzame za svojega &ccaron;lana. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -268,7 +258,6 @@ The children gradually begin to accept her.
 <orth>
 acceptance
 </orth>
-</form>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -284,10 +273,10 @@ UNCOUNT N
 <sense n="8">
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-accepted.
+accepted
 </ref>
 </xr>
 </sense>

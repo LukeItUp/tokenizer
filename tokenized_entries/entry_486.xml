@@ -5,9 +5,9 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p24_s26131" id="p24_w880" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="287.44" y="491.318" base="496.48" width="22.4198" height="6.844">/6næl6</TOKEN>
+<TOKEN sid="p24_s26131" id="p24_w880" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="287.44" y="491.318" base="496.48" width="22.4198" height="6.844">/6n&#230;l6</TOKEN>
 <TOKEN sid="p24_s26132" id="p24_w881" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="310.19" y="490.68" base="494.09" width="2.39636" height="4.52176">7</TOKEN>
-<TOKEN sid="p24_s26133" id="p24_w882" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="312.83" y="491.318" base="496.48" width="10.4711" height="6.844">dÇi</TOKEN>
+<TOKEN sid="p24_s26133" id="p24_w882" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="312.83" y="491.318" base="496.48" width="10.4711" height="6.844">d&#199;i</TOKEN>
 <TOKEN sid="p24_s26134" id="p24_w883" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="323.66" y="490.68" base="494.09" width="2.39636" height="4.52176">1</TOKEN>
 <TOKEN sid="p24_s26135" id="p24_w884" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="326.3" y="491.318" base="496.48" width="4.9016" height="6.844">/,</TOKEN>
 </pron>
@@ -63,7 +63,7 @@
 </seg>
 </sense>
 <sense n="2">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p24_s26168" id="p24_w917" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="265.19" y="528.874" base="532.79" width="21.7206" height="5.192">PHRASE</TOKEN>
@@ -113,6 +113,6 @@
 <TOKEN sid="p24_s26201" id="p24_w950" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.945" y="554.334" base="560.03" width="10.7986" height="7.552">up.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

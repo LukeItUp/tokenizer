@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+energy
+</orth>
+<form type="variant">
+<pron>
+/*en@dZi1/
+</pron>
+</form>
+<form type="inflected">
+energies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Energy 
+</seg>
+je sposobnost in pripravljenost, da smo dejavni, ker ne &ccaron;utimo utrujenosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+energija, podjetnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has neither the time nor the energy to play with the children.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's energies 
+</seg>
+sta trud in pozornost, ki ju namenimo dolo&ccaron;enemu cilju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadevnost, vztrajnost, trdna volja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Men like Muhammed Abdu poured their energies into religious reform.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Energy 
+</seg>
+je tudi mo&ccaron;, ki jo dobimo od naravnih virov, na primer elektrike, premoga ali vode, za pogon strojev ali ogrevanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+energija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...nuclear energy.
+</quote>
+</seg>
+</sense>
+</entry>

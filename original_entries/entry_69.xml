@@ -5,7 +5,7 @@ academic
 </orth>
 <form type="variant">
 <pron>
-/*#ae;k@d*emIk/
+/*&ae;k@d*emIk/
 </pron>
 </form>
 <form type="inflected">
@@ -19,16 +19,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Delo, ki je
+Delo, ki je 
 <seg type="lemma">
 academic
 </seg>
-opravljajo v &#353;olah,
-na kolid&#382;ih in univerzah.
+, opravljajo v &scaron;olah, na kolid&zcaron;ih in univerzah. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-akademski, &#353;olski
+akademski, &scaron;olski
 </quote>
 </cit>
 <seg type="example">
@@ -41,7 +40,6 @@ akademski, &#353;olski
 <orth>
 academically
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -61,15 +59,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 academic
 </seg>
-je dober &#353;tudent.
+, je dober &scaron;tudent. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-nagnjen k &#353;tudiju, &#353;tudiozen
+nagnjen k &scaron;tudiju, &scaron;tudiozen
 </quote>
 </cit>
 </sense>
@@ -81,10 +79,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An academic
+An academic 
 </seg>
-je sodelavec univerze ali
-kolid&#382;a, ki tam pou&#269;uje ali raziskuje.
+je sodelavec univerze ali kolid&zcaron;a, ki tam pou&ccaron;uje ali raziskuje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -99,23 +96,20 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-academic
+academic 
 </seg>
-povemo tudi to, da
-dolo&#269;ena stvar po na&#353;em mnenju nima resni&#269;nega vpliva na dogajanje in ni povezana
-z njim.
+povemo tudi to, da dolo&ccaron;ena stvar po na&scaron;em mnenju nima resni&ccaron;nega vpliva na dogajanje in ni povezana z njim. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-teoreti&#269;en
+teoreti&ccaron;en
 </quote>
 </cit>
 <seg type="example">
 <quote>
-It was all academic, because there were never any profits to share
-out.
+It was all academic, because there were never any profits to share out.
 </quote>
 </seg>
 </sense>

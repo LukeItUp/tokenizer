@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+warn
+</orth>
+<form type="variant">
+<pron>
+/w*O*:n/
+</pron>
+</form>
+<form type="inflected">
+warns, warning, warned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To warn someone 
+</seg>
+pomeni nekomu povedati za mo&zcaron;no nevarnost, da se je zave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvariti, opozoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The least I can do is warn them that there is a danger.
+</quote>
+<quote>
+I did warn you of possible failure.
+</quote>
+<quote>
+I warn you it&apos;s going to be expensive.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To warn someone not to do something 
+</seg>
+pomeni nekomu svetovati, naj ne&ccaron;esa ne naredi, da bi se izognil mo&zcaron;ni nevarnosti ali kazni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opomniti, opozoriti, posvariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I warned him not to lose his temper with her.
+</quote>
+<quote>
+I&apos;m warning you, if you do that again there&apos;ll be trouble.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+warn off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To warn someone off 
+</seg>
+pomeni nekomu re&ccaron;i, naj odide pro&ccaron; ali preneha nekaj delati zaradi mo&zcaron;ne nevarnosti ali kazni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvariti, opozoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Intruders are warned off by the sound.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

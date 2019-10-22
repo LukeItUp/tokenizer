@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+membership
+</orth>
+<form type="variant">
+<pron>
+/m*emb@SIp/
+</pron>
+</form>
+<form type="inflected">
+memberships.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Membership 
+</seg>
+je dejstvo, da je &ccaron;lovek &ccaron;lan neke organizacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lanstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Deacon was questioned about his membership of the Nationalist Party.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The membership of an organization 
+</seg>
+so ljudje, ki pripadajo neki organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lanstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Membership declined to half a million.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+knife
+</orth>
+<form type="variant">
+<pron>
+/n*a*If/
+</pron>
+</form>
+<form type="inflected">
+knives
+</form>
+<form type="variant">
+<pron>
+/n*a*Ivz/
+</pron>
+;
+</form>
+<form type="inflected">
+knifes, knifing, knifed.
+</form>
+<IN>
+<IH>
+Knives 
+</IH>
+<IC>
+je mno&zcaron;inska oblika samostalnika. 
+</IC>
+<IH>
+Knifes 
+</IH>
+<IC>
+je oblika za 3. osebo ednine sedanjega &ccaron;asa.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A knife 
+</seg>
+je predmet, sestavljen iz ostrega, ploskega kosa kovine, pritrjenega na ro&ccaron;aj; uporabljamo ga za rezanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+no&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...knives and forks.
+</quote>
+<quote>
+...men armed with knives.
+</quote>
+<quote>
+...a knife blade.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knife someone 
+</seg>
+pomeni nekoga napasti in raniti z no&zcaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+porezati; zabosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rausenberger had been knifed and robbed near his home.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+carving knife, 
+</ref>
+<ref>
+penknife
+</ref>
+</xr>
+</sense>
+</entry>

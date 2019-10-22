@@ -1,0 +1,266 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twist
+</orth>
+<form type="variant">
+<pron>
+/tw*Ist/
+</pron>
+</form>
+<form type="inflected">
+twists, twisting, twisted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twist something 
+</seg>
+pomeni obrniti en konec ne&ccaron;esa v eno smer, drugi konec pa v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Never twist or wring woollen garments.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gave one short twist to its neck.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+twists
+</seg>
+, se premakne ali ukrivi v nenavadno obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her features twisted into a stare of disgusted incredulity.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+twisted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Hundreds of people were trapped under the twisted steel girders.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twist 
+</seg>
+pomeni tudi premikati se v kro&zcaron;ni smeri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti se, zviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She twisted round on the couch to watch him.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twist one&apos;s ankle or wrist 
+</seg>
+pomeni gle&zcaron;enj ali zapestje premo&ccaron;no premakniti ali premakniti v nenavadno smer in ga tako po&scaron;kodovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar cesta ali reka 
+<seg type="lemma">
+twists
+</seg>
+, ima veliko ostrih zavojev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vijugati se, viti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The road began to twist up past the lower slopes of a pine forest.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twist what someone has said 
+</seg>
+pomeni ponoviti besede nekoga drugega tako, da spremenimo njihov pomen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkriviti, obrniti, popa&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;re twisting my words around.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A twist 
+</seg>
+je oblika ne&ccaron;esa, kar je ukrivljeno ali zvilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vijuga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a shell with a spiral twist.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A twist in a story or film 
+</seg>
+je nepri&ccaron;akovan potek dogodkov v zgodbi ali filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preobrat, nepri&ccaron;akovana sprememba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was an odd twist to the plot.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To twist someone&apos;s arm 
+</seg>
+pomeni nekoga prepri&ccaron;ati, da nekaj naredi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+priviti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To twist someone round one&apos;s little finger 
+</seg>
+pomeni imeti tak vpliv na nekoga, da ga lahko prepri&ccaron;amo, da naredi karkoli; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+oviti okoli mezinca/prsta
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rob
+</orth>
+<form type="variant">
+<pron>
+/r*Qb/
+</pron>
+</form>
+<form type="inflected">
+robs, robbing, robbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rob someone 
+</seg>
+pomeni nekomu nekaj ukrasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(o)ropati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The only way I can get the money is to rob a few banks.
+</quote>
+<quote>
+He tried to rob her of her share.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+robber
+</orth>
+<form type="variant">
+<pron>
+/r*Qb@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...bank robbers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rob someone of something 
+</seg>
+pomeni nekomu odvzeti nekaj, kar bi tisti moral imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oropati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You robbed me of my moment of glory.
+</quote>
+</seg>
+</sense>
+</entry>

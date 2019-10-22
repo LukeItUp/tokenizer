@@ -1,0 +1,119 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blend
+</orth>
+<form type="variant">
+<pron>
+/bl*end/
+</pron>
+</form>
+<form type="inflected">
+blends, blending, blended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blend substances together 
+</seg>
+pomeni me&scaron;ati razli&ccaron;ne snovi, da se spojijo v eno samo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Blend the cornflour with a little cold water.
+</quote>
+<quote>
+Next, blend the tomatoes, garlic, and cream to form a paste.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a blend of different oils.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar barve ali zvoki 
+<seg type="lemma">
+blend
+</seg>
+, se spojijo ali zdru&zcaron;ijo v prijetno kombinacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zliti se, spojiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their voices blending marvellously as they sing in harmony.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+blend into 
+<VS>
+ali 
+</VS>
+<VV>
+blend in.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+blends into the background 
+</seg>
+ali 
+<seg type="variant">
+blends in
+</seg>
+, je po zunanjosti ali zvenu tako podobno ozadju, da tisto te&zcaron;ko vidimo ali sli&scaron;imo samostojno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zliti se z ozadjem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tree snakes blend well into foliage.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

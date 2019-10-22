@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+queue
+</orth>
+<form type="variant">
+<pron>
+/kj*u*:/
+</pron>
+</form>
+<form type="inflected">
+queues, queueing 
+<IS>
+ali 
+</IS>
+<IV>
+queuing, 
+</IV>
+queued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A queue 
+</seg>
+je vrsta ljudi ali vozil, ki nekaj &ccaron;akajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta, kolona
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was in the queue for coffee.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+queue 
+</seg>
+ali 
+<seg type="lemma">
+queue up
+</seg>
+, v vrsti na nekaj &ccaron;akajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;akati v vrsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had queued for hours to get in.
+</quote>
+<quote>
+People were queueing up for his autograph.
+</quote>
+</seg>
+</sense>
+</entry>

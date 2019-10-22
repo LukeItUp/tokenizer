@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+uniform
+</orth>
+<form type="variant">
+<pron>
+/j*u*:nIfO:m/
+</pron>
+</form>
+<form type="inflected">
+uniforms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A uniform 
+</seg>
+je posebno obla&ccaron;ilo, ki ga pri svojem delu nosijo nekateri ljudje, na primer vojaki ali policisti; nosijo ga tudi u&ccaron;enci v nekaterih &scaron;olah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uniforma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man in the uniform of a captain in the Air Force.
+</quote>
+<quote>
+She wasn&apos;t in uniform.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+uniformed
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...uniformed policemen.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+uniform
+</seg>
+, se ne spreminja, ampak je ves &ccaron;as in povsod enako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a structure of uniform width.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+uniformly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The weather throughout the region was uniformly good.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

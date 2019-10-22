@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+convenience
+</orth>
+<form type="variant">
+<pron>
+/k@7nv*i*:nI@ns/
+</pron>
+</form>
+<form type="inflected">
+conveniences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj storjeno 
+<seg type="lemma">
+for our convenience
+</seg>
+, je storjeno tako, da je za nas koristno ali primerno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korist
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The entire event had been arranged for their convenience.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A convenience 
+</seg>
+je nekaj koristnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udobje, prid
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a house with every modern convenience.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+public convenience
+</ref>
+</xr>
+</sense>
+</entry>

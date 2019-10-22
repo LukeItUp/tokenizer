@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surgeon
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:dZ@n/
+</pron>
+</form>
+<form type="inflected">
+surgeons.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A surgeon 
+</seg>
+je zdravnik, ki opravlja operacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kirurg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a brain surgeon.
+</quote>
+</seg>
+</sense>
+</entry>

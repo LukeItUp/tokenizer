@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+delay
+</orth>
+<form type="variant">
+<pron>
+/di1l*e*I/
+</pron>
+</form>
+<form type="inflected">
+delays, delaying, delayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To delay doing something 
+</seg>
+pomeni, da tistega ne storimo do poznej&scaron;ega datuma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&zcaron;iti, odla&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try and persuade them to delay some of the changes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To delay someone or something 
+</seg>
+pomeni poskrbeti, da nekdo ali nekaj zamudi ali se upo&ccaron;asni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;evati, zavla&ccaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m afraid I was slightly delayed.
+</quote>
+<quote>
+The shock of the operation delayed his recovery.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e se zgodi 
+<seg type="lemma">
+a delay
+</seg>
+, se nekaj zgodi pozneje, kot je bilo na&ccaron;rtovano ali pri&ccaron;akovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamuda, odlog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We shall inform you without delay.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mortgage
+</orth>
+<form type="variant">
+<pron>
+/m*O*:gIdZ/
+</pron>
+</form>
+<form type="inflected">
+mortgages, mortgaging, mortgaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mortgage 
+</seg>
+je posojilo, ki ga dobimo v banki ali stanovanjski banki, da kupimo hi&scaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hipoteka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can&apos;t get a mortgage.
+</quote>
+<quote>
+...mortgage repayments.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mortgages one&apos;s own house or land
+</seg>
+, svojo hi&scaron;o ali posestvo uporabi kot poro&scaron;tvo banki, da si lahko pri njej izposodi denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He will have to mortgage his land for a loan.
+</quote>
+</seg>
+</sense>
+</entry>

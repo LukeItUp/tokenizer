@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weld
+</orth>
+<form type="variant">
+<pron>
+/w*eld/
+</pron>
+</form>
+<form type="inflected">
+welds, welding, welded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weld two pieces of metal together 
+</seg>
+pomeni zdru&zcaron;iti dva kosa kovine tako, da segrejemo njuna robova in ju stisnemo. Ko se ohladita, se strdita v en kos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+variti, spajkati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A weld 
+</seg>
+je spoj, kjer sta dva kosa kovine zvarjena skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvarjeno mesto, var
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p223_s242768" id="p223_w61" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="128.302" base="134.71" width="23.7408" height="8.514">dumb</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p223_s242769" id="p223_w62" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="82.28" y="129.548" base="134.71" width="22.2616" height="6.844">/d&#216;m/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p223_s242770" id="p223_w63" font-name="SSUnivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="106.37" y="129.37" base="134.71" width="26.4964" height="7.08">dumber,</TOKEN>
+<TOKEN sid="p223_s242771" id="p223_w64" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="134.571" y="129.37" base="134.71" width="29.9923" height="7.08">dumbest.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p223_s242773" id="p223_w66" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="172.88" y="130.794" base="134.71" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p223_s242774" id="p223_w67" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.15" y="129.014" base="134.71" width="17.5946" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p223_s242775" id="p223_w68" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.565" y="129.014" base="134.71" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p223_s242776" id="p223_w69" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="212.39" y="129.014" base="134.71" width="21.5914" height="7.552">dumb,</TOKEN>
+</seg>
+<TOKEN sid="p223_s242777" id="p223_w70" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.801" y="129.014" base="134.71" width="7.99848" height="7.552">ne</TOKEN>
+<TOKEN sid="p223_s242778" id="p223_w71" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3893" y="138.244" base="143.94" width="16.9286" height="7.552">more</TOKEN>
+<TOKEN sid="p223_s242779" id="p223_w72" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="80.9278" y="138.244" base="143.94" width="28.4789" height="7.552">govoriti.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p223_s242781" id="p223_w74" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.89" y="138.244" base="143.94" width="14.3194" height="7.552">nem</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p223_s242783" id="p223_w76" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="139.09" y="140.024" base="143.94" width="14.4792" height="5.192">PRED</TOKEN>
+<TOKEN sid="p223_s242784" id="p223_w77" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="154.673" y="140.024" base="143.94" width="10.3871" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p223_s242785" id="p223_w78" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="166.7" y="138.244" base="143.94" width="8.75736" height="7.552">^e</TOKEN>
+<TOKEN sid="p223_s242786" id="p223_w79" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.067" y="138.244" base="143.94" width="5.95656" height="7.552">je</TOKEN>
+<TOKEN sid="p223_s242787" id="p223_w80" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="184.634" y="138.244" base="143.94" width="14.6729" height="7.552">neki</TOKEN>
+<TOKEN sid="p223_s242788" id="p223_w81" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.917" y="138.244" base="143.94" width="21.798" height="7.552">~lovek</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p223_s242789" id="p223_w82" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.33" y="138.244" base="143.94" width="19.471" height="7.552">dumb</TOKEN>
+<TOKEN sid="p223_s242790" id="p223_w83" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="147.474" base="153.17" width="8.37144" height="7.552">on</TOKEN>
+<TOKEN sid="p223_s242791" id="p223_w84" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="72.3296" y="147.474" base="153.17" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p223_s242792" id="p223_w85" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="77.9024" y="147.474" base="153.17" width="33.9667" height="7.552">particular</TOKEN>
+<TOKEN sid="p223_s242793" id="p223_w86" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="113.439" y="147.474" base="153.17" width="30.9319" height="7.552">occasion,</TOKEN>
+</seg>
+<TOKEN sid="p223_s242794" id="p223_w87" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.942" y="147.474" base="153.17" width="7.96824" height="7.552">ne</TOKEN>
+<TOKEN sid="p223_s242795" id="p223_w88" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.48" y="147.474" base="153.17" width="16.9589" height="7.552">more</TOKEN>
+<TOKEN sid="p223_s242796" id="p223_w89" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.009" y="147.474" base="153.17" width="28.5595" height="7.552">govoriti,</TOKEN>
+<TOKEN sid="p223_s242797" id="p223_w90" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.138" y="147.474" base="153.17" width="11.1341" height="7.552">ker</TOKEN>
+<TOKEN sid="p223_s242798" id="p223_w91" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.842" y="147.474" base="153.17" width="5.96664" height="7.552">je</TOKEN>
+<TOKEN sid="p223_s242799" id="p223_w92" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.378" y="147.474" base="153.17" width="19.4436" height="7.552">jezen,</TOKEN>
+<TOKEN sid="p223_s242800" id="p223_w93" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="156.694" base="162.39" width="21.9888" height="7.552">osupel</TOKEN>
+<TOKEN sid="p223_s242801" id="p223_w94" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="86.0679" y="156.694" base="162.39" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p223_s242802" id="p223_w95" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.5526" y="156.694" base="162.39" width="39.4394" height="7.552">presene~en.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p223_s242804" id="p223_w97" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.63" y="156.694" base="162.39" width="26.3981" height="7.552">onemel;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p223_s242805" id="p223_w98" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.72" y="156.694" base="162.39" width="9.95976" height="7.552">We</TOKEN>
+<TOKEN sid="p223_s242806" id="p223_w99" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.368" y="156.694" base="162.39" width="16.2626" height="7.552">were</TOKEN>
+<TOKEN sid="p223_s242807" id="p223_w100" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.321" y="156.694" base="162.39" width="21.5892" height="7.552">struck</TOKEN>
+<TOKEN sid="p223_s242808" id="p223_w101" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.601" y="156.694" base="162.39" width="19.2002" height="7.552">dumb</TOKEN>
+<TOKEN sid="p223_s242809" id="p223_w102" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3902" y="165.924" base="171.62" width="15.5909" height="7.552">with</TOKEN>
+<TOKEN sid="p223_s242810" id="p223_w103" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="80.3794" y="165.924" base="171.62" width="22.7311" height="7.552">horror.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+<TOKEN sid="p223_s242812" id="p223_w105" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="112.58" y="167.704" base="171.62" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p223_s242813" id="p223_w106" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.43" y="165.924" base="171.62" width="21.1903" height="7.552">Dumb</TOKEN>
+</seg>
+<TOKEN sid="p223_s242814" id="p223_w107" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.02" y="165.924" base="171.62" width="25.1964" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p223_s242815" id="p223_w108" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.616" y="165.924" base="171.62" width="13.9946" height="7.552">tudi</TOKEN>
+<TOKEN sid="p223_s242816" id="p223_w109" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.011" y="165.924" base="171.62" width="28.7957" height="7.552">neumen;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p223_s242817" id="p223_w110" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.206" y="165.924" base="171.62" width="19.6027" height="7.552">pogo-</TOKEN>
+<TOKEN sid="p223_s242818" id="p223_w111" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3904" y="175.154" base="180.85" width="19.5998" height="7.552">vorna</TOKEN>
+<TOKEN sid="p223_s242819" id="p223_w112" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.989" y="175.154" base="180.85" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p223_s242821" id="p223_w114" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.82" y="175.154" base="180.85" width="22.3884" height="7.552">bedast</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

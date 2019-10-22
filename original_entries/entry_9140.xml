@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+modify
+</orth>
+<form type="variant">
+<pron>
+/m*QdIfaI/
+</pron>
+</form>
+<form type="inflected">
+modifies, modifying, modified.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+modifies something
+</seg>
+, nekaj nekoliko spremeni, pogosto zato, da tisto izbolj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremeniti, prilagoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The present Government has modified this approach.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+modification
+</orth>
+<form type="variant">
+<pron>
+/m*QdIfIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The engine was pulled apart for modifications.
+</quote>
+<quote>
+I said I thought the idea might need modification.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

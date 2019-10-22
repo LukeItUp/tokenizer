@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ditch
+</orth>
+<form type="variant">
+<pron>
+/d*ItS/
+</pron>
+</form>
+<form type="inflected">
+ditches, ditching, ditched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ditch 
+</seg>
+je dolg, ozek kanal, izkopan v zemljo ob robu ceste ali polja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jarek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a muddy ditch.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ditch something 
+</seg>
+pomeni nekaj zavre&ccaron;i; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+znebiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had decided to ditch the car.
+</quote>
+</seg>
+</sense>
+</entry>

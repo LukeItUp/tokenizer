@@ -1,0 +1,145 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+patent
+</orth>
+<form type="variant">
+<pron>
+/p*e*It@0nt/
+</pron>
+</form>
+<form type="inflected">
+patents, patenting, patented;
+</form>
+<PN>
+pri 1. in 2. pomenu besedo lahko izgovarjamo tudi 
+<pron>
+/p*&ae;t@0nt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A patent 
+</seg>
+je uradno priznana pravica, da nov izdelek lahko izdeluje in prodaja samo ena oseba ali podjetje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+patent
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The first English patent for a typewriter was issued in 1714.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+patents something
+</seg>
+, za tisto pridobi patent. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+patentirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I never attempted to patent the idea.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Patent 
+</seg>
+pomeni prepoznaven; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;iten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is patent nonsense.
+</quote>
+<quote>
+...the patent honesty of Butler.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+patently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Anne was patently annoyed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Patent 
+</seg>
+ali 
+<seg type="variant">
+patent leather 
+</seg>
+je usnje ali plastika, ki se sveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lakasto usnje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pair of black patent leather shoes.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gauge
+</orth>
+<form type="variant">
+<pron>
+/g*e*IdZ/
+</pron>
+</form>
+<form type="inflected">
+gauges, gauging, gauged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gauge something 
+</seg>
+pomeni nekaj zmeriti ali presoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmeriti, oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+With a modern machine, you can gauge the number of stitches.
+</quote>
+<quote>
+I couldn&apos;t gauge how it would affect me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gauge 
+</seg>
+je naprava, ki ka&zcaron;e koli&ccaron;ino ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+merilec, merilo
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+The fuel gauge dropped swiftly towards zero.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gauge 
+</seg>
+je tudi dejstvo, ki ga lahko uporabimo za presojanje nekega polo&zcaron;aja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mera, merilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The increase in attendance was used as a gauge of the course&apos;s success.
+</quote>
+</seg>
+</sense>
+</entry>

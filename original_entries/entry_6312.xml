@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grin
+</orth>
+<form type="variant">
+<pron>
+/gr*In/
+</pron>
+</form>
+<form type="inflected">
+grins, grinning, grinned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grin 
+</seg>
+pomeni na &scaron;iroko se smejati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He grinned at her.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The pilot was unhurt and climbed out with a cheerful grin.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grin and bear it 
+</seg>
+pomeni sprejeti te&zcaron;aven ali neprijeten polo&zcaron;aj brez tarnanja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stisniti zobe, vdati se v usodo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;d just have to grin and bear it for the next two hours.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

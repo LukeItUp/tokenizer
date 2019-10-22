@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+perform
+</orth>
+<form type="variant">
+<pron>
+/p@f*O*:m/
+</pron>
+</form>
+<form type="inflected">
+performs, performing, performed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+performs a task, action, or service
+</seg>
+, naredi nalogo, dejanje ali uslugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvesti, narediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+About 200 heart operations a year are performed at the Brook Hospital.
+</quote>
+<quote>
+Their organization performs a vital service.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+performs well or badly
+</seg>
+, je njegovo delovanje bodisi dobro ali slabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(ne)uspe&scaron;no delovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the difficulty of finding a rifle which will perform satisfactorily under those conditions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+performs a play, a piece of music, or a dance
+</seg>
+, izvede igro, glasbeno delo ali ples pred ob&ccaron;instvom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvesti, nastopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He performed for them a dance of his native Samoa.
+</quote>
+<quote>
+We had to perform on stage.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+performer
+</orth>
+<form type="variant">
+<pron>
+/p@f*O*:m@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Good comic performers are in big demand.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

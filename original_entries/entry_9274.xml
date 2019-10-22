@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mountain
+</orth>
+<form type="variant">
+<pron>
+/m*a*UntIn/
+</pron>
+</form>
+<form type="inflected">
+mountains.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mountain 
+</seg>
+je zelo visoko dvignjen del tal s strmimi pobo&ccaron;ji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gora
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pleasant hotel in the mountains.
+</quote>
+<quote>
+...the Rocky Mountains.
+</quote>
+<quote>
+...a mountain road.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mountain of something 
+</seg>
+je zelo velika koli&ccaron;ina ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gora
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a mountain of rubble.
+</quote>
+<quote>
+...mountains of letters.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+make a mountain out of a molehill: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+molehill
+</ref>
+</xr>
+</sense>
+</entry>

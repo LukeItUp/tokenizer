@@ -1,0 +1,134 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scare
+</orth>
+<form type="variant">
+<pron>
+/sk*e*@/
+</pron>
+</form>
+<form type="inflected">
+scares, scaring, scared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali stvari 
+<seg type="lemma">
+scare someone
+</seg>
+, v nekom zbudijo strah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestra&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I didn&apos;t mean to scare you.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+gives someone a scare
+</seg>
+, nekoga prestra&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strah, preplah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That night I had an even worse scare.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A scare about something
+</seg>
+ pomeni, da je v nekem trenutku veliko ljudi zaradi ne&ccaron;esa zaskrbljenih ali prestra&scaron;enih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preplah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Since none of the fragments picked up was radioactive the scare died down.
+</quote>
+<quote>
+...a rabies scare.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+scare away 
+<VS>
+ali 
+</VS>
+<VV>
+scare off.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To scare animals or people away 
+</seg>
+ali 
+<seg type="variant">
+to scare them off 
+</seg>
+pomeni, da &zcaron;ivali ali ljudi prestra&scaron;imo, tako da odidejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The least shadow or movement would scare the fish away.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

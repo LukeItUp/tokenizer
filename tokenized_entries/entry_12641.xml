@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p40_s43508" id="p40_w886" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.971" y="454.474" base="460.17" width="25.1957" height="7.552">senator</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p40_s43509" id="p40_w887" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="410.417" y="454.474" base="460.17" width="29.6014" height="7.552">attacked</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p40_s43510" id="p40_w888" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="463.544" base="469.24" width="10.7971" height="7.552">the</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p40_s43511" id="p40_w889" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="272.606" y="463.544" base="469.24" width="17.4348" height="7.552">press</TOKEN>
+<TOKEN sid="p40_s43512" id="p40_w890" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.24" y="463.544" base="469.24" width="9.59472" height="7.552">for</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p40_s43513" id="p40_w891" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.034" y="463.544" base="469.24" width="37.1822" height="7.552">misleading</TOKEN>
+<TOKEN sid="p40_s43514" id="p40_w892" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.415" y="463.544" base="469.24" width="10.7971" height="7.552">the</TOKEN>
+</seg>
+<TOKEN sid="p40_s43515" id="p40_w893" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="360.411" y="463.544" base="469.24" width="23.1898" height="7.552">public.</TOKEN>
+<TOKEN sid="p40_s43516" id="p40_w894" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.791" y="463.544" base="469.24" width="17.599" height="7.552">Tudi:</TOKEN>
+<TOKEN sid="p40_s43517" id="p40_w895" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="407.59" y="465.324" base="469.24" width="18.9694" height="5.192">COUNT</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p40_s43518" id="p40_w896" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="428.754" y="465.324" base="469.24" width="4.12335" height="5.192">N</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p40_s43519" id="p40_w897" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="435.071" y="465.324" base="469.24" width="4.94901" height="5.192">or</TOKEN>
+<TOKEN sid="p40_s43520" id="p40_w898" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="258.61" y="474.404" base="478.32" width="27.2141" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p40_s43521" id="p40_w899" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="287.688" y="474.404" base="478.32" width="4.12335" height="5.192">N</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

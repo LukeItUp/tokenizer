@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+recess,
+</orth>
+<form type="inflected">
+recesses;
+</form>
+<PN>
+pri 1. pomenu besedo izgovarjamo 
+<pron>
+/rI1s*es/
+</pron>
+, pri 2. in 3. pa 
+<pron>
+/r*i*:ses/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A recess 
+</seg>
+je premor med dvema zasedanjema odbora ali parlamenta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekinitev dela, odmor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The committee is going into recess for a couple of weeks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A recess 
+</seg>
+je manj&scaron;i prostor v sobi, ki nastane, &ccaron;e je del stene umaknjen v globino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&scaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the arched window recess.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The recesses of something 
+</seg>
+so globoki ali skriti deli ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globine
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I pushed the problem down into the dim recesses of my mind.
+</quote>
+</seg>
+</sense>
+</entry>

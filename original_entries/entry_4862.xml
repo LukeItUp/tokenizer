@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+evaluate
+</orth>
+<form type="variant">
+<pron>
+/i1v*&ae;lju4eIt/
+</pron>
+</form>
+<form type="inflected">
+evaluates, evaluating, evaluated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To evaluate something 
+</seg>
+pomeni dolo&ccaron;iti, koliko je nekaj vredno, potem ko pretehtamo vse lastnosti tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti, ovrednotiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was asked to evaluate the situation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+evaluation
+</orth>
+<form type="variant">
+<pron>
+/i1v*&ae;lju4*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a realistic evaluation of the working of Britain's economy.
+</quote>
+<quote>
+They can help develop our powers of critical evaluation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

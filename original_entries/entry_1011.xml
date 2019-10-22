@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ball
+</orth>
+<form type="variant">
+<pron>
+/b*O*:l/
+</pron>
+</form>
+<form type="inflected">
+balls.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ball 
+</seg>
+je okrogel predmet, ki ga uporabljamo pri &scaron;portnih igrah, na primer pri tenisu, kriketu in nogometu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;oga
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ball 
+</seg>
+je tudi vse, kar ima okroglo obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;oga, klob&ccaron;i&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rolled the socks into a ball.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ball of somebody's foot 
+</seg>
+je zaobljeni del &ccaron;love&scaron;kega stopala, ki se stika s prsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blazinica
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ball 
+</seg>
+je tudi velik, slavnosten dru&zcaron;abni dogodek, kjer ljudje ple&scaron;ejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ples
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+on the ball
+</seg>
+, je zelo buden in se zaveda dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;uje&ccaron;; spreten, uren
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To start the ball rolling 
+</seg>
+ali 
+<FV>
+to set the ball rolling 
+</FV>
+pomeni povzro&ccaron;iti, da se nekaj za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pognati v tek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The banks set the ball rolling when they reduced their lending rates.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

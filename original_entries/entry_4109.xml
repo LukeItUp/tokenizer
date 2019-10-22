@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distrust
+</orth>
+<form type="variant">
+<pron>
+/dIstr*Vst/
+</pron>
+</form>
+<form type="inflected">
+distrusts, distrusting, distrusted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To distrust someone or something 
+</seg>
+pomeni misliti, da nekaj ali nekdo ni po&scaron;ten, zanesljiv ali varen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti, ne zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He keeps his savings under his mattress because he distrusts the banks.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their distrust of politicians.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

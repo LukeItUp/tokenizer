@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+croak
+</orth>
+<form type="variant">
+<pron>
+/kr*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+croaks, croaking, croaked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptice ali druge &zcaron;ivali 
+<seg type="lemma">
+croak
+</seg>
+, se ogla&scaron;ajo z robatimi, nizkimi glasovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krakati; regljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A bullfrog was croaking in the distance.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the croak of a raven.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+croaks something
+</seg>
+, nekaj pove s hripavim, grobim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+godrnjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Brandy,&rsquo; he croaked.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His voice was a weak croak.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

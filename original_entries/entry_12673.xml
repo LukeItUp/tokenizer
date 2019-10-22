@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sergeant
+</orth>
+<form type="variant">
+<pron>
+/s*A*:dZ@nt/
+</pron>
+</form>
+<form type="inflected">
+sergeants.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sergeant 
+</seg>
+je srednja pod&ccaron;astni&scaron;ka stopnja v kopenski vojski ali letalstvu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narednik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A police sergeant 
+</seg>
+je druga najni&zcaron;ja stopnja med pripadniki policije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narednik, vodnik
+</quote>
+</cit>
+</sense>
+</entry>

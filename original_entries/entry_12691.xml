@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+serving
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:vIN/
+</pron>
+</form>
+<form type="inflected">
+servings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A serving 
+</seg>
+je koli&ccaron;ina hrane, ki jo pri posameznem obroku dobi ena oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrok, porcija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His mother was spooning out servings of tuna fish casserole.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Zcaron;lico ali posodo, ki je 
+<seg type="lemma">
+serving
+</seg>
+, uporabljamo za serviranje hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+serviren
+</quote>
+</cit>
+</sense>
+</entry>

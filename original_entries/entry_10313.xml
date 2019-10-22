@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pawn
+</orth>
+<form type="variant">
+<pron>
+/p*O*:n/
+</pron>
+</form>
+<form type="inflected">
+pawns, pawning, pawned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pawns something
+</seg>
+, pusti nekaj svojega v zastavljalnici, kjer mu za tisto dajo denar; &ccaron;e tega denarja v dolo&ccaron;enem &ccaron;asu ne vrne, tisto stvar lahko prodajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Brian didn&apos;t have a watch&mdash;he had pawned it some years ago.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri &scaron;ahu je 
+<seg type="lemma">
+a pawn 
+</seg>
+najmanj&scaron;a in najmanj vredna figura. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kmet
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za koga re&ccaron;emo, da je 
+<seg type="lemma">
+a pawn
+</seg>
+, &zcaron;elimo povedati, da ga nekdo drug izkori&scaron;&ccaron;a, da bi dosegel svoje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lutka, marioneta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are simply pawns in the hands of larger powers.
+</quote>
+</seg>
+</sense>
+</entry>

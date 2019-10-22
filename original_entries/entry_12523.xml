@@ -1,0 +1,194 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seal
+</orth>
+<form type="variant">
+<pron>
+/s*i*:l/
+</pron>
+</form>
+<form type="inflected">
+seals, sealing, sealed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na dokumentu je 
+<seg type="lemma">
+a seal 
+</seg>
+uradno znamenje, ki dokazuje, da je dokument pristen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&ccaron;at
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A seal 
+</seg>
+je tudi nekaj, kar je pritrjeno na embala&zcaron;o ali pismo in kar moramo zlomiti, preden lahko embala&zcaron;o ali pismo odpremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&ccaron;at
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I noticed that the seals of the packet had been broken.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seal an envelope 
+</seg>
+pomeni zlepiti skupaj zavihek in spodnjo stran ovojnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Slesers sealed the envelopes and left them on her desk.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sealed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He took a sealed envelope from the folder on his desk.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seal an opening 
+</seg>
+pomeni zapolniti ali prekriti odprtino, tako da zrak, plin ali teko&ccaron;ina ne more uhajati skoznjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zama&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Small cracks can be sealed with this compound.
+</quote>
+<quote>
+...a thin tube sealed at one end.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give something one&apos;s seal of approval 
+</seg>
+pomeni uradno izjaviti, da nekaj odobravamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrditi
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A seal 
+</seg>
+je tudi velika lesketajo&ccaron;a se &zcaron;ival brez nog, ki j&eacute; ribe in &zcaron;ivi delno na kopnem in delno v morju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tjulenj
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+seal off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To seal a place off 
+</seg>
+pomeni zapreti vse vhode v prostor ali do nekega kraja, tako da nih&ccaron;e ne more noter ali ven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blokirati dostop, zapreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

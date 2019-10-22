@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nearly
+</orth>
+<form type="variant">
+<pron>
+/n*I*@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+nearly 
+</seg>
+pomeni ne popolnoma ali ne &ccaron;isto natan&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skoraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was nearly dark.
+</quote>
+<quote>
+I can nearly swim a mile.
+</quote>
+<quote>
+She was nearly as tall as he was.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+not nearly 
+</seg>
+poudarimo, da nekaj ni tako. Na primer, &ccaron;e je nekaj 
+<seg type="lemma">
+not nearly big enough
+</seg>
+, je veliko premajhno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;e zdale&ccaron; ne, niti pribli&zcaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t spent nearly long enough here.
+</quote>
+<quote>
+They don&apos;t have nearly so many foods to choose from as we do.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+telex
+</orth>
+<form type="variant">
+<pron>
+/t*eleks/
+</pron>
+</form>
+<form type="inflected">
+telexes, telexing, telexed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Telex 
+</seg>
+je mednarodni sistem za po&scaron;iljanje pisnih sporo&ccaron;il. Sporo&ccaron;ilo, ki ga natipkamo na stroj na enem kraju, se takoj izpi&scaron;e na drugem stroju na drugem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teleks
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A telex 
+</seg>
+je naprava, ki po&scaron;ilja in sprejema sporo&ccaron;ila na daljavo, pa tudi sporo&ccaron;ilo, ki ga po&scaron;ljemo s tako napravo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teleks
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He burst in with an urgent telex.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To telex a message 
+</seg>
+pomeni poslati sporo&ccaron;ilo po teleksu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati po teleksu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The file on this man had been telexed to Paris.
+</quote>
+</seg>
+</sense>
+</entry>

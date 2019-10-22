@@ -1,0 +1,193 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weight
+</orth>
+<form type="variant">
+<pron>
+/w*e*It/
+</pron>
+</form>
+<form type="inflected">
+weights, weighting, weighted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The weight of something 
+</seg>
+pomeni, kako te&zcaron;ko je nekaj. To lahko merimo z enotami, na primer kilogrami ali funti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The weight of the load is too great.
+</quote>
+<quote>
+It was 25 metres long and 30 tons in weight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A weight 
+</seg>
+je kovinski predmet, za katerega vemo, koliko tehta. Take predmete uporabljamo za tehtanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ute&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Te&zcaron;ak predmet lahko imenujemo 
+<seg type="lemma">
+a weight
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+breme
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m not allowed to carry heavy weights any more.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weight something 
+</seg>
+ali 
+<seg type="lemma">
+to weight something down 
+</seg>
+pomeni na nekaj ali v nekaj dati nekaj te&zcaron;kega, pogosto zato, da se ne more zlahka premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obte&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a plastic sheet weighted down with straw bales.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The weight of something 
+</seg>
+je velika koli&ccaron;ina ali mo&ccaron; ne&ccaron;esa, zaradi &ccaron;esar tistemu te&zcaron;ko ugovarjamo ali nasprotujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;a, pomen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had the weight of official support behind them.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel a weight of some kind on oneself 
+</seg>
+pomeni imeti odgovornost ali te&zcaron;avo, ki povzro&ccaron;a skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisk, odgovornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Without a producer, the weight of responsibility fell upon me.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To pull one&apos;s weight 
+</seg>
+pomeni delati tako trdo kot druge osebe, vpletene v isto nalogo ali dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti svoj del dela
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+dead weight
+</ref>
+</xr>
+</B>
+</entry>

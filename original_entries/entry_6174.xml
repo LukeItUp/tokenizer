@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gore
+</orth>
+<form type="variant">
+<pron>
+/g*O*:/
+</pron>
+</form>
+<form type="inflected">
+gores, goring, gored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka &zcaron;ival 
+<seg type="lemma">
+gores someone
+</seg>
+, nekoga hudo rani z rogovi ali okli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebosti, nabosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...if a bull gores someone to death.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Gore 
+</seg>
+je kri neprijetnega videza okoli rane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a horror film full of gore.
+</quote>
+</seg>
+</sense>
+</entry>

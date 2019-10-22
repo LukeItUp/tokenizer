@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rainy
+</orth>
+<form type="variant">
+<pron>
+/r*e*Ini1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je vreme 
+<seg type="lemma">
+rainy
+</seg>
+, mo&ccaron;no de&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+de&zcaron;even
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most tropical areas have rainy and dry seasons.
+</quote>
+<quote>
+...a rainy Sunday afternoon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo nekaj hrani 
+<seg type="lemma">
+for a rainy day
+</seg>
+, tisto hrani do takrat, ko bo tisto morda potreboval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za hude &ccaron;ase
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They put part of the money in the bank for a rainy day.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+toll
+</orth>
+<form type="variant">
+<pron>
+/t*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+tolls, tolling, tolled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The death toll in an accident 
+</seg>
+je &scaron;tevilo ljudi, ki so umrli v neki nesre&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilo smrtnih &zcaron;rtev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By Wednesday the death toll had risen to more than 40.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+takes a toll 
+</seg>
+ali 
+<seg type="variant">
+takes its toll
+</seg>
+, povzro&ccaron;a trpljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati davek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The walking was beginning to take its toll on all of us.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A toll 
+</seg>
+je znesek, ki ga moramo pla&ccaron;ati, da smemo uporabiti cesto ali most. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cestnina, mostnina
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+tolls a bell 
+</seg>
+ali kadar zvon 
+<seg type="lemma">
+tolls
+</seg>
+, nekdo po&ccaron;asi in dalj &ccaron;asa zvoni, pogosto v znamenje, da je nekdo umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvoniti (mrli&ccaron;u)
+</quote>
+</cit>
+</sense>
+</entry>

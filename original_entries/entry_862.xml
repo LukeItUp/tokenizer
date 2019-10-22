@@ -15,23 +15,22 @@ auctions, auctioning, auctioned.
 <sense n="1">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-or
+or 
 </seg>
 UNCOUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An auction
+An auction 
 </seg>
-je javna prodaja predmetov
-osebam, ki ponudijo najvi&#353;jo ceno.
+je javna prodaja predmetov osebam, ki ponudijo najvi&scaron;jo ceno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-dra&#382;ba, javna razprodaja
+dra&zcaron;ba, javna razprodaja
 </quote>
 </cit>
 <seg type="example">
@@ -43,9 +42,9 @@ The big house was sold by auction.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
@@ -54,12 +53,11 @@ OBJ
 <seg type="lemma">
 To auction something
 </seg>
-pomeni nekaj prodati
-na dra&#382;bi.
+ pomeni nekaj prodati na dra&zcaron;bi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-licitirati, ponuditi v prodajo na dra&#382;bi
+licitirati, ponuditi v prodajo na dra&zcaron;bi
 </quote>
 </cit>
 <seg type="example">
@@ -68,7 +66,6 @@ They are going to auction the pictures at the end of the month.
 </quote>
 </seg>
 </sense>
-<sense>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -85,7 +82,7 @@ PHR VB
 <seg type="lemma">
 To auction off a number of things
 </seg>
-pomeni, da se vrste predmetov znebimo s prodajo na dra&#382;bi.
+ pomeni, da se vrste predmetov znebimo s prodajo na dra&zcaron;bi. 
 </def>
 <cit type="translationEquivalent">
 <quote>

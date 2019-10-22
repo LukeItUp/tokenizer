@@ -1,0 +1,214 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plate
+</orth>
+<form type="variant">
+<pron>
+/pl*e*It/
+</pron>
+</form>
+<form type="inflected">
+plates, plating, plated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plate 
+</seg>
+je plo&scaron;&ccaron;ata okrogla ali ovalna posoda, na katero nalo&zcaron;imo hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kro&zcaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He looked at the food on his plate.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plate 
+</seg>
+je kro&zcaron;nik in njegova vsebina ali samo vsebina na njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kro&zcaron;nik, obrok, jed
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pushed her plate of boiled fish away.
+</quote>
+<quote>
+He greedily ate up a plate of food that he did not want.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plate 
+</seg>
+je tudi plo&scaron;&ccaron;at kos kovine, zlasti v strojih in na stavbah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plo&scaron;&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We got into the cellar through a round hole covered by a metal plate.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Plate 
+</seg>
+je komplet posod, skled in skodelic iz srebra ali zlata. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlato ali srebrno posodje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We would prefer church plate and other treasures to be stored in bank vaults.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kovina 
+<seg type="lemma">
+is plated
+</seg>
+, je prekrita s tankim slojem zlata ali srebra. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pozla&ccaron;en; biti posrebren
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...gold-plated brooches.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plate in a book 
+</seg>
+je slika ali fotografija v knjigi; zavzema vso stran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+celostranska slika
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dental plate 
+</seg>
+je oblikovan kos plastike, na katerega so pritrjeni umetni zobje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zobna proteza
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a lot on one&apos;s plate 
+</seg>
+pomeni imeli veliko dela ali veliko zadev, ki jih moramo re&scaron;iti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+veliko si nalo&zcaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+number plate
+</ref>
+</xr>
+</sense>
+</entry>

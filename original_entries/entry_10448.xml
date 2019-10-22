@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+persistent
+</orth>
+<form type="variant">
+<pron>
+/p@s*Ist@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+persistent
+</seg>
+, &scaron;e naprej obstaja ali se dogaja dalj &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trdovraten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How do you get rid of a persistent nasty smell?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+persistently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...persistently rattling window frames.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+persistence
+</orth>
+<form type="variant">
+<pron>
+/p@s*Ist@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Because of the persistence of the depression, I saw my doctor.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+persistent
+</seg>
+, &scaron;e naprej posku&scaron;a nekaj delati, &ccaron;eprav je te&zcaron;avno ali &ccaron;eprav mu drugi nasprotujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think you have to be persistent if people say no to you.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+persistently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...policemen who tried persistently to force their way into his house.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+persistence
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In the end our persistence was rewarded.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

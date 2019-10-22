@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plop
+</orth>
+<form type="variant">
+<pron>
+/pl*Qp/
+</pron>
+</form>
+<form type="inflected">
+plops, plopping, plopped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plop 
+</seg>
+je blag zamolkel zvok, kot &ccaron;e nekaj lahkega pade v vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pljusk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My hat landed with a plop in the bucket.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+plops into a liquid
+</seg>
+, pade v vodo z blagim zamolklim zvokom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pljusniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Great big tears plopped into her soup.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smirk
+</orth>
+<form type="variant">
+<pron>
+/sm*$e*:k/
+</pron>
+</form>
+<form type="inflected">
+smirks, smirking, smirked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smirk 
+</seg>
+pomeni neprijetno se nasmehniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privo&scaron;&ccaron;ljivo se nasmehniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;That&apos;s where you&apos;re wrong,&rsquo; Ellen said, smirking.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Mark detected a smirk on the clerk&apos;s face.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

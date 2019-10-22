@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+theatre
+</orth>
+<form type="variant">
+<pron>
+/T*I*@t@/
+</pron>
+</form>
+<form type="inflected">
+theatres;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+theater
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A theatre 
+</seg>
+je stavba z odrom, na katerem uprizarjajo igre in druge predstave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her mother never went to the theatre.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The theatre 
+</seg>
+pomeni tudi delo v gledali&scaron;&ccaron;u, kot je igranje ali pisanje iger. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was only really happy when she was working in the theatre.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V bolni&scaron;nici 
+<seg type="lemma">
+a theatre 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+an operating theatre
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+operacijska dvorana
+</quote>
+</cit>
+</sense>
+</entry>

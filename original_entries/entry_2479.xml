@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clot
+</orth>
+<form type="variant">
+<pron>
+/kl*Qt/
+</pron>
+</form>
+<form type="inflected">
+clots, clotting, clotted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A clot 
+</seg>
+je lepljiva grudica, ki nastane, kadar se teko&ccaron;ina, zlasti kri, posu&scaron;i in strdi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strdek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a blood clot.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kri
+<seg type="lemma">
+clots
+</seg>
+, postane gosta in se oblikuje v grudice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strditi se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+clotted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...clotted blood.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

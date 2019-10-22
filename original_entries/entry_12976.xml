@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sing
+</orth>
+<form type="variant">
+<pron>
+/s*IN/
+</pron>
+</form>
+<form type="inflected">
+sings, singing, sang
+</form>
+<form type="variant">
+<pron>
+/s*&ae;N/
+</pron>
+</form>
+<form type="inflected">
+sung
+</form>
+<form type="variant">
+<pron>
+/s*VN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sing 
+</seg>
+pomeni z glasom oblikovati melodijo, najve&ccaron;krat z besedilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I started to sing.
+</quote>
+<quote>
+The song is sung by Romy Blakeley.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptice ali &zcaron;u&zcaron;elke 
+<seg type="lemma">
+sing
+</seg>
+, se ogla&scaron;ajo s prijetnimi zvoki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could hear birds singing in the trees.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sing someone&apos;s praises 
+</seg>
+pomeni nekoga navdu&scaron;eno hvaliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peti hvalo, na vso mo&ccaron; hvaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I understand that he&apos;s now singing the praises of Mcleod.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

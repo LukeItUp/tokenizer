@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+threat
+</orth>
+<form type="variant">
+<pron>
+/Tr*et/
+</pron>
+</form>
+<form type="inflected">
+threats.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+makes a threat
+</seg>
+, re&ccaron;e, da bo nekomu naredil nekaj slabega, zlasti kadar se tista oseba ne vede tako, kot bi &zcaron;elel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gro&zcaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We mustn&apos;t give in to threats.
+</quote>
+<quote>
+Under threat of death, he confessed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A threat 
+</seg>
+je vse, kar razumemo kot nevarno zase. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gro&zcaron;nja, nevarnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was becoming a real threat to his plans.
+</quote>
+<quote>
+...the threat of flooding.
+</quote>
+</seg>
+</sense>
+</entry>

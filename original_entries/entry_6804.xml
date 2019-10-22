@@ -1,0 +1,142 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hire
+</orth>
+<form type="variant">
+<pron>
+/h*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+hires, hiring, hired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hire something 
+</seg>
+pomeni pla&ccaron;ati denar za to, da lahko nekaj dolo&ccaron;en &ccaron;as uporabljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najeti, vzeti v najem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We hired a car and drove across the island.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Hire of a van costs about &pound;30 a day.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+for hire
+</seg>
+, lahko tisto najamemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v najem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...boats for hire.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hire someone 
+</seg>
+pomeni nekomu pla&ccaron;ati, da za nas opravi neko delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;ve got to hire a private detective to make enquiries.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hire out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hire out something 
+</seg>
+pomeni dovoliti, da nekdo nekaj uporablja v zameno za pla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati v najem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Holborn library hires out pictures.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

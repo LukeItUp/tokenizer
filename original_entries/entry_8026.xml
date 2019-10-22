@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+knight
+</orth>
+<form type="variant">
+<pron>
+/n*a*It/
+</pron>
+</form>
+<form type="inflected">
+knights, knighting, knighted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V srednjem veku je bil 
+<seg type="lemma">
+a knight 
+</seg>
+mo&scaron;ki plemenitega rodu, ki je slu&zcaron;il svojemu gospodarju v boju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vitez
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...knights in armour.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V dana&scaron;njem &ccaron;asu je 
+<seg type="lemma">
+a knight 
+</seg>
+mo&scaron;ki, ki so mu podelili vite&scaron;ki naziv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vitez
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri &scaron;ahu je 
+<seg type="lemma">
+a knight 
+</seg>
+figura, oblikovana kot konjska glava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konj, skaka&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be knighted 
+</seg>
+pomeni, da mo&scaron;kemu podelijo vite&scaron;ki naziv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poviteziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was knighted by Queen Anne in 1705.
+</quote>
+</seg>
+</sense>
+</entry>

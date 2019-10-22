@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+simplify
+</orth>
+<form type="variant">
+<pron>
+/s*ImplIfaI/
+</pron>
+</form>
+<form type="inflected">
+simplifies, simplifying, simplified.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To simplify something 
+</seg>
+pomeni nekaj spremeniti tako, da je la&zcaron;e razumljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poenostavitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The subject is immensely complex, and hard to simplify.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+simplified
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a simplified version of the model.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

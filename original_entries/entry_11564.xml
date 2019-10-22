@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ready
+</orth>
+<form type="variant">
+<pron>
+/r*edi1/
+</pron>
+</form>
+<form type="inflected">
+readies, readying, readied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+ready
+</seg>
+, je pripravljen ali nared za kaj oziroma ima prave lastnosti za kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;re nowhere near ready for such a job.
+</quote>
+<quote>
+Lunch is ready.
+</quote>
+<quote>
+Their crops would soon be ready for harvesting.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be ready to do something 
+</seg>
+pomeni, da je &ccaron;lovek voljan nekaj narediti ali da bo vsak hip nekaj naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...couples who are ready to move house in order to get work.
+</quote>
+<quote>
+I was ready to cry.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+ready for something
+</seg>
+, tisto potrebuje ali &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreben, &zcaron;eljan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were all ready for sleep.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+ready 
+</seg>
+opisujemo stvari, ki so hitro in zlahka dostopne ali na voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dostopen, takoj dosegljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ready cash.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ready something 
+</seg>
+pomeni pripraviti nekaj za poseben namen; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+usposobiti, pripraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The satellite would be readied with all possible haste.
+</quote>
+</seg>
+</sense>
+</entry>

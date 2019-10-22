@@ -1,0 +1,308 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sweep
+</orth>
+<form type="variant">
+<pron>
+/sw*i*:p/
+</pron>
+</form>
+<form type="inflected">
+sweeps, sweeping, swept
+</form>
+<form type="variant">
+<pron>
+/sw*ept/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep an area of ground 
+</seg>
+pomeni z metlo odstraniti prah ali umazanijo s talne povr&scaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I must sweep the kitchen floor.
+</quote>
+<quote>
+He swept away the broken glass.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep things off a surface 
+</seg>
+pomeni odriniti stvari z neke povr&scaron;ine s hitrim zamahom roke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomesti, pahniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went into the study and swept some books and papers off the couch.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep 
+</seg>
+pomeni tudi hitro se premikati v gladki ravni &ccaron;rti ali krivulji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+leteti, drveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stared out at the traffic sweeping along the road.
+</quote>
+<quote>
+The dog was flung aside by the panther&apos;s sweeping paw.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+With a great sweep of the arm he flung the whole handful high in the air.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar mo&ccaron;na sila 
+<seg type="lemma">
+sweeps someone along
+</seg>
+, &ccaron;loveka nekam odnese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odnesti, pomesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was swept out to sea by the currents.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ideje, prepri&ccaron;anja ali trditve 
+<seg type="lemma">
+sweep a place
+</seg>
+, se nekje naglo &scaron;irijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preplaviti, zajeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the camping craze that is currently sweeping America.
+</quote>
+<quote>
+Change sweeps through the highly industrialized countries.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep something away 
+</seg>
+pomeni nekaj hitro in popolnoma odstraniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrisati, odpraviti, pomesti z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The matter was soon swept from his mind.
+</quote>
+<quote>
+...sweeping away restrictions on publication.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar pogled nekega &ccaron;loveka ali svetloba 
+<seg type="lemma">
+sweeps an area
+</seg>
+, se premika prek nekega obmo&ccaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preleteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We began rushing around in the dark, sweeping the ground with our flashlights.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep something under the carpet 
+</seg>
+pomeni posku&scaron;ati prepre&ccaron;iti, da bi se nekaj razvedelo, navadno zato, ker je sramotno za nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomesti pod preprogo
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+chimney sweep.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sweep up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweep up dirt or rubbish 
+</seg>
+pomeni potisniti prah ali smeti z metlo na kup in jih nato odstraniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomesti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

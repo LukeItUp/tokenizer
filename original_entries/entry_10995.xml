@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prescribe
+</orth>
+<form type="variant">
+<pron>
+/pri1skr*a*Ib/
+</pron>
+</form>
+<form type="inflected">
+prescribes, prescribing, prescribed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zdravnik 
+<seg type="lemma">
+prescribes treatment
+</seg>
+, dolo&ccaron;i, kak&scaron;no zdravilo ali zdravni&scaron;ko pomo&ccaron; potrebuje bolnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her doctor prescribed a sedative.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prescribe an action or duty 
+</seg>
+pomeni uradno dolo&ccaron;iti ukrep, ki ga je treba izvesti, ali dol&zcaron;nost, ki jo je treba izpolniti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+predpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The factory laws prescribed a heavy fine for contravention of this rule.
+</quote>
+</seg>
+</sense>
+</entry>

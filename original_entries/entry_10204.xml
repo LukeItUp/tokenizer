@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+paraphrase
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;r@freIz/
+</pron>
+</form>
+<form type="inflected">
+paraphrases, paraphrasing, paraphrased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A paraphrase of something written or spoken 
+</seg>
+je druga&ccaron;e povedano isto besedilo ali govor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+parafraza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This article was a close paraphrase of Dixon&apos;s own original article.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+paraphrases someone
+</seg>
+, na druga&ccaron;en na&ccaron;in pove, kar je rekla ali zapisala tista oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+parafrazirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must, to paraphrase Socrates, bring out the knowledge that people have inside them.
+</quote>
+</seg>
+</sense>
+</entry>

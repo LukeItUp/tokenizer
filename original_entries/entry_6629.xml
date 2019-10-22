@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+health
+</orth>
+<form type="variant">
+<pron>
+/h*elT/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s health 
+</seg>
+je zdravstveno stanje nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cigarette smoking is dangerous to your health.
+</quote>
+<quote>
+My mother was in poor health.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Health 
+</seg>
+je stanje, ko smo gib&ccaron;ni in se dobro po&ccaron;utimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were glowing with health.
+</quote>
+<quote>
+...a soldier who was nursed back to health.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drink to someone&apos;s health 
+</seg>
+ali 
+<FV>
+to drink someone&apos;s health 
+</FV>
+pomeni piti v znamenje, da nekomu &zcaron;elimo zdravje in sre&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zdravje nekoga
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The health of an organization or system 
+</seg>
+je uspeh, ki ga ima neka organizacija ali sistem in dejstvo, da dobro deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uspe&scaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the health of the British film industry.
+</quote>
+</seg>
+</sense>
+</entry>

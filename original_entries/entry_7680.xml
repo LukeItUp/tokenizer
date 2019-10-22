@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intersect
+</orth>
+<form type="variant">
+<pron>
+/*Int@s*ekt/
+</pron>
+</form>
+<form type="inflected">
+intersects, intersecting, intersected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ceste 
+<seg type="lemma">
+intersect
+</seg>
+, se kri&zcaron;ajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sekati se, kri&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The highway intersected Main Street in a busy crossing.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neko obmo&ccaron;je 
+<seg type="lemma">
+is intersected by roads or railways
+</seg>
+, je prepredeno s cestami ali &zcaron;elezni&scaron;kimi progami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sekati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The marshes were intersected by a maze of ditches.
+</quote>
+</seg>
+</sense>
+</entry>

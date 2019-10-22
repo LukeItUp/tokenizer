@@ -1,0 +1,193 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dive
+</orth>
+<form type="variant">
+<pron>
+/d*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+dives, diving, dived.
+</form>
+<IN>
+V ameri&scaron;ki angle&scaron;&ccaron;ini 
+<IH>
+dove 
+</IH>
+<pron>
+/d*@*Uv/
+</pron>
+ 
+<IC>
+v&ccaron;asih uporabljamo kot preteklik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dive 
+</seg>
+pomeni sko&ccaron;iti na glavo v vodo, tako da imamo roke stegnjene nad glavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti v vodo (na glavo)
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Ralph did a dive into the pool.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dive 
+</seg>
+pomeni tudi iti pod gladino morja ali jezera s posebno opremo za dihanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potopiti se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+diver
+</orth>
+<form type="variant">
+<pron>
+/d*a*Iv@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+diving
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...deep-sea diving.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptice ali &zcaron;ivali 
+<seg type="lemma">
+dive
+</seg>
+, se naglo spustijo skozi zrak ali vodo z glavo naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strmoglaviti, pikirati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dive in a particular direction 
+</seg>
+pomeni sko&ccaron;iti ali planiti v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti, planiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He dived after the ball.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He made a dive for the bag.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dive into a bag or cupboard 
+</seg>
+pomeni z rokami se&ccaron;i v torbo ali omaro, da bi nekaj potegnili iz nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He suddenly dived into the chest and produced a shirt.
+</quote>
+</seg>
+</sense>
+</entry>

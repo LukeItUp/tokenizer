@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nor
+</orth>
+<form type="variant">
+<pron>
+/n*O:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+nor 
+</seg>
+se uporablja v povezavi z besedo 
+<seg type="lemma">
+neither
+</seg>
+ in uvaja drugo stvar, na katero se nana&scaron;a nikalna trditev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Neither Margaret nor John was there.
+</quote>
+<quote>
+My father could neither read nor write.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Nor 
+</seg>
+uporabljamo tudi za nikalno trditvijo, da dodamo &scaron;e nekaj, za kar prav tako velja ta nikalna trditev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niti, prav tako ne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Melanie was not to be found&mdash;not that day, nor the next day, nor the day after that.
+</quote>
+<quote>
+I could not afford to eat in restaurants and nor could anyone I knew.
+</quote>
+</seg>
+</sense>
+</entry>

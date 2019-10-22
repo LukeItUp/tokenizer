@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slump
+</orth>
+<form type="variant">
+<pron>
+/sl*Vmp/
+</pron>
+</form>
+<form type="inflected">
+slumps, slumping, slumped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer vrednost ne&ccaron;esa, 
+<seg type="lemma">
+slumps
+</seg>
+, se nenadoma zelo zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Profits last year slumped from $40 million to $26 million.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the continuing slump in oil demand.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slump 
+</seg>
+je tudi &ccaron;as, ko nekje vladata velika nezaposlenost in rev&scaron;&ccaron;ina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gospodarska kriza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The slump set in during the summer of 1921.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slump somewhere 
+</seg>
+pomeni nekam pasti ali sesti z veliko silo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zru&scaron;iti se, sesesti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sarah slumped against the wall.
+</quote>
+</seg>
+</sense>
+</entry>

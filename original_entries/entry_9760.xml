@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+occupation
+</orth>
+<form type="variant">
+<pron>
+/*Qkj@4p*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+occupations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s occupation 
+</seg>
+je slu&zcaron;ba ali poklic, ki ga &ccaron;lovek opravlja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklic, delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a poorly paid occupation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An occupation 
+</seg>
+je tudi nekaj, kar &ccaron;lovek dela iz veselja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaposlitev v prostem &ccaron;asu, dejavnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Riding was her favourite occupation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The occupation of a country 
+</seg>
+je stanje v dr&zcaron;avi, ki jo je napadla tuja vojska in v kateri je prevzela oblast. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasedba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the French occupation of North Africa.
+</quote>
+<quote>
+Holland came under German occupation.
+</quote>
+</seg>
+</sense>
+</entry>

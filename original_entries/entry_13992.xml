@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sundry
+</orth>
+<form type="variant">
+<pron>
+/s*Vndri1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvari ali ljudje, ki so 
+<seg type="lemma">
+sundry
+</seg>
+, so razli&ccaron;nih vrst; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+najrazli&ccaron;nej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...stools, wicker mats, food bowls, and sundry other objects.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+All and sundry 
+</seg>
+pomeni vsi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vsi naokoli, vsi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was fondly known to all and sundry as &lsquo;Little Madge&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

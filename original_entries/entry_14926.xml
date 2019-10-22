@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+turbulent
+</orth>
+<form type="variant">
+<pron>
+/t*$e*:bj@4l@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V obdobju, ki je 
+<seg type="lemma">
+turbulent
+</seg>
+, se zgodi veliko sprememb ali pride do nereda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+buren, nemiren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a period of fierce and turbulent struggle.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+turbulence
+</orth>
+<form type="variant">
+<pron>
+/t*$e*:bj@4l@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...periods of social turbulence.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V vodi ali zraku, ki je 
+<seg type="lemma">
+turbulent
+</seg>
+, so tokovi, ki nenadoma spreminjajo smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemiren, razburkan, vrtin&ccaron;ast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...in the midst of turbulent seas and clashing rocks.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+turbulence
+</orth>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The turbulence caused the plane to turn over.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

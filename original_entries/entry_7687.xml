@@ -1,0 +1,145 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interview
+</orth>
+<form type="variant">
+<pron>
+/*Int@vju:/
+</pron>
+</form>
+<form type="inflected">
+interviews, interviewing, interviewed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An interview 
+</seg>
+je uraden sestanek, na katerem nekomu postavljajo vpra&scaron;anja, da bi ugotovili, ali je primeren za dolo&ccaron;eno delo ali &scaron;tudij. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovor, intervju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had an interview for a job on a newspaper.
+</quote>
+<quote>
+He was invited for interview at three universities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An interview 
+</seg>
+je tudi pogovor, v katerem novinar slavni osebi postavlja vpra&scaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+intervju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a television interview.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar delodajalec 
+<seg type="lemma">
+interviews someone
+</seg>
+, nekomu postavlja vpra&scaron;anja, da bi ugotovil, ali je kandidat primeren za dolo&ccaron;eno slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+intervjuvati, izpra&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was once interviewed for a part in a film.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar slavna oseba 
+<seg type="lemma">
+is interviewed
+</seg>
+, ji novinar postavi vrsto vpra&scaron;anj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+intervjuvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hopkins was interviewed by Wyndham for Queen magazine.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+interviewer
+</orth>
+<form type="variant">
+<pron>
+/*Int@vju:@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Television interviewers were being too aggressive.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+degenerate,
+</orth>
+<form type="inflected">
+degenerates, degenerating, degenerated;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/di1dZ*en@reIt/
+</pron>
+, pridevnik ali samostalnik pa 
+<pron>
+/di1dZ*en@r@1t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To degenerate 
+</seg>
+pomeni poslab&scaron;ati se. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpriditi se, propasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The discussion degenerated into a row.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+degeneration
+</orth>
+<form type="variant">
+<pron>
+/dIdZ*en@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This disease causes physical and mental degeneration.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+degenerate
+</seg>
+, ka&zcaron;e zelo nizko eti&ccaron;no raven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izprijen, pokvarjen
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a degenerate
+</seg>
+, ka&zcaron;e zelo nizko eti&ccaron;no raven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izprijenec, pokvarjenec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The world is full of degenerates.
+</quote>
+</seg>
+</sense>
+</entry>

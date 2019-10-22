@@ -1,0 +1,270 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+warm
+</orth>
+<form type="variant">
+<pron>
+/w*O*:m/
+</pron>
+</form>
+<form type="inflected">
+warmer, warmest; warms, warming, warmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+warm
+</seg>
+, ima v sebi nekaj toplote, a ne dovolj, da bi bilo vro&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+topel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bowl of warm water.
+</quote>
+<quote>
+...a warm summer evening.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To warm a part of one&apos;s body 
+</seg>
+pomeni primakniti del telesa k ognju ali grelcu, da tisti del telesa ne bi bil ve&ccaron; hladen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogreti, segreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I warmed my hand on the radiator.
+</quote>
+<quote>
+Come and warm yourself in front of the fire.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obla&ccaron;ila in odeje, ki so 
+<seg type="lemma">
+warm
+</seg>
+, so iz blaga, kot je volna; varujejo nas pred mrazom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+topel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pair of nice warm socks.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+warmly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;ll see that Chris dresses warmly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+warm
+</seg>
+, je prijazen in ljube&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+topel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a warm, generous heart.
+</quote>
+<quote>
+He was given a warm welcome.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+warmly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He shook Tony warmly by the hand.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To warm to a person 
+</seg>
+pomeni nekoga vzljubiti. 
+<seg type="lemma">
+To warm to an idea 
+</seg>
+pomeni za&ccaron;eti se zanimati za neko zamisel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogreti se za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This makes you warm to Meadows.
+</quote>
+<quote>
+He warmed to the prospect of a new job.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+warm up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+warms something up 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+warms up
+</seg>
+, nekaj postaja bolj vro&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogreti (se), segreti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Start warming up the soup now.
+</quote>
+<quote>
+When the weather warmed up mosquitoes began swarming.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To warm up for an event 
+</seg>
+pomeni pripraviti se na neko prireditev, na primer dirko, tako da delamo vaje ali treniramo, tik preden se za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogreti se
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+warm-up
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar neki stroj ali motor 
+<seg type="lemma">
+warms up
+</seg>
+, postane pripravljen za uporabo kmalu potem, ko ga vklopimo ali v&zcaron;gemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogreti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

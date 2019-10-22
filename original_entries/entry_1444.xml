@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blush
+</orth>
+<form type="variant">
+<pron>
+/bl*VS/
+</pron>
+</form>
+<form type="inflected">
+blushes, blushing, blushed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+blushes
+</seg>
+, njegov obraz postane rde&ccaron;, ker ga je sram ali je v zadregi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zardeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Philip blushed and laughed uneasily.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;I made it myself,&rsquo; Mr Solomon informed them with a modest blush.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

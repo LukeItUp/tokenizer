@@ -1,0 +1,200 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tidy
+</orth>
+<form type="variant">
+<pron>
+/t*a*Idi1/
+</pron>
+</form>
+<form type="inflected">
+tidier, tidiest; tidies, tidying, tidied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+tidy
+</seg>
+, je po&ccaron;i&scaron;&ccaron;eno in lepo razporejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospravljen, urejen, &ccaron;ist
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is difficult to keep a house tidy.
+</quote>
+<quote>
+...a tidy desk.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tidiness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his parents&apos; concern with tidiness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+tidy
+</seg>
+, ima vedno vse pospravljeno in urejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redoljuben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wish you were a little bit tidier!
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tidy a place 
+</seg>
+pomeni vse stvari v prostoru dati na njihovo mesto, tako da je prostor urejen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t tidy a bedroom until you&apos;ve made the beds.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Znesek, ki je 
+<seg type="lemma">
+tidy
+</seg>
+, je precej visok; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+lep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He managed to make quite a tidy income every year.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tidy away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tidy something away 
+</seg>
+pomeni dati nekaj v omaro ali predal, da ni v napoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Someone had tidied my papers away.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tidy up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tidy up 
+</seg>
+ali 
+<seg type="lemma">
+to tidy a place up 
+</seg>
+pomeni dati stvari nazaj na njihova mesta, tako da je vse urejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I made the beds and tidied up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

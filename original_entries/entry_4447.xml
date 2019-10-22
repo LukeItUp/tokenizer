@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ebb
+</orth>
+<form type="variant">
+<pron>
+/*eb/
+</pron>
+</form>
+<form type="inflected">
+ebbs, ebbing, ebbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;ustvo ali mo&ccaron; nekega &ccaron;loveka 
+<seg type="lemma">
+ebbs
+</seg>
+, slabi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+upadati, uga&scaron;ati, pe&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Only then did the strength ebb from his fingers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+at a low ebb
+</seg>
+, ni preve&ccaron; uspe&scaron;no ali donosno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v &zcaron;alostnem polo&zcaron;aju, obubo&zcaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George's fortunes at this time were at a low ebb.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar plima ali morje 
+<seg type="lemma">
+ebbs
+</seg>
+, gladina vode upada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umikati se, ni&zcaron;ati se
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the stormy ebb and flow of the sea.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

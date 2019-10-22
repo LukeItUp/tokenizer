@@ -1,0 +1,326 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+walk
+</orth>
+<form type="variant">
+<pron>
+/w*O*:k/
+</pron>
+</form>
+<form type="inflected">
+walks, walking, walked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To walk 
+</seg>
+pomeni premikati se naprej tako, da postavljamo stopala po tleh drugo pred drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most children learn to walk when they are about one.
+</quote>
+<quote>
+We walked along in silence.
+</quote>
+<quote>
+He could walk the streets and fear nothing.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A walk 
+</seg>
+je hoja, ne pa tek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hoja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slowed down to a walk.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A walk 
+</seg>
+je tudi potovanje ali izlet, na katerega gremo pe&scaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprehod, pe&scaron;a&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went out for a long walk.
+</quote>
+<quote>
+The station is a three minute walk from the park.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s walk 
+</seg>
+je na&ccaron;in, kako hodimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hoja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He came in with his distinctive walk.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To walk someone somewhere 
+</seg>
+pomeni z nekom nekam iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He walked her home.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+walking
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+walk away with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To walk away with something 
+</seg>
+pomeni nekaj si pribojevati, na primer nagrado; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odnesti, pobrati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+walk off with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To walk off with something 
+</seg>
+pomeni brez dovoljenja vzeti nekaj, kar ni na&scaron;e; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odnesti, speljati, suniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Who&apos;s walked off with my pen?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To walk off with something 
+</seg>
+pomeni zelo zlahka nekaj pridobiti, na primer nagrado; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odnesti, pobrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;ll walk off with a first class degree.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+walk out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To walk out of a meeting, performance, or unpleasant situation 
+</seg>
+pomeni nenadoma oditi s sestanka ali predstave ali pustiti neprijetne okoli&scaron;&ccaron;ine, navadno zato, da bi pokazali svojo jezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+demonstrativno zapustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of the audience walked out after the first half hour.
+</quote>
+<quote>
+He walked out of his job.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar delavci 
+<seg type="lemma">
+walk out
+</seg>
+, za&ccaron;nejo stavkati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavkati
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+walkout
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+walk out on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To walk out on someone 
+</seg>
+pomeni nekoga nenadoma zapustiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His girlfriend walked out on him.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spill
+</orth>
+<form type="variant">
+<pron>
+/sp*Il/
+</pron>
+</form>
+<form type="inflected">
+spills, spilling, spilled 
+<IS>
+ali 
+</IS>
+<IV>
+spilt
+</IV>
+</form>
+<form type="variant">
+<pron>
+/sp*Ilt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spill a liquid 
+</seg>
+pomeni po nesre&ccaron;i povzro&ccaron;iti, da teko&ccaron;ina ste&ccaron;e iz posode, v kateri je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+politi (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She carried the bucket without spilling a drop.
+</quote>
+<quote>
+Make sure the water doesn&apos;t spill over the floor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali stvari 
+<seg type="lemma">
+spill out of a place
+</seg>
+, prihajajo od nekod v velikem &scaron;tevilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsuti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crowds started spilling out of bars.
+</quote>
+</seg>
+</sense>
+</entry>

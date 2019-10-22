@@ -1,0 +1,219 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bend
+</orth>
+<form type="variant">
+<pron>
+/b*end/
+</pron>
+</form>
+<form type="inflected">
+bends, bending, bent
+</form>
+<form type="variant">
+<pron>
+/b*ent/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bend 
+</seg>
+ali 
+<seg type="lemma">
+to bend down 
+</seg>
+pomeni upogniti zgornji del telesa proti tlom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skloniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bending over the basin.
+</quote>
+<quote>
+He bent down and undid his shoelaces.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bent
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Dan is bent over the fireplace.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bend a part of one's body
+</seg>
+, na primer roko ali nogo, pomeni spremeniti njen polo&zcaron;aj, tako da ni ve&ccaron; iztegnjena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upogniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bend the arm at the elbow.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bent
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Keep your knees bent.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bend something
+</seg>
+ pomeni uporabiti silo, da nekaj ploskega ali ravnega postane upognjeno ali oglato. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upogniti, kriviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...pliers for bending wire.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bent
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...two bent pipes.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bend 
+</seg>
+je zaviti del na cesti, reki ali cevi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivina, ovinek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was out of sight around the next bend.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+bent
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be driving someone round the bend
+</seg>
+ pomeni, da nekdo ali nekaj mo&ccaron;no nadleguje ali razburja dolo&ccaron;enega &ccaron;loveka; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+spravljati ob pamet
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To bend the rules 
+</seg>
+pomeni razlagati si pravila tako, da si lahko dovolimo nekaj, kar v resnici prepovedujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilagoditi, prikrojiti
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+to bend double: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+double
+</ref>
+</xr>
+</B>
+</entry>

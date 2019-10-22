@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hamstring
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;mstrIN/
+</pron>
+</form>
+<form type="inflected">
+hamstrings, hamstringing, hamstrung.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hamstring 
+</seg>
+je kita pod kolenom, ki povezuje stegenske mi&scaron;ice s kostmi pod kolenom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kita v podkolenskem zgibu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a hamstring injury.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hamstring someone 
+</seg>
+pomeni nekomu mo&ccaron;no ote&zcaron;iti kakr&scaron;nokoli ukrepanje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ovirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The economic growth of the West is hamstrung by the lack of purchasing power.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+railway line,
+</orth>
+<form type="inflected">
+railway lines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A railway line 
+</seg>
+je pot, po kateri vlaki vozijo po &zcaron;elezni&scaron;kih tirih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+proga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the railway line from London to Brighton.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A railway line 
+</seg>
+so tudi &zcaron;elezni&scaron;ki tiri, po katerih vozijo vlaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;elezni&scaron;ka proga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+... a body found in the undergrowth near a railway line.
+</quote>
+</seg>
+</sense>
+</entry>

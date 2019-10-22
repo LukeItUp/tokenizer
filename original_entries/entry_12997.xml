@@ -1,0 +1,397 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sit
+</orth>
+<form type="variant">
+<pron>
+/s*It/
+</pron>
+</form>
+<form type="inflected">
+sits, sitting, sat
+</form>
+<form type="variant">
+<pron>
+/s*&ae;t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit 
+</seg>
+pomeni biti v takem polo&zcaron;aju, da te&zcaron;o telesa podpira zadnjica, ne pa stopala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was sitting on the edge of the bed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit 
+</seg>
+pomeni spustiti telo na sede&zcaron; ali podlago, na kateri bomo sedeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He came into the room and sat in his usual chair.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit an examination 
+</seg>
+pomeni delati izpit; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+opravljati izpit
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit on a committee 
+</seg>
+pomeni biti &ccaron;lan nekega odbora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v odboru
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Representatives of the workers should sit on the board of directors.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar parlament, sodi&scaron;&ccaron;e ali drug uradni organ 
+<seg type="lemma">
+sits
+</seg>
+, opravlja svoje delo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zasedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Visitors are only allowed in on days when the Houses are not sitting.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stavba ali drug objekt 
+<seg type="lemma">
+sits in a particular place
+</seg>
+, je na dolo&ccaron;enem kraju; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The little parish church sits cosily in the middle of the village.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+sitting, 
+</ref>
+<ref>
+baby-sit.
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To sit tight 
+</seg>
+pomeni ostati, kjer smo, in ne ukrepati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne se premakniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All they have to do is sit tight until the Republic recognises their claims.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+sit on the fence: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+fence.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sit back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit back 
+</seg>
+pomeni sprostiti se in ne pose&ccaron;i v dogajanje; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;ivati, ne se vme&scaron;avati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He believes he has the right to sit back while others do the hard work.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sit down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit down 
+</seg>
+ali 
+<seg type="variant">
+to sit oneself down 
+</seg>
+pomeni spustiti telo na sede&zcaron; ali drugo povr&scaron;ino, na kateri bomo sedeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat down on the edge of the bed.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sit in on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit in on a meeting 
+</seg>
+pomeni spremljati potek sestanka, vendar ne sodelovati v razpravah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti navzo&ccaron;, udele&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was allowed to sit in on the deliberations of the board.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sit out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit something out 
+</seg>
+pomeni &ccaron;akati, da se nekaj kon&ccaron;a, in v tem &ccaron;asu ne ukrepati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebiti, po&ccaron;akati do konca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They would retire to their caves to sit out the winter.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sit up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To sit up 
+</seg>
+pomeni dvigniti telo v sede&ccaron; polo&zcaron;aj, &ccaron;e smo prej le&zcaron;ali ali bili naslonjeni nazaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zravnati se, sesti pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sat up in bed when she saw him coming.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To sit up all night 
+</seg>
+pomeni ne iti spat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bedeti, ostati pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sometimes I sit up reading until three or four in the morning.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

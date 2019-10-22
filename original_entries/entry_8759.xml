@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+massacre
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;s@k@/
+</pron>
+</form>
+<form type="inflected">
+massacres, massacring, massacred.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A massacre 
+</seg>
+je nasilen in krut poboj velikega &scaron;tevila ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the massacre of a village.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The police had massacred crowds of people.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

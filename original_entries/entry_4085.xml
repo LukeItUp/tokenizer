@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dissociate
+</orth>
+<form type="variant">
+<pron>
+/dIs*@*USIeIt, -sI-/
+</pron>
+</form>
+<form type="inflected">
+dissociates, dissociating, dissociated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dissociate yourself from someone or something 
+</seg>
+pomeni ne biti povezan z nekom ali ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti se, razdru&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did all he could to dissociate himself from the Government.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dissociate one thing from another 
+</seg>
+pomeni lo&ccaron;eno obravnavati dve stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti, razmejiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is often difficult to dissociate cause from effect.
+</quote>
+</seg>
+</sense>
+</entry>

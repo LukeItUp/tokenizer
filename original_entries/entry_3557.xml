@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deed
+</orth>
+<form type="variant">
+<pron>
+/d*i*:d/
+</pron>
+</form>
+<form type="inflected">
+deeds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deed 
+</seg>
+je nekaj, kar je storjeno, zlasti &ccaron;e je zelo dobro ali zelo slabo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dejanje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deed 
+</seg>
+je tudi uradna listina, ki vsebuje sporazum ali pogodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokument, listina
+</quote>
+</cit>
+</sense>
+</entry>

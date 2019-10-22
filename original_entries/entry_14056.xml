@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surplus
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:pl@s/
+</pron>
+</form>
+<form type="inflected">
+surpluses.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A surplus of something 
+</seg>
+pomeni, da je ne&ccaron;esa ve&ccaron;, kot je treba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prese&zcaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the recent worldwide surplus of crude oil.
+</quote>
+<quote>
+In this continent there is a vast surplus of workers.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...surplus grain.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

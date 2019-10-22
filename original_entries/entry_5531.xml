@@ -1,0 +1,167 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+focus
+</orth>
+<form type="variant">
+<pron>
+/f*@*Uk@s/
+</pron>
+</form>
+<form type="inflected">
+focuses, focusing, focused.
+</form>
+<SN>
+Uporabljamo tudi zapis 
+<SV>
+focusses, focussing 
+</SV>
+in 
+<SV>
+focussed
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To focus a camera 
+</seg>
+pomeni naravnati fotografski aparat tako, da posname jasne slike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izostriti
+</quote>
+</cit>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je fotografija ali teleskop 
+<seg type="lemma">
+in focus
+</seg>
+, je fotografija ali tisto, kar gledamo, jasno in ostro. Kadar pa je fotografija ali teleskop
+<FV>
+ out of focus
+</FV>
+, je fotografija ali tisto, kar gledamo, nejasno ali zamegleno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izostren, jasen; nejasen, zameglen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The only part of the picture which was in clear focus was a small child.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To focus one's eyes 
+</seg>
+pomeni naravnati o&ccaron;i tako, da jasno vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osredoto&ccaron;iti, izostriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His eyes would not focus.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To focus a ray of light 
+</seg>
+pomeni usmeriti &zcaron;arek svetlobe proti dolo&ccaron;eni to&ccaron;ki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usmeriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I focused the beam of the spotlight on them.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To focus one's attention on something 
+</seg>
+pomeni osredoto&ccaron;iti se na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osredoto&ccaron;iti, usmeriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Attention focused on the election.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The focus of interest or attention
+</seg>
+ je nekaj, &ccaron;emur namenjamo posebno pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi&scaron;&ccaron;e (zanimanja, pozornosti)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Changes in the urban environment are the focus of public interest and discussion.
+</quote>
+</seg>
+</sense>
+</entry>

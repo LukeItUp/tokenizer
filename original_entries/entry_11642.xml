@@ -1,0 +1,243 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+record,
+</orth>
+<form type="inflected">
+records, recording, recorded;
+</form>
+<PN>
+samostalnik ali pridevnik izgovarjamo 
+<pron>
+/r*ekO:d/
+</pron>
+, glagol pa 
+<pron>
+/rI1k*O*:d/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To keep a record of something 
+</seg>
+pomeni redno zapisovati, kako nekaj poteka, ali shranjevati podatke o poteku v ra&ccaron;unalnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popis, kartoteka, evidenca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Keep a record of any repair bills.
+</quote>
+<quote>
+...medical records.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To record something 
+</seg>
+pomeni zapisovati ali fotografirati potek ne&ccaron;esa oziroma vna&scaron;ati podatke o tistem v ra&ccaron;unalnik, da jih bomo lahko pozneje uporabili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapisovati, bele&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the details could be recorded on a computer.
+</quote>
+<quote>
+Their every action was recorded by concealed cameras.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A record 
+</seg>
+je okrogel tanek kos plastike, na katerem je posnet zvok, zlasti glasba; poslu&scaron;amo jo lahko na gramofonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(gramofonska) plo&scaron;&ccaron;a
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar glasba ali govor 
+<seg type="lemma">
+is recorded
+</seg>
+, je bil prenesen na kaseto ali plo&scaron;&ccaron;o, da bi ga lahko pozneje spet poslu&scaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posneti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A record 
+</seg>
+je tudi najkraj&scaron;i &ccaron;as ali najve&ccaron;ja razdalja, dose&zcaron;ena v nekem &scaron;portu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rekord
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He held the record for the mile.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+record 
+</seg>
+povemo, da je nekaj vi&scaron;e, ni&zcaron;e ali bolje kot kdajkoli prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rekorden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Unemployment was at a record high.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s record 
+</seg>
+so vsa znana dejstva o dose&zcaron;kih ali zna&ccaron;aju dolo&ccaron;ene osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+reference, seznam dose&zcaron;kov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Gerran has a very distinguished record.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+recording, 
+</ref>
+<ref>
+track record
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj povemo 
+<seg type="lemma">
+off the record
+</seg>
+, podatki niso uradni in mi&scaron;ljeni za objavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neuradno
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To set the record straight 
+</seg>
+ali 
+<FV>
+to put the record straight 
+</FV>
+pomeni pokazati, da nekaj, kar je veljalo za resni&ccaron;no, pravzaprav ni resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkrinkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Harold Begbie wrote a book to put the record straight.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

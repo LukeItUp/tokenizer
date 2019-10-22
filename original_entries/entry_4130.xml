@@ -1,0 +1,235 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+divide
+</orth>
+<form type="variant">
+<pron>
+/di1v*a*Id/
+</pron>
+</form>
+<form type="inflected">
+divides, dividing, divided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To divide something 
+</seg>
+pomeni nekaj razdeliti na dva ali ve&ccaron; delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an attempt to divide the country into two social classes.
+</quote>
+<quote>
+The children are divided into three age groups.
+</quote>
+<quote>
+The cells begin to divide rapidly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+divided
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The houses in Florence St are all divided into flats.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To divide something among a number of people 
+</seg>
+pomeni vsaki od ve&ccaron; oseb dati del ne&ccaron;esa.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The land was divided between the two brothers.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+divides two areas 
+</seg>
+ali 
+<seg type="variant">
+divides an area into two
+</seg>
+, ustvari prepreko ali mejo med dvema obmo&ccaron;jema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A line of rocks seemed to divide the cave into two.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ljudje 
+<seg type="lemma">
+divide over something
+</seg>
+, se glede ne&ccaron;esa ne strinjajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razhajati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This question is dividing the people of Wales.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+divided
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The conference was divided on many issues.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To divide a larger number by a smaller number 
+</seg>
+pomeni izra&ccaron;unati, kolikokrat gre manj&scaron;e &scaron;tevilo v ve&ccaron;je &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deliti
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A divide 
+</seg>
+je velika razlika med dvema skupinama. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrzel, prepad, razlika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The divide between rich and poor was great.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+divide up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To divide something up 
+</seg>
+pomeni v skupini ljudi nekaj razdeliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti (med)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The proceeds had to be divided up among about four hundred people.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

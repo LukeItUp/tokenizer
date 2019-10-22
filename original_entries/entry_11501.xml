@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rape
+</orth>
+<form type="variant">
+<pron>
+/r*e*Ip/
+</pron>
+</form>
+<form type="inflected">
+rapes, raping, raped.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;enska 
+<seg type="lemma">
+is raped
+</seg>
+, jo mo&scaron;ki prisili v spolni odnos proti njeni volji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an organization to help women who have been raped.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She had to testify to his attempts at rape.
+</quote>
+<quote>
+...the riots, rapes, and muggings in our streets and parks.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

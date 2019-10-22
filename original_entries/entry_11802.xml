@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+remarkable
+</orth>
+<form type="variant">
+<pron>
+/rI1m*A*:k@b@0l/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali stvar, ki je 
+<seg type="lemma">
+remarkable
+</seg>
+, je nenavadna in na ljudi naredi mo&ccaron;an vtis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjemen, neverjeten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He prepared the dinner with remarkable speed and efficiency.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+remarkably
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He has recovered from the accident remarkably well.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

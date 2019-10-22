@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+debt
+</orth>
+<form type="variant">
+<pron>
+/d*et/
+</pron>
+</form>
+<form type="inflected">
+debts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A debt 
+</seg>
+je znesek, ki ga nekomu dolgujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must spend less until your debts are paid off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Debt 
+</seg>
+je dolgovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolg, zadol&zcaron;enost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He began getting deeper and deeper into debt.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in someone&apos;s debt 
+</seg>
+pomeni, da smo nekomu za nekaj hvale&zcaron;ni in &ccaron;utimo, da bi morali v zameno nekaj storiti zanj; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti dol&zcaron;nik
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

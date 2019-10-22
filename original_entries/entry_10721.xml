@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plume
+</orth>
+<form type="variant">
+<pron>
+/pl*u*:m/
+</pron>
+</form>
+<form type="inflected">
+plumes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plume 
+</seg>
+je veliko pti&ccaron;je pero, pogosto &zcaron;ivih barv; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pero
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an ostrich plume.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plume of smoke 
+</seg>
+je navpi&ccaron;en dim, ki se dviga v zrak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+steber
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The last plume of blue smoke curled away.
+</quote>
+</seg>
+</sense>
+</entry>

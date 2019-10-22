@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nonsense
+</orth>
+<form type="variant">
+<pron>
+/n*Qns@ns/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+nonsense 
+</seg>
+ozna&ccaron;ujemo besede, ki ne pomenijo ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesmisel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can confuse the computer program by typing in nonsense.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj povedanega ali napisanega 
+<seg type="lemma">
+nonsense
+</seg>
+, pomeni, da je po na&scaron;em mnenju tisto neresni&ccaron;no ali neumno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesmisel, neumnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A lot of nonsense is talked about the temperature of wine.
+</quote>
+<quote>
+Stop this nonsense, Louisa, for God&apos;s sake.
+</quote>
+<quote>
+&lsquo;I am her father.&rsquo;&mdash;&lsquo;Nonsense,&rsquo; he said. &lsquo;You are not.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make nonsense of something 
+</seg>
+pomeni tisto prikazati kot sme&scaron;no ali neustrezno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti smisel, izni&ccaron;iti; biti v protislovju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rest of his policies made nonsense of his call for moderation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

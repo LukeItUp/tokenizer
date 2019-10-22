@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weekly
+</orth>
+<form type="variant">
+<pron>
+/w*i*:kli1/
+</pron>
+</form>
+<form type="inflected">
+weeklies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+weekly 
+</seg>
+uporabljamo za opis ne&ccaron;esa, kar se zgodi ali pojavi enkrat na teden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tedenski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a weekly newspaper.
+</quote>
+<quote>
+...a weekly payment of seven shillings.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Several groups meet weekly.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A weekly 
+</seg>
+je &ccaron;asopis ali revija, ki izide enkrat na teden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tednik
+</quote>
+</cit>
+</sense>
+</entry>

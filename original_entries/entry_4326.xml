@@ -1,0 +1,356 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drop
+</orth>
+<form type="variant">
+<pron>
+/dr*Qp/
+</pron>
+</form>
+<form type="inflected">
+drops, dropping, dropped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+drops something 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+drops
+</seg>
+, nekdo nekaj spusti ali nekaj pade naravnost navzdol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spustiti; pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Planes dropped huge quantities of incendiary bombs.
+</quote>
+<quote>
+He dropped his cigar.
+</quote>
+<quote>
+Ash dropped from his cigarette.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e raven ali koli&ccaron;ina 
+<seg type="lemma">
+drops
+</seg>
+, se naglo zni&zcaron;a ali zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati se, pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The temperature of their bodies dropped ten degrees.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a drop in income.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovekov glas 
+<seg type="lemma">
+drops 
+</seg>
+ali kadar nekdo 
+<seg type="variant">
+drops one's voice
+</seg>
+, tisti &ccaron;lovek za&ccaron;ne govoriti ti&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uti&scaron;ati (glas)
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e voznik kakega vozila 
+<seg type="lemma">
+drops someone somewhere 
+</seg>
+ali 
+<seg type="variant">
+drops someone off
+</seg>
+, to pomeni, da ustavi vozilo in nekdo izstopi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&zcaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop what one is doing or dealing with 
+</seg>
+pomeni, da nekdo preneha delati ali se ukvarjati s tistim, kar po&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pustiti, opustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The charges against him were dropped.
+</quote>
+<quote>
+I was certain he would drop everything to help.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop a hint 
+</seg>
+pomeni nekomu dati be&zcaron;en namig. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namigniti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop someone a line 
+</seg>
+pomeni nekomu napisati kratko pismo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+napisati par besed
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drop of a liquid 
+</seg>
+je zelo majhna koli&ccaron;ina teko&ccaron;ine, oblikovana v kroglico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaplja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A drop of blood slid down his leg.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+drop 
+</seg>
+uporabljamo pri opisovanju navpi&ccaron;nih razdalj. Na primer: 
+<seg type="variant">
+a thirty-foot drop
+</seg>
+je razdalja 30 &ccaron;evljev med zgornjim robom pe&ccaron;ine ali stene in njenim vzno&zcaron;jem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+padec, spust
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+drop by 
+<VS>
+ali 
+</VS>
+<VV>
+drop in.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop by 
+</seg>
+ali 
+<seg type="variant">
+to drop in 
+</seg>
+pomeni nekoga neuradno obiskati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oglasiti se, obiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If there's anything you want to see, just drop by.
+</quote>
+<quote>
+I thought I'd just drop in and see how you were.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+drop off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop off to sleep 
+</seg>
+pomeni zaspati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+drop out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To drop out of college or university 
+</seg>
+pomeni zapustiti kolid&zcaron; ali univerzo, ne da bi kon&ccaron;ali &scaron;tudij. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pustiti &scaron;tudij
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

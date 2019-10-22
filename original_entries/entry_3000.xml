@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cook
+</orth>
+<form type="variant">
+<pron>
+/k*Uk/
+</pron>
+</form>
+<form type="inflected">
+cooks, cooking, cooked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cook food 
+</seg>
+pomeni pripraviti hrano in jo potem segreti, na primer v pe&ccaron;ici ali ponvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kuhati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could smell vegetables cooking in the kitchen.
+</quote>
+<quote>
+Mildred cooks remarkably well.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cook 
+</seg>
+je oseba, ki pripravlja in kuha hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kuhar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are you a good cook?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cooking
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cook up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cook up a dishonest scheme 
+</seg>
+pomeni na&ccaron;rtovati nepo&scaron;teno ukano; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zakuhati, izmisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They cook up all sorts of little deals.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

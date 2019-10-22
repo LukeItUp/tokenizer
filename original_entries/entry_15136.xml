@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+undisturbed
+</orth>
+<form type="variant">
+<pron>
+/*VndIst*$e*:bd/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kraj, ki je 
+<seg type="lemma">
+undisturbed
+</seg>
+, je miren in nanj &scaron;e niso vplivale spremembe, ki so se zgodile drugje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+miren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The village is still very undisturbed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+undisturbed in something that one is doing
+</seg>
+, nekaj dela dalje in ga ne moti ni&ccaron;, kar se dogaja okoli njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children pursued their studies undisturbed by the many visitors.
+</quote>
+</seg>
+</sense>
+</entry>

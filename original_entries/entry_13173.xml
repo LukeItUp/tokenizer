@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+snarl
+</orth>
+<form type="variant">
+<pron>
+/sn*A*:l/
+</pron>
+</form>
+<form type="inflected">
+snarls, snarling, snarled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+snarls
+</seg>
+, se ogla&scaron;a z divjimi, ostrimi zvoki in ka&zcaron;e zobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ren&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...dogs snarling and snapping at the heels of sheep.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The leopard gave a snarl of fury.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eighth
+</orth>
+<form type="variant">
+<pron>
+/*e*ItT/
+</pron>
+</form>
+<form type="inflected">
+eighths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The eighth item 
+</seg>
+je v nekem zaporedju tisti element, ki je na osmem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osmi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his room on the eighth floor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An eighth 
+</seg>
+je eden od osmih enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osmina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was about an eighth of an inch thick.
+</quote>
+</seg>
+</sense>
+</entry>

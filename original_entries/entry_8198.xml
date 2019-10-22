@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+leer
+</orth>
+<form type="variant">
+<pron>
+/l*I*@/
+</pron>
+</form>
+<form type="inflected">
+leers, leering, leered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+leers at someone
+</seg>
+, se nekomu nasmiha, ponavadi zato, ker ga tista oseba spolno privla&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&zcaron;irati z o&ccaron;mi, o&ccaron;i metati na koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He leaned over and leered at them.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was staring down with a leer on his face.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

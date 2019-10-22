@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contradict
+</orth>
+<form type="variant">
+<pron>
+/k*Qntr@d*Ikt/
+</pron>
+</form>
+<form type="inflected">
+contradicts, contradicting, contradicted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contradict someone 
+</seg>
+pomeni re&ccaron;i, da je tisto, kar je nekdo pravkar povedal, neresni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugovarjati, nasprotovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I took care not to contradict her.
+</quote>
+<quote>
+&lsquo;No,&rsquo; contradicted her sister, &lsquo;it's because he doesn't care.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ena trditev 
+<seg type="lemma">
+contradicts another
+</seg>
+, ne moreta biti obe trditvi resni&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasprotovati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Perfectly reputable books may contradict each other.
+</quote>
+</seg>
+</sense>
+</entry>

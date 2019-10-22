@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vogue
+</orth>
+<form type="variant">
+<pron>
+/v*@*Ug/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+in the vogue
+</seg>
+, je zelo priljubljeno in modno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Flowery carpets became the vogue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+in vogue
+</seg>
+, je zelo priljubljeno in moderno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At that time aftershave was not in vogue in France.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

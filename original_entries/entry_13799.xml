@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+strew
+</orth>
+<form type="variant">
+<pron>
+/str*u*:/
+</pron>
+</form>
+<form type="inflected">
+strews, strewing, strewed, strewn
+</form>
+<form type="variant">
+<pron>
+/str*u*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be strewn somewhere
+</seg>
+ pomeni, da so stvari neurejeno razmetane po neki povr&scaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztresen, razmetan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His clothes were strewn all over the room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stvari 
+<seg type="lemma">
+strew a place
+</seg>
+, nekje le&zcaron;ijo v neredu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti raztresen, biti razmetan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Books and cushions strewed the floor.
+</quote>
+<quote>
+The carpet is strewn with broken glass.
+</quote>
+</seg>
+</sense>
+</entry>

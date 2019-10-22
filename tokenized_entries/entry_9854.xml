@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p468_s512528" id="p468_w95" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.146" y="184.114" base="189.81" width="17.8358" height="7.552">onset</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p468_s512529" id="p468_w96" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.542" y="184.114" base="189.81" width="6.35976" height="7.552">of</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p468_s512530" id="p468_w97" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.461" y="184.114" base="189.81" width="47.1067" height="7.552">menstruation.</TOKEN>
+<TOKEN sid="p468_s512531" id="p468_w98" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="192.632" base="199.04" width="42.5431" height="8.514">menswear</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p468_s512532" id="p468_w99" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.61" y="193.878" base="199.04" width="38.3716" height="6.844">/menzwe6/.</TOKEN>
+<TOKEN sid="p468_s512533" id="p468_w100" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="138.55" y="195.124" base="199.04" width="27.0894" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p468_s512534" id="p468_w101" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="166.739" y="195.124" base="199.04" width="4.12335" height="5.192">N</TOKEN>
+<TOKEN sid="p468_s512535" id="p468_w102" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="172.44" y="193.344" base="199.04" width="34.5686" height="7.552">Menswear</TOKEN>
+<TOKEN sid="p468_s512536" id="p468_w103" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.62" y="193.344" base="199.04" width="7.16832" height="7.552">so</TOKEN>
+</seg>
+<TOKEN sid="p468_s512537" id="p468_w104" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.357" y="193.344" base="199.04" width="24.2107" height="7.552">obleke,</TOKEN>
+<TOKEN sid="p468_s512538" id="p468_w105" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="202.584" base="208.28" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p468_s512539" id="p468_w106" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.9738" y="202.584" base="208.28" width="9.19152" height="7.552">jih</TOKEN>
+<TOKEN sid="p468_s512540" id="p468_w107" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="80.1641" y="202.584" base="208.28" width="20.3904" height="7.552">nosijo</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p468_s512541" id="p468_w108" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="102.553" y="202.584" base="208.28" width="22.392" height="7.552">mo{ki.</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p468_s512543" id="p468_w110" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.18" y="202.584" base="208.28" width="21.9974" height="7.552">mo{ka</TOKEN>
+<TOKEN sid="p468_s512544" id="p468_w111" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.176" y="202.584" base="208.28" width="27.1915" height="7.552">obla~ila</TOKEN>
+<TOKEN sid="p468_s512545" id="p468_w112" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="211.102" base="217.51" width="25.5004" height="8.514">-ment,</TOKEN>
+<TOKEN sid="p468_s512546" id="p468_w113" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="81.37" y="212.17" base="217.51" width="22.9109" height="7.08">-ments.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

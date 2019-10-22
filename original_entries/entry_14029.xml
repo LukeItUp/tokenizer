@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+supplement
+</orth>
+<form type="variant">
+<pron>
+/s*VplIm@2nt/
+</pron>
+</form>
+<form type="inflected">
+supplements, supplementing, supplemented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To supplement something 
+</seg>
+pomeni dodati nekaj ne&ccaron;emu, da bo ustreznej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had to get a job to supplement the family income.
+</quote>
+<quote>
+I supplemented my diet with vitamin pills.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They will sometimes eat fish as a supplement to their natural diet.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A supplement 
+</seg>
+je lo&ccaron;en del revije ali &ccaron;asopisa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priloga
+</quote>
+</cit>
+</sense>
+</entry>

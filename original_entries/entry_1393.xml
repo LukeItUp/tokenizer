@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blink
+</orth>
+<form type="variant">
+<pron>
+/bl*INk/
+</pron>
+</form>
+<form type="inflected">
+blinks, blinking, blinked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blink 
+</seg>
+ali 
+<seg type="lemma">
+to blink one's eyes 
+</seg>
+pomeni zelo na hitro zapreti o&ccaron;i in jih spet odpreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pome&zcaron;ikniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They looked at him without blinking.
+</quote>
+<quote>
+The girl blinked her eyes several times.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was his guilty blink that gave him away.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar svetilka 
+<seg type="lemma">
+blinks
+</seg>
+, se pri&zcaron;iga in uga&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utripati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dots and dashes blinked out from a signal light.
+</quote>
+</seg>
+</sense>
+</entry>

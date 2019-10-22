@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+jog
+</orth>
+<form type="variant">
+<pron>
+/dZ*Qg/
+</pron>
+</form>
+<form type="inflected">
+jogs, jogging, jogged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jog 
+</seg>
+pomeni po&ccaron;asi te&ccaron;i, pogosto kot na&ccaron;in telesne vadbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people who jog or play squash.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+jogger
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a couple of track-suited joggers.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+jogging
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the current enthusiasm for jogging.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A jog 
+</seg>
+je po&ccaron;asen tek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I speeded up to a jog and moved up the road briskly.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jog something 
+</seg>
+pomeni nekaj potisniti ali nalahko suniti, da se strese ali premakne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krcniti, podrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Be careful not to jog the table.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+jogs someone's memory
+</seg>
+, nekoga na nekaj spomni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obuditi spomin, priklicati v spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had demonstrated the sound to jog my memory.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

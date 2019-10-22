@@ -1,0 +1,239 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+need
+</orth>
+<form type="variant">
+<pron>
+/n*i*:d/
+</pron>
+</form>
+<form type="inflected">
+needs, needing, needed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+needs something 
+</seg>
+ali 
+<seg type="lemma">
+needs to do something
+</seg>
+, mora nekaj imeti ali narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebovati; morati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These animals need food throughout the winter.
+</quote>
+<quote>
+Children need to feel they matter to someone.
+</quote>
+<quote>
+Before we answer this question, we need to look briefly at the world environment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SEMI-MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+need not happen 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+need not do something
+</seg>
+ pomeni, da ni pravega vzroka, da bi se nekaj res zgodilo ali da bi nekdo moral nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni treba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You needn&apos;t worry.
+</quote>
+<quote>
+It needn&apos;t cost very much.
+</quote>
+<quote>
+People died of diseases that need not have proved fatal.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ, -ING, 
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+needs a particular action 
+</seg>
+ali kadar neko dejanje 
+<seg type="lemma">
+needs doing
+</seg>
+, je tisto treba storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebovati, biti potreben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shed needs a good clean out.
+</quote>
+<quote>
+Keep a list of all the jobs that need doing.
+</quote>
+<quote>
+The top rim needs to be cut off.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s needs 
+</seg>
+so stvari, ki jih potrebujemo za zadovoljujo&ccaron;e &zcaron;ivljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She learned how to provide for her own needs.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A need 
+</seg>
+je tudi mo&ccaron;an ob&ccaron;utek, da moramo nekaj imeti ali storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I began to feel the need of somewhere to retreat.
+</quote>
+<quote>
+She felt no need to speak.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+if need be 
+</seg>
+uporabimo, kadar ho&ccaron;emo re&ccaron;i, da bo nekaj narejeno, &ccaron;e bo potrebno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po potrebi, &ccaron;e bo treba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She said she would stay with me for months and years if need be.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+in need of something
+</seg>
+, tisto zelo potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebovati, biti potreben &ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am badly in need of advice.
+</quote>
+<quote>
+The hospital was in need of decorating.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Ljudje 
+<seg type="lemma">
+in need 
+</seg>
+nimajo dovolj denarja ali potrebujejo tako ali druga&ccaron;no pomo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v stiski
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

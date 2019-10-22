@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p48_s51567" id="p48_w276" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1799" y="350.294" base="355.99" width="19.0577" height="7.552">drove</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p48_s51568" id="p48_w277" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="80.8367" y="350.294" base="355.99" width="6.80256" height="7.552">to</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p48_s51569" id="p48_w278" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="89.2384" y="350.294" base="355.99" width="10.7971" height="7.552">the</TOKEN>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p48_s51570" id="p48_w279" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.635" y="350.294" base="355.99" width="25.9891" height="7.552">airport.</TOKEN>
+</seg>
+<TOKEN sid="p48_s51572" id="p48_w281" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.46" y="352.074" base="355.99" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p48_s51573" id="p48_w282" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="155.537" y="352.074" base="355.99" width="4.12335" height="5.192">N</TOKEN>
+<TOKEN sid="p48_s51574" id="p48_w283" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="161.25" y="350.294" base="355.99" width="5.1984" height="7.552">Z</TOKEN>
+<ref>
+<TOKEN sid="p48_s51575" id="p48_w284" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.048" y="350.294" base="355.99" width="23.1912" height="7.552">besedo</TOKEN>
+<TOKEN sid="p48_s51576" id="p48_w285" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.83" y="350.294" base="355.99" width="12.4013" height="7.552">bag</TOKEN>
+</ref>
+<TOKEN sid="p48_s51577" id="p48_w286" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.82" y="350.294" base="355.99" width="19.1938" height="7.552">lahko</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p48_s51578" id="p48_w287" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.612" y="350.294" base="355.99" width="13.9903" height="7.552">opi-</TOKEN>
+<TOKEN sid="p48_s51579" id="p48_w288" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="359.534" base="365.23" width="17.2116" height="7.552">{emo</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p48_s51580" id="p48_w289" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="79.4004" y="359.534" base="365.23" width="18.2736" height="7.552">vre~o</TOKEN>
+<TOKEN sid="p48_s51581" id="p48_w290" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="99.6828" y="359.534" base="365.23" width="6.8004" height="7.552">in</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p48_s51582" id="p48_w291" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="108.492" y="359.534" base="365.23" width="18.8136" height="7.552">njeno</TOKEN>
+<TOKEN sid="p48_s51583" id="p48_w292" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="129.314" y="359.534" base="365.23" width="26.0208" height="7.552">vsebino</TOKEN>
+<TOKEN sid="p48_s51584" id="p48_w293" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.344" y="359.534" base="365.23" width="8.8056" height="7.552">ali</TOKEN>
+</seg>
+<TOKEN sid="p48_s51585" id="p48_w294" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.158" y="359.534" base="365.23" width="17.6148" height="7.552">samo</TOKEN>
+<TOKEN sid="p48_s51586" id="p48_w295" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.782" y="359.534" base="365.23" width="28.026" height="7.552">vsebino.</TOKEN>
+<TOKEN sid="p48_s51588" id="p48_w297" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.15" y="359.534" base="365.23" width="17.447" height="7.552">vre~-</TOKEN>
+<TOKEN sid="p48_s51589" id="p48_w298" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="368.764" base="374.46" width="10.2816" height="7.552">ka,</TOKEN>
+<TOKEN sid="p48_s51590" id="p48_w299" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="72.001" y="368.764" base="374.46" width="19.98" height="7.552">vre~a;</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p48_s51591" id="p48_w300" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.5298" y="368.764" base="374.46" width="9.5364" height="7.552">He</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

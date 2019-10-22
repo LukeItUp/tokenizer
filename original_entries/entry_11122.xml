@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+profession
+</orth>
+<form type="variant">
+<pron>
+/pr@6f*eS@0n/
+</pron>
+</form>
+<form type="inflected">
+professions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A profession 
+</seg>
+je vrsta poklica, ki zahteva visoko stopnjo izobrazbe ali usposabljanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklic
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She decided on law or journalism as her profession.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A profession 
+</seg>
+so vsi ljudje, ki opravljajo dolo&ccaron;en poklic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stroka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The medical profession are doing a difficult job.
+</quote>
+</seg>
+</sense>
+</entry>

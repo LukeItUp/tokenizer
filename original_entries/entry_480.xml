@@ -9,12 +9,13 @@ anaemic
 </pron>
 ;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-anemic.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+anemic
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -23,15 +24,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 anaemic
 </seg>
-ima anemijo.
+, ima anemijo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-anemi&#269;en, slabokrven
+anemi&ccaron;en, slabokrven
 </quote>
 </cit>
 </sense>

@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sunny
+</orth>
+<form type="variant">
+<pron>
+/s*Vni1/
+</pron>
+</form>
+<form type="inflected">
+sunnier, sunniest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+it is sunny
+</seg>
+ pomeni, da sveti sonce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;en
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V krajih, ki so 
+<seg type="lemma">
+sunny
+</seg>
+, mo&ccaron;no sije sonce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;en, prisojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lovely sunny region of green hills and valleys.
+</quote>
+</seg>
+</sense>
+</entry>

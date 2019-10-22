@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hybrid
+</orth>
+<form type="variant">
+<pron>
+/h*a*IbrId/
+</pron>
+</form>
+<form type="inflected">
+hybrids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hybrid 
+</seg>
+je &zcaron;ival ali rastlina, vzgojena iz dveh razli&ccaron;nih &zcaron;ivalskih ali rastlinskih vrst; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kri&zcaron;anec
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...hybrid roses.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Vsako me&scaron;anico dveh razli&ccaron;nih stvari lahko imenujemo 
+<seg type="lemma">
+a hybrid
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kri&zcaron;anec, me&scaron;anica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a hybrid of business and art.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...hybrid systems of heat storage.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

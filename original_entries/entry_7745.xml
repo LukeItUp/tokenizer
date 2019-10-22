@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+investment
+</orth>
+<form type="variant">
+<pron>
+/Inv*estm@nt/
+</pron>
+</form>
+<form type="inflected">
+investments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Investment 
+</seg>
+je kupovanje delnic ali polaganje denarja na ban&ccaron;ni ra&ccaron;un, da bi ustvarili dobi&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlaganje, investiranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We aim to encourage investment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An investment 
+</seg>
+je znesek, ki ga polo&zcaron;imo na ban&ccaron;ni ra&ccaron;un ali z njim kupimo delnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polog; investicija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a better return on the investment.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Nekaj koristnega, kar kupimo, lahko imenujemo 
+<seg type="lemma">
+an investment
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tractors proved a superb investment.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+native
+</orth>
+<form type="variant">
+<pron>
+/n*e*ItIv/
+</pron>
+</form>
+<form type="inflected">
+natives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je dr&zcaron;ava za nekega &ccaron;loveka 
+<seg type="lemma">
+native
+</seg>
+, se je v njej rodil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+roden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She made her way home to her native Russia.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A native of a country or region 
+</seg>
+je &ccaron;lovek, ki se je rodil v dolo&ccaron;eni dr&zcaron;avi ali pokrajini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domorodec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...John Magee, a native of Northern Ireland.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...native Britons.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s native language
+</seg>
+ je jezik, ki se ga nekdo nau&ccaron;i govoriti kot otrok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+materni jezik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He read a poem in his native Hungarian.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Govorec, ki je 
+<seg type="lemma">
+native
+</seg>
+, neki jezik govori od otro&scaron;tva in se ga ni nau&ccaron;il &scaron;ele pozneje v &zcaron;ivljenju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doma&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Zcaron;ivali ali rastline, ki so 
+<seg type="lemma">
+native to a region
+</seg>
+, tam &zcaron;ivijo ali rastejo naravno, od nekdaj, in jih ni na to obmo&ccaron;je prinesel &ccaron;lovek; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+avtohton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These are the only lilies native to Great Britain.
+</quote>
+</seg>
+</sense>
+</entry>

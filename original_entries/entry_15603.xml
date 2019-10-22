@@ -1,0 +1,300 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+view
+</orth>
+<form type="variant">
+<pron>
+/vj*u*:/
+</pron>
+</form>
+<form type="inflected">
+views, viewing, viewed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s view on a particular subject 
+</seg>
+je mnenje, ki ga ima &ccaron;lovek o neki t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogled, stali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve changed my view on this issue.
+</quote>
+<quote>
+He was sent to jail for his political views.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s view of something 
+</seg>
+je &ccaron;lovekov odnos do ne&ccaron;esa in njegovo razumevanje tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogled, mi&scaron;ljenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has a view of life which is deeply corrupt.
+</quote>
+<quote>
+He tends to take a wider, more overall view of things.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To view something in a particular way 
+</seg>
+pomeni razmi&scaron;ljati o ne&ccaron;em na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razumeti, presojati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their missiles are viewed as a defensive and deterrent force.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The view from a particular place 
+</seg>
+je vse, kar lahko vidimo z nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razgled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+From the top there is a fine view.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a view of something 
+</seg>
+pomeni, da nekaj lahko vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razgled, pogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The driver blocked his view.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To view something 
+</seg>
+pomeni nekaj gledati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+gledati, opazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a drop of water from a pond, viewed through a microscope.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in my view 
+</seg>
+poudarimo, da izra&zcaron;amo svoje lastno mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po mojem mnenju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In my view, we have a long way to go before we have a United States of Europe.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take the view that something is true 
+</seg>
+pomeni biti mnenja, da je nekaj resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stali&scaron;&ccaron;e, mnenje
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in view of 
+</seg>
+uvedemo poglavitno dejstvo ali klju&ccaron;en dogodek, ki nas je navedel na to, da re&ccaron;emo ali naredimo nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glede na, zaradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In view of the fact that all the other members of the group are going, I think you should go too.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+with a view to a particular result
+</seg>
+, tisto naredimo zato, da bi dosegli dolo&ccaron;en rezultat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z namenom, da bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have exchanged letters with a view to meeting to discuss these problems.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in view
+</seg>
+, tisto lahko vidimo od tam, kjer smo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pred o&ccaron;mi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We crept around the cage to keep the monkey in view.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+on view
+</seg>
+, je razstavljeno na javnem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na ogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Turner exhibition is on view at the Tate Gallery.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+point of view
+</ref>
+</xr>
+</B>
+</entry>

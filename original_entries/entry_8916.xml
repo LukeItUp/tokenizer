@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mesh
+</orth>
+<form type="variant">
+<pron>
+/m*eS/
+</pron>
+</form>
+<form type="inflected">
+meshes, meshing, meshed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mesh 
+</seg>
+je mre&zcaron;ast material iz &zcaron;ice, niti ali plastike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mre&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fence made of stout wire mesh.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve stvari 
+<seg type="lemma">
+mesh 
+</seg>
+ali 
+<seg type="lemma">
+are meshed
+</seg>
+, se tesno ujemata. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ujeti se, zaplesti se
+</quote>
+</cit>
+</sense>
+</entry>

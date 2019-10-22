@@ -6,38 +6,39 @@ associate,
 <form type="inflected">
 associates, associating, associated;
 </form>
-<form type="variant">
-glagol izgovarjamo
+<PN>
+glagol izgovarjamo 
 <pron>
 /@3s*@*Usi1eIt/
 </pron>
-samostalnik pa
+, samostalnik pa 
 <pron>
-/@s*@*Usi1@t/.
+/@s*@*Usi1@t/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To associate one thing with another
+To associate one thing with another 
 </seg>
-pomeni, da sta obe stvari v na&#353;ih mislih povezani.
+pomeni, da sta obe stvari v na&scaron;ih mislih povezani. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -56,59 +57,56 @@ Zuse worked on problems associated with aircraft design.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To be associated with an organization, cause, or
-point of view
+To be associated with an organization, cause, or point of view
 </seg>
-ali kadar &#269;lovek
+, ali kadar &ccaron;lovek 
 <seg type="lemma">
-associates himself with
-it
+associates himself with it
 </seg>
-javno podpira dolo&#269;eno organizacijo, na&#269;elo ali stali&#353;&#269;e.
+, javno podpira dolo&ccaron;eno organizacijo, na&ccaron;elo ali stali&scaron;&ccaron;e. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-priklju&#269;iti se, pridru&#382;iti se
+priklju&ccaron;iti se, pridru&zcaron;iti se
 </quote>
 </cit>
 </sense>
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To associate with a group of people
+To associate with a group of people 
 </seg>
-pomeni
-pre&#382;iveti veliko &#269;asa z dolo&#269;eno skupino ljudi.
+pomeni pre&zcaron;iveti veliko &ccaron;asa z dolo&ccaron;eno skupino ljudi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-dru&#382;iti se
+dru&zcaron;iti se
 </quote>
 </cit>
 </sense>
@@ -120,14 +118,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's associates
+One's associates 
 </seg>
-so &#269;lovekovi poslovni
-sodelavci.
+so &ccaron;lovekovi poslovni sodelavci. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-poslovni partner, dru&#382;abnik
+poslovni partner, dru&zcaron;abnik
 </quote>
 </cit>
 </sense>

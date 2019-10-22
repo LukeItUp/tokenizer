@@ -1,0 +1,192 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+march
+</orth>
+<form type="variant">
+<pron>
+/m*A*:tS/
+</pron>
+</form>
+<form type="inflected">
+marches, marching, marched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+March 
+</seg>
+je tretji mesec v letu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+marec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki 
+<seg type="lemma">
+march
+</seg>
+, z enakomernimi koraki hodijo v skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They marched through Norway.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We were woken in the middle of the night for a long march.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron;ja skupina ljudi 
+<seg type="lemma">
+march
+</seg>
+, gredo skupaj nekam, da bi protestirali proti &ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The crowds of demonstrators marched down the main street.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A million people took part in last year&apos;s march.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+marches somewhere
+</seg>
+, gre nekam zelo hitro, na primer zato, ker je jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkorakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He marched out of the store.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+marches someone somewhere
+</seg>
+, nekoga na silo za roko odvede na neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za roko odpeljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He marched me out of the door.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The march of something 
+</seg>
+je nenehno razvijanje in napredovanje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the march of science.
+</quote>
+</seg>
+</sense>
+</entry>

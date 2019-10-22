@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dreadful
+</orth>
+<form type="variant">
+<pron>
+/dr*edfUl/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e za nekaj re&ccaron;emo, da je 
+<seg type="lemma">
+dreadful
+</seg>
+, ho&ccaron;emo povedati, da je zelo neprijetno ali zelo slabe kakovosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grozen, obupen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The weather was dreadful.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dreadfully
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Things could have gone dreadfully wrong.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+dreadful 
+</seg>
+poudarimo stopnjo ali obseg ne&ccaron;esa slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stra&scaron;en, grozen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was a dreadful coward.
+</quote>
+<quote>
+It'll be a dreadful waste.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dreadfully
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The girls were dreadfully dull companions.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+refresh
+</orth>
+<form type="variant">
+<pron>
+/rI1fr*eS/
+</pron>
+</form>
+<form type="inflected">
+refreshes, refreshing, refreshed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+refreshes someone
+</seg>
+, nekoga ohladi ali mu vrne mo&ccaron;, ko mu je vro&ccaron;e ali je utrujen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osve&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hoped that sleep would refresh me.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+refreshed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...feeling positively refreshed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To refresh someone&apos;s memory 
+</seg>
+pomeni tistemu povedati stvari, ki jih je pozabil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osve&zcaron;iti spomin
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

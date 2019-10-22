@@ -1,0 +1,365 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bear
+</orth>
+<form type="variant">
+<pron>
+/b*e*@/
+</pron>
+</form>
+<form type="inflected">
+bears, bearing, bore
+</form>
+<form type="variant">
+<pron>
+/b*O*:/
+</pron>
+</form>
+<form type="inflected">
+borne
+</form>
+<form type="variant">
+<pron>
+/b*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bear 
+</seg>
+je velika mo&ccaron;na zver z gostim ko&zcaron;uhom in ostrimi kremplji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+medved
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+polar bear
+</ref>
+</xr>
+<xr type="related">
+<QF>
+Teddy bear: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+teddy
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bear something 
+</seg>
+pomeni nekaj nesti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nositi, prena&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Camels and donkeys bear those goods inland.
+</quote>
+<quote>
+She arrived bearing a large bunch of grapes.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bears the weight of something else
+</seg>
+, nosi te&zcaron;o neke druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His ankle now felt strong enough to bear his weight.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bears a particular mark or characteristic
+</seg>
+, ima tako znamenje ali zna&ccaron;ilnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nositi, imeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The scene bore all the marks of a country wedding.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bear something difficult 
+</seg>
+pomeni nekaj hudega sprejeti in prenesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdr&zcaron;ati, prenesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their policies are putting a greater strain on the economic system than it can bear.
+</quote>
+</seg>
+<xr type="related">
+<QF>
+Grin and bear it: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+grin
+</ref>
+</xr>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar rastlina 
+<seg type="lemma">
+bears flowers, fruit, or leaves
+</seg>
+, iz nje zrastejo cvetovi, sade&zcaron;i ali listi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+roditi, pognati
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bear someone a feeling
+</seg>
+, pomeni, da do nekoga &ccaron;utimo na primer ljubezen ali sovra&scaron;tvo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He bore his children no malice.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring pressure or influence to bear on someone 
+</seg>
+pomeni uporabiti pritisk ali vpliv, da bi nekoga pregovorili, naj nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisniti na koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The group's aim is to bring pressure to bear on Parliament to get the law changed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bear left 
+</seg>
+ali 
+<seg type="lemma">
+to bear right 
+</seg>
+pomeni, da pri vo&zcaron;nji ali hoji za malenkost zavijemo v levo ali desno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti, zasukati se
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bear out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bears someone out 
+</seg>
+ali 
+<seg type="lemma">
+bears out
+</seg>
+, kar nekdo govori, potem to podpira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The claims are not borne out by the evidence.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bear with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bear with someone 
+</seg>
+pomeni, da smo z nekom potrpe&zcaron;ljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrpeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hope you'll bear with me as I explain.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

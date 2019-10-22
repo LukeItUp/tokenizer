@@ -1,0 +1,261 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pile
+</orth>
+<form type="variant">
+<pron>
+/p*a*Il/
+</pron>
+</form>
+<form type="inflected">
+piles, piling, piled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pile of things 
+</seg>
+je veliko stvari, ki le&zcaron;ijo ena vrh druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There in front of me was a great pile of old tin cans.
+</quote>
+<quote>
+...a pile of sand.
+</quote>
+<quote>
+He lifted a pile of books from the bedside table.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pile a quantity of things somewhere 
+</seg>
+pomeni nalo&zcaron;iti veliko stvari nekje v kup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakopi&ccaron;iti, nagrmaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Brody picked up the heap of papers and piled them on top of a radiator.
+</quote>
+<quote>
+Her hair was piled high on her head.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka povr&scaron;ina 
+<seg type="lemma">
+is piled with things
+</seg>
+, na njej stojijo kupi razli&ccaron;nih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prekrit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His desk was piled with papers.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pile 
+</seg>
+ali 
+<seg type="lemma">
+piles of something 
+</seg>
+je velika koli&ccaron;ina ne&ccaron;esa; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kup, na kupe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s got an enormous pile of money stashed away.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+pile into or out of a place
+</seg>
+, posku&scaron;ajo vsi naenkrat priti noter ali ven brez vsakega reda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnesti se, dreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The troops piled into the coaches.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Piles 
+</seg>
+je bole&ccaron;a raz&scaron;iritev &zcaron;il ob zadnji&ccaron;ni odprtini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hemoroidi, zlata &zcaron;ila
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pile of a carpet 
+</seg>
+je mehka povr&scaron;ina preproge, ki jo sestavljajo &scaron;tevilne drobne pokon&ccaron;ne nitke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ametasta povr&scaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a luxurious deep pile carpet.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pile up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To pile things up 
+</seg>
+pomeni nalo&zcaron;iti stvari tako, da so na kupu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakopi&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her hair had been piled up on top of her head.
+</quote>
+<quote>
+The papers she was meant to be reading piled up on her desk.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar stvari 
+<seg type="lemma">
+pile up
+</seg>
+, se jih ve&ccaron; zgodi zapovrstjo ali pa se jih ve&ccaron; nekje nabere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvrstiti se; nakopi&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All these disasters piled up on the unfortunate villagers.
+</quote>
+<quote>
+Last year the company piled up losses totalling &pound;4 billion.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

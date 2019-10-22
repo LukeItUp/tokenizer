@@ -5,7 +5,7 @@ angry
 </orth>
 <form type="variant">
 <pron>
-/*#ae;Ngri1/
+/*&ae;Ngri1/
 </pron>
 </form>
 <form type="inflected">
@@ -19,12 +19,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 angry
 </seg>
-ima silovita &#269;ustva
-o ne&#269;em, kar se mu zdi krivi&#269;no, kruto ali &#382;aljivo.
+, ima silovita &ccaron;ustva o ne&ccaron;em, kar se mu zdi krivi&ccaron;no, kruto ali &zcaron;aljivo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -41,7 +40,6 @@ He was angry at Sally for accusing him.
 <orth>
 angrily
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV

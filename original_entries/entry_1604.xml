@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brawl
+</orth>
+<form type="variant">
+<pron>
+/br*O*:l/
+</pron>
+</form>
+<form type="inflected">
+brawls, brawling, brawled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A brawl 
+</seg>
+je hud pretep ali prepir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretep, prepir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A wild brawl followed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brawl 
+</seg>
+pomeni sodelovati v pretepu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretepati se, prepirati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were brawling in the street.
+</quote>
+</seg>
+</sense>
+</entry>

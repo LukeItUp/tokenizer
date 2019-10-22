@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tired
+</orth>
+<form type="variant">
+<pron>
+/t*a*I*@d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+tired
+</seg>
+, &zcaron;eli po&ccaron;ivati ali spati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utrujen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m sure you must be tired after cycling all that distance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tiredness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tiredness overwhelmed me.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+tired of something
+</seg>
+, mu je tistega dovolj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naveli&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Judy was tired of quarrelling with him.
+</quote>
+</seg>
+</sense>
+</entry>

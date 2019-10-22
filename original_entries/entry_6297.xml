@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grey
+</orth>
+<form type="variant">
+<pron>
+/gr*e*I/
+</pron>
+</form>
+<form type="inflected">
+greyer, greyest; greys, greying;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+gray
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+grey
+</seg>
+, je take barve kot pepel ali oblaki na de&zcaron;even dan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+siv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a grey suit.
+</quote>
+<quote>
+...the grey-haired driver.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be going grey 
+</seg>
+pomeni, da lasje neke osebe postajajo sivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+siveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went grey in about a year.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her hair was greying.
+</quote>
+<quote>
+...a small, greying man.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To look grey 
+</seg>
+pomeni biti bled in bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bled, upadel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had gone grey and his hands trembled slightly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+greyness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was an awful greyness about his face.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

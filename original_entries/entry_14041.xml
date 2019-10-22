@@ -1,0 +1,284 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sure
+</orth>
+<form type="variant">
+<pron>
+/S*U*@, S*O*:/
+</pron>
+</form>
+<form type="inflected">
+surer, surest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sure about something 
+</seg>
+pomeni verjeti, da je nekaj zanesljivo res, in ne dvomiti v to. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m sure she&apos;s right.
+</quote>
+<quote>
+I&apos;m not quite sure but I think it&apos;s half past five.
+</quote>
+<quote>
+The only thing we&apos;re sure about is that it&apos;s a boy.
+</quote>
+<quote>
+Are you sure you won&apos;t have another drink?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sure of oneself 
+</seg>
+pomeni biti zelo samozavesten glede svojih zmo&zcaron;nosti ali mnenj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;an vase
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sure of getting something 
+</seg>
+pomeni trdno verjeti, da bomo nekaj dobili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can be sure of success.
+</quote>
+<quote>
+You could not always be sure of winning.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is sure to happen
+</seg>
+, se bo prav gotovo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was sure to see her again.
+</quote>
+<quote>
+We&apos;re sure to get a place.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sure 
+</seg>
+opi&scaron;emo postopek ali sistem, ki nikoli ne odpove ali je to&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wood dust beneath a piece of furniture is a sure sign of woodworm.
+</quote>
+<quote>
+She had a sure grasp of the subject.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+sure 
+</seg>
+se v pogovornem jeziku uporablja kot pritrdilnica namesto 
+<seg type="lemma">
+yes
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jasno, seveda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Can I go with you?&rsquo;&mdash;&lsquo;Sure.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sure 
+</seg>
+lahko tudi poudarimo tisto, kar govorimo; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+res, zanesljivo, prav gotovo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sure is cute.
+</quote>
+<quote>
+You sure do have an interesting job.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make sure about something 
+</seg>
+pomeni preverjati nekaj ali ukrepati tako, da zanesljivo izvemo, da je res narejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepri&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He glanced over his shoulder to make sure that there was nobody listening.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj res 
+<seg type="lemma">
+for sure 
+</seg>
+ali da nekaj vemo 
+<seg type="lemma">
+for sure
+</seg>
+, ho&ccaron;emo povedati, da je tisto nedvomno res ali da se bo nedvomno zgodilo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zanesljivo, nesporno, res
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One thing was for sure, there was nothing wrong with Allen&apos;s eyesight.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sure enough 
+</seg>
+potrdimo, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prav res
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;The baby&apos;s crying,&rsquo; she said. Sure enough, a yelling noise was coming from upstairs.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

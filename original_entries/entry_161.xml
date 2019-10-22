@@ -5,7 +5,7 @@ adamant
 </orth>
 <form type="variant">
 <pron>
-/*#ae;d@m@nt/.
+/*&ae;d@m@nt/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 adamant about something
 </seg>
-je sklenil, da si o ne&#269;em ne bo premislil.
+, je sklenil, da si o ne&ccaron;em ne bo premislil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-nepopustljiv, odlo&#269;en
+nepopustljiv, odlo&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -37,7 +37,6 @@ He is adamant that we must put less emphasis on nationalism.
 <orth>
 adamantly
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV

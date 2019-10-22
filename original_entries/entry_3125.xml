@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+court-martial,
+</orth>
+<form type="inflected">
+court-martials, court-martialling, court-martialled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To court-martial a member of the armed forces 
+</seg>
+pomeni soditi voja&scaron;ki osebi na voja&scaron;kem sodi&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti pred voja&scaron;ko sodi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The colonel threatened to court-martial him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They arrested General Lee for disobedience, and ordered a court-martial.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

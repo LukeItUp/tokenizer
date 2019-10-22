@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disagreement
+</orth>
+<form type="variant">
+<pron>
+/d*Is@gr*i*:m@2nt/
+</pron>
+</form>
+<form type="inflected">
+disagreements.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Disagreement 
+</seg>
+je polo&zcaron;aj, v katerem imajo ljudje razli&ccaron;no mnenje o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesoglasje, neskladje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The experts find themselves in total disagreement.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A disagreement 
+</seg>
+je prepir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spor, nesoglasje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had a serious disagreement about business.
+</quote>
+</seg>
+</sense>
+</entry>

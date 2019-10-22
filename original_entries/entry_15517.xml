@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vegetarian
+</orth>
+<form type="variant">
+<pron>
+/v*edZIt*e*@rI@n/
+</pron>
+</form>
+<form type="inflected">
+vegetarians.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A vegetarian 
+</seg>
+je oseba, ki ne j&eacute; mesa ali rib. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vegetarijanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a strict vegetarian.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a vegetarian diet.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

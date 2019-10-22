@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hoot
+</orth>
+<form type="variant">
+<pron>
+/h*u*:t/
+</pron>
+</form>
+<form type="inflected">
+hoots, hooting, hooted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hoot the horn on a vehicle 
+</seg>
+pomeni ustvariti glasen zvok z avtomobilsko trobljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hupati, trobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tug boats hooted at it.
+</quote>
+<quote>
+He hoots the horn.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I heard a hoot and saw Martin driving by.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hoot 
+</seg>
+pomeni med smehom ustvarjati glasen rezek zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tuliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They pointed and hooted with enjoyment.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+At this Etta gave a hoot of laughter.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sova 
+<seg type="lemma">
+hoots
+</seg>
+, se ogla&scaron;a z glasom, podobnim podalj&scaron;anemu &lsquo;u&rsquo;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skovikati, ukati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Outside, an owl hooted among the pines.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He heard the hoot of an owl.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

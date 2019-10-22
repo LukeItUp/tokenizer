@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+calculate
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;lkj@4leIt/
+</pron>
+</form>
+<form type="inflected">
+calculates, calculating, calculated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To calculate a number or amount 
+</seg>
+pomeni prera&ccaron;unati neko &scaron;tevilo ali znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izra&ccaron;unati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The number of votes cast will then be calculated.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To calculate the effects of something 
+</seg>
+pomeni premisliti, kak&scaron;en bo u&ccaron;inek ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predvideti, oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...actions whose consequences can in no way be calculated.
+</quote>
+<quote>
+She calculated that the risks were worth taking.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+calculated
+</seg>
+, da bi imelo dolo&ccaron;en u&ccaron;inek, je storjeno prav zaradi takega u&ccaron;inka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premi&scaron;ljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+... a cool dignified attitude that was calculated to discourage familiarity.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+calculated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the deliberate, calculated use of violence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

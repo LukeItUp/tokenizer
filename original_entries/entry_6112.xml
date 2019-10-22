@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glutton
+</orth>
+<form type="variant">
+<pron>
+/gl*Vt@0n/
+</pron>
+</form>
+<form type="inflected">
+gluttons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A glutton 
+</seg>
+je &ccaron;lovek, ki je po&zcaron;re&scaron;en in preve&ccaron; j&eacute;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&zcaron;eruh
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+a glutton for something
+</seg>
+, vztrajno ima ali po&ccaron;ne nekaj, kar se nam zdi neza&zcaron;eleno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenasitne&zcaron;, obsedenec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a glutton for work.
+</quote>
+</seg>
+</sense>
+</entry>

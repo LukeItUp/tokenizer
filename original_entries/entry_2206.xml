@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chase
+</orth>
+<form type="variant">
+<pron>
+/tS*e*Is/
+</pron>
+</form>
+<form type="inflected">
+chases, chasing, chased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chase someone 
+</seg>
+pomeni te&ccaron;i za nekom ali ga zasledovati, da bi ga ujeli ali odpodili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preganjati, zasledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Youngsters chase one another up trees.
+</quote>
+<quote>
+A dozen soldiers chased after the car.
+</quote>
+<quote>
+They were chased from the village.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They abandoned the chase and returned home.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;after&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+chases something
+</seg>
+, se zelo trudi, da bi nekaj dobil, na primer delo ali denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati, potegovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are getting more and more applicants chasing fewer and fewer jobs.
+</quote>
+</seg>
+</sense>
+</entry>

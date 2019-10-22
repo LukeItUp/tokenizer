@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blanket
+</orth>
+<form type="variant">
+<pron>
+/bl*&ae;NkI2t/
+</pron>
+</form>
+<form type="inflected">
+blankets, blanketing, blanketed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blanket 
+</seg>
+je velik kos debele tkanine, zlasti take, s katero pregrnemo posteljo, da nam je toplo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odeja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer sneg, 
+<seg type="lemma">
+blankets an area
+</seg>
+, prekrije tisto obmo&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokriti
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a blanket of cloud.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+blanket 
+</seg>
+opi&scaron;emo nekaj, kar ima vpliv ali se nana&scaron;a na vse osebe ali predmete v skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popoln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...our blanket acceptance of everything they say.
+</quote>
+</seg>
+</sense>
+</entry>

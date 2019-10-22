@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pierce
+</orth>
+<form type="variant">
+<pron>
+/p*I*@s/
+</pron>
+</form>
+<form type="inflected">
+pierces, piercing, pierced.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pierce something 
+</seg>
+pomeni z ostrim predmetom narediti luknjo v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predreti, prebosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the snake&apos;s fangs pierce its victim&apos;s flesh, the venom is injected.
+</quote>
+<quote>
+The pointed end of the stick pierced through its throat into its mouth.
+</quote>
+</seg>
+</sense>
+</entry>

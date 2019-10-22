@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+degree
+</orth>
+<form type="variant">
+<pron>
+/di1gr*i*:/
+</pron>
+</form>
+<form type="inflected">
+degrees.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+degree 
+</seg>
+poka&zcaron;emo, do katere mere se nekaj dogaja ali ob&ccaron;uti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This has been tried with varying degrees of success.
+</quote>
+<quote>
+The number of police carrying guns has increased to an alarming degree.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e se nekaj dogaja 
+<seg type="lemma">
+by degrees
+</seg>
+, se dogaja postopoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polagoma, korak za korakom
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A degree 
+</seg>
+je merska enota za temperaturo, k&oacute;t, zemljepisno dol&zcaron;ino in &scaron;irino; pogosto jo zapi&scaron;emo kot &lsquo;&deg;&rsquo;, na primer 23 &deg;C. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopinja
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na univerzi ali tehni&scaron;ki &scaron;oli je 
+<seg type="lemma">
+a degree 
+</seg>
+stopnja izobrazbe, ki jo dose&zcaron;emo, ko tam kon&ccaron;amo &scaron;tudijsko smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+diploma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had taken a degree in music at Cambridge.
+</quote>
+</seg>
+</sense>
+</entry>

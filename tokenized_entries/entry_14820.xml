@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p808_s890480" id="p808_w537" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="81.542" base="87.95" width="26.599" height="8.514">trendy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p808_s890481" id="p808_w538" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="281.74" y="82.788" base="87.95" width="23.5497" height="6.844">/trendi</TOKEN>
+<TOKEN sid="p808_s890482" id="p808_w539" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="305.66" y="82.1495" base="85.56" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p808_s890483" id="p808_w540" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="308.29" y="82.788" base="87.95" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p808_s890484" id="p808_w541" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="315.4" y="82.61" base="87.95" width="26.4971" height="7.08">trendier,</TOKEN>
+<TOKEN sid="p808_s890485" id="p808_w542" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="343.961" y="82.61" base="87.95" width="29.9916" height="7.08">trendiest.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p808_s890486" id="p808_w543" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="376.16" y="84.034" base="87.95" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p808_s890487" id="p808_w544" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="388.81" y="82.254" base="87.95" width="23.8198" height="7.552">Trendy</TOKEN>
+</seg>
+<TOKEN sid="p808_s890488" id="p808_w545" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="414.83" y="82.254" base="87.95" width="25.1892" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p808_s890489" id="p808_w546" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="91.334" base="97.03" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p808_s890490" id="p808_w547" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="264.53" y="91.334" base="97.03" width="19.1966" height="7.552">modi;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p808_s890491" id="p808_w548" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.656" y="91.334" base="97.03" width="36.0029" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p808_s890492" id="p808_w549" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.587" y="91.334" base="97.03" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p808_s890494" id="p808_w551" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.28" y="91.334" base="97.03" width="31.451" height="7.552">moderen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p808_s890495" id="p808_w552" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.65" y="91.334" base="97.03" width="29.4588" height="7.552">&#8230;trendy</TOKEN>
+<TOKEN sid="p808_s890496" id="p808_w553" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="414.039" y="91.334" base="97.03" width="25.9992" height="7.552">clothes.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

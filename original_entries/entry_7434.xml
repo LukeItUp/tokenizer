@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infection
+</orth>
+<form type="variant">
+<pron>
+/Inf*ekS@0n/
+</pron>
+</form>
+<form type="inflected">
+infections.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An infection 
+</seg>
+je bolezen, ki jo povzro&ccaron;ajo klice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oku&zcaron;ba, infekcijska bolezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had an ear infection.
+</quote>
+<quote>
+Radiation lessened bodily resistance to infection.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Infection 
+</seg>
+je oku&zcaron;enost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oku&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is little risk of infection.
+</quote>
+</seg>
+</sense>
+</entry>

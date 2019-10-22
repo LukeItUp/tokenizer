@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+raid
+</orth>
+<form type="variant">
+<pron>
+/r*e*Id/
+</pron>
+</form>
+<form type="inflected">
+raids, raiding, raided.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki, policija ali kriminalci 
+<seg type="lemma">
+raid a place
+</seg>
+, v prostor vstopijo s silo, da bi ga zavzeli ali v njem na&scaron;li dolo&ccaron;eno stvar ali osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvesti racijo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Blanco&apos;s supporters are still raiding villages along the border.
+</quote>
+<quote>
+Their headquarters in London were raided by the police.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...police raids.
+</quote>
+<quote>
+...a series of bank raids.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

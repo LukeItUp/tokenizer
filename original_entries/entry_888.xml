@@ -11,30 +11,30 @@ authorize
 <form type="inflected">
 authorizes, authorizing, authorized;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-authorise.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+authorise
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek na visokem polo&#382;aju
+Kadar &ccaron;lovek na visokem polo&zcaron;aju 
 <seg type="lemma">
-authorizes
-something
+authorizes something
 </seg>
-da za tisto svoje uradno dovoljenje.
+, d&aacute; za tisto svoje uradno dovoljenje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -51,7 +51,6 @@ The president authorized the bombings.
 <orth>
 authorization
 </orth>
-</form>
 <form type="variant">
 <pron>
 /*O*:T@raIz*e*IS@0n/

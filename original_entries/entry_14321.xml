@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+telegraph
+</orth>
+<form type="variant">
+<pron>
+/t*elIgr&ae;f, -grA:f/
+</pron>
+</form>
+<form type="inflected">
+telegraphs, telegraphing, telegraphed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The telegraph 
+</seg>
+je sistem po&scaron;iljanja sporo&ccaron;il na dolge razdalje z elektri&ccaron;nimi ali radijskimi signali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telegraf
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To telegraph someone 
+</seg>
+pomeni nekomu poslati sporo&ccaron;ilo po telegrafu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telegrafirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Harold telegraphed him in France.
+</quote>
+</seg>
+</sense>
+</entry>

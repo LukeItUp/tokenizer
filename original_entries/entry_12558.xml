@@ -1,0 +1,183 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+secret
+</orth>
+<form type="variant">
+<pron>
+/s*i*:krIt/
+</pron>
+</form>
+<form type="inflected">
+secrets.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+secret
+</seg>
+, je znano le malo ljudem, ki tega ne povedo ali poka&zcaron;ejo nikomur drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajen, skriven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The letter was marked &lsquo;secret&rsquo;.
+</quote>
+<quote>
+...secret negotiations.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+secretly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Their work had to be done secretly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+secret 
+</seg>
+opi&scaron;emo &ccaron;loveka, ki dela nekaj, o &ccaron;emer ne pove drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skriven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had become a secret drinker.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+secretly
+</orth>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He secretly hoped I would one day change my mind.
+</quote>
+<quote>
+Secretly, perhaps, some of them were also a little scared.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+in secret
+</seg>
+, tisto naredimo tako, da za to ne ve nih&ccaron;e drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na skrivaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I arranged to meet him in secret.
+</quote>
+<quote>
+He&apos;ll manufacture it in secret.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A secret 
+</seg>
+je dejstvo, ki ga pozna le malo ljudi in ti o njem ne povedo nikomur drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrivnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The results of these experiments remain a secret.
+</quote>
+<quote>
+I&apos;ll tell you a secret.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The secret of achieving something 
+</seg>
+je najbolj&scaron;i na&ccaron;in, kako nekaj dose&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrivnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Think big! This is the secret of success.
+</quote>
+</seg>
+</sense>
+</entry>

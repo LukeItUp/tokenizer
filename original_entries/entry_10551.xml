@@ -1,0 +1,287 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+picture
+</orth>
+<form type="variant">
+<pron>
+/p*IktS@/
+</pron>
+</form>
+<form type="inflected">
+pictures, picturing, pictured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A picture 
+</seg>
+je narisana ali naslikana podoba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the most important picture Picasso ever painted.
+</quote>
+<quote>
+He picked up a book to look at the pictures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A picture 
+</seg>
+je tudi druga beseda za 
+<seg type="lemma">
+a photograph
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fotografija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We all had our pictures taken.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar oseba ali stvar 
+<seg type="lemma">
+is pictured in a newspaper or magazine
+</seg>
+, se pojavi na sliki v nekem &ccaron;asopisu ali reviji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na sliki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Murray was pictured in The Times.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A picture
+</seg>
+ je tudi tisto, kar vidimo na televizijskem zaslonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slika, posnetek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have all seen television news pictures of their forces in action.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A picture 
+</seg>
+je tudi druga beseda za film. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+film
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We worked together in the last picture I made.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<usg>
+V Veliki Britaniji 
+</usg>
+<def xml:lang="sl">
+<seg type="lemma">
+the pictures 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+the cinema
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kino
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She met him at the pictures.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima &ccaron;lovek 
+<seg type="lemma">
+a picture of something
+</seg>
+, si tisto predstavlja ali vidi v mislih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A picture flashed through Kunta&apos;s mind of the panther springing at him.
+</quote>
+<quote>
+They can get quite a distorted picture of what&apos;s going on.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He could picture all too easily the consequences of being caught.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give a picture of what something is like 
+</seg>
+pomeni nekaj opisati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstaviti, naslikati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Hamilton gives a most interesting picture of Monty&apos;s family background.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The picture in a particular place 
+</seg>
+so razmere v nekem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In Nigeria, the picture appears to be different.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+puts someone in the picture
+</seg>
+, tisti osebi pojasni podrobnosti dolo&ccaron;enega polo&zcaron;aja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let me put you in the picture about the situation there.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

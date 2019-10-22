@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sexist
+</orth>
+<form type="variant">
+<pron>
+/s*eksIst/
+</pron>
+</form>
+<form type="inflected">
+sexists.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+sexist
+</seg>
+, vsebuje seksizem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seksisti&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sexist attitudes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sexist 
+</seg>
+je oseba, najve&ccaron;krat mo&scaron;ki, ki ima seksisti&ccaron;na stali&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seksist
+</quote>
+</cit>
+</sense>
+</entry>

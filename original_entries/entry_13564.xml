@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stair
+</orth>
+<form type="variant">
+<pron>
+/st*e*@/
+</pron>
+</form>
+<form type="inflected">
+stairs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stairs 
+</seg>
+imenujemo vrsto stopnic znotraj stavbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopni&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He ran up the stairs.
+</quote>
+<quote>
+...another flight of stairs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stair 
+</seg>
+je ena od stopnic v vrsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Not a stair creaked as she made her way downstairs.
+</quote>
+</seg>
+</sense>
+</entry>

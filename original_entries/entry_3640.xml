@@ -1,0 +1,222 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+demand
+</orth>
+<form type="variant">
+<pron>
+/di1m*A*:nd/
+</pron>
+</form>
+<form type="inflected">
+demands, demanding, demanded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To demand something 
+</seg>
+pomeni zelo ostro za nekaj prositi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I demand to see a doctor.
+</quote>
+<quote>
+She had been demanding that he visit her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To demand 
+</seg>
+pomeni tudi ostro postaviti vpra&scaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What have I done?&rsquo; he demanded.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neko delo ali polo&zcaron;aj 
+<seg type="lemma">
+demands something
+</seg>
+, je tista stvar za delo ali polo&zcaron;aj potrebna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has most of the qualities demanded of a leader.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A demand 
+</seg>
+je odlo&ccaron;na pro&scaron;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahteva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his demand for stronger armed forces.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se pojavi 
+<seg type="lemma">
+demand for something
+</seg>
+, veliko ljudi ho&ccaron;e nekaj kupiti ali imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpra&scaron;evanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The demand for health care is unlimited.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The demands of an activity, process, or situation 
+</seg>
+so stvari, ki jih je treba storiti ali dobaviti za neko dejavnost, postopek ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreba, zahteva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the demands of family life.
+</quote>
+<quote>
+The body&apos;s fuel demands are very low.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+makes demands on someone
+</seg>
+, od nekoga zahteva, da naredi nekaj, za kar potro&scaron;i veliko &ccaron;asa, mo&ccaron;i ali denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati, postavljati zahteve
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The system has always made heavy demands on those working in it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in demand
+</seg>
+, veliko ljudi &zcaron;eli tisto kupiti ali imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti predmet povpra&scaron;evanja
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj na voljo 
+<seg type="lemma">
+on demand
+</seg>
+, tisto lahko dobimo, &ccaron;e za to zaprosimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zahtevo, na pro&scaron;njo
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

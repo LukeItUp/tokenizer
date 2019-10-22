@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+housing
+</orth>
+<form type="variant">
+<pron>
+/h*a*UzIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Housing 
+</seg>
+so stavbe, v katerih &zcaron;ivijo ljudje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stanovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bad housing and poverty.
+</quote>
+<quote>
+There is a severe housing shortage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Housing 
+</seg>
+je tudi slu&zcaron;ba, pri kateri oskrbujemo hi&scaron;e, v katerih naj bi ljudje stanovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stanovanjska uprava ali urad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the housing department.
+</quote>
+</seg>
+</sense>
+</entry>

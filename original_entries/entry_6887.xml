@@ -1,0 +1,135 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hook
+</orth>
+<form type="variant">
+<pron>
+/h*Uk/
+</pron>
+</form>
+<form type="inflected">
+hooks, hooking, hooked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hook 
+</seg>
+je zakrivljen kos kovine ali plastike, ki ga uporabimo za obe&scaron;anje predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kavelj, kljuka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Howard hangs up his coat on the hook behind the door.
+</quote>
+<quote>
+...curtain hooks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hook one thing onto another 
+</seg>
+pomeni pripeti eno stvar na drugo s kavljem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti na kavelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One after the other they were hooked to the moving cable.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e telefonsko slu&scaron;alko vzamemo 
+<seg type="lemma">
+off the hook
+</seg>
+, jo vzamemo s stojala, na katerem navadno stoji, tako da telefon ne more zvoniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s podstavka
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get off the hook 
+</seg>
+pomeni re&scaron;iti se iz te&zcaron;avnega ali nevarnega polo&zcaron;aja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izvle&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He felt he had got off the hook perhaps too easily.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hook up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hook up a computer or other electronic machine 
+</seg>
+pomeni povezati ra&ccaron;unalnik ali kak drug kos elektronske opreme z osrednjim virom energije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priklopiti, spojiti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

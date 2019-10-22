@@ -19,22 +19,21 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 authoritarian
 </seg>
-&#382;eli ukazovati
-drugim, namesto da bi jim dovolil, da odlo&#269;ajo sami;
+, &zcaron;eli ukazovati drugim, namesto da bi jim dovolil, da odlo&ccaron;ajo sami; 
 </def>
 <usg>
-izra&#382;a neodobravanje.
+izra&zcaron;a neodobravanje.
 </usg>
 <cit type="translationEquivalent">
 <quote>
 samovoljen, avtoritaren
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -45,6 +44,6 @@ COUNT N
 The old rulers were authoritarians.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

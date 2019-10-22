@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+conclusion
+</orth>
+<form type="variant">
+<pron>
+/k@7N1kl*u*:Z@0n/
+</pron>
+</form>
+<form type="inflected">
+conclusions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A conclusion 
+</seg>
+je nekaj, za kar po pazljivem razmi&scaron;ljanju sklenemo, da je res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklep, odlo&ccaron;itev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I came to the conclusion that I didn't really like civil engineering.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The conclusion of something 
+</seg>
+je dokon&ccaron;anje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konec, sklep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We tried an experiment which had an interesting conclusion.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+a foregone conclusion
+</seg>
+ lahko opi&scaron;emo nekaj, kar se bo gotovo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+logi&ccaron;en sklep
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

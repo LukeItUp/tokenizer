@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+misunderstanding
+</orth>
+<form type="variant">
+<pron>
+/m*IsVnd@st*&ae;ndIN/
+</pron>
+</form>
+<form type="inflected">
+misunderstandings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A misunderstanding 
+</seg>
+pomeni, da &ccaron;lovek ne razume ne&ccaron;esa, na primer polo&zcaron;aja ali besed drugega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesporazum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was a minor misunderstanding which could be instantly cleared up.
+</quote>
+<quote>
+...a source of suspicion and misunderstanding.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dva &ccaron;loveka 
+<seg type="lemma">
+have a misunderstanding
+</seg>
+, se o ne&ccaron;em ne strinjata ali se nekoliko spreta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesporazum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They usually sort out their misunderstandings.
+</quote>
+</seg>
+</sense>
+</entry>

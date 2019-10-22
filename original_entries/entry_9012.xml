@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+millionth
+</orth>
+<form type="variant">
+<pron>
+/m*Ilj@nT/
+</pron>
+</form>
+<form type="inflected">
+millionths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V nekem zaporedju je 
+<seg type="lemma">
+the millionth item 
+</seg>
+tisti element, ki je na milijontem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+milijonti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A millionth 
+</seg>
+je eden izmed milijon enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+milijonina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a millionth of a second.
+</quote>
+</seg>
+</sense>
+</entry>

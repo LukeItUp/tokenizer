@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rash
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+rashes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za &ccaron;loveka ali njegovo ved&ecirc;nje re&ccaron;emo, da je 
+<seg type="lemma">
+rash
+</seg>
+, kadar po&ccaron;ne neumnosti, ker ne razmisli, kak&scaron;ne posledice bo imelo njegovo dejanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaletav, prenagljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t do anything rash.
+</quote>
+<quote>
+Some rash promises were made.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rashly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;m not a man who does things rashly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rash 
+</seg>
+so rde&ccaron;e pike na ko&zcaron;i, ki se pojavijo, kadar je &ccaron;lovek bolan ali alergi&ccaron;en na kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpu&scaron;&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man with a rash on one side of his neck.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rash of events 
+</seg>
+je ve&ccaron;je &scaron;tevilo dogodkov, ki se zgodijo v kratkem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poplava, mno&zcaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No one wishes to see a rash of strikes.
+</quote>
+</seg>
+</sense>
+</entry>

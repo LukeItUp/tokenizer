@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bungle
+</orth>
+<form type="variant">
+<pron>
+/b*VNg@0l/
+</pron>
+</form>
+<form type="inflected">
+bungles, bungling, bungled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bungle something 
+</seg>
+pomeni ne&ccaron;esa ne narediti prav, ker se motimo ali smo nerodni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skaziti, za&scaron;u&scaron;mariti, za&scaron;u&scaron;trati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They bungled the whole operation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bungled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the bungled murder of Bernard Lustig.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+bungling
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...this bungling administration.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

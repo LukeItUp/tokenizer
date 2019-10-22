@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peck
+</orth>
+<form type="variant">
+<pron>
+/p*ek/
+</pron>
+</form>
+<form type="inflected">
+pecks, pecking, pecked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptica 
+<seg type="lemma">
+pecks something
+</seg>
+, s kljunom naglo udarja ob nekaj in tisto trga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljuvati, zobati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a plump brown hen, pecking around for grains of corn.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It hopped over and made a quick peck at the ground.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pecks someone on the cheek
+</seg>
+, neki osebi da hiter rahel poljub na lice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati poljub&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pecked his cheek.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She gave him a peck on the cheek.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

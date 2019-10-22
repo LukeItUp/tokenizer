@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p33_s35782" id="p33_w833" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.629" y="390.924" base="396.62" width="31.6282" height="7.552">existence</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p33_s35783" id="p33_w834" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.267" y="390.924" base="396.62" width="6.40512" height="7.552">of</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p33_s35784" id="p33_w835" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="315.683" y="390.924" base="396.62" width="25.6219" height="7.552">nuclear</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p33_s35785" id="p33_w836" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.315" y="390.924" base="396.62" width="29.6251" height="7.552">weapons</TOKEN>
+<TOKEN sid="p33_s35786" id="p33_w837" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.95" y="390.924" base="396.62" width="11.6078" height="7.552">has</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p33_s35787" id="p33_w838" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="388.568" y="390.924" base="396.62" width="22.8168" height="7.552">helped</TOKEN>
+</seg>
+<TOKEN sid="p33_s35788" id="p33_w839" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.395" y="390.924" base="396.62" width="6.80832" height="7.552">to</TOKEN>
+<TOKEN sid="p33_s35789" id="p33_w840" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.214" y="390.924" base="396.62" width="20.0138" height="7.552">main-</TOKEN>
+<TOKEN sid="p33_s35790" id="p33_w841" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="399.994" base="405.69" width="13.5986" height="7.552">tain</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p33_s35791" id="p33_w842" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="277.259" y="399.994" base="405.69" width="21.2004" height="7.552">peace.</TOKEN>
+<TOKEN sid="p33_s35793" id="p33_w844" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="308.81" y="401.774" base="405.69" width="7.14681" height="5.192">VB</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p33_s35794" id="p33_w845" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="317.911" y="401.774" base="405.69" width="10.7187" height="5.192">with</TOKEN>
+<TOKEN sid="p33_s35795" id="p33_w846" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="330.584" y="401.774" base="405.69" width="25.5658" height="5.192">ADJUNCT</TOKEN>
+<TOKEN sid="p33_s35796" id="p33_w847" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="359" y="399.994" base="405.69" width="8.79768" height="7.552">^e</TOKEN>
+<TOKEN sid="p33_s35797" id="p33_w848" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.648" y="399.994" base="405.69" width="21.9996" height="7.552">~lovek</TOKEN>
+<TOKEN sid="p33_s35798" id="p33_w849" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.49" y="399.994" base="405.69" width="22.2559" height="7.552">argues</TOKEN>
+<TOKEN sid="p33_s35799" id="p33_w850" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="420.597" y="399.994" base="405.69" width="9.99936" height="7.552">for</TOKEN>
+<TOKEN sid="p33_s35800" id="p33_w851" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.43" y="399.994" base="405.69" width="8.78976" height="7.552">ali</TOKEN>
+<TOKEN sid="p33_s35801" id="p33_w852" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="409.074" base="414.77" width="22.2559" height="7.552">argues</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p33_s35802" id="p33_w853" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.116" y="409.074" base="414.77" width="24.7997" height="7.552">against</TOKEN>
+<TOKEN sid="p33_s35803" id="p33_w854" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="311.965" y="409.074" base="414.77" width="37.1966" height="7.552">something,</TOKEN>
+<seg>
+<TOKEN sid="p33_s35804" id="p33_w855" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="351.212" y="409.074" base="414.77" width="24.0012" height="7.552">navede</TOKEN>
+</seg>
+<TOKEN sid="p33_s35805" id="p33_w856" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="377.263" y="409.074" base="414.77" width="26.8006" height="7.552">razloge,</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p33_s35806" id="p33_w857" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.113" y="409.074" base="414.77" width="18.4003" height="7.552">zakaj</TOKEN>
+<TOKEN sid="p33_s35807" id="p33_w858" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.563" y="409.074" base="414.77" width="6.79608" height="7.552">bi</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p33_s35808" id="p33_w859" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="435.409" y="409.074" base="414.77" width="6.79608" height="7.552">se</TOKEN>
+</seg>
+<TOKEN sid="p33_s35809" id="p33_w860" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="418.154" base="423.85" width="15.1963" height="7.552">tisto</TOKEN>
+<TOKEN sid="p33_s35810" id="p33_w861" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="278.456" y="418.154" base="423.85" width="24.0012" height="7.552">moralo</TOKEN>
+<TOKEN sid="p33_s35811" id="p33_w862" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="304.908" y="418.154" base="423.85" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p33_s35812" id="p33_w863" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="316.155" y="418.154" base="423.85" width="7.99848" height="7.552">ne</TOKEN>
+<TOKEN sid="p33_s35813" id="p33_w864" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="326.604" y="418.154" base="423.85" width="19.5955" height="7.552">smelo</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p33_s35814" id="p33_w865" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.649" y="418.154" base="423.85" width="25.5982" height="7.552">zgoditi.</TOKEN>
+<TOKEN sid="p33_s35816" id="p33_w867" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="383.35" y="418.154" base="423.85" width="38.7936" height="7.552">prizadevati</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p33_s35817" id="p33_w868" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.594" y="418.154" base="423.85" width="5.59368" height="7.552">si</TOKEN>
+<TOKEN sid="p33_s35818" id="p33_w869" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="432.638" y="418.154" base="423.85" width="9.60336" height="7.552">za;</TOKEN>
+<TOKEN sid="p33_s35819" id="p33_w870" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="427.234" base="432.93" width="45.0605" height="7.552">nasprotovati;</TOKEN>
+<TOKEN sid="p33_s35820" id="p33_w871" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.29" y="427.234" base="432.93" width="18.8021" height="7.552">Some</TOKEN>
+<TOKEN sid="p33_s35821" id="p33_w872" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.521" y="427.234" base="432.93" width="35.9784" height="7.552">politicians</TOKEN>
+<TOKEN sid="p33_s35822" id="p33_w873" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="367.929" y="427.234" base="432.93" width="23.4454" height="7.552">argued</TOKEN>
+<TOKEN sid="p33_s35823" id="p33_w874" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.804" y="427.234" base="432.93" width="24.7954" height="7.552">against</TOKEN>
+<TOKEN sid="p33_s35824" id="p33_w875" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="421.028" y="427.234" base="432.93" width="21.1968" height="7.552">giving</TOKEN>
+<TOKEN sid="p33_s35825" id="p33_w876" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="436.314" base="442.01" width="24.3979" height="7.552">women</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

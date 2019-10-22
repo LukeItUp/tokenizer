@@ -1,0 +1,164 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spiral
+</orth>
+<form type="variant">
+<pron>
+/sp*a*I*@r@0l/
+</pron>
+</form>
+<form type="inflected">
+spirals, spiralling, spiralled;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+spiraling 
+</SV>
+in 
+<SV>
+spiraled 
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spiral 
+</seg>
+je krivulja, ki poteka tako, da je vsak naslednji lok nad prej&scaron;njim ali na njegovi zunanji strani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spirala
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a spiral staircase.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+spirals
+</seg>
+, poteka ali se premika navzgor ali navzdol v spiralni krivulji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spiralasto se gibati, delati zavoje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A small bird shot up, spiralling into the sky.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar koli&ccaron;ina ali stopnja 
+<seg type="lemma">
+spirals
+</seg>
+, se naglo dvigne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+divjati, naglo nara&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Military budgets had continued to spiral.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a wage and price spiral.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar koli&ccaron;ina ali stopnja 
+<seg type="lemma">
+spirals downwards
+</seg>
+, se naglo zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglo pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Costs started to spiral downwards.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Industry entered a spiral of decline.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

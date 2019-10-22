@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tout
+</orth>
+<form type="variant">
+<pron>
+/t*a*Ut/
+</pron>
+</form>
+<form type="inflected">
+touts, touting, touted;
+</form>
+<usg>
+pogovorna beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tout something 
+</seg>
+pomeni posku&scaron;ati nekaj prodati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponujati, prodajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an exporter touting a range of plastic toys.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tout for business or custom 
+</seg>
+pomeni posku&scaron;ati dobiti neko delo ali odjemalce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponujati se za delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...porters touting for loads at a railway station.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tout 
+</seg>
+je oseba, ki prodaja nekaj, na primer vstopnice, &ccaron;eprav za to nima dovoljenja, in zara&ccaron;unava ve&ccaron;, kot je uradna cena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preprodajalec
+</quote>
+</cit>
+</sense>
+</entry>

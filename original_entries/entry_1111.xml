@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bastard
+</orth>
+<form type="variant">
+<pron>
+/b*A*:st@d, b*&ae;s-/
+</pron>
+</form>
+<form type="inflected">
+bastards.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bastard 
+</seg>
+je &ccaron;lovek, &ccaron;igar star&scaron;a nista bila poro&ccaron;ena med seboj, ko se je rodil; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pankrt, nezakonski otrok
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekomu re&ccaron;emo, da je 
+<seg type="lemma">
+a bastard
+</seg>
+, ga &zcaron;alimo; to je &zcaron;aljivka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pankrt, svinja
+</quote>
+</cit>
+</sense>
+</entry>

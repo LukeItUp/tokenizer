@@ -5,16 +5,17 @@ appetizing
 </orth>
 <form type="variant">
 <pron>
-/*#ae;p@1taIzIN/
+/*&ae;p@1taIzIN/
 </pron>
 ;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-appetising.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+appetising
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -23,16 +24,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Hrana, ki je
+Hrana, ki je 
 <seg type="lemma">
 appetizing
 </seg>
-je videti in di&#353;i
-lepo, tako da si jo &#382;elimo jesti.
+, je videti in di&scaron;i lepo, tako da si jo &zcaron;elimo jesti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-privla&#269;en, mikaven, slasten
+privla&ccaron;en, mikaven, slasten
 </quote>
 </cit>
 </sense>

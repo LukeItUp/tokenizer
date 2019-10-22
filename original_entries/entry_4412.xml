@@ -1,0 +1,138 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ear
+</orth>
+<form type="variant">
+<pron>
+/*I*@/
+</pron>
+</form>
+<form type="inflected">
+ears.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's ears 
+</seg>
+sta dela telesa; vsak je na eni strani glave. Z njima sli&scaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uho
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+ear 
+</seg>
+uporabimo, kadar govorimo o &ccaron;lovekovi pripravljenosti, da koga poslu&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uho, posluh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to give a sympathetic ear at all times.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ears of a cereal plant 
+</seg>
+so vrhnji deli &zcaron;ita, na primer p&scaron;enice; v njih so semena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klas
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep one's ear to the ground 
+</seg>
+ali 
+<FV>
+to have one's ear to the ground 
+</FV>
+pomeni poskrbeti, da smo dobro obve&scaron;&ccaron;eni o tistem, kar se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i na u&scaron;esa
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To play a piece of music by ear 
+</seg>
+pomeni igrati neko skladbo, potem ko jo sli&scaron;imo, ne da bi brali notni zapis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati po posluhu
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn a deaf ear to something 
+</seg>
+pomeni ne zmeniti se za tisto, kar nekdo govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne poslu&scaron;ati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo pozabi tisto, kar mu povemo, lahko re&ccaron;emo 
+<seg type="lemma">
+it goes in one ear and out the other
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skozi eno uho noter in skozi drugo ven
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

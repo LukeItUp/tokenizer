@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smack
+</orth>
+<form type="variant">
+<pron>
+/sm*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+smacks, smacking, smacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smack someone 
+</seg>
+pomeni nekoga udariti z roko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klofniti, prisoliti klofuto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He smacked her on the bottom.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I gave him a smack in the face.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smack something somewhere 
+</seg>
+pomeni postaviti ali vre&ccaron;i nekaj nekam tako, da se sli&scaron;i glasen oster zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;iti, ploskniti, tre&scaron;&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He laughed, smacking the flat of his hand on the steering wheel.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She gave out the books, dropping them with a satisfying smack on each desk.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+smacks of something else
+</seg>
+, nas spominja na nekaj drugega ali je podobno ne&ccaron;emu drugemu; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+di&scaron;ati po, spominjati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Any literature other than romantic novels smacked to her of school.
+</quote>
+</seg>
+</sense>
+</entry>

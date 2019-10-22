@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+beam
+</orth>
+<form type="variant">
+<pron>
+/b*i*:m/
+</pron>
+</form>
+<form type="inflected">
+beams, beaming, beamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beam 
+</seg>
+pomeni smehljati se od sre&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;areti, smehljati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He beamed at Ralph.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a beam of satisfaction.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A beam of light 
+</seg>
+je pramen svetlobe, ki sije iz kakega predmeta, na primer od baterije ali sonca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;arek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could see the beam of his flashlight.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beam a signal or information to a place 
+</seg>
+pomeni po radijskih valovih nekam poslati signal ali informacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddajati, posredovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were able to beam pictures of the riots out to Denmark.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A beam 
+</seg>
+je tudi dolg, debel kos lesa, kovine ali betona, najve&ccaron;krat za oporo strehe na stavbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tram, bruno, pre&ccaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the low oak beams.
+</quote>
+</seg>
+</sense>
+</entry>

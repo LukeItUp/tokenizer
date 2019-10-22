@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bearing
+</orth>
+<form type="variant">
+<pron>
+/b*e*@rIN/
+</pron>
+</form>
+<form type="inflected">
+bearings.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has a bearing on a situation or event
+</seg>
+, je povezano s tisto situacijo ali dogodkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That is all in the past. It has no bearing on what is happening today.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's bearing 
+</seg>
+je na&ccaron;in, kako se &ccaron;lovek premika ali stoji; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ved&ecirc;nje, dr&zcaron;a
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To get 
+</seg>
+ali 
+<FV>
+to find one's bearings 
+</FV>
+pomeni ugotoviti, kje smo ali kaj bi morali najprej storiti. 
+<FV>
+To lose one's bearings 
+</FV>
+pomeni, da ne vemo, kje smo ali kaj moramo storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znajti se; zmesti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They stopped to get their bearings.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

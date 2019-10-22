@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+license
+</orth>
+<form type="variant">
+<pron>
+/l*a*Is@ns/
+</pron>
+</form>
+<form type="inflected">
+licenses, licensing, licensed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To license a person, organization, or activity 
+</seg>
+pomeni dati uradno dovoljenje, da sme neka oseba ali organizacija nekaj storiti ali da neka dejavnost sme potekati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoliti, odobriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Royal College examines and licenses surgeons.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+licensing
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a licensing authority.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

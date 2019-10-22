@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+silence
+</orth>
+<form type="variant">
+<pron>
+/s*a*Il@ns/
+</pron>
+</form>
+<form type="inflected">
+silences, silencing, silenced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Silence 
+</seg>
+je stanje, ko je vse tiho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ti&scaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We walked on in silence.
+</quote>
+<quote>
+There was a shocked silence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+ Someone&apos;s silence about something 
+</seg>
+pomeni, da nekdo no&ccaron;e povedati ni&ccaron;esar o dolo&ccaron;eni stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+molk, mol&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Levy&apos;s silence on the subject was unnerving.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To silence someone or something 
+</seg>
+pomeni prepre&ccaron;iti, da bi nekdo &scaron;e naprej govoril ali da bi nekaj &scaron;e naprej povzro&ccaron;alo hrup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uti&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rodin silenced him with a gesture.
+</quote>
+<quote>
+Butler&apos;s firm speech failed to silence opposition.
+</quote>
+</seg>
+</sense>
+</entry>

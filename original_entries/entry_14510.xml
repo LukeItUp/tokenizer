@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+threaten
+</orth>
+<form type="variant">
+<pron>
+/Tr*et@0n/
+</pron>
+</form>
+<form type="inflected">
+threatens, threatening, threatened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To threaten to do something 
+</seg>
+pomeni nekoga opozoriti, da bomo morda naredili nekaj, kar bo zanj slabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+groziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He threatened to resign.
+</quote>
+<quote>
+They were threatened with imprisonment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+threatens people or things
+</seg>
+, bo ljudem ali stvarem verjetno &scaron;kodovalo . 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogro&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He said that the war threatened the peace of the whole world.
+</quote>
+<quote>
+The whole country is threatened with starvation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+threatens to do something unpleasant
+</seg>
+, se zdi, da se bo zgodilo nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The riots threatened to get out of hand.
+</quote>
+</seg>
+</sense>
+</entry>

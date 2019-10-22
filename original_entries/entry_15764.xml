@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wardrobe
+</orth>
+<form type="variant">
+<pron>
+/w*O*:dr@Ub/
+</pron>
+</form>
+<form type="inflected">
+wardrobes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wardrobe 
+</seg>
+je visoka omara, v katero obesimo obla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+garderobna omara
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s wardrobe 
+</seg>
+so vsa obla&ccaron;ila neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+garderoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was familiar with her entire wardrobe.
+</quote>
+</seg>
+</sense>
+</entry>

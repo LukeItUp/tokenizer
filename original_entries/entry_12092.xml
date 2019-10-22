@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rip
+</orth>
+<form type="variant">
+<pron>
+/r*Ip/
+</pron>
+</form>
+<form type="inflected">
+rips, ripping, ripped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rips 
+</seg>
+ali 
+<seg type="lemma">
+is ripped
+</seg>
+, se nasilno strga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgati (se), razcefrati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The canvas bags had ripped.
+</quote>
+<quote>
+The poster had been ripped to pieces.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rip something away 
+</seg>
+pomeni nekaj hitro in nasilno odstraniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strgati, iztrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I ripped the phone from her hand.
+</quote>
+<quote>
+He ripped his shirt off.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rip 
+</seg>
+je dolga re&zcaron;a ali raztrgano mesto v ne&ccaron;em, kar je narejeno iz blaga ali papirja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgano mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the rip in the book.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rip off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rip someone off 
+</seg>
+pomeni nekoga ogoljufati tako, da mu za blago ali delo preve&ccaron; zara&ccaron;unamo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The local shopkeepers were all trying to rip off the tourists.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+rip up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rip something up 
+</seg>
+pomeni nekaj raztrgati na majhne ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razcefrati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

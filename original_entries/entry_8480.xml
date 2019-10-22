@@ -1,0 +1,185 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loss
+</orth>
+<form type="variant">
+<pron>
+/l*Qs/
+</pron>
+</form>
+<form type="inflected">
+losses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Loss 
+</seg>
+je dejstvo, da ne&ccaron;esa nimamo ve&ccaron; ali imamo tistega manj kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izguba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...temporary loss of vision.
+</quote>
+<quote>
+...the loss of liberty.
+</quote>
+<quote>
+...heat loss.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Loss of life 
+</seg>
+se zgodi, kadar nekdo umre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The loss of life was appalling.
+</quote>
+<quote>
+Artillery fire caused heavy losses.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The loss of a relative or friend 
+</seg>
+je smrt sorodnika ali prijatelja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smrt, izguba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the loss of my daughter and husband.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neko podjetje 
+<seg type="lemma">
+makes a loss
+</seg>
+, zaslu&zcaron;i manj kot porabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati z izgubo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The company announced a huge loss for the first half of the year.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+at a loss
+</seg>
+, ne ve, kaj naj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v zadregi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was at a complete loss as to how I could lay my hands on the money.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To cut one&apos;s losses 
+</seg>
+pomeni prenehati po&ccaron;eti tisto, kar smo po&ccaron;eli, in sprejeti poraz, da se slab polo&zcaron;aj ne bi &scaron;e bolj poslab&scaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati poraz, odnehati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You ought to cut your losses and start again.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj ali nekdo 
+<seg type="lemma">
+a dead loss
+</seg>
+, je popolnoma nekoristen ali neuspe&scaron;en; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+popolna izguba
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+birth
+</orth>
+<form type="variant">
+<pron>
+/b*$e*:T/
+</pron>
+</form>
+<form type="inflected">
+births.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Birth 
+</seg>
+je dogodek, ko se rodi otrok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a girl deaf from birth.
+</quote>
+<quote>
+...the birth of her first child.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Birth 
+</seg>
+je tudi za&ccaron;etek ali vir ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojstvo, prihod, porajanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the birth of television.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &zcaron;enska 
+<seg type="lemma">
+gives birth
+</seg>
+, iztisne dojen&ccaron;ka iz svojega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+roditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Betta gave birth to our third child.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+by birth 
+</seg>
+za navedbo narodnosti povemo, kje se je rodil neki &ccaron;lovek ali njegovi star&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po rodu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dr Cort's father is a Russian by birth.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+date of birth
+</ref>
+</xr>
+</B>
+</entry>

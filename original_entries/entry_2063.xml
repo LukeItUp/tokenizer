@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+catalogue
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;t@lQg/
+</pron>
+</form>
+<form type="inflected">
+catalogues, cataloguing, catalogued;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+catalog
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A catalogue 
+</seg>
+je knjiga, v kateri je seznam blaga, ki ga ponuja dolo&ccaron;eno podjetje, ali seznam razstavnih eksponatov v muzeju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+katalog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...expensive illustrated catalogues.
+</quote>
+<quote>
+...catalogues from publishers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To catalogue things 
+</seg>
+pomeni napraviti seznam predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+katalogizirati, vpisati v seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Books are catalogued on white cards filed alphabetically.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A catalogue of things 
+</seg>
+je vrsta stvari, ki jih na&scaron;tevamo drugo za drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Zapp recited a catalogue of her husband's sins.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To catalogue a series of similar events or qualities 
+</seg>
+pomeni na&scaron;teti vrsto sorodnih dogodkov ali lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&scaron;teti, nanizati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had been cataloguing the many discomforts of life in India.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plea
+</orth>
+<form type="variant">
+<pron>
+/pl*i*:/
+</pron>
+</form>
+<form type="inflected">
+pleas.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plea 
+</seg>
+je zelo mo&ccaron;na in &ccaron;ustvena pro&scaron;nja za kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pro&scaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She at last responded to his pleas for help.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plea 
+</seg>
+je na sodi&scaron;&ccaron;u odgovor obto&zcaron;enca na sodnikovo vpra&scaron;anje, ali se &ccaron;uti krivega ali ne; 
+</def>
+<usg>
+pravna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odgovor na obto&zcaron;nico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I agreed to enter a plea of guilty.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+circuit
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:kIt/
+</pron>
+</form>
+<form type="inflected">
+circuits.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An electrical circuit 
+</seg>
+je sklenjen krog, po katerem lahko te&ccaron;e elektri&ccaron;ni tok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektri&ccaron;ni krog
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A circuit 
+</seg>
+so tudi kraji, ki jih posameznik ali skupina redno obiskuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krog, okro&zcaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the American college lecture circuit.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A racing circuit 
+</seg>
+je proga, na kateri dirkajo avtomobili ali motorji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dirkalna steza
+</quote>
+</cit>
+</sense>
+</entry>

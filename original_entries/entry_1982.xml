@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+car
+</orth>
+<form type="variant">
+<pron>
+/k*A*:/
+</pron>
+</form>
+<form type="inflected">
+cars.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A car 
+</seg>
+je motorno vozilo, v katerem je prostor za majhno &scaron;tevilo potnikov.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(osebni) avtomobil
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+</QP>
+<seg type="example">
+<quote>
+He parked the car about a hundred yards from the gates.
+</quote>
+<quote>
+They usually go by car.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<usg>
+V ameri&scaron;ki angle&scaron;&ccaron;ini
+</usg>
+<def xml:lang="sl">
+je 
+<seg type="lemma">
+cars
+</seg>
+ poimenovanje za vagone.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vagon
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<usg>
+V britanski angle&scaron;&ccaron;ini
+</usg>
+<def xml:lang="sl">
+vagone imenujejo 
+<seg type="lemma">
+cars
+</seg>
+, kadar jih uporabljajo v dolo&ccaron;en namen.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vagon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the dining car.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cable car
+</ref>
+</xr>
+</sense>
+</entry>

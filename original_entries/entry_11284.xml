@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+puff
+</orth>
+<form type="variant">
+<pron>
+/p*Vf/
+</pron>
+</form>
+<form type="inflected">
+puffs, puffing, puffed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To puff a cigarette or pipe 
+</seg>
+ali 
+<seg type="lemma">
+to puff at a cigarette or pipe 
+</seg>
+pomeni kaditi cigareto ali pipo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He puffed his pipe for several moments.
+</quote>
+<quote>
+She puffed on the cigarette.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She raised the cigarette to her lips, intending to take a puff.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To puff 
+</seg>
+pomeni glasno in hitro dihati, ker nam po napornem delu zmanjkuje sape. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sopihati, sopsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We lugged the branch underneath, panting and puffing.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her breath came in puffs and gasps.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A puff of air or smoke 
+</seg>
+je majhna koli&ccaron;ina zraka ali dima, ki priplava od nekje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obla&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+puff out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To puff something out 
+</seg>
+pomeni napolniti nekaj z zrakom, da postane ve&ccaron;je in bolj okroglo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napihniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their chests were puffed out like angry swans.
+</quote>
+<quote>
+They puffed out their cheeks.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

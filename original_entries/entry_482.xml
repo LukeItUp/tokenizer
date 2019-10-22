@@ -11,12 +11,13 @@ anaesthetist
 <form type="inflected">
 anaesthetists;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-anesthetist.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+anesthetist
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -26,10 +27,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An anaesthetist
+An anaesthetist 
 </seg>
-je zdravnik specialist za
-dajanje anestezije.
+je zdravnik specialist za dajanje anestezije. 
 </def>
 <cit type="translationEquivalent">
 <quote>

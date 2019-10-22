@@ -1,0 +1,36 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deathbed
+</orth>
+<form type="variant">
+<pron>
+/d*eTbed/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+on his deathbed
+</seg>
+, le&zcaron;i v postelji in bo kmalu umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na smrtni postelji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On his deathbed he asked her forgiveness.
+</quote>
+</seg>
+</sense>
+</entry>

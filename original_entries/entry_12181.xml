@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+routine
+</orth>
+<form type="variant">
+<pron>
+/ru:t*i*:n/
+</pron>
+</form>
+<form type="inflected">
+routines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejavnosti, ki so 
+<seg type="lemma">
+routine
+</seg>
+, redno opravljamo kot del svojih opravil in ne zaradi kak&scaron;nega posebnega razloga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+reden, rutinski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a routine check.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+routinely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This information is routinely collected and published.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A routine 
+</seg>
+je niz stvari, ki ji ponavadi delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rutina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his daily routine.
+</quote>
+<quote>
+Davis&apos;s death has upset our routine.
+</quote>
+</seg>
+</sense>
+</entry>

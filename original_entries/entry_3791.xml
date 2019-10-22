@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+devalue
+</orth>
+<form type="variant">
+<pron>
+/di:v*&ae;lju:/
+</pron>
+</form>
+<form type="inflected">
+devalues, devaluing, devalued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To devalue something 
+</seg>
+pomeni povzro&ccaron;iti, da nekaj velja za manj pomembno in manj spo&scaron;tovanja vredno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvrednotiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Scientific expertise has been devalued.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To devalue the currency of a country 
+</seg>
+pomeni zmanj&scaron;ati vrednost valute neke dr&zcaron;ave v razmerju do tujih valut. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+devalvirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The President has devalued the dollar.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+devaluation
+</orth>
+<form type="variant">
+<pron>
+/d*i*:v&ae;lju:*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the devaluation of sterling in November 1967.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -5,10 +5,10 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p12_s12367" id="p12_w378" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="77.35" y="445.928" base="451.09" width="24.2385" height="6.844">/ædØlt,</TOKEN>
+<TOKEN sid="p12_s12367" id="p12_w378" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="77.35" y="445.928" base="451.09" width="24.2385" height="6.844">/&#230;d&#216;lt,</TOKEN>
 <TOKEN sid="p12_s12368" id="p12_w379" font-name="SLExcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="104.08" y="447.625" base="451.09" width="3.26" height="3.51625">6</TOKEN>
 <TOKEN sid="p12_s12369" id="p12_w380" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="107.66" y="445.28" base="448.69" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p12_s12370" id="p12_w381" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="110.3" y="445.928" base="451.09" width="18.6316" height="6.844">dØlt/,</TOKEN>
+<TOKEN sid="p12_s12370" id="p12_w381" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="110.3" y="445.928" base="451.09" width="18.6316" height="6.844">d&#216;lt/,</TOKEN>
 <TOKEN sid="p12_s12371" id="p12_w382" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="130.87" y="445.75" base="451.09" width="21.3691" height="7.08">adults.</TOKEN>
 </pron>
 </form>
@@ -60,7 +60,7 @@
 <TOKEN sid="p12_s12401" id="p12_w412" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="104.05" y="472.624" base="478.32" width="17.5889" height="7.552">Tudi:</TOKEN>
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p12_s12402" id="p12_w413" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="123.39" y="474.404" base="478.32" width="19.1753" height="5.192">ATTRIB</TOKEN>
@@ -69,11 +69,11 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p12_s12404" id="p12_w415" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.95" y="472.624" base="478.32" width="25.1964" height="7.552">…adult</TOKEN>
+<TOKEN sid="p12_s12404" id="p12_w415" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.95" y="472.624" base="478.32" width="25.1964" height="7.552">&#8230;adult</TOKEN>
 <TOKEN sid="p12_s12405" id="p12_w416" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.887" y="472.624" base="478.32" width="25.1878" height="7.552">insects.</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>

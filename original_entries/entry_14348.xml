@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+temperature
+</orth>
+<form type="variant">
+<pron>
+/t*empr@1tS@/
+</pron>
+</form>
+<form type="inflected">
+temperatures.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The temperature of something 
+</seg>
+je to, kako vro&ccaron;e ali mrzlo je nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temperatura
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sudden drop in temperature.
+</quote>
+<quote>
+...a temperature of 10&deg;C.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s temperature 
+</seg>
+je temperatura &ccaron;lovekovega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temperatura
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take one&apos;s temperature 
+</seg>
+pomeni s termometrom izmeriti &ccaron;lovekovo telesno temperaturo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temperatura
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a temperature 
+</seg>
+ali 
+<FV>
+to be running a temperature 
+</FV>
+pomeni, da imamo vi&scaron;jo telesno temperaturo kot ponavadi in da se slabo po&ccaron;utimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvi&scaron;ana temperatura, vro&ccaron;ina
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,336 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+beat
+</orth>
+<form type="variant">
+<pron>
+/b*i*:t/
+</pron>
+</form>
+<form type="inflected">
+beats, beating, beaten.
+</form>
+<IN>
+<IH>
+Beat 
+</IH>
+<IC>
+je oblika za sedanjik in preteklik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beat someone or something 
+</seg>
+pomeni nekoga zelo mo&ccaron;no udarjati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tol&ccaron;i, tepsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His stepfather used to beat him.
+</quote>
+<quote>
+The rain beat against the window.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptica ali &zcaron;u&zcaron;elka 
+<seg type="lemma">
+beats its wings 
+</seg>
+ali kadar 
+<seg type="lemma">
+its wings beat
+</seg>
+, se njena krila premikajo gor in dol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mahati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some birds beat their wings as fast as 80 times a second.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Flies can move their wings at 1000 beats per second.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar srce ali &zcaron;ila 
+<seg type="lemma">
+beats
+</seg>
+, utripa nepretrgoma v enakomernem ritmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+b&iacute;ti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The beat of someone's heart or pulse 
+</seg>
+je en sam udarec srca ali &zcaron;ile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utrip, pulz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He could feel the beat of her heart.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The beat of a piece of music 
+</seg>
+je osnovni ritem neke skladbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ritem
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beat eggs, cream, or butter
+</seg>
+ pomeni z vilicami ali metlico mo&ccaron;no me&scaron;ati jajca, smetano ali maslo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stepati
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beat someone in a competition 
+</seg>
+pomeni v tekmovanju nekoga premagati oziroma biti bolj&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekositi
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+to beat 
+</seg>
+uporabljamo v izrazih, kot je 
+<seg type="lemma">
+It beats me
+</seg>
+, da povemo, kadar ne&ccaron;esa ne razumemo ali ne znamo pojasniti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nimam pojma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What beats me is where they get the money from.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Policist, ki je 
+<seg type="lemma">
+on the beat
+</seg>
+, je v slu&zcaron;bi in hodi po obmo&ccaron;ju, za katerega je pristojen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na obhodu
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+beat about the bush: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+bush
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+beat down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar sonce 
+<seg type="lemma">
+beats down
+</seg>
+, je zelo vro&ccaron;e in svetlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripekati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar de&zcaron; 
+<seg type="lemma">
+beats down
+</seg>
+, mo&ccaron;no de&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liti kot iz &scaron;kafa
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To beat down a person
+</seg>
+ pomeni, da &ccaron;loveka, ki nam nekaj prodaja, prisilimo, da privoli v ni&zcaron;jo ceno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbiti ceno
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+beat up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To beat a person up 
+</seg>
+pomeni nekoga ve&ccaron;krat udariti ali brcniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premlatiti, pretepsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He told us that he had been beaten up by the police.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

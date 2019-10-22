@@ -20,10 +20,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An acquaintance
+An acquaintance 
 </seg>
-je oseba, ki smo jo &#382;e
-sre&#269;ali, vendar je ne poznamo dobro.
+je oseba, ki smo jo &zcaron;e sre&ccaron;ali, vendar je ne poznamo dobro. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -39,19 +38,18 @@ My cousin is an acquaintance of Lord Northcliffe.
 <sense n="2">
 <gramGrp>
 <pos>
-SING N
+SING N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's acquaintance with a subject
+One's acquaintance with a subject 
 </seg>
-je
-&#269;lovekovo poznavanje neke snovi ali izku&#353;enost z njo.
+je &ccaron;lovekovo poznavanje neke snovi ali izku&scaron;enost z njo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -64,14 +62,14 @@ seznanjenost
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-&#268;e &#269;lovek
+&Ccaron;e &ccaron;lovek 
 <seg type="lemma">
 makes someone's acquaintance
 </seg>
-se prvi&#269; sre&#269;a z neko osebo.
+, se prvi&ccaron; sre&ccaron;a z neko osebo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -82,16 +80,15 @@ seznaniti se z nekom
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-To have a nodding or passing acquaintance
-with someone
+To have a nodding or passing acquaintance with someone 
 </seg>
-pomeni, da osebo sicer poznamo, vendar ne preve&#269; dobro.
+pomeni, da osebo sicer poznamo, vendar ne preve&ccaron; dobro. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-be&#382;no se poznati z nekom
+be&zcaron;no se poznati z nekom
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

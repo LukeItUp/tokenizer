@@ -1,0 +1,158 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nod
+</orth>
+<form type="variant">
+<pron>
+/n*Qd/
+</pron>
+</form>
+<form type="inflected">
+nods, nodding, nodded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nods
+</seg>
+, premika glavo gor in dol v znamenje, da na vpra&scaron;anje odgovarja pritrdilno ali da se strinja, nekaj razume ali odobrava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokimati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Is it true?&rsquo; She nodded.
+</quote>
+<quote>
+He nodded his head.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To nod 
+</seg>
+pomeni tudi enkrat nagniti glavo v dolo&ccaron;eno smer in tako nekaj pokazati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z glavo pokazati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Ask him,&rsquo; said Ringbaum, nodding towards Philip.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To nod 
+</seg>
+pomeni tudi enkrat spustiti glavo navzdol v pozdrav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokimati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I nodded to the ladies and sat down.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nod 
+</seg>
+je hiter premik glave dol in nazaj gor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikimanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+From time to time, he gave him an encouraging nod.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+nod off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nods off
+</seg>
+, zaspi, zlasti &ccaron;e zaspi nenamenoma; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zadremati, zakinkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His remarks left delegates nodding off.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

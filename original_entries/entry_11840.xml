@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+repair
+</orth>
+<form type="variant">
+<pron>
+/rI1p*e*@/
+</pron>
+</form>
+<form type="inflected">
+repairs, repairing, repaired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A repair 
+</seg>
+je nekaj, kar naredimo, da popravimo napravo ali stvar, ki je pokvarjena ali ne deluje pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had left his car for repairs in the garage.
+</quote>
+<quote>
+The chairs are in need of repair.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To repair something 
+</seg>
+pomeni nekaj, kar je po&scaron;kodovano ali ne deluje, spet usposobiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No one knew how to repair the engine.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, na primer stavba, 
+<seg type="lemma">
+in good repair
+</seg>
+, je v dobrem stanju. &Ccaron;e pa je 
+<FV>
+in bad repair
+</FV>
+, je v slabem stanju; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v dobrem ali slabem stanju, dobro ali slabo vzdr&zcaron;evan
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To repair an undesirable action or situation 
+</seg>
+pomeni narediti nekaj, s &ccaron;imer popravimo neza&zcaron;eleno dejanje ali stanje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+popraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll repair the omission.
+</quote>
+</seg>
+</sense>
+</entry>

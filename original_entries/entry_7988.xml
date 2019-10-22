@@ -1,0 +1,178 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kill
+</orth>
+<form type="variant">
+<pron>
+/k*Il/
+</pron>
+</form>
+<form type="inflected">
+kills, killing, killed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+kills a person, animal or plant
+</seg>
+, povzro&ccaron;i, da neka oseba, &zcaron;ival ali rastlina umre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had tried to kill himself five times.
+</quote>
+<quote>
+The sun had killed most of the plants.
+</quote>
+<quote>
+...a desire to kill.
+</quote>
+<quote>
+Her mother was killed in a car crash.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The kill 
+</seg>
+je uboj &zcaron;ivali, potem ko jo ulovimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poboj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hunters move in for the kill.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+kills an activity, process, or feeling
+</seg>
+, prepre&ccaron;i, da bi se tista dejavnost, proces ali &ccaron;ustvo nadaljevalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatreti, uni&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His behaviour outraged me and killed our friendship.
+</quote>
+<quote>
+These latest measures killed all hope of any relaxation of the system.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To kill time 
+</seg>
+pomeni po&ccaron;eti nekaj nepomembnega ali nezanimivega, medtem ko &ccaron;akamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preganjati/zabijati &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spent long hours keeping out of the way, killing time.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+kill two birds with one stone: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+bird
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+kill off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To kill something off 
+</seg>
+pomeni nekaj popolnoma uni&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokon&ccaron;ati, iztrebiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This discovery killed off one of the last surviving romances about the place.
+</quote>
+<quote>
+The bacteria had been killed off.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

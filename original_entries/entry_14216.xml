@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tall
+</orth>
+<form type="variant">
+<pron>
+/t*O*:l/
+</pron>
+</form>
+<form type="inflected">
+taller, tallest.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali stvar, ki je 
+<seg type="lemma">
+tall
+</seg>
+, je vi&scaron;ja od povpre&ccaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+visok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a tall, dark man.
+</quote>
+<quote>
+...a tall cypress tree.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+kadar se uporablja v vpra&scaron;anjih in trditvah o vi&scaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+visok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How tall is he?
+</quote>
+<quote>
+...a six-foot tall fifteen-year-old.
+</quote>
+</seg>
+</T>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar za neko nalogo ali delo re&ccaron;emo, da je 
+<seg type="lemma">
+a tall order
+</seg>
+, mislimo, da bo te&zcaron;ko izvedljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+huda zahteva, pretirana zahteva
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar za na&ccaron;in, kako nekdo opi&scaron;e dolo&ccaron;en dogodek, re&ccaron;emo, da je 
+<seg type="lemma">
+a tall story
+</seg>
+, ho&ccaron;emo re&ccaron;i, da se nam opis zdi malo verjeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ko verjetna zgodba, za lase privle&ccaron;ena zgodba
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

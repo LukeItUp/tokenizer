@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p624_s683707" id="p624_w475" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="571.162" base="577.57" width="10.9201" height="8.514">ref</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p624_s683708" id="p624_w476" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="69.05" y="572.408" base="577.57" width="17.5916" height="6.844">/ref/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p624_s683709" id="p624_w477" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="90.25" y="572.23" base="577.57" width="13.8672" height="7.08">refs.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p624_s683710" id="p624_w478" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="107.73" y="573.654" base="577.57" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p624_s683711" id="p624_w479" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="129.189" y="573.654" base="577.57" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p624_s683712" id="p624_w480" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="136.91" y="571.874" base="577.57" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p624_s683713" id="p624_w481" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="146.11" y="571.874" base="577.57" width="9.45936" height="7.552">ref</TOKEN>
+</seg>
+<TOKEN sid="p624_s683714" id="p624_w482" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.18" y="571.874" base="577.57" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p624_s683715" id="p624_w483" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.776" y="571.874" base="577.57" width="21.1896" height="7.552">kraj{a</TOKEN>
+<TOKEN sid="p624_s683716" id="p624_w484" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.565" y="571.874" base="577.57" width="21.5928" height="7.552">oblika</TOKEN>
+<TOKEN sid="p624_s683717" id="p624_w485" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.757" y="571.874" base="577.57" width="22.788" height="7.552">besede</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p624_s683718" id="p624_w486" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1803" y="581.104" base="586.8" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p624_s683719" id="p624_w487" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="66.1801" y="581.104" base="586.8" width="25.3116" height="7.552">referee;</TOKEN>
+</seg>
+<TOKEN sid="p624_s683720" id="p624_w488" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.4918" y="581.104" base="586.8" width="36.0086" height="7.552">pogovorna</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p624_s683721" id="p624_w489" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.501" y="581.104" base="586.8" width="17.6011" height="7.552">raba.</TOKEN>
+<TOKEN sid="p624_s683723" id="p624_w491" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.33" y="581.104" base="586.8" width="22.7916" height="7.552">sodnik</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p624_s683724" id="p624_w492" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="589.622" base="596.03" width="13.4192" height="8.514">ref.</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

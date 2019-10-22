@@ -1,0 +1,238 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thing
+</orth>
+<form type="variant">
+<pron>
+/T*IN/
+</pron>
+</form>
+<form type="inflected">
+things.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+a thing 
+</seg>
+uporabljamo kot nadomestilo za druge besede, kadar ne &zcaron;elimo biti natan&ccaron;nej&scaron;i, kadar govorimo o ne&ccaron;em &zcaron;e omenjenem ali kadar bomo ve&ccaron; podrobnosti o tistem povedali v nadaljevanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvar, re&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He needed a few things so we went to the store to purchase them.
+</quote>
+<quote>
+It&apos;s silly to train a group of people just to do one thing.
+</quote>
+<quote>
+A terrible thing happened to me on my way to work.
+</quote>
+<quote>
+The fourth drawer holds family things such as photographs and letters.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thing 
+</seg>
+je predmet, ne pa rastlina, &zcaron;ival ali &ccaron;love&scaron;ko bitje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s only interested in things and not people.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s things 
+</seg>
+so &ccaron;lovekove obleke in lastnina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvari
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She changed into her bathing things.
+</quote>
+<quote>
+I like my own things around me: my photos and books.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+things 
+</seg>
+se nana&scaron;a na &zcaron;ivljenje nasploh in to, kako &zcaron;ivljenje vpliva na nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvari
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Things are going very well for us at the moment.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+a thing 
+</seg>
+lahko uporabimo tudi za osebo ali &zcaron;ival, ko izra&zcaron;amo svoja &ccaron;ustva do tiste osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bitje, stvarca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was very cold, poor thing.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+the thing is 
+</seg>
+uvedemo razlago ali mnenje, ki se nana&scaron;a na nekaj &zcaron;e povedanega; 
+</def>
+<usg>
+rabimo v govoru.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stvar je namre&ccaron; v tem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can&apos;t come on Thursday. The thing is, I&apos;ve already arranged to do something on Thursday.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+for one thing 
+</seg>
+uporabimo, kadar &zcaron;elimo navesti samo en razlog za nekaj, zraven pa opozoriti, da jih je &scaron;e ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;e zato, ker
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I prefer badminton to squash. It&apos;s not so tiring for one thing.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+it is just one of those things 
+</seg>
+pomeni, da ne znamo pojasniti, zakaj se nekaj dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+take stvari se pa&ccaron; dogajajo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have or make a thing about someone or something 
+</seg>
+pomeni gojiti mo&ccaron;na &ccaron;ustva do nekoga ali ne&ccaron;esa in mu pripisovati velik pomen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+imeti nekaj proti, iti na &zcaron;ivce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve got a thing about drinking.
+</quote>
+<quote>
+He made a big thing of not eating chilli.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

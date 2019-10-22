@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mill
+</orth>
+<form type="variant">
+<pron>
+/m*Il/
+</pron>
+</form>
+<form type="inflected">
+mills, milling, milled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mill 
+</seg>
+je stavba, v kateri meljejo &zcaron;ito, da dobijo moko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sends his crop to a large mill instead of grinding it himself.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mill 
+</seg>
+je tudi tovarna, v kateri izdelujejo jeklo ali predelujejo volno ali bomba&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovarna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had worked in a steel mill.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+run-of-the-mill
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mill about 
+<VS>
+ali 
+</VS>
+<VV>
+mill around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+are milling about 
+</seg>
+ali 
+<seg type="variant">
+are milling around
+</seg>
+, se neurejeno gibljejo na nekem prostoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Students and staff were milling about.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

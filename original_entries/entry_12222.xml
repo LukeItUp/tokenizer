@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rumble
+</orth>
+<form type="variant">
+<pron>
+/r*Vmb@0l/
+</pron>
+</form>
+<form type="inflected">
+rumbles, rumbling, rumbled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rumbles
+</seg>
+, oddaja ponavljajo&ccaron;e se globoke zvoke, zlasti med po&ccaron;asnim premikanjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bobneti, ropotati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the rumbling noise of barrels being rolled down the ramp.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a menacing rumble of distant thunder.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

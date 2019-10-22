@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+male
+</orth>
+<form type="variant">
+<pron>
+/m*e*Il/
+</pron>
+</form>
+<form type="inflected">
+males.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A male 
+</seg>
+je oseba ali &zcaron;ival, ki pripada tistemu od obeh spolov, ki ne more roditi ali le&ccaron;i jajc. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&scaron;ki, samec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The males establish a breeding territory.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...male hamsters.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+male
+</seg>
+, se nana&scaron;a na mo&scaron;ke ali zadeva mo&scaron;ke, &zcaron;ensk pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...male unemployment.
+</quote>
+</seg>
+</sense>
+</entry>

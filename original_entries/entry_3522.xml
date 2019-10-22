@@ -1,0 +1,199 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+decide
+</orth>
+<form type="variant">
+<pron>
+/di1s*a*Id/
+</pron>
+</form>
+<form type="inflected">
+decides, deciding, decided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+ADJUNCT, 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+decides to do something
+</seg>
+, se odlo&ccaron;i, da bo nekaj storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skleniti, odlo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What made you decide to get married?
+</quote>
+<quote>
+I&apos;m glad you decided against a career as a waiter.
+</quote>
+<quote>
+She decided that she would leave.
+</quote>
+<quote>
+He has a month to decide whether he&apos;s going to stay.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+decided
+</seg>
+, se ljudje odlo&ccaron;ijo, kaj bi moralo biti storjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The case is to be decided by the International Court.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neki dogodek ali dejstvo 
+<seg type="lemma">
+decides something
+</seg>
+, zagotovi, da je dolo&ccaron;ena posledica nujna ali neizogibna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;iti, zape&ccaron;atiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was this that decided the fate of the company.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deciding
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I suppose cost shouldn&apos;t be a deciding factor.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To decide that something is the case 
+</seg>
+pomeni ustvariti si neko mnenje, potem ko razmislimo o dejstvih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skleniti, odlo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He decided that the doorbell was broken.
+</quote>
+<quote>
+I couldn&apos;t decide whether she was joking or not.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+decide on 
+<VS>
+ali 
+</VS>
+<VV>
+decide upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To decide on something 
+</seg>
+ali 
+<seg type="variant">
+to decide upon something 
+</seg>
+pomeni izbrati med dvema ali ve&ccaron; mo&zcaron;nostmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrati, odlo&ccaron;iti se za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He decided on a career in the army.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

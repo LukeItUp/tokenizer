@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+paw
+</orth>
+<form type="variant">
+<pron>
+/p*O*:/
+</pron>
+</form>
+<form type="inflected">
+paws, pawing, pawed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The paws 
+</seg>
+so noge &zcaron;ivali, kot je ma&ccaron;ka, pes ali medved. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ta&ccaron;ka; &scaron;apa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a black cat with white paws.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+paws something
+</seg>
+, s tacami ali kremplji vle&ccaron;e po ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+praskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bulls pawing the earth.
+</quote>
+<quote>
+The dog pawed at the door again.
+</quote>
+</seg>
+</sense>
+</entry>

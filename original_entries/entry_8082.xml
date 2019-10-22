@@ -1,0 +1,283 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+land
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;nd/
+</pron>
+</form>
+<form type="inflected">
+lands, landing, landed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Land 
+</seg>
+so tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlja, zemlji&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s good agricultural land.
+</quote>
+<quote>
+...a piece of land.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s land 
+</seg>
+ali 
+<seg type="variant">
+one&apos;s lands 
+</seg>
+je ozemlje, ki ga ima nekdo v lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlji&scaron;&ccaron;e
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Land 
+</seg>
+ali 
+<seg type="lemma">
+the land 
+</seg>
+se nana&scaron;a na del sveta, ki je trden, v nasprotju z morjem ali zrakom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We turned away from land and headed out to sea.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular land 
+</seg>
+je dolo&ccaron;ena pokrajina; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+de&zcaron;ela
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a land where there is never any rain.
+</quote>
+<quote>
+Australia is the land of opportunities.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj ali nekdo 
+<seg type="lemma">
+lands somewhere
+</seg>
+, pride nekje na tla ali v vodo, potem ko se je premikal po zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The last man slipped and landed in the water.
+</quote>
+<quote>
+His plane lands at six-thirty.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To land people or goods somewhere 
+</seg>
+pomeni osebe ali blago nekje odlo&zcaron;iti po koncu potovanja, predvsem z ladjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeljati, odlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...small ships sailing from Florida to land arms and combatants.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+lands in an unpleasant situation 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+lands someone in an unpleasant situation
+</seg>
+, se tisti &ccaron;lovek znajde v neprijetnem polo&zcaron;aju; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pristati; spraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That would have landed him in jail.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To land someone with something 
+</seg>
+pomeni povzro&ccaron;iti, da se mora nekdo ukvarjati z ne&ccaron;im, kar povzro&ccaron;a te&zcaron;ave; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nekaj nekomu obesiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You landed us with that awful man.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+land up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To land up in a particular place or situation 
+</seg>
+pomeni prispeti na dolo&ccaron;en kraj ali v dolo&ccaron;en polo&zcaron;aj po dolgem potovanju ali na koncu vrste dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati nekje, znajti se nekje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She landed up in Rome.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

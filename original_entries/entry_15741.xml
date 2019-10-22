@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wall
+</orth>
+<form type="variant">
+<pron>
+/w*O*:l/
+</pron>
+</form>
+<form type="inflected">
+walls.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wall 
+</seg>
+je ena od navpi&ccaron;nih ploskev stavbe ali sobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stena, zid
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HOUSE AND FLAT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+There was a picture on the wall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wall 
+</seg>
+je tudi navpi&ccaron;na, dolga, ozka struktura iz kamna ali opeke, ki obkro&zcaron;a ali lo&ccaron;uje zemlji&scaron;&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zid
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We crouched behind the wall and waited.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The wall of something 
+</seg>
+je stranski del tistega, kar je votlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the cell walls of plants.
+</quote>
+</seg>
+</sense>
+</entry>

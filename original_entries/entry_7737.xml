@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invert
+</orth>
+<form type="variant">
+<pron>
+/Inv*$e*:t/
+</pron>
+</form>
+<form type="inflected">
+inverts, inverting, inverted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To invert something 
+</seg>
+pomeni nekaj obrniti z zgornjo stranjo navzdol ali z zadnjo naprej; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preobrniti, prekucniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chairs are inverted on the tables.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inverted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was shaped like an inverted cone.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

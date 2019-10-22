@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glimmer
+</orth>
+<form type="variant">
+<pron>
+/gl*Im@/
+</pron>
+</form>
+<form type="inflected">
+glimmers, glimmering, glimmered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+glimmers
+</seg>
+, ustvarja bledo, pogosto neenakomerno svetlobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+migljati, svetlikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The pearl glimmered faintly as she moved.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The sky was pink with the first, far-off glimmer of the dawn.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A glimmer 
+</seg>
+ali 
+<seg type="variant">
+a glimmering of something 
+</seg>
+je komaj zaznavno znamenje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preblisk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He showed no glimmer of interest in them.
+</quote>
+<quote>
+...the first glimmerings of hope.
+</quote>
+</seg>
+</sense>
+</entry>

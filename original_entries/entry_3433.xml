@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dare
+</orth>
+<form type="variant">
+<pron>
+/d*e*@/
+</pron>
+</form>
+<form type="inflected">
+dares, daring, dared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+SEMI-MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dare 
+</seg>
+uporabljamo kot samostojen ali nepravi naklonski glagol. Kadar &ccaron;lovek 
+<seg type="lemma">
+dares to do something
+</seg>
+, ima dovolj poguma, da nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upati si, drzniti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She did not dare to look at him.
+</quote>
+<quote>
+He dared not show that he was pleased.
+</quote>
+<quote>
+I can&apos;t do that&mdash;I simply wouldn&apos;t dare.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dare someone to do something 
+</seg>
+pomeni nekomu predlagati, naj nekaj stori, da bi dokazal svoj pogum. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izzvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He looked round fiercely, daring them to contradict.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dare 
+</seg>
+je izziv, naj storimo nekaj nevarnega ali stra&scaron;ljivega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izziv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was many years since James had accepted a dare.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Don&apos;t you dare 
+</seg>
+re&ccaron;emo, kadar nekomu jezno uka&zcaron;emo, naj ne&ccaron;esa ne stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne drzni si, samo poskusi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t you dare throw it away.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+I dare say 
+</seg>
+ali 
+<FV>
+I daresay 
+</FV>
+re&ccaron;emo, &ccaron;e ho&ccaron;emo povedati, da je nekaj po na&scaron;em mnenju verjetno res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upam si trditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I daresay you&apos;ve spent all your money by now.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+phase
+</orth>
+<form type="variant">
+<pron>
+/f*e*Iz/
+</pron>
+</form>
+<form type="inflected">
+phases, phasing, phased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A phase 
+</seg>
+je stopnja v dogajanju ali poteku ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja, obdobje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have moved into a new phase in European history.
+</quote>
+<quote>
+...cameras set to record every phase of the eclipse.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+phases a change over a period of time
+</seg>
+, poskrbi, da sprememba poteka v ve&ccaron; stopnjah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postopno izvesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The reduction in nuclear weapons would be phased over ten years.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+phase in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+phases in something new
+</seg>
+, nekaj novega uvaja v ve&ccaron; stopnjah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uvajati, vpeljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a plan to phase in equal pay.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+phase out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+phases something out
+</seg>
+, postopno neha tisto uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukinjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This type of weapon was now being finally phased out.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+commemorate
+</orth>
+<form type="variant">
+<pron>
+/k@m*em@reIt/
+</pron>
+</form>
+<form type="inflected">
+commemorates, commemorating, commemorated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar, ki 
+<seg type="lemma">
+commemorates a person or an event
+</seg>
+, naj bi ljudi spominjala na nekega &ccaron;loveka ali dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spominjati, po&ccaron;astiti spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a monument commemorating a great soldier.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To commemorate an event 
+</seg>
+pomeni storiti nekaj posebnega v znamenje, da se spominjamo nekega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;astiti spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Jewish holiday commemorating the destruction of the Temple.
+</quote>
+</seg>
+</sense>
+</entry>

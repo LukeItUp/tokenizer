@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mail
+</orth>
+<form type="variant">
+<pron>
+/m*e*Il/
+</pron>
+</form>
+<form type="inflected">
+mails, mailing, mailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mail 
+</seg>
+so pisma in paketi, ki jih dostavlja po&scaron;tna slu&zcaron;ba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;ta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If there&apos;s anything urgent in the mail, I&apos;ll deal with it.
+</quote>
+<quote>
+Minnie was alone in the post office, sorting mail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The mail 
+</seg>
+je sistem, ki ga uporablja po&scaron;tna slu&zcaron;ba za zbiranje in dostavo pisem in paketov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;ta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Send it to me by mail.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mails something
+</seg>
+, to po&scaron;lje po po&scaron;ti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati (po po&scaron;ti)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The books had to be mailed directly from the publisher.
+</quote>
+</seg>
+</sense>
+</entry>

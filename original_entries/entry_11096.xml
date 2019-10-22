@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+probe
+</orth>
+<form type="variant">
+<pron>
+/pr*@*Ub/
+</pron>
+</form>
+<form type="inflected">
+probes, probing, probed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To probe 
+</seg>
+pomeni posku&scaron;ati nekaj ugotoviti s spra&scaron;evanjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrtati v kaj, raziskovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had learnt not to probe too far.
+</quote>
+<quote>
+...to probe the mysteries of the universe.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a probe into suspected drug dealing in Florida.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

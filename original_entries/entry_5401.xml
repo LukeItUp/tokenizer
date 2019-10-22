@@ -1,0 +1,272 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fix
+</orth>
+<form type="variant">
+<pron>
+/f*Iks/
+</pron>
+</form>
+<form type="inflected">
+fixes, fixing, fixed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fix something somewhere 
+</seg>
+pomeni nekaj trdno in varno nekam pritrditi ali dati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritrditi, pripeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had the sign fixed to the gate.
+</quote>
+<quote>
+She fixed a jewelled brooch on her dress.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fix one&apos;s eyes or attention on something 
+</seg>
+pomeni nekaj gledati ali o ne&ccaron;em razmi&scaron;ljati v popolni zbranosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upreti, usmeriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She fixed her brown eyes on him.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fix the date or amount of something 
+</seg>
+pomeni natan&ccaron;no dolo&ccaron;iti in opredeliti, kateri datum ali kolik&scaron;na koli&ccaron;ina ne&ccaron;esa bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All that remained was to fix the date of the wedding.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fix something 
+</seg>
+pomeni nekaj popraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti, usposobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I learned how to fix radios in the Army.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je bila dirka ali tekma 
+<seg type="lemma">
+fixed
+</seg>
+, je bila zmaga dose&zcaron;ena po krivici ali nepo&scaron;teno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dogovorjen
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fix someone a drink or some food 
+</seg>
+pomeni nekomu pripraviti pija&ccaron;o ali hrano; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pripraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Would you like me to fix you a drink?
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fix 
+</seg>
+je injekcija narkotika, na primer heroina; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+doza
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+fixed
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fix up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fix someone up with something 
+</seg>
+pomeni nekomu priskrbeti nekaj, kar potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priskrbeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They told me that they could fix me up with tickets.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fix something up 
+</seg>
+pomeni nekaj pripraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+organizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The holiday is all fixed up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

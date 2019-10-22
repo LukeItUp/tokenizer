@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+converse,
+</orth>
+<form type="inflected">
+converses, conversing, conversed;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/k@7nv*$e*:s/
+</pron>
+, samostalnik ali pridevnik pa 
+<pron>
+/k*Qnv3:s/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To converse with someone 
+</seg>
+pomeni govoriti z nekom; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pogovarjati se, ob&ccaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I consider it a privilege to have conversed with you.
+</quote>
+<quote>
+After the meeting, members conversed in small groups.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The converse of a statement or fact 
+</seg>
+je nasprotje neke trditve ali dejstva ali njegova obrnjena oblika. Na primer 
+<FV>
+the converse of 
+<seg type="lemma">
+&lsquo;investment stimulates growth&rsquo;
+</seg>
+ 
+</FV>
+je 
+<FV>
+<seg type="lemma">
+&lsquo;growth stimulates investment&rsquo;
+</seg>
+. 
+</FV>
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasprotje, nasprotna trditev
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Political power is used to win economic power. But the converse process is just as common.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+conversely
+</orth>
+<form type="variant">
+<pron>
+/k@7nv*$e*:sli1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You can use beer yeast for bread-making. Conversely, you can use bread yeast in beer-making.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

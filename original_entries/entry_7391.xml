@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+induce
+</orth>
+<form type="variant">
+<pron>
+/Indj*u*:s/
+</pron>
+</form>
+<form type="inflected">
+induces, inducing, induced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To induce a particular state or condition 
+</seg>
+pomeni povzro&ccaron;iti dolo&ccaron;eno stanje ali okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...pills guaranteed to induce sleep.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To induce someone to do something 
+</seg>
+pomeni nekoga pregovoriti ali vplivati nanj, da nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napeljati, prepri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What on earth had induced her to marry a man like that?
+</quote>
+</seg>
+</sense>
+</entry>

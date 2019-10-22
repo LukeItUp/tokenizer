@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smoking
+</orth>
+<form type="variant">
+<pron>
+/sm*@*UkIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Smoking 
+</seg>
+je &ccaron;lovekova navada, da kadi cigarete, cigare ali pipo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kajenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Does smoking cause cancer?
+</quote>
+<quote>
+I&apos;m trying to give up smoking.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Del prostora ali prostor, ki je 
+<seg type="lemma">
+smoking
+</seg>
+, je namenjen kadilcem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kadilski, za kadilce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you want to go in the smoking or non-smoking section?
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+liable
+</orth>
+<form type="variant">
+<pron>
+/l*a*I*@b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+liable to happen
+</seg>
+, se bo zelo verjetno zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verjeten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The play is liable to give offence to many people.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so ljudje ali stvari 
+<seg type="lemma">
+liable to something
+</seg>
+, bodo verjetno nekaj do&zcaron;iveli; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nagnjen, predisponiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was liable to sea-sickness.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be liable for a debt 
+</seg>
+pomeni biti zakonsko odgovoren za neki dolg. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti dol&zcaron;an pla&ccaron;ati
+</quote>
+</cit>
+</sense>
+</entry>

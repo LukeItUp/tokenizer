@@ -1,0 +1,177 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+regard
+</orth>
+<form type="variant">
+<pron>
+/rI1g*A*:d/
+</pron>
+</form>
+<form type="inflected">
+regards, regarding, regarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To regard someone or something as being a particular thing or as having a particular quality 
+</seg>
+pomeni misliti, da ima oseba ali stvar dolo&ccaron;eno lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I regard it as one of my masterpieces.
+</quote>
+<quote>
+She now regarded herself as a woman.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To regard something or someone with a particular feeling 
+</seg>
+pomeni, da imamo do osebe ali stvari dolo&ccaron;ena &ccaron;ustva ali ob&ccaron;utke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gledati na koga z dolo&ccaron;enimi ob&ccaron;utki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is regarded with some suspicion by the country&apos;s leaders.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a high regard for someone 
+</seg>
+pomeni, da &ccaron;loveka zelo cenimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spo&scaron;tovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have a high regard for Mike.
+</quote>
+<quote>
+My regard for him grew day by day.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+regards 
+</seg>
+uporabljamo v frazah kot 
+<seg type="lemma">
+best regards
+</seg>
+ ali 
+<seg type="lemma">
+with warm regards
+</seg>
+, da poka&zcaron;emo prijateljska &ccaron;ustva do nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozdravi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Give my regards to your daughter.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazi 
+<seg type="lemma">
+as regards
+</seg>
+, 
+<FV>
+with regard to
+</FV>
+ ali 
+<FV>
+in regard to 
+</FV>
+lahko uvedemo t&eacute;mo, o kateri bomo govorili; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+glede, kar zadeva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As regards the car, I put an advertisement in the paper.
+</quote>
+<quote>
+With regard to the gas fire, we hardly use it.
+</quote>
+<quote>
+My upbringing was fairly strict in regard to obedience and truthfulness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

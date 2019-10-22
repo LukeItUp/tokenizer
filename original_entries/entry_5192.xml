@@ -1,0 +1,137 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+father
+</orth>
+<form type="variant">
+<pron>
+/f*A*:D@/
+</pron>
+</form>
+<form type="inflected">
+fathers, fathering, fathered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s father 
+</seg>
+je &ccaron;lovekov roditelj mo&scaron;kega spola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;e
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar mo&scaron;ki 
+<seg type="lemma">
+fathers a child
+</seg>
+, &zcaron;enska zanosi z njim in se jima rodi otrok; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zaploditi, biti o&ccaron;e
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The father of something 
+</seg>
+je mo&scaron;ki, ki je nekaj izna&scaron;el ali za&ccaron;el. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;e, za&ccaron;etnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chaucer is often said to be the father of English poetry.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V nekaterih kr&scaron;&ccaron;anskih Cerkvah duhovnika naslavljajo ali omenjajo kot 
+<seg type="lemma">
+Father
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+O&ccaron;e
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PROPER N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kristjani pogosto imenujejo Boga 
+<seg type="lemma">
+our Father 
+</seg>
+ali ga naslavljajo 
+<seg type="lemma">
+Father
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+O&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Heavenly Father, hear our prayers.
+</quote>
+</seg>
+</sense>
+</entry>

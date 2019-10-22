@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+snipe
+</orth>
+<form type="variant">
+<pron>
+/sn*a*Ip/
+</pron>
+</form>
+<form type="inflected">
+snipes, sniping, sniped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To snipe at someone 
+</seg>
+pomeni kritizirati nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti na piko, napadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The unions are an easy target to snipe at.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To snipe at someone 
+</seg>
+pomeni tudi streljati na nekoga iz zasede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streljati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Just then someone started sniping at us.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sniper
+</orth>
+<form type="variant">
+<pron>
+/sn*a*Ip@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a sniper&apos;s bullet.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

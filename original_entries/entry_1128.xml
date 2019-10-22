@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+battery
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;t@0ri1/
+</pron>
+</form>
+<form type="inflected">
+batteries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A battery 
+</seg>
+je naprava, ki proizvaja elektriko, na primer v bateriji ali radiu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+baterija, akumulator
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A battery of things, people, or events 
+</seg>
+je veliko &scaron;tevilo predmetov, oseb ali dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Batteries of cameras were set to record the event.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Koko&scaron;i, ki so 
+<seg type="lemma">
+battery
+</seg>
+, &zcaron;ivijo v majhnih kletkah in le&zcaron;ejo veliko jajc. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+industrijski, baterijski
+</quote>
+</cit>
+</sense>
+</entry>

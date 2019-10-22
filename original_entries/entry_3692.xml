@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deport
+</orth>
+<form type="variant">
+<pron>
+/di1p*O:t/
+</pron>
+</form>
+<form type="inflected">
+deports, deporting, deported.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka vlada 
+<seg type="lemma">
+deports foreigners
+</seg>
+, po&scaron;lje tujce iz dr&zcaron;ave, ker so zagre&scaron;ili zlo&ccaron;in ali so v dr&zcaron;avi brez uradnega dovoljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgnati, pregnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was deported to France.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deportation
+</orth>
+<form type="variant">
+<pron>
+/d*i*:pO:t*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They were prepared to risk deportation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

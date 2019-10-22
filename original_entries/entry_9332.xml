@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mummy
+</orth>
+<form type="variant">
+<pron>
+/m*Vmi1/
+</pron>
+</form>
+<form type="inflected">
+mummies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mummy 
+</seg>
+pomeni mama; 
+</def>
+<usg>
+pogovorna beseda, zlasti v otro&scaron;kem jeziku;
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mummy put me on the train at Victoria.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mummy 
+</seg>
+je truplo, ki so ga v davni preteklosti zavarovali pred razkrojem tako, da so ga namazali z olji in zavili v povoje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mumija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a gilded Egyptian mummy case.
+</quote>
+</seg>
+</sense>
+</entry>

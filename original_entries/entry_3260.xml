@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cross-section,
+</orth>
+<form type="inflected">
+cross-sections.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cross-section
+</seg>
+ je zna&ccaron;ilen ali reprezentativen vzorec ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prerez, povpre&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It attracts a remarkable cross-section of the public.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cross-section of an object 
+</seg>
+je tisto, kar bi videli, &ccaron;e bi predmet prerezali naravnost po sredini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prerez
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cross-section of a human brain.
+</quote>
+</seg>
+</sense>
+</entry>

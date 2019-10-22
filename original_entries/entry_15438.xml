@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+usher
+</orth>
+<form type="variant">
+<pron>
+/*VS@/
+</pron>
+</form>
+<form type="inflected">
+ushers, ushering, ushered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To usher someone somewhere 
+</seg>
+pomeni nekomu pokazati, kam naj gre, in ga morda tudi spremiti do tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(od)peljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hostess ushered me into the room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An usher 
+</seg>
+je oseba, ki ljudem poka&zcaron;e, kam naj sedejo, na primer na poroki ali koncertu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biljeter; hostesa
+</quote>
+</cit>
+</sense>
+</entry>

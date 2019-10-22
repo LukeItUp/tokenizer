@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+remind
+</orth>
+<form type="variant">
+<pron>
+/rI1m*a*Ind/
+</pron>
+</form>
+<form type="inflected">
+reminds, reminding, reminded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To remind someone about a fact or event 
+</seg>
+pomeni, da namerno re&ccaron;emo nekaj, zaradi &ccaron;esar &ccaron;lovek pomisli na dejstvo ali dogodek, ki ga &zcaron;e pozna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had to remind him that he had a wife.
+</quote>
+<quote>
+Miss Lemon reminded him of two appointments.
+</quote>
+<quote>
+Remind me to speak to you about Davis.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To remind someone of another person or thing 
+</seg>
+pomeni, da je nekdo ali nekaj tako podobno neki drugi osebi ali stvari, da pomislimo na tisto drugo osebo ali stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spominjati na koga ali kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your son reminds me of you at his age.
+</quote>
+</seg>
+</sense>
+</entry>

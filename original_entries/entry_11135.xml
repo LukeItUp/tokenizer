@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+program
+</orth>
+<form type="variant">
+<pron>
+/pr*@*Ugr&ae;m/
+</pron>
+</form>
+<form type="inflected">
+programs, programming, programmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A program 
+</seg>
+je niz navodil, po katerih dela ra&ccaron;unalnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+program
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To program a computer 
+</seg>
+pomeni dati ra&ccaron;unalniku niz navodil, da bo lahko opravljal dolo&ccaron;eno nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+programirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can computers be programmed to hold intelligent conversations?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+programming
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...computer programming.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+Program 
+</seg>
+je tudi ameri&scaron;ka pisava za 
+<ref>
+programme
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rt
+</quote>
+</cit>
+</sense>
+</entry>

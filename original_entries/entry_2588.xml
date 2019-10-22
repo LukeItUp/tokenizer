@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+college
+</orth>
+<form type="variant">
+<pron>
+/k*QlIdZ/
+</pron>
+</form>
+<form type="inflected">
+colleges.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A college 
+</seg>
+je ustanova, kjer &scaron;tudentje &scaron;tudirajo, potem ko kon&ccaron;ajo srednjo &scaron;olo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolid&zcaron;, akademija, visoka &scaron;ola
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the local technical college.
+</quote>
+<quote>
+What do you plan to do after college?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A college 
+</seg>
+je ena od univerzitetnih ustanov, na katere so razdeljene nekatere britanske univerze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolid&zcaron;, fakulteta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Jesus College, Cambridge.
+</quote>
+</seg>
+</sense>
+</entry>

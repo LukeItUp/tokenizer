@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+debit
+</orth>
+<form type="variant">
+<pron>
+/d*ebIt/
+</pron>
+</form>
+<form type="inflected">
+debits, debiting, debited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar banka 
+<seg type="lemma">
+debits one&apos;s account
+</seg>
+, nekomu z ra&ccaron;una vzame denar in ga izpla&ccaron;a drugemu &ccaron;loveku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obremeniti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A debit 
+</seg>
+je zapis o tem, koliko denarja smo dvignili z ban&ccaron;nega ra&ccaron;una, na primer takrat, ko napi&scaron;emo &ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolg, debet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a statement showing all the credits and debits.
+</quote>
+</seg>
+</sense>
+</entry>

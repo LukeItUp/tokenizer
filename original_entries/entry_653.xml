@@ -5,7 +5,7 @@ apt
 </orth>
 <form type="variant">
 <pron>
-/*#ae;pt/.
+/*&ae;pt/
 </pron>
 </form>
 </form>
@@ -17,9 +17,9 @@ ADJ
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Apt
+Apt 
 </seg>
-pomeni primeren.
+pomeni primeren. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -36,7 +36,6 @@ ustrezen
 <orth>
 aptly
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -52,20 +51,19 @@ ADV
 <sense n="2">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
 TO-INF
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-apt to behave in a particular
-way
+apt to behave in a particular way
 </seg>
-se pogosto vede na dolo&#269;en na&#269;in.
+, se pogosto vede na dolo&ccaron;en na&ccaron;in. 
 </def>
 <cit type="translationEquivalent">
 <quote>

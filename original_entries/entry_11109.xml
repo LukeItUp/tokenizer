@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prod
+</orth>
+<form type="variant">
+<pron>
+/pr*Qd/
+</pron>
+</form>
+<form type="inflected">
+prods, prodding, prodded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prod someone or something 
+</seg>
+pomeni na hitro potisniti prst ali koni&ccaron;ast predmet v nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbosti, &scaron;pikniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She prodded a bean with her fork.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Mrs Travers gave her a prod.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prod someone into doing something 
+</seg>
+pomeni opomniti ali prepri&ccaron;evati nekoga, naj nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...companies who prod the ministry into action every now and again.
+</quote>
+</seg>
+</sense>
+</entry>

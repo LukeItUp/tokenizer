@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quote
+</orth>
+<form type="variant">
+<pron>
+/kw*@*Ut/
+</pron>
+</form>
+<form type="inflected">
+quotes, quoting, quoted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To quote someone or something
+</seg>
+ pomeni, da natan&ccaron;no ponovimo, kar je neka oseba napisala ali rekla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navesti, citirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was quoted in the paper as saying: &lsquo;This strike is evil.&rsquo;
+</quote>
+<quote>
+She quoted the Chinese proverb about candles.
+</quote>
+<quote>
+...quoting from a book he'd read.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To quote something
+</seg>
+ pomeni omeniti nekaj, na primer zakon ali dejstvo, zato, ker potrjuje na&scaron;e besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They quote figures to compare the costs of adult education in different countries.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quote from a book, poem, or play 
+</seg>
+je stavek ali besedna zveza iz neke knjige, pesmi ali igre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navedek, citat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a quote from the Bible.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quote for a piece of work 
+</seg>
+je znesek, za katerega nekdo pravi, da ga bo zara&ccaron;unal, da bi opravil neko delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponudba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Get a quote from a caterer for a big party.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Quotes 
+</seg>
+je druga beseda za 
+<seg type="lemma">
+quotation marks
+</seg>
+; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+narekovaji
+</quote>
+</cit>
+</sense>
+</entry>

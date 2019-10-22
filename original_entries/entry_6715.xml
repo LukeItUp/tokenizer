@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+herald
+</orth>
+<form type="variant">
+<pron>
+/h*er@ld/
+</pron>
+</form>
+<form type="inflected">
+heralds, heralding, heralded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+heralds a future event or situation
+</seg>
+, je znamenje, da se bo neki dogodek zgodil, ali najava dolo&ccaron;enih okoli&scaron;&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najaviti, napovedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His rise to power heralded the end of the liberal era.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The herald of a future event or situation 
+</seg>
+je znamenje prihodnjega dogodka ali okoli&scaron;&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The festival was the herald of a new age.
+</quote>
+</seg>
+</sense>
+</entry>

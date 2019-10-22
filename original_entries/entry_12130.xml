@@ -1,0 +1,350 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+roll
+</orth>
+<form type="variant">
+<pron>
+/r*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+rolls, rolling, rolled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rolls
+</seg>
+, se premika po neki povr&scaron;ini in se pri tem velikokrat obrne okoli svoje osi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kotaliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bucket rolled and clattered down the path.
+</quote>
+<quote>
+He rolled a boulder down the slope.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vozila 
+<seg type="lemma">
+roll along
+</seg>
+, se premikajo po cesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati, voziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Trucks with loudspeakers rolled through the streets.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kapljice teko&ccaron;ine 
+<seg type="lemma">
+roll down a surface
+</seg>
+, hitro drsijo po neki povr&scaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;i, polzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stood in a corner with tears rolling down his face.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To roll something into a cylinder or a ball
+</seg>
+ ali 
+<seg type="lemma">
+to roll a cylinder or a ball up 
+</seg>
+pomeni narediti valj ali kroglo iz ne&ccaron;esa, tako da tisto ve&ccaron;krat ovijemo okoli njegove osi ali oblikujemo med rokami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went on sorting the socks, rolling them into neat little bundles.
+</quote>
+<quote>
+The mattress was rolled up.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rolled
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a rolled newspaper.
+</quote>
+<quote>
+...a rolled umbrella.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A roll of paper or cloth 
+</seg>
+je dolg kos papirja ali blaga, ki je velikokrat ovit okoli sebe ali kakega tulca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvitek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a roll of film.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A roll 
+</seg>
+je majhen okrogel kruh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tru&ccaron;ka; hleb&ccaron;ek, bombeta
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A roll 
+</seg>
+je tudi uradni seznam imen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the roll of members.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A roll of drums 
+</seg>
+je dolg bobne&ccaron; zvok bobnov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bobnenje
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+rolling, 
+</ref>
+<ref>
+rock and roll, 
+</ref>
+<ref>
+sausage roll, 
+</ref>
+<ref>
+toilet roll
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je v ne&ccaron;em ve&ccaron; stvari 
+<seg type="lemma">
+rolled into one thing
+</seg>
+, tisto v sebi povezuje glavne zna&ccaron;ilnosti ve&ccaron; drugih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A good musical is a new play, a new opera and a new ballet all rolled into one.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+start the ball rolling: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+ball
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+roll in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar denar ali dobi&ccaron;ek 
+<seg type="lemma">
+is rolling in
+</seg>
+, se nam kopi&ccaron;i v velikih koli&ccaron;inah; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+leteti na kup
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+roll over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo, ki le&zcaron;i, 
+<seg type="lemma">
+rolls over
+</seg>
+, se premakne tako, da gleda navzgor drug del njegovega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevaliti se, obrniti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

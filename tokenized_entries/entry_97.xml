@@ -7,12 +7,12 @@
 <pron>
 <TOKEN sid="p5_s5305" id="p5_w1007" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="301.95" y="582.098" base="587.26" width="6.08968" height="6.844">/6</TOKEN>
 <TOKEN sid="p5_s5306" id="p5_w1008" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="308.31" y="581.46" base="584.87" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p5_s5307" id="p5_w1009" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="310.9" y="582.098" base="587.26" width="30.1316" height="6.844">kÕÂd6ns/.</TOKEN>
+<TOKEN sid="p5_s5307" id="p5_w1009" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="310.9" y="582.098" base="587.26" width="30.1316" height="6.844">k&#213;&#194;d6ns/.</TOKEN>
 </pron>
 </form>
 </form>
 <sense>
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p5_s5308" id="p5_w1010" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="342.55" y="583.344" base="587.26" width="21.4731" height="5.192">PHRASE</TOKEN>
@@ -50,13 +50,13 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p5_s5332" id="p5_w1034" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="428.37" y="599.724" base="605.42" width="13.8499" height="7.552">…in</TOKEN>
+<TOKEN sid="p5_s5332" id="p5_w1034" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="428.37" y="599.724" base="605.42" width="13.8499" height="7.552">&#8230;in</TOKEN>
 <TOKEN sid="p5_s5333" id="p5_w1035" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="608.804" base="614.5" width="38.2529" height="7.552">accordance</TOKEN>
 <TOKEN sid="p5_s5334" id="p5_w1036" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.062" y="608.804" base="614.5" width="15.5909" height="7.552">with</TOKEN>
 <TOKEN sid="p5_s5335" id="p5_w1037" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.651" y="608.804" base="614.5" width="24.7882" height="7.552">Islamic</TOKEN>
 <TOKEN sid="p5_s5336" id="p5_w1038" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="345.438" y="608.804" base="614.5" width="13.9666" height="7.552">law.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

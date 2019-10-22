@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chill
+</orth>
+<form type="variant">
+<pron>
+/tS*Il/
+</pron>
+</form>
+<form type="inflected">
+chills, chilling, chilled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chill something 
+</seg>
+pomeni ne&ccaron;emu zni&zcaron;ati temperaturo, ne da bi tisto zamrznili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohladiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+White wine should be slightly chilled.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+chills someone
+</seg>
+, &ccaron;loveka zaradi tistega zelo zebe ali ga je strah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreti, vzeti pogum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was chilled by his callousness.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+chilling
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A chilling wind swept round them.
+</quote>
+<quote>
+The thought was chilling.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chill 
+</seg>
+je blaga bolezen, zaradi katere dobimo rahlo temperaturo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehlad
+</quote>
+</cit>
+</sense>
+</entry>

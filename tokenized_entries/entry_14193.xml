@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p772_s849297" id="p772_w465" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="517.432" base="523.84" width="25.178" height="8.514">tactile</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p772_s849298" id="p772_w466" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.55" y="518.678" base="523.84" width="32.8716" height="6.844">/t&#230;kta&#203;l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p772_s849299" id="p772_w467" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="315.86" y="519.924" base="523.84" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p772_s849300" id="p772_w468" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="328.74" y="518.144" base="523.84" width="23.1516" height="7.552">Tactile</TOKEN>
+</seg>
+<TOKEN sid="p772_s849301" id="p772_w469" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="354.33" y="518.144" base="523.84" width="25.1928" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p772_s849302" id="p772_w470" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.952" y="518.144" base="523.84" width="27.9994" height="7.552">povezan</TOKEN>
+<TOKEN sid="p772_s849303" id="p772_w471" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="412.381" y="518.144" base="523.84" width="3.1968" height="7.552">s</TOKEN>
+<TOKEN sid="p772_s849304" id="p772_w472" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.028" y="518.144" base="523.84" width="21.996" height="7.552">tipom;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p772_s849305" id="p772_w473" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.611" y="527.204" base="532.9" width="25.5312" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p772_s849306" id="p772_w474" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.732" y="527.204" base="532.9" width="17.5608" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p772_s849308" id="p772_w476" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="310.74" y="527.204" base="532.9" width="19.5408" height="7.552">tipen,</TOKEN>
+<TOKEN sid="p772_s849309" id="p772_w477" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.87" y="527.204" base="532.9" width="26.7062" height="7.552">otipljiv;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p772_s849310" id="p772_w478" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="360.2" y="527.204" base="532.9" width="17.9654" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p772_s849311" id="p772_w479" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.753" y="527.204" base="532.9" width="21.5309" height="7.552">tactile</TOKEN>
+<TOKEN sid="p772_s849312" id="p772_w480" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="402.873" y="527.204" base="532.9" width="29.1038" height="7.552">qualities</TOKEN>
+<TOKEN sid="p772_s849313" id="p772_w481" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.565" y="527.204" base="532.9" width="6.38928" height="7.552">of</TOKEN>
+<TOKEN sid="p772_s849314" id="p772_w482" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="536.274" base="541.97" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p772_s849315" id="p772_w483" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.409" y="536.274" base="541.97" width="28.3918" height="7.552">physical</TOKEN>
+<TOKEN sid="p772_s849316" id="p772_w484" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.8" y="536.274" base="541.97" width="21.9924" height="7.552">world.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

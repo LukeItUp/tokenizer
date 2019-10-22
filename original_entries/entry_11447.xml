@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+radius
+</orth>
+<form type="variant">
+<pron>
+/r*e*IdI@s/
+</pron>
+</form>
+<form type="inflected">
+radii
+</form>
+<form type="variant">
+<pron>
+/r*e*IdIaI/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The radius of a circle 
+</seg>
+je razdalja med sredi&scaron;&ccaron;em in zunanjim robom kroga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polmer
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Radius 
+</seg>
+je tudi razdalja v vse smeri od izbrane to&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polmer, oddaljenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The missile landed within a half-mile radius of its target.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pledge
+</orth>
+<form type="variant">
+<pron>
+/pl*edZ/
+</pron>
+</form>
+<form type="inflected">
+pledges, pledging, pledged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pledge 
+</seg>
+je slovesna obljuba, da bomo nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obljuba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Government should fulfil its 1979 Manifesto pledge.
+</quote>
+<quote>
+He gave a pledge to handle the affair in a friendly manner.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+TO-INF, 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pledge something 
+</seg>
+pomeni slovesno obljubiti, da bomo nekaj naredili ali dali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They will pledge $1 million to fund the project.
+</quote>
+<quote>
+The government pledged to reduce the level of imports.
+</quote>
+<quote>
+He has pledged that the ban will be lifted after two years.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pledge oneself to something 
+</seg>
+pomeni obljubiti, da bomo delovali v dolo&ccaron;eni smeri ali da bomo podpirali dolo&ccaron;eno osebo, zamisel ali skupino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati se, zaobljubiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The new organization pledged itself to the revolutionary overthrow of the dictator.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insane
+</orth>
+<form type="variant">
+<pron>
+/Ins*e*In/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+insane
+</seg>
+, je nor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blazen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some went insane.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+insanity
+</orth>
+<form type="variant">
+<pron>
+/Ins*&ae;nI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He saw the beginnings of insanity in her.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be insane 
+</seg>
+pomeni tudi neumno se vesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nor, zme&scaron;an, neumen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;d be insane to do that.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+insanely
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I must admit that I was insanely jealous.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+insanity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I laughed at the insanity of it all.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

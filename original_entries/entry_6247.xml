@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grapevine
+</orth>
+<form type="variant">
+<pron>
+/gr*e*IpvaIn/
+</pron>
+</form>
+<form type="inflected">
+grapevines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grapevine 
+</seg>
+je vzpenjalka, na kateri raste grozdje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vinska trta
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hear news on the grapevine 
+</seg>
+pomeni izvedeti za novice tako, da jih ljudje v vskdanjem pogovoru pripovedujejo drug drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvedeti iz pripovedovanja
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

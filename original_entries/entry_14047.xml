@@ -1,0 +1,158 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surge
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:dZ/
+</pron>
+</form>
+<form type="inflected">
+surges, surging, surged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A surge 
+</seg>
+je nenadno veliko pove&ccaron;anje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvig, porast, pove&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A surge of activity spread through the party.
+</quote>
+<quote>
+...a surge in sales of Waugh&apos;s novels.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;ustvo ali ob&ccaron;utek 
+<seg type="lemma">
+surges in someone
+</seg>
+, nekoga nenadoma in silovito prevzame; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preplaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hope surged in Peter.
+</quote>
+<quote>
+Relief surged through him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She felt a surge of affection for him.
+</quote>
+<quote>
+...a surge of jealousy.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali vozila 
+<seg type="lemma">
+surge forward
+</seg>
+, se za&ccaron;nejo v velikem &scaron;tevilu premikati naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pri)dreti, kipeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the doors were flung open, a crowd surged in.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+surging
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...surging crowds of demonstrators.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar voda 
+<seg type="lemma">
+surges
+</seg>
+, se za&ccaron;ne nenadoma in z veliko silo premikati naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dreti, kipeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the tides surging over the rocks.
+</quote>
+</seg>
+</sense>
+</entry>

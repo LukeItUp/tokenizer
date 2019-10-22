@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+freight
+</orth>
+<form type="variant">
+<pron>
+/fr*e*It/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Freight 
+</seg>
+se nana&scaron;a na preva&zcaron;anje blaga s tovornjaki, vlaki, ladjami ali letali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevoz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is going by air freight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Freight 
+</seg>
+je blago, ki ga preva&zcaron;amo s tovornjaki, vlaki, ladjami ali letali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...eight thousand tons of freight.
+</quote>
+</seg>
+</sense>
+</entry>

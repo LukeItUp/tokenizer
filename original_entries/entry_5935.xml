@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gash
+</orth>
+<form type="variant">
+<pron>
+/g*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+gashes, gashing, gashed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gash 
+</seg>
+je dolga, globoka zareza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ureznina, rana
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Zeleika had a large gash in her head.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gash something 
+</seg>
+pomeni v nekaj narediti dolgo, globoko zarezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razparati, vrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gashed his arm on a window last night.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brew
+</orth>
+<form type="variant">
+<pron>
+/br*u*:/
+</pron>
+</form>
+<form type="inflected">
+brews, brewing, brewed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brew tea or coffee
+</seg>
+ ali kadar &ccaron;aj ali kava 
+<seg type="lemma">
+brews 
+</seg>
+pomeni, da &ccaron;ajne liste ali zmleto kavo prelijemo z vro&ccaron;o vodo in pustimo, da se navzame okusa &ccaron;aja ali kave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+variti, kuhati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A brew 
+</seg>
+je pija&ccaron;a, narejena z me&scaron;anjem, na primer &ccaron;aja z vro&ccaron;o vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poparek, varjena pija&ccaron;a; zvarek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...herbal brews.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+brews beer
+</seg>
+, pripravlja pivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+variti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neprijeten polo&zcaron;aj 
+<seg type="lemma">
+is brewing
+</seg>
+, se za&ccaron;ne razvijati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljati se, kuhati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A crisis was brewing.
+</quote>
+</seg>
+</sense>
+</entry>

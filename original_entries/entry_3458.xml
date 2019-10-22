@@ -1,0 +1,192 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+day
+</orth>
+<form type="variant">
+<pron>
+/d*e*I/
+</pron>
+</form>
+<form type="inflected">
+days.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A day 
+</seg>
+je eno od sedmih &scaron;tiriindvajseturnih obdobij v tednu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The attack occurred six days ago.
+</quote>
+<quote>
+Can you go any day of the week? What about Monday?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Day 
+</seg>
+je del dneva, ko je svetlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had waited three days and nights for this opportunity.
+</quote>
+<quote>
+They hunt by day.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za obdobje v zgodovini lahko re&ccaron;emo, da je 
+<seg type="lemma">
+a particular day
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is the main problem of the present day.
+</quote>
+<quote>
+Are students interested in religion these days?
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To call it a day 
+</seg>
+pomeni prekiniti nekaj, kar po&ccaron;nemo, in pustiti, da bomo tisto dokon&ccaron;ali pozneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pustiti za pozneje, imeti dovolj za zdaj
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+day and night 
+</seg>
+ali 
+<FV>
+night and day
+</FV>
+, se dogaja nepretrgoma ves &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dan in no&ccaron;, no&ccaron; in dan
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes one&apos;s day
+</seg>
+, &ccaron;loveka zelo osre&ccaron;i; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+osre&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+One day
+</seg>
+, 
+<FV>
+some day
+</FV>
+ ali 
+<FV>
+one of these days 
+</FV>
+pomeni neko&ccaron; v prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekega dne, kmalu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re all going to be old one day.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je leto dni 
+<seg type="lemma">
+to the day
+</seg>
+, odkar se je nekaj zgodilo, se je zgodilo natanko pred letom dni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

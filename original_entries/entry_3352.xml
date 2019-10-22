@@ -1,0 +1,36 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curried
+</orth>
+<form type="variant">
+<pron>
+/k*VrId/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Hrana, ki je 
+<seg type="lemma">
+curried
+</seg>
+, vsebuje peko&ccaron;e za&ccaron;imbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron;no za&ccaron;injen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...curried eggs.
+</quote>
+</seg>
+</sense>
+</entry>

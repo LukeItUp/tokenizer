@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swindle
+</orth>
+<form type="variant">
+<pron>
+/sw*Ind@0l/
+</pron>
+</form>
+<form type="inflected">
+swindles, swindling, swindled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swindle someone 
+</seg>
+pomeni nekoga pretentati, da od njega dobimo denar ali kaj vrednega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogoljufati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m sure they swindled you out of that money.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;m afraid we have been the victims of a monumental swindle.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

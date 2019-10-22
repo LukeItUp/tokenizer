@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mist
+</orth>
+<form type="variant">
+<pron>
+/m*Ist/
+</pron>
+</form>
+<form type="inflected">
+mists, misting, misted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mist 
+</seg>
+sestavljajo &scaron;tevilne drobne kapljice vode v zraku. Takrat ne vidimo zelo dale&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+megla
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everything was shrouded in mist.
+</quote>
+<quote>
+...the mists of early morning.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mist over 
+<VS>
+ali 
+</VS>
+<VV>
+mist up.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar steklo 
+<seg type="lemma">
+mists over 
+</seg>
+ali 
+<seg type="variant">
+mists up
+</seg>
+, ga prekrijejo drobne kapljice vlage, zato se ne vidi dobro skozenj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+orositi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His spectacles misted over.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

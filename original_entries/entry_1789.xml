@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bundle
+</orth>
+<form type="variant">
+<pron>
+/b*Vnd@0l/
+</pron>
+</form>
+<form type="inflected">
+bundles, bundling, bundled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bundle 
+</seg>
+je ve&ccaron; predmetov, zvezanih skupaj ali zavitih v blago, tako da jih lahko nesemo ali spravimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sve&zcaron;enj; butara; cula
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tied the wood into a bundle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bundle someone somewhere 
+</seg>
+pomeni nekoga nekam grobo in v naglici potisniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stla&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They bundled him into the ambulance.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bundle off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bundle someone off somewhere 
+</seg>
+pomeni nekoga nekam v naglici poslati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jack was bundled off to Ely to stay with friends.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,351 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+step
+</orth>
+<form type="variant">
+<pron>
+/st*ep/
+</pron>
+</form>
+<form type="inflected">
+steps, stepping, stepped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A step 
+</seg>
+je gib, ki ga naredimo z nogo, ko jo dvignemo in polo&zcaron;imo drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took a step back.
+</quote>
+<quote>
+I walked on with quick steps.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To step on something 
+</seg>
+pomeni polo&zcaron;iti stopalo na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopiti na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had stepped on a thorn.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To step in a particular direction 
+</seg>
+pomeni premakniti se v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Step over the wire.
+</quote>
+<quote>
+Tom stepped back.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A step 
+</seg>
+je tudi ena od vrste stopenj ali eno samo dejanje, storjeno v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Today&apos;s announcement is a step in the right direction.
+</quote>
+<quote>
+Simmel carried this idea one step further.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A step 
+</seg>
+je tudi dvignjena ploska povr&scaron;ina, pogosto ena v vrsti, na katero polo&zcaron;imo stopalo, da stopimo navzgor ali navzdol na druga&ccaron;no vi&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was sitting on the top step.
+</quote>
+<quote>
+...a flight of steps.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nam kdo re&ccaron;e 
+<seg type="lemma">
+watch your step
+</seg>
+, nas opozarja, naj bomo previdnej&scaron;i pri svojem ved&ecirc;nju, da ne bomo za&scaron;li v te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pazi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m cleverer than you are, so watch your step.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj po&ccaron;nemo 
+<seg type="lemma">
+step by step
+</seg>
+, to po&ccaron;nemo postopoma, od ene stopnje do naslednje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak za korakom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The proof is set out, step by step, on page 6.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To walk in step 
+</seg>
+pomeni pomikati stopala naprej v skupini oseb ob istem &ccaron;asu kot vsi drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a party of boys marching in step.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+step aside.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+step down.
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+step back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To step back 
+</seg>
+pomeni razmisliti o dolo&ccaron;enem polo&zcaron;aju druga&ccaron;e in nepristransko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znova pretehtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is tempting to step back and ask whether it is worth all the trouble.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+step down
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To step down 
+</seg>
+ali 
+<seg type="variant">
+to step aside 
+</seg>
+pomeni dati ostavko na pomembno slu&zcaron;beno mesto ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odstopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stepped down last month because of illness.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+step in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To step in 
+</seg>
+pomeni za&ccaron;eti pomagati v te&zcaron;avnem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vme&scaron;ati se, intervenirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She really appreciates the way you stepped in and saw to things.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+step up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To step up something 
+</seg>
+pomeni nekaj pove&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospe&scaron;iti, okrepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The government is stepping up its efforts.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

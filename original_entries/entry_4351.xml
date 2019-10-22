@@ -1,0 +1,165 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+duck
+</orth>
+<form type="variant">
+<pron>
+/d*Vk/
+</pron>
+</form>
+<form type="inflected">
+ducks, ducking, ducked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A duck 
+</seg>
+je pogosta vodna ptica kratkih nog s plavalno ko&zcaron;ico med prsti in velikim, ploskim kljunom. Mno&zcaron;ina besede 
+<seg type="lemma">
+duck
+</seg>
+ je 
+<seg type="lemma">
+ducks
+</seg>
+ ali 
+<seg type="lemma">
+duck
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raca
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Duck 
+</seg>
+se nana&scaron;a na meso race, kadar jo kuhamo in jemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ra&ccaron;je meso
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To duck 
+</seg>
+pomeni naglo pomakniti glavo navzdol, da nas kdo ne vidi ali ne zadene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skloniti glavo, po&ccaron;epniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A gull flew so close that she ducked.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To duck into a place 
+</seg>
+pomeni naglo se nekam premakniti, najve&ccaron;krat zato, da bi u&scaron;li nevarnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skriti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I ducked into the shrubbery.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To duck a duty or responsibility 
+</seg>
+pomeni izogniti se dol&zcaron;nosti ali odgovornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmakniti se
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+duck out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To duck out of something 
+</seg>
+pomeni izogniti se ne&ccaron;emu, kar bi morali storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmakniti se, popihati jo
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

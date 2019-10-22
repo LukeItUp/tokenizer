@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+precede
+</orth>
+<form type="variant">
+<pron>
+/pri1s*i*:d/
+</pron>
+</form>
+<form type="inflected">
+precedes, preceding, preceded;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar en dogodek ali obdobje 
+<seg type="lemma">
+precedes another
+</seg>
+, se zgodi pred drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgoditi se pred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the drop in temperature that precedes a heavy thunderstorm.
+</quote>
+<quote>
+The children&apos;s dinner was preceded by games.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+preceding
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the activities we discussed in the preceding chapter.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To precede someone somewhere 
+</seg>
+pomeni iti pred nekom nekam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti pred, voditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She preceded him across the hallway.
+</quote>
+<quote>
+We were preceded by a huge man called Teddy Brown.
+</quote>
+</seg>
+</sense>
+</entry>

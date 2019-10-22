@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+consecrate
+</orth>
+<form type="variant">
+<pron>
+/k*QnsI2kr*e*It/
+</pron>
+</form>
+<form type="inflected">
+consecrates, consecrating, consecrated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neka stavba, kraj ali predmet 
+<seg type="lemma">
+consecrated
+</seg>
+, uradno razglasijo, da je svet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetiti, blagosloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+King Edward consecrated the original church here in 1065.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+consecrated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was refused burial in consecrated ground.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+consecration
+</orth>
+<form type="variant">
+<pron>
+/k*QnsI2kr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the consecration of the church.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

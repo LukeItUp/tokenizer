@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p105_s114736" id="p105_w374" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="469.602" base="476.01" width="26.1801" height="8.514">cavern</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p105_s114737" id="p105_w375" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="84.32" y="470.848" base="476.01" width="19.7401" height="6.844">/k&#230;v6</TOKEN>
+<TOKEN sid="p105_s114738" id="p105_w376" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="104.27" y="470.21" base="473.62" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p105_s114739" id="p105_w377" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="106.81" y="470.848" base="476.01" width="8.9816" height="6.844">n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p105_s114740" id="p105_w378" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="117.24" y="470.67" base="476.01" width="25.648" height="7.08">caverns.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p105_s114741" id="p105_w379" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="144.33" y="472.094" base="476.01" width="18.5709" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p105_s114742" id="p105_w380" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="163.881" y="472.094" base="476.01" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p105_s114743" id="p105_w381" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.5" y="470.314" base="476.01" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p105_s114744" id="p105_w382" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.55" y="470.314" base="476.01" width="22.05" height="7.552">cavern</TOKEN>
+</seg>
+<TOKEN sid="p105_s114745" id="p105_w383" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.04" y="470.314" base="476.01" width="5.84496" height="7.552">je</TOKEN>
+<TOKEN sid="p105_s114746" id="p105_w384" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.333" y="470.314" base="476.01" width="21.8866" height="7.552">velika,</TOKEN>
+<TOKEN sid="p105_s114747" id="p105_w385" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.668" y="470.314" base="476.01" width="13.1429" height="7.552">glo-</TOKEN>
+<TOKEN sid="p105_s114748" id="p105_w386" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="479.554" base="485.25" width="16.8005" height="7.552">boka</TOKEN>
+<TOKEN sid="p105_s114749" id="p105_w387" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.1891" y="479.554" base="485.25" width="18.8006" height="7.552">jama.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p105_s114751" id="p105_w389" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="108.22" y="479.554" base="485.25" width="24.0005" height="7.552">votlina</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,205 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+link
+</orth>
+<form type="variant">
+<pron>
+/l*INk/
+</pron>
+</form>
+<form type="inflected">
+links, linking, linked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve stvari 
+<seg type="lemma">
+are linked
+</seg>
+, je med njima povezava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...all that was known about how animal behaviour is linked to genes.
+</quote>
+<quote>
+Evidence has been offered linking the group to a series of bomb attacks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A link 
+</seg>
+je odnos med dvema stvarema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zveza, povezava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There seems to be a link between the rising rate of unemployment and the rise in crime.
+</quote>
+<quote>
+We have very close links with industry.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dva kraja ali predmeta 
+<seg type="lemma">
+are linked
+</seg>
+, kadar je med njima fizi&ccaron;na povezava, da lahko med njima potujemo ali se sporazumevamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spojiti, povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The television camera had been linked to a computer.
+</quote>
+<quote>
+...a canal linking the Pacific and Atlantic oceans.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A link between two places 
+</seg>
+je fizi&ccaron;na povezava med dvema krajema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zveza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They opened a rail link between the two towns.
+</quote>
+<quote>
+...a telephone link between Washington and Moscow.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To link two things 
+</seg>
+pomeni ohlapno spojiti dve stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She linked her hand through the crook of his elbow.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A link of a chain 
+</seg>
+je eden od obro&ccaron;kov v verigi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;len, spojka
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+link up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To link up two items or places 
+</seg>
+pomeni povezati dva predmeta ali kraja med seboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spojiti, povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This computer can be linked up to other computers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

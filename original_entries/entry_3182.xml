@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+creak
+</orth>
+<form type="variant">
+<pron>
+/kr*i*:k/
+</pron>
+</form>
+<form type="inflected">
+creaks, creaking, creaked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za nekaj re&ccaron;emo 
+<seg type="lemma">
+it creaks
+</seg>
+, pri premikanju povzro&ccaron;i rezek zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;kripati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The door creaked.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The creak of the mattress did not wake her.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+verdict
+</orth>
+<form type="variant">
+<pron>
+/v*$e*:dIkt/
+</pron>
+</form>
+<form type="inflected">
+verdicts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na sodi&scaron;&ccaron;u je 
+<seg type="lemma">
+a verdict 
+</seg>
+odlo&ccaron;itev glede tega, ali je obto&zcaron;enec kriv ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(raz)sodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The jury gave a verdict of not guilty.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s verdict on something 
+</seg>
+je &ccaron;lovekovo mnenje o ne&ccaron;em, ki si ga ustvari potem, ko o tistem razmisli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodba, stali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The critics hated the film, but the public verdict was favourable.
+</quote>
+</seg>
+</sense>
+</entry>

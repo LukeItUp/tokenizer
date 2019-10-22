@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intestine
+</orth>
+<form type="variant">
+<pron>
+/Int*estIn/
+</pron>
+</form>
+<form type="inflected">
+intestines.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s intestines 
+</seg>
+so cevasti organi v telesu, po katerih se premika hrana iz &zcaron;elodca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;revo, &ccaron;revesje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...pains in the intestine.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+intestinal
+</orth>
+<form type="variant">
+<pron>
+/Int*estIn@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...intestinal infections.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

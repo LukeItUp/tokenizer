@@ -1,0 +1,150 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distort
+</orth>
+<form type="variant">
+<pron>
+/dIst*O*:t/
+</pron>
+</form>
+<form type="inflected">
+distorts, distorting, distorted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To distort a fact or idea 
+</seg>
+pomeni napa&ccaron;no redstaviti neko dejstvo ali zamisel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popa&ccaron;iti, izkriviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You're distorting his argument.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+distorted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They get a distorted picture of what's going on.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+distortion
+</orth>
+<form type="variant">
+<pron>
+/dIst*O*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...this distortion of history.
+</quote>
+<quote>
+The report contained a number of distortions.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+distorted
+</seg>
+, se zvije v druga&ccaron;no obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popa&ccaron;iti, skriviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The objects were scorched and distorted.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+distorted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...her distorted limbs.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+distortion
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the distortion of his face.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

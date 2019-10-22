@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+skid
+</orth>
+<form type="variant">
+<pron>
+/sk*Id/
+</pron>
+</form>
+<form type="inflected">
+skids, skidding, skidded.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vozilo 
+<seg type="lemma">
+skids
+</seg>
+, nad njim izgubimo nadzor, tako da ga nese vstran ali naprej, na primer ker je cesta mokra ali ledena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrsniti, zanesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slammed on his brakes and skidded into a wall.
+</quote>
+<quote>
+We skidded to a halt.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The car went into a skid.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

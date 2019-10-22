@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleeper
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:p@/
+</pron>
+</form>
+<form type="inflected">
+sleepers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A light sleeper 
+</seg>
+je oseba, ki se hitro zbudi. 
+<seg type="lemma">
+A sound or deep sleeper 
+</seg>
+je oseba, ki se te&zcaron;ko zbudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kdor ima rahel/trden spanec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sleeper 
+</seg>
+je postelja na vlaku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;i&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I booked a first-class sleeper.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sleeper 
+</seg>
+je tudi potni&scaron;ki vlak s posteljami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spalnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I usually go up to London on the sleeper.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sleepers 
+</seg>
+so veliki te&zcaron;ki tramovi, ki nosijo tra&ccaron;nice &zcaron;elezni&scaron;ke proge; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prag
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TRANSPORT.
+</QZ>
+</QP>
+</sense>
+</entry>

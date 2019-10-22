@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+illustrate
+</orth>
+<form type="variant">
+<pron>
+/*Il@streIt/
+</pron>
+</form>
+<form type="inflected">
+illustrates, illustrating, illustrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To illustrate a point 
+</seg>
+pomeni nekaj jasno pokazati s primerom ali zgodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponazoriti, pojasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Muslims tell a story to illustrate the fact that power changes people.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To illustrate a book 
+</seg>
+pomeni v knjigo vklju&ccaron;iti slike ali diagrame. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ilustrirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+illustrated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...illustrated books of fairy tales.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

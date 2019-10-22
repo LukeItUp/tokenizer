@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+picnic
+</orth>
+<form type="variant">
+<pron>
+/p*IknIk/
+</pron>
+</form>
+<form type="inflected">
+picnics, picnicking, picnicked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ko ljudje imajo 
+<seg type="lemma">
+a picnic
+</seg>
+, gredo v naravo in si tam pripravijo obed. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piknik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They often went on picnics.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The woods might be full of people picnicking.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+picnicker
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In October, picnickers were unlikely.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

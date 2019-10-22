@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+minimize
+</orth>
+<form type="variant">
+<pron>
+/m*InImaIz/
+</pron>
+</form>
+<form type="inflected">
+minimizes, minimizing, minimized;
+</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+minimise
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To minimize something
+</seg>
+ pomeni nekaj obdr&zcaron;ati v kar najmanj&scaron;em obsegu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;im bolj zmanj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our aim must be to minimize the risks.
+</quote>
+<quote>
+Crop rotations will help to minimise disease.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To minimize something 
+</seg>
+pomeni tudi prikazati nekaj kot manj&scaron;e ali manj pomembno, kot je v resnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was careful to minimise his role in these proceedings.
+</quote>
+</seg>
+</sense>
+</entry>

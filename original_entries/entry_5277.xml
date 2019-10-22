@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fever
+</orth>
+<form type="variant">
+<pron>
+/f*i*:v@/
+</pron>
+</form>
+<form type="inflected">
+fevers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a fever 
+</seg>
+pomeni zaradi bolezni imeti vi&scaron;jo temperaturo kot navadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vro&ccaron;ina, povi&scaron;ana temperatura
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+hay fever, 
+</ref>
+<ref>
+scarlet fever, 
+</ref>
+<ref>
+yellow fever
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fever 
+</seg>
+je tudi veliko vznemirjenje ali razburjenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vro&ccaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stayed calm through the fever of the campaign.
+</quote>
+</seg>
+</sense>
+</entry>

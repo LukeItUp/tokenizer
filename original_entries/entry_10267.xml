@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+paste
+</orth>
+<form type="variant">
+<pron>
+/p*e*Ist/
+</pron>
+</form>
+<form type="inflected">
+pastes, pasting, pasted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Paste 
+</seg>
+je mehka, pogosto lepljiva me&scaron;anica trde snovi in teko&ccaron;ine; zlahka jo nama&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krema, zmes
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mix together the flour and the water to form a paste.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pastes something on a surface
+</seg>
+, nekaj z lepilom pritrdi na neko povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children were busy pasting gold stars on a chart.
+</quote>
+</seg>
+</sense>
+</entry>

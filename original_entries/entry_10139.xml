@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+painter
+</orth>
+<form type="variant">
+<pron>
+/p*e*Int@/
+</pron>
+</form>
+<form type="inflected">
+painters.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A painter 
+</seg>
+je umetnik, ki slika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slikar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a landscape painter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A painter 
+</seg>
+je tudi &ccaron;lovek, &ccaron;igar poklic je pleskanje delov stavb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pleskar
+</quote>
+</cit>
+</sense>
+</entry>

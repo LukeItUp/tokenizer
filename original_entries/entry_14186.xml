@@ -1,0 +1,134 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tack
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+tacks, tacking, tacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tack 
+</seg>
+je kratek &zcaron;ebelj s &scaron;iroko ravno glavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eblji&ccaron;ek s plo&scaron;&ccaron;ato glavico, risalni &zcaron;eblji&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tack something to a surface 
+</seg>
+pomeni nekaj pritrditi na dolo&ccaron;eno povr&scaron;ino z &zcaron;eblji&ccaron;ki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritrditi, pribiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Gretchen had tacked some travel posters on the wall.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To change tack 
+</seg>
+ali 
+<seg type="lemma">
+to try a different tack 
+</seg>
+pomeni preskusiti postopek, ki se razlikuje od tistega, ki smo ga uporabljali prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+metoda, taktika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They didn&apos;t seem convinced so I tried another tack.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+get down to brass tacks: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+brass
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tack on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tack something on to something else 
+</seg>
+pomeni nekaj dodati prej obstoje&ccaron;emu, vendar na nezadovoljiv na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;ve tacked a couple of new clauses on to the end of the contract.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

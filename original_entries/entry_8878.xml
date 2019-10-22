@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+memorial
+</orth>
+<form type="variant">
+<pron>
+/mI2m*O*:rI@l/
+</pron>
+</form>
+<form type="inflected">
+memorials.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A memorial 
+</seg>
+je kip, ki stoji v spomin na slavnega &ccaron;loveka ali dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomenik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a memorial to Queen Alexandra.
+</quote>
+<quote>
+...a war memorial.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dogodek, ki je 
+<seg type="lemma">
+memorial
+</seg>
+, je organiziran v &ccaron;ast &ccaron;loveka, ki je umrl. Nagrada, ki je 
+<seg type="lemma">
+memorial
+</seg>
+, je poimenovana po nekem umrlem &ccaron;loveku, da se ohrani spomin nanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spominski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...funerals and memorial services.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,255 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+charge
+</orth>
+<form type="variant">
+<pron>
+/tS*A*:dZ/
+</pron>
+</form>
+<form type="inflected">
+charges, charging, charged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+charges someone an amount of money
+</seg>
+, nekomu pove, kolik&scaron;en znesek naj pla&ccaron;a za tisto, kar mu je priskrbel ali prodal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zara&ccaron;unati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;How much do you charge?&rsquo;&mdash;&lsquo;&pound;6 a night.&rsquo;
+</quote>
+<quote>
+You can be sure he's going to charge you something for the service.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To charge goods or services to a person or organization
+</seg>
+ pomeni poskrbeti, da neka oseba ali organizacija dobi ra&ccaron;un za dolo&ccaron;ene izdelke ali usluge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zara&ccaron;unati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Please charge the bill to my account.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The charge for something 
+</seg>
+je cena, ki jo moramo za nekaj pla&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stro&scaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...increases in postal and telephone charges.
+</quote>
+<quote>
+No charge is made for repairs.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A charge 
+</seg>
+je uradna obto&zcaron;ba za zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a charge of conspiracy to murder.
+</quote>
+<quote>
+...a murder charge.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar policisti 
+<seg type="lemma">
+charge someone
+</seg>
+, nekoga uradno obto&zcaron;ijo, da je zagre&scaron;il zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was arrested and charged with a variety of offences.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ima &ccaron;lovek 
+<seg type="lemma">
+charge of something or someone
+</seg>
+, je odgovoren za neko stvar ali osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odgovarjati, skrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She intended to take charge of the boy herself.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+in charge of something or someone
+</seg>
+, je za nekaj ali nekoga odgovoren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You had left me in charge.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To charge towards someone or something
+</seg>
+ pomeni hitro se pomakniti proti nekomu ali ne&ccaron;emu in napasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To charge a battery 
+</seg>
+pomeni spustiti elektri&ccaron;ni tok skozi baterijo, da bi postala mo&ccaron;nej&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polniti
+</quote>
+</cit>
+</sense>
+</entry>

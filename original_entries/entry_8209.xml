@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+legal
+</orth>
+<form type="variant">
+<pron>
+/l*i*:g@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+legal 
+</seg>
+uporabljamo pri pogovoru o stvareh, povezanih z zakonom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+praven, pravni&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the British legal system.
+</quote>
+<quote>
+...a legal dispute.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+legally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Divorce could be made less legally complicated.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neko dejanje ali polo&zcaron;aj 
+<seg type="lemma">
+legal
+</seg>
+, ga zakon dovoljuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakonit, legalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Capital punishment is legal in many countries.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+legally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...to make the contracts legally binding.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

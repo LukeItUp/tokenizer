@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+entertainment
+</orth>
+<form type="variant">
+<pron>
+/*ent@t*e*Inm@2nt/
+</pron>
+</form>
+<form type="inflected">
+entertainments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Entertainment 
+</seg>
+so predstave ali dejavnosti, ki ob&ccaron;instvo razvedrijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabava, razvedrilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the entertainment business.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An entertainment 
+</seg>
+je predstava, ki jo spremljajo gledalci. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstava, prireditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...extravagant musical entertainments.
+</quote>
+</seg>
+</sense>
+</entry>

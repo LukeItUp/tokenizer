@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+satire
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;taI@/
+</pron>
+</form>
+<form type="inflected">
+satires.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Satire 
+</seg>
+je humor in pretiravanje, s katerim &zcaron;elimo pokazati, kako neumno ali zmotno je nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+satira
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...exquisite touches of irony and satire.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A satire 
+</seg>
+je igra ali besedilo, ki skozi satiro nekaj kritizira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+satira
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a brilliant political satire.
+</quote>
+<quote>
+...a satire on existing society.
+</quote>
+</seg>
+</sense>
+</entry>

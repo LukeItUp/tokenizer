@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+failing
+</orth>
+<form type="variant">
+<pron>
+/f*e*IlIN/
+</pron>
+</form>
+<form type="inflected">
+failings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A failing 
+</seg>
+je napaka ali nezadovoljiva lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hiba, slabost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The present system has many failings.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+failing that 
+</seg>
+napovemo drugo mo&zcaron;nost v primeru, da tisto, kar smo prej rekli, ni mogo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sicer, ali pa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wear your national dress or, failing that, a suit.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

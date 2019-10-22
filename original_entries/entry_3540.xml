@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+decorate
+</orth>
+<form type="variant">
+<pron>
+/d*ek@7reIt/
+</pron>
+</form>
+<form type="inflected">
+decorates, decorating, decorated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To decorate something 
+</seg>
+pomeni poskrbeti, da je nekaj videti privla&ccaron;nej&scaron;e, tako da tistemu kaj dodamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The walls were all decorated with posters.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To decorate a building or room 
+</seg>
+pomeni prepleskati stavbo ali sobo ali polo&zcaron;iti tapete na stene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepleskati, oblo&zcaron;iti s tapetami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a newly decorated room.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+decorating
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We said we would do the decorating.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scan
+</orth>
+<form type="variant">
+<pron>
+/sk*&ae;n/
+</pron>
+</form>
+<form type="inflected">
+scans, scanning, scanned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scan an area, group of things, or piece of writing 
+</seg>
+pomeni natan&ccaron;no si ogledati obmo&ccaron;je, skupino stvari ali besedilo, ponavadi zato, ker nekaj i&scaron;&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregledati, preiskati (s pogledom)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Anxiously Carol scanned their faces to see who she might know.
+</quote>
+<quote>
+...lifeguards scanning the sea for shark fins.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stroj 
+<seg type="lemma">
+scans something
+</seg>
+, nekaj hitro pregleda, na primer s premikanjem svetlobnega ali rentgenskega &zcaron;arka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The reconnaissance plane&apos;s job was to scan the oceans with its radar.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A liver scan was performed.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

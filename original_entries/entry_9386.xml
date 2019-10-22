@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+myth
+</orth>
+<form type="variant">
+<pron>
+/m*IT/
+</pron>
+</form>
+<form type="inflected">
+myths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A myth 
+</seg>
+je zmotno prepri&ccaron;anje ali napa&ccaron;na razlaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...myths about the causes of cancer.
+</quote>
+<quote>
+...the myth of love at first sight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A myth 
+</seg>
+je tudi zgodba, ki so si jo ljudje izmislili, da bi z njo pojasnili naravne dogodke ali opravi&ccaron;ili svoja verska prepri&ccaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Greek myths.
+</quote>
+<quote>
+...queens in history, legend, and myth.
+</quote>
+</seg>
+</sense>
+</entry>

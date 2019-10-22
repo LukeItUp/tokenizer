@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hose
+</orth>
+<form type="variant">
+<pron>
+/h*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+hoses, hosing, hosed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hose 
+</seg>
+je dolga, pro&zcaron;na cev, po kateri te&ccaron;e voda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gumijasta cev
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hose something 
+</seg>
+pomeni nekaj oprati ali politi z vodo iz cevi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalivati z gumijasto cevjo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hose the soil well immediately after planting rose bushes.
+</quote>
+</seg>
+</sense>
+</entry>

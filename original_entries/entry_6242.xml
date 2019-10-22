@@ -1,0 +1,157 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grant
+</orth>
+<form type="variant">
+<pron>
+/gr*A*:nt/
+</pron>
+</form>
+<form type="inflected">
+grants, granting, granted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grant 
+</seg>
+je znesek, ki ga vlada dodeli osebi ali organizaciji za dolo&ccaron;en namen, na primer za izobra&zcaron;evanje ali stanovanjsko prenovo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+subvencija, podpora
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You may be eligible for a grant to help you study.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek, ki ima oblast, 
+<seg type="lemma">
+grants someone something
+</seg>
+, nekomu nekaj da. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podeliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Proposals have been made to grant each displaced family &pound;25,000.
+</quote>
+<quote>
+He was finally granted a visa.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grant that something is true 
+</seg>
+pomeni priznati, da je nekaj resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That joy ride, I grant you, was a silly stunt.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take it for granted that something is true 
+</seg>
+pomeni verjeti, da je nekaj res, ne da bi o tem razmi&scaron;ljali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prepri&ccaron;an, imeti za samoumevno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is taken for granted that every child should learn mathematics.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take someone for granted 
+</seg>
+pomeni okoristiti se z nekom, ne da bi mu pokazali hvale&zcaron;nost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jemati kot nekaj samoumevnega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He just takes me absolutely for granted.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

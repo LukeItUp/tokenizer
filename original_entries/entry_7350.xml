@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+independence
+</orth>
+<form type="variant">
+<pron>
+/*IndIp*end@ns/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima neka dr&zcaron;ava 
+<seg type="lemma">
+independence
+</seg>
+, ji ne vlada nobena druga dr&zcaron;ava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neodvisnost, samostojnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The country has had 24 years of independence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s independence 
+</seg>
+je dejstvo, da se nekdo ne zana&scaron;a na druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samostojnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She shows great independence of mind.
+</quote>
+</seg>
+</sense>
+</entry>

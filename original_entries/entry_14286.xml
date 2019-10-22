@@ -1,0 +1,446 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tear,
+</orth>
+<form type="inflected">
+tears, tearing, tore
+</form>
+<form type="variant">
+<pron>
+/t*O*:/
+</pron>
+</form>
+<form type="inflected">
+torn
+</form>
+<form type="variant">
+<pron>
+/t*O*:n/
+</pron>
+</form>
+<PN>
+Besedo 
+<PP>
+tear 
+</PP>
+ pri 1. pomenu izgovarjamo 
+<pron>
+/t*I*@/
+</pron>
+, pri drugih pa 
+<pron>
+/t*e*@/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tears 
+</seg>
+so kapljice, ki nam prite&ccaron;ejo iz o&ccaron;i, ko jokamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+solza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tears were streaming down her face.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+in tears
+</seg>
+, joka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+objokan, v solzah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She rushed out of the room, in tears.
+</quote>
+<quote>
+When Curzon heard the news, he burst into tears.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear something 
+</seg>
+pomeni nekaj, kar je narejeno iz blaga ali papirja, tako mo&ccaron;no potegniti, da v tistem nastane luknja ali razpade na ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tore both letters into small pieces.
+</quote>
+<quote>
+I tugged at the sleeve to get it free. It tore.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+torn
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...my torn sweater.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tear 
+</seg>
+je luknja, ki nastane v blagu, ko ga potegnemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrganina, luknja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a triangular tear at the knee of his trousers.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+wear and tear
+</ref>
+</xr>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear something open 
+</seg>
+pomeni nekaj raztrgati in s tem odpreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgati, v naglici odpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tore open the envelope.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear something from somewhere 
+</seg>
+pomeni nekaj s silo odstraniti od nekod. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtrgati, iztrgati, izpuliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She tore several sheets out of the book.
+</quote>
+<quote>
+Boats were torn from their moorings by the storm.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear somewhere 
+</seg>
+pomeni nekam hiteti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urezati jo, zdrveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They tore down the street after the dog.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be torn between two or more things 
+</seg>
+pomeni, da se tista oseba ne more odlo&ccaron;iti med dvema ali ve&ccaron; stvarmi in je zato nesre&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti razpet
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tear apart.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To tear something apart 
+</seg>
+pomeni, da nekaj s silo razdelimo na ve&ccaron; kosov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tore the parcel apart.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tears an organization or country apart
+</seg>
+, povzro&ccaron;i usodne prepire in motnje v delovanju ustanove ali dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a crisis which threatens to tear society apart.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tear at.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear at something 
+</seg>
+pomeni z vso silo vle&ccaron;i ko&scaron;&ccaron;ke z ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgati, cefrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boys tore at the meat like wolves.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tear away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+tears oneself away from a place
+</seg>
+, zelo nerad zapusti tisti kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtrgati se, te&zcaron;ko se posloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mourners often find it difficult to tear themselves away from the grave.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tear down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear down a building 
+</seg>
+pomeni podreti stavbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is often cheaper to tear down the buildings than to modify them.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tear off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear one&apos;s clothes off 
+</seg>
+pomeni hitro in grobo odstraniti obla&ccaron;ila s telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strgati, potegniti dol
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tear up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear up a piece of paper 
+</seg>
+pomeni razkosati papir na veliko majhnih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztrgati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

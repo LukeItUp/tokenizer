@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p663_s727244" id="p663_w697" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="290.762" base="297.17" width="29.872" height="8.514">sardine</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p663_s727245" id="p663_w698" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="286.58" y="292.008" base="297.17" width="31.0416" height="6.844">/s&#202;&#194;di&#194;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p663_s727246" id="p663_w699" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="319.21" y="291.83" base="297.17" width="28.8023" height="7.08">sardines.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p663_s727247" id="p663_w700" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="349.6" y="293.254" base="297.17" width="18.9298" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p663_s727248" id="p663_w701" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="369.629" y="293.254" base="297.17" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p663_s727249" id="p663_w702" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="375.35" y="291.474" base="297.17" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p663_s727250" id="p663_w703" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.54" y="291.474" base="297.17" width="24.9804" height="7.552">sardine</TOKEN>
+</seg>
+<TOKEN sid="p663_s727251" id="p663_w704" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.11" y="291.474" base="297.17" width="5.98608" height="7.552">je</TOKEN>
+<TOKEN sid="p663_s727252" id="p663_w705" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.684" y="291.474" base="297.17" width="25.5456" height="7.552">majhna</TOKEN>
+<TOKEN sid="p663_s727253" id="p663_w706" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="300.544" base="306.24" width="25.1964" height="7.552">morska</TOKEN>
+<TOKEN sid="p663_s727254" id="p663_w707" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.007" y="300.544" base="306.24" width="15.9955" height="7.552">riba.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p663_s727256" id="p663_w709" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="312.23" y="300.544" base="306.24" width="26.6594" height="7.552">sardela;</TOKEN>
+<TOKEN sid="p663_s727257" id="p663_w710" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="340.888" y="300.544" base="306.24" width="27.4392" height="7.552">sardina;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p663_s727258" id="p663_w711" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.33" y="300.544" base="306.24" width="19.9886" height="7.552">&#8230;tins</TOKEN>
+<TOKEN sid="p663_s727259" id="p663_w712" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="392.317" y="300.544" base="306.24" width="6.39936" height="7.552">of</TOKEN>
+<TOKEN sid="p663_s727260" id="p663_w713" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="400.715" y="300.544" base="306.24" width="30.2407" height="7.552">sardines.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -5,7 +5,7 @@ acid
 </orth>
 <form type="variant">
 <pron>
-/*#ae;sId/
+/*&ae;sId/
 </pron>
 </form>
 <form type="inflected">
@@ -20,10 +20,9 @@ MASS N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An acid
+An acid 
 </seg>
-je teko&#269;ina ali snov, katere pH
-vrednost je ni&#382;ja od sedem. Mo&#269;ne kisline nam lahko po&#353;kodujejo ko&#382;o ali obla&#269;ila.
+je teko&ccaron;ina ali snov, katere pH vrednost je ni&zcaron;ja od sedem. Mo&ccaron;ne kisline nam lahko po&scaron;kodujejo ko&zcaron;o ali obla&ccaron;ila. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -35,7 +34,7 @@ kislina
 Dab it with a solution of weak acid.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ADJ
@@ -46,7 +45,7 @@ ADJ
 ...an acid soil.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -55,12 +54,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Sade&#382; ali pija&#269;a, ki je
+Sade&zcaron; ali pija&ccaron;a, ki je 
 <seg type="lemma">
 acid
 </seg>
-ima kisel
-ali peko&#269; okus.
+, ima kisel ali peko&ccaron; okus. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -75,12 +73,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Pripomba, ki je
+Pripomba, ki je 
 <seg type="lemma">
 acid
 </seg>
-je neprijazna ali
-kriti&#269;na.
+, je neprijazna ali kriti&ccaron;na. 
 </def>
 <cit type="translationEquivalent">
 <quote>

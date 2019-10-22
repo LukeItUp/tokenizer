@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+battleground
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;t@0lgraUnd/
+</pron>
+</form>
+<form type="inflected">
+battlegrounds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A battleground 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a battlefield
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boji&scaron;&ccaron;e
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A battleground
+</seg>
+ je tudi vpra&scaron;anje, o katerem se ljudje ne strinjajo ali zaradi katerega tekmujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jabolko spora
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The theory of evolution is no longer a battleground.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hamper
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;mp@/
+</pron>
+</form>
+<form type="inflected">
+hampers, hampering, hampered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hamper a person or their actions 
+</seg>
+pomeni nekomu ote&zcaron;iti gibanje ali napredovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovirati, zastavljati pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were hampered by a constant stream of visitors.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hamper 
+</seg>
+je velika ko&scaron;ara s pokrovom, v kateri prena&scaron;amo hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokrita ko&scaron;ara (za piknik)
+</quote>
+</cit>
+</sense>
+</entry>

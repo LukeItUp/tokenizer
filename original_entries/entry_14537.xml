@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thrust
+</orth>
+<form type="variant">
+<pron>
+/Tr*Vst/
+</pron>
+</form>
+<form type="inflected">
+thrusts, thrusting.
+</form>
+<IN>
+<IH>
+Thrust 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To thrust something somewhere 
+</seg>
+pomeni nekaj hitro in z vso silo premakniti ali prestaviti na dolo&ccaron;eno mesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The captain thrust his hands into his pockets.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thrust 
+</seg>
+je nenaden mo&ccaron;an premik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sunek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...repeated sword thrusts.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+thrust upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To thrust something upon someone 
+</seg>
+pomeni nekoga prisiliti, da nekaj sprejme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The new religion was thrust upon the population by force.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

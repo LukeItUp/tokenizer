@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+divorce
+</orth>
+<form type="variant">
+<pron>
+/dIv*O*:s/
+</pron>
+</form>
+<form type="inflected">
+divorces, divorcing, divorced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To divorce one's husband or wife 
+</seg>
+pomeni zapustiti soprogo ali soproga, ker je zakonska zveza kon&ccaron;ana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+divorced
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a divorced lady.
+</quote>
+<quote>
+...when my parents got divorced.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A divorce 
+</seg>
+je uradni konec zakonske zveze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razveza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I want a divorce.
+</quote>
+<quote>
+Divorce is on the increase.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To divorce one thing from another 
+</seg>
+pomeni lo&ccaron;eno ravnati z dvema stvarema; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti, razdvojiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't think it is possible to divorce sport from politics.
+</quote>
+</seg>
+</sense>
+</entry>

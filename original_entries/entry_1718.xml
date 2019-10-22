@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brown
+</orth>
+<form type="variant">
+<pron>
+/br*a*Un/
+</pron>
+</form>
+<form type="inflected">
+browner, brownest; browns, browning, browned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+brown
+</seg>
+, je podobne barve kot prst ali les. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rjav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...long brown hair.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+brown
+</seg>
+, ima ko&zcaron;o, ki je temnej&scaron;a kot navadno, ker je bil na soncu.
+</def>
+<cit type="translationEquivalent">
+<quote>
+porjavel
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+browns 
+</seg>
+ali 
+<seg type="lemma">
+is browned
+</seg>
+, postane temnej&scaron;e barve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potemneti, porjaveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her hands had been browned by the sun.
+</quote>
+</seg>
+</sense>
+</entry>

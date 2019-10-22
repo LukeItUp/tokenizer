@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+emblem
+</orth>
+<form type="variant">
+<pron>
+/*embl@2m/
+</pron>
+</form>
+<form type="inflected">
+emblems.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An emblem 
+</seg>
+je risba, ki predstavlja neko dr&zcaron;avo ali organizacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+simbol, znak, znamenje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An emblem 
+</seg>
+je tudi tisto, kar ponazarja neko lastnost ali idejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znamenje, simbol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ruler's staff, an emblem of kingship.
+</quote>
+</seg>
+</sense>
+</entry>

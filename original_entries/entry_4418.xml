@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+earn
+</orth>
+<form type="variant">
+<pron>
+/*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+earns, earning, earned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To earn money 
+</seg>
+pomeni dobiti denar v zameno za opravljeno delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaslu&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the average worker, earning $15,058.
+</quote>
+<quote>
+They have to earn a living somehow.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+earner
+</orth>
+<form type="variant">
+<pron>
+/*$e*:n@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Most wage earners can afford it.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+earns money
+</seg>
+, tisto pridobiva denar kot dobi&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobiti, slu&zcaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To earn something 
+</seg>
+pomeni nekaj dobiti, na primer pohvalo, ker si tisto zaslu&zcaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prislu&zcaron;iti, zaslu&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has earned his place in history.
+</quote>
+</seg>
+</sense>
+</entry>

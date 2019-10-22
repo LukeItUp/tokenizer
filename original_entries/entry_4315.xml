@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drinker
+</orth>
+<form type="variant">
+<pron>
+/dr*INk@/
+</pron>
+</form>
+<form type="inflected">
+drinkers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drinker 
+</seg>
+je &ccaron;lovek, ki pije veliko alkohola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pijanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had become a secret drinker.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+drinker 
+</seg>
+lahko povemo, kak&scaron;no pija&ccaron;o nekdo redno pije. Na primer: 
+<seg type="lemma">
+a beer drinker 
+</seg>
+je &ccaron;lovek, ki redno pije pivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pivec
+</quote>
+</cit>
+</sense>
+</entry>

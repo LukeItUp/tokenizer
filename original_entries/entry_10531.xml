@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+phrase
+</orth>
+<form type="variant">
+<pron>
+/fr*e*Iz/
+</pron>
+</form>
+<form type="inflected">
+phrases, phrasing, phrased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A phrase 
+</seg>
+je kratka skupina besed, uporabljenih kot enota. Pomen te enote ni razviden iz pomena posameznih besed, ki jo sestavljajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fraza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People still use the phrase &lsquo;doctor&apos;s orders&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+phrases something in a particular way
+</seg>
+, nekaj pove z dolo&ccaron;enimi besedami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izraziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The moment I&apos;d said it, I could see that I&apos;d phrased it wrong.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A turn of phrase 
+</seg>
+je poseben na&ccaron;in izra&zcaron;anja &ccaron;esa z besedami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izra&zcaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have a nice turn of phrase.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

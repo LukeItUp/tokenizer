@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plastered
+</orth>
+<form type="variant">
+<pron>
+/pl*A*:st@d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be plastered to a surface 
+</seg>
+pomeni dr&zcaron;ati se neke povr&scaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prilepljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His wet hair was plastered to his forehead.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je povr&scaron;ina 
+<seg type="lemma">
+plastered with something
+</seg>
+, je z ne&ccaron;im prekrita. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekrit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her back was thickly plastered with suntan oil.
+</quote>
+<quote>
+The walls of his tiny shop were plastered with pictures of actors.
+</quote>
+</seg>
+</sense>
+</entry>

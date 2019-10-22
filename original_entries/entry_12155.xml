@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rope
+</orth>
+<form type="variant">
+<pron>
+/r*@*Up/
+</pron>
+</form>
+<form type="inflected">
+ropes, roping, roped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rope 
+</seg>
+je izdelek iz spletenih vlaken ali niti, s katerim povezujemo predmete. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They should be tied together with a rope.
+</quote>
+<quote>
+...a piece of rope.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rope one thing to another 
+</seg>
+pomeni z vrvjo povezati eno stvar z drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wagons were roped together.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know the ropes 
+</seg>
+pomeni, da vemo, kako je treba nekaj narediti na dolo&ccaron;enem kraju; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poznati vse prijeme
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rope in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rope someone in to do something 
+</seg>
+pomeni, da nekoga prepri&ccaron;amo, da naredi nekaj, s &ccaron;imer nam bo pomagal; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pritegniti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

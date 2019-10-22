@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discover
+</orth>
+<form type="variant">
+<pron>
+/dIsk*Vv@/
+</pron>
+</form>
+<form type="inflected">
+discovers, discovering, discovered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To discover something 
+</seg>
+pomeni nekaj najti ali izvedeti za kaj, zlasti prvikrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkriti, spoznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Herschel discovered a new planet.
+</quote>
+<quote>
+I discovered that Zapp is Melanie's father.
+</quote>
+<quote>
+He was dead before anyone discovered him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+discoverer
+</orth>
+<form type="variant">
+<pron>
+/dIsk*Vv@r@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the discoverer of penicillin, Sir Alexander Fleming.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je umetnik ali &scaron;portnik 
+<seg type="lemma">
+discovered
+</seg>
+, nekdo ugotovi, da je nadarjen, in mu pomaga zasloveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkriti
+</quote>
+</cit>
+</sense>
+</entry>

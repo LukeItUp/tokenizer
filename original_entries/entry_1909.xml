@@ -1,0 +1,172 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+calm
+</orth>
+<form type="variant">
+<pron>
+/k*A*:m/
+</pron>
+</form>
+<form type="inflected">
+calmer, calmest; calms, calming, calmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+calm
+</seg>
+, ne poka&zcaron;e, ali je zaskrbljen ali vznemirjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+miren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Gary was a calm and reasonable man.
+</quote>
+<quote>
+Sit down and keep calm.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+calmly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She calmly wiped the blood away.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Calm 
+</seg>
+je stanje, ko je vse tiho in mirno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the calm of the vicarage.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je vreme ali morje 
+<seg type="lemma">
+calm
+</seg>
+, ni vetra, zato se drevje ali voda ne premikata.
+</def>
+<cit type="translationEquivalent">
+<quote>
+miren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a calm, sunny evening.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To calm someone 
+</seg>
+ali 
+<seg type="lemma">
+to calm someone's fears 
+</seg>
+pomeni nekaj storiti, da je nekdo manj iz sebe, zaskrbljen ali vznemirjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomiriti, potola&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mitchell tried to calm her, but she didn't hear him.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+calm down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek 
+<seg type="lemma">
+calms down
+</seg>
+ ali &ccaron;e nekdo drug 
+<seg type="lemma">
+calms someone down
+</seg>
+, postane manj zaskrbljen, razburjen ali &zcaron;ivahen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomiriti koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Calm down. Let me explain.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

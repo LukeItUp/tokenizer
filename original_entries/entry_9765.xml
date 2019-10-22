@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+occurrence
+</orth>
+<form type="variant">
+<pron>
+/@7k*Vr@ns/
+</pron>
+</form>
+<form type="inflected">
+occurrences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An occurrence 
+</seg>
+je nekaj, kar se zgodi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dogodek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...weeks before the tragic occurrence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The occurrence of something 
+</seg>
+je dejstvo, da se nekaj zgodi ali da obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojavljanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We may reduce the occurrence of cancer by fifty per cent.
+</quote>
+</seg>
+</sense>
+</entry>

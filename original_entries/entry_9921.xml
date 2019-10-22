@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ordinary
+</orth>
+<form type="variant">
+<pron>
+/*O*:dI1nri1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+ordinary
+</seg>
+, ni v ni&ccaron;emer posebno in druga&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navaden, vsakdanji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ordinary everyday objects.
+</quote>
+<quote>
+What do ordinary people really think about universities?
+</quote>
+<quote>
+She is likeable enough, but very ordinary.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+out of the ordinary
+</seg>
+, je nenavadno ali druga&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevsakdanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;d like to bring her something a little out of the ordinary.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

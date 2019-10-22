@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sniff
+</orth>
+<form type="variant">
+<pron>
+/sn*If/
+</pron>
+</form>
+<form type="inflected">
+sniffs, sniffing, sniffed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sniff 
+</seg>
+pomeni glasno vdihniti zrak skozi nos, na primer takrat, ko smo prehlajeni, ko se zadr&zcaron;ujemo, da ne bi jokali, ali ko &zcaron;elimo pokazati neodobravanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smrkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Felicity said, sniffing, &lsquo;When will you see me again?&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The classroom rang with coughs, sniffs, and sneezes.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sniff something 
+</seg>
+pomeni glasno vdihniti zrak v bli&zcaron;ini ne&ccaron;esa, da bi ugotovili vonj ali vsebino tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povohati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What a revolting smell,&rsquo; he said, sniffing the air.
+</quote>
+<quote>
+The dog sniffed at Marsha&apos;s bags.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He took a cautious sniff.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

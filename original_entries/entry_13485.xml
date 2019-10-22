@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sprawl
+</orth>
+<form type="variant">
+<pron>
+/spr*O*:l/
+</pron>
+</form>
+<form type="inflected">
+sprawls, sprawling, sprawled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sprawl somewhere 
+</seg>
+pomeni sedeti ali le&zcaron;ati z nemarno raz&scaron;irjenimi nogami in rokami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlekniti se, razkre&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Segal sprawled out on the couch.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sprawled
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He lay sprawled in the chair.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki kraj 
+<seg type="lemma">
+sprawls
+</seg>
+, pokriva veliko ozemlje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztezati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The village sprawls along the coastline.
+</quote>
+<quote>
+...a sprawling city.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sprawl 
+</seg>
+opi&scaron;emo obmo&ccaron;je, kjer se je mesto nenadzorovano &scaron;irilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bujno razra&scaron;&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...London&apos;s urban sprawl.
+</quote>
+</seg>
+</sense>
+</entry>

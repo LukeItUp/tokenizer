@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pronounce
+</orth>
+<form type="variant">
+<pron>
+/pr@n*a*Uns/
+</pron>
+</form>
+<form type="inflected">
+pronounces, pronouncing, pronounced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pronounce a word 
+</seg>
+pomeni re&ccaron;i besedo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can&apos;t pronounce his name.
+</quote>
+<quote>
+...the town of Ixtlan, pronounced East-lon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pronounce something to be true 
+</seg>
+pomeni uradno izjaviti, da je nekaj res; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+razglasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The victim was pronounced dead on arrival at the hospital.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pronounce a verdict or opinion on something 
+</seg>
+pomeni uradno sporo&ccaron;iti svojo razsodbo ali mnenje o ne&ccaron;em; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+razglasiti, izjaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Are the people ready to pronounce their verdict?&rsquo;&mdash;&lsquo;Guilty.&rsquo;
+</quote>
+<quote>
+&lsquo;Not bad,&rsquo; he pronounced.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p615_s673529" id="p615_w339" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="399.562" base="405.97" width="20.9013" height="8.514">razor</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p615_s673530" id="p615_w340" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="79.88" y="400.808" base="405.97" width="24.4916" height="6.844">/re&#203;z6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p615_s673531" id="p615_w341" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="106.63" y="400.63" base="405.97" width="21.3691" height="7.08">razors.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p615_s673532" id="p615_w342" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="130.27" y="402.054" base="405.97" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p615_s673533" id="p615_w343" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="150.789" y="402.054" base="405.97" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p615_s673534" id="p615_w344" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.17" y="400.274" base="405.97" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p615_s673535" id="p615_w345" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.04" y="400.274" base="405.97" width="18" height="7.552">razor</TOKEN>
+</seg>
+<TOKEN sid="p615_s673536" id="p615_w346" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.29" y="400.274" base="405.97" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p615_s673537" id="p615_w347" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.547" y="400.274" base="405.97" width="40.3927" height="7.552">pripomo~ek</TOKEN>
+<TOKEN sid="p615_s673538" id="p615_w348" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="236.2" y="400.274" base="405.97" width="7.60248" height="7.552">za</TOKEN>
+<TOKEN sid="p615_s673539" id="p615_w349" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3906" y="409.344" base="415.04" width="20.7893" height="7.552">britje.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p615_s673541" id="p615_w351" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.41" y="409.344" base="415.04" width="27.1793" height="7.552">brivnik;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p615_s673542" id="p615_w352" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="120.59" y="409.344" base="415.04" width="15.601" height="7.552">&#8230;an</TOKEN>
+<TOKEN sid="p615_s673543" id="p615_w353" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.191" y="409.344" base="415.04" width="25.1878" height="7.552">electric</TOKEN>
+<TOKEN sid="p615_s673544" id="p615_w354" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.379" y="409.344" base="415.04" width="18.8784" height="7.552">razor.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,173 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kind
+</orth>
+<form type="variant">
+<pron>
+/k*a*Ind/
+</pron>
+</form>
+<form type="inflected">
+kinds; kinder, kindest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular kind of thing 
+</seg>
+je eden od razredov ali vrst dolo&ccaron;ene stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta, razred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Was he carrying a weapon and, if so, what kind of weapon?
+</quote>
+<quote>
+...processes of an entirely new kind.
+</quote>
+<quote>
+These thoughts weren't the kind he could share with anyone.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+kind
+</seg>
+, je ljubezniv, skrben in pripravljen pomagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijazen, dobrotljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were much kinder to one another after that night.
+</quote>
+<quote>
+It was kind of you to come.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+kindly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;You're not to blame yourself, Smithy,&rsquo; Rick said kindly.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+kind of 
+</seg>
+povemo, da lahko nekaj v grobem opi&scaron;emo na dolo&ccaron;en na&ccaron;in; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nekako
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spoke in a kind of sad whisper.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+kind of 
+</seg>
+povemo, da je nekaj delno res; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na pol, malce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt kind of sorry for him.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+of a kind 
+</seg>
+povemo, da nekaj sicer pripada dolo&ccaron;eni vrsti stvari, vendar v resnici ni zadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neke vrste
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A solution of a kind has been found to this problem.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Payment in kind 
+</seg>
+je pla&ccaron;ilo v obliki dobrin ali uslug, ne pa v denarju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pla&ccaron;ilo) v naravi/blagu
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

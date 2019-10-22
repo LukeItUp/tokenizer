@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whence
+</orth>
+<form type="variant">
+<pron>
+/w*ens/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+whence 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+from where
+</seg>
+; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+od koder, odkod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He returned hastily to the United States, whence he originally came.
+</quote>
+</seg>
+</sense>
+</entry>

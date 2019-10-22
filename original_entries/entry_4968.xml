@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+existence
+</orth>
+<form type="variant">
+<pron>
+/I2gz*Ist@ns/
+</pron>
+</form>
+<form type="inflected">
+existences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Existence 
+</seg>
+je obstajanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obstoj, bivanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you believe in the existence of God?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+existence 
+</seg>
+lahko opi&scaron;emo &ccaron;lovekov na&ccaron;in &zcaron;ivljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obstoj, bivanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The family lived a more or less vagabond existence.
+</quote>
+</seg>
+</sense>
+</entry>

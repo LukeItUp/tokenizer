@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distinction
+</orth>
+<form type="variant">
+<pron>
+/dIst*INkS@0n/
+</pron>
+</form>
+<form type="inflected">
+distinctions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A distinction 
+</seg>
+je razlika med podobnimi stvarmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Remember the distinction between those words.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw a distinction 
+</seg>
+ali 
+<FV>
+to make a distinction between two things 
+</FV>
+pomeni povedati, da sta dve stvari razli&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti, razlikovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I must make a distinction here between travellers and tourists.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Distinction 
+</seg>
+je odli&ccaron;nost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is a man of distinction.
+</quote>
+</seg>
+</sense>
+</entry>

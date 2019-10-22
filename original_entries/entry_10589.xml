@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ping
+</orth>
+<form type="variant">
+<pron>
+/p*IN/
+</pron>
+</form>
+<form type="inflected">
+pings, pinging, pinged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ping 
+</seg>
+je kratek visok kovinski zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plenk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a loud ping from the alarm clock.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The bell pings; the lift doors open.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

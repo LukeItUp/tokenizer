@@ -1,0 +1,153 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suppress
+</orth>
+<form type="variant">
+<pron>
+/s@pr*es/
+</pron>
+</form>
+<form type="inflected">
+suppresses, suppressing, suppressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojska ali vlada 
+<seg type="lemma">
+suppresses an activity
+</seg>
+, prepre&ccaron;i nadaljevanje nekega dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The army soon suppressed the revolt.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+suppression
+</orth>
+<form type="variant">
+<pron>
+/s@pr*eS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the suppression of freedom.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suppress a piece of information 
+</seg>
+pomeni prepre&ccaron;iti, da bi se neka informacija razvedela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati, zamol&ccaron;ati, prikriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The committee&apos;s report has been suppressed.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+suppression
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the deliberate suppression of information.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suppress one&apos;s feelings 
+</seg>
+pomeni zadr&zcaron;ati se, da ne bi izrazili svojih &ccaron;ustev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potla&ccaron;iti, zatreti, skriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Suppressing her annoyance, she smiled at him.
+</quote>
+<quote>
+She was struggling to suppress her sobs.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+suppression
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the polite suppression of a yawn.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

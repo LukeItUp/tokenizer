@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sea
+</orth>
+<form type="variant">
+<pron>
+/s*i*:/
+</pron>
+</form>
+<form type="inflected">
+seas.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sea 
+</seg>
+je slana voda, ki pokriva velik del Zemljinega povr&scaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+morje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I watched the children running into the sea.
+</quote>
+<quote>
+...a wrecked ship at the bottom of the sea.
+</quote>
+<quote>
+...calm seas.
+</quote>
+<quote>
+...a bit of blue sea.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sea 
+</seg>
+je veliko obmo&ccaron;je slane vode. Lahko je del oceana ali pa ga obdaja celina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+morje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the North Sea.
+</quote>
+<quote>
+...the Caspian Sea.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sea of people or things 
+</seg>
+je zelo veliko &scaron;tevilo ljudi ali stvari; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+morje, mno&zcaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sea of white faces.
+</quote>
+<quote>
+...a sea of troubles.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+At sea 
+</seg>
+pomeni na morski gladini ali pod njo dale&ccaron; od kopnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na morju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a storm at sea.
+</quote>
+<quote>
+Submarines can stay at sea for weeks.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+at sea
+</seg>
+, je zmeden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmeden
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar potujemo ali nekaj po&scaron;ljemo 
+<seg type="lemma">
+by sea
+</seg>
+, potujemo ali tisto po&scaron;ljemo z ladjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z ladjo, po morju
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

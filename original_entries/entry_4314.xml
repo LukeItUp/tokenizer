@@ -1,0 +1,207 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drink
+</orth>
+<form type="variant">
+<pron>
+/dr*INk/
+</pron>
+</form>
+<form type="inflected">
+drinks, drinking, drank
+</form>
+<form type="variant">
+<pron>
+/dr&ae;Nk/
+</pron>
+</form>
+<form type="inflected">
+drunk
+</form>
+<form type="variant">
+<pron>
+/dr*VNk/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drink a liquid 
+</seg>
+pomeni dati teko&ccaron;ino v usta in jo pogoltniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We sat drinking coffee.
+</quote>
+<quote>
+He drank eagerly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drink 
+</seg>
+je koli&ccaron;ina teko&ccaron;ine, ki jo pijemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pija&ccaron;a, kozarec pija&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I asked for a drink of water.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drink 
+</seg>
+pomeni tudi piti alkohol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You shouldn't drink and drive.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+drinking
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There had been some heavy drinking at the party.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Drink 
+</seg>
+je alkoholna pija&ccaron;a, na primer pivo, vino ali viski. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+alkohol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He eventually died of drink.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drink 
+</seg>
+je alkoholna pija&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+alkoholna pija&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He poured himself a drink.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+drunk
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+drink to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To drink to someone or something 
+</seg>
+pomeni dvigniti kozarec, preden pijemo, in re&ccaron;i, da nekomu ali ne&ccaron;emu za&zcaron;elimo sre&ccaron;o in uspeh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nazdraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They agreed on their plan and drank to it.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

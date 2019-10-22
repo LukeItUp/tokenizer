@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+umpire
+</orth>
+<form type="variant">
+<pron>
+/*VmpaI@/
+</pron>
+</form>
+<form type="inflected">
+umpires, umpiring, umpired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V &scaron;portu je 
+<seg type="lemma">
+the umpire 
+</seg>
+oseba, ki mora skrbeti, da tekmovanje poteka po&scaron;teno in da pravila niso kr&scaron;ena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodnik
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SPORT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+The umpires declared that play should start.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To umpire a game 
+</seg>
+pomeni biti sodnik na tekmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soditi
+</quote>
+</cit>
+</sense>
+</entry>

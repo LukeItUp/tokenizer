@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impatient
+</orth>
+<form type="variant">
+<pron>
+/Imp*e*IS@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+impatient
+</seg>
+, je jezen, ker mora na nekaj predolgo &ccaron;akati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nestrpen, nepotrpe&zcaron;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Englishman became impatient.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+impatiently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Oliver stood waiting impatiently.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+impatience
+</orth>
+<form type="variant">
+<pron>
+/Imp*e*IS@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Chris watched me with some impatience.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be impatient to do something 
+</seg>
+pomeni biti &zcaron;eljan nekaj storiti. 
+<seg type="lemma">
+To be impatient for something to happen 
+</seg>
+pomeni &zcaron;eleti, da bi se nekaj takoj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nestrpen, nepotrpe&zcaron;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Philip was impatient to inspect his place of work.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+impatiently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He looked forward impatiently to Kumar&apos;s next visit.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+impatience
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was awaiting the outcome with impatience.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

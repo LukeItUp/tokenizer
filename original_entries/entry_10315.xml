@@ -1,0 +1,426 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pay
+</orth>
+<form type="variant">
+<pron>
+/p*e*I/
+</pron>
+</form>
+<form type="inflected">
+pays, paying, paid
+</form>
+<form type="variant">
+<pron>
+/p*e*Id/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays someone an amount of money for something
+</seg>
+, osebi, ki mu je nekaj dala ali storila nekaj zanj, da dolo&ccaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had paid &pound;5,000 for the boat.
+</quote>
+<quote>
+Pay me five pounds.
+</quote>
+<quote>
+He paid his bill and left.
+</quote>
+<quote>
+I&apos;ll pay by cheque.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar delodajalec 
+<seg type="lemma">
+pays someone
+</seg>
+, tisti osebi daje tedensko ali mese&ccaron;no pla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was being paid sixty dollars a week.
+</quote>
+<quote>
+The company pays well.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s pay 
+</seg>
+je denar, ki ga &ccaron;lovek dobi kot tedensko ali mese&ccaron;no pla&ccaron;ilo za opravljeno delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She lost three weeks&apos; pay.
+</quote>
+<quote>
+...a pay rise of &pound;20 a week.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar posel, pogodba ali nalo&zcaron;ba 
+<seg type="lemma">
+pays a particular amount
+</seg>
+, navr&zcaron;e dolo&ccaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prinesti denar, biti pla&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A day&apos;s work pays &pound;2,500.
+</quote>
+<quote>
+She complained about her job and how poorly it paid.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neko ravnanje 
+<seg type="lemma">
+pays
+</seg>
+, prinese dolo&ccaron;eno prednost ali korist. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spla&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It pays to keep on the right side of your boss.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays for something
+</seg>
+, trpi ali nosi neprijetne posledice zaradi tega, kar dela ali kar je storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ati za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He paid dearly for his mistake.
+</quote>
+<quote>
+The men paid with their lives.
+</quote>
+<quote>
+You failed, and you must pay the penalty.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glagol 
+<seg type="lemma">
+pay 
+</seg>
+uporabljamo skupaj z nekaterimi samostalniki, ko &zcaron;elimo povedati, da nekdo nekaj da ali stori. 
+</def>
+<seg type="example">
+<quote>
+It would be nice if you paid me a visit.
+</quote>
+<quote>
+I paid little attention to what I heard.
+</quote>
+<quote>
+It was probably the greatest compliment I could have paid her.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pay one&apos;s way
+</seg>
+ pomeni, da nekdo sam pla&ccaron;a za stvari, ki jih potrebuje, in ne dovoli, da bi to storili drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; ne ostati dol&zcaron;an, sam se pre&zcaron;ivljati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+paid
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pay back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays back money
+</seg>
+, po dolo&ccaron;enem &ccaron;asu v enakem znesku vrne denar, ki si ga je sposodil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll pay you back next week.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays someone back for something
+</seg>
+, tisti osebi, ki mu je povzro&ccaron;ila nekaj neprijetnega, naredi nekaj, zaradi &ccaron;esar bo trpela tudi ona. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrniti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pay off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays off a debt
+</seg>
+, vrne ves denar, ki ga je bil dol&zcaron;an. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpla&ccaron;ati, vrniti dolg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had used the firm&apos;s money to pay off gambling debts.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar dejanje 
+<seg type="lemma">
+pays off
+</seg>
+, je uspe&scaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spla&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was a risk and it paid off.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+payoff
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pay out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays out money
+</seg>
+, za dolo&ccaron;eno stvar porabi denar; ponavadi gre za veliko vsoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had paid out good money to educate Julie.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pay up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays up
+</seg>
+, neki osebi da denar, ki ji ga dolguje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpla&ccaron;ati, popla&ccaron;ati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

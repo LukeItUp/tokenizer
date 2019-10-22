@@ -1,0 +1,180 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rate
+</orth>
+<form type="variant">
+<pron>
+/r*e*It/
+</pron>
+</form>
+<form type="inflected">
+rates, rating, rated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The rate at which something happens 
+</seg>
+je hitrost ali pogostost dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja, hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the rapid rate of change which the industrial world is facing.
+</quote>
+<quote>
+The divorce rate is fantastically high.
+</quote>
+<quote>
+...a rising rate of unemployment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The rate of taxation or interest 
+</seg>
+je vi&scaron;ina davkov ali obresti, izra&zcaron;ena v odstotkih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja, mera
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This money is taxed at the rate of 59%.
+</quote>
+<quote>
+...a good rate of interest.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rates 
+</seg>
+je bil v Veliki Britaniji do leta 1990 krajevni davek, ki so ga pla&ccaron;evali lastniki stavb ali tisti, ki so oddajali neopremljene stavbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;inske dav&scaron;&ccaron;ine
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+rate 
+</seg>
+uporabimo, ko &zcaron;elimo izraziti osebno mnenje o kom ali &ccaron;em. Na primer, 
+<seg type="lemma">
+to rate someone as brilliant 
+</seg>
+pomeni, da je po na&scaron;em mnenju tisti &ccaron;lovek genialen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti za, ocenjevati kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was a self-taught geologist, rated as one of the best.
+</quote>
+<quote>
+Leontiev rated socialism highly.
+</quote>
+<quote>
+On a scale of one to ten, it probably rated about number seven.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+rating
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da se bo nekaj zgodilo 
+<seg type="lemma">
+at this rate
+</seg>
+, ho&ccaron;emo povedati, da se bo zgodilo, &ccaron;e se bo zdaj&scaron;nje stanje nadaljevalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;e bo &scaron;lo tako naprej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At this rate we&apos;ll be millionaires by Christmas!
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+at any rate 
+</seg>
+naka&zcaron;emo, da je pomembno tisto, kar bomo v nadaljevanju rekli, in ne tisto, kar smo &zcaron;e rekli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kakorkoli &zcaron;e, naj bo tako ali druga&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t think there&apos;s been an edition since 1977; at any rate that&apos;s the one I&apos;ll be referring to.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

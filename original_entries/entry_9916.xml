@@ -1,0 +1,502 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+order
+</orth>
+<form type="variant">
+<pron>
+/*O*:d@/
+</pron>
+</form>
+<form type="inflected">
+orders, ordering, ordered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone an order 
+</seg>
+pomeni, da &ccaron;lovek, ki ima mo&ccaron; ali oblast, nekomu re&ccaron;e, da mora nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukaz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George went away to carry out this order.
+</quote>
+<quote>
+An official inquiry was set up on the orders of the Minister of Health.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To order someone to do something 
+</seg>
+ali 
+<seg type="lemma">
+to order something to be done 
+</seg>
+pomeni, da nekdo, ki ima mo&ccaron; ali oblast, drugim re&ccaron;e, naj nekaj naredijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He ordered me to fetch the books.
+</quote>
+<quote>
+Sherman ordered an investigation into her husband&apos;s death.
+</quote>
+<quote>
+The Captain ordered the ship&apos;s masts to be cut down.
+</quote>
+<quote>
+&lsquo;Sit down!&rsquo; he ordered.
+</quote>
+<quote>
+The prime minister ordered that they be taken to prison.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An order 
+</seg>
+je nekaj, kar naro&ccaron;imo, naj nam prinesejo ali po&scaron;ljejo v zameno za pla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A waiter came to take their order.
+</quote>
+<quote>
+We will continue to deal with overseas orders.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To order something 
+</seg>
+pomeni prositi, naj nam nekaj prinesejo ali po&scaron;ljejo v zameno za pla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She ordered an extra delivery of coal.
+</quote>
+<quote>
+I&apos;ll order now.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je niz stvari razporejen ali narejen 
+<seg type="lemma">
+in a particular order
+</seg>
+, je ena stvar postavljena na prvo mesto ali narejena najprej, nato pride na vrsto druga, pa tretja in tako dalje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v dolo&ccaron;enem vrstnem redu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The names are not in alphabetical order.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Order 
+</seg>
+je stanje, ko je vsaka stvar na svojem mestu ali narejena ob pravem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+red
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt it would create some order in our lives.
+</quote>
+<quote>
+Gretchen combed her hair into some sort of order.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Order 
+</seg>
+je tudi stanje, ko ljudje skupaj &zcaron;ivijo v miru in se ne spopadajo ali povzro&ccaron;ajo nemirov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+red
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the task of restoring order.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular order 
+</seg>
+je lahko tudi na&ccaron;in, kako je dru&zcaron;ba urejena v dolo&ccaron;enem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ureditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They don&apos;t accept the existing order.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An order 
+</seg>
+je tudi skupina menihov ali nun, ki &zcaron;ivijo po dolo&ccaron;enih pravilih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+red
+</quote>
+</cit>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za nekaj re&ccaron;emo, da je 
+<seg type="lemma">
+of a particular order
+</seg>
+, imamo v mislih nekaj, za kar je zna&ccaron;ilna dolo&ccaron;ena koli&ccaron;ina, &scaron;tevilo ali stopnja; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+red, vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a thinker of the highest order.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+in order to achieve a particular thing
+</seg>
+, naredimo zato, ker &zcaron;elimo dose&ccaron;i zadani cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(zato,) da bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had to hurry in order to reach the next place on his schedule.
+</quote>
+<quote>
+Rose trod with care, in order not to spread the dirt.
+</quote>
+<quote>
+They are learning English in order that they can study engineering.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+under orders to do something
+</seg>
+, mu je nekdo, ki ima mo&ccaron;, ukazal, naj nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti ukaz
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je v trgovini nekaj 
+<seg type="lemma">
+on order
+</seg>
+, to pomeni, da je &zcaron;e naro&ccaron;eno, vendar &scaron;e ne dobavljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;en
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar niz stvari naredimo, razvrstimo ali razre&scaron;imo 
+<seg type="lemma">
+in order
+</seg>
+, jih naredimo, razvrstimo ali razre&scaron;imo v pravilnem zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vrsti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep order 
+</seg>
+ali 
+<FV>
+to keep people in order 
+</FV>
+pomeni prepre&ccaron;evati drugim, da bi se vedli mote&ccaron;e ali nasilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohranjati red
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Stroj ali naprava, ki je 
+<seg type="lemma">
+in working order
+</seg>
+, deluje pravilno in ni pokvarjena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delujo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cars in good working order.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Stroj ali naprava, ki je 
+<seg type="lemma">
+out of order
+</seg>
+, je pokvarjena in ne dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvarjen
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in the order of 
+</seg>
+ali 
+<FV>
+of the order of 
+</FV>
+uporabljamo, ko navajamo pribli&zcaron;no &scaron;tevilo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pribli&zcaron;no, okoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Britain&apos;s contribution is something in the order of 5 per cent.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+a tall order: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+tall
+</ref>
+</xr>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+law and order, 
+</ref>
+<ref>
+mail order, 
+</ref>
+<ref>
+postal order, 
+</ref>
+<ref>
+standing order
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+order about 
+<VS>
+ali 
+</VS>
+<VV>
+order around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To order someone about 
+</seg>
+ali 
+<seg type="variant">
+to order someone around 
+</seg>
+pomeni ukazovati nekomu, kaj mora delati, in to brez razumevanja ali so&ccaron;utja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazovati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

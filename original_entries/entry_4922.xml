@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+excess,
+</orth>
+<form type="inflected">
+excesses;
+</form>
+<PN>
+pridevnik izgovarjamo 
+<pron>
+/*ekses/
+</pron>
+, samostalnik pa 
+<pron>
+/I2ks*es/
+</pron>
+ ali 
+<pron>
+/*ekses/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An excess of something 
+</seg>
+je ve&ccaron;ja koli&ccaron;ina, kot je potrebna ali kot je ponavadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prese&zcaron;ek, prekora&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Inflation results from an excess of demand over supply.
+</quote>
+<quote>
+This report should discourage us all from eating an excess of fat.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The body gets rid of excess water through the urine.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj delamo 
+<seg type="lemma">
+to excess
+</seg>
+, tisto delamo &ccaron;ezmerno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preve&ccaron;, pretirano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spent all his time cleaning and tidying to excess.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Excesses 
+</seg>
+so dejanja, ki so skrajna, kruta ali neeti&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasilna dejanja, izgredi, ekscesi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the worst excesses of the French Revolution.
+</quote>
+</seg>
+</sense>
+</entry>

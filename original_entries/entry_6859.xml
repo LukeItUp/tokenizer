@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+homesick
+</orth>
+<form type="variant">
+<pron>
+/h*@*UmsIk/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+homesick
+</seg>
+, je nesre&ccaron;en, ker je dale&ccaron; od doma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domoto&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The smell of the grass made her homesick for her parents&apos; farm.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+homesickness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a sudden spasm of homesickness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

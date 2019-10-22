@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+waltz
+</orth>
+<form type="variant">
+<pron>
+/w*O*:ls/
+</pron>
+</form>
+<form type="inflected">
+waltzes, waltzing, waltzed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A waltz 
+</seg>
+je skladba v tri&ccaron;etrtinskem taktu, ob kateri ljudje ple&scaron;ejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A waltz 
+</seg>
+je tudi ples, ki ga ljudje ple&scaron;ejo na glasbo v tri&ccaron;etrtinskem taktu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve osebi 
+<seg type="lemma">
+waltz
+</seg>
+, skupaj ple&scaron;eta val&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plesati val&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I dreamt of going to Hollywood to waltz with Ginger Rogers.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To waltz into a place 
+</seg>
+pomeni vstopiti hitro in samozavestno, tako da nas ljudje opazijo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+privr&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She waltzed across to Helen and sat down beside her.
+</quote>
+</seg>
+</sense>
+</entry>

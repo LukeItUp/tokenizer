@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+corps
+</orth>
+<form type="variant">
+<pron>
+/k*O*:/
+</pron>
+</form>
+<IN>
+<IH>
+Corps 
+</IH>
+<IC>
+je edninska in mno&zcaron;inska oblika.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A corps 
+</seg>
+je del vojske s posebnimi dol&zcaron;nostmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korpus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Royal Army Ordnance Corps.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A corps 
+</seg>
+je tudi majhna skupina ljudi, ki opravljajo posebno nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the diplomatic corps.
+</quote>
+</seg>
+</sense>
+</entry>

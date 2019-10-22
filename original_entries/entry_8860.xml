@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+meeting
+</orth>
+<form type="variant">
+<pron>
+/m*i*:tIN/
+</pron>
+</form>
+<form type="inflected">
+meetings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A meeting 
+</seg>
+je dogodek, pri katerem se ljudje pogovarjajo o dolo&ccaron;enih stvareh in sprejemajo odlo&ccaron;itve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestanek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The committee will consider the proposal at its next meeting.
+</quote>
+<quote>
+I held a meeting that afternoon.
+</quote>
+<quote>
+...a meeting of physicists.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+meeting
+</seg>
+ lahko uporabimo tudi za ljudi, ki se udele&zcaron;ijo sestanka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udele&zcaron;enci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The meeting agreed with him.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A meeting 
+</seg>
+je tudi dogodek, ko nekdo sre&ccaron;a neko osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his first meeting with Alice.
+</quote>
+</seg>
+</sense>
+</entry>

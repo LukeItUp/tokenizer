@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+butcher
+</orth>
+<form type="variant">
+<pron>
+/b*UtS@/
+</pron>
+</form>
+<form type="inflected">
+butchers, butchering, butchered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A butcher 
+</seg>
+je trgovec, ki prodaja meso. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesar
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A butcher 
+</seg>
+ali 
+<seg type="variant">
+a butcher's 
+</seg>
+je trgovina, kjer prodajajo meso. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesar, mesarija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There's a family butcher at the end of our road.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To butcher a lot of people 
+</seg>
+pomeni kruto pobiti ve&ccaron;je &scaron;tevilo ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklati, zaklati
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,256 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fine
+</orth>
+<form type="variant">
+<pron>
+/f*a*In/
+</pron>
+</form>
+<form type="inflected">
+finer, finest; fines, fining, fined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+fine 
+</seg>
+opi&scaron;emo nekaj, kar je zelo dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lep, sijajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+From the top there is a fine view.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+fine
+</seg>
+, je zadovoljivo ali sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro, v redu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Do you want it stronger than that?&rsquo;&mdash;&lsquo;No, that&apos;s fine.&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We get on fine.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+I am fine 
+</seg>
+opi&scaron;emo, da se dobro po&ccaron;utimo in smo povsem zadovoljni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;How are you?&rsquo;&mdash;&lsquo;Fine, thanks.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+fine
+</seg>
+, je sestavljeno iz zelo majhnih ali ozkih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+droben, tanek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...fine hair.
+</quote>
+<quote>
+...handfuls of fine sand.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+finely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...finely chopped meat.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prilagoditev ali razlika, ki je 
+<seg type="lemma">
+fine
+</seg>
+, je neznatna ali zelo natan&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+droben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their eyes are trained to see the fine detail.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+finely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...finely balanced systems.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je vreme 
+<seg type="lemma">
+fine
+</seg>
+, je son&ccaron;no in ne de&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fine summer&apos;s day.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be fined 
+</seg>
+pomeni biti kaznovan tako, da nam odredijo pla&ccaron;ilo dolo&ccaron;enega zneska. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti kaznovan z globo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The demonstrators were fined &pound;5 each for breach of the peace.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fine 
+</seg>
+je znesek, ki ga mora nekdo pla&ccaron;ati za kazen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He paid a &pound;10,000 fine for income tax evasion.
+</quote>
+</seg>
+</sense>
+</entry>

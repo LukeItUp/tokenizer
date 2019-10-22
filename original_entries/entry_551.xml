@@ -15,25 +15,23 @@ answers, answering, answered.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
-OBJ,
+OBJ, 
 <seg>
-or
+or 
 </seg>
-REPORT
-VB
+REPORT VB
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 answers someone
 </seg>
-ki ga je
-nekaj vpra&#353;al, tistemu &#269;loveku nekaj odvrne.
+, ki ga je nekaj vpra&scaron;al, tistemu &ccaron;loveku nekaj odvrne. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -42,7 +40,7 @@ odgovoriti
 </cit>
 <seg type="example">
 <quote>
-"Did he win?"&#8212;&#382;No," I answered.
+&lsquo;Did he win?&rsquo;&mdash;&zcaron;No,&rsquo; I answered.
 </quote>
 <quote>
 He answered that the price would be three pounds.
@@ -52,19 +50,18 @@ He answered that the price would be three pounds.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To answer a letter or advertisement
+To answer a letter or advertisement 
 </seg>
-pomeni
-odpisati osebi, ki nam je poslala pismo ali oglas.
+pomeni odpisati osebi, ki nam je poslala pismo ali oglas. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -80,10 +77,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An answer
+An answer 
 </seg>
-je nekaj, kar re&#269;emo ali
-napi&#353;emo, kadar nekomu odgovarjamo.
+je nekaj, kar re&ccaron;emo ali napi&scaron;emo, kadar nekomu odgovarjamo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -99,32 +95,30 @@ The answer to your question is no!
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 answers the telephone
 </seg>
-dvigne
-telefonsko slu&#353;alko, ko zazvoni. Kadar &#269;lovek
+, dvigne telefonsko slu&scaron;alko, ko zazvoni. Kadar &ccaron;lovek 
 <seg type="lemma">
-answers the
-door
+answers the door
 </seg>
-odpre vrata, kadar zasli&#353;i trkanje ali zvonjenje.
+, odpre vrata, kadar zasli&scaron;i trkanje ali zvonjenje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 odzvati se (oglasiti se, odpreti)
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -135,7 +129,7 @@ COUNT N
 I rang the doorbell, but there was no answer.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="5">
 <gramGrp>
@@ -145,14 +139,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An answer to a problem
+An answer to a problem 
 </seg>
-je mo&#382;na razre&#353;itev
-problema.
+je mo&zcaron;na razre&scaron;itev problema. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-re&#353;itev
+re&scaron;itev
 </quote>
 </cit>
 </sense>
@@ -164,10 +157,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The answer to a question
+The answer to a question 
 </seg>
-na izpitu je
-nekaj, kar &#353;tudent napi&#353;e ali pove v &#382;elji, da bi navedel podatke.
+na izpitu je nekaj, kar &scaron;tudent napi&scaron;e ali pove v &zcaron;elji, da bi navedel podatke. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -178,20 +170,19 @@ odgovor
 <sense n="7">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-answers a question
+answers a question 
 </seg>
-v
-vpra&#353;alniku ali na izpitu, nanj da odgovor.
+v vpra&scaron;alniku ali na izpitu, nanj da odgovor. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -204,7 +195,6 @@ You have to answer four questions.
 </quote>
 </seg>
 </sense>
-<sense>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -218,17 +208,15 @@ PHR VB
 </gramGrp>
 <sense>
 <def xml:lang="sl">
-Kadar &#269;lovek, zlasti otrok,
+Kadar &ccaron;lovek, zlasti otrok, 
 <seg type="lemma">
-answers
-someone back
+answers someone back 
 </seg>
-ali
+ali 
 <seg type="lemma">
 answers back
 </seg>
-nesramno
-odgovori, kadar ga ogovorimo.
+, nesramno odgovori, kadar ga ogovorimo. 
 </def>
 <cit type="translationEquivalent">
 <quote>

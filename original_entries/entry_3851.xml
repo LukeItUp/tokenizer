@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+difference
+</orth>
+<form type="variant">
+<pron>
+/d*If@0r@ns/
+</pron>
+</form>
+<form type="inflected">
+differences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The difference between things 
+</seg>
+je na&ccaron;in, po katerem se stvari med seboj razlikujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlika, razlo&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is an essential difference between computers and humans.
+</quote>
+<quote>
+Look at their difference in size.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The difference between two amounts 
+</seg>
+je koli&ccaron;ina, za katero je en znesek manj&scaron;i ali ve&ccaron;ji od drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlika
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+have their differences
+</seg>
+, se z ne&ccaron;im ne strinjajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nestrinjanje, spor
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes a difference
+</seg>
+, spremeni neki polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ biti pomembno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It makes no difference whether he is a citizen or not.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

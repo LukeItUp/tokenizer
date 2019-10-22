@@ -1,0 +1,298 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+can,
+</orth>
+<form type="inflected">
+cans, canning, canned.
+</form>
+<PN>
+Od 1. do 5. pomena besedo 
+<PP>
+can 
+</PP>
+izgovarjamo 
+<pron>
+/k*&ae;n/
+</pron>
+ ali 
+<pron>
+/k@n/
+</pron>
+, od 6. do 8. pomena pa jo vedno izgovarjamo 
+<form type="variant">
+<pron>
+/k*&ae;n/
+</pron>
+</form>
+</PN>
+<IN>
+<IH>
+Canned 
+</IH>
+<IC>
+je oblika za preteklik in pretekli dele&zcaron;nik pri 7. pomenu.
+</IC>
+<ref>
+Could 
+</ref>
+<IC>
+je lahko tudi preteklik od naklonskega glagola 
+</IC>
+<IH>
+can, 
+</IH>
+<IC>
+v tem slovarju pa besedi obravnavamo lo&ccaron;eno.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+can do something
+</seg>
+, lahko ali sme nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+m&ocirc;&ccaron;i, znati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many people cannot afford telephones.
+</quote>
+<quote>
+&lsquo;Will you stay for lunch?&rsquo;&mdash;&lsquo;I can't.&rsquo;
+</quote>
+<quote>
+You can borrow that pen if you want to.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+can do something
+</seg>
+, ima spretnost ali sposobnost, da nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+m&ocirc;&ccaron;i, znati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some people can ski better than others.
+</quote>
+<quote>
+My wife can't sew.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+can 
+</seg>
+uporabljamo v vpra&scaron;anjih, kadar ho&ccaron;emo nekoga vljudno prositi, naj nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ali/bi lahko...
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can you tell me the time?
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da nekaj 
+<seg type="lemma">
+cannot be true 
+</seg>
+ali 
+<seg type="lemma">
+cannot happen
+</seg>
+, povemo, da tisto po na&scaron;em mnenju ni res ali se ne bo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne more biti, se ne more zgoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This cannot be the whole story.
+</quote>
+<quote>
+He can hardly have read the report with much care.
+</quote>
+<quote>
+He can't have said that.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Can't 
+</seg>
+in 
+<seg type="lemma">
+can ... not 
+</seg>
+uporabljamo v vpra&scaron;anjih, da ljudi prosimo, naj nekaj storijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ali ne bi mogli..., bi lahko...
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can't we talk about it?
+</quote>
+<quote>
+Can't you keep your voice down?
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A can 
+</seg>
+je neprodu&scaron;no zaprta kovinska posoda za hrano, pija&ccaron;o ali barvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plo&ccaron;evinka, konzerva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...beer cans.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+can 
+</seg>
+lahko uporabljamo za plo&ccaron;evinko in njeno vsebino ali samo za vsebino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plo&ccaron;evinka, konzerva
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...cans of beans.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je hrana ali pija&ccaron;a 
+<seg type="lemma">
+canned
+</seg>
+, je neprodu&scaron;no zaprta v kovinsko posodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konzerviran, v plo&ccaron;evinki
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+canned
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...canned beer.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+canned
+</ref>
+</xr>
+</sense>
+</entry>

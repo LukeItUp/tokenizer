@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p763_s840692" id="p763_w1106" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="608.092" base="614.5" width="33.9589" height="8.514">surgeon</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p763_s840693" id="p763_w1107" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="292.8" y="609.338" base="614.5" width="33.9116" height="6.844">/s&#197;&#194;d&#199;6n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p763_s840694" id="p763_w1108" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="330.41" y="609.16" base="614.5" width="32.2204" height="7.08">surgeons.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p763_s840695" id="p763_w1109" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="366.33" y="610.584" base="614.5" width="19.2505" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p763_s840696" id="p763_w1110" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="388.11" y="610.584" base="614.5" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p763_s840697" id="p763_w1111" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.9" y="608.804" base="614.5" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p763_s840698" id="p763_w1112" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="405.2" y="608.804" base="614.5" width="27.2376" height="7.552">surgeon</TOKEN>
+</seg>
+<TOKEN sid="p763_s840699" id="p763_w1113" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.13" y="608.804" base="614.5" width="6.09984" height="7.552">je</TOKEN>
+<TOKEN sid="p763_s840700" id="p763_w1114" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="241.97" y="47.272" base="53.68" width="15.0102" height="8.496">763</TOKEN>
+<TOKEN sid="p763_s840701" id="p763_w1115" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="48.512" base="54.92" width="47.957" height="8.514">supposition</TOKEN>
+<TOKEN sid="p763_s840702" id="p763_w1116" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="408.98" y="48.512" base="54.92" width="33.2407" height="8.514">surgeon</TOKEN>
+<TOKEN sid="p763_s840703" id="p763_w1117" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="56.72" y="632.046" base="637.03" width="5.69268" height="6.608">a&#203;</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p763_s840704" id="p763_w1118" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="65.9104" y="632.046" base="637.03" width="9.45252" height="6.608">cry</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p763_s840705" id="p763_w1119" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="92.1701" y="632.046" base="637.03" width="8.84016" height="6.608">a&#203;6</TOKEN>
+<TOKEN sid="p763_s840706" id="p763_w1120" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="104.521" y="632.046" base="637.03" width="10.3698" height="6.608">fire</TOKEN>
+<TOKEN sid="p763_s840707" id="p763_w1121" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="131.701" y="632.046" base="637.03" width="7.00308" height="6.608">a&#205;</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

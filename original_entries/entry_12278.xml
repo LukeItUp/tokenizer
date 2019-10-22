@@ -1,0 +1,265 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+safe
+</orth>
+<form type="variant">
+<pron>
+/s*e*If/
+</pron>
+</form>
+<form type="inflected">
+safer, safest; safes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+safe
+</seg>
+, ni &scaron;kodljivo ali nevarno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This powder is not safe for babies.
+</quote>
+<quote>
+It isn&apos;t safe to swim here.
+</quote>
+<quote>
+Keep your passport in a safe place.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+safely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Most food can safely be frozen for months.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be safe 
+</seg>
+pomeni, da nismo v nikakr&scaron;ni nevarnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re safe now. They&apos;ve gone.
+</quote>
+<quote>
+They were safe from attack.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri potovanju ali prihodu, ki je 
+<seg type="lemma">
+safe
+</seg>
+, se nikomur ne zgodi ni&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the safe delivery of essential equipment.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+safely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I sent a telegram to my mother saying I had arrived safely.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+It is safe to say something
+</seg>
+ pomeni, da lahko nekaj re&ccaron;emo brez tveganja, da bi se motili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mirno lahko re&ccaron;emo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These practices, it is safe to say, are no longer common.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+safely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+These creatures, we can safely say, have been dead a long time.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je skrivnost 
+<seg type="lemma">
+safe with someone
+</seg>
+, je tista oseba zanesljivo ne bo nikomur povedala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They knew their secrets would be safe with him.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A safe 
+</seg>
+je mo&ccaron;na kovinska &scaron;katla s posebnimi klju&ccaron;avnicami, v kateri hranimo denar, nakit in druge dragocenosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sef
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be safe and sound 
+</seg>
+pomeni, da se nekomu, ki je bil v nevarnosti, ni zgodilo ni&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;iv in zdrav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m glad to see you home safe and sound.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To play safe 
+</seg>
+pomeni, da ne tvegamo po nepotrebnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti previden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Play safe and always wear goggles.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+in safe hands
+</seg>
+, zanj ali za tisto stvar skrbijo zanesljivi ljudje, tako da se ne more ni&ccaron; zgoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na varnem, v varnih rokah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t worry, she&apos;s in safe hands at the hospital.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

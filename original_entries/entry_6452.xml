@@ -1,0 +1,229 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+half
+</orth>
+<form type="variant">
+<pron>
+/h*A*:f/
+</pron>
+</form>
+<form type="inflected">
+halves
+</form>
+<form type="variant">
+<pron>
+/h*A*:vz/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+QUANTIF, PREDET, PRON, 
+<seg>
+or 
+</seg>
+COUNT NOUN
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Half of an amount or object 
+</seg>
+je eden od dveh enakih delov, ki skupaj sestavljata celotno koli&ccaron;ino ali predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polovica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I went to Poland four and a half years ago.
+</quote>
+<quote>
+Half of the patients are not receiving the drug.
+</quote>
+<quote>
+Half his front teeth are missing.
+</quote>
+<quote>
+Roughly half are French.
+</quote>
+<quote>
+The changes will have repercussions for both halves of Germany.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+half 
+</seg>
+uporabljamo tudi za ozna&ccaron;evanje polovice ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polovica, pol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a half chicken.
+</quote>
+<quote>
+The film wouldn&apos;t end for another half hour.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+half 
+</seg>
+tudi povemo, da je nekaj samo delno tako ali se zgodi samo do omejenega obsega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He half expected to see Davis there.
+</quote>
+<quote>
+His eyes were half-closed.
+</quote>
+<quote>
+...his half empty glass.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+half 
+</seg>
+lahko povemo, da ima nekdo star&scaron;e razli&ccaron;nih narodnosti. Na primer, &ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+half German
+</seg>
+, je eden od njegovih star&scaron;ev Nemec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napol
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+half 
+</seg>
+uporabljamo z besedo 
+<seg type="lemma">
+past
+</seg>
+, kadar govorimo o &ccaron;asu, ki je trideset minut poznej&scaron;i od dolo&ccaron;ene ure. Na primer, &ccaron;e je ura 
+<seg type="lemma">
+half past two
+</seg>
+, je od druge ure minilo trideset minut. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pol
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekaj pove&ccaron;amo 
+<seg type="lemma">
+by half
+</seg>
+, prvotni koli&ccaron;ini dodamo &scaron;e polovico. &Ccaron;e nekaj zmanj&scaron;amo 
+<seg type="lemma">
+by half
+</seg>
+, prvotni koli&ccaron;ini odvzamemo polovico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za polovico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She reckoned she cut her costs by half.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+divided in half
+</seg>
+, je razdeljeno na dva enaka dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tore it in half.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar dve osebi 
+<seg type="lemma">
+go halves
+</seg>
+, si stro&scaron;ke ne&ccaron;esa razdelita na enaki polovici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpoloviti stro&scaron;ke, deliti stro&scaron;ke na pol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Janet is going halves with Cheryl.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

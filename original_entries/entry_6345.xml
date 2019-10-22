@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+group
+</orth>
+<form type="variant">
+<pron>
+/gr*u*:p/
+</pron>
+</form>
+<form type="inflected">
+groups, grouping, grouped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A group 
+</seg>
+je &scaron;tevilo oseb ali stvari, ki so skupaj na istem kraju ob istem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a group of buildings.
+</quote>
+<quote>
+...standing in a group in the centre of the room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A group 
+</seg>
+je vrsta oseb ali stvari, ki imajo nekaj skupnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...children of his age group.
+</quote>
+<quote>
+...a parents&apos; action group.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+pressure group
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A group 
+</seg>
+je tudi &scaron;tevilo glasbenikov, ki skupaj izvajajo popularno glasbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To group a number of things or people 
+</seg>
+pomeni poskrbeti, da ve&ccaron; stvari ali oseb nekako pride skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uvrstiti v skupine, razvrstiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They encouraged workers and consumers to group together.
+</quote>
+<quote>
+Occupations are grouped into separate categories.
+</quote>
+</seg>
+</sense>
+</entry>

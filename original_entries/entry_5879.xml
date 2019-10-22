@@ -1,0 +1,179 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gain
+</orth>
+<form type="variant">
+<pron>
+/g*e*In/
+</pron>
+</form>
+<form type="inflected">
+gains, gaining, gained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gain a quality 
+</seg>
+pomeni postopno dobiti neko lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The speaker began to gain confidence.
+</quote>
+<quote>
+The opposition party is gaining in popularity.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gain from something 
+</seg>
+pomeni od tistega imeti korist. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is not only banks who will gain from the coming of electronic money.
+</quote>
+<quote>
+What has Britain gained by being a member of the EEC?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gain 
+</seg>
+je izbolj&scaron;anje ali pove&ccaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobi&ccaron;ek, korist
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The company has made notable gains in productivity.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something for gain 
+</seg>
+pomeni nekaj storiti, da bi zase pridobili korist; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+korist
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did it for financial gain.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ura 
+<seg type="lemma">
+is gaining
+</seg>
+, se kazalci na &scaron;tevil&ccaron;nici pomikajo okoli nekoliko hitreje, kot bi se smeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehitevati
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+gain on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To be gaining on someone or something 
+</seg>
+pomeni nekoga ali nekaj postopoma dohitevati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dohitevati, pribli&zcaron;evati se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prune
+</orth>
+<form type="variant">
+<pron>
+/pr*u*:n/
+</pron>
+</form>
+<form type="inflected">
+prunes, pruning, pruned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A prune 
+</seg>
+je posu&scaron;ena sliva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+suha sliva
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prune a tree or bush 
+</seg>
+pomeni porezati nekaj vej z drevesa ali grma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went to prune the roses.
+</quote>
+</seg>
+</sense>
+</entry>

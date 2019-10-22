@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+substitute
+</orth>
+<form type="variant">
+<pron>
+/s*VbstItju:t/
+</pron>
+</form>
+<form type="inflected">
+substitutes, substituting, substituted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To substitute one thing for another 
+</seg>
+pomeni uporabiti eno stvar namesto druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati z, nadomestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Force was substituted for argument.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+substitution
+</orth>
+<form type="variant">
+<pron>
+/s*VbstItj*u*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the substitution of local goods for those previously imported.
+</quote>
+<quote>
+Some of these substitutions were successful.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A substitute 
+</seg>
+je nekaj, kar imamo ali uporabljamo namesto ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadomestek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their dog was a substitute for the children they never had.
+</quote>
+</seg>
+</sense>
+</entry>

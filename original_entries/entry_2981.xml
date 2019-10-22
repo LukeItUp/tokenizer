@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+conversation
+</orth>
+<form type="variant">
+<pron>
+/k*Qnv@s*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+conversations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a conversation with someone 
+</seg>
+pomeni z nekom govoriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti pogovor, govoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Roger and I had a conversation about the risks.
+</quote>
+<quote>
+He spent some hours in conversation with me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make conversation 
+</seg>
+pomeni govoriti z nekom iz vljudnosti in ne zato, ker si to &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovarjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He didn't like having to make conversation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

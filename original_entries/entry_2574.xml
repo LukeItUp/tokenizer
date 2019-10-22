@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+collaborate
+</orth>
+<form type="variant">
+<pron>
+/k@l*&ae;b@reIt/
+</pron>
+</form>
+<form type="inflected">
+collaborates, collaborating, collaborated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To collaborate 
+</seg>
+pomeni delati skupaj na dolo&ccaron;enem projektu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Antony and I are collaborating on a paper.
+</quote>
+<quote>
+The university hopes to collaborate with industry.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+collaboration
+</orth>
+<form type="variant">
+<pron>
+/k@l*&ae;b@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...photographs published by Collins in collaboration with the War Museum.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+collaborator
+</orth>
+<form type="variant">
+<pron>
+/k@l*&ae;b@reIt@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My collaborator Roy Lewis and I did a series of articles for Radio 4.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+collaborates with enemies
+</seg>
+, pomaga sovra&zcaron;nikom; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kolaborirati, sodelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I believe he collaborated with the Nazis.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+collaborator
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...violence against alleged collaborators.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

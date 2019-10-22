@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deadline
+</orth>
+<form type="variant">
+<pron>
+/d*edlaIn/
+</pron>
+</form>
+<form type="inflected">
+deadlines.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deadline 
+</seg>
+je &ccaron;as ali datum, pred katerim mora biti uresni&ccaron;ena dolo&ccaron;ena naloga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must meet the deadline.
+</quote>
+</seg>
+</sense>
+</entry>

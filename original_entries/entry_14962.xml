@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twine
+</orth>
+<form type="variant">
+<pron>
+/tw*a*In/
+</pron>
+</form>
+<form type="inflected">
+twines, twining, twined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Twine 
+</seg>
+je mo&ccaron;na gladka vrvica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron;na vrvica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ball of twine.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To twine one thing round another 
+</seg>
+pomeni potegniti ali napeljati eno stvar okoli neke druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...twining the rope around his legs.
+</quote>
+</seg>
+</sense>
+</entry>

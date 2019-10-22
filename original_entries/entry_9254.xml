@@ -1,0 +1,134 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+motivate
+</orth>
+<form type="variant">
+<pron>
+/m*@*UtIveIt/
+</pron>
+</form>
+<form type="inflected">
+motivates, motivating, motivated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+motivates someone
+</seg>
+, zlasti &ccaron;e je to kak&scaron;no &ccaron;ustvo, nekoga navede, da se vede na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people motivated by envy and the lust for power.
+</quote>
+<quote>
+My decision to make this trip was motivated by a desire to leave the country.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+motivation
+</orth>
+<form type="variant">
+<pron>
+/m*@*UtIv*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There&apos;s a political motivation for these actions.
+</quote>
+<quote>
+What was the motivation to stay at school?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+motivates someone
+</seg>
+, v nekom zbudi odlo&ccaron;nost, da bo nekaj naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have first got to motivate the children and then to teach them.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+motivated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...highly motivated and enthusiastic people.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+motivation
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She insists her success is due to motivation rather than brilliance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

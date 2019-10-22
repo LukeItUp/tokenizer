@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+liberal
+</orth>
+<form type="variant">
+<pron>
+/l*Ib@0r@l/
+</pron>
+</form>
+<form type="inflected">
+liberals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+liberal
+</seg>
+, je strpen do druga&ccaron;nega vedenja ali mnenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liberalen, strpen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My school was traditional, but more liberal than other public schools.
+</quote>
+<quote>
+...a liberal democracy.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a pair of enlightened liberals.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Liberal 
+</seg>
+pomeni tudi tak, ki daje, uporablja ali jemlje veliko ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velikodu&scaron;en, dare&zcaron;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could any man make a more liberal offer?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+liberally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tim helped himself liberally to some more wine.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

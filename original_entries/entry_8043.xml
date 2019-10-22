@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+known
+</orth>
+<form type="variant">
+<pron>
+/n*@*Un/
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Known 
+</seg>
+je pretekli dele&zcaron;nik glagola 
+<ref>
+to know
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vedeti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+known to people
+</seg>
+, se ljudje tistega zavedajo in imajo podatke o tistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There's no known cure for a cold.
+</quote>
+<quote>
+...the most dangerous substance known to man.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To let it be known that something is the case 
+</seg>
+pomeni poskrbeti, da ljudje izvedo za nekaj, ne da bi jim neposredno povedali; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dati vedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She let it be known that she wanted to leave China.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+well-known
+</ref>
+</xr>
+</sense>
+</entry>

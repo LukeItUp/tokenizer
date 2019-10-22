@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ventilate
+</orth>
+<form type="variant">
+<pron>
+/v*entIleIt/
+</pron>
+</form>
+<form type="inflected">
+ventilates, ventilating, ventilated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ventilate a room or building 
+</seg>
+pomeni zagotoviti, da v sobo ali stavbo doteka sve&zcaron; zrak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pre)zra&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The air becomes thick if it is not ventilated by fans.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ventilated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...badly ventilated houses.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+ventilation
+</orth>
+<form type="variant">
+<pron>
+/v*entIl*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The only ventilation was through a small door at the back.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

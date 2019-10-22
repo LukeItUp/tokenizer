@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clutter
+</orth>
+<form type="variant">
+<pron>
+/kl*Vt@/
+</pron>
+</form>
+<form type="inflected">
+clutters, cluttering, cluttered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Clutter 
+</seg>
+je veliko razmetanih nepotrebnih ali neuporabnih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nered, zmeda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rooms were full of clutter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; stvari 
+<seg type="lemma">
+clutter a place
+</seg>
+, so neurejeno razporejene po nekem prostoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmetano le&zcaron;ati, razmetan biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cluttering the table were papers, books, and ashtrays.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+cluttered
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He glanced around the small, cluttered room.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

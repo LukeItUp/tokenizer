@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kneel
+</orth>
+<form type="variant">
+<pron>
+/n*i*:l/
+</pron>
+</form>
+<form type="inflected">
+kneels, kneeling, knelt 
+<pron>
+/n*elt/
+</pron>
+ 
+<IS>
+ali 
+</IS>
+<IV>
+kneeled
+</IV>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be kneeling 
+</seg>
+pomeni, da so na&scaron;e noge upognjene ter da se kolena dotikajo tal in podpirajo preostalo telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kle&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph was kneeling by the fire.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+kneeling
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The kneeling figure was Mary Darling.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To kneel 
+</seg>
+ali 
+<seg type="lemma">
+to kneel down 
+</seg>
+pomeni upogniti noge in spodnji del telesa, dokler niso kolena na tleh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklekniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Together they kneeled in prayer.
+</quote>
+<quote>
+I knelt down beside her.
+</quote>
+</seg>
+</sense>
+</entry>

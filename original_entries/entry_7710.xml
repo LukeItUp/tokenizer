@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intrigue,
+</orth>
+<form type="inflected">
+intrigues, intriguing, intrigued;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/*Intri:g/
+</pron>
+, glagol pa 
+<pron>
+/Intr*i*:g/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Intrigue 
+</seg>
+je delanje skrivnih na&ccaron;rtov z namenom, da bi &scaron;kodili drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zarota, spletka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a great deal of political intrigue.
+</quote>
+<quote>
+...financial intrigues.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+intrigues someone
+</seg>
+, je nad tistim nekdo o&ccaron;aran in bi o tistem rad ve&ccaron; zvedel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbuditi zanimanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The idea seemed to intrigue him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+intrigued
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Intrigued, I followed the instructions.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+intriguing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+That sounds most intriguing.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

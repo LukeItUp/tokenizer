@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+difficulty
+</orth>
+<form type="variant">
+<pron>
+/d*IfIk@0lti1/
+</pron>
+</form>
+<form type="inflected">
+difficulties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A difficulty 
+</seg>
+je problem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are lots of difficulties that have to be overcome.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ima &ccaron;lovek 
+<seg type="lemma">
+difficulty doing something
+</seg>
+, ne&ccaron;esa ne more zlahka opraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti te&zcaron;ave pri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was having difficulty breathing.
+</quote>
+<quote>
+She spoke with difficulty.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+in difficulty 
+</seg>
+ali 
+<FV>
+in difficulties
+</FV>
+, ima veliko problemov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v stiski, imeti te&zcaron;ave
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went to the aid of a swimmer in difficulty.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

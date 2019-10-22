@@ -1,0 +1,584 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+light
+</orth>
+<form type="variant">
+<pron>
+/l*a*It/
+</pron>
+</form>
+<form type="inflected">
+lights, lighting, lit 
+<pron>
+/l*It/
+</pron>
+; lighter, lightest.
+</form>
+<IN>
+<IH>
+Lighted 
+</IH>
+<IC>
+je oblika za preteklik in pretekli dele&zcaron;nik, &ccaron;eprav je 
+</IC>
+<IH>
+lit 
+</IH>
+<IC>
+pogostej&scaron;a.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Light 
+</seg>
+je lu&ccaron;, ki nam omogo&ccaron;i, da stvari vidimo, in prihaja od sonca, lune, svetilke ali ognja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetloba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are dependent on the sun for heat and light.
+</quote>
+<quote>
+By the light of a torch, she began to read.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A light 
+</seg>
+je vse, kar oddaja svetlobo, zlasti elektri&ccaron;na &zcaron;arnica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetilka, lu&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went into her daughter&apos;s room and turned on the light.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kraj ali predmet 
+<seg type="lemma">
+is lit by something
+</seg>
+, nanj ali v njem sije lu&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvetliti, pri&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a room lit by candles.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lighted
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He looked up thoughtfully at the lighted windows.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je stavba ali soba 
+<seg type="lemma">
+light
+</seg>
+, je v njej veliko naravne svetlobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetel
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+It is light outside 
+</seg>
+lahko re&ccaron;emo, kadar je dan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetel, jasen
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Barve, ki so 
+<seg type="lemma">
+light
+</seg>
+, so zelo blede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...light blue eyes.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To light something 
+</seg>
+pomeni povzro&ccaron;iti, da nekaj za&ccaron;ne goreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Light the gas fire if you feel chilly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lighted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a lighted candle.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ask someone for a light 
+</seg>
+pomeni &zcaron;eleti v&zcaron;igalico ali v&zcaron;igalnik, da lahko pri&zcaron;gemo cigareto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(prositi za) ogenj
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To see something in a particular light 
+</seg>
+pomeni o ne&ccaron;em misliti na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v dolo&ccaron;eni lu&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were now seeing things in a different light.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+light
+</seg>
+, ne tehta veliko ali ni veliko po koli&ccaron;ini ali mo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahek, neznaten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bag was very light, as though there were nothing in it.
+</quote>
+<quote>
+A light rain was falling.
+</quote>
+<quote>
+The traffic on the highway was light that day.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lightness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the extreme lightness of this particular shoe.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delo, ki je 
+<seg type="lemma">
+light
+</seg>
+, ne zahteva veliko telesnega napora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahek, nenaporen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has grown much weaker and is now capable of only light work.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Gibi ali dejanja, ki so 
+<seg type="lemma">
+light
+</seg>
+, so mili in ne&zcaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahkoten, graciozen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She runs up the stairs two at a time with her light graceful step.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+lightly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He kissed his wife lightly on the cheek.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+lightness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+For a heavy man he moves with surprising lightness and speed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Knjige, igre ali skladbe, ki so 
+<seg type="lemma">
+light
+</seg>
+, nas zabavajo in ne povzro&ccaron;ajo, da bi ob njih zelo globoko razmi&scaron;ljali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahkoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...light entertainment and comedy.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+lighting, 
+</ref>
+<ref>
+lightly
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To set light to something 
+</seg>
+pomeni povzro&ccaron;iti, da nekaj za&ccaron;ne goreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&zcaron;gati, za&zcaron;gati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nov podatek 
+<seg type="lemma">
+throws light on something 
+</seg>
+ali 
+<FV>
+casts light on something
+</FV>
+, povzro&ccaron;i, da tisto la&zcaron;e razumemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvetliti, razjasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His diaries throw a new light upon certain incidents.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+comes to light 
+</seg>
+ali 
+<FV>
+is brought to light
+</FV>
+, postane znano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti na dan, izkazati se, pokazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has come to light that he was lying.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+In the light of something 
+</seg>
+pomeni glede na nekaj ali &ccaron;e nekaj vzamemo v po&scaron;tev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v lu&ccaron;i ne&ccaron;esa, zaradi ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This development is significant in the light of what happened later.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+light up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+lights up a place or object
+</seg>
+, razliva svetlobo na celoten prostor ali predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razsvetliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The fire was still blazing, lighting up the sky.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar na&scaron; obraz ali o&ccaron;i 
+<seg type="lemma">
+light up
+</seg>
+, smo na lepem videti zelo sre&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvedriti, zasijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His face lit up at the sight of Cynthia.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To light up a cigarette or pipe 
+</seg>
+pomeni za&ccaron;eti kaditi cigareto ali pipo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George lit up and puffed away for a while.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

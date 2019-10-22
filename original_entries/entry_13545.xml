@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stab
+</orth>
+<form type="variant">
+<pron>
+/st*&ae;b/
+</pron>
+</form>
+<form type="inflected">
+stabs, stabbing, stabbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+stabs someone
+</seg>
+, nekomu zarine no&zcaron; v telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A man was stabbed to death as he left a London library.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stab something 
+</seg>
+ali 
+<seg type="lemma">
+to stab at something 
+</seg>
+pomeni v nekaj suniti s prstom ali koni&ccaron;astim predmetom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbosti, poriniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stabbed the air with his index finger.
+</quote>
+<quote>
+She was typing in a fury, her fingers stabbing at the keys.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a stab at something 
+</seg>
+pomeni nekaj poskusiti narediti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poskusiti, lotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;d like to have a stab at tap dancing.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Nenadno &ccaron;ustvo lahko opi&scaron;emo kot 
+<seg type="lemma">
+a stab of that feeling
+</seg>
+; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sunek, naval
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kitty felt a stab of dismay.
+</quote>
+</seg>
+</sense>
+</entry>

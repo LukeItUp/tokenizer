@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+human
+</orth>
+<form type="variant">
+<pron>
+/hj*u*:m@n/
+</pron>
+</form>
+<form type="inflected">
+humans.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Human 
+</seg>
+pomeni povezan z ljudmi ali nana&scaron;ajo&ccaron; se nanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;love&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had no regard for human life.
+</quote>
+<quote>
+...the human body.
+</quote>
+<quote>
+...one of the most exciting periods in human history.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudi imenujemo 
+<seg type="lemma">
+humans
+</seg>
+, kadar jih primerjamo z &zcaron;ivalmi ali stroji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lovek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could a computer ever beat a human at chess?
+</quote>
+</seg>
+</sense>
+</entry>

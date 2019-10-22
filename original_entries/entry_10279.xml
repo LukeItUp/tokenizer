@@ -1,0 +1,197 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+patch
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;tS/
+</pron>
+</form>
+<form type="inflected">
+patches, patching, patched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A patch 
+</seg>
+je kos blaga ali drugega materiala; z njim prekrijemo luknjo v ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaplata
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I mended holes in the sheets by sewing on square patches.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+patches something that has a hole in it
+</seg>
+, nekaj, kar ima luknjo, prekrije z zaplato. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakrpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They patched the leaking roof.
+</quote>
+<quote>
+Anne sat by the fire, patching a pair of jeans.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An eye patch 
+</seg>
+je ko&scaron;&ccaron;ek blaga ali drugega materiala, ki ga &ccaron;lovek nosi prek po&scaron;kodovanega o&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;itnik za oko
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na neki povr&scaron;ini je 
+<seg type="lemma">
+a patch 
+</seg>
+tisti del, ki je druga&ccaron;en od povr&scaron;ine okoli sebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaplata
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the damp patch at the corner of the ceiling.
+</quote>
+<quote>
+...patches of snow.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+patch 
+</seg>
+lahko uporabljamo tudi za obdobje v &zcaron;ivljenju ali obstoju nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdobje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The country was going through a bad patch.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+patch up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+patches up something
+</seg>
+, popravi nekaj, kar je po&scaron;kodovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakrpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have to patch up the mud walls that the rains have battered.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+patches up a quarrel with someone
+</seg>
+, se neha prepirati in obnovi prijateljstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobotati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They tried to patch things up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

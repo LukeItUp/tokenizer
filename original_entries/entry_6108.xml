@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glue
+</orth>
+<form type="variant">
+<pron>
+/gl*u*:/
+</pron>
+</form>
+<form type="inflected">
+glues, glueing 
+<IS>
+ali 
+</IS>
+<IV>
+gluing, 
+</IV>
+glued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Glue 
+</seg>
+je lepljiva snov, ki jo uporabljamo za lepljenje predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lepilo, klej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hat seems to be stuck on with glue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To glue one object to another 
+</seg>
+pomeni zdru&zcaron;iti dva predmeta z lepilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlepiti, prilepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A new piece was glued into place.
+</quote>
+</seg>
+</sense>
+</entry>

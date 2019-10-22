@@ -5,7 +5,7 @@ absolute
 </orth>
 <form type="variant">
 <pron>
-/*#ae;bs@6lu:t/
+/*&ae;bs@6lu:t/
 </pron>
 </form>
 <form type="inflected">
@@ -20,9 +20,9 @@ ATTRIB ADJ
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Absolute
+Absolute 
 </seg>
-pomeni popoln in v celoti.
+pomeni popoln in v celoti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -42,12 +42,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-absolute
+absolute 
 </seg>
-poudarimo tisto, kar
-pripovedujemo.
+poudarimo tisto, kar pripovedujemo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -67,12 +66,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Vladar, ki je
+Vladar, ki je 
 <seg type="lemma">
 absolute
 </seg>
-ima neomejeno
-oblast nad svojo de&#382;elo.
+, ima neomejeno oblast nad svojo de&zcaron;elo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -87,16 +85,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Pravila in na&#269;ela, ki so
+Pravila in na&ccaron;ela, ki so 
 <seg type="lemma">
 absolute
 </seg>
-naj bi
-bila resni&#269;na ali pravilna v vseh primerih ali okoli&#353;&#269;inah.
+, naj bi bila resni&ccaron;na ali pravilna v vseh primerih ali okoli&scaron;&ccaron;inah. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-vsesplo&#353;en
+vsesplo&scaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -104,7 +101,7 @@ vsesplo&#353;en
 ...absolute doctrines.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -112,9 +109,9 @@ COUNT N
 </gramGrp>
 <seg type="example">
 <quote>
-...rigid absolutes, such as "divorce is always wrong".
+...rigid absolutes, such as &lsquo;divorce is always wrong&rsquo;.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

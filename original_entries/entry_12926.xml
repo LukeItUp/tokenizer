@@ -1,0 +1,173 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+signal
+</orth>
+<form type="variant">
+<pron>
+/s*Ign@0l/
+</pron>
+</form>
+<form type="inflected">
+signals, signalling, signalled;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+signaling 
+</SV>
+in 
+<SV>
+signaled 
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A signal 
+</seg>
+je gib, zvok ali dejanje, ki naj bi imelo poseben pomen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znamenje, znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My signal will be three knocks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To signal something 
+</seg>
+ali 
+<seg type="lemma">
+to signal to someone 
+</seg>
+pomeni narediti gib ali povzro&ccaron;iti zvok, s katerim &zcaron;elimo nekomu posredovati dolo&ccaron;eno sporo&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati znamenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don signalled his permission.
+</quote>
+<quote>
+Signal the driver to move off.
+</quote>
+<quote>
+...a parent signalling to a child in the distance.
+</quote>
+<quote>
+The helpers signalled that all was ready.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+signals an event
+</seg>
+, po tistem lahko sklepamo, da se dogaja ali se bo kmalu zgodilo nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napovedovati, kazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This decision seemed to signal a switch in the paper&apos;s editorial policy.
+</quote>
+<quote>
+...the crisis signalling that the final moment was near.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This was the first signal that an attack was brewing.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A signal 
+</seg>
+je tudi opozorilna oznaka ob &zcaron;elezni&scaron;kih tirih, ki strojevodji pove, ali mora ustaviti ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+signal, znak
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A signal 
+</seg>
+je tudi niz zvo&ccaron;nih ali svetlobnih znakov, ki prena&scaron;ajo dolo&ccaron;eno sporo&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+signal
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Marconi finally succeeded in sending a signal across the Atlantic.
+</quote>
+</seg>
+</sense>
+</entry>

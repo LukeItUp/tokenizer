@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hindrance
+</orth>
+<form type="variant">
+<pron>
+/h*Indr@ns/
+</pron>
+</form>
+<form type="inflected">
+hindrances.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hindrance 
+</seg>
+je oseba ali stvar, ki nam ote&zcaron;i neko dejanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovira
+</quote>
+</cit>
+<seg type="example">
+<quote>
+New ideas may be more of a hindrance than an asset.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Hindrance 
+</seg>
+je oviranje nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oviranje, zadr&zcaron;evanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Now they can construct tunnel systems without hindrance.
+</quote>
+</seg>
+</sense>
+</entry>

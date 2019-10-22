@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+improvise
+</orth>
+<form type="variant">
+<pron>
+/*Impr@vaIz/
+</pron>
+</form>
+<form type="inflected">
+improvises, improvising, improvised.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To improvise 
+</seg>
+pomeni nekaj narediti z materialom, ki ga imamo na voljo, namesto s prav&scaron;njim, ali opravljati neko dejavnost, ne da bi jo na&ccaron;rtovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+improvizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had to improvise as we went along.
+</quote>
+<quote>
+The sisters helped me improvise a toilet.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+improvised
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tanks were crossing the river on improvised bridges.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar igralci ali glasbeniki 
+<seg type="lemma">
+improvise
+</seg>
+, si izmi&scaron;ljujejo besedilo ali glasbo, medtem ko nastopajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+improvizirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+improvisation
+</orth>
+<form type="variant">
+<pron>
+/*Impr@vaIz*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a good deal of improvisation.
+</quote>
+<quote>
+...his improvisations on the organ.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

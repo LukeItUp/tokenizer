@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+depressed
+</orth>
+<form type="variant">
+<pron>
+/di1pr*est/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+depressed
+</seg>
+, se po&ccaron;uti &zcaron;alostnega in razo&ccaron;aranega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrt, obupan
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kraj, ki je 
+<seg type="lemma">
+depressed
+</seg>
+, nima toliko trgovinskega prometa ali zaposlenih kakor prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasiven, v krizi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...depressed city areas.
+</quote>
+</seg>
+</sense>
+</entry>

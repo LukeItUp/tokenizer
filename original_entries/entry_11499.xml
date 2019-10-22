@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rap
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+raps, rapping, rapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rap on something 
+</seg>
+ali 
+<seg type="lemma">
+to rap something 
+</seg>
+pomeni udarjati po ne&ccaron;em z nizom hitrim udarcev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potol&ccaron;i, potrkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rapped on the table and called for silence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rap 
+</seg>
+je hiter udarec z roko ali &ccaron;lenkom po &ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udarec, trk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A light rap sounded at the door.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To receive a rap over the knuckles 
+</seg>
+pomeni dobiti opozorilo ali kriti&ccaron;no oceno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti okrcan, dobiti jih po prstih
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take the rap 
+</seg>
+pomeni biti razgla&scaron;en za krivca ali biti kaznovan za nekaj, tudi takrat, ko nekdo ni kriv; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti gre&scaron;ni kozel, biti kaznovan za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lloyd will have to take the rap.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rap out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rap out an order or a question 
+</seg>
+pomeni naglo in ostro povedati ukaz ali vpra&scaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izstreliti, izbruhniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Is that the truth?&rsquo; he suddenly rapped out.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

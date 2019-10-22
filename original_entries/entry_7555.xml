@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insert
+</orth>
+<form type="variant">
+<pron>
+/Ins*$e*:t/
+</pron>
+</form>
+<form type="inflected">
+inserts, inserting, inserted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insert an object into something 
+</seg>
+pomeni neki predmet dati v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vstaviti, vlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He inserted the wooden peg into the hole.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insert a comment in a piece of writing or a speech 
+</seg>
+pomeni vklju&ccaron;iti opombo v zapis ali govor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The President inserted one unscripted item in his speech.
+</quote>
+</seg>
+</sense>
+</entry>

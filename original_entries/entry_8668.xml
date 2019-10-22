@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mania
+</orth>
+<form type="variant">
+<pron>
+/m*e*InI@/
+</pron>
+</form>
+<form type="inflected">
+manias.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mania for something 
+</seg>
+je mo&ccaron;na &zcaron;elja, da bi tisto imeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obsedenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a mania for cleanliness.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mania 
+</seg>
+je tudi du&scaron;evna bolezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...persecution mania.
+</quote>
+</seg>
+</sense>
+</entry>

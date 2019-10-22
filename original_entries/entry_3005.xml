@@ -1,0 +1,288 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cool
+</orth>
+<form type="variant">
+<pron>
+/k*u*:l/
+</pron>
+</form>
+<form type="inflected">
+cooler, coolest; cools, cooling, cooled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+cool
+</seg>
+, je nizke temperature, vendar ne mrzlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladen, sve&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The air was cool and fresh.
+</quote>
+<quote>
+...a cool drink.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+coolness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the coolness of the room.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obleka, ki je 
+<seg type="lemma">
+cool
+</seg>
+, je narejena iz tankega blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahek, poleten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'll just change into a cooler frock.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+cools
+</seg>
+, se temperatura tistega zni&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohladiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The water began to cool.
+</quote>
+<quote>
+Cool your feet in the stream.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stay cool 
+</seg>
+pomeni ostati miren, na primer v te&zcaron;avnem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladnokrven
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+coolly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He drove coolly and carefully.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+coolness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the coolness with which he dealt with a crisis.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be cool towards someone 
+</seg>
+pomeni biti neprijazen. 
+<seg type="lemma">
+To be cool towards an idea or suggestion 
+</seg>
+pomeni ne biti navdu&scaron;en nad neko idejo ali predlogom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladen, brezbri&zcaron;en
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+coolly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;I'm not asking you,&rsquo; she informed him coolly.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+coolness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Hagen was hurt by my coolness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cool down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+cools down
+</seg>
+, postaja hladnej&scaron;e, dokler ne dose&zcaron;e za&zcaron;elene temperature. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohladiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The engine will take half an hour to cool down.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+cools down
+</seg>
+, postaja manj jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomiriti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cool off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cool off 
+</seg>
+pomeni poskrbeti, da nam je hladneje, potem ko nam je bilo prevro&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ohladiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We cooled off with a refreshing swim.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

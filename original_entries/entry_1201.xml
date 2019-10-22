@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+beg
+</orth>
+<form type="variant">
+<pron>
+/b*eg/
+</pron>
+</form>
+<form type="inflected">
+begs, begging, begged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beg someone to do something 
+</seg>
+pomeni nekoga zaskrbljeno ali vneto prositi, naj nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rotiti, moledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I begged him to stay, but he wouldn't.
+</quote>
+<quote>
+He begged for help.
+</quote>
+<quote>
+&lsquo;Tell me all the news,&rsquo; I begged.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+begs
+</seg>
+, mimoido&ccaron;e prosi za hrano ali denar, ker je reven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prosja&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...children in the streets begging for money.
+</quote>
+<quote>
+Kids were begging milk from the governor.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<QF>
+I beg your pardon: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+pardon
+</ref>
+</xr>
+</sense>
+</entry>

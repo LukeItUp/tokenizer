@@ -1,0 +1,253 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+snap
+</orth>
+<form type="variant">
+<pron>
+/sn*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+snaps, snapping, snapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+snaps
+</seg>
+, se nenadoma pretrga ali prelomi, najve&ccaron;krat z rezkim pokom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlomiti (se), strgati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rope snapped.
+</quote>
+<quote>
+One of those kicks could snap you in half like a dry twig.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The snap of a twig broke the silence.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+snaps into position
+</seg>
+, se hitro in z ostrim pokom postavi v dolo&ccaron;en polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti (se), zasko&ccaron;iti se, zapeti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The jaws snapped shut around her arm.
+</quote>
+<quote>
+She snapped the silver chain around her neck.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The trap closes with a sudden snap.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To snap one&apos;s fingers 
+</seg>
+pomeni povzro&ccaron;iti oster zvok tako, da sredinec naglo potegnemo prek kazalca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tleskniti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+snaps at someone
+</seg>
+, hitro zapre &ccaron;eljusti zelo blizu nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;avsniti, hlastniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dogs ran snapping and barking at his heels.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To snap at someone 
+</seg>
+pomeni nekaj re&ccaron;i nekomu z ostrim, neprijaznim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bevskniti, revskniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Don&apos;t do that!&rsquo; she snapped.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Odlo&ccaron;itev ali dejanje, ki je 
+<seg type="lemma">
+snap
+</seg>
+, sprejmemo ali izvedemo nenadoma, ne da bi prej natan&ccaron;no premislili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prvi, prenagljen, hlasten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The snap reaction of the press was to welcome the change.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A snap 
+</seg>
+je fotografija, ki je posneta hitro in brez priprav; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+(hiter) posnetek
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+snap up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To snap something up 
+</seg>
+pomeni nekaj hitro kupiti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pograbiti, razgrabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All these houses were snapped up as soon as they were offered for sale.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

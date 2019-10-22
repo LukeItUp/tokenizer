@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+installation
+</orth>
+<form type="variant">
+<pron>
+/*Inst@l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+installations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An installation 
+</seg>
+je kraj, ki vsebuje opremo in stroje, ki jih uporabljamo v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postavitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...North Sea oil and gas installations.
+</quote>
+<quote>
+...missile installations.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The installation of a piece of equipment 
+</seg>
+vklju&ccaron;uje postavljanje dela opreme na pravo mesto in pripravo na uporabo tega dela opreme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+monta&zcaron;a, namestitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the installation of the colour TV.
+</quote>
+</seg>
+</sense>
+</entry>

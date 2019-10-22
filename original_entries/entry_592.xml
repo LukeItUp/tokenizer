@@ -5,32 +5,32 @@ apart
 </orth>
 <form type="variant">
 <pron>
-/@p*A*:t/.
+/@p*A*:t/
 </pron>
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-ADV
+ADV 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"from"
+&lsquo;from&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekaj
+Kadar je nekaj 
 <seg type="lemma">
 apart from something else
 </seg>
-je vmes praznina.
+, je vmes praznina. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-lo&#269;eno, stran od
+lo&ccaron;eno, stran od
 </quote>
 </cit>
 <seg type="example">
@@ -46,11 +46,11 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar sta dva predmeta za dolo&#269;eno razdaljo
+Kadar sta dva predmeta za dolo&ccaron;eno razdaljo 
 <seg type="lemma">
 apart
 </seg>
-sta za toliko oddaljena drug od drugega.
+, sta za toliko oddaljena drug od drugega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -70,16 +70,15 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar se dve stvari premakneta
+Kadar se dve stvari premakneta 
+<seg type="lemma">
+apart 
+</seg>
+ali ju nekaj potegne 
 <seg type="lemma">
 apart
 </seg>
-ali
-ju nekaj potegne
-<seg type="lemma">
-apart
-</seg>
-se odmakneta druga od druge.
+, se odmakneta druga od druge. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -94,16 +93,15 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e sta dve osebi
+&Ccaron;e sta dve osebi 
 <seg type="lemma">
 apart
 </seg>
-ne &#382;ivita skupaj
-in se ne sre&#269;ujeta.
+, ne &zcaron;ivita skupaj in se ne sre&ccaron;ujeta. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-lo&#269;eno
+lo&ccaron;eno
 </quote>
 </cit>
 </sense>
@@ -115,15 +113,13 @@ ADV
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To take something apart
+To take something apart 
 </seg>
-pomeni tisto
-razdeliti na dele, iz katerih je sestavljeno.
+pomeni tisto razdeliti na dele, iz katerih je sestavljeno. 
 <seg type="lemma">
-To come or fall
-apart
+To come or fall apart 
 </seg>
-pa pomeni, da se sestavni deli tiste stvari lo&#269;ijo ali razpadejo.
+pa pomeni, da se sestavni deli tiste stvari lo&ccaron;ijo ali razpadejo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -138,11 +134,11 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekaj, na primer organizacija ali zveza,
+Kadar nekaj, na primer organizacija ali zveza, 
 <seg type="lemma">
 falls apart
 </seg>
-ne more ve&#269; obstajati, ker ima hude te&#382;ave.
+, ne more ve&ccaron; obstajati, ker ima hude te&zcaron;ave. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -155,19 +151,18 @@ Their marriage began to fall apart.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-can't tell two people or things
-apart
+can't tell two people or things apart
 </seg>
-sta dve osebi ali stvari zanj videti popolnoma enaki.
+, sta dve osebi ali stvari zanj videti popolnoma enaki. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-ne lo&#269;iti
+ne lo&ccaron;iti
 </quote>
 </cit>
 <seg type="example">
@@ -178,12 +173,11 @@ He couldn't tell the boys apart.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-apart from
+apart from 
 </seg>
-nekaj lo&#269;imo od
-sicer posplo&#353;ujo&#269;e izjave.
+nekaj lo&ccaron;imo od sicer posplo&scaron;ujo&ccaron;e izjave. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -198,25 +192,22 @@ Apart from Ann, the car was empty.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-apart from
+apart from 
 </seg>
-povemo, da se
-no&#269;emo ozirati na en vidik okoli&#353;&#269;in, zato da lahko govorimo o nekem drugem
-vidiku.
+povemo, da se no&ccaron;emo ozirati na en vidik okoli&scaron;&ccaron;in, zato da lahko govorimo o nekem drugem vidiku. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-lo&#269;eno od, ne upo&#353;tevaje
+lo&ccaron;eno od, ne upo&scaron;tevaje
 </quote>
 </cit>
 <seg type="example">
 <quote>
-Quite apart from the expense, I don't think I would want to fly
-anyway.
+Quite apart from the expense, I don't think I would want to fly anyway.
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

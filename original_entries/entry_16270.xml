@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+yourself
+</orth>
+<form type="variant">
+<pron>
+/j@8s*elf/
+</pron>
+</form>
+<form type="inflected">
+yourselves.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REFL PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Govorec ali pisec uporabi besedo 
+<seg type="lemma">
+yourself 
+</seg>
+v stavku kot predmet ali ob predlogu, kadar je osebek ali prej&scaron;nji predmet 
+<seg type="lemma">
+you
+</seg>
+ oziroma kadar ima stavek velelno obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sebe (se), sebi (si)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Would you call yourself a Marxist?
+</quote>
+<quote>
+Help yourselves to sandwiches.
+</quote>
+<quote>
+Tell me about yourself.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+yourself 
+</seg>
+tudi poudarimo osebek ali predmet stavka, kadar je ta 
+<seg type="lemma">
+you
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You yourself said it&apos;s only a routine check.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+yourself 
+</seg>
+poudarimo, da je nekaj naredil sogovornik sam, brez pomo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Did you make these cakes yourself?
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+machine
+</orth>
+<form type="variant">
+<pron>
+/m@S*i*:n/
+</pron>
+</form>
+<form type="inflected">
+machines, machining, machined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A machine 
+</seg>
+je naprava na elektri&ccaron;ni ali motorni pogon, ki opravlja dolo&ccaron;eno vrsto dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stroj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+machines something
+</seg>
+, nekaj izdela ali obdela s strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strojno izdelati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Machine 
+</seg>
+uporabljamo tudi kot oznako za dobro nadzorovan sistem ali organizacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stroj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the might of the enemy war machine.
+</quote>
+<quote>
+They had perfected their own propaganda machine.
+</quote>
+</seg>
+</sense>
+</entry>

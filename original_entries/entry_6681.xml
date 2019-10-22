@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heed
+</orth>
+<form type="variant">
+<pron>
+/h*i*:d/
+</pron>
+</form>
+<form type="inflected">
+heeds, heeding, heeded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To heed someone&apos;s advice 
+</seg>
+pomeni ravnati se po nasvetu neke osebe; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+upo&scaron;tevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+David wished that he had heeded his father&apos;s warnings.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take heed of what someone says 
+</seg>
+ali 
+<FV>
+to pay heed to someone 
+</FV>
+pomeni pazljivo razmisliti o tistem, kar nekdo re&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pozoren, zmeniti se za kaj
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

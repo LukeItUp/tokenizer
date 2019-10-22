@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p715_s786685" id="p715_w868" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="426.762" base="433.17" width="24.7009" height="8.514">soggy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p715_s786686" id="p715_w869" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="282.59" y="428.008" base="433.17" width="16.6301" height="6.844">/s&#201;gi</TOKEN>
+<TOKEN sid="p715_s786687" id="p715_w870" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="299.58" y="427.37" base="430.78" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p715_s786688" id="p715_w871" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="302.21" y="428.008" base="433.17" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p715_s786689" id="p715_w872" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="309.86" y="429.254" base="433.17" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p715_s786690" id="p715_w873" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.06" y="427.474" base="433.17" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p715_s786691" id="p715_w874" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="339.004" y="427.474" base="433.17" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p715_s786692" id="p715_w875" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="347.74" y="427.474" base="433.17" width="21.2119" height="7.552">soggy,</TOKEN>
+</seg>
+<TOKEN sid="p715_s786693" id="p715_w876" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="371.701" y="427.474" base="433.17" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p715_s786694" id="p715_w877" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="380.446" y="427.474" base="433.17" width="35.1806" height="7.552">neprijetno</TOKEN>
+<TOKEN sid="p715_s786695" id="p715_w878" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.376" y="427.474" base="433.17" width="23.8486" height="7.552">mokro.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p715_s786697" id="p715_w880" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.05" y="436.544" base="442.24" width="34.799" height="7.552">razmo~en,</TOKEN>
+<TOKEN sid="p715_s786698" id="p715_w881" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="303.849" y="436.544" base="442.24" width="24.0005" height="7.552">vla`en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p715_s786699" id="p715_w882" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.85" y="436.544" base="442.24" width="26.406" height="7.552">&#8230;soggy</TOKEN>
+<TOKEN sid="p715_s786700" id="p715_w883" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="358.256" y="436.544" base="442.24" width="27.9878" height="7.552">biscuits.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

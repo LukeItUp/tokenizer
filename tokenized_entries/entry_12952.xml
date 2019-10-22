@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p114_s124269" id="p114_w77" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.898" y="136.724" base="142.42" width="22.7304" height="7.552">silvery</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p114_s124270" id="p114_w78" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="145.804" base="151.5" width="20.3947" height="7.552">chime</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p114_s124271" id="p114_w79" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.5747" y="145.804" base="151.5" width="6.40008" height="7.552">of</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p114_s124272" id="p114_w80" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.975" y="145.804" base="151.5" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p114_s124273" id="p114_w81" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="103.774" y="145.804" base="151.5" width="10.7986" height="7.552">old</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p114_s124274" id="p114_w82" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.572" y="145.804" base="151.5" width="19.998" height="7.552">stable</TOKEN>
+</seg>
+<TOKEN sid="p114_s124275" id="p114_w83" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.571" y="145.804" base="151.5" width="19.998" height="7.552">clock.</TOKEN>
+<TOKEN sid="p114_s124276" id="p114_w84" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="154.884" base="160.58" width="20.7979" height="7.568">chime</TOKEN>
+<TOKEN sid="p114_s124277" id="p114_w85" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.6179" y="154.884" base="160.58" width="8.40096" height="7.568">in.</TOKEN>
+<TOKEN sid="p114_s124278" id="p114_w86" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="92.65" y="156.664" base="160.58" width="10.9979" height="5.192">PHR</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p114_s124279" id="p114_w87" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="104.774" y="156.664" base="160.58" width="7.1473" height="5.192">VB</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p114_s124280" id="p114_w88" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="113.56" y="154.884" base="160.58" width="21.5942" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p114_s124281" id="p114_w89" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="136.793" y="154.884" base="160.58" width="21.996" height="7.552">~lovek</TOKEN>
+<TOKEN sid="p114_s124282" id="p114_w90" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="160.42" y="154.884" base="160.58" width="23.5872" height="7.552">chimes</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

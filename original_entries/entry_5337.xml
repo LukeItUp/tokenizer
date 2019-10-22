@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+finance
+</orth>
+<form type="variant">
+<pron>
+/fIn*&ae;ns, f*a*In&ae;ns/
+</pron>
+</form>
+<form type="inflected">
+finances, financing, financed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To finance a project or purchase 
+</seg>
+pomeni priskrbeti denar za neki na&ccaron;rt ali nakup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+financirati, denarno podpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A private company will finance and build the pipeline.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Finance for a project or purchase 
+</seg>
+je denar, ki ga potrebujemo, da pla&ccaron;amo neki na&ccaron;rt ali nakup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+denarna sredstva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Group raises finance for oil drilling.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Finance 
+</seg>
+je tudi upravljanje z denarjem, zlasti na dr&zcaron;avni ravni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+denarno gospodarstvo, finance
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...public-sector finance.
+</quote>
+<quote>
+...a successful job in high finance.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s finances 
+</seg>
+je znesek denarja, ki ga imamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+denar, finance
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whether it can be done depends, of course, on your finances.
+</quote>
+</seg>
+</sense>
+</entry>

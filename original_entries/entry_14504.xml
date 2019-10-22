@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thousand
+</orth>
+<form type="variant">
+<pron>
+/T*a*Uz@nd/
+</pron>
+</form>
+<form type="inflected">
+thousands.
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+A thousand 
+</seg>
+je &scaron;tevilka 1000. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiso&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an annual income of twenty thousand dollars.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+thousands 
+</seg>
+pogosto pomeni zelo veliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiso&ccaron;, na tiso&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve told him thousands of times.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<QF>
+a thousand and one: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+one
+</ref>
+</xr>
+</sense>
+</entry>

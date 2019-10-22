@@ -145,11 +145,11 @@
 <TOKEN sid="p17_s18185" id="p17_w658" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.678" y="118.564" base="124.26" width="6.80256" height="7.552">to</TOKEN>
 <TOKEN sid="p17_s18186" id="p17_w659" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.76" y="118.564" base="124.26" width="43.4621" height="7.552">Luxembourg</TOKEN>
 <TOKEN sid="p17_s18187" id="p17_w660" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="127.644" base="133.34" width="5.41296" height="7.552">is</TOKEN>
-<TOKEN sid="p17_s18188" id="p17_w661" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.642" y="127.644" base="133.34" width="15.4685" height="7.552">£145</TOKEN>
+<TOKEN sid="p17_s18188" id="p17_w661" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.642" y="127.644" base="133.34" width="15.4685" height="7.552">&#163;145</TOKEN>
 <TOKEN sid="p17_s18189" id="p17_w662" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.53" y="127.644" base="133.34" width="22.3373" height="7.552">return.</TOKEN>
 </quote>
 <quote>
-<TOKEN sid="p17_s18190" id="p17_w663" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.267" y="127.644" base="133.34" width="16.2533" height="7.552">…air</TOKEN>
+<TOKEN sid="p17_s18190" id="p17_w663" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.267" y="127.644" base="133.34" width="16.2533" height="7.552">&#8230;air</TOKEN>
 <TOKEN sid="p17_s18191" id="p17_w664" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.939" y="127.644" base="133.34" width="20.9146" height="7.552">travel.</TOKEN>
 </quote>
 </seg>
@@ -322,7 +322,7 @@
 </ref>
 </xr>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
@@ -404,5 +404,5 @@
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

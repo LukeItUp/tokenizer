@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+consult
+</orth>
+<form type="variant">
+<pron>
+/k@7ns*Vlt/
+</pron>
+</form>
+<form type="inflected">
+consults, consulting, consulted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To consult someone 
+</seg>
+pomeni nekoga prositi za mnenje in nasvet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If your baby is losing weight, you should consult your doctor promptly.
+</quote>
+<quote>
+They would have to consult with their allies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To consult a book or a map 
+</seg>
+pomeni poiskati podatke v knjigi ali na zemljevidu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiskati, poizvedovati
+</quote>
+</cit>
+</sense>
+</entry>

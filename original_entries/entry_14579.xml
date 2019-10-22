@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+timid
+</orth>
+<form type="variant">
+<pron>
+/t*ImId/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+timid
+</seg>
+, je boje&ccaron; in nesamozavesten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a timid young girl.
+</quote>
+<quote>
+...a timid smile.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+timidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I left the car and timidly rang the doorbell.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+timidity
+</orth>
+<form type="variant">
+<pron>
+/tIm*IdI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had a terrible time in overcoming his timidity.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

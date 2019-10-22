@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eloquent
+</orth>
+<form type="variant">
+<pron>
+/*el@kw@2nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+eloquent
+</seg>
+, se spretno izra&zcaron;a v govoru ali pisanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgovoren, spreten z besedami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was tall, eloquent, and had fine manners.
+</quote>
+<quote>
+...eloquent descriptions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+eloquently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They spoke eloquently of their concern.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+eloquence
+</orth>
+<form type="variant">
+<pron>
+/*el@kw@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He may have inherited his eloquence from his father.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

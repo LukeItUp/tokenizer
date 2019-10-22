@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sprint
+</orth>
+<form type="variant">
+<pron>
+/spr*Int/
+</pron>
+</form>
+<form type="inflected">
+sprints, sprinting, sprinted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sprint 
+</seg>
+je kratka, hitra dirka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;print
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a 100 metre sprint.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sprint 
+</seg>
+pomeni prete&ccaron;i kratko razdaljo, kakor hitro moremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;printati, dirkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sprinted to her car.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Bessie had suddenly broken into a sprint.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

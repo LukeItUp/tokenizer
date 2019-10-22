@@ -1,0 +1,344 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+word
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:d/
+</pron>
+</form>
+<form type="inflected">
+words, wording, worded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A word 
+</seg>
+je enota zapisanega ali govorjenega jezika. V pisni angle&scaron;&ccaron;ini je pred tako enoto in za njo presledek. Nekatere imajo ve&ccaron; pomenov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+beseda
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a word 
+</seg>
+ali 
+<seg type="lemma">
+to have a few words with someone 
+</seg>
+pomeni imeti kratek pogovor z nekom; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+imeti kratek pogovor z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+May I have a word with you please?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A word of advice or warning 
+</seg>
+je kratek nasvet ali svarilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasvet, svarilo
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ne sli&scaron;imo, ne razumemo ali ne verjamemo 
+<seg type="lemma">
+a word of what someone is saying
+</seg>
+, ne sli&scaron;imo, ne razumemo ali ne verjamemo prav ni&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niti besede
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I did not understand one word of what she&apos;d said.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+word 
+</seg>
+lahko uporabimo v enakem pomenu kot 
+<seg type="lemma">
+news
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vest, novica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The young man brought them word of her visit.
+</quote>
+<quote>
+The word got out that he was leaving.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give one&apos;s word 
+</seg>
+pomeni obljubiti, da bomo nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati besedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I give you my word I won&apos;t ask him.
+</quote>
+<quote>
+I apologized for having doubted his word.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To word something in a particular way 
+</seg>
+pomeni nekaj izraziti na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izre&ccaron;i, formulirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How would one word such an announcement?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+worded
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He wrote a strongly worded report to the Secretary of the Interior.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj ponovimo 
+<seg type="lemma">
+word for word
+</seg>
+, ponovimo natanko tako, kot je bilo prvotno re&ccaron;eno ali zapisano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobesedno
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have the last word in an argument 
+</seg>
+pomeni dati pripombo, s katero kon&ccaron;amo pogovor in premagamo sogovornika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti zadnjo besedo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put in a good word for someone 
+</seg>
+pomeni vplivni osebi pohvalno govoriti o nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastaviti dobro besedo za koga
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in a word 
+</seg>
+povemo, da povzemamo tisto, kar smo pravkar povedali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skratka, z eno besedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house is roomy, cool in summer, and in a word comfortable.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have words with someone 
+</seg>
+pomeni prepirati se z nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;kati se, spreti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in other words 
+</seg>
+uporabimo, ko napovemo preprostej&scaron;o ali jasnej&scaron;o razlago tistega, kar smo pravkar sli&scaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z drugimi besedami, ali druga&ccaron;e povedano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is there a cheaper solution? In other words, can you make a cheaper device?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj povemo 
+<seg type="lemma">
+in our own words
+</seg>
+, povemo na svoj na&ccaron;in, ne da bi posnemali ali ponavljali tisto, kar je rekel nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s svojimi besedami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was asked to tell the story in his own words.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo ne&ccaron;esa ni povedal 
+<seg type="lemma">
+in so many words
+</seg>
+, ho&ccaron;emo re&ccaron;i, da je tisto povedal posredno, mi pa zdaj razlagamo pravi pomen izre&ccaron;enega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobesedno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is what he claims, only he does not state it in so many words.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

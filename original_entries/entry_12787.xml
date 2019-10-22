@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shepherd
+</orth>
+<form type="variant">
+<pron>
+/S*ep@d/
+</pron>
+</form>
+<form type="inflected">
+shepherds, shepherding, shepherded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shepherd 
+</seg>
+je oseba, katere delo je varovanje ovc. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pastir, ov&ccaron;ar
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shepherd someone somewhere 
+</seg>
+pomeni spremljati nekoga do dolo&ccaron;enega kraja, ker ho&ccaron;emo biti prepri&ccaron;ani, da je pri&scaron;el tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voditi, peljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shepherded them towards the lobby.
+</quote>
+</seg>
+</sense>
+</entry>

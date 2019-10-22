@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p795_s875717" id="p795_w554" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="608.092" base="614.5" width="18.0508" height="8.514">tiled</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p795_s875718" id="p795_w555" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="76.87" y="609.338" base="614.5" width="24.1716" height="6.844">/ta&#203;ld/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p795_s875719" id="p795_w556" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="103.14" y="610.584" base="614.5" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p795_s875720" id="p795_w557" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="115.69" y="608.804" base="614.5" width="31.9982" height="7.552">Povr{ina,</TOKEN>
+<TOKEN sid="p795_s875721" id="p795_w558" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.788" y="608.804" base="614.5" width="6.79608" height="7.552">ki</TOKEN>
+<TOKEN sid="p795_s875722" id="p795_w559" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="158.685" y="608.804" base="614.5" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p795_s875723" id="p795_w560" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="166.78" y="608.804" base="614.5" width="17.5918" height="7.552">tiled,</TOKEN>
+</seg>
+<TOKEN sid="p795_s875724" id="p795_w561" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.471" y="608.804" base="614.5" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p795_s875725" id="p795_w562" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.567" y="608.804" base="614.5" width="27.8489" height="7.552">prekrita</TOKEN>
+<TOKEN sid="p795_s875726" id="p795_w563" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.517" y="608.804" base="614.5" width="3.1968" height="7.552">s</TOKEN>
+<TOKEN sid="p795_s875727" id="p795_w564" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="229.813" y="608.804" base="614.5" width="13.9946" height="7.552">plo-</TOKEN>
+<TOKEN sid="p795_s875728" id="p795_w565" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="64.0944" base="69.7904" width="27.5875" height="7.552">{~icami.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p795_s875730" id="p795_w567" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.25" y="64.094" base="69.79" width="21.1932" height="7.552">pokrit</TOKEN>
+<TOKEN sid="p795_s875731" id="p795_w568" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="319.243" y="64.094" base="69.79" width="3.1968" height="7.552">s</TOKEN>
+<TOKEN sid="p795_s875732" id="p795_w569" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.24" y="64.094" base="69.79" width="38.3904" height="7.552">plo{~icami;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p795_s875733" id="p795_w570" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="364.43" y="64.094" base="69.79" width="37.5919" height="7.552">&#8230;footsteps</TOKEN>
+<TOKEN sid="p795_s875734" id="p795_w571" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="403.822" y="64.094" base="69.79" width="8.40168" height="7.552">on</TOKEN>
+<TOKEN sid="p795_s875735" id="p795_w572" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="414.023" y="64.094" base="69.79" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p795_s875736" id="p795_w573" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.622" y="64.094" base="69.79" width="15.5923" height="7.552">tiled</TOKEN>
+<TOKEN sid="p795_s875737" id="p795_w574" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.809" y="73.1644" base="78.8604" width="16.884" height="7.552">floor.</TOKEN>
+</quote>
+<quote>
+<TOKEN sid="p795_s875738" id="p795_w575" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.692" y="73.1644" base="78.8604" width="22.7894" height="7.552">&#8230;with</TOKEN>
+<TOKEN sid="p795_s875739" id="p795_w576" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="304.48" y="73.1644" base="78.8604" width="11.0441" height="7.552">red</TOKEN>
+<TOKEN sid="p795_s875740" id="p795_w577" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="317.523" y="73.1644" base="78.8604" width="15.5894" height="7.552">tiled</TOKEN>
+<TOKEN sid="p795_s875741" id="p795_w578" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="335.111" y="73.1644" base="78.8604" width="18.6631" height="7.552">roofs.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

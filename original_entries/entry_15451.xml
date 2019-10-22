@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+utter
+</orth>
+<form type="variant">
+<pron>
+/*Vt@/
+</pron>
+</form>
+<form type="inflected">
+utters, uttering, uttered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To utter sounds or words 
+</seg>
+pomeni izustiti zvoke ali glasove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izre&ccaron;i, izgovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sam opened his mouth, then quickly shut it again without uttering a sound.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+utter 
+</seg>
+poudarimo neko lastnost ali stanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popoln, skrajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To my utter amazement I was made managing director.
+</quote>
+<quote>
+Judith is a complete and utter fool.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+utterly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I am utterly convinced of your loyalty.
+</quote>
+<quote>
+She was trying to look like a young lady but failing utterly.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

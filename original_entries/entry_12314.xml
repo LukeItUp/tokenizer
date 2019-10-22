@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+salute
+</orth>
+<form type="variant">
+<pron>
+/s@l*u*:t/
+</pron>
+</form>
+<form type="inflected">
+salutes, saluting, saluted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To salute someone 
+</seg>
+pomeni pozdraviti nekoga ali mu pokazati spo&scaron;tovanje na uraden na&ccaron;in. Oficirji v vojski to naredijo tako, da se s prsti dotaknejo &ccaron;ela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+salutirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stood as if he were saluting the flag.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He greeted King Edward VIII with the customary salute.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To salute a person or an achievement 
+</seg>
+pomeni javno pokazati ali izraziti svoje spo&scaron;tovanje do osebe ali dose&zcaron;ka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;astiti, izkazati &ccaron;ast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...festivals in Spain that salute the independence of the Spanish character.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a salute to America.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,39 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p321_s352021" id="p321_w270" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="344.812" base="351.22" width="45.5903" height="8.514">godmother</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p321_s352022" id="p321_w271" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="105.51" y="346.058" base="351.22" width="38.1116" height="6.844">/g&#201;dm&#216;&#200;6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p321_s352023" id="p321_w272" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="146.83" y="345.88" base="351.22" width="40.8577" height="7.08">godmothers.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p321_s352024" id="p321_w273" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.89" y="347.304" base="351.22" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p321_s352025" id="p321_w274" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="212.071" y="347.304" base="351.22" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p321_s352026" id="p321_w275" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.4" y="345.524" base="351.22" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p321_s352027" id="p321_w276" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="228.2" y="345.524" base="351.22" width="15.6067" height="7.552">god-</TOKEN>
+<TOKEN sid="p321_s352028" id="p321_w277" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3903" y="354.604" base="360.3" width="24.3972" height="7.552">mother</TOKEN>
+</seg>
+<TOKEN sid="p321_s352029" id="p321_w278" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.7805" y="354.604" base="360.3" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p321_s352030" id="p321_w279" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.7754" y="354.604" base="360.3" width="30.2638" height="7.552">otrokova</TOKEN>
+<TOKEN sid="p321_s352031" id="p321_w280" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="129.038" y="354.604" base="360.3" width="20.3976" height="7.552">botra.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p321_s352033" id="p321_w282" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.68" y="354.604" base="360.3" width="20.4012" height="7.552">botra,</TOKEN>
+<TOKEN sid="p321_s352034" id="p321_w283" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="180.081" y="354.604" base="360.3" width="19.2002" height="7.552">kuma</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

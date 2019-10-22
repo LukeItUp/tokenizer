@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rifle
+</orth>
+<form type="variant">
+<pron>
+/r*a*If@0l/
+</pron>
+</form>
+<form type="inflected">
+rifles, rifling, rifled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rifle 
+</seg>
+je strelno oro&zcaron;je z dolgo cevjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pu&scaron;ka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rifle a place 
+</seg>
+pomeni na dolo&ccaron;enem kraju ukrasti vse, kar &ccaron;lovek more. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izropati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rifled the dead man&apos;s wallet.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;through&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rifle through things 
+</seg>
+pomeni na hitro preiskati stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebrskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The doctor rifled through the papers.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+snow
+</orth>
+<form type="variant">
+<pron>
+/sn*@*U/
+</pron>
+</form>
+<form type="inflected">
+snows, snowing, snowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Snow 
+</seg>
+so mehki beli delci zmrznjene vode, ki padajo z neba v mrzlem vremenu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sneg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Outside the snow lay thick on the ground.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...driving down from the snows of the Alps.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+it snows
+</seg>
+ pomeni, da z neba pada sneg. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sne&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was snowing quite heavily.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+snowed in, 
+</ref>
+<ref>
+snowed under.
+</ref>
+</xr>
+</sense>
+</entry>

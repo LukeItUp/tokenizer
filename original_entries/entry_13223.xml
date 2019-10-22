@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sob
+</orth>
+<form type="variant">
+<pron>
+/s*Qb/
+</pron>
+</form>
+<form type="inflected">
+sobs, sobbing, sobbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sob 
+</seg>
+pomeni glasno jokati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ihteti, hlipati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was sobbing bitterly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sobbing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The sobbing began again.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sob 
+</seg>
+je zvok, ki se sli&scaron;i pri jokanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hlipljaj, stok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...gasping, choking sobs.
+</quote>
+</seg>
+</sense>
+</entry>

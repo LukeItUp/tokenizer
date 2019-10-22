@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bluff
+</orth>
+<form type="variant">
+<pron>
+/bl*Vf/
+</pron>
+</form>
+<form type="inflected">
+bluffs, bluffing, bluffed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bluff 
+</seg>
+je poskus, da nekoga ho&ccaron;emo prepri&ccaron;ati, da bomo nekaj storili, &ccaron;eprav nimamo takega namena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevara, pretvarjanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boy was thinking up a clever bluff.
+</quote>
+<quote>
+His threats are merely bluff.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone's bluff 
+</seg>
+pomeni nekomu re&ccaron;i, naj stori tisto, s &ccaron;imer je grozil, ker smo prepri&ccaron;ani, da tega v resnici ne bo storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti koga, da razkrije karte
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bluff someone 
+</seg>
+pomeni nekoga prepri&ccaron;ati, da bomo nekaj storili, &ccaron;eprav nimamo takega namena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevarati, vle&ccaron;i za nos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wasn't bluffing him.
+</quote>
+<quote>
+You're just bluffing.
+</quote>
+</seg>
+</sense>
+</entry>

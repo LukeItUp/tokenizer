@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+panel
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;n@0l/
+</pron>
+</form>
+<form type="inflected">
+panels.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A panel 
+</seg>
+je majhna skupina ljudi, ki so izbrani za dolo&ccaron;eno nalogo, na primer za to, da javno razpravljajo o ne&ccaron;em ali da odlo&ccaron;ijo o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(delovna) skupina, omizje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...questions answered by a panel of experts.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A panel 
+</seg>
+je tudi raven pravokoten kos lesa ali drugega materiala, ki se uporablja za izdelavo ve&ccaron;jih predmetov, na primer vrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plo&scaron;&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were glass panels in the front door.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A control panel 
+</seg>
+ali 
+<seg type="lemma">
+an instrument panel 
+</seg>
+je plo&scaron;&ccaron;a s stikali in gumbi za upravljanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stikalna plo&scaron;&ccaron;a, armaturna plo&scaron;&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The instrument panel is just forward of the wheel.
+</quote>
+</seg>
+</sense>
+</entry>

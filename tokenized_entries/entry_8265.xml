@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p432_s472420" id="p432_w141" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="217.722" base="224.13" width="12.831" height="8.514">liar</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p432_s472421" id="p432_w142" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="69.71" y="218.968" base="224.13" width="20.5116" height="6.844">/la&#203;6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p432_s472422" id="p432_w143" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="92.58" y="218.79" base="224.13" width="15.3799" height="7.08">liars.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p432_s472423" id="p432_w144" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="110.33" y="220.214" base="224.13" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p432_s472424" id="p432_w145" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="130.919" y="220.214" base="224.13" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p432_s472425" id="p432_w146" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="137.41" y="218.434" base="224.13" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p432_s472426" id="p432_w147" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.37" y="218.434" base="224.13" width="11.9909" height="7.552">liar</TOKEN>
+</seg>
+<TOKEN sid="p432_s472427" id="p432_w148" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.73" y="218.434" base="224.13" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p432_s472428" id="p432_w149" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.085" y="218.434" base="224.13" width="21.1968" height="7.552">oseba,</TOKEN>
+<TOKEN sid="p432_s472429" id="p432_w150" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.64" y="218.434" base="224.13" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p432_s472430" id="p432_w151" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.794" y="218.434" base="224.13" width="40.7808" height="7.552">pripoveduje</TOKEN>
+<TOKEN sid="p432_s472431" id="p432_w152" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1799" y="227.504" base="233.2" width="14.4" height="7.552">la`i.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p432_s472433" id="p432_w154" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.81" y="227.504" base="233.2" width="29.9966" height="7.552">la`nivec;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p432_s472434" id="p432_w155" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="114.81" y="227.504" base="233.2" width="21.5266" height="7.552">You're</TOKEN>
+<TOKEN sid="p432_s472435" id="p432_w156" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.335" y="227.504" base="233.2" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p432_s472436" id="p432_w157" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="144.338" y="227.504" base="233.2" width="12.8822" height="7.552">liar.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

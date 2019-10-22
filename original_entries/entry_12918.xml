@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sigh
+</orth>
+<form type="variant">
+<pron>
+/s*a*I/
+</pron>
+</form>
+<form type="inflected">
+sighs, sighing, sighed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sigh 
+</seg>
+pomeni globoko izdihniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzdihniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sighed and shook her head sadly.
+</quote>
+<quote>
+Sighing with relief, she took the money.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+With a sigh, he rose and walked away.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

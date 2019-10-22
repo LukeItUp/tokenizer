@@ -1,0 +1,256 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+block
+</orth>
+<form type="variant">
+<pron>
+/bl*Qk/
+</pron>
+</form>
+<form type="inflected">
+blocks, blocking, blocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A block of flats or offices 
+</seg>
+je veliko poslopje, v katerem so stanovanja ali pisarne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blok
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HOUSE AND FLAT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a large office block.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A block 
+</seg>
+v mestu je obmo&ccaron;je, obdano z ulicami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina hi&scaron;, blok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The store was three blocks away.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A block of a substance 
+</seg>
+je velik, pravokoten kos neke snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kocka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a block of ice.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To block a road, channel, or pipe 
+</seg>
+pomeni postaviti oviro &ccaron;ez cesto, prekop ali v pipo, da ljudem ali stvarem prepre&ccaron;imo prehod. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti, zama&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Turks had blocked the land routes.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+blocked
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The road was completely blocked.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+blocks one's view
+</seg>
+, prepre&ccaron;i, da bi tisti &ccaron;lovek nekaj videl, tako da se postavi med njega in tisto stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The driver blocked his view.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To block something 
+</seg>
+pomeni prepre&ccaron;iti, da bi bilo opravljeno nekaj, kar je &zcaron;e dogovorjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blokirati, ovirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Council blocked his plans.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+block out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To block out a thought 
+</seg>
+pomeni potruditi se, da o ne&ccaron;em ne razmi&scaron;ljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izlo&ccaron;iti, zagraditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They attempt to withdraw from the world, to block it out.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+block up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To block something up 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+blocks up 
+</seg>
+pomeni, da se tisto popolnoma zama&scaron;i in ni&ccaron; ve&ccaron; ne more skozi ali mimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti, blokirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Never block up ventilators.
+</quote>
+<quote>
+The sink keeps blocking up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

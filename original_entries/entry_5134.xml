@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+familiar
+</orth>
+<form type="variant">
+<pron>
+/f@m*Ilj@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+familiar to someone
+</seg>
+, ju tisti &ccaron;lovek prepoznava ali dobro pozna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znan, doma&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His name was familiar to me.
+</quote>
+<quote>
+...my pleasure at seeing all the familiar faces again.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+familiarity
+</orth>
+<form type="variant">
+<pron>
+/f@mIlI*&ae;rI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the familiarity of the surroundings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be familiar with something 
+</seg>
+pomeni nekaj dobro poznati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznanjen, doma&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am of course familiar with your work.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+familiarity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his familiarity with the system gave him a considerable advantage.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+behaves in a familiar way towards someone
+</seg>
+, s tisto osebo ravna zelo neuradno, zato je morda ta u&zcaron;aljena, zlasti &ccaron;e nista dobra prijatelja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretirano doma&ccaron;; predrzen, nesramen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...disliking intensely the burly man&apos;s familiar tone.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+familiarly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He spoke of them casually and familiarly by their first names.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+familiarity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They greeted him with familiarity.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

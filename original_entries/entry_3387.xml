@@ -1,0 +1,153 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cycle
+</orth>
+<form type="variant">
+<pron>
+/s*a*Ik@0l/
+</pron>
+</form>
+<form type="inflected">
+cycles, cycling, cycled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cycle 
+</seg>
+pomeni voziti se s kolesom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolesariti, peljati se s kolesom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I decided to cycle into town.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+cycling
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We recommend cycling as a good form of exercise.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cycle 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a bicycle
+</seg>
+ ali 
+<seg type="lemma">
+a motorcycle
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolo, motorno kolo
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cycle 
+</seg>
+je tudi vrsta dogodkov, ki se vedno znova ponavljajo, in to vedno v enakem zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krog, cikel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the endless cycle of the seasons.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V elektri&ccaron;nem, elektronskem ali mehanskem procesu je 
+<seg type="lemma">
+a cycle 
+</seg>
+eno celotno zaporedje korakov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cikel, takt, perioda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...50 cycles per second.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cycle of songs or poems 
+</seg>
+je vrsta pesmi ali pesnitev, ki naj bi jih predstavili ali brali drugo za drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ven&ccaron;ek
+</quote>
+</cit>
+</sense>
+</entry>

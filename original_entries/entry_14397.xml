@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+terrorism
+</orth>
+<form type="variant">
+<pron>
+/t*er@rIz@0m/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Terrorism 
+</seg>
+je uporaba nasilja v politi&ccaron;ne namene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+terorizem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These measures failed to bring acts of terrorism to an end.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+terrorist
+</orth>
+<form type="variant">
+<pron>
+/t*er@rIst/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They have given aid to terrorists.
+</quote>
+<quote>
+...terrorist activities.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

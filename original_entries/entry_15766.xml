@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ware
+</orth>
+<form type="variant">
+<pron>
+/w*e*@/
+</pron>
+</form>
+<form type="inflected">
+wares.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+ware 
+</seg>
+uporabljamo za predmete, izdelane iz dolo&ccaron;ene snovi, na primer stekla ali porcelana, ali za predmete, ki jih uporabljamo v dolo&ccaron;en namen v gospodinjstvu, na primer pri kuhanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdelek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...glass ware.
+</quote>
+<quote>
+...kitchen ware.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s wares 
+</seg>
+so predmeti, ki jih nekdo prodaja, navadno na ulici ali trgu; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+blago, izdelek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The market traders began to sell their wares at half-price.
+</quote>
+</seg>
+</sense>
+</entry>

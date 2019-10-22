@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infringe
+</orth>
+<form type="variant">
+<pron>
+/Infr*Ind!0z/
+</pron>
+</form>
+<form type="inflected">
+infringes, infringing, infringed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To infringe a law or an agreement 
+</seg>
+pomeni prekr&scaron;iti zakon ali sporazum; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prekr&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They occasionally infringe the law by parking near a junction.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infringement
+</orth>
+<form type="variant">
+<pron>
+/Infr*Ind0Zm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...small infringements of prison discipline.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To infringe people&apos;s rights 
+</seg>
+pomeni ne odobriti ljudem svobo&scaron;&ccaron;in ali svobode, do katere imajo pravico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kr&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were citizens with legal rights, which were being infringed.
+</quote>
+<quote>
+We must fight them when they infringe on our children&apos;s right to freedom.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infringement
+</orth>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The new law is an infringement on free speech.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+editor
+</orth>
+<form type="variant">
+<pron>
+/*edIt@/
+</pron>
+</form>
+<form type="inflected">
+editors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An editor 
+</seg>
+je oseba, ki ureja &ccaron;asopis ali revijo in odlo&ccaron;a o vsebini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urednik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+....the editor of a local newspaper.
+</quote>
+<quote>
+...the foreign editor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An editor 
+</seg>
+je tudi oseba, ki pregleduje in popravlja besedila, preden so objavljena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redaktor
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba, ki izbira posneto gradivo za film ali radijske ali televizijske oddaje, se prav tako imenuje 
+<seg type="lemma">
+an editor
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urednik
+</quote>
+</cit>
+</sense>
+</entry>

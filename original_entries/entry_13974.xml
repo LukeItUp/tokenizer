@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sum
+</orth>
+<form type="variant">
+<pron>
+/s*Vm/
+</pron>
+</form>
+<form type="inflected">
+sums, summing, summed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sum of money 
+</seg>
+je koli&ccaron;ina ali vrednost denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znesek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the staggering sum of 212,000 million pounds.
+</quote>
+<quote>
+Manufacturers spend huge sums of money on advertising their product.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sum 
+</seg>
+je preprosta ra&ccaron;unska operacija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&scaron;tevanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He couldn&apos;t do his sums.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+lump sum.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sum up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To sum up 
+</seg>
+ali 
+<seg type="lemma">
+to sum something up 
+</seg>
+pomeni na kratko opisati glavne zna&ccaron;ilnosti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My mood could be summed up by the single word &lsquo;boredom&rsquo;.
+</quote>
+<quote>
+To sum up: within our society there still exist rampant inequalities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+summing up.
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

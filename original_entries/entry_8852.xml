@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+medicine
+</orth>
+<form type="variant">
+<pron>
+/m*edI0sIn/
+</pron>
+</form>
+<form type="inflected">
+medicines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A medicine 
+</seg>
+je snov, ki jo bolan &ccaron;lovek spije ali pogoltne, da bi ozdravel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a medicine for his cold.
+</quote>
+<quote>
+...cough medicines.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Medicine 
+</seg>
+je zdravljenje bolezni ali po&scaron;kodb, ki ga opravljajo zdravniki in medicinske sestre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+medicina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the professions of medicine and dentistry.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interrupt
+</orth>
+<form type="variant">
+<pron>
+/*Int@r*Vpt/
+</pron>
+</form>
+<form type="inflected">
+interrupts, interrupting, interrupted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To interrupt someone 
+</seg>
+pomeni re&ccaron;i ali storiti nekaj, kar povzro&ccaron;i, da oseba, ki govori, obmolkne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sorry to interrupt you.
+</quote>
+<quote>
+Don&apos;t interrupt.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To interrupt an activity 
+</seg>
+pomeni za&ccaron;asno prepre&ccaron;iti, da bi se neka dejavnost nadaljevala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, ustaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bain had interrupted his holiday to go to Hamburg.
+</quote>
+</seg>
+</sense>
+</entry>

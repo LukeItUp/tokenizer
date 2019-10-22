@@ -1,0 +1,957 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+turn
+</orth>
+<form type="variant">
+<pron>
+/t*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+turns, turning, turned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn 
+</seg>
+ali 
+<seg type="lemma">
+to turn one&apos;s head 
+</seg>
+pomeni premakniti telo ali glavo tako, da gleda v drugo smer kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She turned and walked away.
+</quote>
+<quote>
+They kept turning round to smile at friends.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He made a smart military turn, clicking his heels.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+turns something 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+turns
+</seg>
+, tista stvar spremeni polo&zcaron;aj tako, da gleda v drugo smer kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti (se), obra&ccaron;ati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He turned the handle and pushed open the door.
+</quote>
+<quote>
+The wheels started to turn.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...with an agile turn of the wrist.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn in a particular direction 
+</seg>
+ali 
+<seg type="lemma">
+to turn a corner 
+</seg>
+pomeni spremeniti smer gibanja, tako da zdaj gremo v dolo&ccaron;eno smer ali okoli vogala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You come over a bridge and turn sharply to the right.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The cars were waiting to make the turn into the campus.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn to a particular page in a book 
+</seg>
+pomeni poiskati dolo&ccaron;eno stran v knjigi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiskati, najti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn one&apos;s attention or thoughts to someone or something 
+</seg>
+pomeni za&ccaron;eti razmi&scaron;ljati ali razpravljati o nekom ali ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usmeriti pozornost, posvetiti pozornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wonder if we can turn our attention to something you mentioned earlier.
+</quote>
+<quote>
+His thoughts turned to Calcutta.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn to someone for help or advice 
+</seg>
+pomeni prositi nekoga za pomo&ccaron; ali nasvet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti se na koga, poiskati pomo&ccaron; pri nekom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;d turned to him for help.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+turns into something
+</seg>
+, postane nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremeniti se, postati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you apply more heat, the water turns into steam.
+</quote>
+<quote>
+Soon her glee turned to fear.
+</quote>
+<quote>
+My hair has turned completely grey.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A turn 
+</seg>
+je tudi sprememba v poteku ali izvajanju ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preobrat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In that year things took a sharp turn for the worse.
+</quote>
+<quote>
+Employers are not happy about this turn of events.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s turn to do something 
+</seg>
+pomeni, da ima nekdo pravico, prilo&zcaron;nost ali dol&zcaron;nost, da nekaj naredi, potem ko so to naredili &zcaron;e drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is his turn to take the children to school.
+</quote>
+<quote>
+...waiting his turn.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+turning
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A good turn 
+</seg>
+je nekaj, kar naredimo, da bi pomagali nekomu drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usluga
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in turn 
+</seg>
+pove, da si osebe, stvari ali dejanja sledijo v zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vrsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went round the ward, talking to each woman in turn.
+</quote>
+<quote>
+It became in turn a stable, a chapel, and a theatre.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+take turns 
+</seg>
+ali 
+<FV>
+take it in turns
+</FV>
+, nekaj delajo drug za drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmenjavati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can take turns paying.
+</quote>
+<quote>
+They took turns at the same typewriter.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+turn 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+back on 
+</QF>
+<QI>
+someone or something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+back
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+turn the tables on 
+</QF>
+<QI>
+someone: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+table
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+turn against.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+turns against someone
+</seg>
+, mu tista oseba ni ve&ccaron; v&scaron;e&ccaron; ali njenih dejanj ne odobrava ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti se proti nekomu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They might at any time turn against their masters.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn someone away 
+</seg>
+pomeni odkloniti nekoga ali ga poslati stran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The college has been forced to turn away 300 prospective students.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn back 
+</seg>
+pomeni, da se na poti proti nekemu cilju ustavimo in se za&ccaron;nemo vra&ccaron;ati proti kraju, od koder smo &scaron;li. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti se nazaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The snow started to fall, so we turned back.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn someone back 
+</seg>
+pomeni nekomu prepre&ccaron;iti nadaljevanje potovanja in ga prisiliti, da se vrne tja, od koder je pri&scaron;el. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavrniti, poslati nazaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A lot of the convoys had been turned back at the border.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn down a request or offer 
+</seg>
+pomeni ne sprejeti pro&scaron;nje ali ponudbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavrniti, odbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was invited to be foreman but I turned it down.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn down something 
+</seg>
+pomeni zmanj&scaron;ati jakost delovanja neke naprave, na primer glasnost radijskega sprejemnika ali toploto grelca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uti&scaron;ati, zmanj&scaron;ati mo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you are hot you can turn the heating down.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn off a road 
+</seg>
+pomeni zapeljati ali iti z ene ceste na drugo, ki vodi od prve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti (s ceste)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They turned off the main road.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+turn-off
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn off something 
+</seg>
+pomeni nastaviti stikala tako, da nekaj, na primer naprava ali stroj, neha delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izklju&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We couldn&apos;t turn the heat off.
+</quote>
+<quote>
+She turned off the tap.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn on a machine or device 
+</seg>
+pomeni nastaviti stikala tako, da naprava ali stroj za&ccaron;ne delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Shall I turn the fire on?
+</quote>
+<quote>
+She turned on the shower.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn someone on 
+</seg>
+pomeni nekoga privla&ccaron;iti in spolno vznemiriti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vzburiti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn on someone 
+</seg>
+pomeni napasti nekoga ali jezno govoriti z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lotiti se nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She turned on the men. &lsquo;How can you treat your daughters like this!&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+turns out a particular way
+</seg>
+, se zgodi na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dogoditi se, izkazati se za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nothing ever turned out right.
+</quote>
+<quote>
+The transaction turned out badly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+turns out to be a particular thing
+</seg>
+, za tisto odkrijemo, da je tisto, kar je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Marvins&apos; house turned out to be an old converted barn.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn out a light or a gas fire 
+</seg>
+pomeni nastaviti stikala tako, da svetilka ali plinski gorilnik ugasne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugasniti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar podjetje ali organizacija 
+<seg type="lemma">
+turns out something
+</seg>
+, tisto stvar izdeluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Salford was turning out the type of graduate they wanted.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn someone out 
+</seg>
+pomeni prisiliti nekoga, da odide. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti pred vrata, vre&ccaron;i ven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a woman who had been turned out of the community 20 years before.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn out something 
+</seg>
+pomeni izprazniti nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izprazniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Come on everyone, turn out your pockets!
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+turn out for an event or activity
+</seg>
+, pridejo nekam, da bi sodelovali na prireditvi ali v dejavnosti ali jo opazovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti, udele&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Voters turned out in extraordinary numbers for the election.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn something over in one&apos;s mind 
+</seg>
+pomeni skrbno razmi&scaron;ljati o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tehtati, premlevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Going home that night, Dr Renshaw turned over the facts of the case.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn something over to someone 
+</seg>
+pomeni nekaj uradno izro&ccaron;iti nekomu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izro&ccaron;iti, predati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had refused to turn over funds that belonged to Potter.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+turnover
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+turn up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+turns up
+</seg>
+, nekam prispe, se nekje pojavi ali je odkrito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojaviti se, pokazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He turned up at rehearsal the next day looking awful.
+</quote>
+<quote>
+You must be willing to take a job as soon as one turns up.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To turn up a machine or device 
+</seg>
+pomeni nastaviti stikala tako, da stroj ali naprava daje ve&ccaron; toplote, svetlobe ali mo&ccaron;nej&scaron;i zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&ccaron;ati jakost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Turn the volume control up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

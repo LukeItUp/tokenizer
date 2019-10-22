@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exploit,
+</orth>
+<form type="inflected">
+exploits, exploiting, exploited;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/Ikspl*O*It/
+</pron>
+, samostalnik pa
+<pron>
+/*eksplOIt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+exploits someone
+</seg>
+, po krivici izkori&scaron;&ccaron;a delo ali zamisli nekoga drugega in za to malo daje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkori&scaron;&ccaron;ati, izrabljati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+exploitation
+</orth>
+<form type="variant">
+<pron>
+/*eksplOIt*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...to protect the public from commercial exploitation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exploit something 
+</seg>
+pomeni nekaj, na primer surovino ali zamisel, razviti, da bi s tem zaslu&zcaron;ili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkori&scaron;&ccaron;ati, &ccaron;rpati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+exploitation
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the exploitation of the Earth's resources.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's exploits 
+</seg>
+so pogumne ali zanimive stvari, ki jih je nekdo storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+juna&scaron;tvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his exploits in the War.
+</quote>
+</seg>
+</sense>
+</entry>

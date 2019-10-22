@@ -1,0 +1,173 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+motion
+</orth>
+<form type="variant">
+<pron>
+/m*@*US@0n/
+</pron>
+</form>
+<form type="inflected">
+motions, motioning, motioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Motion 
+</seg>
+je neprekinjeno premikanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gibanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bed swayed with the motion of the ship.
+</quote>
+<quote>
+Just keep moving, stay in motion.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+slow motion
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A motion 
+</seg>
+je dejanje, gib ali premik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gib
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made stabbing motions with his spear.
+</quote>
+<quote>
+With a quick motion of her hands, she did her hair up in a knot.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na sestanku ali v razpravi je 
+<seg type="lemma">
+a motion 
+</seg>
+predlog, o katerem udele&zcaron;enci razpravljajo in glasujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predlog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He proposed the motion that &lsquo;the Public Schools of England should be abolished&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+motions to someone
+</seg>
+, naredi gib z roko, da bi mu pokazal, kaj naj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Boylan motioned to Rudolph to sit down.
+</quote>
+<quote>
+He motioned Tom to follow him.
+</quote>
+<quote>
+He shook hands and motioned him to a seat.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+goes through the motions
+</seg>
+, pove ali naredi, kar se pri&ccaron;akuje od njega, ne da bi bil preve&ccaron; iskren ali resen pri tem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretvarjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Major Hawks went through the motions of advising me to quit.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Dogajanje ali dogodek, ki je 
+<seg type="lemma">
+in motion
+</seg>
+, se &zcaron;e dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v teku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The changes are already in motion.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

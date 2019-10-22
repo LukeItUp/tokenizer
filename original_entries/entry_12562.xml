@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+secretary
+</orth>
+<form type="variant">
+<pron>
+/s*ekr@t@0ri1/
+</pron>
+</form>
+<form type="inflected">
+secretaries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A secretary 
+</seg>
+je oseba, katere delo je tipkanje pisem, odgovarjanje na telefonske klice in opravljanje drugih pisarni&scaron;kih del. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajnik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The secretary of a club 
+</seg>
+je oseba, ki v klubu vodi evidenco in pi&scaron;e pisma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you want to join the cricket club, write to the secretary.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Secretary 
+</seg>
+je tudi naziv za ministre, ki vodijo pomembnej&scaron;e oddelke v vladi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sekretar, minister
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the best Foreign Secretaries since the war.
+</quote>
+</seg>
+</sense>
+</entry>

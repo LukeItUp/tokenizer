@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rain
+</orth>
+<form type="variant">
+<pron>
+/r*e*In/
+</pron>
+</form>
+<form type="inflected">
+rains, raining, rained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rain 
+</seg>
+je voda, ki v obliki kapljic pada z neba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+de&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t go home in this rain.
+</quote>
+<quote>
+A light rain had begun to fall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+it is raining
+</seg>
+, to pomeni, da pada de&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+de&zcaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It had started to rain.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+rains from above 
+</seg>
+ali 
+<seg type="lemma">
+rains down
+</seg>
+, hitro pada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+de&zcaron;evati, usipati se, padati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ash rained from the sky.
+</quote>
+<quote>
+...raining down arrows from both sides.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rain off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &scaron;portna prireditev 
+<seg type="lemma">
+is rained off
+</seg>
+, zaradi de&zcaron;ja ne more potekati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpasti zaradi de&zcaron;ja
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

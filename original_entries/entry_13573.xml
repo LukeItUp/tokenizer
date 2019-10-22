@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stalwart
+</orth>
+<form type="variant">
+<pron>
+/st*O*:lw@t/
+</pron>
+</form>
+<form type="inflected">
+stalwarts.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delavec ali podporni &ccaron;lan, ki je 
+<seg type="lemma">
+stalwart
+</seg>
+, je gara&scaron;ki in zvest organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neomajen, zanesljiv, lojalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the stalwart Somerset cricketer, Bill Andrews.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They were all Government stalwarts.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

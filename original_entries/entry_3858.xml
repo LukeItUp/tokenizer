@@ -1,0 +1,160 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dig
+</orth>
+<form type="variant">
+<pron>
+/d*Ig/
+</pron>
+</form>
+<form type="inflected">
+digs, digging, dug
+</form>
+<form type="variant">
+<pron>
+/d*Vg/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dig 
+</seg>
+pomeni zasajati lopato v zemljo in z njo razkopati tla ali narediti jamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopati, prekopati, izkopati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was digging my garden.
+</quote>
+<quote>
+He dug a little hole in the ground.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dig one thing into another 
+</seg>
+pomeni &ccaron;vrsto potisniti eno stvar v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakopati, zasaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She dug her needle into her sewing.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dig 
+</seg>
+je pripomba, s katero &zcaron;elimo nekoga prizadeti ali spraviti v zadrego. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbadljivka, posmeh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whenever she can, she takes a dig at me.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dig out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dig something out 
+</seg>
+pomeni nekaj najti, potem ko je bilo dolgo skrito ali spravljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkopati, izbrskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We dug out our tour books and maps for the holiday.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+dig up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dig up information 
+</seg>
+pomeni odkriti podatke, ki niso splo&scaron;no znani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrskati, najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Journalists have dug up some hair-raising facts about the company.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

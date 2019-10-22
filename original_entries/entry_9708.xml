@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oath
+</orth>
+<form type="variant">
+<pron>
+/*@*U*T/
+</pron>
+</form>
+<form type="inflected">
+oaths
+</form>
+<form type="variant">
+<pron>
+/*@*U*Dz/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An oath 
+</seg>
+je uradna ali slovesna obljuba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an oath of allegiance.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on oath 
+</seg>
+ali 
+<FV>
+under oath
+</FV>
+, na sodi&scaron;&ccaron;u obljubi, da bo govoril resnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pod prisego
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An oath 
+</seg>
+je tudi groba beseda, s katero izrazimo svoje nezadovoljstvo; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kletvica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was answered with a torrent of French oaths.
+</quote>
+</seg>
+</sense>
+</entry>

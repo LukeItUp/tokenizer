@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+earnest
+</orth>
+<form type="variant">
+<pron>
+/*$e*:nI2st/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+earnest
+</seg>
+, je zelo resen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+resen, iskren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an earnest young man from the University.
+</quote>
+<quote>
+It is my earnest wish that you use this money to further your research.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+earnestly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was in a corner of the room talking earnestly to Julie.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in earnest 
+</seg>
+pomeni biti iskren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+resno misliti, ne se &scaron;aliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is the President in earnest about the desire to negotiate?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e se nekaj zgodi 
+<seg type="lemma">
+in earnest
+</seg>
+, se zgodi v ve&ccaron;ji meri kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z vsemi silami, na vso mo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Work on the tunnel began in earnest soon after.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

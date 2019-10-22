@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tire
+</orth>
+<form type="variant">
+<pron>
+/t*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+tires, tiring, tired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tires someone
+</seg>
+, &ccaron;lovek zaradi tistega izgubi veliko energije, zato &zcaron;eli po&ccaron;ivati ali spati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utruditi, izmu&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The run did not seem to tire them at all.
+</quote>
+<quote>
+The other men began to tire.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tiring
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We should have an early night after such a tiring day.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tire of something 
+</seg>
+pomeni, da nam je ne&ccaron;esa dovolj in da nas tisto spravi v slabo voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naveli&ccaron;ati se, dovolj imeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tired of my questions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+tyre
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tire out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tires someone out
+</seg>
+, je &ccaron;lovek zaradi tistega zelo utrujen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmu&ccaron;iti, uni&ccaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

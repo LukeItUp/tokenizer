@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+packed
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;kt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V prostoru, ki je 
+<seg type="lemma">
+packed
+</seg>
+, je velika gne&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poln do zadnjega koti&ccaron;ka, natrpan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The theatre was packed.
+</quote>
+<quote>
+...a packed courtroom.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+packed with things
+</seg>
+, je tam zelo veliko stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natrpan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The book is packed full of information.
+</quote>
+</seg>
+</sense>
+</entry>

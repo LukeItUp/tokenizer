@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+train
+</orth>
+<form type="variant">
+<pron>
+/tr*e*In/
+</pron>
+</form>
+<form type="inflected">
+trains, training, trained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A train 
+</seg>
+je niz vagonov, ki jih lokomotiva vle&ccaron;e po &zcaron;elezni&scaron;kih tirih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlak
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TRANSPORT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+I caught a train to Oxford.
+</quote>
+<quote>
+We are going by train.
+</quote>
+<quote>
+...the train journey to Leeds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A train of thought 
+</seg>
+je povezan niz misli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tok, nit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt annoyed with her for interrupting my train of thought.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To train a person or animal to do something 
+</seg>
+pomeni u&ccaron;iti osebo ali &zcaron;ival, kako naj nekaj dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uriti, vaditi, u&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The police are trained to keep calm.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+trained
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a trained nurse.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To train as something 
+</seg>
+pomeni u&ccaron;iti se, kako se opravlja dolo&ccaron;eno delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usposabljati se, &scaron;olati se za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She started to train as a nurse.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To train for an activity 
+</seg>
+pomeni delati telesne vaje in jesti posebno hrano, da bi se tako pripravili za dolo&ccaron;eno dejavnost, na primer tekmovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trenirati, vaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was training for the marathon.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+training
+</ref>
+</xr>
+</sense>
+</entry>

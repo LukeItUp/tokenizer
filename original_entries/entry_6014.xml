@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gesture
+</orth>
+<form type="variant">
+<pron>
+/dZ*estS@/
+</pron>
+</form>
+<form type="inflected">
+gestures, gesturing, gestured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gesture 
+</seg>
+je premik, ki ga naredimo z rokami ali glavo, da bi izrazili &ccaron;ustvo ali posredovali informacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gib
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She made an angry gesture with her fist.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gesture 
+</seg>
+pomeni uporabljati roke ali glavo za izra&zcaron;anje &ccaron;ustva ali posredovanje informacij. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gestikulirati, kazati z gibi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She gestured that I ought to wait.
+</quote>
+<quote>
+He gestured to me to lie down.
+</quote>
+<quote>
+She gestured towards the bookshelves.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gesture 
+</seg>
+je tudi nekaj, kar re&ccaron;emo ali storimo, da bi pokazali svoje mi&scaron;ljenje ali namero. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poteza, gib
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The demonstration is a gesture of defiance.
+</quote>
+</seg>
+</sense>
+</entry>

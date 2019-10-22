@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+believer
+</orth>
+<form type="variant">
+<pron>
+/bi1l*i*:v@/
+</pron>
+</form>
+<form type="inflected">
+believers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a believer in something
+</seg>
+, misli, da je tisto dobro ali prav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagovornik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the true believer in democracy.
+</quote>
+<quote>
+Bob is a great believer in jogging.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a believer
+</seg>
+, je prepri&ccaron;an, da je njegova religija prava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vernik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Of course you, as a believer, try to convert others?
+</quote>
+</seg>
+</sense>
+</entry>

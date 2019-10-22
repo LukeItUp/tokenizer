@@ -1,0 +1,350 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+find
+</orth>
+<form type="variant">
+<pron>
+/f*a*Ind/
+</pron>
+</form>
+<form type="inflected">
+finds, finding, found
+</form>
+<form type="variant">
+<pron>
+/f*a*Und/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find something 
+</seg>
+pomeni odkriti, videti ali izvedeti, kje je tisto, kar i&scaron;&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She found a crack in one of the tea-cups.
+</quote>
+<quote>
+She looked up to find Tony standing there.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find something 
+</seg>
+pomeni, da se nam posre&ccaron;i dobiti nekaj, kar potrebujemo ali &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He cannot find work.
+</quote>
+<quote>
+I had not yet found the answer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find that something is the case 
+</seg>
+pomeni zavedeti se ali spoznati, da je nekaj tako, kot je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugotoviti, odkriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When I got back, I found that the reading lamp would not work.
+</quote>
+<quote>
+I don&apos;t find that funny at all.
+</quote>
+<quote>
+I found him a disappointment.
+</quote>
+<quote>
+Others may find them of value.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find oneself doing something 
+</seg>
+pomeni nekaj narediti, &ccaron;eprav nismo nameravali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spoznati, ugotoviti, zavedeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He found himself giggling uncontrollably.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be found in a particular place
+</seg>
+ pomeni, da je tisto na nekem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti, &zcaron;iveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Four different species of lungfish are found in Africa.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find one&apos;s way somewhere 
+</seg>
+pomeni nekam priti, tako da izberemo pravo pot. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najti pot
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To find the time to do something 
+</seg>
+pomeni, da nam uspe nekaj narediti, &ccaron;eprav smo zelo zaposleni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najti &ccaron;as za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How do you find time to write these books?
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sodi&scaron;&ccaron;e ali porota 
+<seg type="lemma">
+finds a person guilty or not guilty
+</seg>
+, se odlo&ccaron;i, ali je oseba kriva ali nedol&zcaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spoznati za krivega/nedol&zcaron;nega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was found guilty of murder.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e tisto, kar je bilo odkrito, imenujemo 
+<seg type="lemma">
+a find
+</seg>
+, se nam zdi zanimivo, dobro ali uporabno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najdba, odkritje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Among the finds so far are pottery and jewellery.
+</quote>
+<quote>
+Liz Pym, who plays the heroine, is a real find.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+find fault: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+fault
+</ref>
+</xr>
+</sense>
+<sense n="11">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+found
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+find out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To find something out 
+</seg>
+pomeni nekaj izvedeti, pogosto namenoma in tako, da se potrudimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvedeti, pozanimati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I found out the train times.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To find someone out 
+</seg>
+pomeni odkriti, da je tisti &ccaron;lovek po&ccaron;el nekaj nepo&scaron;tenega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalotiti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

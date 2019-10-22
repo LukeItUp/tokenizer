@@ -1,0 +1,290 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+help
+</orth>
+<form type="variant">
+<pron>
+/h*elp/
+</pron>
+</form>
+<form type="inflected">
+helps, helping, helped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To help someone 
+</seg>
+pomeni nekomu nekaj olaj&scaron;ati, na primer tako, da opravimo nekaj njegovega dela ali mu damo nasvet ali denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Something went wrong with his machine so I helped him fix it.
+</quote>
+<quote>
+The courier helped everyone out of the coach.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+helps
+</seg>
+, nam olaj&scaron;a, da nekaj dobimo, storimo ali prenesemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomagati, olaj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve got 40 pence, will that help?
+</quote>
+<quote>
+Good weather helped the clean-up operations on the East Coast.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+helps to achieve a particular result
+</seg>
+, je ena od stvari, ki skupaj dose&zcaron;ejo dolo&ccaron;en u&ccaron;inek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomo&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One of the things that can help to keep prices down is high productivity.
+</quote>
+<quote>
+Having a job helps keep them off the streets.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To help oneself 
+</seg>
+pomeni vzeti nekaj hrane ali pija&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postre&ccaron;i si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Stokes helped himself to some more rum.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+can&apos;t help the way one feels or the way one behaves
+</seg>
+, ne more spremeniti ali prepre&ccaron;iti svojih ob&ccaron;utkov ali vedenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne mo&ccaron;i (druga&ccaron;e)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t help who you fall in love with.
+</quote>
+<quote>
+I can&apos;t help feeling that it was a mistake to let him go.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give help to someone 
+</seg>
+pomeni nekomu pomagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomagati, ponuditi pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The organization gives help to single women.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+is a help
+</seg>
+, nam pomaga nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a great help with some of the problems.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+of help
+</seg>
+, stvari naredi la&zcaron;je ali bolj&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Having a sober mind around might prove to be of some help.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;Help!&rsquo; 
+</seg>
+vzkliknemo, kadar smo v nevarnosti, da bi pritegnili pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+Na pomo&ccaron;! Pomagajte!
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+help out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To help out 
+</seg>
+ali 
+<seg type="lemma">
+to help someone out 
+</seg>
+pomeni nekomu pomagati tako, da zanj opravimo neko delo ali mu posodimo denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomagati komu prebroditi te&zcaron;ave, podpreti koga
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

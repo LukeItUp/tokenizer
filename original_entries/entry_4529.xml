@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+elect
+</orth>
+<form type="variant">
+<pron>
+/i1l*ekt/
+</pron>
+</form>
+<form type="inflected">
+elects, electing, elected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To elect someone 
+</seg>
+pomeni z volitvami izbrati neko osebo, da nas bo zastopala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvoliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They met to elect a president.
+</quote>
+<quote>
+Why should we elect him Mayor?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+elected
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a democratically elected government.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To elect to do something 
+</seg>
+pomeni izbrati tisto, kar bomo delali; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izbrati, odlo&ccaron;iti se
+</quote>
+</cit>
+</sense>
+</entry>

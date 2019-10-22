@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+orderly
+</orth>
+<form type="variant">
+<pron>
+/*O*:d@li1/
+</pron>
+</form>
+<form type="inflected">
+orderlies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+orderly
+</seg>
+, je skrbno pripravljeno in razporejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urejen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a system of orderly government.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+orderliness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We pride ourselves on the orderliness of our way of life.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An orderly 
+</seg>
+je zdravstveni delavec, ki nima strokovne izobrazbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stre&zcaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I sat at the end of the ward with the orderly.
+</quote>
+</seg>
+</sense>
+</entry>

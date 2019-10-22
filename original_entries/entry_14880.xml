@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+truant
+</orth>
+<form type="variant">
+<pron>
+/tr*u*:@nt/
+</pron>
+</form>
+<form type="inflected">
+truants.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A truant 
+</seg>
+je otrok, ki brez opravi&ccaron;ila izostane iz &scaron;ole. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;pricar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His elder brother had been a habitual truant.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar otroci 
+<seg type="lemma">
+play truant
+</seg>
+, brez opravi&ccaron;ila izostanejo od pouka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neopravi&ccaron;eno manjkati, &scaron;pricati (&scaron;olo)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In my last year I played truant a lot.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

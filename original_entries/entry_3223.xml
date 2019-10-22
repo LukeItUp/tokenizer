@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+crime
+</orth>
+<form type="variant">
+<pron>
+/kr*a*Im/
+</pron>
+</form>
+<form type="inflected">
+crimes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crime 
+</seg>
+je nezakonito dejanje, za katerega zakon lahko storilca kaznuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&ccaron;in
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A crime has been committed.
+</quote>
+<quote>
+...the crime of murder.
+</quote>
+<quote>
+...a life of crime.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi dejanje, ki je videti eti&ccaron;no napa&ccaron;no, lahko imenujemo 
+<seg type="lemma">
+a crime
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&ccaron;in, hudodelstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To waste good food is a crime against nature.
+</quote>
+</seg>
+</sense>
+</entry>

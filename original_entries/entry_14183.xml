@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+taboo
+</orth>
+<form type="variant">
+<pron>
+/t@b*u*:/
+</pron>
+</form>
+<form type="inflected">
+taboos.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A taboo 
+</seg>
+je dru&zcaron;beno pravilo, po katerem se moramo izogibati nekaterim besedam, temam pogovora ali dejanjem, ker so nespodobni ali &zcaron;aljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tabu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the old taboo on kissing in public.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Money is no longer a taboo subject.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A taboo 
+</seg>
+je tudi versko pravilo, ki ljudem prepoveduje dolo&ccaron;ena dejanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tabu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tribal taboos forbade the Mandinkas to eat monkeys and baboons.
+</quote>
+</seg>
+</sense>
+</entry>

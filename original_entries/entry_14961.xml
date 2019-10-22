@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twin
+</orth>
+<form type="variant">
+<pron>
+/tw*In/
+</pron>
+</form>
+<form type="inflected">
+twins.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Twins 
+</seg>
+sta osebi, ki imata isto mater in sta se rodili istega dne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvoj&ccaron;ek
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+identical twin
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+twin 
+</seg>
+opi&scaron;emo dve podobni stvari, ki sta blizu skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojen, paren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the twin turrets of Tower Bridge.
+</quote>
+</seg>
+</sense>
+</entry>

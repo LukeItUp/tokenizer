@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enforce
+</orth>
+<form type="variant">
+<pron>
+/I2nf*O*:s/
+</pron>
+</form>
+<form type="inflected">
+enforces, enforcing, enforced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e osebe, ki imajo oblast, 
+<seg type="lemma">
+enforce a law or rule
+</seg>
+, poskrbijo, da se ljudje dr&zcaron;ijo zakona ali pravila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uveljaviti, vsiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...officials who refused to enforce the immigration laws.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enforcement
+</orth>
+<form type="variant">
+<pron>
+/I2nf*O*:sm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the enforcement of public laws and regulations.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enforce a particular condition 
+</seg>
+pomeni izsiliti, da se nekaj zagotovi ali zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;iti, vsiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He enforced high standards.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enforced
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a life of enforced inactivity.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+enforcement
+</orth>
+<form type="variant">
+<pron>
+/I2nf*O*:sm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the enforcement of discipline.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

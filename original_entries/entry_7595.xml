@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+instruction
+</orth>
+<form type="variant">
+<pron>
+/Instr*VkS@0n/
+</pron>
+</form>
+<form type="inflected">
+instructions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An instruction 
+</seg>
+je nekaj, kar nam nekdo uka&zcaron;e, da moramo storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navodilo, napotek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was only following the instructions of her supervisor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Instructions 
+</seg>
+so jasni in podrobni podatki o tem, kako naj nekaj storimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navodila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Read the instructions before you switch on the engine.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Instruction in a subject or skill 
+</seg>
+je poduk, ki nam ga nekdo da o nekem predmetu ali spretnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pouk, in&scaron;trukcija
+</quote>
+</cit>
+</sense>
+</entry>

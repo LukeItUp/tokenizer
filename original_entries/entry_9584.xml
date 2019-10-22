@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+noise
+</orth>
+<form type="variant">
+<pron>
+/n*O*Iz/
+</pron>
+</form>
+<form type="inflected">
+noises.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A noise 
+</seg>
+je glas ali zvok, ki prihaja od koga ali &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvok, hrup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A sudden noise made Brody jump.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Noise 
+</seg>
+je glasen ali neprijeten zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hrup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try not to make so much noise.
+</quote>
+<quote>
+Our washing machine is making a terrible noise.
+</quote>
+</seg>
+</sense>
+</entry>

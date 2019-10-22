@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+murder
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:d@/
+</pron>
+</form>
+<form type="inflected">
+murders, murdering, murdered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Murder 
+</seg>
+je nameren uboj &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...attempted murder.
+</quote>
+<quote>
+...the rising number of murders in San Francisco.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To murder someone 
+</seg>
+pomeni nekoga ubiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His father, mother, and sister were all murdered by the terrorists.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+murderer
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I want to track down the murderers of my son.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+gets away with murder
+</seg>
+, lahko naredi, kar ho&ccaron;e, pa ga ne bo nih&ccaron;e kaznoval; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti nekaznovan za karkoli
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

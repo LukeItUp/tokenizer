@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inquiry
+</orth>
+<form type="variant">
+<pron>
+/IN1kw*a*I*@ri1/
+</pron>
+</form>
+<form type="inflected">
+inquiries;
+</form>
+<SN>
+Pi&scaron;emo tudi 
+<SV>
+enquiry 
+</SV>
+<pron>
+/I2N1kw*a*I*@ri1/
+</pron>
+, zlasti pri 1. pomenu.
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inquiry 
+</seg>
+je vpra&scaron;anje, ki ga postavimo, da bi nekaj izvedeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shall make some enquiries.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inquiry 
+</seg>
+je tudi uradna preiskava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preiskava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Opposition MPs have called for a public inquiry.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Inquiry 
+</seg>
+je postopek spra&scaron;evanja o ne&ccaron;em, da bi dobili podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poizvedovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On further enquiry, I discovered that there had been nobody at home.
+</quote>
+</seg>
+</sense>
+</entry>

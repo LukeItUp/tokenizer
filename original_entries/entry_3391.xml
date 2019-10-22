@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cylinder
+</orth>
+<form type="variant">
+<pron>
+/s*IlInd@/
+</pron>
+</form>
+<form type="inflected">
+cylinders.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cylinder 
+</seg>
+je posoda ali geometrijsko telo z okroglo osnovno ploskvijo in pla&scaron;&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+valj, cilinder
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...the hot water cylinder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cylinder 
+</seg>
+v motorju je valjast del stroja; v njem se ventil premika nazaj in naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+valj, cilinder
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a five cylinder engine.
+</quote>
+</seg>
+</sense>
+</entry>

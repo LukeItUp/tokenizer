@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discriminate
+</orth>
+<form type="variant">
+<pron>
+/dIskr*ImIneIt/
+</pron>
+</form>
+<form type="inflected">
+discriminates, discriminating, discriminated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To discriminate between two things 
+</seg>
+pomeni videti razliko med dvema stvarema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlikovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...to discriminate between right and wrong.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+discrimination
+</orth>
+<form type="variant">
+<pron>
+/dIskr*ImIn*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...discrimination between the important and the trivial problems.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To discriminate against someone 
+</seg>
+ali 
+<FV>
+to discriminate in favour of someone 
+</FV>
+pomeni z nekom po krivici ravnati slab&scaron;e ali bolje kot z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pristranski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The law discriminated against women.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+discrimination
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...discrimination against the poor.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

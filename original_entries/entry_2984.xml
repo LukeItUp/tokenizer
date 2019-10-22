@@ -1,0 +1,166 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+convert,
+</orth>
+<form type="inflected">
+converts, converting, converted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/k@7nv*$e*:t/
+</pron>
+, samostalnik pa 
+<pron>
+/k*Qnv3:t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To convert one thing into another 
+</seg>
+pomeni spremeniti prvo stvar v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predelati, spremeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A solar cell takes radiation from the sun and converts it into electricity.
+</quote>
+<quote>
+The house has been converted into two apartments.
+</quote>
+<quote>
+...the formula for converting kilometres to miles.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+converted
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The theatre is a converted squash court.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+conversion
+</orth>
+<form type="variant">
+<pron>
+/k@7nv*$e*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the conversion of coal into oil and gas.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+converts someone
+</seg>
+, ga prepri&ccaron;a, da spremeni svoje versko ali politi&ccaron;no prepri&ccaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spreobrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...since he was converted to Roman Catholicism.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+conversion
+</orth>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his recent conversion to Christianity.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A convert 
+</seg>
+je &ccaron;lovek, ki je spremenil svoje versko ali politi&ccaron;no prepri&ccaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spreobrnjenec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Catholic convert.
+</quote>
+</seg>
+</sense>
+</entry>

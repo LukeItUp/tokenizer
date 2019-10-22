@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invade
+</orth>
+<form type="variant">
+<pron>
+/Inv*e*Id/
+</pron>
+</form>
+<form type="inflected">
+invades, invading, invaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To invade a country 
+</seg>
+pomeni vstopiti v neko dr&zcaron;avo na silo, z vojsko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti, vdreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Kennedy&apos;s secret plan to invade Cuba.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+invader
+</orth>
+<form type="variant">
+<pron>
+/Inv*e*Id@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The invaders had been defeated.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali &zcaron;ivali 
+<seg type="lemma">
+invade a place
+</seg>
+, tja vstopijo v velikem &scaron;tevilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti, preplaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The town was invaded by reporters.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+explosion
+</orth>
+<form type="variant">
+<pron>
+/I2kspl*@*UZ@0n/
+</pron>
+</form>
+<form type="inflected">
+explosions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An explosion 
+</seg>
+je nenaden, silovit izbruh energije, na primer tak, ki ga povzro&ccaron;i bomba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pok, eksplozija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Twenty men were killed in the explosion.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An explosion of something 
+</seg>
+je veliko in hitro pove&ccaron;anje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the population explosion.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An explosion of anger 
+</seg>
+je nenaden, nasilen izraz jeze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh
+</quote>
+</cit>
+</sense>
+</entry>

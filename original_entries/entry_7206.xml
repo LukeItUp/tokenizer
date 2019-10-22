@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+imply
+</orth>
+<form type="variant">
+<pron>
+/Impl*a*I/
+</pron>
+</form>
+<form type="inflected">
+implies, implying, implied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To imply 
+</seg>
+pomeni namigniti, da je nekaj res, ne da bi to tudi v resnici rekli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At one point she implied she would marry me.
+</quote>
+<quote>
+In Malta this gesture implies heavy sarcasm.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+implied
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...implied criticism.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dolo&ccaron;ene okoli&scaron;&ccaron;ine 
+<seg type="lemma">
+imply that something is the case
+</seg>
+, dajo vedeti, da je nekaj tako, kot je videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These discoveries imply that the sea-bed is rich in fossil fuels.
+</quote>
+</seg>
+</sense>
+</entry>

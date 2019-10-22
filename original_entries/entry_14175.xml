@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tab
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;b/
+</pron>
+</form>
+<form type="inflected">
+tabs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tab 
+</seg>
+je ko&scaron;&ccaron;ek blaga ali papirja, pritrjen k &ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+etiketa, oznaka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It had the maker&apos;s name on a small cloth tab inside.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To keep tabs on someone 
+</seg>
+pomeni ves &ccaron;as spremljati, kje je nekdo ali kaj dela; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+imeti na o&ccaron;eh, biti komu za petami
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

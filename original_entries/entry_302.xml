@@ -5,18 +5,19 @@ agonize
 </orth>
 <form type="variant">
 <pron>
-/*#ae;g@7naIz/
+/*&ae;g@7naIz/
 </pron>
 </form>
 <form type="inflected">
 agonizes, agonizing, agonized;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-agonise.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+agonise
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -26,14 +27,13 @@ VB
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To agonize over something
+To agonize over something 
 </seg>
-pomeni biti
-zaradi ne&#269;esa v skrbeh in o tistem dolgo razmi&#353;ljati.
+pomeni biti zaradi ne&ccaron;esa v skrbeh in o tistem dolgo razmi&scaron;ljati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-mu&#269;iti se, trpeti, biti v agoniji
+mu&ccaron;iti se, trpeti, biti v agoniji
 </quote>
 </cit>
 </sense>

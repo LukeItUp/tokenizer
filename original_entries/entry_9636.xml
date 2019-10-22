@@ -1,0 +1,305 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+not
+</orth>
+<form type="variant">
+<pron>
+/n*Qt/
+</pron>
+</form>
+<LN>
+Izraz 
+<LH>
+not 
+</LH>
+uporabljamo za tvorjenje nikalnih stavkov. V govoru se 
+<LH>
+not 
+</LH>
+navadno okraj&scaron;a v 
+<LV>
+-n&apos;t.
+</LV>
+</LN>
+<sense n="1">
+<def xml:lang="sl">
+Kadar je v glagolski besedni zvezi pomo&zcaron;ni ali naklonski glagol, postavimo 
+<seg type="lemma">
+not 
+</seg>
+med pomo&zcaron;ni in glavni glagol. 
+</def>
+<seg type="example">
+<quote>
+I haven&apos;t tried to telephone him.
+</quote>
+<quote>
+She couldn&apos;t hear the orchestra properly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar ob glavnem glagolu ni pomo&zcaron;nega, pred 
+<seg type="lemma">
+not 
+</seg>
+dodamo 
+<seg type="lemma">
+do
+</seg>
+. 
+</def>
+<seg type="example">
+<quote>
+I don&apos;t agree with everything he says.
+</quote>
+<quote>
+She did not answer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar je glavni glagol 
+<seg type="lemma">
+be
+</seg>
+ (biti), uporabljamo 
+<seg type="lemma">
+not 
+</seg>
+brez pomo&zcaron;nega glagola. 
+</def>
+<seg type="example">
+<quote>
+There wasn&apos;t enough room for everybody.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar 
+<seg type="lemma">
+not 
+</seg>
+uporabimo z glagoli, kot so 
+<seg type="lemma">
+think
+</seg>
+ (misliti), 
+<seg type="lemma">
+want
+</seg>
+ (hoteti) in 
+<seg type="lemma">
+seem
+</seg>
+ (zdeti se), nikalni u&ccaron;inek besede 
+<seg type="lemma">
+not 
+</seg>
+velja za stavek ali nedolo&ccaron;nik, ki pride za omenjenimi glagoli. Na primer, 
+<seg type="lemma">
+I don&apos;t think she&apos;s here
+</seg>
+ pomeni isto kot 
+<seg type="lemma">
+I think she&apos;s not here
+</seg>
+. 
+</def>
+<seg type="example">
+<quote>
+I don&apos;t want to talk about it.
+</quote>
+<quote>
+The book doesn&apos;t seem to be here.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+Not 
+</seg>
+uporabljamo v vpra&scaron;alnih dostavkih (&lsquo;question tags&rsquo;) za trdilnimi stavki. 
+</def>
+<seg type="example">
+<quote>
+That&apos;s a new one, isn&apos;t it?
+</quote>
+<quote>
+You&apos;ve seen this, haven&apos;t you?
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<def xml:lang="sl">
+<seg type="lemma">
+Not 
+</seg>
+uporabljamo v vpra&scaron;anjih, na primer ko izra&zcaron;amo presene&ccaron;enje ali nezadovoljstvo. 
+</def>
+<seg type="example">
+<quote>
+Don&apos;t they realize it&apos;s against the law?
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<def xml:lang="sl">
+<seg type="lemma">
+Not 
+</seg>
+uporabljamo, kadar ho&ccaron;emo izraziti zanikani ali nasprotni pomen od pomena pravkar uporabljene besede, besedne zveze ali stavka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Do you know how much it is?&rsquo;&mdash;&lsquo;I&apos;m afraid not.&rsquo;
+</quote>
+<quote>
+They&apos;d know if it was all right or not.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<def xml:lang="sl">
+<seg type="lemma">
+Not 
+</seg>
+uporabljamo pred 
+<seg type="lemma">
+all
+</seg>
+, 
+<seg type="lemma">
+every
+</seg>
+ ali 
+<seg type="lemma">
+always
+</seg>
+, &ccaron;e &zcaron;elimo re&ccaron;i, da obstajajo tudi izjeme sicer splo&scaron;no veljavnih trditev. 
+</def>
+<seg type="example">
+<quote>
+Not all scientists are honest.
+</quote>
+<quote>
+Not everyone agrees with me.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Zvezo 
+<seg type="lemma">
+not...but 
+</seg>
+uporabljamo, &ccaron;e &zcaron;elimo poudariti nasprotje med ne&ccaron;em, kar ni res, in ne&ccaron;em, kar je res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne ... ampak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We wept, not because we were frightened but because we were ashamed.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+not that 
+</seg>
+uvaja nikalni stavek, ki zmanj&scaron;uje pomembnost prej&scaron;nje trditve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sicer pa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bob helped him. Not that it was difficult.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Not at all 
+</seg>
+je poudarjena razli&ccaron;ica nikalnega odgovora 
+<seg type="lemma">
+no
+</seg>
+, kadar &zcaron;elimo izraziti ob&ccaron;utek ali mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sploh ne, nikakor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Does that seem nonsense to you?&rsquo;&mdash;&lsquo;Not at all.&rsquo;
+</quote>
+<quote>
+&lsquo;Would you mind?&rsquo;&mdash;&lsquo;Not at all.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Not at all 
+</seg>
+je tudi precej formalna oblika odgovora na zahvalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni za kaj, malenkost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Thanks.&rsquo;&mdash;&lsquo;Not at all.&rsquo;
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+if not: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+if
+</ref>
+</xr>
+<xr type="related">
+<QF>
+nothing if not: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+nothing
+</ref>
+</xr>
+</B>
+</entry>

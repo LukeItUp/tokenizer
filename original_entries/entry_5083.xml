@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fabricate
+</orth>
+<form type="variant">
+<pron>
+/f*&ae;brIkeIt/
+</pron>
+</form>
+<form type="inflected">
+fabricates, fabricating, fabricated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fabricate information 
+</seg>
+pomeni izmisliti si podatke, da bi z njimi goljufali ljudi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ponarediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They fabricated evidence and threatened witnesses.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fabrication
+</orth>
+<form type="variant">
+<pron>
+/f*&ae;brIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The story was a fabrication.
+</quote>
+<quote>
+...a tissue of lies and fabrication.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

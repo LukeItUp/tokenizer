@@ -5,7 +5,7 @@ asleep
 </orth>
 <form type="variant">
 <pron>
-/@sl*i:p/.
+/@sl*i:p/
 </pron>
 </form>
 </form>
@@ -16,26 +16,26 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 asleep
 </seg>
-spi.
+, spi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-biti spe&#269;, spati
+biti spe&ccaron;, spati
 </quote>
 </cit>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 falls asleep
 </seg>
-za&#269;ne spati.
+, za&ccaron;ne spati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -45,15 +45,15 @@ zaspati
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
-fast asleep
+fast asleep 
 </seg>
-ali
-<seg type="phrase_variant">
+ali 
+<FV>
 sound asleep
-</seg>
-mo&#269;no spi.
+</FV>
+, mo&ccaron;no spi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -61,5 +61,5 @@ trdno spati
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

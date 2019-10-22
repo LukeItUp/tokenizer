@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+research
+</orth>
+<form type="variant">
+<pron>
+/ri1s*$e*:tS/
+</pron>
+</form>
+<form type="inflected">
+researches, researching, researched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Research 
+</seg>
+je delo, ki vklju&ccaron;uje preu&ccaron;evanje dolo&ccaron;enega pojava in prizadevanje, da bi odkrili dejstva o tem pojavu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raziskovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...scientific research.
+</quote>
+<quote>
+Soon after, Faraday began his researches into electricity.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To research something 
+</seg>
+pomeni posku&scaron;ati odkriti dejstva o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raziskovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The historical background to the play had been very carefully researched.
+</quote>
+<quote>
+I spent some time researching abroad.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+researcher
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a team of researchers.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

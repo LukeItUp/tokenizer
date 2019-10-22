@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p126_s137893" id="p126_w387" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="471.912" base="478.32" width="36.5786" height="8.514">coastline</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p126_s137894" id="p126_w388" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="94.18" y="473.158" base="478.32" width="39.3216" height="6.844">/k6&#205;stla&#203;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p126_s137895" id="p126_w389" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="136.59" y="472.98" base="478.32" width="33.75" height="7.08">coastlines.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p126_s137896" id="p126_w390" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="173.42" y="474.404" base="478.32" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p126_s137897" id="p126_w391" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="194.511" y="474.404" base="478.32" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p126_s137898" id="p126_w392" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.72" y="472.624" base="478.32" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p126_s137899" id="p126_w393" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.41" y="472.624" base="478.32" width="31.189" height="7.552">country's</TOKEN>
+<TOKEN sid="p126_s137900" id="p126_w394" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="481.704" base="487.4" width="30.3869" height="7.552">coastline</TOKEN>
+</seg>
+<TOKEN sid="p126_s137901" id="p126_w395" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.6904" y="481.704" base="487.4" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p126_s137902" id="p126_w396" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.806" y="481.704" base="487.4" width="11.4581" height="7.552">rob</TOKEN>
+<TOKEN sid="p126_s137903" id="p126_w397" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="114.385" y="481.704" base="487.4" width="18.4003" height="7.552">obale</TOKEN>
+<TOKEN sid="p126_s137904" id="p126_w398" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.905" y="481.704" base="487.4" width="15.9962" height="7.552">neke</TOKEN>
+<TOKEN sid="p126_s137905" id="p126_w399" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="153.022" y="481.704" base="487.4" width="24.7997" height="7.552">dr`ave.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p126_s137907" id="p126_w401" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.3" y="481.704" base="487.4" width="20.8008" height="7.552">obala;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p126_s137908" id="p126_w402" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.22" y="481.704" base="487.4" width="11.201" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p126_s137909" id="p126_w403" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.54" y="481.704" base="487.4" width="19.0591" height="7.552">rocky</TOKEN>
+<TOKEN sid="p126_s137910" id="p126_w404" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="490.784" base="496.48" width="12.8002" height="7.552">and</TOKEN>
+<TOKEN sid="p126_s137911" id="p126_w405" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="74.9801" y="490.784" base="496.48" width="39.7094" height="7.552">treacherous</TOKEN>
+<TOKEN sid="p126_s137912" id="p126_w406" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.69" y="490.784" base="496.48" width="32.3935" height="7.552">coastline.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

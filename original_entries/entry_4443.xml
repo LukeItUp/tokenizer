@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eat
+</orth>
+<form type="variant">
+<pron>
+/*i*:t/
+</pron>
+</form>
+<form type="inflected">
+eats, eating, ate,
+</form>
+<form type="variant">
+<pron>
+/*e*It, *et/
+</pron>
+</form>
+<form type="inflected">
+eaten.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To eat something 
+</seg>
+pomeni nekaj vtakniti v usta, pre&zcaron;ve&ccaron;iti in pogoltniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He began to eat his sandwich.
+</quote>
+<quote>
+He said he would eat at his hotel.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+eat into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+&Ccaron;e neka snov, na primer kislina ali rja, 
+<seg type="lemma">
+eats into something
+</seg>
+, uni&ccaron;i povr&scaron;ino neke stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razjesti, zajedati se v kaj
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+eat out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To eat out 
+</seg>
+pomeni pojesti obed v restavraciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jesti zunaj
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+eat up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To eat up one's food 
+</seg>
+pomeni pojesti vso hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojesti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

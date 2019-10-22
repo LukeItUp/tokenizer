@@ -1,0 +1,122 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+member
+</orth>
+<form type="variant">
+<pron>
+/m*emb@/
+</pron>
+</form>
+<form type="inflected">
+members.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A member of a group 
+</seg>
+je eden izmed ljudi, &zcaron;ivali ali stvari, ki sodijo v dolo&ccaron;eno skupino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Babies usually have milder colds than older members of the family.
+</quote>
+<quote>
+...junior members of staff.
+</quote>
+<quote>
+The weaver bird is a member of the sparrow family.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A member of an organization 
+</seg>
+je &ccaron;lovek, ki se je pridru&zcaron;il neki organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...members of trade unions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dr&zcaron;ave ali de&zcaron;ele, ki se pridru&zcaron;ijo mednarodni organizaciji, se imenujejo 
+<seg type="lemma">
+the member states or countries
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ava &ccaron;lanica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the member countries are under pressure to conform.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A member 
+</seg>
+pomeni isto kot 
+<seg type="variant">
+a Member of Parliament
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;lan parlamenta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...John Parker, the Labour member for Dagenham.
+</quote>
+</seg>
+</sense>
+</entry>

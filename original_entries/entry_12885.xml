@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shudder
+</orth>
+<form type="variant">
+<pron>
+/S*Vd@/
+</pron>
+</form>
+<form type="inflected">
+shudders, shuddering, shuddered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shudder 
+</seg>
+pomeni tresti se od strahu ali gnusa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drgetati; stresti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Robert shuddered with fear.
+</quote>
+<quote>
+The smell made her shudder.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Max looked round him with a shudder.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer stroj, 
+<seg type="lemma">
+shudders
+</seg>
+, se mo&ccaron;no trese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stresati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tank braked and shuddered to a violent halt.
+</quote>
+</seg>
+</sense>
+</entry>

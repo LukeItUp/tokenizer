@@ -1,0 +1,345 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drive
+</orth>
+<form type="variant">
+<pron>
+/dr*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+drives, driving, drove
+</form>
+<form type="variant">
+<pron>
+/dr*@*Uv/
+</pron>
+</form>
+<form type="inflected">
+driven
+</form>
+<form type="variant">
+<pron>
+/dr*Iv@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drive a vehicle 
+</seg>
+pomeni obvladovati vozilo, da gre tja, kamor ho&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voziti, &scaron;ofirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is her turn to drive the car.
+</quote>
+<quote>
+I have never learned to drive.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drive someone somewhere 
+</seg>
+pomeni nekoga nekam peljati z avtomobilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can I drive you to the airport?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drive 
+</seg>
+je potovanje z vozilom, na primer avtomobilom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vo&zcaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It'll be a thirty mile drive.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drive 
+</seg>
+je tudi zasebna cesta, ki pelje od javne ceste do hi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were several cars parked in the drive.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+drives a machine
+</seg>
+, tisto daje stroju energijo, tako da ga poganja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poganjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Steam can be used to drive generators.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drive a post or a nail into something 
+</seg>
+pomeni pognati kol ali &zcaron;ebelj v podlago tako, da po njem tol&ccaron;emo s kladivom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabiti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so ljudje ali &zcaron;ivali 
+<seg type="lemma">
+driven somewhere 
+</seg>
+ali 
+<seg type="variant">
+driven to do something
+</seg>
+, so prisiljeni nekam iti ali nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Half a million people had been driven out.
+</quote>
+<quote>
+The farming venture drove the company into debt.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekdo 
+<seg type="lemma">
+driven by a feeling or need
+</seg>
+, ga &ccaron;ustvo ali potreba prisilita, da se vede tako, kot se vede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man driven by greed or envy.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Drive 
+</seg>
+je mo&ccaron; in odlo&ccaron;enost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gonilo, energija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Northcliffe had great ability and drive.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drive 
+</seg>
+je tudi posebni napor skupine ljudi, da bi nekaj dosegla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napor, trud
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Poles launched a tremendous investment drive.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e razumemo, kaj nekdo
+<seg type="lemma">
+ is driving at
+</seg>
+, razumemo, kaj posku&scaron;a povedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaj nekdo pravzaprav misli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew at once what I was driving at.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="12">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+driving, 
+</ref>
+<ref>
+drove
+</ref>
+</xr>
+</sense>
+</entry>

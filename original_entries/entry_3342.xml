@@ -1,0 +1,151 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curl
+</orth>
+<form type="variant">
+<pron>
+/k*$e*:l/
+</pron>
+</form>
+<form type="inflected">
+curls, curling, curled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Curls 
+</seg>
+so dolgi prameni las, oblikovani v zanke in kroge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koder
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a little girl with golden curls.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+curls
+</seg>
+, ima majhne zavoje ali postane zelo nakodrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kodrati se, grban&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her hair curled about her head like a child's.
+</quote>
+<quote>
+The bark was curling and falling away from the trunk.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+curls somewhere
+</seg>
+, se pomika v krogih ali spiralah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kodrati se, zvijati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Smoke was curling out of kitchen chimneys.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...curls of smoke.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+curl up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+&Ccaron;e oseba, ki le&zcaron;i, 
+<seg type="lemma">
+curls up
+</seg>
+, stisne roke, noge in glavo proti trebuhu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was lying curled up with his back to us.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+&Ccaron;e nekaj, na primer list ali list papirja 
+<seg type="lemma">
+curls up
+</seg>
+, se njegovi robovi zvijejo navzgor ali proti sredi&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

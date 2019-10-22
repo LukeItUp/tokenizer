@@ -1,0 +1,343 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+know
+</orth>
+<form type="variant">
+<pron>
+/n*@*U/
+</pron>
+</form>
+<form type="inflected">
+knows, knowing, knew
+</form>
+<form type="variant">
+<pron>
+/nj*u*:/
+</pron>
+</form>
+<form type="inflected">
+known.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know something 
+</seg>
+pomeni nekaj imeti pravilno v zavesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vedeti, poznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't know her address.
+</quote>
+<quote>
+I knew that she had recently graduated from law school.
+</quote>
+<quote>
+We knew what to expect.
+</quote>
+<quote>
+No one knew how to repair it.
+</quote>
+<quote>
+&lsquo;Will they come back?&rsquo;&mdash;&lsquo;I don't know.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know of something 
+</seg>
+ali 
+<seg type="lemma">
+to know about something 
+</seg>
+pomeni, da smo za nekaj sli&scaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vedeti za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many people did not even know of their existence.
+</quote>
+<quote>
+Claude knew about the killing.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know a language 
+</seg>
+pomeni razumeti in govoriti tisti jezik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Shanti knew a few words of English.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know about a subject 
+</seg>
+pomeni, da smo neko snov preu&ccaron;ili in imamo o njej nekaj znanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They knew a lot about films.
+</quote>
+<quote>
+I don't know much about physics, I'm afraid.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To know a person, place, or thing 
+</seg>
+pomeni biti seznanjen z neko osebo, krajem ali stvarjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you know David?
+</quote>
+<quote>
+He knew London well.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+knowing, 
+</ref>
+<ref>
+known
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To let someone know about something 
+</seg>
+pomeni nekomu za tisto povedati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvestiti, sporo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'll find out about the car and let you know what happened.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To know better than someone else 
+</seg>
+pomeni, da so na&scaron;e zamisli razumnej&scaron;e ali pravilnej&scaron;e kot zamisli nekoga drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolje vedeti, biti pametnej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The experts, who knew better, laughed at the idea.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo 
+<seg type="lemma">
+ought to know better
+</seg>
+, mislimo, da bi se moral tisti &ccaron;lovek vesti razumneje in bolj sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pametnej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Brian is old enough to know better.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo 
+<seg type="lemma">
+knows best
+</seg>
+, mislimo, da ima tisti &ccaron;lovek vedno prav, ko re&ccaron;e, kako bi morali ukrepati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najbolje vedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Parents always know best.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+you know 
+</seg>
+nekaj poudarimo ali razjasnimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&scaron;, vesta, veste
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You were very naughty, you know.
+</quote>
+<quote>
+You know, most of the time he seems like a fool.
+</quote>
+<quote>
+...the old desk. You know, the one that's broken.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+I know 
+</seg>
+povemo, da se s pravkar povedanim strinjamo ali naka&zcaron;emo svoje zavedanje, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(saj) vem; res je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;It's quite extraordinary.&rsquo;&mdash;&lsquo;I know.&rsquo;
+</quote>
+<quote>
+I get frightened in the night sometimes&mdash;it's silly, I know.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+in the know
+</seg>
+, ima podatke o ne&ccaron;em, kar vedo le redki ljudje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v ozkem krogu seznanjenih
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

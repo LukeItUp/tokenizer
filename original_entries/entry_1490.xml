@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bonus
+</orth>
+<form type="variant">
+<pron>
+/b*@*Un@s/
+</pron>
+</form>
+<form type="inflected">
+bonuses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bonus 
+</seg>
+je znesek, ki ga nekdo dobi ob pla&ccaron;i, navadno zato, ker je veliko delal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stimulacija; dodatek, nagrada
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bonus 
+</seg>
+je tudi nekaj dobrega, kar dobimo poleg ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagrada, ugodnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Any sort of party after work was a bonus.
+</quote>
+</seg>
+</sense>
+</entry>

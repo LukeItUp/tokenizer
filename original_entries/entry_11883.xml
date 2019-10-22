@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reproduce
+</orth>
+<form type="variant">
+<pron>
+/r*i*:pr@dj*u*:s/
+</pron>
+</form>
+<form type="inflected">
+reproduces, reproducing, reproduced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To reproduce something 
+</seg>
+pomeni narediti kopijo ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti kopijo, reproducirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This painting has never been reproduced anywhere.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje, &zcaron;ivali ali rastline 
+<seg type="lemma">
+reproduce 
+</seg>
+ali 
+<seg type="lemma">
+reproduce themselves
+</seg>
+, ustvarijo nove predstavnike svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmno&zcaron;evati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bacteria reproduce by splitting into two.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sovereign
+</orth>
+<form type="variant">
+<pron>
+/s*QvrIn/
+</pron>
+</form>
+<form type="inflected">
+sovereigns.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sovereign 
+</seg>
+je kralj, kraljica ali drug kronan voditelj dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vladar
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dr&zcaron;ava ali de&zcaron;ela, ki je 
+<seg type="lemma">
+sovereign
+</seg>
+, ni podlo&zcaron;na oblasti nobene druge dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neodvisen, suveren
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sovereign 
+</seg>
+opi&scaron;emo nekoga, ki ima v de&zcaron;eli najve&ccaron;jo mo&ccaron;; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vrhovni, najvi&scaron;ji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Parliament is sovereign.
+</quote>
+<quote>
+He will be given sovereign powers.
+</quote>
+</seg>
+</sense>
+</entry>

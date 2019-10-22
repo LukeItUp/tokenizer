@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+landing
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;ndIN/
+</pron>
+</form>
+<form type="inflected">
+landings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V stavbi je 
+<seg type="lemma">
+a landing 
+</seg>
+ravni del na vrhu stopni&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podest
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar pilot letala 
+<seg type="lemma">
+makes a landing
+</seg>
+, pripelje letalo na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristanek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had to make an emergency landing.
+</quote>
+</seg>
+</sense>
+</entry>

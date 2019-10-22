@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lifetime
+</orth>
+<form type="variant">
+<pron>
+/l*a*IftaIm/
+</pron>
+</form>
+<form type="inflected">
+lifetimes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lifetime 
+</seg>
+je obdobje, v katerem je nekdo &zcaron;iv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivljenje, &zcaron;ivljenjska doba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve seen a lot of changes in my lifetime.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lifetime of something 
+</seg>
+je obdobje, kolikor nekaj traja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obstoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...during the lifetime of this parliament.
+</quote>
+</seg>
+</sense>
+</entry>

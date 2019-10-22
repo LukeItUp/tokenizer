@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nursing
+</orth>
+<form type="variant">
+<pron>
+/n*$e*:sIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Nursing 
+</seg>
+je poklic medicinskih sester in bolni&ccaron;arjev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolni&ccaron;arski poklic
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Mati, ki je 
+<seg type="lemma">
+nursing
+</seg>
+, hrani dojen&ccaron;ka s svojim lastnim mlekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doje&ccaron;
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+err
+</orth>
+<form type="variant">
+<pron>
+/*$e*:/
+</pron>
+</form>
+<form type="inflected">
+errs, erring, erred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To err 
+</seg>
+pomeni narediti napako; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+(z)motiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Undoubtedly we have erred in giving such low status to our nurses.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To err on the side of a particular way of behaving 
+</seg>
+pomeni pogosto se vesti na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagibati k &ccaron;emu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Often one finds that advisers err on the side of caution.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

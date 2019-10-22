@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hostage
+</orth>
+<form type="variant">
+<pron>
+/h*QstIdZ/
+</pron>
+</form>
+<form type="inflected">
+hostages.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hostage 
+</seg>
+je nekdo, ki ga je ugrabila neka oseba ali organizacija in ga lahko ta ubije ali rani, &ccaron;e ljudje ne naredijo tistega, kar ugrabitelj ali organizacija zahteva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+talec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An agreement was reached that freed the 52 hostages
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be taken hostage 
+</seg>
+ali 
+<FV>
+to be held hostage 
+</FV>
+pomeni biti ugrabljen in zaprt kot talec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti za talca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been taken hostage by terrorists.
+</quote>
+<quote>
+They are being held hostage until our demands are met.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

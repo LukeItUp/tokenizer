@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fifth
+</orth>
+<form type="variant">
+<pron>
+/f*IfT/
+</pron>
+</form>
+<form type="inflected">
+fifths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The fifth item 
+</seg>
+je v nekem zaporedju tisti element, ki je na petem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+p&ecirc;ti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fifth 
+</seg>
+je eden od petih enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+petina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Only one fifth of the surface area of Africa is farmland.
+</quote>
+</seg>
+</sense>
+</entry>

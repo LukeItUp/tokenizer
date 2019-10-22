@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+barricade
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;rIk*e*Id/
+</pron>
+</form>
+<form type="inflected">
+barricades, barricading, barricaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A barricade 
+</seg>
+je vrsta vozil ali drugih predmetov, postavljenih po&ccaron;ez na cesti, tako da ljudje ne morejo mimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovira, zapora, barikada
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To barricade a road or passage 
+</seg>
+pomeni postaviti nekaj poprek &ccaron;ez cesto ali prehod, tako da ljudje ne morejo mimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovirati, zapreti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To barricade oneself 
+</seg>
+pomeni postaviti nekaj te&zcaron;kega k vratom sobe ali stavbe, da drugi ne morejo noter. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabarikadirati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We rushed into the bedroom and barricaded ourselves in.
+</quote>
+<quote>
+They were barricaded behind concrete slabs.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -15,13 +15,13 @@ asks, asking, asked.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-or
+or 
 </seg>
 REPORT VB
 </pos>
@@ -30,12 +30,11 @@ REPORT VB
 <seg type="lemma">
 To ask someone something
 </seg>
-pomeni nekomu
-re&#269;i nekaj v obliki vpra&#353;anja, ker &#382;elimo izvedeti kak podatek.
+ pomeni nekomu re&ccaron;i nekaj v obliki vpra&scaron;anja, ker &zcaron;elimo izvedeti kak podatek. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-vpra&#353;ati
+vpra&scaron;ati
 </quote>
 </cit>
 <seg type="example">
@@ -43,7 +42,7 @@ vpra&#353;ati
 I asked him what he wanted.
 </quote>
 <quote>
-"Why?" he asked.
+&lsquo;Why?&rsquo; he asked.
 </quote>
 <quote>
 He started asking questions.
@@ -53,19 +52,18 @@ He started asking questions.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To ask someone to do something
+To ask someone to do something 
 </seg>
-pomeni
-tistemu &#269;loveku izraziti svojo &#382;eljo, naj tisto stori.
+pomeni tistemu &ccaron;loveku izraziti svojo &zcaron;eljo, naj tisto stori. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -81,9 +79,9 @@ He asked her to marry him.
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
@@ -92,7 +90,7 @@ OBJ
 <seg type="lemma">
 To ask someone's permission or forgiveness
 </seg>
-pomeni poskusiti od nekoga dobiti dovoljenje ali odpu&#353;&#269;anje.
+ pomeni poskusiti od nekoga dobiti dovoljenje ali odpu&scaron;&ccaron;anje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -108,23 +106,22 @@ I asked permission to leave.
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
 ADJUNCT
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To ask someone somewhere
+To ask someone somewhere 
 </seg>
-pomeni tistega
-&#269;loveka prositi, naj gre tja.
+pomeni tistega &ccaron;loveka prositi, naj gre tja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -137,33 +134,32 @@ She asked me in.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar je nekaj od nekoga ali nekje
+Kadar je nekaj od nekoga ali nekje 
 <seg type="lemma">
-for the
-asking
+for the asking
 </seg>
-tisto lahko dobimo &#382;e, &#269;e le izrazimo to &#382;eljo.
+, tisto lahko dobimo &zcaron;e, &ccaron;e le izrazimo to &zcaron;eljo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-samo re&#269;i je treba
+samo re&ccaron;i je treba
 </quote>
 </cit>
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar re&#269;emo
+Kadar re&ccaron;emo 
 <seg type="lemma">
-"if you ask me"
+&lsquo;if you ask me&rsquo;
 </seg>
-poudarimo, da izra&#382;amo svoje lastno mnenje.
+, poudarimo, da izra&zcaron;amo svoje lastno mnenje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#269;e mene vpra&#353;ate
+&ccaron;e mene vpra&scaron;ate
 </quote>
 </cit>
 <seg type="example">
@@ -172,8 +168,7 @@ The whole thing's stupid if you ask me.
 </quote>
 </seg>
 </sense>
-</sense>
-<sense>
+</B>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -188,19 +183,17 @@ PHR VB
 <sense>
 <def xml:lang="sl">
 <seg type="lemma">
-To ask after someone
+To ask after someone 
 </seg>
-pomeni
-vpra&#353;ati, kako tistemu &#269;loveku gre.
+pomeni vpra&scaron;ati, kako tistemu &ccaron;loveku gre. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-vpra&#353;ati po nekom (po njegovem po&#269;utju)
+vpra&scaron;ati po nekom (po njegovem po&ccaron;utju)
 </quote>
 </cit>
 </sense>
 </sense>
-<sense value="phr vb">
 <form type="lemma">
 <orth>
 ask for.
@@ -214,14 +207,13 @@ PHR VB
 <sense n="1">
 <def xml:lang="sl">
 <seg type="lemma">
-To ask for someone
+To ask for someone 
 </seg>
-pomeni re&#269;i, da
-bi radi govorili s tistim &#269;lovekom.
+pomeni re&ccaron;i, da bi radi govorili s tistim &ccaron;lovekom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-vpra&#353;ati po nekom
+vpra&scaron;ati po nekom
 </quote>
 </cit>
 <seg type="example">
@@ -233,10 +225,9 @@ He rang the office and asked for Cynthia.
 <sense n="2">
 <def xml:lang="sl">
 <seg type="lemma">
-To ask for something
+To ask for something 
 </seg>
-pomeni re&#269;i, da
-bi tisto radi imeli.
+pomeni re&ccaron;i, da bi tisto radi imeli. 
 </def>
 <cit type="translationEquivalent">
 <quote>

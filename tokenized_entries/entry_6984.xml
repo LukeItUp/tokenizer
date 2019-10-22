@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p364_s400317" id="p364_w1014" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="561.992" base="568.4" width="39.8823" height="8.514">humdrum</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p364_s400318" id="p364_w1015" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="294.3" y="563.238" base="568.4" width="39.4216" height="6.844">/h&#216;mdr&#216;m/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p364_s400319" id="p364_w1016" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="335.25" y="564.484" base="568.4" width="10.3505" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p364_s400320" id="p364_w1017" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="347.15" y="562.704" base="568.4" width="13.0536" height="7.552">Kar</TOKEN>
+<TOKEN sid="p364_s400321" id="p364_w1018" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.731" y="562.704" base="568.4" width="5.9256" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p364_s400322" id="p364_w1019" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="369.18" y="562.704" base="568.4" width="35.0914" height="7.552">humdrum,</TOKEN>
+</seg>
+<TOKEN sid="p364_s400323" id="p364_w1020" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="405.803" y="562.704" base="568.4" width="5.92704" height="7.552">je</TOKEN>
+<TOKEN sid="p364_s400324" id="p364_w1021" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.261" y="562.704" base="568.4" width="26.7782" height="7.552">vsakda-</TOKEN>
+<TOKEN sid="p364_s400325" id="p364_w1022" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="571.924" base="577.62" width="10.3939" height="7.552">nje</TOKEN>
+<TOKEN sid="p364_s400326" id="p364_w1023" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="270.722" y="571.924" base="577.62" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p364_s400327" id="p364_w1024" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.236" y="571.924" base="577.62" width="20.7936" height="7.552">pusto.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p364_s400329" id="p364_w1026" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.7" y="571.924" base="577.62" width="39.6" height="7.552">dolgo~asen,</TOKEN>
+<TOKEN sid="p364_s400330" id="p364_w1027" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.02" y="571.924" base="577.62" width="30.3926" height="7.552">enoli~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p364_s400331" id="p364_w1028" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.13" y="571.924" base="577.62" width="23.5908" height="7.552">&#8230;their</TOKEN>
+<TOKEN sid="p364_s400332" id="p364_w1029" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.441" y="571.924" base="577.62" width="33.5909" height="7.552">humdrum</TOKEN>
+<TOKEN sid="p364_s400333" id="p364_w1030" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="581.144" base="586.84" width="17.5896" height="7.552">lives.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

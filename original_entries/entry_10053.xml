@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overhead,
+</orth>
+<form type="inflected">
+overheads;
+</form>
+<PN>
+prislov izgovarjamo 
+<pron>
+/*@*Uv@h*ed/
+</pron>
+, pridevnik 
+<pron>
+/*@*Uv@hed/
+</pron>
+, samostalnik pa 
+<pron>
+/*@*Uv@hedz/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+overhead
+</seg>
+, je nad nami ali nad krajem, o katerem govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nad glavo, zgoraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Seagulls were circling overhead.
+</quote>
+<quote>
+The guard switched on an overhead light.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The overheads of a business 
+</seg>
+so redni in nujni izdatki podjetja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;ijski stro&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...reducing expenditure on overheads.
+</quote>
+</seg>
+</sense>
+</entry>

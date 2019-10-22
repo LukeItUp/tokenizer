@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shred
+</orth>
+<form type="variant">
+<pron>
+/Sr*ed/
+</pron>
+</form>
+<form type="inflected">
+shreds, shredding, shredded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shred something 
+</seg>
+pomeni razrezati ali raztrgati nekaj, na primer &zcaron;ivilo ali papir, na ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narezati, razrezati; razcefrati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shred of material 
+</seg>
+je majhen ozek kos ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ko&scaron;&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took the letter and ripped it to shreds.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cash
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+cashes, cashing, cashed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Cash 
+</seg>
+je denar v obliki bankovcev in kovancev, ne pa &ccaron;ekov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gotovina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...four hundred dollars in cash.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cash a cheque 
+</seg>
+pomeni v banki zamenjati &ccaron;ek za tolik&scaron;en znesek denarja, kolikor je &ccaron;ek vreden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vnov&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cheques up to 50 pounds may be cashed at any of our branches.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cash in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cash in on a situation 
+</seg>
+pomeni izkoristiti dolo&ccaron;ene okoli&scaron;&ccaron;ine za svojo lastno korist; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+okoristiti se, obrniti sebi v prid
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They cashed in on the public's growing suspicion.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

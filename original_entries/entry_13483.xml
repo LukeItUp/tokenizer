@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sprain
+</orth>
+<form type="variant">
+<pron>
+/spr*e*In/
+</pron>
+</form>
+<form type="inflected">
+sprains, spraining, sprained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sprain one&apos;s ankle or wrist 
+</seg>
+pomeni po nesre&ccaron;i si po&scaron;kodovati gle&zcaron;enj ali zapestje, tako da ga zvijemo, na primer pri padcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti, izpahniti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sprain 
+</seg>
+je po&scaron;kodba, ki nastane, ko si izpahnemo ali zvijemo sklep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpah, izvin
+</quote>
+</cit>
+</sense>
+</entry>

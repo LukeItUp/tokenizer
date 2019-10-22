@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p2_s1413" id="p2_w412" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="79.57" y="518.548" base="523.71" width="26.2816" height="6.844">/6baÍt/.</TOKEN>
+<TOKEN sid="p2_s1413" id="p2_w412" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="79.57" y="518.548" base="523.71" width="26.2816" height="6.844">/6ba&#205;t/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -258,7 +258,7 @@
 </seg>
 </sense>
 <sense n="7">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p2_s1565" id="p2_w564" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="336.88" y="102.194" base="106.11" width="21.7206" height="5.192">PHRASE</TOKEN>
@@ -294,6 +294,6 @@
 <TOKEN sid="p2_s1584" id="p2_w583" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.608" y="118.564" base="124.26" width="20.4998" height="7.552">retire.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -1,0 +1,182 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trail
+</orth>
+<form type="variant">
+<pron>
+/tr*e*Il/
+</pron>
+</form>
+<form type="inflected">
+trails, trailing, trailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trail 
+</seg>
+je ne posebej vzdr&zcaron;evana pot prek odprte pokrajine ali skozi gozd. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+steza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They trudged along the seemingly endless trail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trail 
+</seg>
+je niz sledov ali drugih znakov, ki jih za seboj pusti nekdo ali nekaj, ko gre po neki podlagi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn&apos;t want him to leave a trail of wet footprints all over the house.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on the trail of a person or animal
+</seg>
+, posku&scaron;a odkriti dolo&ccaron;eno osebo ali &zcaron;ival. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na sledi
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+trails something 
+</seg>
+ali kadar nekaj vise&ccaron;ega 
+<seg type="lemma">
+trails
+</seg>
+, se tisto ohlapno premika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She trails the fingers of her right hand through the water.
+</quote>
+<quote>
+She went out with her dress trailing behind her on the floor.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trail along 
+</seg>
+pomeni premikati se po&ccaron;asi in brez energije ali navdu&scaron;enja, pogosto za nekom drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I used to trail around after him like a small child.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+trail away 
+<VS>
+ali 
+</VS>
+<VV>
+trail off.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar govor&ccaron;ev glas 
+<seg type="lemma">
+trails away 
+</seg>
+ali 
+<seg type="variant">
+trails off
+</seg>
+, postopoma postaja vedno bolj negotov, dokler popolnoma ne utihne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojemati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I have an appointment that&apos;s very...&rsquo; His voice trailed off unconvincingly.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

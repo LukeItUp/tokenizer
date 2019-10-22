@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+minus
+</orth>
+<form type="variant">
+<pron>
+/m*a*In@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+minus 
+</seg>
+eno &scaron;tevilo od&scaron;tejemo od drugega, na primer 
+<seg type="lemma">
+five minus three
+</seg>
+. Z matemati&ccaron;nimi znaki to zapi&scaron;emo kot 5-3. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+minus
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+minus 
+</seg>
+povemo tudi, da je neko &scaron;tevilo manj&scaron;e od ni&ccaron;. Na primer, temperatura 
+<seg type="lemma">
+minus four 
+</seg>
+je &scaron;tiri stopinje pod ni&ccaron;lo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+minus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Temperatures there are colder than minus 20&deg;C.
+</quote>
+</seg>
+</sense>
+</entry>

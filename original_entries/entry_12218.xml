@@ -1,0 +1,254 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rule
+</orth>
+<form type="variant">
+<pron>
+/r*u*:l/
+</pron>
+</form>
+<form type="inflected">
+rules, ruling, ruled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rules 
+</seg>
+so navodila, ki nam povedo, kaj smemo in &ccaron;esa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the rules of chess.
+</quote>
+<quote>
+It is against the rules to keep pets.
+</quote>
+<quote>
+If she breaks the rules, she will be punished.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+the rule
+</seg>
+, velja za normalno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Short haircuts became the rule.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;over&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rule a country 
+</seg>
+pomeni nadzorovati dogajanja v neki dr&zcaron;avi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vladati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...states ruled by kings.
+</quote>
+<quote>
+At this time Denmark ruled over Southern Sweden.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the days of British rule.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo, ki ima oblast, 
+<seg type="lemma">
+rules on a particular matter
+</seg>
+, sprejme uradno odlo&ccaron;itev o tisti stvari; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was asked to rule on the case of a British seaman.
+</quote>
+<quote>
+The Supreme Court ruled that there was no federal offence involved.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+ruling, 
+</ref>
+<ref>
+ground rules, 
+</ref>
+<ref>
+work-to-rule
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+as a rule
+</seg>
+, se dogaja ponavadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+praviloma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Doctors are not as a rule trained in child rearing.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo, ki je pristojen za odlo&ccaron;anje, 
+<seg type="lemma">
+bends the rules
+</seg>
+, nekaj dovoli, &ccaron;eprav je to v nasprotju s pravili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogledati skozi prste; prekr&scaron;iti pravila
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rule out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To rule out an idea or course of action 
+</seg>
+pomeni zavre&ccaron;i neko zamisel ali ukrep, ker je nemogo&ccaron; ali neustrezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izklju&ccaron;iti, zavre&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+rules out another
+</seg>
+, se zaradi nje ne more zgoditi nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepre&ccaron;iti, onemogo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The radio was on, effectively ruling out conversation.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

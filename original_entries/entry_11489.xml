@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+random
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;nd@0m/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+in a random way
+</seg>
+, se pri opravilu ne ravnamo po nikakr&scaron;nem na&ccaron;rtu ali sistemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naklju&ccaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The way the books were arranged seemed completely random.
+</quote>
+<quote>
+...a random selection.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+at random
+</seg>
+, se pri opravilu ne ravnamo po nikakr&scaron;nem na&ccaron;rtu ali sistemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na slepo, brez cilja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He opened the book at random.
+</quote>
+<quote>
+I let my thoughts come at random.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

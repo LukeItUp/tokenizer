@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p11_s11086" id="p11_w157" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="81.23" y="228.038" base="233.2" width="27.4216" height="6.844">/ædlËb/,</TOKEN>
+<TOKEN sid="p11_s11086" id="p11_w157" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="81.23" y="228.038" base="233.2" width="27.4216" height="6.844">/&#230;dl&#203;b/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -86,7 +86,7 @@
 <TOKEN sid="p11_s11141" id="p11_w212" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.974" y="272.904" base="278.6" width="23.4857" height="7.552">wrong.</TOKEN>
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p11_s11142" id="p11_w213" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.07" y="272.904" base="278.6" width="17.599" height="7.552">Tudi:</TOKEN>
@@ -102,6 +102,6 @@
 <TOKEN sid="p11_s11148" id="p11_w219" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.8317" y="281.974" base="287.67" width="8.40168" height="7.552">ad</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

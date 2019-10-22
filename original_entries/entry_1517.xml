@@ -1,0 +1,180 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bore
+</orth>
+<form type="variant">
+<pron>
+/b*O*:/
+</pron>
+</form>
+<form type="inflected">
+bores, boring, bored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bores someone
+</seg>
+, je zanj dolgo&ccaron;asno in nezanimivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolgo&ccaron;asiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of the book had bored him.
+</quote>
+<quote>
+I won't bore you with the details.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bored
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Tom was bored with the film.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+boring
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a boring journey.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bores someone to tears
+</seg>
+, 
+<FV>
+bores someone to death
+</FV>
+ ali 
+<FV>
+bores someone stiff
+</FV>
+, ga zelo mo&ccaron;no dolgo&ccaron;asi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na smrt dolgo&ccaron;asiti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a bore
+</seg>
+, govori zelo nezanimivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolgo&ccaron;asne&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Polo&zcaron;aj, ki je 
+<seg type="lemma">
+a bore
+</seg>
+, nas jezi ali nam gre na &zcaron;ivce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mu&ccaron;en polo&zcaron;aj
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bore a hole in something 
+</seg>
+pomeni s posebnim orodjem v nekaj narediti globoko okroglo luknjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvrtati
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+Bore 
+</seg>
+je tudi pretekli &ccaron;as glagola 
+<ref>
+to bear
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nositi; nosil
+</quote>
+</cit>
+</sense>
+</entry>

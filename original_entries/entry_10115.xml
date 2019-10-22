@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+packet
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;kIt/
+</pron>
+</form>
+<form type="inflected">
+packets.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A packet 
+</seg>
+je majhna &scaron;katla, vre&ccaron;ka ali ovoj, v katerem prodajajo dolo&ccaron;eno koli&ccaron;ino &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovitek
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+Check the washing instructions on the packet.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+a packet 
+</seg>
+lahko uporabljamo za ovoj in njegovo vsebino ali samo za vsebino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavoj&ccaron;ek, zavitek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a packet of cigarettes.
+</quote>
+<quote>
+...a packet of crisps.
+</quote>
+</seg>
+</sense>
+</entry>

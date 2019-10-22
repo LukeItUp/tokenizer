@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p825_s908410" id="p825_w301" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="390.212" base="396.62" width="41.323" height="8.514">unfriendly</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p825_s908411" id="p825_w302" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="100.42" y="391.458" base="396.62" width="34.3695" height="6.844">/&#216;nfrendli</TOKEN>
+<TOKEN sid="p825_s908412" id="p825_w303" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="135.17" y="390.81" base="394.22" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p825_s908413" id="p825_w304" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="137.8" y="391.458" base="396.62" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p825_s908414" id="p825_w305" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="145.08" y="392.704" base="396.62" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p825_s908415" id="p825_w306" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.91" y="390.924" base="396.62" width="17.5946" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p825_s908416" id="p825_w307" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.884" y="390.924" base="396.62" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p825_s908417" id="p825_w308" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.26" y="390.924" base="396.62" width="37.9915" height="7.552">unfriendly,</TOKEN>
+</seg>
+<TOKEN sid="p825_s908418" id="p825_w309" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.63" y="390.924" base="396.62" width="6.79536" height="7.552">se</TOKEN>
+<TOKEN sid="p825_s908419" id="p825_w310" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.803" y="390.924" base="396.62" width="7.99704" height="7.552">ne</TOKEN>
+<TOKEN sid="p825_s908420" id="p825_w311" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="399.994" base="405.69" width="15.6002" height="7.552">vede</TOKEN>
+<TOKEN sid="p825_s908421" id="p825_w312" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.1998" y="399.994" base="405.69" width="41.1826" height="7.552">prijateljsko.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p825_s908423" id="p825_w314" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.02" y="399.994" base="405.69" width="37.98" height="7.552">neprijazen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p825_s908424" id="p825_w315" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.21" y="399.994" base="405.69" width="11.2025" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p825_s908425" id="p825_w316" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.622" y="399.994" base="405.69" width="16.3987" height="7.552">cold,</TOKEN>
+<TOKEN sid="p825_s908426" id="p825_w317" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.23" y="399.994" base="405.69" width="35.5831" height="7.552">unfriendly</TOKEN>
+<TOKEN sid="p825_s908427" id="p825_w318" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3894" y="409.074" base="414.77" width="18.6502" height="7.552">stare.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

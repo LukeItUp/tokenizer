@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fatigue
+</orth>
+<form type="variant">
+<pron>
+/f@t*i*:g/
+</pron>
+</form>
+<form type="inflected">
+fatigues, fatiguing, fatigued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fatigue 
+</seg>
+je ob&ccaron;utek skrajne telesne ali du&scaron;evne utrujenosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpanost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was dizzy with hunger and fatigue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fatigues someone
+</seg>
+, tistega &ccaron;loveka izjemno utrudi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+utruditi, iz&ccaron;rpati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+fatigued
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She was utterly fatigued.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Metal fatigue 
+</seg>
+je krhkost, ki jo v kovini povzro&ccaron;i ponavljajo&ccaron; se pritisk, zato se kovina lahko zlomi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utrujenost kovine
+</quote>
+</cit>
+</sense>
+</entry>

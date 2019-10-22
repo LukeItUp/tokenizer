@@ -1,0 +1,248 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cold
+</orth>
+<form type="variant">
+<pron>
+/k*@*Uld/
+</pron>
+</form>
+<form type="inflected">
+colder, coldest; colds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+cold
+</seg>
+, ima nizko temperaturo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladen, mrzel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wash delicate fabrics in cold water.
+</quote>
+<quote>
+...a cold winter's day.
+</quote>
+<quote>
+The building was cold and draughty.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cold 
+</seg>
+je hladno vreme ali nizka temperatura. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mraz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My fingers are so stiff from the cold.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+cold
+</seg>
+, &ccaron;uti, da ima njegovo telo neprijetno nizko temperaturo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premra&zcaron;en, prezebel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can I light the fire? I'm cold.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+cold
+</seg>
+, ne ka&zcaron;e veliko &ccaron;ustev ali naklonjenosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She seemed cold and uncaring.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+coldly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;It's yours,&rsquo; I said, politely, but coldly.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+coldness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Kay was stunned by the coldness in his voice.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cold 
+</seg>
+je blaga, zelo pogosta bolezen, zaradi katere &ccaron;lovek veliko kiha, ima bole&ccaron;ine v grlu ali ka&scaron;lja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehlad
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To catch cold 
+</seg>
+pomeni zboleti za prehladom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehladiti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj
+<seg type="lemma">
+leaves someone cold
+</seg>
+, v nekom tisto ne zbudi zanimanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pustiti hladnega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her performance left me cold.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have 
+</seg>
+ali 
+<FV>
+to get cold feet about something 
+</FV>
+pomeni, da se bojimo storiti nekaj, kar smo nameravali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustra&scaron;iti se; premisliti si
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+in cold blood: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+blood
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+make 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+blood run cold: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+blood
+</ref>
+</xr>
+</B>
+</entry>

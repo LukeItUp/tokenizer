@@ -1,0 +1,635 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+move
+</orth>
+<form type="variant">
+<pron>
+/m*u*:v/
+</pron>
+</form>
+<form type="inflected">
+moves, moving, moved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves something 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+moves
+</seg>
+, se spremeni polo&zcaron;aj tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premakniti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll have to move the car.
+</quote>
+<quote>
+The curtains behind began to move.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves
+</seg>
+, spremeni svoj polo&zcaron;aj ali gre nekam drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was so scared I couldn&apos;t move.
+</quote>
+<quote>
+He moved eagerly towards the door to welcome his visitors.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Neither she nor any of the others made a move.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves 
+</seg>
+ali 
+<seg type="lemma">
+moves house
+</seg>
+, gre &zcaron;ivet v drugo hi&scaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preseliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My parents moved from Hyde to Stepney.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I wrecked a good stereo on my last move.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves 
+</seg>
+ali 
+<seg type="lemma">
+is moved from one place or job to another
+</seg>
+, gre iz enega kraja v drugega ali iz ene slu&zcaron;be v drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seliti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Executives are being moved around from one company to another.
+</quote>
+<quote>
+He&apos;d moved to the BBC from publishing.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Regular moves for junior executives are a company policy.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves towards a particular state or opinion
+</seg>
+, za&ccaron;ne biti v dolo&ccaron;enem stanju ali imeti dolo&ccaron;eno mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prihajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are moving rapidly into the nuclear age.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This was the first step in his move away from the Labour party.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar razmere 
+<seg type="lemma">
+are moving
+</seg>
+, se razvijajo in napredujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potekati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Events now moved swiftly.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+moves someone to do something
+</seg>
+, nekoga spodbudi, da stori neko dejanje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+navesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What has moved the President to take this step?
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+moves someone
+</seg>
+, v nekom spro&zcaron;i globoko &ccaron;ustvo, najve&ccaron;krat &zcaron;alost ali so&ccaron;utje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ganiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole incident had moved her profoundly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+moved
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was too moved to speak.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves a motion or amandment
+</seg>
+, na nekem sestanku predlaga nekaj, o &ccaron;emer lahko ljudje glasujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predlagati zakon/dopolnilo
+</quote>
+</cit>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A move 
+</seg>
+je tudi dejanje, ki ga &ccaron;lovek izvede, da nekaj dose&zcaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poteza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Accepting this job was a very good move.
+</quote>
+<quote>
+For six days neither side made a move.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri igri, kot je &scaron;ah, je 
+<seg type="lemma">
+a move 
+</seg>
+premik &scaron;ahovske figure na drugo mesto na &scaron;ahovnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poteza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whose move is it?
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+moving
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+on the move
+</seg>
+, ves &ccaron;as hodi od enega kraja do drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v gibanju, na poti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Billie Jean is constantly on the move.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+get a move on 
+</seg>
+&ccaron;loveka spodbudimo, naj pohiti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zmigati se
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+move down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves down
+</seg>
+, se premakne na ni&zcaron;jo stopnjo ali v ni&zcaron;ji razred. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nazadovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When they fail their mathematics exams they move down a year.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+move in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves in somewhere
+</seg>
+, za&ccaron;ne &zcaron;iveti v drugi hi&scaron;i ali kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preseliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He moved in with Mrs Camish.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar vojaki ali policisti 
+<seg type="lemma">
+move in
+</seg>
+, gredo proti kraju ali osebi, da bi jo napadli ali prevzeli nadzor nad njo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were under orders to move in from France.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+move off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar ljudje ali vozila 
+<seg type="lemma">
+move off
+</seg>
+, za&ccaron;nejo zapu&scaron;&ccaron;ati neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oditi, odpraviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The gleaming fleet of cars prepared to move off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+move on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves on
+</seg>
+, zapusti neki kraj ali opusti neko dejavnost in gre drugam ali za&ccaron;ne delati nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti naprej, preiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After three weeks in Hong Kong, we moved on to Japan.
+</quote>
+<quote>
+Can we move on to the second question?
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+move out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves out
+</seg>
+, odide iz hi&scaron;e ali kraja, kjer je dotlej &zcaron;ivel, in gre &zcaron;ivet nekam drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odseliti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+move up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+moves up
+</seg>
+, preide na vi&scaron;jo stopnjo ali v vi&scaron;ji razred. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napredovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Vice-President should move up into the Presidency.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unique
+</orth>
+<form type="variant">
+<pron>
+/ju:n*i*:k/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+unique
+</seg>
+, je edino svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enkraten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...that unique human ability, speech.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+uniqueness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the uniqueness of the individual.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+unique to one thing or person
+</seg>
+, velja samo za eno stvar ali osebo ali pripada samo njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lasten (ne&ccaron;emu)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These problems are not unique to nuclear power.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+unique 
+</seg>
+nekateri ljudje uporabljajo tudi v pomenu &lsquo;zelo nenavaden&rsquo; in &lsquo;poseben&rsquo;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enkraten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was a unique and exquisite performance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+uniquely
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had a fine singing voice, uniquely gentle and deep.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

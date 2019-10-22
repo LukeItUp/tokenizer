@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p282_s308307" id="p282_w74" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="145.702" base="152.11" width="33.9478" height="8.514">flawless</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p282_s308308" id="p282_w75" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="92.17" y="146.948" base="152.11" width="19.4189" height="6.844">/fl&#213;&#194;l&#203;</TOKEN>
+<TOKEN sid="p282_s308309" id="p282_w76" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="111.99" y="146.31" base="149.72" width="2.39636" height="4.52176">2</TOKEN>
+<TOKEN sid="p282_s308310" id="p282_w77" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="114.67" y="146.948" base="152.11" width="8.3116" height="6.844">s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p282_s308311" id="p282_w78" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="126.67" y="148.194" base="152.11" width="10.5702" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p282_s308312" id="p282_w79" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.89" y="146.414" base="152.11" width="13.3546" height="7.552">Kar</TOKEN>
+<TOKEN sid="p282_s308313" id="p282_w80" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.923" y="146.414" base="152.11" width="6.07608" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p282_s308314" id="p282_w81" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.7" y="146.414" base="152.11" width="30.2616" height="7.552">flawless,</TOKEN>
+</seg>
+<TOKEN sid="p282_s308315" id="p282_w82" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.64" y="146.414" base="152.11" width="6.07608" height="7.552">je</TOKEN>
+<TOKEN sid="p282_s308316" id="p282_w83" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="211.395" y="146.414" base="152.11" width="30.1558" height="7.552">popolno.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p282_s308318" id="p282_w85" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="66.52" y="155.484" base="161.18" width="35.8409" height="7.552">brezhiben;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p282_s308319" id="p282_w86" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="104.46" y="155.484" base="161.18" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p282_s308320" id="p282_w87" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.761" y="155.484" base="161.18" width="27.1771" height="7.552">flawless</TOKEN>
+<TOKEN sid="p282_s308321" id="p282_w88" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.038" y="155.484" base="161.18" width="44.7826" height="7.552">performance.</TOKEN>
+</quote>
+<quote>
+<TOKEN sid="p282_s308322" id="p282_w89" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.92" y="155.484" base="161.18" width="18.3917" height="7.552">&#8230;her</TOKEN>
+<TOKEN sid="p282_s308323" id="p282_w90" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="214.411" y="155.484" base="161.18" width="27.1771" height="7.552">flawless</TOKEN>
+<TOKEN sid="p282_s308324" id="p282_w91" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1797" y="164.544" base="170.24" width="41.5872" height="7.552">complexion.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

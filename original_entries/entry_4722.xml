@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ensure
+</orth>
+<form type="variant">
+<pron>
+/I2nS*U*@, -S*O*:/
+</pron>
+</form>
+<form type="inflected">
+ensures, ensuring, ensured;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+insure
+</SV>
+<pron>
+/InS*U*@, -S*O*:/
+</pron>
+.
+</SN>
+</form>
+<sense>
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ensure that something happens 
+</seg>
+pomeni zagotoviti, da se nekaj zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajam&ccaron;iti, zagotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shall try to insure that your stay is a pleasant one.
+</quote>
+<quote>
+The door did not lock, but at least it ensured a reasonable amount of privacy.
+</quote>
+</seg>
+</sense>
+</entry>

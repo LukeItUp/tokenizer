@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+message
+</orth>
+<form type="variant">
+<pron>
+/m*esIdZ/
+</pron>
+</form>
+<form type="inflected">
+messages.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A message 
+</seg>
+je podatek ali pro&scaron;nja, ki jo nekomu po&scaron;ljemo ali pustimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sporo&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Oh, there was a message. Professor Marvin rang. He&apos;d like to meet you on Tuesday.
+</quote>
+<quote>
+He sent a message to Sir Ian Hamilton saying he was returning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A message 
+</seg>
+je tudi zamisel, ki jo nekdo posku&scaron;a sporo&ccaron;iti ljudem, na primer v igri ali govoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sporo&ccaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The play&apos;s message is that in the end good and right always triumph.
+</quote>
+</seg>
+</sense>
+</entry>

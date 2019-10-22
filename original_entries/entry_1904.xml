@@ -1,0 +1,615 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+call
+</orth>
+<form type="variant">
+<pron>
+/k*O*:l/
+</pron>
+</form>
+<form type="inflected">
+calls, calling, called.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be called a particular name
+</seg>
+ pomeni, da nekoga ali nekaj imenujemo z njegovim imenom ali naslovom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati se; klicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a novel called &lsquo;Memoirs of a Survivor&rsquo;.
+</quote>
+<quote>
+All his friends call him Jo.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call a person or situation something 
+</seg>
+pomeni tako opisovati &ccaron;loveka ali okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+President Nixon called his opponents traitors.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone's name 
+</seg>
+pomeni glasno izgovoriti ime nekega &ccaron;loveka, da bi pritegnili njegovo pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children are as likely to call for their father as for their mother.
+</quote>
+<quote>
+&lsquo;Edward!&rsquo; she called.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone 
+</seg>
+pomeni nekomu telefonirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(po)klicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He promised to call me soon.
+</quote>
+<quote>
+&lsquo;I want to speak to Mr Landy, please.&rsquo;&mdash;&lsquo;Who is calling?&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone 
+</seg>
+pomeni tudi nekoga prositi, naj pride bli&zcaron;e, tako da mu zavpijemo ali telefoniramo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When Margaret collapsed, I called the doctor.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a phone call 
+</seg>
+pomeni nekoga poklicati po telefonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telefonirati
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call a meeting 
+</seg>
+pomeni organizirati sestanek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklicati sestanek
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To call somewhere 
+</seg>
+pomeni iti nekam na kratek obisk. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oglasiti se nekje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We called at the Vicarage.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pay a call on someone 
+</seg>
+pomeni nekoga na hitro obiskati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Doctors have no time these days to make regular calls.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A call for something 
+</seg>
+je zahteva ali &zcaron;elja, da bi bilo nekaj narejeno ali priskrbljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpra&scaron;evanje, zahteva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Labour MPs renewed their call for the abolition of the House of Lords.
+</quote>
+<quote>
+There is little call for his services.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bird's call 
+</seg>
+je glas, s katerim se ogla&scaron;a ptica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogla&scaron;anje
+</quote>
+</cit>
+</sense>
+<sense n="12">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+call it a day: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+day
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+call for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To call for someone or something 
+</seg>
+pomeni iti po nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti iskat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'll call for you about eight.
+</quote>
+<quote>
+I called at the station for my luggage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To call for an action 
+</seg>
+pomeni zahtevati, da se neki dogodek zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The declaration called for an immediate ceasefire.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+calls for a particular action or quality
+</seg>
+, potrebuje tisto dejanje ali lastnost, &ccaron;e ho&ccaron;e uspeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Controlling a class calls for all your skill as a teacher.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone in 
+</seg>
+pomeni nekoga prositi, naj pride in nekaj stori za nas.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati na pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We called in the police.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To call something off 
+</seg>
+pomeni nekaj odpovedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had to decide whether classes should be called off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call on 
+<VS>
+ali 
+</VS>
+<VV>
+call upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To call on someone to do something
+</seg>
+ ali 
+<seg type="variant">
+to call upon someone to do something 
+</seg>
+pomeni nekoga prositi, naj nekaj stori; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Opposition called on the Prime Minister to stop the arms deal.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To call on someone 
+</seg>
+pomeni tudi priti k nekomu na kratek obisk. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskati, oglasiti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To call something out 
+</seg>
+pomeni nekaj zavpiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaklicati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Where shall I put them?&rsquo; I called out.
+</quote>
+<quote>
+...calling out to the porter that she'd arrived.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+calls someone out
+</seg>
+, nekomu uka&zcaron;e, naj pride na pomo&ccaron;, zlasti v sili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati na pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The National Guard has been called out.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To call someone up 
+</seg>
+pomeni nekomu telefonirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telefonirati, poklicati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+&Ccaron;e je nekdo 
+<seg type="lemma">
+called up
+</seg>
+, dobi poziv, da mora v vojsko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti vpoklican, biti rekrutiran
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+call upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+call on
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

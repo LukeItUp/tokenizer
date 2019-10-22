@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infect
+</orth>
+<form type="variant">
+<pron>
+/Inf*ekt/
+</pron>
+</form>
+<form type="inflected">
+infects, infecting, infected.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To infect people, animals, plants, or food 
+</seg>
+pomeni povzro&ccaron;iti, da ljudje, &zcaron;ivali ali rastline trpijo zaradi klic ali jih prena&scaron;ajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oku&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Imported birds can infect their owners with an unpleasant illness.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infected
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a man limping on a badly infected leg.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

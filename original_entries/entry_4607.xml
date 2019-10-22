@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eminent
+</orth>
+<form type="variant">
+<pron>
+/*emIn@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+eminent
+</seg>
+, je pomemben in spo&scaron;tovan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znamenit, ugleden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the most eminent scientists in Britain.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+eminence
+</orth>
+<form type="variant">
+<pron>
+/*emIn@2ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a statesman of great eminence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

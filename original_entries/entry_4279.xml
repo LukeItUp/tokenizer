@@ -1,0 +1,556 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+draw
+</orth>
+<form type="variant">
+<pron>
+/dr*O*:/
+</pron>
+</form>
+<form type="inflected">
+draws, drawing, drew
+</form>
+<form type="variant">
+<pron>
+/dr*u*:/
+</pron>
+</form>
+<form type="inflected">
+drawn
+</form>
+<form type="variant">
+<pron>
+/dr*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw a picture, pattern, or diagram 
+</seg>
+pomeni izdelati risbo, vzorec ali diagram s svin&ccaron;nikom, peresom, barvnikom ali pastelom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(na)risati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She used to draw funny pictures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vozila ali osebe 
+<seg type="lemma">
+draw away 
+</seg>
+ali 
+<seg type="variant">
+draw near
+</seg>
+, se odmaknejo pro&ccaron; ali primaknejo bli&zcaron;e.
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaljiti se; pribli&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cab drew away from the kerb.
+</quote>
+<quote>
+Jack and Roger drew near.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw someone or something in a particular direction 
+</seg>
+pomeni nekoga ali nekaj potegniti v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povle&ccaron;i, potegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He draws the document from its folder.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+draws a cart or other vehicle
+</seg>
+, se premika tako, da za seboj vle&ccaron;e voz ali kak&scaron;no drugo vozilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw a curtain or blind 
+</seg>
+pomeni potegniti zaveso ali oknico &ccaron;ez okno, da ga zastremo ali odstremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potegniti zastor
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki dogodek ali obdobje 
+<seg type="lemma">
+draws to an end 
+</seg>
+ali 
+<FV>
+draws to a close
+</FV>
+, se kon&ccaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bli&zcaron;ati se koncu, iztekati se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+draws a gun, sword, or knife
+</seg>
+, potegne pi&scaron;tolo, me&ccaron; ali no&zcaron; iz toka, da je pripravljen za uporabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potegniti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw a deep breath 
+</seg>
+pomeni globoko vdihniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajeti sapo
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw money out of a bank or building society 
+</seg>
+pomeni vzeti denar iz banke ali stavbnega podjetja, da ga lahko uporabimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti
+</quote>
+</cit>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+drawn from a thing or place
+</seg>
+, tisto dobimo iz neke stvari ali s kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati, pridobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The committee members are drawn from all sections of the local community.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw a conclusion, distinction, or comparison 
+</seg>
+pomeni ugotoviti, da nekaj obstaja ali je resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklepati; razlo&ccaron;iti; primerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Unfortunately, they drew the wrong conclusions.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj, kar storimo, 
+<seg type="lemma">
+draws a particular reaction
+</seg>
+, se ljudje na tisto odzovejo na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izzvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The mayor drew criticism for these excesses.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw people's attention to something 
+</seg>
+pomeni poskrbeti, da ljudje postanejo pozorni na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritegniti pozornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He drew attention to the rising unemployment rates.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e oseba ali skupina na tekmovanju 
+<seg type="lemma">
+draws with another one
+</seg>
+, imata enako &scaron;tevilo to&ccaron;k in nobena ne zmaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati neodlo&ccaron;eno
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The fifth game ended in a draw.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="15">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+drawing, 
+</ref>
+<ref>
+drawn
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+draw into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To draw someone into something 
+</seg>
+pomeni povzro&ccaron;iti, da se nekdo v nekaj zaplete. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplesti, pritegniti v kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She refused to be drawn into the conversation.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+draw on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To draw on something 
+</seg>
+ali 
+<seg type="variant">
+to draw upon something 
+</seg>
+pomeni nekaj uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporabljati, pomagati si s &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the kind of information an expert draws on.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+draws on a cigarette
+</seg>
+, vdihava zrak skozi cigareto v plju&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaditi, inhalirati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+draw up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To draw up a document, list, or plan 
+</seg>
+pomeni pripraviti in napisati listino, seznam ali na&ccaron;rt.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was busy drawing up plans for the new course.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar vozilo 
+<seg type="lemma">
+draws up
+</seg>
+, pripelje do nekega kraja in se ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+draw upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+draw on 1
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

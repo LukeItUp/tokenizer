@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+input
+</orth>
+<form type="variant">
+<pron>
+/*InpUt/
+</pron>
+</form>
+<form type="inflected">
+inputs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Input 
+</seg>
+so denarna sredstva, energija ali delavci, ki so potrebni, da neki stroj deluje ali projekt poteka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;ena sredstva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The project requires the input of more labour.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Input 
+</seg>
+je tudi podatek, ki ga vnesemo v ra&ccaron;unalnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(vhodni) podatek
+</quote>
+</cit>
+</sense>
+</entry>

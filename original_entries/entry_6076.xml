@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gleam
+</orth>
+<form type="variant">
+<pron>
+/gl*i*:m/
+</pron>
+</form>
+<form type="inflected">
+gleams, gleaming, gleamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar predmet ali povr&scaron;ina 
+<seg type="lemma">
+gleams
+</seg>
+, se sveti, ker odseva svetlobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ble&scaron;&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He polished the gold until it gleamed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a gleam of water.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar majhna svetilka 
+<seg type="lemma">
+gleams
+</seg>
+, mo&ccaron;no sveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ble&scaron;&ccaron;ati se, sijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The lighthouses of the islands gleam and wink above the surf.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovekov obraz ali o&ccaron;i 
+<seg type="lemma">
+gleam with a particular feeling
+</seg>
+, ka&zcaron;ejo dolo&ccaron;eno &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;areti, sijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His eyes gleamed with pleasure.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A gleam of triumph crossed the woman&apos;s face.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

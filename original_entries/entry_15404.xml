@@ -1,0 +1,183 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+upset,
+</orth>
+<form type="inflected">
+upsets, upsetting.
+</form>
+<IN>
+<IH>
+Upset 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik; 
+</IC>
+</IN>
+<PN>
+kadar je beseda rabljena kot glagol ali kot pridevnik za glagolom, jo izgovarjamo 
+<pron>
+/Vps*et/
+</pron>
+, kadar pa je rabljena kot samostalnik ali pridevnik pred samostalnikom, jo izgovarjamo 
+<pron>
+/*Vpset/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be upset 
+</seg>
+pomeni biti nesre&ccaron;en ali razo&ccaron;aran, ker se je zgodilo nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razburjen, vznemirjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m dreadfully upset about it all.
+</quote>
+<quote>
+They were upset by the poverty they saw.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+upsets someone
+</seg>
+, je vzrok, da nekdo postane zaskrbljen in nesre&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razburiti, vznemiriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I didn&apos;t mean to upset you.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+upsetting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was a very upsetting experience.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To upset something 
+</seg>
+pomeni povzro&ccaron;iti, da nekaj ne te&ccaron;e po ustaljeni ali predvideni poti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti, zmesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Davis&apos;s death has upset the routine.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To upset something 
+</seg>
+pomeni tudi nekaj po nesre&ccaron;i prevrniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekucniti, prevrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He almost upset the canoe.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stomach upset 
+</seg>
+je manj&scaron;a neprijetnost v &zcaron;elodcu zaradi oku&zcaron;be ali ne&ccaron;esa, kar smo pojedli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ave z &zcaron;elodcem
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;ve got an upset stomach.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

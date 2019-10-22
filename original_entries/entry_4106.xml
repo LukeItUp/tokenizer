@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distribute
+</orth>
+<form type="variant">
+<pron>
+/dIstr*Ibju:t, d*IstrIbju:t/
+</pron>
+</form>
+<form type="inflected">
+distributes, distributing, distributed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+distributes things
+</seg>
+, nekaj deli ljudem, na primer letake. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deliti, razdeljevati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so dobrine 
+<seg type="lemma">
+distributed
+</seg>
+, so dobavljene trgovinam ali podjetjem, ki jih uporabljajo ali prodajajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dostaviti, razvoziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They needed trucks to distribute their produce over New York City.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+distribution
+</orth>
+<form type="variant">
+<pron>
+/d*IstrIbj*u*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the manufacture and distribution of products.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To distribute something 
+</seg>
+pomeni tudi nekaj razdeliti med &ccaron;lane skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deliti, razporediti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+distribution
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a fairer distribution of wealth.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

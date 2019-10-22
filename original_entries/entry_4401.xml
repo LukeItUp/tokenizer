@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dynamic
+</orth>
+<form type="variant">
+<pron>
+/daIn*&ae;mIk/
+</pron>
+</form>
+<form type="inflected">
+dynamics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+dynamic
+</seg>
+, je poln mo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+energi&ccaron;en, dejaven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The new President is a dynamic and able man.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dynamically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We would like to see them participate more dynamically.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dynamics of a society or a situation 
+</seg>
+so sile, ki povzro&ccaron;ijo, da se dru&zcaron;ba ali polo&zcaron;aj spremenita. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dinamika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the dynamics of industrial development.
+</quote>
+</seg>
+</sense>
+</entry>

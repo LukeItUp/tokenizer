@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+begin
+</orth>
+<form type="variant">
+<pron>
+/bI1g*In/
+</pron>
+</form>
+<form type="inflected">
+begins, beginning, began 
+<pron>
+/bi1g*&ae;n/
+</pron>
+, begun 
+<pron>
+/bi1g*Vn/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To begin to do something 
+</seg>
+pomeni, da nekaj za&ccaron;nemo delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The actors began to rehearse a scene.
+</quote>
+<quote>
+I began eating the grapes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+begins 
+</seg>
+ali kadar &ccaron;lovek 
+<seg type="lemma">
+begins something
+</seg>
+, pomeni, da se tisto dogaja od dolo&ccaron;enega trenutka naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The concerts begin at 8 pm.
+</quote>
+<quote>
+Malcolm began his speech.
+</quote>
+<quote>
+They began by looking at the problems.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da kraj ali pokrajina 
+<seg type="lemma">
+begins somewhere
+</seg>
+, s tem mislimo na njene meje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ocean begins here.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+to begin with 
+</seg>
+govorimo o prvem dogodku ali stopnji v procesu ali pa napovemo tisto, kar bomo najprej povedali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najprej, za za&ccaron;etek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To begin with, they just take your name and address.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

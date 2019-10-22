@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+perceive
+</orth>
+<form type="variant">
+<pron>
+/p@s*i*:v/
+</pron>
+</form>
+<form type="inflected">
+perceives, perceiving, perceived.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+perceives something
+</seg>
+, vidi, opazi nekaj ali se zave ne&ccaron;esa, zlasti &ccaron;esa takega, kar ni o&ccaron;itno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many insects can perceive colours that are invisible to us.
+</quote>
+<quote>
+They failed to perceive that this was what I objected to.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+perceives someone or something as being or doing a particular thing
+</seg>
+, misli, da je tista oseba ali dogajanje resni&ccaron;no tako, kot je videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videti, do&zcaron;iveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is important that the president be perceived as moving the country forward.
+</quote>
+<quote>
+...the truth as I perceive it.
+</quote>
+</seg>
+</sense>
+</entry>

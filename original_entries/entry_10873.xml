@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+posture
+</orth>
+<form type="variant">
+<pron>
+/p*QstS@/
+</pron>
+</form>
+<form type="inflected">
+postures.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s posture 
+</seg>
+je polo&zcaron;aj telesa ali na&ccaron;in, kako stojimo ali sedimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;a, polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his stiff, upright posture.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A posture 
+</seg>
+je tudi odnos do ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;a, stali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are trying to adopt a more co-operative posture.
+</quote>
+</seg>
+</sense>
+</entry>

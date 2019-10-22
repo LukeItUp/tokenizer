@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scrawl
+</orth>
+<form type="variant">
+<pron>
+/skr*O*:l/
+</pron>
+</form>
+<form type="inflected">
+scrawls, scrawling, scrawled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scrawl something 
+</seg>
+pomeni nekaj napisati malomarno in grdo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakracati, na&ccaron;e&ccaron;kati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Someone had scrawled &lsquo;What does it all mean?&rsquo; across the cover.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Scrawl 
+</seg>
+je malomarno in grdo napisano besedilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kracanje, &ccaron;e&ccaron;kanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I did my best to write neatly instead of with my usual scrawl.
+</quote>
+</seg>
+</sense>
+</entry>

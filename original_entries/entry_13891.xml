@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subordinate,
+</orth>
+<form type="inflected">
+subordinates, subordinating, subordinated;
+</form>
+<PN>
+samostalnik ali pridevnik izgovarjamo 
+<pron>
+/s@b*O*:dIn@1t/
+</pron>
+, glagol pa 
+<pron>
+/s@b*O*:dIneIt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+someone&apos;s subordinate
+</seg>
+, ima manj pomemben polo&zcaron;aj v delovni organizaciji kot nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podrejeni
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He humiliated his senior staff before their subordinates.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+subordinate to another thing
+</seg>
+, je manj pomembna kot druga; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+postranski, manj pomemben kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All other questions are subordinate to this one.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To subordinate one thing to another 
+</seg>
+pomeni obravnavati neko stvar kot manj pomembno od neke druge; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+podrediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To keep his job, he subordinated his own interests to the objectives of the company.
+</quote>
+</seg>
+</sense>
+</entry>

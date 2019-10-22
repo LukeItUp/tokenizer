@@ -5,7 +5,7 @@ athlete
 </orth>
 <form type="variant">
 <pron>
-/*#ae;Tli:t/
+/*&ae;Tli:t/
 </pron>
 </form>
 <form type="inflected">
@@ -20,14 +20,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An athlete
+An athlete 
 </seg>
-je oseba, ki sodeluje na
-&#353;portnih oziroma atletskih tekmovanjih.
+je oseba, ki sodeluje na &scaron;portnih oziroma atletskih tekmovanjih. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#353;portnik, atlet
+&scaron;portnik, atlet
 </quote>
 </cit>
 </sense>

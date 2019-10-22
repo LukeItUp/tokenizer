@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p65_s70913" id="p65_w423" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="471.912" base="478.32" width="28.0303" height="8.514">bizarre</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p65_s70914" id="p65_w424" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.91" y="473.158" base="478.32" width="9.40966" height="6.844">/bi</TOKEN>
+<TOKEN sid="p65_s70915" id="p65_w425" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="97.69" y="472.52" base="475.93" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p65_s70916" id="p65_w426" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="100.33" y="473.158" base="478.32" width="15.0916" height="6.844">z&#202;&#194;/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p65_s70917" id="p65_w427" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="118.59" y="474.404" base="478.32" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p65_s70918" id="p65_w428" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.2" y="472.624" base="478.32" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p65_s70919" id="p65_w429" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.553" y="472.624" base="478.32" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p65_s70920" id="p65_w430" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.72" y="472.624" base="478.32" width="26.2418" height="7.552">bizarre,</TOKEN>
+</seg>
+<TOKEN sid="p65_s70921" id="p65_w431" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.122" y="472.624" base="478.32" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p65_s70922" id="p65_w432" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="196.279" y="472.624" base="478.32" width="13.5986" height="7.552">zelo</TOKEN>
+<TOKEN sid="p65_s70923" id="p65_w433" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.037" y="472.624" base="478.32" width="20.7979" height="7.552">~udno</TOKEN>
+<TOKEN sid="p65_s70924" id="p65_w434" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="236.995" y="472.624" base="478.32" width="6.79608" height="7.552">in</TOKEN>
+<TOKEN sid="p65_s70925" id="p65_w435" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3902" y="481.704" base="487.4" width="39.1982" height="7.552">nenavadno.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p65_s70927" id="p65_w437" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.82" y="481.704" base="487.4" width="35.0489" height="7.552">grotesken,</TOKEN>
+<TOKEN sid="p65_s70928" id="p65_w438" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="146.868" y="481.704" base="487.4" width="28.3867" height="7.552">~uda{ki;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p65_s70929" id="p65_w439" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.26" y="481.704" base="487.4" width="31.0486" height="7.552">&#8230;bizarre</TOKEN>
+<TOKEN sid="p65_s70930" id="p65_w440" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.308" y="481.704" base="487.4" width="27.9979" height="7.552">gadgets.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

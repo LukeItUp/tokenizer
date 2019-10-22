@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p20_s21736" id="p20_w782" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="296.06" y="341.958" base="347.12" width="33.0716" height="6.844">/6laÍ6ns/,</TOKEN>
+<TOKEN sid="p20_s21736" id="p20_w782" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="296.06" y="341.958" base="347.12" width="33.0716" height="6.844">/6la&#205;6ns/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -52,7 +52,7 @@
 </cit>
 </sense>
 <sense n="2">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p20_s21764" id="p20_w810" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="321" y="370.864" base="374.78" width="21.0697" height="5.192">PHRASE</TOKEN>
@@ -83,6 +83,6 @@
 <TOKEN sid="p20_s21782" id="p20_w828" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="360.656" y="387.524" base="393.22" width="26.6494" height="7.552">prostor;</TOKEN>
 </quote>
 </cit>
-</sense>
+</re>
 </sense>
 </entry>

@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+endorse
+</orth>
+<form type="variant">
+<pron>
+/I2nd*O*:s/
+</pron>
+</form>
+<form type="inflected">
+endorses, endorsing, endorsed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To endorse someone or something 
+</seg>
+pomeni javno izjaviti, da nekoga ali nekaj podpiramo ali odobravamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odobriti, potrditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Germans and Italians endorsed the plan.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+endorsement
+</orth>
+<form type="variant">
+<pron>
+/I2nd*O*:sm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their public endorsement of Liberal candidates.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

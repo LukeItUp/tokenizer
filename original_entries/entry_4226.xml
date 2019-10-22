@@ -1,0 +1,267 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+doubt
+</orth>
+<form type="variant">
+<pron>
+/d*a*Ut/
+</pron>
+</form>
+<form type="inflected">
+doubts, doubting, doubted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have doubts about something 
+</seg>
+pomeni o ne&ccaron;em biti negotov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Frank had no doubts about the outcome of the trial.
+</quote>
+<quote>
+I had moments of doubt.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To doubt whether something is true or possible 
+</seg>
+pomeni misliti, da nekaj najbr&zcaron; ni resni&ccaron;no ali mogo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I doubt if they will ever want vanilla pudding again.
+</quote>
+<quote>
+Maybe he changed his mind, but I doubt it.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To doubt something 
+</seg>
+pomeni misliti, da morda nekaj ni res ali morda ne obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...men who never doubt their own superiority.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To doubt someone 
+</seg>
+ali 
+<seg type="variant">
+to doubt someone's word 
+</seg>
+pomeni misliti, da morda nekdo ne govori po pravici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da 
+<seg type="lemma">
+there is no doubt about something
+</seg>
+, &zcaron;elimo poudariti, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni dvoma o ne&ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rose was mad, there was no doubt about it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+no doubt 
+</seg>
+lahko tudi povemo, da sklepamo, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez dvoma, gotovo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As Jennifer has no doubt told you, we are leaving tomorrow.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+without doubt 
+</seg>
+ali 
+<FV>
+without a doubt 
+</FV>
+poudarimo, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez dvoma, nedvomno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hugh Scanlon became without doubt one of the most powerful men in Britain.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je dokazano, da je nekaj resni&ccaron;no 
+<seg type="lemma">
+beyond a doubt
+</seg>
+, je vsekakor resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez dvoma, gotovo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have established the ownership beyond all doubt.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+in doubt 
+</seg>
+ali 
+<FV>
+open to doubt
+</FV>
+, je negotovo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v negotovosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Devaluation had put Concorde's future in doubt.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be in doubt about something 
+</seg>
+pomeni imeti pomisleke o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomiti, sumiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If in doubt, call the doctor.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+give 
+</QF>
+<QI>
+someone 
+</QI>
+<QF>
+the benefit of the doubt: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+benefit
+</ref>
+</xr>
+</B>
+</entry>

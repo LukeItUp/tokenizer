@@ -1,0 +1,319 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stock
+</orth>
+<form type="variant">
+<pron>
+/st*Qk/
+</pron>
+</form>
+<form type="inflected">
+stocks, stocking, stocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stocks 
+</seg>
+so dele&zcaron;i v lastni&scaron;tvu nekega podjetja ali vlo&zcaron;ek, na katerega bo izpla&ccaron;an dolo&ccaron;en znesek obresti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delnica, vrednostni papir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...heavy bidding for oil company stocks.
+</quote>
+<quote>
+...buying big blocks of stock.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Trgovina, ki 
+<seg type="lemma">
+stocks particular goods
+</seg>
+, ima na zalogi dolo&ccaron;eno blago za prodajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti na zalogi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Several shops in London stock large fittings.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shop&apos;s stock 
+</seg>
+je celotna koli&ccaron;ina blaga, ki ga ima trgovina na voljo za prodajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...selling a week&apos;s worth of stock in a single day.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stock a shelf or cupboard 
+</seg>
+pomeni napolniti polico ali omaro s hrano ali drugimi predmeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalo&zcaron;iti, opremiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I found part-time work, stocking shelves in supermarkets.
+</quote>
+<quote>
+His locker was always stocked with screws.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stock of things 
+</seg>
+je zaloga predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloga, blago
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Keep a stock of fuses.
+</quote>
+<quote>
+They want to conserve coal stocks during the miners&apos; strike.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The stock
+</seg>
+, iz katerega prihaja &ccaron;lovek ali &zcaron;ival, je vrsta ljudi ali &zcaron;ivali, katerih potomec je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poreklo, rod, izvor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were of European stock.
+</quote>
+<quote>
+He came from sturdy, peasant stock.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Zcaron;ivali, ki jim imamo na kmetiji, imenujemo 
+<seg type="lemma">
+stock
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sale of dairy stock.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stock 
+</seg>
+je teko&ccaron;ina, ki nastane pri kuhanju mesa, kosti ali zelenjave v vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ju&scaron;na osnova, kostna juha
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stock expression or way of doing something 
+</seg>
+je eden od na&ccaron;inov izra&zcaron;anja ali po&ccaron;etja, ki je v splo&scaron;ni rabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obi&ccaron;ajen, stereotipen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Wild and wanton&rsquo; was a stock phrase of the time.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je blago 
+<seg type="lemma">
+in stock 
+</seg>
+v neki trgovini, je na voljo za prodajo. Kadar je blago 
+<FV>
+out of stock
+</FV>
+, je razprodano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zalogi; razprodan
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take stock 
+</seg>
+pomeni po&ccaron;akati in razmisliti o polo&zcaron;aju, preden se odlo&ccaron;imo, kaj bomo storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napraviti inventuro, pretehtati
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+laughing stock.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+stock up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stock up with something 
+</seg>
+pomeni kupiti zalogo ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalo&zcaron;iti se, opremiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Stock up with groceries and canned foods.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

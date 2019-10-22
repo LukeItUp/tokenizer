@@ -1,0 +1,180 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+foul
+</orth>
+<form type="variant">
+<pron>
+/f*a*Ul/
+</pron>
+</form>
+<form type="inflected">
+fouler, foulest; fouls, fouling, fouled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+foul
+</seg>
+, je umazano ali ima neprijeten vonj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umazan, smrdljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The water in the pools became tepid and foul.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Govorica, ki je
+<seg type="lemma">
+ foul
+</seg>
+, vsebuje kletvice ali neotesane besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prosta&scaron;ki
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima nekdo zna&ccaron;aj, ki je 
+<seg type="lemma">
+foul
+</seg>
+, tisti &ccaron;lovek nenadoma in zlahka postane jezen in nasilen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nataknjen, razdra&zcaron;ljiv
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall foul of someone or something 
+</seg>
+pomeni po naklju&ccaron;ju storiti nekaj, kar nas bo pri nekom spravilo v te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vznejevoljiti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To foul something 
+</seg>
+pomeni poskrbeti, da se nekaj uma&zcaron;e; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+umazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The deck would soon be fouled with blood.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V &scaron;portni igri je 
+<seg type="lemma">
+a foul 
+</seg>
+ravnanje v nasprotju s pravili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekr&scaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The team's record of fouls was among the worst.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+foul up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To foul up something
+</seg>
+ pomeni nekaj, na primer na&ccaron;rt, pokvariti tako, da naredimo nekaj napa&ccaron;nega ali neumnega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sfi&zcaron;iti, skaziti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

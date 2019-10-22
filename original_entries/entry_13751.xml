@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+story
+</orth>
+<form type="variant">
+<pron>
+/st*O*:ri1/
+</pron>
+</form>
+<form type="inflected">
+stories.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A story 
+</seg>
+je opis izmi&scaron;ljenih oseb in dogodkov, napisan ali povedan ljudem v zabavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodba, povest
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tell me a story.
+</quote>
+<quote>
+...a story about a foolish hunter.
+</quote>
+<quote>
+...ghost stories.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A story 
+</seg>
+je tudi opis ali pripoved o stvareh, ki so se zgodile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The story of the firm begins in 1820.
+</quote>
+<quote>
+...her life story.
+</quote>
+</seg>
+<xr type="related">
+<QF>
+tall story: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+tall.
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+storey.
+</ref>
+</xr>
+</sense>
+</entry>

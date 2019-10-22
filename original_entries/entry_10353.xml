@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peer
+</orth>
+<form type="variant">
+<pron>
+/p*I*@/
+</pron>
+</form>
+<form type="inflected">
+peers, peering, peered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+peers at something
+</seg>
+, gleda tisto stvar zelo zbrano, ponavadi zato, ker jo je te&zcaron;ko videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strmeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He peered at his reflection.
+</quote>
+<quote>
+Howard sat peering through the windscreen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A peer 
+</seg>
+je pripadnik visokega plemstva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peer
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s peers 
+</seg>
+so ljudje iste starosti ali dru&zcaron;benega polo&zcaron;aja; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vrstniki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...comparing students with their peers outside university.
+</quote>
+</seg>
+</sense>
+</entry>

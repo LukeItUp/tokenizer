@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+construct,
+</orth>
+<form type="inflected">
+constructs, constructing, constructed;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/k@7nstr*Vkt/
+</pron>
+, samostalnik pa 
+<pron>
+/k*QnstrVkt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To construct something 
+</seg>
+pomeni nekaj zgraditi, narediti ali ustvariti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zidati, sestaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We constructed a raft.
+</quote>
+<quote>
+...a building constructed of brick.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A construct 
+</seg>
+je zapletena zamisel; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izmi&scaron;ljotina, izum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...theoretical constructs.
+</quote>
+</seg>
+</sense>
+</entry>

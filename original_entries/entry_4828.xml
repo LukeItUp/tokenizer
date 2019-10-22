@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+essence
+</orth>
+<form type="variant">
+<pron>
+/*es@0ns/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The essence of something 
+</seg>
+je temeljna in najpomembnej&scaron;a zna&ccaron;ilnost ne&ccaron;esa, po kateri je tisto prepoznavno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bistvo, jedro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Competition is the essence of all games.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in essence 
+</seg>
+povemo, da govorimo o najpomembnej&scaron;em vidiku ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v bistvu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+But this is not in essence a book about religion.
+</quote>
+</seg>
+</sense>
+</entry>

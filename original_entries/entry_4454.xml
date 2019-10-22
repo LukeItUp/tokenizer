@@ -1,0 +1,180 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+echo
+</orth>
+<form type="variant">
+<pron>
+/*ek@U/
+</pron>
+</form>
+<form type="inflected">
+echoes, echoing, echoed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An echo 
+</seg>
+je zvok, ki se odbije od neke povr&scaron;ine, na primer zidu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Judy listened to the echo of her shoes clicking on the marble floors.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zvok 
+<seg type="lemma">
+echoes
+</seg>
+, znova sli&scaron;imo neki zvok, ko se odbije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our footsteps echoed through the large hollow lobby.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neki kraj 
+<seg type="lemma">
+echoes
+</seg>
+, se zvok ponovi, potem ko utihne prvotni zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bamboo grove echoed with the screams of monkeys.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+echoing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...echoing halls.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An echo 
+</seg>
+je tudi odziv na odnos, mnenje ali trditev, ki je bila &zcaron;e izra&zcaron;ena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmev, odziv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The echo of public sentiment in Congress was inevitable.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To echo someone's words 
+</seg>
+pomeni ponoviti besede nekega &ccaron;loveka ali povedati isto kot on.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponoviti, posnemati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Todd's disappointment was echoed by Ian Stark.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za podrobnost ali lastnost, ki nas spominja na nekoga ali nekaj drugega, lahko re&ccaron;emo, da je 
+<seg type="lemma">
+an echo
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmev, ponovitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...echoes of the past.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shear
+</orth>
+<form type="variant">
+<pron>
+/S*I*@/
+</pron>
+</form>
+<form type="inflected">
+shears, shearing, sheared, shorn 
+<pron>
+/S*O*:n/
+</pron>
+.
+</form>
+<IN>
+Oblika za pretekli dele&zcaron;nik je lahko 
+<IH>
+sheared 
+</IH>
+<IC>
+ali 
+</IC>
+<IV>
+shorn
+</IV>
+. 
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shear a sheep 
+</seg>
+pomeni porezati volno z ovce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostri&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pair of shears 
+</seg>
+je vrtno orodje, podobno &scaron;karjam, le da je ve&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrtne &scaron;karje
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS.
+</QZ>
+</QP>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+shorn.
+</ref>
+</xr>
+</sense>
+</entry>

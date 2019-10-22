@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+toss
+</orth>
+<form type="variant">
+<pron>
+/t*Qs/
+</pron>
+</form>
+<form type="inflected">
+tosses, tossing, tossed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To toss something somewhere 
+</seg>
+pomeni nekaj vre&ccaron;i nekam lahkotno in brez preudarka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagnati, odvre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took the bag and tossed it into some nearby bushes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To toss a coin 
+</seg>
+pomeni sprejeti neko odlo&ccaron;itev tako, da v zrak vr&zcaron;emo kovanec in ugibamo, katera stran bo obrnjena navzgor, ko bo padel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+metati kovanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They used the penny to toss for the first round of drinks.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Business deals were clinched by the toss of a coin.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To toss one&apos;s head 
+</seg>
+pomeni sunkovito premakniti glavo nazaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i glavo nazaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;No,&rsquo; she said, tossing her head in disgust.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She gave a toss of her head.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+tosses
+</seg>
+, se vztrajno premika z ene strani na drugo in nazaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premetavati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tossed and turned all night.
+</quote>
+<quote>
+Ships were tossed at sea.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sunrise
+</orth>
+<form type="variant">
+<pron>
+/s*VnraIz/
+</pron>
+</form>
+<form type="inflected">
+sunrises.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sunrise 
+</seg>
+je jutranji &ccaron;as, ko se na nebu poka&zcaron;e sonce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;ni vzhod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They left their camp at sunrise.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sunrise 
+</seg>
+so barve in svetloba, ki jih vidimo na nebu, ko se zjutraj poka&zcaron;e sonce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;ni vzhod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the beautiful sunrise over the sea.
+</quote>
+</seg>
+</sense>
+</entry>

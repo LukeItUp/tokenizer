@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+saw
+</orth>
+<form type="variant">
+<pron>
+/s*O*:/
+</pron>
+</form>
+<form type="inflected">
+saws, sawing, sawed, sawn
+</form>
+<form type="variant">
+<pron>
+/s*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Saw 
+</seg>
+je preteklik glagola 
+<ref>
+to see
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A saw 
+</seg>
+je orodje za &zcaron;aganje lesa. Ima rezilo, ki ima na eni strani ostre zobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;aga
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To saw something 
+</seg>
+pomeni tisto stvar &zcaron;agati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;agati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I started sawing the branches off the main trunk.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+demonstration
+</orth>
+<form type="variant">
+<pron>
+/d*em@nstr*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+demonstrations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A demonstration 
+</seg>
+je javni shod ali pohod ljudi, na katerem poka&zcaron;ejo svoje nasprotovanje ali podporo ne&ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+demonstracija, protest
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A demonstration of something 
+</seg>
+je govor, v katerem nekdo poka&zcaron;e, kako naj nekaj delamo ali kako nekaj deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikaz, demonstracija
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A demonstration 
+</seg>
+je tudi dokaz, da nekaj obstaja ali je resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokaz(ovanje), prikaz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was an unforgettable demonstration of the power of reason.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Demonstration of a quality or feeling 
+</seg>
+je izra&zcaron;anje lastnosti ali &ccaron;ustva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkazovanje, razkritje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...spontaneous demonstrations of affection.
+</quote>
+</seg>
+</sense>
+</entry>

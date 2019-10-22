@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+milk
+</orth>
+<form type="variant">
+<pron>
+/m*Ilk/
+</pron>
+</form>
+<form type="inflected">
+milks, milking, milked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Milk 
+</seg>
+je bela teko&ccaron;ina, ki jo dajejo krave in koze. Ljudje jo pijejo ali predelujejo v maslo, sir in jogurt. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mleko
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+He only drinks milk in tea or coffee.
+</quote>
+<quote>
+...a glass of milk.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+skimmed milk
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+milks a cow or goat
+</seg>
+, od krave ali koze dobi mleko tako, da jo vle&ccaron;e za vime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+molsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The men had milked the cows in the early morning.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+milking
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He used to help the farmer with his milking.
+</quote>
+<quote>
+I had to install milking equipment.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Milk 
+</seg>
+je tudi bela teko&ccaron;ina, ki nastaja v &zcaron;enskih dojkah in jo pijejo dojen&ccaron;ki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mleko
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+milks a situation or place
+</seg>
+, sebi&ccaron;no izkoristi neki polo&zcaron;aj ali kraj zase, kolikor le more. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkori&scaron;&ccaron;ati, molsti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The island was milked by the invaders for five centuries.
+</quote>
+</seg>
+</sense>
+</entry>

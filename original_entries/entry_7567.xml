@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insist
+</orth>
+<form type="variant">
+<pron>
+/Ins*Ist/
+</pron>
+</form>
+<form type="inflected">
+insists, insisting, insisted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insist that something is true 
+</seg>
+pomeni odlo&ccaron;no trditi, da je nekaj res, in zavra&ccaron;ati, da bi si premislili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne popustiti, vztrajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She insisted that Jim must leave.
+</quote>
+<quote>
+&lsquo;But you know that she&apos;s innocent,&rsquo; the girl insisted.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insist on something 
+</seg>
+pomeni trditi, da nekaj moramo storiti ali imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati pri &ccaron;em, ne popustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He insisted on paying for the meal.
+</quote>
+<quote>
+We were right to insist on reform.
+</quote>
+</seg>
+</sense>
+</entry>

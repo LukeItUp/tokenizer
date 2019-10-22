@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p825_s908209" id="p825_w100" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="172.322" base="178.73" width="45.5134" height="8.514">unforeseen</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p825_s908210" id="p825_w101" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="103.81" y="173.568" base="178.73" width="17.3298" height="6.844">/&#216;nf6</TOKEN>
+<TOKEN sid="p825_s908211" id="p825_w102" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="121.46" y="172.93" base="176.34" width="2.39636" height="4.52176">8</TOKEN>
+<TOKEN sid="p825_s908212" id="p825_w103" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="124.09" y="173.568" base="178.73" width="17.2516" height="6.844">si&#194;n/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p825_s908213" id="p825_w104" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="142.94" y="174.814" base="178.73" width="10.4306" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p825_s908214" id="p825_w105" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.96" y="173.034" base="178.73" width="32.3266" height="7.552">Dogodek,</TOKEN>
+<TOKEN sid="p825_s908215" id="p825_w106" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.876" y="173.034" base="178.73" width="6.78528" height="7.552">ki</TOKEN>
+<TOKEN sid="p825_s908216" id="p825_w107" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.25" y="173.034" base="178.73" width="5.98608" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p825_s908217" id="p825_w108" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.85" y="173.034" base="178.73" width="38.9513" height="7.552">unforeseen,</TOKEN>
+</seg>
+<TOKEN sid="p825_s908218" id="p825_w109" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3896" y="182.114" base="187.81" width="6.79608" height="7.552">se</TOKEN>
+<TOKEN sid="p825_s908219" id="p825_w110" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="71.8958" y="182.114" base="187.81" width="18.4003" height="7.552">zgodi</TOKEN>
+<TOKEN sid="p825_s908220" id="p825_w111" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.0062" y="182.114" base="187.81" width="52.3994" height="7.552">nepri~akovano.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p825_s908222" id="p825_w113" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.05" y="182.114" base="187.81" width="44.2404" height="7.552">nepredviden;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p825_s908223" id="p825_w114" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="202" y="182.114" base="187.81" width="14.7938" height="7.552">This</TOKEN>
+<TOKEN sid="p825_s908224" id="p825_w115" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="219.504" y="182.114" base="187.81" width="13.1962" height="7.552">was</TOKEN>
+<TOKEN sid="p825_s908225" id="p825_w116" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.41" y="182.114" base="187.81" width="8.40168" height="7.552">an</TOKEN>
+<TOKEN sid="p825_s908226" id="p825_w117" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3896" y="191.194" base="196.89" width="36.6358" height="7.552">unforeseen</TOKEN>
+<TOKEN sid="p825_s908227" id="p825_w118" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.026" y="191.194" base="196.89" width="46.3954" height="7.552">complication.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

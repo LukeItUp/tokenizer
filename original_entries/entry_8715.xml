@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+marine
+</orth>
+<form type="variant">
+<pron>
+/m@r*i*:n/
+</pron>
+</form>
+<form type="inflected">
+marines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A marine 
+</seg>
+je vojak ameri&scaron;kih pomorskih sil ali britanske mornarice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+marinec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+marine 
+</seg>
+opisujemo stvari, ki so povezane z morjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+morski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...marine life.
+</quote>
+<quote>
+...marine biology.
+</quote>
+</seg>
+</sense>
+</entry>

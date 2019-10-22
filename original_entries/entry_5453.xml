@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flee
+</orth>
+<form type="variant">
+<pron>
+/fl*i*:/
+</pron>
+</form>
+<form type="inflected">
+flees, fleeing, fled
+</form>
+<form type="variant">
+<pron>
+/fl*ed/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flee 
+</seg>
+pomeni be&zcaron;ati pred nekom ali ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbe&zcaron;ati, pobegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had to flee to Tanzania.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flee a place 
+</seg>
+pomeni be&zcaron;ati pro&ccaron; z nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbe&zcaron;ati, pobegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fled the country.
+</quote>
+</seg>
+</sense>
+</entry>

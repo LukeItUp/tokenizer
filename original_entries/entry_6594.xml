@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hawk
+</orth>
+<form type="variant">
+<pron>
+/h*O*:k/
+</pron>
+</form>
+<form type="inflected">
+hawks, hawking, hawked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hawk 
+</seg>
+je velika ptica s krivim kljunom, ostrimi kremplji in zelo dobrim vidom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sokol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A hawk hovered, motionless, in the blue sky.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hawk something around 
+</seg>
+pomeni poskusiti nekaj prodati med prena&scaron;anjem s kraja na kraj; 
+</def>
+<usg>
+beseda pogosto izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kro&scaron;njariti, ponujati od vrat do vrat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His writings were being hawked round German publishers.
+</quote>
+</seg>
+</sense>
+</entry>

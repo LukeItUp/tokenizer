@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+permit,
+</orth>
+<form type="inflected">
+permits, permitting, permitted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/p@m*It/
+</pron>
+, samostalnik pa 
+<pron>
+/p*$e*:mIt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+permits something
+</seg>
+, da dovoljenje za nekaj; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dovoliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Visits are permitted only once a month.
+</quote>
+<quote>
+Her father would not permit her to eat sweets.
+</quote>
+<quote>
+The doctor has permitted him only two meals a day.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+permits 
+</seg>
+dolo&ccaron;eno stvar, omogo&ccaron;a, da se tisto lahko zgodi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dovoljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Had time permitted, we would have stayed longer.
+</quote>
+<quote>
+The timetable permits teams only a few weeks for preparation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A permit 
+</seg>
+je uradni dokument, kjer pi&scaron;e, da nekdo sme nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoljenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She could not get in without a permit.
+</quote>
+<quote>
+...work permits.
+</quote>
+</seg>
+</sense>
+</entry>

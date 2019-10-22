@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cheer
+</orth>
+<form type="variant">
+<pron>
+/tS*I*@/
+</pron>
+</form>
+<form type="inflected">
+cheers, cheering, cheered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cheer 
+</seg>
+pomeni glasno se ogla&scaron;ati v znamenje odobravanja ali spodbude. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzklikati, glasno spodbujati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The home crowd cheered their team enthusiastically.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I heard a great cheer go up.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be cheered by something 
+</seg>
+pomeni, da nas tisto osre&ccaron;i ali nam zmanj&scaron;a skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razveseliti, razvedriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were cheered by her warmth and affection.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+cheering
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was very cheering to have her here.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudje re&ccaron;ejo 
+<seg type="lemma">
+&lsquo;Cheers&rsquo;
+</seg>
+, tik preden izpijejo alkoholno pija&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na zdravje
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cheer on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cheer someone on 
+</seg>
+pomeni nekomu glasno vzklikati, da bi ga opogumili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasno spodbujati, navijati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cheer up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+cheers up
+</seg>
+, ni ve&ccaron; potrt, temve&ccaron; postane bolj&scaron;e volje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvedriti se, potola&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She cheered up a little.
+</quote>
+<quote>
+Her friends tried to cheer her up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

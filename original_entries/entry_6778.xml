@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+highway
+</orth>
+<form type="variant">
+<pron>
+/h*a*IweI/
+</pron>
+</form>
+<form type="inflected">
+highways.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A highway 
+</seg>
+je &scaron;iroka cesta, ki povezuje mesta in velemesta; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+avtocesta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...inter-state highways.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A highway 
+</seg>
+je tudi ve&ccaron;ja cesta; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+glavna cesta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was charged with obstructing the highway.
+</quote>
+</seg>
+</sense>
+</entry>

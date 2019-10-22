@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+decimal
+</orth>
+<form type="variant">
+<pron>
+/d*esIm@0l/
+</pron>
+</form>
+<form type="inflected">
+decimals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Sistem, ki je 
+<seg type="lemma">
+decimal
+</seg>
+, temelji na delitvi enote na deset delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deseti&scaron;ki
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A decimal 
+</seg>
+je oblika zapisa ulomka s &scaron;tevilko za decimalno piko (v sloven&scaron;&ccaron;ini vejico) in predstavlja vrednosti desetin, stotin in tako naprej: .5, .51, .517. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+decimalka
+</quote>
+</cit>
+</sense>
+</entry>

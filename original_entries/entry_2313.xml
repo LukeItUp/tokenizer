@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+christen
+</orth>
+<form type="variant">
+<pron>
+/kr*Is@0n/
+</pron>
+</form>
+<form type="inflected">
+christens, christening, christened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ, 
+<seg>
+with or without 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be christened
+</seg>
+ pomeni, da dojen&ccaron;ku pri krstu dolo&ccaron;ijo krstno ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti kr&scaron;&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was christened Victoria Mary.
+</quote>
+<quote>
+Charles II was christened in this church.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To christen a place or an object
+</seg>
+ pomeni izbrati in za&ccaron;eti uporabljati ime za neki kraj ali predmet; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+krstiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The crew christened the hot geysers the &lsquo;black smokers&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

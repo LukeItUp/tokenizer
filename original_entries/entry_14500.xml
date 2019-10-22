@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+though
+</orth>
+<form type="variant">
+<pron>
+/D*@*U/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+CONJ 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+though 
+</seg>
+uvedemo dejstvo ali komentar, ki je v nasprotju z neko drugo izjavo ali zaradi katerega se ta druga izjava lahko zdi presenetljiva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;eprav, vendar pa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wore a fur coat, even though it was a very hot day.
+</quote>
+<quote>
+Though he hadn&apos;t stopped working all day, he wasn&apos;t tired.
+</quote>
+<quote>
+&lsquo;It&apos;s not very useful.&rsquo;&mdash;&lsquo;It&apos;s pretty, though, isn&apos;t it ?&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<QF>
+as though: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+as
+</ref>
+</xr>
+</sense>
+</entry>

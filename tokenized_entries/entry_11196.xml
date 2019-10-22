@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p594_s651047" id="p594_w292" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="353.892" base="360.3" width="29.1521" height="8.514">prosaic</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p594_s651048" id="p594_w293" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="85.21" y="355.138" base="360.3" width="39.3416" height="6.844">/pr6&#205;ze&#203;&#203;k/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p594_s651049" id="p594_w294" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="126.1" y="356.384" base="360.3" width="10.3901" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p594_s651050" id="p594_w295" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.07" y="354.604" base="360.3" width="13.1155" height="7.552">Kar</TOKEN>
+<TOKEN sid="p594_s651051" id="p594_w296" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="152.745" y="354.604" base="360.3" width="5.95656" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p594_s651052" id="p594_w297" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="160.25" y="354.604" base="360.3" width="26.3513" height="7.552">prosaic,</TOKEN>
+</seg>
+<TOKEN sid="p594_s651053" id="p594_w298" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.161" y="354.604" base="360.3" width="5.95656" height="7.552">je</TOKEN>
+<TOKEN sid="p594_s651054" id="p594_w299" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.677" y="354.604" base="360.3" width="37.6394" height="7.552">dolgo~asno</TOKEN>
+<TOKEN sid="p594_s651055" id="p594_w300" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="234.876" y="354.604" base="360.3" width="6.75576" height="7.552">in</TOKEN>
+<TOKEN sid="p594_s651056" id="p594_w301" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1797" y="363.684" base="369.38" width="41.1984" height="7.552">nezanimivo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p594_s651058" id="p594_w303" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.61" y="363.684" base="369.38" width="16.7947" height="7.552">pust,</TOKEN>
+<TOKEN sid="p594_s651059" id="p594_w304" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="128.405" y="363.684" base="369.38" width="35.0546" height="7.552">prozai~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p594_s651060" id="p594_w305" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.46" y="363.684" base="369.38" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p594_s651061" id="p594_w306" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="178.66" y="363.684" base="369.38" width="24.6391" height="7.552">prosaic</TOKEN>
+<TOKEN sid="p594_s651062" id="p594_w307" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.298" y="363.684" base="369.38" width="33.5822" height="7.552">existence.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

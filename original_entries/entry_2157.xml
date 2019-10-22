@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chair
+</orth>
+<form type="variant">
+<pron>
+/tS*e*@/
+</pron>
+</form>
+<form type="inflected">
+chairs, chairing, chaired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chair 
+</seg>
+je kos pohi&scaron;tva z naslonjalom in &scaron;tirimi nogami; na njem lahko sedi en sam &ccaron;lovek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I sat in a low chair by the fire, reading.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chair 
+</seg>
+je profesorsko mesto na univerzi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+katedra
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chair a meeting 
+</seg>
+pomeni voditi sestanek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predsedovati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The chair of a meeting 
+</seg>
+je &ccaron;lovek, ki vodi sestanek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predsedujo&ccaron;i
+</quote>
+</cit>
+</sense>
+</entry>

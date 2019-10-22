@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sensor
+</orth>
+<form type="variant">
+<pron>
+/s*ens@/
+</pron>
+</form>
+<form type="inflected">
+sensors.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sensor 
+</seg>
+je naprava, ki zaznava dolo&ccaron;ena stanja ali vplive, na primer toploto ali svetlobo; uporabljamo jo za sporo&ccaron;anje o teh stanjih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+senzor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when the sensors in the engine detect a fire.
+</quote>
+</seg>
+</sense>
+</entry>

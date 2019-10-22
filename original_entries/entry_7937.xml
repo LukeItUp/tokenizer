@@ -1,0 +1,246 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+jump
+</orth>
+<form type="variant">
+<pron>
+/dZ*Vmp/
+</pron>
+</form>
+<form type="inflected">
+jumps, jumping, jumped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump 
+</seg>
+pomeni potisniti stopala ob tla in se odgnati v zrak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He jumped down from the terrace.
+</quote>
+<quote>
+The horse jumps over a small stream.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was a spectacular jump.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump 
+</seg>
+pomeni tudi hitro in nenadoma se premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti, planiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph jumped to his feet.
+</quote>
+<quote>
+He jumped up and went across to the large bookcase.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump something 
+</seg>
+pomeni nekaj presko&ccaron;iti, na primer ograjo, ali iti prek ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presko&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump 
+</seg>
+pomeni narediti nenaden gib, ker nas je nekaj prestra&scaron;ilo ali presenetilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odsko&ccaron;iti, trzniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A sudden noise made me jump.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka koli&ccaron;ina ali raven 
+<seg type="lemma">
+jumps
+</seg>
+, se v kratkem &ccaron;asu mo&ccaron;no pove&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The population jumped to nearly 10,000.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a massive jump in expenditure.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump a queue 
+</seg>
+pomeni premakniti se na za&ccaron;etek vrste &ccaron;akajo&ccaron;ih, preden smo na vrsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vriniti se, zriniti se naprej
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep one jump ahead of an opponent or rival 
+</seg>
+pomeni, da se nam vedno posre&ccaron;i biti v bolj&scaron;em polo&zcaron;aju kot na&scaron; nasprotnik ali tekmec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti korak pred
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+jump the gun: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+gun
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+jump at.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To jump at an offer or opportunity 
+</seg>
+pomeni hlastno sprejeti ponudbo ali prilo&zcaron;nost, kakor hitro se nam ponudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgrabiti z obema rokama, pograbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He jumped at the idea.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

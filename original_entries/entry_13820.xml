@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stroll
+</orth>
+<form type="variant">
+<pron>
+/str*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+strolls, strolling, strolled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stroll somewhere 
+</seg>
+pomeni hoditi nekje po&ccaron;asi in spro&scaron;&ccaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprehajati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They strolled along the beach.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She decided to take a stroll in the garden.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

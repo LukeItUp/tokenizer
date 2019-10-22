@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p622_s682007" id="p622_w931" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="480.992" base="487.4" width="46.854" height="8.514">rectangular</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p622_s682008" id="p622_w932" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="303.45" y="482.238" base="487.4" width="36.4605" height="6.844">/rekt&#230;&#207;gj6</TOKEN>
+<TOKEN sid="p622_s682009" id="p622_w933" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="340.26" y="481.6" base="485.01" width="2.39636" height="4.52176">4</TOKEN>
+<TOKEN sid="p622_s682010" id="p622_w934" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="342.91" y="482.238" base="487.4" width="11.1016" height="6.844">l6/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p622_s682011" id="p622_w935" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="357.64" y="483.484" base="487.4" width="10.49" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p622_s682012" id="p622_w936" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="371.74" y="481.704" base="487.4" width="13.2566" height="7.552">Kar</TOKEN>
+<TOKEN sid="p622_s682013" id="p622_w937" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="388.627" y="481.704" base="487.4" width="6.02712" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p622_s682014" id="p622_w938" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.27" y="481.704" base="487.4" width="41.7514" height="7.552">rectangular,</TOKEN>
+</seg>
+<TOKEN sid="p622_s682015" id="p622_w939" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="490.784" base="496.48" width="12.7987" height="7.552">ima</TOKEN>
+<TOKEN sid="p622_s682016" id="p622_w940" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.097" y="490.784" base="496.48" width="21.5928" height="7.552">obliko</TOKEN>
+<TOKEN sid="p622_s682017" id="p622_w941" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.379" y="490.784" base="496.48" width="47.9923" height="7.552">pravokotnika.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p622_s682019" id="p622_w943" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="351.99" y="490.784" base="496.48" width="40.8024" height="7.552">pravokoten;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p622_s682020" id="p622_w944" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.48" y="490.784" base="496.48" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p622_s682021" id="p622_w945" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="407.372" y="490.784" base="496.48" width="32.6462" height="7.552">rectangu-</TOKEN>
+<TOKEN sid="p622_s682022" id="p622_w946" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="499.864" base="505.56" width="9.59472" height="7.552">lar</TOKEN>
+<TOKEN sid="p622_s682023" id="p622_w947" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="270.204" y="499.864" base="505.56" width="38.1643" height="7.552">flower-bed.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

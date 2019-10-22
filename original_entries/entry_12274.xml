@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+saddle
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;d@0l/
+</pron>
+</form>
+<form type="inflected">
+saddles, saddling, saddled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A saddle 
+</seg>
+je usnjen sede&zcaron;, na katerem sedimo, ko jahamo konja ali drugo &zcaron;ival. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sedlo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jennifer swung herself into the saddle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A saddle 
+</seg>
+je tudi sede&zcaron; na kolesu ali motorju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sede&zcaron;
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To saddle a horse or pony 
+</seg>
+pomeni dati sedlo na konja ali ponija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osedlati
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+saddle up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To saddle up 
+</seg>
+pomeni dati sedlo na konja ali ponija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osedlati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saddled up and rode off.
+</quote>
+<quote>
+He went out to saddle up his horse.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+saddle with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To saddle someone with a problem or responsibility 
+</seg>
+pomeni nekoga postaviti v polo&zcaron;aj, ko mora re&scaron;evati te&zcaron;avo ali nositi odgovornost za kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obremeniti, nalo&zcaron;iti breme ali odgovornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The last thing I want is to saddle myself with a second mortgage.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

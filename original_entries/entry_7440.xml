@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infertile
+</orth>
+<form type="variant">
+<pron>
+/Inf*$e*:taIl/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+infertile
+</seg>
+, ne more imeti otrok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neploden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She learned she was infertile.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infertility
+</orth>
+<form type="variant">
+<pron>
+/*Inf$e:t*IlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an infertility clinic.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zemlja, ki je 
+<seg type="lemma">
+infertile
+</seg>
+, je slabe kakovosti, zato rastline v njej ne morejo dobro uspevati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nerodoviten
+</quote>
+</cit>
+</sense>
+</entry>

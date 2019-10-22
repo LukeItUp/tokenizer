@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disarm
+</orth>
+<form type="variant">
+<pron>
+/dIs*A*:m/
+</pron>
+</form>
+<form type="inflected">
+disarms, disarming, disarmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To disarm someone 
+</seg>
+pomeni nekomu odvzeti oro&zcaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razoro&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The officer captured and disarmed the two men.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neka dr&zcaron;ava 
+<seg type="lemma">
+disarms
+</seg>
+, uni&ccaron;i nekaj svojega oro&zcaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razoro&zcaron;iti se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To disarm someone 
+</seg>
+pomeni tudi povzro&ccaron;iti, da nekdo ob&ccaron;uti manj jeze ali sovra&scaron;tva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razoro&zcaron;iti, pomiriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were so kind that it surprised and disarmed her.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disarming
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a disarming smile.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stare
+</orth>
+<form type="variant">
+<pron>
+/st*e*@/
+</pron>
+</form>
+<form type="inflected">
+stares, staring, stared.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stare at something 
+</seg>
+pomeni nekaj dolgo &ccaron;asa gledati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strmeti, zijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stared at us in disbelief.
+</quote>
+<quote>
+She sat there quietly, staring out of the window.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a dreamy stare.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,364 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+press
+</orth>
+<form type="variant">
+<pron>
+/pr*es/
+</pron>
+</form>
+<form type="inflected">
+presses, pressing, pressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press one thing against another 
+</seg>
+pomeni potisniti eno stvar ob neko drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisniti, stisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Stroganov pressed his hand to his heart.
+</quote>
+<quote>
+The animal presses itself against a tree trunk.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press a button or switch 
+</seg>
+pomeni potisniti gumb ali stikalo s prstom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Carstairs pressed an electric bell.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+All this can be called up at the press of a button.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press on something
+</seg>
+ ali 
+<seg type="lemma">
+to press something 
+</seg>
+pomeni potisniti nekaj z roko ali nogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pressed down upon the velvet cloth.
+</quote>
+<quote>
+...pressing the mattress with his fingers.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press clothes 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+to iron
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+likati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He always pressed his trousers before wearing them.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press for something 
+</seg>
+pomeni zelo se truditi, da bi nekoga prepri&ccaron;ali, naj nam nekaj da. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajno zahtevati ali prositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pressed for full public ownership.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press someone 
+</seg>
+pomeni zelo se truditi, da bi nekoga prepri&ccaron;ali, naj nekaj naredi ali re&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregovarjati, pritiskati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pressed me to have a cup of coffee with him.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press something on someone 
+</seg>
+pomeni vztrajati, naj nekdo nekaj vzame. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsiljevati, vsiljivo ponujati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His aunt was pressing upon him cups of tea and cookies.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To press charges against someone 
+</seg>
+pomeni nekoga uradno obto&zcaron;iti ne&ccaron;esa, o &ccaron;emer mora potem razsoditi sodi&scaron;&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti to&zcaron;bo proti komu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They decided against pressing charges.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+the Press 
+</seg>
+se nana&scaron;a na &ccaron;asopise ali novinarje, ki ustvarjajo &ccaron;asopise. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tisk, &ccaron;asopisi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an amusing story in the press.
+</quote>
+<quote>
+I got to know a lot of the American press.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A printing press 
+</seg>
+je stroj, ki se uporablja za tiskanje knjig, &ccaron;asopisov in letakov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiskarski stroj
+</quote>
+</cit>
+</sense>
+<sense n="11">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+pressed, 
+</ref>
+<ref>
+pressing
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+press on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To press on 
+</seg>
+pomeni kljub te&zcaron;avam nadaljevati nekaj, kar delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati pri, nadaljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They courageously pressed on with their vital repair work.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

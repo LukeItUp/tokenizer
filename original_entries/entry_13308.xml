@@ -1,0 +1,186 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sort
+</orth>
+<form type="variant">
+<pron>
+/s*O*:t/
+</pron>
+</form>
+<form type="inflected">
+sorts, sorting, sorted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular sort of something 
+</seg>
+je eden izmed ve&ccaron; tipov ali skupin ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What sort of iron did she get?&rsquo;&mdash;&lsquo;A steam iron.&rsquo;
+</quote>
+<quote>
+...a rock plant of some sort.
+</quote>
+<quote>
+There were five different sorts of biscuits.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sort things 
+</seg>
+pomeni razvrstiti stvari v skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvrstiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Minnie was in the office, sorting mail.
+</quote>
+<quote>
+They had got mixed up and needed to be sorted into three sets.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+sort of 
+</seg>
+uporabimo, kadar nekaj opi&scaron;emo samo pribli&zcaron;no; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+neke vrste, nekak&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was wearing a sort of velvet dress.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+of sorts 
+</seg>
+ozna&ccaron;ujemo tisto, kar ni preve&ccaron; kakovostno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekak&scaron;en, ne kdove kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cleaning a carpet of sorts.
+</quote>
+<quote>
+Farlow was a lawyer of sorts.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekdo po&ccaron;uti 
+<seg type="lemma">
+out of sorts
+</seg>
+, se ne po&ccaron;uti preve&ccaron; dobro ali pa je nezadovoljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nerazpolo&zcaron;en, slabe volje
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sort out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To sort out a group of things 
+</seg>
+pomeni urediti skupino stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvrstiti, urediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It took a while to sort out all our luggage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To sort out a problem 
+</seg>
+pomeni lotiti se te&zcaron;ave in najti re&scaron;itev zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urediti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p384_s420396" id="p384_w195" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="317.582" base="323.99" width="42.8526" height="8.514">ineffectual</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p384_s420397" id="p384_w196" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="100.97" y="318.828" base="323.99" width="32.3995" height="6.844">/ËnËfektÄÍ</TOKEN>
+<TOKEN sid="p384_s420398" id="p384_w197" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="133.71" y="318.19" base="321.6" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p384_s420399" id="p384_w198" font-name="SLExcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="136.34" y="320.524" base="323.99" width="11.0516" height="3.51625">6l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p384_s420400" id="p384_w199" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="151" y="320.074" base="323.99" width="10.4702" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p384_s420401" id="p384_w200" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.06" y="318.294" base="323.99" width="13.2149" height="7.552">Kar</TOKEN>
+<TOKEN sid="p384_s420402" id="p384_w201" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.884" y="318.294" base="323.99" width="6.00624" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p384_s420403" id="p384_w202" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.5" y="318.294" base="323.99" width="38.4818" height="7.552">ineffectual,</TOKEN>
+</seg>
+<TOKEN sid="p384_s420404" id="p384_w203" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="233.59" y="318.294" base="323.99" width="8.00784" height="7.552">ne</TOKEN>
+<TOKEN sid="p384_s420405" id="p384_w204" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="327.374" base="333.07" width="21.8952" height="7.552">dose`e</TOKEN>
+<TOKEN sid="p384_s420406" id="p384_w205" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.5747" y="327.374" base="333.07" width="24.0984" height="7.552">tistega,</TOKEN>
+<TOKEN sid="p384_s420407" id="p384_w206" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.173" y="327.374" base="333.07" width="11.3976" height="7.552">kar</TOKEN>
+<TOKEN sid="p384_s420408" id="p384_w207" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.07" y="327.374" base="333.07" width="6.696" height="7.552">bi</TOKEN>
+<TOKEN sid="p384_s420409" id="p384_w208" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.266" y="327.374" base="333.07" width="25.4016" height="7.552">moralo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p384_s420411" id="p384_w210" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.94" y="327.374" base="333.07" width="41.292" height="7.552">neu~inkovit,</TOKEN>
+<TOKEN sid="p384_s420412" id="p384_w211" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.732" y="327.374" base="333.07" width="35.8848" height="7.552">neuspe{en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p384_s420413" id="p384_w212" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="336.454" base="342.15" width="42.7738" height="7.552">…ineffectual</TOKEN>
+<TOKEN sid="p384_s420414" id="p384_w213" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="104.534" y="336.454" base="342.15" width="27.8266" height="7.552">policies.</TOKEN>
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+<TOKEN sid="p384_s420416" id="p384_w215" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.09" y="336.454" base="342.15" width="41.7614" height="7.568">ineffectually</TOKEN>
+</orth>
+<gramGrp>
+<pos>
+<TOKEN sid="p384_s420417" id="p384_w216" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="183.48" y="338.234" base="342.15" width="11.5305" height="5.192">ADV</TOKEN>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+<TOKEN sid="p384_s420418" id="p384_w217" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="196.59" y="336.454" base="342.15" width="27.8712" height="7.552">…trying</TOKEN>
+<TOKEN sid="p384_s420419" id="p384_w218" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.039" y="336.454" base="342.15" width="15.5606" height="7.552">inef-</TOKEN>
+<TOKEN sid="p384_s420420" id="p384_w219" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="345.524" base="351.22" width="29.5934" height="7.552">fectually</TOKEN>
+<TOKEN sid="p384_s420421" id="p384_w220" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.7738" y="345.524" base="351.22" width="6.80328" height="7.552">to</TOKEN>
+<TOKEN sid="p384_s420422" id="p384_w221" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.577" y="345.524" base="351.22" width="19.1923" height="7.552">brush</TOKEN>
+<TOKEN sid="p384_s420423" id="p384_w222" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.77" y="345.524" base="351.22" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p384_s420424" id="p384_w223" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.568" y="345.524" base="351.22" width="15.1978" height="7.552">mud</TOKEN>
+<TOKEN sid="p384_s420425" id="p384_w224" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.766" y="345.524" base="351.22" width="8.57736" height="7.552">off</TOKEN>
+<TOKEN sid="p384_s420426" id="p384_w225" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.344" y="345.524" base="351.22" width="9.99216" height="7.552">his</TOKEN>
+<TOKEN sid="p384_s420427" id="p384_w226" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.336" y="345.524" base="351.22" width="22.7981" height="7.552">jacket.</TOKEN>
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

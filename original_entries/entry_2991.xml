@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+convince
+</orth>
+<form type="variant">
+<pron>
+/k@7nv*Ins/
+</pron>
+</form>
+<form type="inflected">
+convinces, convincing, convinced.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To convince someone of something 
+</seg>
+pomeni nekoga prepri&ccaron;ati, da je nekaj resni&ccaron;no ali da obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregovoriti, prepri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It took them a few days to convince me that it was possible.
+</quote>
+<quote>
+This had convinced her of the problems.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+convinced
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was convinced that her mother was innocent.
+</quote>
+<quote>
+I am convinced of your loyalty.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

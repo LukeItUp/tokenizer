@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+explain
+</orth>
+<form type="variant">
+<pron>
+/I2kspl*e*In/
+</pron>
+</form>
+<form type="inflected">
+explains, explaining, explained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To explain something 
+</seg>
+pomeni navesti podrobnosti o ne&ccaron;em, da je tisto mogo&ccaron;e razumeti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlo&zcaron;iti, pojasniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+John went on to explain the legal situation.
+</quote>
+<quote>
+I explained that I was trying to write a book.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To explain something that has happened 
+</seg>
+pomeni povedati razloge za nekaj, kar se je zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojasniti, obrazlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He never wrote to me to explain his decision.
+</quote>
+</seg>
+</sense>
+</entry>

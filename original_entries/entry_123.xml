@@ -11,29 +11,29 @@ acknowledgement
 <form type="inflected">
 acknowledgements;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-acknowledgment.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+acknowledgment
+</SV>
+. 
+</SN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-or
+or 
 </seg>
 COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Acknowledgement of something
+Acknowledgement of something 
 </seg>
-pomeni, da
-smo priznali, da je tisto res.
+pomeni, da smo priznali, da je tisto res.
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -57,10 +57,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Acknowledgement
+Acknowledgement 
 </seg>
-je izraz hvale&#382;nosti za
-nekaj, kar nam je nekdo storil ali rekel.
+je izraz hvale&zcaron;nosti za nekaj, kar nam je nekdo storil ali rekel. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -81,10 +80,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Acknowledgement of someone
+Acknowledgement of someone 
 </seg>
-pomeni, da smo
-tistega &#269;loveka videli in prepoznali.
+pomeni, da smo tistega &ccaron;loveka videli in prepoznali. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -100,20 +98,18 @@ One of the men raised an arm in acknowledgement.
 <sense n="4">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-or
+or 
 </seg>
 COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Acknowledgement of a message, letter, or
-parcel
+Acknowledgement of a message, letter, or parcel
 </seg>
-pove po&#353;iljatelju, da je naslovnik prejel njegovo sporo&#269;ilo, pismo
-ali paket.
+ pove po&scaron;iljatelju, da je naslovnik prejel njegovo sporo&ccaron;ilo, pismo ali paket. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -135,10 +131,9 @@ PLURAL N
 <def xml:lang="sl">
 V knjigi so
 <seg type="lemma">
-the acknowledgements
+ the acknowledgements 
 </seg>
-avtorjeve
-zahvale ljudem, ki so mu pomagali.
+avtorjeve zahvale ljudem, ki so mu pomagali. 
 </def>
 <cit type="translationEquivalent">
 <quote>

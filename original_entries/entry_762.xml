@@ -5,7 +5,7 @@ aspect
 </orth>
 <form type="variant">
 <pron>
-/*#ae;spekt/
+/*&ae;spekt/
 </pron>
 </form>
 <form type="inflected">
@@ -15,19 +15,18 @@ aspects.
 <sense n="1">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An aspect of something
+An aspect of something 
 </seg>
-je del narave ali
-zna&#269;aja ne&#269;esa.
+je del narave ali zna&ccaron;aja ne&ccaron;esa. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -43,23 +42,22 @@ The most terrifying aspect of nuclear bombing is radiation.
 <sense n="2">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Soba ali okno, ki ima dolo&#269;eni
+Soba ali okno, ki ima dolo&ccaron;eni 
 <seg type="lemma">
 aspect
 </seg>
-je
-obrnjeno v tisto smer;
+, je obrnjeno v tisto smer; 
 </def>
 <usg>
-knji&#382;na raba.
+knji&zcaron;na raba.
 </usg>
 <cit type="translationEquivalent">
 <quote>

@@ -1,0 +1,320 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pack
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+packs, packing, packed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+packs
+</seg>
+, zlaga svoje stvari v kov&ccaron;ek ali torbo, ker odhaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pakirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went into the bedroom to pack.
+</quote>
+<quote>
+He packed his bags and left.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+packing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Have you started your packing?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izdelki so 
+<seg type="lemma">
+packed
+</seg>
+, &ccaron;e jih damo v posodo ali ovoj, da jih lahko preva&zcaron;amo ali prena&scaron;amo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pakiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the wooden boxes in which the eggs were packed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so ljudje ali stvari 
+<seg type="lemma">
+packed into a place
+</seg>
+, jih je toliko, da je prostor popolnoma poln. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natrpan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+About 300 of us were packed into a half-built mansion.
+</quote>
+<quote>
+Thirty thousand people packed into the stadium to hear him.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pack 
+</seg>
+je druga beseda za 
+<seg type="lemma">
+a rucksack
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nahrbtnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pulled a plastic bag out of his pack.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pack of things 
+</seg>
+je manj&scaron;i zavitek tistih stvari; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zavoj&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pack of cigarettes.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pack of playing cards 
+</seg>
+so vse igralne karte, potrebne za neko igro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komplet
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pack of wolves or dogs 
+</seg>
+je skupina volkov ali psov, ki lovijo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krdelo
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+packed, 
+</ref>
+<ref>
+packing case
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pack in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+packs something in
+</seg>
+, neha delati tisto; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s a good job. I don&apos;t think he&apos;d pack it in.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pack off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+packs someone off somewhere
+</seg>
+, tistega &ccaron;loveka nekam po&scaron;lje; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poslati, &lsquo;odpremiti&rsquo;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They pack their sons off to boarding school.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+pack up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+packs up one&apos;s belongings
+</seg>
+, svoje stvari zlo&zcaron;i v kov&ccaron;ek ali torbo, ker odhaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spakirati, pospraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We packed up the things I had accumulated.
+</quote>
+<quote>
+Once term finishes we all pack up and go home.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

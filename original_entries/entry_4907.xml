@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+example
+</orth>
+<form type="variant">
+<pron>
+/I2gz*A*:mp@0l/
+</pron>
+</form>
+<form type="inflected">
+examples.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An example 
+</seg>
+je tisto, kar zastopa ali je zna&ccaron;ilno za dolo&ccaron;eno skupino stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+primer, vzorec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It's a very fine example of traditional architecture.
+</quote>
+<quote>
+Could you give me an example?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekdo 
+<seg type="lemma">
+an example to other people 
+</seg>
+ali 
+<seg type="lemma">
+sets an example
+</seg>
+, se vede na na&ccaron;in, ki bi ga morali drugi posnemati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgled, vzor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are a shining example to progressive people everywhere.
+</quote>
+<quote>
+She set such a good example to us all.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+for example 
+</seg>
+povemo, da navajamo zgled dolo&ccaron;ene vrste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na primer, denimo, recimo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Japan, for example, has two languages.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To follow someone's example 
+</seg>
+pomeni posnemati ved&ecirc;nje nekega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posnemati
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

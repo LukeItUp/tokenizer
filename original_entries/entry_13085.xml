@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleeve
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:v/
+</pron>
+</form>
+<form type="inflected">
+sleeves.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sleeves of a garment 
+</seg>
+sta dela obla&ccaron;ila, ki pokrivata roke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rokav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a yellow dress with short sleeves.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sleeve 
+</seg>
+je &ccaron;vrsta ovojnica, s katero je zavarovana gramofonska plo&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ovitek
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have something up one&apos;s sleeve 
+</seg>
+pomeni imeti zamisel ali na&ccaron;rt, o katerem nismo &scaron;e nikomur povedali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti skrito karto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She thought the old man had some clever trick up his sleeve.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

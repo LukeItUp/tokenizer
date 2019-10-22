@@ -1,0 +1,122 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+expose
+</orth>
+<form type="variant">
+<pron>
+/eksp*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+exposes, exposing, exposed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To expose something 
+</seg>
+pomeni nekaj razkriti in napraviti vidno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkriti, razgaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rocks are exposed at low tide.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be exposed to something dangerous 
+</seg>
+pomeni biti postavljen v polo&zcaron;aj, ki nam lahko &scaron;koduje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpostaviti; izpostavljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had been exposed to radiation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To expose someone 
+</seg>
+pomeni odkriti resnico o nekom, zlasti kadar gre za nepo&scaron;teno ali nespodobno ved&ecirc;nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkrinkati, kompromitirati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kraj, ki je 
+<seg type="lemma">
+exposed
+</seg>
+, je brez naravne za&scaron;&ccaron;ite pred slabim vremenom ali sovra&zcaron;niki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezavarovan, izpostavljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a very exposed position.
+</quote>
+</seg>
+</sense>
+</entry>

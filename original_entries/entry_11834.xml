@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rent
+</orth>
+<form type="variant">
+<pron>
+/r*ent/
+</pron>
+</form>
+<form type="inflected">
+rents, renting, rented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rent something 
+</seg>
+pomeni lastniku ne&ccaron;esa redno pla&ccaron;evati dogovorjene zneske zato, da tisto lahko uporabljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They rented a villa not far from Rome.
+</quote>
+<quote>
+He rented a colour TV soon after moving in.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rented
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a rented flat.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rent 
+</seg>
+je znesek, ki ga redno pla&ccaron;ujemo za uporabo hi&scaron;e, stanovanja ali zemlji&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najemnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made enough money to pay the rent.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rent out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rent out something 
+</seg>
+pomeni, da v zameno za pla&ccaron;ilo drugim dovolimo uporabljati svojo lastnino, na primer sobo ali avto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddajati, dati v najem
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

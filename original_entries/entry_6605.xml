@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+headache
+</orth>
+<form type="variant">
+<pron>
+/h*edeIk/
+</pron>
+</form>
+<form type="inflected">
+headaches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a headache 
+</seg>
+pomeni &ccaron;utiti bole&ccaron;ino v glavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glavobol
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a headache
+</seg>
+, nam povzro&ccaron;a te&zcaron;ave ali skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rivalry between the two industries presents a big headache for government.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+relieve
+</orth>
+<form type="variant">
+<pron>
+/rI1l*i*:v/
+</pron>
+</form>
+<form type="inflected">
+relieves, relieving, relieved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+relieves an unpleasant feeling
+</seg>
+, deluje tako, da je neprijetni ob&ccaron;utek manj neprijeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The passengers in the plane swallow to relieve the pressure on their eardrums.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+relieves someone of an unpleasant feeling or a difficulty
+</seg>
+, odstrani neprijeten ob&ccaron;utek ali te&zcaron;avo, ki je mu&ccaron;ila tistega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&scaron;iti, razbremeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The news relieved him of some of his embarrassment.
+</quote>
+</seg>
+</sense>
+</entry>

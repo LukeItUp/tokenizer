@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+confess
+</orth>
+<form type="variant">
+<pron>
+/k@7nf*es/
+</pron>
+</form>
+<form type="inflected">
+confesses, confessing, confessed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To confess something 
+</seg>
+pomeni priznati nekaj, &ccaron;esar se sramujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati, izpovedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Perhaps I shouldn't confess this, but I did on one occasion forge Tony's signature.
+</quote>
+<quote>
+I confess to a certain weakness for puddings.
+</quote>
+<quote>
+He once confessed to Vita that he really hated parties
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To confess to a crime 
+</seg>
+pomeni priznati, da smo zagre&scaron;ili zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bianchi had confessed to five of the murders.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disillusion
+</orth>
+<form type="variant">
+<pron>
+/d*Is@1l*u*:Z@0n/
+</pron>
+</form>
+<form type="inflected">
+disillusions, disillusioning, disillusioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+disillusions someone
+</seg>
+, nekoga pripravi do spoznanja, da nekaj ni tako dobro, kot je mislil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razo&ccaron;arati, strezniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were bitterly disillusioned by the performance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disillusioned
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My father was thoroughly disillusioned with me.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+disillusioning
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Disillusion 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+disillusionment
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razo&ccaron;aranje, streznitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...her growing disillusion with her husband.
+</quote>
+</seg>
+</sense>
+</entry>

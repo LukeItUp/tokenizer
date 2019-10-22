@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+defect,
+</orth>
+<form type="inflected">
+defects, defecting, defected;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/d*i*:fekt/
+</pron>
+, glagol pa 
+<pron>
+/di1f*ekt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A defect 
+</seg>
+je napaka ali nepopolnost neke osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napaka, hiba
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To defect 
+</seg>
+pomeni zapustiti domovino, politi&ccaron;no stranko ali kak&scaron;no drugo skupino in se pridru&zcaron;iti neki drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Several of the Labour MPs defected to the new party.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+defection
+</orth>
+<form type="variant">
+<pron>
+/di1f*ekS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The number of defections has increased in recent years.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+defector
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...defectors from the Liberal Party.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

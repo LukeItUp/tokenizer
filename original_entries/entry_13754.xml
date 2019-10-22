@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stow
+</orth>
+<form type="variant">
+<pron>
+/st*@*U/
+</pron>
+</form>
+<form type="inflected">
+stows, stowing, stowed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stow something somewhere 
+</seg>
+ali 
+<seg type="variant">
+to stow something away 
+</seg>
+pomeni nekaj previdno nekam polo&zcaron;iti, dokler tistega ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospraviti, dati na stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She stowed the bags in two baskets.
+</quote>
+<quote>
+His baggage was safely stowed away in the plane.
+</quote>
+</seg>
+</sense>
+</entry>

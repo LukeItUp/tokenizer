@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fraction
+</orth>
+<form type="variant">
+<pron>
+/fr*&ae;kS@0n/
+</pron>
+</form>
+<form type="inflected">
+fractions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Majhno koli&ccaron;ino ali del ne&ccaron;esa lahko imenujemo 
+<seg type="lemma">
+a fraction of something
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+del&ccaron;ek, odlomek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For a fraction of a second, I hesitated.
+</quote>
+<quote>
+The door opened a fraction.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fraction 
+</seg>
+v aritmetiki je natan&ccaron;na delitev &scaron;tevila. Na primer, *41/2 in *41/3 sta 
+<seg type="variant">
+fractions of 1
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ulomek
+</quote>
+</cit>
+</sense>
+</entry>

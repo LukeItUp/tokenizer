@@ -1,0 +1,160 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+leak
+</orth>
+<form type="variant">
+<pron>
+/l*i*:k/
+</pron>
+</form>
+<form type="inflected">
+leaks, leaking, leaked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar posoda ali kak drug predmet 
+<seg type="lemma">
+leaks
+</seg>
+, je v njem luknja ali razpoka, skozi katero uhaja teko&ccaron;ina ali plin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pu&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The roof leaks.
+</quote>
+<quote>
+...leaking drain pipes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I fixed a small leak in the roof of her shed.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina ali plin 
+<seg type="lemma">
+leaks through an object 
+</seg>
+ali 
+<seg type="lemma">
+leaks out of an object
+</seg>
+, uhaja skozi luknjo ali razpoko v predmetu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+curljati, uhajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The water was still slowly leaking out.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There&apos;s been a gas leak.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To leak a piece of secret information 
+</seg>
+pomeni druge obvestiti o dolo&ccaron;enem skrivnem podatku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made sure the story was leaked to the media.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the possibility of a security leak.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+leak out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar podatki, ki jih &zcaron;elimo ohraniti tajne, 
+<seg type="lemma">
+leak out
+</seg>
+, zanje izvedo drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti na dan, razvedeti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

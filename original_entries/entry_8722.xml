@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+market
+</orth>
+<form type="variant">
+<pron>
+/m*A*:kIt/
+</pron>
+</form>
+<form type="inflected">
+markets, marketing, marketed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A market 
+</seg>
+je kraj, kjer ve&ccaron;je &scaron;tevilo ljudi prodaja pridelke, &zcaron;ivali in blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tr&zcaron;nica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These women sell fish in the markets.
+</quote>
+<quote>
+...a cattle market.
+</quote>
+<quote>
+...a market stall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The market for a product 
+</seg>
+je &scaron;tevilo ljudi, ki ho&ccaron;ejo kupiti dolo&ccaron;en izdelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tr&zcaron;i&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the declining commercial vehicle market.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To market a product 
+</seg>
+pomeni prodajati izdelek na organiziran na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati na tr&zcaron;i&scaron;&ccaron;e, prodajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The felt-tip pen was first marketed by a Japanese firm.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+marketing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the importance of effective marketing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+on the market
+</seg>
+, je na voljo ljudem, da tisto lahko kupijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na tr&zcaron;i&scaron;&ccaron;u, v prodaji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s one of the slowest cars on the market.
+</quote>
+<quote>
+It&apos;s been on the market for three years.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+black market
+</ref>
+</xr>
+</sense>
+</entry>

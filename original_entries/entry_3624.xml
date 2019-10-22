@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+delicious
+</orth>
+<form type="variant">
+<pron>
+/dI2l*IS@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Hrana, ki je 
+<seg type="lemma">
+delicious
+</seg>
+, ima zelo prijeten okus. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slasten, okusen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a delicious cake.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ob&ccaron;utek, ki je 
+<seg type="lemma">
+delicious
+</seg>
+, je izjemno prijeten; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+krasen, prijeten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a delicious feeling.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deliciously
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The sun felt deliciously warm.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

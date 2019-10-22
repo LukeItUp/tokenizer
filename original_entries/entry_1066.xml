@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+barber
+</orth>
+<form type="variant">
+<pron>
+/b*A*:b@/
+</pron>
+</form>
+<form type="inflected">
+barbers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A barber 
+</seg>
+je &ccaron;lovek, ki mo&scaron;ke stri&zcaron;e ali brije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brivec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Briv&ccaron;eva delavnica se imenuje 
+<seg type="lemma">
+the barber's
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brivnica
+</quote>
+</cit>
+</sense>
+</entry>

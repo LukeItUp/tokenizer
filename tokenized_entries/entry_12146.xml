@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p651_s713676" id="p651_w36" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="108.772" base="115.18" width="30.3901" height="8.514">rooftop</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p651_s713677" id="p651_w37" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="89.41" y="110.018" base="115.18" width="32.1316" height="6.844">/ru&#194;ft&#201;p/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p651_s713678" id="p651_w38" font-name="SSUnivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="123.84" y="109.84" base="115.18" width="28.8589" height="7.08">rooftops.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p651_s713679" id="p651_w39" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="155.01" y="111.264" base="115.18" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p651_s713680" id="p651_w40" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="175.571" y="111.264" base="115.18" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p651_s713681" id="p651_w41" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="182" y="109.484" base="115.18" width="30.4006" height="7.552">Rooftops</TOKEN>
+</seg>
+<TOKEN sid="p651_s713682" id="p651_w42" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="214.7" y="109.484" base="115.18" width="7.19928" height="7.552">so</TOKEN>
+<TOKEN sid="p651_s713683" id="p651_w43" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.21" y="109.484" base="115.18" width="19.5955" height="7.552">zuna-</TOKEN>
+<TOKEN sid="p651_s713684" id="p651_w44" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="118.564" base="124.26" width="10.3939" height="7.552">nje</TOKEN>
+<TOKEN sid="p651_s713685" id="p651_w45" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="74.7826" y="118.564" base="124.26" width="19.9872" height="7.552">strani</TOKEN>
+<TOKEN sid="p651_s713686" id="p651_w46" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.7686" y="118.564" base="124.26" width="19.049" height="7.552">streh.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p651_s713688" id="p651_w48" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="124.05" y="118.564" base="124.26" width="23.0508" height="7.552">streha;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p651_s713689" id="p651_w49" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.1" y="118.564" base="124.26" width="11.2025" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p651_s713690" id="p651_w50" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.303" y="118.564" base="124.26" width="15.9962" height="7.552">view</TOKEN>
+<TOKEN sid="p651_s713691" id="p651_w51" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="180.299" y="118.564" base="124.26" width="14.801" height="7.552">over</TOKEN>
+<TOKEN sid="p651_s713692" id="p651_w52" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.1" y="118.564" base="124.26" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p651_s713693" id="p651_w53" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.899" y="118.564" base="124.26" width="32.657" height="7.552">roof-tops.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

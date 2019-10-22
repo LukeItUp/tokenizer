@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p330_s361824" id="p330_w206" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="263.112" base="269.52" width="25.6415" height="8.514">grotto</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p330_s361825" id="p330_w207" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="82.03" y="264.358" base="269.52" width="29.8016" height="6.844">/gr&#201;t6&#205;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p330_s361826" id="p330_w208" font-name="SSUnivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="113.7" y="264.18" base="269.52" width="26.6125" height="7.08">grottoes</TOKEN>
+<IS>
+<TOKEN sid="p330_s361827" id="p330_w209" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="142.07" y="263.824" base="269.52" width="8.7912" height="7.552">ali</TOKEN>
+</IS>
+<IV>
+<TOKEN sid="p330_s361828" id="p330_w210" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="152.74" y="264.18" base="269.52" width="24.7408" height="7.08">grottos.</TOKEN>
+</IV>
+<TOKEN sid="p330_s361829" id="p330_w211" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="179.35" y="265.604" base="269.52" width="18.9714" height="5.192">COUNT</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p330_s361830" id="p330_w212" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="199.601" y="265.604" base="269.52" width="4.12335" height="5.192">N</TOKEN>
+<TOKEN sid="p330_s361831" id="p330_w213" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.6" y="263.824" base="269.52" width="5.6016" height="7.552">A</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p330_s361832" id="p330_w214" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.07" y="263.824" base="269.52" width="20.6676" height="7.552">grotto</TOKEN>
+<TOKEN sid="p330_s361833" id="p330_w215" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.6" y="263.824" base="269.52" width="6.00048" height="7.552">je</TOKEN>
+</seg>
+<TOKEN sid="p330_s361834" id="p330_w216" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="272.904" base="278.6" width="27.6005" height="7.552">majhna,</TOKEN>
+<TOKEN sid="p330_s361835" id="p330_w217" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="89.7808" y="272.904" base="278.6" width="31.1998" height="7.552">zanimiva</TOKEN>
+<TOKEN sid="p330_s361836" id="p330_w218" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.981" y="272.904" base="278.6" width="18.8035" height="7.552">jama.</TOKEN>
+<TOKEN sid="p330_s361838" id="p330_w220" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.01" y="272.904" base="278.6" width="16.8005" height="7.552">jama</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p330_s361839" id="p330_w221" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="281.262" base="287.67" width="25.1712" height="8.514">grotty</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

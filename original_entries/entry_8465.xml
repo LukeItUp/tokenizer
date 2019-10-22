@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lookout
+</orth>
+<form type="variant">
+<pron>
+/l*UkaUt/
+</pron>
+</form>
+<form type="inflected">
+lookouts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lookout 
+</seg>
+je kraj, s katerega jasno vidimo v vse smeri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razgledna to&ccaron;ka, opazovalnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lookout platform.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lookout 
+</seg>
+je tudi oseba, ki opreza za nevarnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paznik, stra&zcaron;ar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two of the burglars were tipped off by a lookout and escaped.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on the lookout for something
+</seg>
+, opreza za ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m on the lookout for a second-hand car.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

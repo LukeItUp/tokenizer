@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+individual
+</orth>
+<form type="variant">
+<pron>
+/*IndIv*IdjU0@l/
+</pron>
+</form>
+<form type="inflected">
+individuals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Individual 
+</seg>
+pomeni povezan z eno osebo ali stvarjo in ne z ve&ccaron;jo skupino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oseben, posamezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...individual tuition.
+</quote>
+<quote>
+We can identify each individual whale by its song.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+individually
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Each fruit should be wrapped individually in paper.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An individual 
+</seg>
+je oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posameznik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the freedom of the individual.
+</quote>
+</seg>
+</sense>
+</entry>

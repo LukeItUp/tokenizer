@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deaf
+</orth>
+<form type="variant">
+<pron>
+/d*ef/
+</pron>
+</form>
+<form type="inflected">
+deafer, deafest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+deaf
+</seg>
+, ni&ccaron; ne sli&scaron;i ali ne sli&scaron;i dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gluh; naglu&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a school for deaf children.
+</quote>
+<quote>
+He was very deaf.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deafness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They finally diagnosed her deafness when she was thirteen.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The deaf 
+</seg>
+so ljudje, ki so gluhi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gluhi
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be deaf to something 
+</seg>
+pomeni, da ne&ccaron;emu no&ccaron;emo posve&ccaron;ati pozornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gluh za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was deaf to the public&apos;s complaints.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn a deaf ear to something 
+</seg>
+pomeni ne zmeniti se za nekaj, kar je nekdo rekel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati se gluhega, ne usli&scaron;ati
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

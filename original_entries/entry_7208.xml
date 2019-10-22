@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+import,
+</orth>
+<form type="inflected">
+imports, importing, imported;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/Imp*O*:t/
+</pron>
+, samostalnik pa 
+<pron>
+/*ImpO:t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar blago ali usluge 
+<seg type="lemma">
+are imported
+</seg>
+, jih kupimo od podjetja v tujini in po&scaron;ljemo v svojo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uvoziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to import orchids to England.
+</quote>
+<quote>
+...imported sugar.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+importation
+</orth>
+<form type="variant">
+<pron>
+/*ImpO:t*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the illegal importation of drugs into Britain.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Imports 
+</seg>
+so izdelki ali surovine, prine&scaron;ene iz neke druge dr&zcaron;ave, da bi jih uporabljali v svoji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uvo&zcaron;eno blago
+</quote>
+</cit>
+</sense>
+</entry>

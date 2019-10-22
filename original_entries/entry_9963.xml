@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ought
+</orth>
+<form type="variant">
+<pron>
+/*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da &ccaron;lovek 
+<seg type="lemma">
+ought to do something
+</seg>
+ ali 
+<seg type="lemma">
+ought to have done something
+</seg>
+, izrazimo prepri&ccaron;anje, da bi bilo prav, da nekaj naredi, ali da je bilo prav, da je naredil tako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+morati, ne smeti (nik.)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She ought to see the doctor.
+</quote>
+<quote>
+&lsquo;I don&apos;t care,&rsquo; he said. &lsquo;Well, you ought to,&rsquo; she said.
+</quote>
+<quote>
+I ought to have said yes.
+</quote>
+<quote>
+I ought not to have come here.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekaj 
+<seg type="lemma">
+ought to be true
+</seg>
+, pri&ccaron;akujemo, da bo res tako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moralo bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It ought to be quite easy.
+</quote>
+<quote>
+He ought to be out of jail by now.
+</quote>
+</seg>
+</sense>
+</entry>

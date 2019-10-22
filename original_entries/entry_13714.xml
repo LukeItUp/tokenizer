@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stockpile
+</orth>
+<form type="variant">
+<pron>
+/st*QkpaIl/
+</pron>
+</form>
+<form type="inflected">
+stockpiles, stockpiling, stockpiled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stockpile things 
+</seg>
+pomeni spraviti veliko koli&ccaron;ino stvari za prihodnjo rabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopi&ccaron;iti zaloge ali rezerve
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a nation that stockpiled reserves of food.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stockpile 
+</seg>
+je velika zaloga ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloga, rezerva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a stockpile of nuclear weapons.
+</quote>
+</seg>
+</sense>
+</entry>

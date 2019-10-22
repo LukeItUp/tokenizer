@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sedate
+</orth>
+<form type="variant">
+<pron>
+/sI2d*e*It/
+</pron>
+</form>
+<form type="inflected">
+sedates, sedating, sedated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sedate
+</seg>
+, je miren, tih in precej dostojanstven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umirjen, trezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Irene was graver and more sedate.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sedately
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He walked sedately down the lane.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is sedated
+</seg>
+, dobi pomirjevalo, da se umiri ali zaspi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobiti pomirjevalo
+</quote>
+</cit>
+</sense>
+</entry>

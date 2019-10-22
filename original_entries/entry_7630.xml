@@ -1,0 +1,143 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intent
+</orth>
+<form type="variant">
+<pron>
+/Int*ent/
+</pron>
+</form>
+<form type="inflected">
+intents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s intent 
+</seg>
+je namen neke osebe, da bo nekaj storila; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+namera
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The conference declared its intent to organize a national movement.
+</quote>
+<quote>
+They signed a declaration of intent.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To look intent 
+</seg>
+pomeni kazati, da smo zelo pozorni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozoren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was brushing her hair, intent on her face in the mirror.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+intently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I stood behind a parked van, watching intently.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+intent on doing something
+</seg>
+, je odlo&ccaron;en, da bo nekaj storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;en, osredoto&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were intent on keeping what they had.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+to all intents and purposes 
+</seg>
+naka&zcaron;emo, da neke okoli&scaron;&ccaron;ine niso natan&ccaron;no take, kot jih opisujemo, njihov u&ccaron;inek pa je tak, kot da bi bile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tako reko&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was to all intents and purposes the infant&apos;s mother.
+</quote>
+</seg>
+</sense>
+</entry>

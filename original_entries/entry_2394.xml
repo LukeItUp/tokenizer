@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clang
+</orth>
+<form type="variant">
+<pron>
+/kl*&ae;N/
+</pron>
+</form>
+<form type="inflected">
+clangs, clanging, clanged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar veliki kovinski predmeti 
+<seg type="lemma">
+clang
+</seg>
+, ustvarjajo glasne, nizke zvoke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doneti, zveneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the sound of the bells clanging.
+</quote>
+<quote>
+She clanged the gates behind her.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The door opened with a heavy clang.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

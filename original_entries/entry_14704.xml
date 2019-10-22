@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tow
+</orth>
+<form type="variant">
+<pron>
+/t*@*U/
+</pron>
+</form>
+<form type="inflected">
+tows, towing, towed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar eno vozilo 
+<seg type="lemma">
+tows another vehicle
+</seg>
+, vle&ccaron;e drugo za seboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lorry towing a trailer of hay.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+If you can&apos;t get a tow, you&apos;ll have to walk.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor ima nekoga 
+<seg type="lemma">
+in tow
+</seg>
+, ima tisto osebo ob sebi, ker pazi nanjo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+s seboj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He arrived with his children in tow.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

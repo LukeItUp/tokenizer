@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+protest,
+</orth>
+<form type="inflected">
+protests, protesting, protested;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/pr@t*est/
+</pron>
+, samostalnik pa 
+<pron>
+/pr*@*Utest/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To protest about something 
+</seg>
+pomeni javno re&ccaron;i ali pokazati, da ne&ccaron;esa ne odobravamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugovarjati, protestirati, izraziti nestrinjanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Labour MPs took to the streets to protest against government economic policy.
+</quote>
+<quote>
+...a group protesting at official inaction.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+protester
+</orth>
+<form type="variant">
+<pron>
+/pr@t*est@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The protesters surrendered to the police after about an hour.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To protest that something is the case 
+</seg>
+pomeni vztrajati, da je nekaj res, &ccaron;eprav drugi mislijo, da morda ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugovarjati, vztrajno trditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They protested that they had never heard of him.
+</quote>
+<quote>
+&lsquo;You&apos;re wrong,&rsquo; I protested.
+</quote>
+<quote>
+The mother protested her innocence.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A protest 
+</seg>
+je dejanje, pri katerem javno povemo ali poka&zcaron;emo, da ne&ccaron;esa ne odobravamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugovor, protest
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They joined in the protests against the government&apos;s proposals.
+</quote>
+<quote>
+There was a wave of student riots, in protest at university conditions.
+</quote>
+</seg>
+</sense>
+</entry>

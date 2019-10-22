@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mute
+</orth>
+<form type="variant">
+<pron>
+/mj*u*:t/
+</pron>
+</form>
+<form type="inflected">
+mutes, muting, muted;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+mute
+</seg>
+, ne govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sally was staring at him, mute and awestruck.
+</quote>
+<quote>
+Fanny clasped her hands in mute protest.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mutes a noise or sound
+</seg>
+, poskrbi, da glas ali zvok postane ti&scaron;ji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+du&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had closed all the windows to mute the sounds from the town.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+muted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+People spoke in muted voices.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

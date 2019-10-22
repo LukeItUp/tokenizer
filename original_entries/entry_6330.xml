@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grope
+</orth>
+<form type="variant">
+<pron>
+/gr*@*Up/
+</pron>
+</form>
+<form type="inflected">
+gropes, groping, groped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grope for something 
+</seg>
+pomeni z rokami iskati nekaj, &ccaron;esar ne vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tipati, tipaje iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I groped for the timetable I had in my pocket.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grope one&apos;s way to a place 
+</seg>
+pomeni premakniti se na neki kraj, tako da otipavamo pot z rokami, ker ni&ccaron;esar ne vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretipati se kam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I groped my way out of bed and downstairs.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grope for something 
+</seg>
+pomeni poskusiti se ne&ccaron;esa domisliti, na primer re&scaron;itve problema, kadar sploh ne vemo, kak&scaron;na bi lahko bila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugibati, iskati na slepo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are groping for ways to get the communities together.
+</quote>
+</seg>
+</sense>
+</entry>

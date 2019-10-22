@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+recipe
+</orth>
+<form type="variant">
+<pron>
+/r*esIpi1/
+</pron>
+</form>
+<form type="inflected">
+recipes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A recipe 
+</seg>
+je seznam sestavin in navodila, kako iz teh sestavin pripravimo dolo&ccaron;eno jed. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+recept
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a recipe for beetroot soup.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za nekaj re&ccaron;emo, da je 
+<seg type="lemma">
+a recipe for disaster 
+</seg>
+ali 
+<seg type="lemma">
+a recipe for success
+</seg>
+, ho&ccaron;emo povedati, da bo najverjetneje pripeljalo do poloma oziroma uspeha. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+recept
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+capable
+</orth>
+<form type="variant">
+<pron>
+/k*e*Ip@b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+capable of doing something
+</seg>
+, je sposoben nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sposoben, pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man capable of killing.
+</quote>
+<quote>
+...a mind capable of original ideas.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+capable
+</seg>
+, ima sposobnost, da nekaj dobro naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sposoben, spreten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Basil proved a capable cricketer.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+capably
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a capably performed dance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

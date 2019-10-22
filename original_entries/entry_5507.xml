@@ -1,0 +1,108 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fluent
+</orth>
+<form type="variant">
+<pron>
+/fl*u*:@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+fluent in a foreign language
+</seg>
+, z lahkoto in pravilno govori tuj jezik ali pi&scaron;e v njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teko&ccaron;e obvladati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was fluent in Spanish.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fluently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He spoke both languages fluently.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+fluency
+</orth>
+<form type="variant">
+<pron>
+/fl*u*:@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She could speak German with great fluency.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba, katere govorjenje, branje ali pisanje je 
+<seg type="lemma">
+fluent
+</seg>
+, z lahkoto in jasno govori, bere ali pi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teko&ccaron;
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+fluently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+By the time she was six she could read fluently.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

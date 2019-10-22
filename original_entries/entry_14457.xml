@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thermometer
+</orth>
+<form type="variant">
+<pron>
+/T@m*QmIt@/
+</pron>
+</form>
+<form type="inflected">
+thermometers.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thermometer 
+</seg>
+je naprava za merjenje temperature v sobi ali telesne temperature. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+toplomer, termometer
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+The thermometer reads 92 degrees.
+</quote>
+</seg>
+</sense>
+</entry>

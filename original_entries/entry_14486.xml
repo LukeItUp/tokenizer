@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thirst
+</orth>
+<form type="variant">
+<pron>
+/T*$e*:st/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a thirst 
+</seg>
+pomeni &ccaron;utiti potrebo, da nekaj popijemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a terrible thirst.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Thirst 
+</seg>
+je stanje, ko nimamo dovolj teko&ccaron;ine, ki bi jo lahko popili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was dying of thirst.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thirst for something 
+</seg>
+je mo&ccaron;na &zcaron;elja, da bi nekaj imeli; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eja, po&zcaron;elenje, lakota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his thirst for knowledge.
+</quote>
+</seg>
+</sense>
+</entry>

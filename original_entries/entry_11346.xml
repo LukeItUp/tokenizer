@@ -1,0 +1,158 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+puzzle
+</orth>
+<form type="variant">
+<pron>
+/p*Vz@0l/
+</pron>
+</form>
+<form type="inflected">
+puzzles, puzzling, puzzled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+puzzles someone
+</seg>
+, nekoga zbega, ker tistega ne razume. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was one sentence which puzzled me deeply.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+puzzling
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I find this rather puzzling.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To puzzle over something 
+</seg>
+pomeni mo&ccaron;no se truditi, da bi na&scaron;li odgovor ali pojasnilo za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbijati si glavo, beliti si glavo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Astronomers had puzzled over these white ovals for some time.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A puzzle 
+</seg>
+je vpra&scaron;anje, igra ali igra&ccaron;a, pri kateri moramo dobro razmi&scaron;ljati, da pridemo do pravega odgovora ali da jo pravilno sestavimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uganka, kri&zcaron;anka, sestavljanka
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A puzzle 
+</seg>
+je tudi vse, kar te&zcaron;ko razumemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uganka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The motives of the film-makers remain a puzzle.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+puzzle out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To puzzle out a problem 
+</seg>
+pomeni mo&ccaron;no razmi&scaron;ljati o ne&ccaron;em in na koncu najti re&scaron;itev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvozlati, razre&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sat down and tried to puzzle out the reports.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+harm
+</orth>
+<form type="variant">
+<pron>
+/h*A*:m/
+</pron>
+</form>
+<form type="inflected">
+harms, harming, harmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To harm someone or something 
+</seg>
+pomeni nekoga ali nekaj raniti ali po&scaron;kodovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raniti, po&scaron;kodovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I stood very still, hoping they wouldn&apos;t harm my sister and me.
+</quote>
+<quote>
+Washing cannot harm the fabric.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Harm 
+</seg>
+je telesna po&scaron;kodba ali &scaron;koda, povzro&ccaron;ena nekomu ali ne&ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;kodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went in danger of physical harm.
+</quote>
+<quote>
+Do prisons do more harm than good?
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+will come to no harm 
+</seg>
+ali kadar 
+<FV>
+no harm will come to someone or something
+</FV>
+, nekdo ali nekaj ne bo ranjen ali po&scaron;kodovan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;koda, po&scaron;kodba
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+out of harm&apos;s way
+</seg>
+, je na varnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zunaj nevarnosti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+There is no harm in doing something 
+</seg>
+re&ccaron;emo, &ccaron;e &zcaron;elimo povedati, da bi nekaj radi storili, in mislimo, da ni narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne &scaron;kodi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There&apos;s no harm in asking.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bully
+</orth>
+<form type="variant">
+<pron>
+/b*Uli1/
+</pron>
+</form>
+<form type="inflected">
+bullies, bullying, bullied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bully 
+</seg>
+je &ccaron;lovek, ki s svojo mo&ccaron;jo &zcaron;ali ali ustrahuje ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiran, nasilne&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+bullies someone
+</seg>
+, s svojo mo&ccaron;jo nekoga &zcaron;ali ali pla&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiranizirati, ustrahovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For the first month at my new school I was bullied constantly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bullying
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+All cases of bullying will be severely dealt with.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+bullies someone into doing something
+</seg>
+, tistega &ccaron;loveka s telesno mo&ccaron;jo ali gro&zcaron;njami prepri&ccaron;a, da nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been bullied into driving her home.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,162 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+speed
+</orth>
+<form type="variant">
+<pron>
+/sp*i*:d/
+</pron>
+</form>
+<form type="inflected">
+speeds, speeding, sped 
+<pron>
+/sp*ed/
+</pron>
+.
+</form>
+<IN>
+Pri sestavljenem glagolu je preteklik in pretekli dele&zcaron;nik 
+<IV>
+speeded
+</IV>
+. 
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The speed of something 
+</seg>
+je to, kako hitro se nekaj premika, dogaja ali dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I drove at great speed to West Bank.
+</quote>
+<quote>
+...capable of reaching speeds of over 110kph.
+</quote>
+<quote>
+None of us grows at the same speed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Speed 
+</seg>
+je zelo hitro premikanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(velika) hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The car is travelling at speed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To speed somewhere 
+</seg>
+pomeni iti ali potovati nekam hitro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brzeti, drveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They sped along Main Street towards the highway.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To speed 
+</seg>
+pomeni tudi voziti hitreje, kot dovoljujejo prometni predpisi ali oznake. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehitro voziti
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+speed up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+speeds up
+</seg>
+, se za&ccaron;ne premikati ali dogajati ali tisto za&ccaron;nemo delati hitreje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pospe&scaron;iti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;re way ahead of us. Speed up!
+</quote>
+<quote>
+Warmth speeds up chemical reactions.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

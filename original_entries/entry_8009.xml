@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kiss
+</orth>
+<form type="variant">
+<pron>
+/k*Is/
+</pron>
+</form>
+<form type="inflected">
+kisses, kissing, kissed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To kiss someone 
+</seg>
+pomeni nekoga se dotakniti z ustnicami, da mu poka&zcaron;emo ljubezen ali ga pozdravimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He opened his eyes when I kissed his cheek.
+</quote>
+<quote>
+I kissed her goodbye and drove away.
+</quote>
+<quote>
+They stopped and kissed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Give me a kiss.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

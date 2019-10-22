@@ -1,0 +1,162 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grade
+</orth>
+<form type="variant">
+<pron>
+/gr*e*Id/
+</pron>
+</form>
+<form type="inflected">
+grades, grading, graded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grade things 
+</seg>
+pomeni oceniti ali izmeriti kakovost stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The reports are graded 1 to 6.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The grade of a product 
+</seg>
+je kakovost nekega izdelka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ordinary grade petrol.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s grade 
+</seg>
+je ocena, ki jo oseba dobi na izpitu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ocena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She passed the exams with good grades.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s grade 
+</seg>
+je raven pomembnosti ali &ccaron;in v nekem podjetju ali organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopnja, polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...separate dining rooms for different grades of staff.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V ameri&scaron;ki &scaron;oli je 
+<seg type="lemma">
+a grade 
+</seg>
+skupina razredov, v katerih so vsi otroci pribli&zcaron;no enake starosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+letnik, razred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had entered the sixth grade at eleven.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make the grade 
+</seg>
+pomeni uspeti pri ne&ccaron;em tako, da izpolnimo zahtevane pogoje; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i cilj, postati
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

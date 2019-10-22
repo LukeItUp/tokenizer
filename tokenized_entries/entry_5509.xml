@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p285_s311884" id="p285_w217" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="272.192" base="278.6" width="20.2421" height="8.514">fluffy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p285_s311885" id="p285_w218" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="78.41" y="273.438" base="278.6" width="16.8602" height="6.844">/fl&#216;fi</TOKEN>
+<TOKEN sid="p285_s311886" id="p285_w219" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="95.53" y="272.79" base="276.2" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p285_s311887" id="p285_w220" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.1" y="273.438" base="278.6" width="4.8016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p285_s311888" id="p285_w221" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="104.38" y="274.684" base="278.6" width="10.2901" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p285_s311889" id="p285_w222" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.2" y="272.904" base="278.6" width="12.9744" height="7.552">Kar</TOKEN>
+<TOKEN sid="p285_s311890" id="p285_w223" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.663" y="272.904" base="278.6" width="5.886" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p285_s311891" id="p285_w224" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="138.03" y="272.904" base="278.6" width="20.1319" height="7.552">fluffy,</TOKEN>
+</seg>
+<TOKEN sid="p285_s311892" id="p285_w225" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.651" y="272.904" base="278.6" width="5.88672" height="7.552">je</TOKEN>
+<TOKEN sid="p285_s311893" id="p285_w226" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.028" y="272.904" base="278.6" width="13.2682" height="7.552">zelo</TOKEN>
+<TOKEN sid="p285_s311894" id="p285_w227" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.786" y="272.904" base="278.6" width="22.3589" height="7.552">mehko</TOKEN>
+<TOKEN sid="p285_s311895" id="p285_w228" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.634" y="272.904" base="278.6" width="6.68592" height="7.552">in</TOKEN>
+<TOKEN sid="p285_s311896" id="p285_w229" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.81" y="272.904" base="278.6" width="30.0326" height="7.552">kosmato.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p285_s311898" id="p285_w231" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="281.974" base="287.67" width="25.1914" height="7.552">puhast;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p285_s311899" id="p285_w232" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.8101" y="281.974" base="287.67" width="11.2018" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p285_s311900" id="p285_w233" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.021" y="281.974" base="287.67" width="17.7667" height="7.552">fluffy</TOKEN>
+<TOKEN sid="p285_s311901" id="p285_w234" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="128.787" y="281.974" base="287.67" width="22.3906" height="7.552">kitten.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

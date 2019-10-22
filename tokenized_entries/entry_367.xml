@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p19_s20290" id="p19_w524" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="77.74" y="591.178" base="596.34" width="24.5016" height="6.844">/6laËv/.</TOKEN>
+<TOKEN sid="p19_s20290" id="p19_w524" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="77.74" y="591.178" base="596.34" width="24.5016" height="6.844">/6la&#203;v/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -125,7 +125,7 @@
 <TOKEN sid="p19_s20357" id="p19_w591" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="294.936" y="93.114" base="97.03" width="10.7187" height="5.192">with</TOKEN>
 </seg>
 <seg type="prep">
-<TOKEN sid="p19_s20358" id="p19_w592" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="306.94" y="93.114" base="97.03" width="13.4694" height="5.192">šwith’</TOKEN>
+<TOKEN sid="p19_s20358" id="p19_w592" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="306.94" y="93.114" base="97.03" width="13.4694" height="5.192">&#353;with&#8217;</TOKEN>
 </seg>
 </pos>
 </gramGrp>
@@ -184,7 +184,7 @@
 <seg>
 <TOKEN sid="p19_s20398" id="p19_w632" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="283.888" y="129.424" base="133.34" width="13.6293" height="5.192">PREP</TOKEN>
 </seg>
-<TOKEN sid="p19_s20399" id="p19_w633" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="298.572" y="129.424" base="133.34" width="7.30818" height="5.192">što’</TOKEN>
+<TOKEN sid="p19_s20399" id="p19_w633" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="298.572" y="129.424" base="133.34" width="7.30818" height="5.192">&#353;to&#8217;</TOKEN>
 <seg type="prep">
 <TOKEN sid="p19_s20400" id="p19_w634" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.47" y="127.644" base="133.34" width="21.3552" height="7.552">Kadar</TOKEN>
 </seg>
@@ -240,7 +240,7 @@
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <TOKEN sid="p19_s20441" id="p19_w675" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.947" y="173.034" base="178.73" width="24.4044" height="7.552">zgodba</TOKEN>
@@ -287,5 +287,5 @@
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

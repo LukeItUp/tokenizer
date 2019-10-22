@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rust
+</orth>
+<form type="variant">
+<pron>
+/r*Vst/
+</pron>
+</form>
+<form type="inflected">
+rusts, rusting, rusted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rust 
+</seg>
+je rjava snov, ki nastane na &zcaron;elezu ali jeklu, ko ta pride v stik z vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kovinski predmet 
+<seg type="lemma">
+rusts
+</seg>
+, se na njem naredi rja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rjaveti
+</quote>
+</cit>
+</sense>
+</entry>

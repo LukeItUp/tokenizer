@@ -1,0 +1,300 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+question
+</orth>
+<form type="variant">
+<pron>
+/kw*estS@0n/
+</pron>
+</form>
+<form type="inflected">
+questions, questioning, questioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A question 
+</seg>
+je nekaj, kar re&ccaron;emo ali napi&scaron;emo, da bi o ne&ccaron;em vpra&scaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jill began to ask Fred a lot of questions about his childhood.
+</quote>
+<quote>
+A panel of experts will answer questions on education.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To question someone
+</seg>
+ pomeni nekomu zastavljati veliko vpra&scaron;anj o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spra&scaron;evati, zasli&scaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I started questioning her about Jane and Anthony.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To question something 
+</seg>
+pomeni izraziti dvome, da je tisto res, smiselno ali vredno napora ali izdatka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No one ever questioned the necessity of the visit.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar obstaja 
+<seg type="lemma">
+question about something
+</seg>
+, obstaja dvom ali negotovost glede tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje, dilema
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There has been some question as to whether or not the President will resign.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A question 
+</seg>
+je tudi te&zcaron;ava ali zadeva, o kateri je treba razpravljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His resignation raised the question of his successor.
+</quote>
+<quote>
+There is another side to the missile question.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri izpitu je 
+<seg type="lemma">
+a question 
+</seg>
+naloga, ki jo moramo re&scaron;iti, da poka&zcaron;emo svoje znanje ali sposobnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have to answer four questions in two hours.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+beyond question
+</seg>
+, ni nikakr&scaron;nega dvoma o tistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nedvomno, brez dvoma, trdno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew beyond question that I was a person who could be trusted.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To call something into question 
+</seg>
+pomeni izraziti resne dvome o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are you calling my professional competence into question?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+open to question
+</seg>
+, &scaron;e ni zanesljivo in ljudje morda niso soglasni glede tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(&scaron;e) odprt, nerazre&scaron;en
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+out of the question
+</seg>
+, je nemogo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne priti v po&scaron;tev, nemogo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew that a holiday this year was out of the question.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+there is no question of something 
+</seg>
+pomeni, da je tisto nemogo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni govora o, nemogo&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+With so much happening there was no question of getting a full night's sleep.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To do something without question 
+</seg>
+pomeni, da tisto naredimo brez ugovora ali spra&scaron;evanja, zakaj je to treba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez vpra&scaron;anja
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;as, kraj ali stvar 
+<seg type="lemma">
+in question 
+</seg>
+je &ccaron;as, kraj ali stvar, o kateri govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tisti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Did James have dinner with you on the night in question?
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

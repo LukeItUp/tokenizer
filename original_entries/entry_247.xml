@@ -6,16 +6,17 @@ advocate,
 <form type="inflected">
 advocates, advocating, advocated;
 </form>
-<form type="variant">
-glagol izgovarjamo
+<PN>
+glagol izgovarjamo 
 <pron>
-/*#ae;dv@6keIt/
+/*&ae;dv@6keIt/
 </pron>
-samostalnik pa
+, samostalnik pa 
 <pron>
-/*#ae;dv@6k@t/.
+/*&ae;dv@6k@t/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -25,13 +26,13 @@ REPORT VB
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To advocate a particular action or plan
+To advocate a particular action or plan 
 </seg>
-pomeni javno podpirati dolo&#269;eno dejanje ali na&#269;rt.
+pomeni javno podpirati dolo&ccaron;eno dejanje ali na&ccaron;rt. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-priporo&#269;ati
+priporo&ccaron;ati
 </quote>
 </cit>
 <seg type="example">
@@ -43,20 +44,20 @@ He advocated that Britain should join the alliance.
 <sense n="2">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"of"
+&lsquo;of&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An advocate of a particular action or plan
+An advocate of a particular action or plan 
 </seg>
-je &#269;lovek, ki javno podpira dolo&#269;eno dejanje ali na&#269;rt.
+je &ccaron;lovek, ki javno podpira dolo&ccaron;eno dejanje ali na&ccaron;rt. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -80,10 +81,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An advocate
+An advocate 
 </seg>
-je pravnik, ki govori v korist
-dolo&#269;enega &#269;loveka ali ga brani na sodi&#353;&#269;u;
+je pravnik, ki govori v korist dolo&ccaron;enega &ccaron;loveka ali ga brani na sodi&scaron;&ccaron;u; 
 </def>
 <usg>
 pravna raba.

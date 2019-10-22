@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rhythm
+</orth>
+<form type="variant">
+<pron>
+/r*ID@0m/
+</pron>
+</form>
+<form type="inflected">
+rhythms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rhythm 
+</seg>
+je ponavljanje udarcev ali poudarjenih zlogov v melodi&ccaron;nem zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ritem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the rhythm of the drums.
+</quote>
+<quote>
+J J Cale uses rhythm for the opposite effect in his music.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rhythm 
+</seg>
+je tudi pravilno menjavanje enot v zaporedju, na primer letnih &ccaron;asov ali plime in oseke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ritem
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+presume
+</orth>
+<form type="variant">
+<pron>
+/pri1zj*u*:m/
+</pron>
+</form>
+<form type="inflected">
+presumes, presuming, presumed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To presume that something is the case 
+</seg>
+pomeni misliti, da je nekaj tako, kot pravimo, nismo pa o tem prepri&ccaron;ani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklepati, domnevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you do not come, I shall presume the deal is off.
+</quote>
+<quote>
+You are married, I presume?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is presumed to be the case
+</seg>
+, ljudje mislijo, da je tisto res, niso pa o tem prepri&ccaron;ani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domnevati, veljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Larry Burrows, missing and presumed dead since 1971.
+</quote>
+<quote>
+He is presumed to be living in Spain.
+</quote>
+</seg>
+</sense>
+</entry>

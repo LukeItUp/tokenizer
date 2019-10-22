@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+offend
+</orth>
+<form type="variant">
+<pron>
+/@7f*end/
+</pron>
+</form>
+<form type="inflected">
+offends, offending, offended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To offend someone 
+</seg>
+pomeni vznemiriti koga ali ga spraviti v zadrego. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&zcaron;aliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are deeply offended by references to sex.
+</quote>
+<quote>
+I&apos;m sorry if I offended you.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;against&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+offends a law, rule, or principle
+</seg>
+, je v nasprotju z zakonom, pravilom ali na&ccaron;elom; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kr&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This process offends every known natural law.
+</quote>
+<quote>
+It would offend against her conventions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To offend 
+</seg>
+pomeni tudi zagre&scaron;iti kaznivo dejanje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kr&scaron;iti zakon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...criminals who offend again when they&apos;re released.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+offender
+</orth>
+<form type="variant">
+<pron>
+/@7f*end@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the treatment of young offenders.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

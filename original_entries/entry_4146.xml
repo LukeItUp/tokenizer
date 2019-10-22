@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dock
+</orth>
+<form type="variant">
+<pron>
+/d*Qk/
+</pron>
+</form>
+<form type="inflected">
+docks, docking, docked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dock 
+</seg>
+je ograjeno obmo&ccaron;je v morju; v njem natovarjajo, raztovarjajo ali popravljajo ladje.
+</def>
+<cit type="translationEquivalent">
+<quote>
+dok
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ladja 
+<seg type="lemma">
+docks
+</seg>
+, pride v dok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati (se) v dok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They docked at Southampton.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dock 
+</seg>
+na sodi&scaron;&ccaron;u je prostor, kjer stoji ali sedi oseba, obto&zcaron;ena zlo&ccaron;ina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zato&zcaron;na klop
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dock someone's wages 
+</seg>
+pomeni nekomu ne izro&ccaron;iti dela denarja, ki mu ga dolgujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati, zni&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He docked her pocket money until the debt was paid off.
+</quote>
+</seg>
+</sense>
+</entry>

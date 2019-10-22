@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wince
+</orth>
+<form type="variant">
+<pron>
+/w*Ins/
+</pron>
+</form>
+<form type="inflected">
+winces, wincing, winced.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+winces
+</seg>
+, se mu obrazne mi&scaron;ice nenadoma napnejo, ker ga je nekaj zabolelo ali je do&zcaron;ivel kaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trzniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The pressure made her wince with pain.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His smile soon changed to a wince.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

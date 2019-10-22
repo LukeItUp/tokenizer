@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p299_s328171" id="p299_w780" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="275.732" base="282.14" width="21.7187" height="8.514">frond</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p299_s328172" id="p299_w781" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.45" y="276.978" base="282.14" width="26.8216" height="6.844">/fr&#201;nd/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p299_s328173" id="p299_w782" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="306.85" y="276.8" base="282.14" width="22.3682" height="7.08">fronds.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p299_s328174" id="p299_w783" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="330.79" y="278.224" base="282.14" width="18.8902" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p299_s328175" id="p299_w784" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="350.789" y="278.224" base="282.14" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p299_s328176" id="p299_w785" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="356.49" y="276.444" base="282.14" width="23.7413" height="7.552">Fronds</TOKEN>
+</seg>
+<TOKEN sid="p299_s328177" id="p299_w786" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.81" y="276.444" base="282.14" width="7.1784" height="7.552">so</TOKEN>
+<TOKEN sid="p299_s328178" id="p299_w787" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.568" y="276.444" base="282.14" width="19.0944" height="7.552">dolgi,</TOKEN>
+<TOKEN sid="p299_s328179" id="p299_w788" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="411.241" y="276.444" base="282.14" width="31.0248" height="7.552">koni~asti</TOKEN>
+<TOKEN sid="p299_s328180" id="p299_w789" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="285.674" base="291.37" width="15.1812" height="7.552">listi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p299_s328182" id="p299_w791" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.23" y="285.674" base="291.37" width="12.7886" height="7.552">list;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p299_s328183" id="p299_w792" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="299.02" y="285.674" base="291.37" width="24.395" height="7.552">&#8230;palm</TOKEN>
+<TOKEN sid="p299_s328184" id="p299_w793" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.414" y="285.674" base="291.37" width="23.4367" height="7.552">fronds.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

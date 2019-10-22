@@ -6,36 +6,36 @@ alternate,
 <form type="inflected">
 alternates, alternating, alternated;
 </form>
-<form type="variant">
-glagol izgovarjamo
+<PN>
+glagol izgovarjamo 
 <pron>
 /*Qlt@neIt/
 </pron>
-pridevnik pa
+, pridevnik pa 
 <pron>
-/Qlt*$e*:n@t/.
+/Qlt*$e*:n@t/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"between"
+&lsquo;between&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-alternates between two
-things
+alternates between two things
 </seg>
-redno po&#269;ne ali uporablja najprej prvo in potem drugo stvar.
+, redno po&ccaron;ne ali uporablja najprej prvo in potem drugo stvar. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -51,21 +51,21 @@ They alternated between patronising us and ignoring us.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar ena stvar
+Kadar ena stvar 
 <seg type="lemma">
 alternates with another
 </seg>
-se obe stvari redno dogajata druga za drugo.
+, se obe stvari redno dogajata druga za drugo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -74,8 +74,7 @@ vrstiti se, izmenjavati se
 </cit>
 <seg type="example">
 <quote>
-The Third World suffers from an annual cycle of drought alternating with
-flood.
+The Third World suffers from an annual cycle of drought alternating with flood.
 </quote>
 </seg>
 <sense>
@@ -83,7 +82,6 @@ flood.
 <orth>
 alternation
 </orth>
-</form>
 <form type="variant">
 <pron>
 /*Qlt@n*e*IS@0n/
@@ -108,15 +106,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Dejanja, dogodki ali postopki, ki so
+Dejanja, dogodki ali postopki, ki so 
 <seg type="lemma">
 alternate
 </seg>
-se redno dogajajo drug za drugim.
+, se redno dogajajo drug za drugim. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-izmeni&#269;en
+izmeni&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -129,7 +127,6 @@ izmeni&#269;en
 <orth>
 alternately
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -137,8 +134,7 @@ ADV
 </gramGrp>
 <seg type="example">
 <quote>
-Each piece of material is washed alternately in soft water and coconut
-oil.
+Each piece of material is washed alternately in soft water and coconut oil.
 </quote>
 </seg>
 </sense>
@@ -150,25 +146,23 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar se nekaj dogaja
+Kadar se nekaj dogaja 
 <seg type="lemma">
 on alternate days
 </seg>
-se na en dan zgodi, naslednji dan ne, potem se spet zgodi in tako naprej. Podobno
-se nekaj lahko dogaja
+, se na en dan zgodi, naslednji dan ne, potem se spet zgodi in tako naprej. Podobno se nekaj lahko dogaja 
 <seg type="lemma">
 in alternate weeks
 </seg>
-torej v tednih,
-ali
+, torej v tednih, ali 
 <seg type="lemma">
 in alternate years
 </seg>
-v letih.
+, v letih. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-izmeni&#269;en
+izmeni&ccaron;en
 </quote>
 </cit>
 <seg type="example">

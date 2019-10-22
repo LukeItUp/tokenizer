@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+matron
+</orth>
+<form type="variant">
+<pron>
+/m*e*Itr@n/
+</pron>
+</form>
+<form type="inflected">
+matrons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V bolni&scaron;nici je 
+<seg type="lemma">
+the matron 
+</seg>
+medicinska sestra, ki organizira delo drugih sester. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glavna sestra
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V internatu je 
+<seg type="lemma">
+the matron 
+</seg>
+&zcaron;enska, ki skrbi za zdravje gojencev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolni&scaron;ka sestra
+</quote>
+</cit>
+</sense>
+</entry>

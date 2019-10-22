@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cinema
+</orth>
+<form type="variant">
+<pron>
+/s*In@1m@/
+</pron>
+</form>
+<form type="inflected">
+cinemas.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cinema 
+</seg>
+je kraj, kamor ljudje hodijo gledat filme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kino, kinematograf
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Cinema 
+</seg>
+imenujemo tudi posel in umetnost izdelovanja filmov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+film
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the classic works of Hollywood cinema.
+</quote>
+</seg>
+</sense>
+</entry>

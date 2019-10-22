@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+leisure
+</orth>
+<form type="variant">
+<pron>
+/l*eZ@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Leisure 
+</seg>
+je &ccaron;as, ko nam ni treba delati in lahko po&ccaron;nemo tisto, ob &ccaron;emer u&zcaron;ivamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prosti &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Not everybody wants more leisure.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+at leisure 
+</seg>
+ali 
+<FV>
+at one&apos;s leisure
+</FV>
+, storimo takrat, ko &zcaron;elimo, brez naglice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lagodno
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

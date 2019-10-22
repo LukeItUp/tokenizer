@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p490_s536970" id="p490_w640" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="333.929" y="191.194" base="196.89" width="30.7886" height="7.552">valueless</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p490_s536971" id="p490_w641" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.648" y="191.194" base="196.89" width="26.7941" height="7.552">without</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p490_s536972" id="p490_w642" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.372" y="191.194" base="196.89" width="10.7986" height="7.552">the</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p490_s536973" id="p490_w643" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="408.101" y="191.194" base="196.89" width="23.5908" height="7.552">muscle</TOKEN>
+<TOKEN sid="p490_s536974" id="p490_w644" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.622" y="191.194" base="196.89" width="6.40008" height="7.552">of</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p490_s536975" id="p490_w645" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="200.274" base="205.97" width="8.40096" height="7.552">an</TOKEN>
+</seg>
+<TOKEN sid="p490_s536976" id="p490_w646" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="269.01" y="200.274" base="205.97" width="42.6398" height="7.552">organisation</TOKEN>
+<TOKEN sid="p490_s536977" id="p490_w647" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.648" y="200.274" base="205.97" width="23.1912" height="7.552">behind</TOKEN>
+<TOKEN sid="p490_s536978" id="p490_w648" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.838" y="200.274" base="205.97" width="7.19712" height="7.552">it.</TOKEN>
+<TOKEN sid="p490_s536979" id="p490_w649" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="209.354" base="215.05" width="23.6988" height="7.568">muscle</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p490_s536980" id="p490_w650" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="283.77" y="209.354" base="215.05" width="8.1216" height="7.568">in.</TOKEN>
+<TOKEN sid="p490_s536981" id="p490_w651" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="293.32" y="211.134" base="215.05" width="10.7979" height="5.192">PHR</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p490_s536982" id="p490_w652" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="305.113" y="211.134" base="215.05" width="7.04731" height="5.192">VB</TOKEN>
+<TOKEN sid="p490_s536983" id="p490_w653" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.67" y="209.354" base="215.05" width="21.0355" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p490_s536984" id="p490_w654" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="336.165" y="209.354" base="215.05" width="21.2976" height="7.552">~lovek</TOKEN>
+<TOKEN sid="p490_s536985" id="p490_w655" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="358.9" y="209.354" base="215.05" width="25.9445" height="7.552">muscles</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

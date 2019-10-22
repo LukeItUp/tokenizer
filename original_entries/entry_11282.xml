@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pudding
+</orth>
+<form type="variant">
+<pron>
+/p*UdIN/
+</pron>
+</form>
+<form type="inflected">
+puddings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pudding 
+</seg>
+je kuhana sladka jed, narejena iz moke, ma&scaron;&ccaron;obe in jajc; navadno jo serviramo toplo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+puding
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They want vanilla pudding.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pudding 
+</seg>
+je v&ccaron;asih tudi vsaka sladka jed na koncu obroka; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+posladek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can they have second helpings of pudding?
+</quote>
+</seg>
+</sense>
+</entry>

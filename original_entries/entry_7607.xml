@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insult,
+</orth>
+<form type="inflected">
+insults, insulting, insulted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/Ins*Vlt/
+</pron>
+, samostalnik pa 
+<pron>
+/*InsVlt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insult someone 
+</seg>
+pomeni nekoga u&zcaron;aliti tako, da smo z njim nesramni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&zcaron;aliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You don&apos;t have to apologize to me. You didn&apos;t insult me.
+</quote>
+<quote>
+He feels deeply insulted.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+insulting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He did use insulting language.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An insult 
+</seg>
+je groba opazka ali dejanje, ki nekoga u&zcaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The older boys yelled out insults.
+</quote>
+<quote>
+I would take it as an insult if you left.
+</quote>
+</seg>
+</sense>
+</entry>

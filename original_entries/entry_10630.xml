@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pity
+</orth>
+<form type="variant">
+<pron>
+/p*Iti1/
+</pron>
+</form>
+<form type="inflected">
+pities, pitying, pitied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel pity for someone 
+</seg>
+pomeni, da nam je zelo &zcaron;al za nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomilovanje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pity someone 
+</seg>
+pomeni, da nam je zelo &zcaron;al za nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomilovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pitied him with her whole heart.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+it is a pity 
+</seg>
+povemo, da smo razo&ccaron;arani ali da nam je &zcaron;al, ker se je nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;koda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It will be a terrible pity if this should happen.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take pity on someone 
+</seg>
+pomeni, da se nam nekdo smili, zato mu pomagamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usmiliti se koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A man who spoke English took pity on us and it was all sorted out.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

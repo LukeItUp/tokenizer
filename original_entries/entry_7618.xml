@@ -1,0 +1,119 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+integrate
+</orth>
+<form type="variant">
+<pron>
+/*IntI2greIt/
+</pron>
+</form>
+<form type="inflected">
+integrates, integrating, integrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+integrate into a social group
+</seg>
+, se pome&scaron;ajo med osebe v neki dru&zcaron;beni skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...helping the individual integrate quickly into the community.
+</quote>
+<quote>
+...ways of integrating handicapped children into ordinary schools.
+</quote>
+<quote>
+In theory, all schools should already be integrated.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+integrated
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an integrated school for Protestants and Catholics.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+integration
+</orth>
+<form type="variant">
+<pron>
+/*IntI2gr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He campaigned for the integration of immigrants into British society.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To integrate things 
+</seg>
+pomeni zdru&zcaron;iti stvari tako, da so tesno povezane ali oblikujejo eno stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;iti, povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The two regional railway systems were integrated.
+</quote>
+</seg>
+</sense>
+</entry>

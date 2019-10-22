@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p210_s228541" id="p210_w384" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="462.832" base="469.24" width="30.4124" height="8.514">diverge</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p210_s228542" id="p210_w385" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.72" y="464.078" base="469.24" width="36.8816" height="6.844">/da&#203;v&#197;&#194;d&#199;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p210_s228543" id="p210_w386" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="127.4" y="463.9" base="469.24" width="29.2559" height="7.08">diverges,</TOKEN>
+<TOKEN sid="p210_s228544" id="p210_w387" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="159.291" y="463.9" base="469.24" width="32.2522" height="7.08">diverging,</TOKEN>
+<TOKEN sid="p210_s228545" id="p210_w388" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="194.178" y="463.9" base="469.24" width="30.0051" height="7.08">diverged.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p210_s228547" id="p210_w390" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="234.45" y="465.324" base="469.24" width="7.15028" height="5.192">VB</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p210_s228548" id="p210_w391" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="472.624" base="478.32" width="21.3149" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p210_s228549" id="p210_w392" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.0242" y="472.624" base="478.32" width="19.242" height="7.552">stvari</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p210_s228550" id="p210_w393" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="103.85" y="472.624" base="478.32" width="26.6018" height="7.552">diverge,</TOKEN>
+</seg>
+<TOKEN sid="p210_s228551" id="p210_w394" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.981" y="472.624" base="478.32" width="7.12872" height="7.552">so</TOKEN>
+<TOKEN sid="p210_s228552" id="p210_w395" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.638" y="472.624" base="478.32" width="26.6954" height="7.552">razli~ne</TOKEN>
+<TOKEN sid="p210_s228553" id="p210_w396" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.862" y="472.624" base="478.32" width="8.65584" height="7.552">ali</TOKEN>
+<TOKEN sid="p210_s228554" id="p210_w397" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="179.046" y="472.624" base="478.32" width="32.233" height="7.552">postanejo</TOKEN>
+<TOKEN sid="p210_s228555" id="p210_w398" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="212.808" y="472.624" base="478.32" width="28.6258" height="7.552">razli~ne.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p210_s228557" id="p210_w400" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="65.92" y="481.704" base="487.4" width="35.2944" height="7.552">razlikovati</TOKEN>
+<TOKEN sid="p210_s228558" id="p210_w401" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="102.624" y="481.704" base="487.4" width="8.4168" height="7.552">se,</TOKEN>
+<TOKEN sid="p210_s228559" id="p210_w402" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.451" y="481.704" base="487.4" width="29.2752" height="7.552">razhajati</TOKEN>
+<TOKEN sid="p210_s228560" id="p210_w403" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.136" y="481.704" base="487.4" width="8.4168" height="7.552">se;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p210_s228561" id="p210_w404" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="152.99" y="481.704" base="487.4" width="17.6328" height="7.552">Their</TOKEN>
+<TOKEN sid="p210_s228562" id="p210_w405" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="172.034" y="481.704" base="487.4" width="27.5335" height="7.552">interests</TOKEN>
+<TOKEN sid="p210_s228563" id="p210_w406" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.978" y="481.704" base="487.4" width="23.9364" height="7.552">diverge</TOKEN>
+<TOKEN sid="p210_s228564" id="p210_w407" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.323" y="481.704" base="487.4" width="15.287" height="7.552">from</TOKEN>
+<TOKEN sid="p210_s228565" id="p210_w408" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="490.784" base="496.48" width="17.9971" height="7.552">those</TOKEN>
+<TOKEN sid="p210_s228566" id="p210_w409" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="80.2876" y="490.784" base="496.48" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p210_s228567" id="p210_w410" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.798" y="490.784" base="496.48" width="38.3832" height="7.552">pensioners.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p210_s228569" id="p210_w412" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="136.07" y="492.564" base="496.48" width="7.15028" height="5.192">VB</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p210_s228570" id="p210_w413" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.32" y="490.784" base="496.48" width="21.5942" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p210_s228571" id="p210_w414" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.023" y="490.784" base="496.48" width="16.7918" height="7.552">ceste</TOKEN>
+<TOKEN sid="p210_s228572" id="p210_w415" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.924" y="490.784" base="496.48" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p210_s228573" id="p210_w416" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.828" y="490.784" base="496.48" width="13.5965" height="7.552">poti</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p210_s228574" id="p210_w417" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="214.55" y="490.784" base="496.48" width="27.0518" height="7.552">diverge,</TOKEN>
+</seg>
+<TOKEN sid="p210_s228575" id="p210_w418" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1807" y="499.864" base="505.56" width="22.7909" height="7.552">peljejo</TOKEN>
+<TOKEN sid="p210_s228576" id="p210_w419" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="84.9718" y="499.864" base="505.56" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p210_s228577" id="p210_w420" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.9751" y="499.864" base="505.56" width="27.1894" height="7.552">razli~ne</TOKEN>
+<TOKEN sid="p210_s228578" id="p210_w421" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="120.165" y="499.864" base="505.56" width="20.79" height="7.552">smeri.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p210_s228580" id="p210_w423" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.18" y="499.864" base="505.56" width="29.9894" height="7.552">razcepiti</TOKEN>
+<TOKEN sid="p210_s228581" id="p210_w424" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.17" y="499.864" base="505.56" width="8.79696" height="7.552">se,</TOKEN>
+<TOKEN sid="p210_s228582" id="p210_w425" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.967" y="499.864" base="505.56" width="30.7958" height="7.552">razhajati</TOKEN>
+<TOKEN sid="p210_s228583" id="p210_w426" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.763" y="499.864" base="505.56" width="6.79608" height="7.552">se</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

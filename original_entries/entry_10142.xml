@@ -1,0 +1,139 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pair
+</orth>
+<form type="variant">
+<pron>
+/p*e*@/
+</pron>
+</form>
+<form type="inflected">
+pairs, pairing, paired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za dve stvari re&ccaron;emo, da sta 
+<seg type="lemma">
+a pair
+</seg>
+, &ccaron;e sta enake velikosti in oblike ter ju uporabljamo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+par
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pair of boots.
+</quote>
+<quote>
+Dragonflies have two pairs of wings.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+pair 
+</seg>
+uporabljamo tudi, ko govorimo o predmetih, ki imajo dva glavna dela enake velikosti in oblike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+par
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pair of trousers.
+</quote>
+<quote>
+...a pair of scissors.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za dva &ccaron;loveka re&ccaron;emo, da sta 
+<seg type="lemma">
+a pair
+</seg>
+, kadar stojita ali hodita skupaj ali kadar sta tako ali druga&ccaron;e povezana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+par
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;d always been a devoted pair.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+au pair
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pair off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+pair off 
+</seg>
+ali 
+<seg type="lemma">
+are paired off
+</seg>
+, se razvrstijo v pare. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razporediti se v pare
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People are paired off according to their level of competence.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

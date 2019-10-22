@@ -1,0 +1,235 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+store
+</orth>
+<form type="variant">
+<pron>
+/st*O*:/
+</pron>
+</form>
+<form type="inflected">
+stores, storing, stored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A store 
+</seg>
+je trgovina, najve&ccaron;krat velika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovina, prodajalna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a health-food store.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+chain store.
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To store things 
+</seg>
+pomeni stvari nekje pustiti, dokler jih ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti, shraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tool kit is stored under the seat.
+</quote>
+<quote>
+...storing water for use in the dry season.
+</quote>
+<quote>
+...storing and transmitting electricity.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To store information 
+</seg>
+pomeni ohraniti podatke v spominu, kartoteki ali na ra&ccaron;unalniku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti, shraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...stored as images in the minds of people.
+</quote>
+<quote>
+...pocket calculators which can store telephone numbers.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A store 
+</seg>
+je tudi zaloga ne&ccaron;esa, kar nekam spravimo, dokler tistega ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skladi&scaron;&ccaron;e, shramba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the village&apos;s store of grain.
+</quote>
+<quote>
+...emergency stores of food and medical equipment.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A store 
+</seg>
+je tudi kraj, kjer so stvari shranjene, medtem ko niso v rabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skladi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...weapon stores in which nuclear warheads were kept.
+</quote>
+<quote>
+Goods in store will be insured for loss or damage.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in store for someone
+</seg>
+, se mu bo v prihodnosti zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v rezervi, pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You never know what the next few months have got in store.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To set great store on or by something 
+</seg>
+pomeni misliti, da je nekaj izjemno pomembno ali potrebno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zelo ceniti, pripisovati velik pomen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He set the greatest store on carrying out his decision.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+store up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To store something up 
+</seg>
+pomeni nekaj shraniti, dokler ne mislimo, da je pravi &ccaron;as, da tisto uporabimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakopi&ccaron;iti, dati na stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had some sausage carefully stored up for the occasion.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

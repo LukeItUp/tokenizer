@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fetch
+</orth>
+<form type="variant">
+<pron>
+/f*etS/
+</pron>
+</form>
+<form type="inflected">
+fetches, fetching, fetched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fetch something or someone 
+</seg>
+pomeni iti in pripeljati ali prinesti nekaj ali nekoga od tam, kjer je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prinesti, iti iskat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fetched a bucket of water from the pond.
+</quote>
+<quote>
+Scylla ran to fetch her guardian a long cool drink.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fetches a particular amount of money
+</seg>
+, je prodano za dolo&ccaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i; prinesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His pictures fetch very high prices.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+far-fetched
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fetch up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fetch up somewhere 
+</seg>
+pomeni nekam priti, navadno nenamenoma; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prispeti, znajti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

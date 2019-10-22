@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+elderly
+</orth>
+<form type="variant">
+<pron>
+/*eld@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+elderly
+</seg>
+, je star. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+star, postaran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The coach was full of elderly ladies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Starej&scaron;e ljudi na splo&scaron;no lahko imenujemo 
+<seg type="lemma">
+the elderly
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostareli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...unless the elderly are adequately cared for.
+</quote>
+</seg>
+</sense>
+</entry>

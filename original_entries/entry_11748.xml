@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+regulation
+</orth>
+<form type="variant">
+<pron>
+/r*egj@4l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+regulations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Regulations 
+</seg>
+so pravila, ki jih dolo&ccaron;i vlada ali drug pristojen organ. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are specific regulations governing these types of machines.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had the short regulation haircut of a policeman.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Regulation 
+</seg>
+je nadzorovanje dejavnosti ali procesa, navadno s pravili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadzor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...strict regulation over toxic waste disposal.
+</quote>
+</seg>
+</sense>
+</entry>

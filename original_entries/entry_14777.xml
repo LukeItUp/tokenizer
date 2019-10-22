@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+transparent
+</orth>
+<form type="variant">
+<pron>
+/tr&ae;nsp*&ae;r@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je predmet ali snov 
+<seg type="lemma">
+transparent
+</seg>
+, lahko skoznjo vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prozoren, prosojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a transparent plastic lid.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neko &ccaron;ustvo 
+<seg type="lemma">
+transparent
+</seg>
+, ga zelo lahko razumemo ali prepoznamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;iten, jasno viden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We wanted our goals to be transparent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+transparently
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an attitude that was transparently false.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

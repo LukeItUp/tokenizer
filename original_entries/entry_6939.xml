@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hound
+</orth>
+<form type="variant">
+<pron>
+/h*a*Und/
+</pron>
+</form>
+<form type="inflected">
+hounds, hounding, hounded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hound 
+</seg>
+je vrsta psa, ki ga uporabljamo za lov ali dirke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lovski pes
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...large packs of hounds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+hounds someone
+</seg>
+, nekoga nenehno vznemirja ali kritizira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preganjati, zasledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was hounded by the press.
+</quote>
+</seg>
+</sense>
+</entry>

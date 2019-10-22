@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p155_s168963" id="p155_w224" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="335.742" base="342.15" width="14.6205" height="8.514">cop</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p155_s168964" id="p155_w225" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="72.88" y="336.988" base="342.15" width="20.6116" height="6.844">/k&#201;p/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p155_s168965" id="p155_w226" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="95.05" y="336.81" base="342.15" width="16.713" height="7.08">cops;</TOKEN>
+</form>
+<usg>
+<TOKEN sid="p155_s168966" id="p155_w227" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="113.31" y="336.454" base="342.15" width="35.6861" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p155_s168967" id="p155_w228" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.556" y="336.454" base="342.15" width="24.9538" height="7.552">beseda.</TOKEN>
+</usg>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p155_s168968" id="p155_w229" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="177.01" y="338.234" base="342.15" width="18.8506" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p155_s168969" id="p155_w230" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="196.93" y="338.234" base="342.15" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p155_s168970" id="p155_w231" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.62" y="336.454" base="342.15" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p155_s168971" id="p155_w232" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.77" y="336.454" base="342.15" width="11.9203" height="7.552">cop</TOKEN>
+</seg>
+<TOKEN sid="p155_s168972" id="p155_w233" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.24" y="336.454" base="342.15" width="5.95368" height="7.552">je</TOKEN>
+<TOKEN sid="p155_s168973" id="p155_w234" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.751" y="336.454" base="342.15" width="13.0586" height="7.552">pri-</TOKEN>
+<TOKEN sid="p155_s168974" id="p155_w235" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="345.524" base="351.22" width="23.994" height="7.552">padnik</TOKEN>
+<TOKEN sid="p155_s168975" id="p155_w236" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.3841" y="345.524" base="351.22" width="27.1886" height="7.552">policije.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p155_s168977" id="p155_w238" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.8" y="345.524" base="351.22" width="25.1777" height="7.552">policist</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

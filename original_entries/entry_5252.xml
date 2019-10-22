@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ferment,
+</orth>
+<form type="inflected">
+ferments, fermenting, fermented;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/f*$e*:ment/
+</pron>
+, glagol pa 
+<pron>
+/f@5m*ent/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ferment 
+</seg>
+je vznemirjenje in nemir, ki ga povzro&ccaron;i sprememba ali negotovost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razburjenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Portugal was in ferment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vino, pivo ali sadje 
+<seg type="lemma">
+ferments 
+</seg>
+ali 
+<seg type="lemma">
+is fermented
+</seg>
+, v njem za&ccaron;nejo potekati kemi&ccaron;ne spremembe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vreti, kisati se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+fermented
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the whiff of fermented apples.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+fermentation
+</orth>
+<form type="variant">
+<pron>
+/f*$e*:ment*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the fermentation of wines.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

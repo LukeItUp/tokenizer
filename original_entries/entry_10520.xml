@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+phoney
+</orth>
+<form type="variant">
+<pron>
+/f*@*Uni1/
+</pron>
+</form>
+<form type="inflected">
+phoneys;
+</form>
+<usg>
+pogovorna beseda, 
+</usg>
+<SN>
+ki jo pi&scaron;emo tudi 
+<SV>
+phony
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+phoney
+</seg>
+, ni pristno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+la&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gave a phony name and address.
+</quote>
+<quote>
+She put on a phoney English accent.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+phoney
+</seg>
+, je neiskren ali domi&scaron;ljav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narejen, la&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He thought all grown-ups were phony.
+</quote>
+<quote>
+...your phoney manners.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I suddenly realized what a phoney he is.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

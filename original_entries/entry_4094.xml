@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distil
+</orth>
+<form type="variant">
+<pron>
+/dIst*Il/
+</pron>
+</form>
+<form type="inflected">
+distils, distilling, distilled;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+distill
+</SV>
+. 
+</SN>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neka teko&ccaron;ina 
+<seg type="lemma">
+distilled
+</seg>
+, je o&ccaron;i&scaron;&ccaron;ena ali koncentrirana tako, da jo najprej segrevamo, dokler se ne spremeni v paro, in potem ohladimo, dokler se znova ne spremeni v teko&ccaron;ino.
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehlapiti, destilirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+distilled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Top up the car battery with distilled water.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+distillation
+</orth>
+<form type="variant">
+<pron>
+/d*IstIl*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Separate the alcohol from the water by distillation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

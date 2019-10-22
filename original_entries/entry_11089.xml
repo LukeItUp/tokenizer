@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pro
+</orth>
+<form type="variant">
+<pron>
+/pr*@*U/
+</pron>
+</form>
+<form type="inflected">
+pros.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pro 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a professional
+</seg>
+; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+profesionalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s a pro and I&apos;m only an amateur.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pros and cons of something 
+</seg>
+so prednosti in pomanjkljivosti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+argumenti za in proti
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

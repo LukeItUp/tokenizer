@@ -1,0 +1,337 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shut
+</orth>
+<form type="variant">
+<pron>
+/S*Vt/
+</pron>
+</form>
+<form type="inflected">
+shuts, shutting.
+</form>
+<IN>
+<IH>
+Shut 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shut something 
+</seg>
+pomeni nekaj premakniti, tako da ni ve&ccaron; odprto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shut the door quietly.
+</quote>
+<quote>
+He goes in and the door shuts behind him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The windows were all shut.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shut one&apos;s eyes 
+</seg>
+pomeni povesiti veke, tako da ne vidimo ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Kaul shut her eyes for a moment.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He lay with his eyes shut.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shut one&apos;s mouth 
+</seg>
+pomeni stisniti ustnici skupaj, tako da usta niso odprta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Boggis opened his mouth, then quickly shut it again.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar trgovina, podjetje ali ustanova 
+<seg type="lemma">
+shuts
+</seg>
+, je zaprta, tako da ne moremo priti vanjo, dokler se spet ne odpre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What time do the shops shut?&rsquo;&mdash;&lsquo;Half past five.&rsquo;
+</quote>
+<quote>
+The troops forced merchants to shut their shops.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I&apos;m afraid all the pubs will be shut.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shut away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shut something away 
+</seg>
+pomeni nekaj shraniti nekam, kjer ljudje tistega ne morejo videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hraniti pod klju&ccaron;em, umakniti pred javnostjo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have a small number of books which are shut away.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+shut down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar tovarna ali podjetje 
+<seg type="lemma">
+is shut down
+</seg>
+, neha delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His department was shut down for lack of funds.
+</quote>
+<quote>
+That year my grandfather had to shut down the forge.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+shutdown.
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+shut out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To shut someone or something out 
+</seg>
+pomeni prepre&ccaron;iti, da bi nekdo ali nekaj pri&scaron;lo v dolo&ccaron;en prostor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepre&ccaron;iti dostop
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had covered the holes to shut out the water.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To shut out a thought or a feeling 
+</seg>
+pomeni prisiliti se, da ne mislimo na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne misliti na, pregnati misel na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She found it impossible to shut out the pain.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+shut up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To shut up 
+</seg>
+pomeni nehati govoriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umolkniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Shut up and listen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To shut someone up 
+</seg>
+pomeni prepre&ccaron;iti nekomu, da bi &scaron;e naprej govoril; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+uti&scaron;ati, zapreti usta komu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Turn the television on. That usually shuts them up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

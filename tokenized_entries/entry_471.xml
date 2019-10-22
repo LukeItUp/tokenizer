@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p24_s25521" id="p24_w270" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="92.41" y="364.218" base="369.38" width="42.3116" height="6.844">/æmplËfaË6/,</TOKEN>
+<TOKEN sid="p24_s25521" id="p24_w270" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="92.41" y="364.218" base="369.38" width="42.3116" height="6.844">/&#230;mpl&#203;fa&#203;6/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -45,14 +45,15 @@
 <TOKEN sid="p24_s25543" id="p24_w292" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.61" y="381.844" base="387.54" width="35.604" height="7.552">oja~evalec;</TOKEN>
 </quote>
 </cit>
-<ref type="picture">
+<QP>
 <TOKEN sid="p24_s25544" id="p24_w293" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="229.655" y="381.844" base="387.54" width="11.9167" height="7.552">glej</TOKEN>
 <TOKEN sid="p24_s25545" id="p24_w294" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1797" y="390.924" base="396.62" width="28.7899" height="7.552">slikovno</TOKEN>
 <TOKEN sid="p24_s25546" id="p24_w295" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.9683" y="390.924" base="396.62" width="24.3922" height="7.552">prilogo</TOKEN>
-<ref>
+<QZ>
 <TOKEN sid="p24_s25547" id="p24_w296" font-name="ssexcelsior" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="117.37" y="392.348" base="396.62" width="27.2905" height="5.664">MUSICAL</TOKEN>
 <TOKEN sid="p24_s25548" id="p24_w297" font-name="ssexcelsior" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="146.16" y="392.348" base="396.62" width="44.892" height="5.664">INSTRUMENTS.</TOKEN>
-</ref>
-</ref>
+</QZ>
+<TOKEN sid="p24_s25549" id="p24_w298" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="399.282" base="405.69" width="30.0909" height="8.514">amplify</TOKEN>
+</QP>
 </sense>
 </entry>

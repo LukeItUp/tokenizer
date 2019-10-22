@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pickle
+</orth>
+<form type="variant">
+<pron>
+/p*Ik@0l/
+</pron>
+</form>
+<form type="inflected">
+pickles, pickling, pickled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pickles 
+</seg>
+je zelenjava ali sadje, ki ju dalj &ccaron;asa hranimo v kisu ali slani vodi, da dobi mo&ccaron;an, oster okus. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;eno sadje ali zelenjava mo&ccaron;nega okusa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a jar of pickles.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pickles food
+</seg>
+, hrano konzervira tako, da jo shrani v kis ali slano vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To pickle herring, soak the fish in salted water.
+</quote>
+</seg>
+</sense>
+</entry>

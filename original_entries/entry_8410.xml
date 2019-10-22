@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lob
+</orth>
+<form type="variant">
+<pron>
+/l*Qb/
+</pron>
+</form>
+<form type="inflected">
+lobs, lobbing, lobbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lob something 
+</seg>
+pomeni nekaj vre&ccaron;i visoko v zrak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i v velikem loku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wrapped a piece of paper round a stone and lobbed it into the next garden.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo pri tenisu 
+<seg type="lemma">
+lobs the ball
+</seg>
+, &zcaron;ogo odbije visoko v zrak, da zleti &ccaron;ez nasprotnega igralca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udariti lob
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Miss Evert reached to lob a return of Miss Wade&apos;s.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...high lobs to the backhand corner.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

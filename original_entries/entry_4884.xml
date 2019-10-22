@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+evict
+</orth>
+<form type="variant">
+<pron>
+/i1v*Ikt/
+</pron>
+</form>
+<form type="inflected">
+evicts, evicting, evicted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so ljudje 
+<seg type="lemma">
+evicted
+</seg>
+, so uradno prisiljeni zapustiti hi&scaron;o, v kateri &zcaron;ivijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izseliti, nasilno pregnati, delo&zcaron;irati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If evicted, they would have nowhere else to go.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+eviction
+</orth>
+<form type="variant">
+<pron>
+/i1v*IkS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The family faces eviction for non-payment of rent.
+</quote>
+<quote>
+She described the evictions as &lsquo;an outrage&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p674_s739083" id="p674_w256" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.504" y="318.294" base="323.99" width="24.8155" height="7.552">seating</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p674_s739084" id="p674_w257" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.99" y="318.294" base="323.99" width="23.2027" height="7.552">herself</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p674_s739085" id="p674_w258" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.862" y="318.294" base="323.99" width="8.47152" height="7.552">on</TOKEN>
+<TOKEN sid="p674_s739086" id="p674_w259" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="211.004" y="318.294" base="323.99" width="10.9382" height="7.552">the</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p674_s739087" id="p674_w260" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="225.612" y="318.294" base="323.99" width="15.8789" height="7.552">sofa.</TOKEN>
+<TOKEN sid="p674_s739089" id="p674_w262" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="66.61" y="327.374" base="333.07" width="22.8096" height="7.568">seated</TOKEN>
+</seg>
+<TOKEN sid="p674_s739090" id="p674_w263" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="91.34" y="329.154" base="333.07" width="14.5698" height="5.192">PRED</TOKEN>
+<TOKEN sid="p674_s739091" id="p674_w264" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="107.234" y="329.154" base="333.07" width="10.4475" height="5.192">ADJ</TOKEN>
+<TOKEN sid="p674_s739092" id="p674_w265" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.61" y="327.374" base="333.07" width="27.1858" height="7.552">General</TOKEN>
+<TOKEN sid="p674_s739093" id="p674_w266" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.715" y="327.374" base="333.07" width="29.1218" height="7.552">Tomkins</TOKEN>
+<TOKEN sid="p674_s739094" id="p674_w267" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="179.756" y="327.374" base="333.07" width="13.1947" height="7.552">was</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p674_s739095" id="p674_w268" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.869" y="327.374" base="333.07" width="21.5928" height="7.552">seated</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p674_s739096" id="p674_w269" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.381" y="327.374" base="333.07" width="23.1912" height="7.552">behind</TOKEN>
+<TOKEN sid="p674_s739097" id="p674_w270" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="336.454" base="342.15" width="9.73008" height="7.552">his</TOKEN>
+<TOKEN sid="p674_s739098" id="p674_w271" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="71.3779" y="336.454" base="342.15" width="17.0698" height="7.552">desk.</TOKEN>
+<TOKEN sid="p674_s739100" id="p674_w273" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="96.08" y="338.234" base="342.15" width="7.05672" height="5.192">VB</TOKEN>
+<TOKEN sid="p674_s739101" id="p674_w274" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="104.141" y="338.234" base="342.15" width="10.4485" height="5.192">with</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

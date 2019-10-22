@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interruption
+</orth>
+<form type="variant">
+<pron>
+/*Int@r*VpS@0n/
+</pron>
+</form>
+<form type="inflected">
+interruptions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An interruption 
+</seg>
+je nekaj, kar za&ccaron;asno prepre&ccaron;i, da bi se neka dejavnost nadaljevala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekinitev, motnja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She hates interruptions when she&apos;s working.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Interruption 
+</seg>
+je prekinjanje nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+motenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We should be safe from interruption.
+</quote>
+</seg>
+</sense>
+</entry>

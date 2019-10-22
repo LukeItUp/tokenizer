@@ -5,7 +5,7 @@ attention
 </orth>
 <form type="variant">
 <pron>
-/@3t*enS@0n/.
+/@3t*enS@0n/
 </pron>
 </form>
 </form>
@@ -19,7 +19,7 @@ UNCOUNT N
 <seg type="lemma">
 To give one's attention to something
 </seg>
-pomeni, da nekaj gledamo, poslu&#353;amo ali o tistem pazljivo razmi&#353;ljamo.
+ pomeni, da nekaj gledamo, poslu&scaron;amo ali o tistem pazljivo razmi&scaron;ljamo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -39,12 +39,11 @@ UNCOUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekaj
+Kadar nekaj 
 <seg type="lemma">
 is getting attention
 </seg>
-se s
-tistim ukvarjamo.
+, se s tistim ukvarjamo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -57,20 +56,18 @@ They needed medical attention.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-brings something to one's
-attention
+brings something to one's attention 
 </seg>
-ali
-<seg type="phrase_variant">
-draws one's attention to
-something
-</seg>
-na tisto nekoga opozori.
+ali 
+<FV>
+draws one's attention to something
+</FV>
+, na tisto nekoga opozori. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -80,16 +77,15 @@ usmeriti pozornost
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar nekaj
+Kadar nekaj 
 <seg type="lemma">
-attracts one's attention
+attracts one's attention 
 </seg>
-ali
-<seg type="phrase_variant">
+ali 
+<FV>
 catches one's attention
-</seg>
-&#269;lovek
-tisto nenadoma opazi.
+</FV>
+, &ccaron;lovek tisto nenadoma opazi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -102,8 +98,7 @@ pritegniti pozornost
 <seg type="lemma">
 To pay attention to something
 </seg>
-pomeni
-tisto gledati, poslu&#353;ati ali opaziti.
+ pomeni tisto gledati, poslu&scaron;ati ali opaziti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -118,11 +113,11 @@ There's far too much attention being paid to these hooligans.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar vojaki
+Kadar vojaki 
 <seg type="lemma">
 stand to attention
 </seg>
-stojijo vzravnano s stopali skupaj in rokami ob telesu.
+, stojijo vzravnano s stopali skupaj in rokami ob telesu. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -130,5 +125,5 @@ stati v pozoru
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

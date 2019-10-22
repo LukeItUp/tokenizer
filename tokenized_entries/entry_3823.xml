@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p110_s120854" id="p110_w1057" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="266.186" y="608.804" base="614.5" width="28.3392" height="7.552">diagram</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p110_s120855" id="p110_w1058" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.115" y="608.804" base="614.5" width="8.7768" height="7.552">ali</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p110_s120856" id="p110_w1059" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.482" y="608.804" base="614.5" width="31.1184" height="7.552">grafikon,</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p110_s120857" id="p110_w1060" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="339.19" y="608.804" base="614.5" width="6.786" height="7.552">ki</TOKEN>
+<TOKEN sid="p110_s120858" id="p110_w1061" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="347.566" y="608.804" base="614.5" width="29.952" height="7.552">omogo~a</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p110_s120859" id="p110_w1062" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.108" y="608.804" base="614.5" width="15.9552" height="7.552">la`je</TOKEN>
+<TOKEN sid="p110_s120860" id="p110_w1063" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="396.653" y="608.804" base="614.5" width="43.4952" height="7.552">razumevanje</TOKEN>
+</seg>
+<TOKEN sid="p110_s120861" id="p110_w1064" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="239.76" y="47.272" base="53.68" width="15.0102" height="8.496">110</TOKEN>
+<TOKEN sid="p110_s120862" id="p110_w1065" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="48.512" base="54.92" width="30.8826" height="8.514">chapter</TOKEN>
+<TOKEN sid="p110_s120863" id="p110_w1066" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="419.08" y="48.512" base="54.92" width="20.9458" height="8.514">chart</TOKEN>
+<TOKEN sid="p110_s120865" id="p110_w1068" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="63.72" y="632.036" base="637.02" width="14.3495" height="6.608">calm</TOKEN>
+<TOKEN sid="p110_s120866" id="p110_w1069" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="90.65" y="632.036" base="637.02" width="5.2479" height="6.608">&#230;</TOKEN>
+<TOKEN sid="p110_s120867" id="p110_w1070" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="99.4" y="632.036" base="637.02" width="9.09972" height="6.608">act</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p110_s120868" id="p110_w1071" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="121.09" y="632.036" base="637.02" width="3.15" height="6.608">e</TOKEN>
+<TOKEN sid="p110_s120869" id="p110_w1072" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="127.741" y="632.036" base="637.02" width="10.8391" height="6.608">pen</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p110_s120870" id="p110_w1073" font-name="slexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="151.17" y="633.674" base="637.02" width="2.1924" height="3.395">&#203;</TOKEN>
+<TOKEN sid="p110_s120871" id="p110_w1074" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="156.86" y="632.036" base="637.02" width="11.1888" height="6.608">win</TOKEN>
+<TOKEN sid="p110_s120872" id="p110_w1075" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="180.63" y="632.036" base="637.02" width="3.96522" height="6.608">i&#194;</TOKEN>
+<TOKEN sid="p110_s120873" id="p110_w1076" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="188.09" y="632.036" base="637.02" width="12.5994" height="6.608">feed</TOKEN>
+<TOKEN sid="p110_s120874" id="p110_w1077" font-name="slexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="213.27" y="633.674" base="637.02" width="3.8493" height="3.395">&#201;</TOKEN>
+<TOKEN sid="p110_s120875" id="p110_w1078" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="220.62" y="632.036" base="637.02" width="10.8499" height="6.608">lost</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+throne
+</orth>
+<form type="variant">
+<pron>
+/Tr*@*Un/
+</pron>
+</form>
+<form type="inflected">
+thrones.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A throne 
+</seg>
+je poseben stol, na katerem sedi kralj ali kraljica ob pomembnih prilo&zcaron;nostih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestol
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The throne 
+</seg>
+je tudi uradni polo&zcaron;aj osebe, ki je kralj ali kraljica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when Queen Victoria was on the throne.
+</quote>
+<quote>
+...the heir to the throne.
+</quote>
+</seg>
+</sense>
+</entry>

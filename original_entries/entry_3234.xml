@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+critic
+</orth>
+<form type="variant">
+<pron>
+/kr*ItIk/
+</pron>
+</form>
+<form type="inflected">
+critics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A critic 
+</seg>
+je oseba, ki pi&scaron;e ocene in izra&zcaron;a mnenje o knjigah, filmih, glasbi in umetnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kritik, ocenjevalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...television critics.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A critic of a person or system 
+</seg>
+je oseba, ki obsoja neko osebo ali sistem in ju javno graja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kritik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...critics of the Trade Union Movement.
+</quote>
+</seg>
+</sense>
+</entry>

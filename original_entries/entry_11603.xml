@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+receipt
+</orth>
+<form type="variant">
+<pron>
+/rI1s*i*:t/
+</pron>
+</form>
+<form type="inflected">
+receipts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A receipt 
+</seg>
+je dokument, ki potrjuje, da je podpisnik prejel denar ali blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrdilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Give students a written receipt for each payment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Denar, ki ga prejmejo v trgovini ali gledali&scaron;&ccaron;u, se pogosto imenuje 
+<seg type="lemma">
+receipts
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prejemek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The receipts from admission fees fell sharply.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The receipt of something 
+</seg>
+je prejetje ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prejem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You have to sign here and acknowledge receipt.
+</quote>
+</seg>
+</sense>
+</entry>

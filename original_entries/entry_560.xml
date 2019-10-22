@@ -5,27 +5,29 @@ antenna
 </orth>
 <form type="variant">
 <pron>
-/#ae;nt*en@/
+/&ae;nt*en@/
 </pron>
 </form>
 <form type="inflected">
-antennae
+antennae 
 <pron>
-/#ae;nt*enaI/
+/&ae;nt*enaI/
 </pron>
-<seg>
-ali
-</seg>
-<form type="inflected">
-antennas.
+ 
+<IC>
+ali 
+</IC>
+<IV>
+antennas
+</IV>
+.
 </form>
-</form>
-<usg>
-Pri 2. pomenu je mno&#382;ina obi&#269;ajno
-<ref>
+<IN>
+Pri 2. pomenu je mno&zcaron;ina obi&ccaron;ajno 
+<IH>
 antennas.
-</ref>
-</usg>
+</IH>
+</IN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -35,10 +37,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The antennae
+The antennae 
 </seg>
-pri &#382;u&#382;elki sta dva dolga,
-tanka izrastka na glavi, s katerima &#382;ival tipa.
+pri &zcaron;u&zcaron;elki sta dva dolga, tanka izrastka na glavi, s katerima &zcaron;ival tipa. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -54,13 +55,12 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An antenna
+An antenna 
 </seg>
-je tudi radijska ali
-televizijska antena;
+je tudi radijska ali televizijska antena; 
 </def>
 <usg>
-ameri&#353;ka raba.
+ameri&scaron;ka raba.
 </usg>
 <cit type="translationEquivalent">
 <quote>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+marriage
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;rIdZ/
+</pron>
+</form>
+<form type="inflected">
+marriages.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A marriage 
+</seg>
+je zveza med mo&zcaron;em in &zcaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has been a happy marriage.
+</quote>
+<quote>
+...in their early years of marriage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A marriage 
+</seg>
+je tudi sklenitev zakonske zveze. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poroka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Victoria&apos;s marriage to her cousin was not welcomed by her family.
+</quote>
+<quote>
+On marriage, she moves to her husband&apos;s family home.
+</quote>
+</seg>
+</sense>
+</entry>

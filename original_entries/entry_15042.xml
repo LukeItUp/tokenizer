@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+uncertainty
+</orth>
+<form type="variant">
+<pron>
+/Vns*$e*:t@nti1/
+</pron>
+</form>
+<form type="inflected">
+uncertainties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Uncertainty 
+</seg>
+pomeni, da ljudje ne vedo, kaj se bo zgodilo ali kaj naj naredijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+negotovost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the continued uncertainty about the future of the aircraft industry.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Uncertainties 
+</seg>
+so stvari, ki jih nih&ccaron;e ne pozna zanesljivo, zlasti dogodki v prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezanesljivost, nejasnost, negotovost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The industry is still plagued by economic uncertainties.
+</quote>
+</seg>
+</sense>
+</entry>

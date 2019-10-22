@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nomination
+</orth>
+<form type="variant">
+<pron>
+/n*QmIn*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+nominations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nomination 
+</seg>
+je uraden predlog nekoga za kandidata na volitvah ali za delovno mesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a list of nominations for senior lectureships.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The nomination of someone to a job or position
+</seg>
+ je imenovanje nekoga na dolo&ccaron;eno mesto ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Judge O&rsquo;Connor&apos;s nomination to the Supreme Court.
+</quote>
+</seg>
+</sense>
+</entry>

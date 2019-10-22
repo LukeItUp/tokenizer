@@ -1,0 +1,224 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dark
+</orth>
+<form type="variant">
+<pron>
+/d*A*:k/
+</pron>
+</form>
+<form type="inflected">
+darker, darkest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+dark
+</seg>
+, ni dovolj svetlobe, da bi dobro videli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temen, mra&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Luckily it was too dark for anyone to see me blushing.
+</quote>
+<quote>
+The room was dark and empty.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+darkness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The lights went out and the hall was plunged into darkness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dark 
+</seg>
+je pomanjkanje svetlobe v prostoru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tema, mrak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was sitting in the dark at the back of the theatre.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+dark
+</seg>
+, je take barve, kot so videti vse stvari, kadar so v senci. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...long dark hair.
+</quote>
+<quote>
+...dark red curtains.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+dark
+</seg>
+, ima rjave ali &ccaron;rne lase in pogosto tudi rjavo ko&zcaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a tall, dark, and undeniably handsome man.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+obdobje, ki je 
+<seg type="lemma">
+dark
+</seg>
+, je neprijetno ali grozljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mra&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the dark days of high unemployment.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pogledi ali pripombe, ki so 
+<seg type="lemma">
+dark
+</seg>
+, dajejo slutiti, da se bo zgodilo nekaj stra&scaron;nega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mra&ccaron;en, groze&ccaron;, zlove&scaron;&ccaron;
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+darkly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Another of the men hinted darkly that there would be violence.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekaj storimo 
+<seg type="lemma">
+before dark
+</seg>
+, tisto storimo, preden zaide sonce. &Ccaron;e nekaj storimo 
+<FV>
+after dark
+</FV>
+, tisto storimo, ko se no&ccaron; &zcaron;e za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pred mrakom, zve&ccaron;er
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be in the dark about something 
+</seg>
+pomeni, da o ne&ccaron;em ne&ccaron;esa ne vemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne vedeti, ne biti pou&ccaron;en
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

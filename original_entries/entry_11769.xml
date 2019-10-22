@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+relation
+</orth>
+<form type="variant">
+<pron>
+/rI1l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+relations.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in relation to 
+</seg>
+pri primerjanju dveh stvari uvedemo drugo od teh dveh stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glede na, v primerjavi z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wages are very low in relation to the cost of living.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The relation of one thing to another 
+</seg>
+je povezava med dvema stvarema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odnos, povezava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She argued that literature has no relation to reality.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s relations 
+</seg>
+so &ccaron;lani posameznikove dru&zcaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sorodnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was a distant relation of her husband.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Relations between people or groups 
+</seg>
+so stiki med ljudmi ali skupinami ljudmi in na&ccaron;in, kako se vedejo drug do drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odnosi, stiki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The unions should have close relations with management.
+</quote>
+</seg>
+</sense>
+</entry>

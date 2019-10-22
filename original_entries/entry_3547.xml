@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+decrease
+</orth>
+<form type="variant">
+<pron>
+/di1kr*i*:s/
+</pron>
+</form>
+<form type="inflected">
+decreases, decreasing, decreased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+decreases
+</seg>
+, postaja manj&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati (se), upadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The number of marriages has decreased by forty per cent.
+</quote>
+<quote>
+To save money, decrease the temperature.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+decreasing
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a life of increasing labour and decreasing leisure.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A decrease 
+</seg>
+je zmanj&scaron;anje koli&ccaron;ine ali velikosti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manj&scaron;anje, pojemanje
+</quote>
+</cit>
+</sense>
+</entry>

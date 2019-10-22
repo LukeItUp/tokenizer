@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+recognition
+</orth>
+<form type="variant">
+<pron>
+/r*ek@g0n*IS@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Recognition 
+</seg>
+je to, da nekoga ali nekaj prepoznamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepoznanje, prepoznava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She walked past me without so much as a glance of recognition.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Recognition of something 
+</seg>
+pomeni, da se ljudje ne&ccaron;esa zavedo ali da sprejmejo, da tisto obstaja ali da je res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavedanje, spoznanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There has been insufficient recognition of the magnitude of the problem.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj narejeno 
+<seg type="lemma">
+in recognition of someone&apos;s achievements
+</seg>
+, je narejeno zato, da uradno poka&zcaron;emo spo&scaron;tovanje do dolo&ccaron;enega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot priznanje za dose&zcaron;ke
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was awarded a knighthood in recognition of his great contribution to the British cinema.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

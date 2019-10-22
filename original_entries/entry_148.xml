@@ -5,7 +5,7 @@ activate
 </orth>
 <form type="variant">
 <pron>
-/*#ae;ktI1veIt/
+/*&ae;ktI1veIt/
 </pron>
 </form>
 <form type="inflected">
@@ -15,30 +15,28 @@ activates, activating, activated.
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e je naprava ali proces
+&Ccaron;e je naprava ali proces 
 <seg type="lemma">
 activated
 </seg>
-nekaj
-povzro&#269;i, da za&#269;ne delovati.
+, nekaj povzro&ccaron;i, da za&ccaron;ne delovati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-spro&#382;iti, aktivirati
+spro&zcaron;iti, aktivirati
 </quote>
 </cit>
 <seg type="example">
 <quote>
-The gates will open automatically when the detection equipment is
-activated.
+The gates will open automatically when the detection equipment is activated.
 </quote>
 </seg>
 </sense>

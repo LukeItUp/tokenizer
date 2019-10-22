@@ -1,0 +1,265 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pump
+</orth>
+<form type="variant">
+<pron>
+/p*Vmp/
+</pron>
+</form>
+<form type="inflected">
+pumps, pumping, pumped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pump 
+</seg>
+je stroj ali naprava, s katero potiskamo teko&ccaron;ino ali plin v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rpalka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pump 
+</seg>
+je tudi naprava, s katero &ccaron;rpamo vodo iz tal na povr&scaron;je. Pogosto ima ro&ccaron;ico, ki jo moramo potiskati, da voda prite&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vodnjak, vodna &ccaron;rpalka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We scrubbed ourselves under the pump.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pump 
+</seg>
+je tudi pripomo&ccaron;ek, s katerim potiskamo zrak v kaj, zlasti v zra&ccaron;nice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tla&ccaron;ilka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bicycle pump.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A petrol pump 
+</seg>
+je naprava, na katero je pritrjena cev, po kateri lahko avtomobilski rezervoar napolnimo z bencinom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bencinska &ccaron;rpalka
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pumps 
+</seg>
+so &ccaron;evlji iz blaga z ravnimi gumijastimi podplati; ljudje jih nosijo pri &scaron;portu in rekreaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;portni copati
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pump a liquid or gas in a particular direction 
+</seg>
+pomeni s &ccaron;rpalko potiskati teko&ccaron;ino ali plin v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can use the electricity to pump water back into a dam or a reservoir.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pump water, oil, or gas 
+</seg>
+pomeni kopi&ccaron;iti zaloge vode, nafte ali plina s &ccaron;rpalko, ki to zalogo spravi na povr&scaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+John went to a cast-iron pump and started pumping water to drink.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pump something 
+</seg>
+ali 
+<seg type="lemma">
+to pump something up 
+</seg>
+pomeni nekaj, na primer zra&ccaron;nico, napolniti z zrakom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pump money or energy into something 
+</seg>
+pomeni vlo&zcaron;iti veliko denarja ali energije v nekaj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most governments have pumped all available funds into large-scale modern technological projects.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pump someone about something 
+</seg>
+pomeni nekomu zastavljati vpra&scaron;anje za vpra&scaron;anjem, da bi od njega dobili &zcaron;elene podatke; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zasli&scaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I pumped him discreetly about his past.
+</quote>
+</seg>
+</sense>
+</entry>

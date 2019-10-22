@@ -1,0 +1,334 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flat
+</orth>
+<form type="variant">
+<pron>
+/fl*&ae;t/
+</pron>
+</form>
+<form type="inflected">
+flats; flatter, flattest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flat 
+</seg>
+so bivalni prostori; navadno so v enem nadstropju velike stavbe; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stanovanje
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HOUSE AND FLAT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a block of flats.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+flat
+</seg>
+, ni nagnjeno, ukrivljeno ali za&scaron;iljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plo&scaron;&ccaron;at, plosk, raven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Every flat surface in our house is covered with junk.
+</quote>
+<quote>
+He took the handkerchief and smoothed it flat.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+flat against a surface
+</seg>
+, se v celoti dotika neke povr&scaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plosko le&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She let the blade of her oar rest flat upon the water.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je guma ali zra&ccaron;nica 
+<seg type="lemma">
+flat
+</seg>
+, v njej ni dovolj zraka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prazen
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zavrnitev, zanikanje ali odklonitev, ki je 
+<seg type="lemma">
+flat
+</seg>
+, je dokon&ccaron;na in odlo&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkrit, odlo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their earnest request met with a flat refusal.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+flatly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She has flatly refused to go.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glas, ki je 
+<seg type="lemma">
+flat
+</seg>
+, je hladen in ne&ccaron;ustven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enoli&ccaron;en, pust
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+flatly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;She is dead,&rsquo; said Ash flatly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+done in a particular amount of time flat
+</seg>
+, je storjeno natan&ccaron;no v dolo&ccaron;enem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They will be able to hit the targets in four minutes flat.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki dogodek ali poskus, da bi nekaj naredili, 
+<seg type="lemma">
+falls flat
+</seg>
+, se ne posre&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodleteti, izjaloviti se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flat 
+</seg>
+v glasbi je nota, ki je za polton ni&zcaron;ja kot tista, napisana z notnim znamenjem. Navadno jo zaznamujemo z znamenjem &lsquo;b&rsquo;, ki sledi noti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za polton zni&zcaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...B flat.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki ton v glasbi zaigramo ali zapojemo 
+<seg type="lemma">
+flat
+</seg>
+, je zvok malce ni&zcaron;ji, kot bi moral biti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zni&zcaron;an; napa&ccaron;en, razgla&scaron;en
+</quote>
+</cit>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Cena ali stro&scaron;ek, ki je 
+<seg type="lemma">
+flat
+</seg>
+, je enak za vse, ne glede na okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enoten; brezobresten
+</quote>
+</cit>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Akumulator, ki je 
+<seg type="lemma">
+flat
+</seg>
+, je izgubil nekaj ali vso svojo elektri&ccaron;no mo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prazen, izpraznjen
+</quote>
+</cit>
+</sense>
+</entry>

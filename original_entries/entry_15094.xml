@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+undergraduate
+</orth>
+<form type="variant">
+<pron>
+/*Vnd@gr*&ae;djU@1t/
+</pron>
+</form>
+<form type="inflected">
+undergraduates.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An undergraduate 
+</seg>
+je &scaron;tudent na univerzi ali kolid&zcaron;u, ki &zcaron;eli dose&ccaron;i diplomo prve ali druge stopnje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodiplomski &scaron;tudent
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Cambridge undergraduate.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an undergraduate degree.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

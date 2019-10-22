@@ -1,0 +1,155 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+season
+</orth>
+<form type="variant">
+<pron>
+/s*i*:z@0n/
+</pron>
+</form>
+<form type="inflected">
+seasons, seasoning, seasoned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The seasons 
+</seg>
+so obdobja, na katera razdelimo leto, ker je vreme v vsakem obdobju druga&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+letni &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Autumn is my favourite season.
+</quote>
+<quote>
+Most tropical areas have rainy and dry seasons.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A season 
+</seg>
+je tudi obdobje z zna&ccaron;ilnim dogajanjem, ki se ponovi vsako leto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sezona
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When does the football season end?
+</quote>
+<quote>
+...the holiday season.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A season of films 
+</seg>
+je ve&ccaron; filmov, ki jih prika&zcaron;ejo drugega za drugim, ker so tako ali druga&ccaron;e povezani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dnevi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a season of Clint Eastwood movies.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To season food 
+</seg>
+pomeni hrani dodati sol, poper ali druge za&ccaron;imbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;initi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tuna fish seasoned with salt.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je sadje ali zelenjava 
+<seg type="lemma">
+in season
+</seg>
+, je tisti letni &ccaron;as, ko je tisto sadje ali zelenjava primerno za u&zcaron;ivanje in ga je lahko dobiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sezonski
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar gremo nekam 
+<seg type="lemma">
+out of season
+</seg>
+, gremo tja takrat, ko tam ni &ccaron;as po&ccaron;itnic in zato ni gne&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zunaj sezone
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

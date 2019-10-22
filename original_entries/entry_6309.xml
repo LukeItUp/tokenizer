@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grimace
+</orth>
+<form type="variant">
+<pron>
+/grIm*e*Is, gr*Im@1s/
+</pron>
+</form>
+<form type="inflected">
+grimaces, grimacing, grimaced.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grimace 
+</seg>
+je spa&ccaron;en, grd izraz na obrazu, ki ka&zcaron;e, da smo nezadovoljni, razo&ccaron;arani ali nas kaj boli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spaka, grimasa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thomas made a little grimace. Perhaps he thought the wine was sour.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She made a bad gear-change and grimaced.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+probability
+</orth>
+<form type="variant">
+<pron>
+/pr*Qb@b*IlI1ti1/
+</pron>
+</form>
+<form type="inflected">
+probabilities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The probability of something happening 
+</seg>
+je ocena, kako verjetno je, da se bo nekaj zgodilo. V&ccaron;asih jo izrazimo z ulomkom ali odstotkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verjetnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many people prefer mathematical probabilities to inspired guesses.
+</quote>
+<quote>
+...a triumph of determination against all probability.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The probability that something will happen 
+</seg>
+je dejstvo, da se bo nekaj verjetno zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verjetnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The real source of his gloom was the probability that Kathy would not come.
+</quote>
+<quote>
+The probability is that they will find themselves in debt.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+concentrate
+</orth>
+<form type="variant">
+<pron>
+/k*Qns@2ntreIt/
+</pron>
+</form>
+<form type="inflected">
+concentrates, concentrating, concentrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To concentrate on something 
+</seg>
+pomeni ne&ccaron;emu posvetiti vso svojo pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osredoto&ccaron;iti se, zbrati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Concentrate on your driving.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+concentration
+</orth>
+<form type="variant">
+<pron>
+/k*Qns@2ntr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It requires considerable concentration.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+concentrated in one place
+</seg>
+, je vse na enem kraju in ni razpr&scaron;eno naokoli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati, zdru&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Modern industry has been concentrated in a few large urban centres.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+concentration
+</orth>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the concentration of power in the hands of a single group.
+</quote>
+<quote>
+...the densest concentrations of people in the Third World.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

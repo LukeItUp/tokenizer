@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gravity
+</orth>
+<form type="variant">
+<pron>
+/gr*&ae;vI1ti1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Gravity 
+</seg>
+je sila, zaradi katere predmeti padejo, kadar jih spustimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;nost, gravitacija
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The gravity of a situation 
+</seg>
+je pomembnost in resnost nekih okoli&scaron;&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;a, resnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the gravity of the threat to shipping.
+</quote>
+</seg>
+</sense>
+</entry>

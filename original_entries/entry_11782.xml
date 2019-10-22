@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reliable
+</orth>
+<form type="variant">
+<pron>
+/rI1l*a*I*@b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na osebe ali stvari, ki so 
+<seg type="lemma">
+reliable
+</seg>
+, se lahko zanesemo, da bodo dobro delale ali se vedle tako, kot &zcaron;elimo od njih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is a charming and reliable person.
+</quote>
+<quote>
+The diesel engine is long-lasting and extremely reliable.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+reliably
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They worked reliably under battle conditions.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+reliability
+</orth>
+<form type="variant">
+<pron>
+/rI1l*a*I*@b*IlI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+These machines have always been noted for reliability.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Podatek, ki je 
+<seg type="lemma">
+reliable
+</seg>
+, je najverjetneje to&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...information from a reliable source.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+reliably
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We are reliably informed that her new record will be released in the autumn.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

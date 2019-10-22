@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weave
+</orth>
+<form type="variant">
+<pron>
+/w*i*:v/
+</pron>
+</form>
+<form type="inflected">
+weaves, weaving, wove
+</form>
+<form type="variant">
+<pron>
+/w*@*Uv/
+</pron>
+</form>
+<form type="inflected">
+woven
+</form>
+<form type="variant">
+<pron>
+/w*@*Uv@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weave cloth 
+</seg>
+pomeni s statvami izdelovati tkanino, tako da kri&zcaron;amo osnovne niti in votek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you want to learn to weave, you must get somebody to teach you.
+</quote>
+<quote>
+...woven fabrics.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+weaver
+</orth>
+<form type="variant">
+<pron>
+/w*i*:v@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had worked as a silk weaver.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The weave of a cloth 
+</seg>
+je na&ccaron;in, kako so urejene niti v tkanini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tkanje, na&ccaron;in tkanja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a tight, firm weave.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weave one&apos;s way somewhere 
+</seg>
+pomeni v cikcaku se premikati med stvarmi in okoli njih, ko nekam gremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utirati si pot, pretikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He weaves his way through the crowd.
+</quote>
+<quote>
+She wove through the guests, smiling brightly.
+</quote>
+</seg>
+</sense>
+</entry>

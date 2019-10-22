@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prey
+</orth>
+<form type="variant">
+<pron>
+/pr*e*I/
+</pron>
+</form>
+<form type="inflected">
+preys, preying, preyed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An animal&apos;s prey 
+</seg>
+so bitja, ki jih neka &zcaron;ival ulovi in poj&eacute;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The mole seeks its prey entirely underground.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+prey on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar neka &zcaron;ival 
+<seg type="lemma">
+preys on another animal
+</seg>
+, se hrani tako, da lovi in j&eacute; &zcaron;ivali druge vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+loviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The amphibians were hunters, preying on worms and insects.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+preys on someone&apos;s mind
+</seg>
+, zaradi tiste stvari &ccaron;loveka ves &ccaron;as skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;iti, mu&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Barton agreed, but the decision preyed on his mind.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</sense>
+</entry>

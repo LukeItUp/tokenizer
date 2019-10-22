@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kidnap
+</orth>
+<form type="variant">
+<pron>
+/k*Idn&ae;p/
+</pron>
+</form>
+<form type="inflected">
+kidnaps, kidnapping, kidnapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+kidnaps someone
+</seg>
+, tistega &ccaron;loveka odpelje s silo, navadno zato, da bi od njegove dru&zcaron;ine ali vlade zahteval denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugrabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was kidnapped by terrorists just over a month ago.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+kidnapping
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They charged me with murder and kidnapping.
+</quote>
+<quote>
+...the kidnapping of a royal child.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+kidnapper
+</orth>
+<form type="variant">
+<pron>
+/k*Idn&ae;p@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I had given up all hope of tracing her kidnapper.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Kidnap 
+</seg>
+je zlo&ccaron;in, pri katerem nekoga ugrabijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugrabitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the threat of kidnap or assassination.
+</quote>
+<quote>
+...a kidnap victim.
+</quote>
+</seg>
+</sense>
+</entry>

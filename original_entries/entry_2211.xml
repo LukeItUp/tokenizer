@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chat
+</orth>
+<form type="variant">
+<pron>
+/tS*&ae;t/
+</pron>
+</form>
+<form type="inflected">
+chats, chatting, chatted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chat 
+</seg>
+pomeni pogovarjati se neuradno in prijateljsko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klepetati, kramljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We sat by the fire and chatted all evening.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chat 
+</seg>
+je neuraden, prijateljski pogovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klepet, pomenek, kramljanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had a nice long chat about our schooldays.
+</quote>
+<quote>
+...entertaining them with light chat.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+chat up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To chat someone up 
+</seg>
+pomeni z nekom ljubeznivo govoriti, ker nas privla&ccaron;i; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+osvajati z besedami
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was being chatted up by this bloke.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

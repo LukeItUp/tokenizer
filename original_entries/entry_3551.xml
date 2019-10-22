@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dedicate
+</orth>
+<form type="variant">
+<pron>
+/d*edIkeIt/
+</pron>
+</form>
+<form type="inflected">
+dedicates, dedicating, dedicated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dedicate oneself to something 
+</seg>
+pomeni ne&ccaron;emu posvetiti veliko &ccaron;asa in truda, ker mislimo, da je pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man who had dedicated himself to his work.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dedicate something to someone 
+</seg>
+pomeni izjaviti, da je recimo knjiga ali skladba napisana za nekega &ccaron;loveka v znamenje naklonjenosti ali spo&scaron;tovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She dedicated her first book to her husband.
+</quote>
+</seg>
+</sense>
+</entry>

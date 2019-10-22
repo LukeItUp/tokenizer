@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+choose
+</orth>
+<form type="variant">
+<pron>
+/tS*u*:z/
+</pron>
+</form>
+<form type="inflected">
+chooses, choosing, chose
+</form>
+<form type="variant">
+<pron>
+/tS*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+chosen
+</form>
+<form type="variant">
+<pron>
+/tS*@*Uz@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To choose something from the things available 
+</seg>
+pomeni odlo&ccaron;iti se za eno stvar izmed vseh, ki so na voljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I chose a yellow dress.
+</quote>
+<quote>
+I had been chosen to be trained as editor.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+chosen
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They undergo training in their chosen professions.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To choose to do something 
+</seg>
+pomeni nekaj storiti zato, ker &zcaron;elimo ali &ccaron;utimo, da je prav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hoteti, &zcaron;eleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They could fire employees whenever they chose.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da je med stvarmi 
+<seg type="lemma">
+little to choose 
+</seg>
+ali 
+<FV>
+not much to choose
+</FV>
+, se je te&zcaron;ko odlo&ccaron;iti, katera stvar je bolj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;avna izbira
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There's nothing to choose between the two countries.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pinch
+</orth>
+<form type="variant">
+<pron>
+/p*IntS/
+</pron>
+</form>
+<form type="inflected">
+pinches, pinching, pinched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pinch someone 
+</seg>
+pomeni stisniti del &ccaron;lovekovega telesa med palcem in kazalcem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&scaron;&ccaron;ipniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dr. Hochstadt pinched Judy&apos;s cheek as she passed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She gave my wrist a little pinch.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pinch of something 
+</seg>
+je tako majhna koli&ccaron;ina, da jo lahko dr&zcaron;imo med palcem in kazalcem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;epec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Season with salt and a pinch of cinnamon.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pinch something 
+</seg>
+pomeni nekaj ukrasti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+suniti, zmakniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I pinched fourpence from the box.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+At a pinch 
+</seg>
+pomeni &ccaron;e je res nujno potrebno in ni druge mo&zcaron;nosti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v sili
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At a pinch the new doctor would do.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To feel the pinch 
+</seg>
+pomeni, da nimamo ve&ccaron; toliko denarja kot v&ccaron;asih in ne moremo kupiti vsega, kar bi radi imeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na tesnem z denarjem, biti v denarnih te&zcaron;avah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The big fashion establishments have been feeling the pinch lately.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+take 
+</QF>
+<QI>
+something 
+</QI>
+<QF>
+with a pinch of salt: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+salt
+</ref>
+</xr>
+</B>
+</entry>

@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p13_s13777" id="p13_w696" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.65" y="282.508" base="287.67" width="26.5716" height="6.844">/e6rË6l/,</TOKEN>
+<TOKEN sid="p13_s13777" id="p13_w696" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.65" y="282.508" base="287.67" width="26.5716" height="6.844">/e6r&#203;6l/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -55,7 +55,7 @@
 <TOKEN sid="p13_s13806" id="p13_w725" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="309.214" base="314.91" width="25.4491" height="7.552">erected.</TOKEN>
 </quote>
 <quote>
-<TOKEN sid="p13_s13807" id="p13_w726" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.658" y="309.214" base="314.91" width="25.7702" height="7.552">…aerial</TOKEN>
+<TOKEN sid="p13_s13807" id="p13_w726" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.658" y="309.214" base="314.91" width="25.7702" height="7.552">&#8230;aerial</TOKEN>
 <TOKEN sid="p13_s13808" id="p13_w727" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="314.856" y="309.214" base="314.91" width="27.0079" height="7.552">warfare.</TOKEN>
 </quote>
 </seg>
@@ -120,15 +120,16 @@
 <TOKEN sid="p13_s13843" id="p13_w762" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="345.524" base="351.22" width="10.4011" height="7.552">na;</TOKEN>
 </quote>
 </cit>
-<ref type="picture">
+<QP>
 <TOKEN sid="p13_s13844" id="p13_w763" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.21" y="345.524" base="351.22" width="12.3941" height="7.552">glej</TOKEN>
 <TOKEN sid="p13_s13845" id="p13_w764" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.603" y="345.524" base="351.22" width="28.7899" height="7.552">slikovno</TOKEN>
 <TOKEN sid="p13_s13846" id="p13_w765" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.392" y="345.524" base="351.22" width="24.3922" height="7.552">prilogo</TOKEN>
-<ref>
+<QZ>
 <TOKEN sid="p13_s13847" id="p13_w766" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="344.79" y="346.948" base="351.22" width="11.9966" height="5.664">CAR</TOKEN>
 <TOKEN sid="p13_s13848" id="p13_w767" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="358.286" y="346.948" base="351.22" width="13.1954" height="5.664">AND</TOKEN>
 <TOKEN sid="p13_s13849" id="p13_w768" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="6" font-color="#000000" rotation="0" angle="0" x="372.98" y="346.948" base="351.22" width="27.4914" height="5.664">BICYCLE.</TOKEN>
-</ref>
-</ref>
+</QZ>
+<TOKEN sid="p13_s13850" id="p13_w769" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="353.892" base="360.3" width="52.7278" height="8.514">aerodynamic</TOKEN>
+</QP>
 </sense>
 </entry>

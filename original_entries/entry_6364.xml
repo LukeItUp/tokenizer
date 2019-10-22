@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grunt
+</orth>
+<form type="variant">
+<pron>
+/gr*Vnt/
+</pron>
+</form>
+<form type="inflected">
+grunts, grunting, grunted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar oseba ali pra&scaron;i&ccaron; 
+<seg type="lemma">
+grunts
+</seg>
+, se ogla&scaron;a z nizkim, raskavim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kruliti, godrnjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His father looked up and grunted, then went back to his work.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gave a sceptical grunt.
+</quote>
+<quote>
+It sounded like a pig&apos;s grunt.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+restless
+</orth>
+<form type="variant">
+<pron>
+/r*estlI2s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+restless
+</seg>
+, je zdolgo&ccaron;asen ali nejevoljen in bi rad po&ccaron;el nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemiren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I knew that within a fortnight I should feel restless again.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+restlessness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They are showing some signs of restlessness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+restless
+</seg>
+, hodi gor in dol, ker ne more biti pri miru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemiren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was restless and fidgety.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+restlessly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He walked restlessly around the room.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

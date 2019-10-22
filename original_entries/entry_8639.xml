@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+malignant
+</orth>
+<form type="variant">
+<pron>
+/m@l*Ign@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ved&ecirc;nje, ki je 
+<seg type="lemma">
+malignant
+</seg>
+, je &scaron;kodljivo in hudobno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hudoben, zlonameren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the consequence of a malignant plot.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Bolezni, ki je 
+<seg type="lemma">
+malignant
+</seg>
+, ne moremo pozdraviti in se pogosto kon&ccaron;a s smrtjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+maligen, poguben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a malignant growth.
+</quote>
+</seg>
+</sense>
+</entry>

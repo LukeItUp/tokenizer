@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wrought
+</orth>
+<form type="variant">
+<pron>
+/r*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has wrought a change
+</seg>
+, je vzrok za neko spremembo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That moment had wrought a profound change in him.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kovina, ki je 
+<seg type="lemma">
+wrought
+</seg>
+, je predelana v dolo&ccaron;eno obliko, najve&ccaron;krat v okrasni predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kovan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...wrought silver.
+</quote>
+<quote>
+...a wrought iron gate.
+</quote>
+</seg>
+</sense>
+</entry>

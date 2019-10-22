@@ -5,27 +5,26 @@ after
 </orth>
 <form type="variant">
 <pron>
-/*A*:ft@/.
+/*A*:ft@/
 </pron>
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-PREP, ADV,
+PREP, ADV, 
 <seg>
-or
+or 
 </seg>
 CONJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar se nekaj zgodi
+Kadar se nekaj zgodi 
 <seg type="lemma">
-after a particular date or
-event
+after a particular date or event,
 </seg>
-se zgodi pozneje od tistega datuma ali dogodka.
+se zgodi pozneje od tistega datuma ali dogodka. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -52,13 +51,13 @@ PREP
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To go after someone
+To go after someone 
 </seg>
-ali
+ali 
 <seg type="lemma">
 to be after someone
 </seg>
-pomeni tistega &#269;loveka zasledovati ali preganjati.
+pomeni tistega &ccaron;loveka zasledovati ali preganjati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -81,16 +80,15 @@ PREP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-after something
+after something,
 </seg>
-posku&#353;a
-tisto pridobiti.
+posku&scaron;a tisto pridobiti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-hrepeneti po, &#382;eleti si
+hrepeneti po, &zcaron;eleti si
 </quote>
 </cit>
 <seg type="example">
@@ -106,12 +104,11 @@ PREP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-named after someone
+named after someone,
 </seg>
-ima
-enako osebno ime kot druga oseba.
+ima enako osebno ime kot druga oseba. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -131,21 +128,19 @@ PREP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Ameri&#269;ani z besedo
+Ameri&ccaron;ani z besedo 
 <seg type="lemma">
-after
+after 
 </seg>
-povedo, koliko je
-ura. Na primer: kadar re&#269;ejo, da je
+povedo, koliko je ura. Na primer: kadar re&ccaron;ejo, da je 
 <seg type="lemma">
-ten after six
+ten after six,
 </seg>
-je ura
-&#353;est in deset minut.
+je ura &scaron;est in deset minut. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#269;ez
+&ccaron;ez
 </quote>
 </cit>
 </sense>
@@ -157,16 +152,15 @@ PHRASE
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar se nekaj dogaja
+Kadar se nekaj dogaja 
 <seg type="lemma">
-day after day
+day after day 
 </seg>
-ali
-<seg type="phrase_variant">
-year after year
-</seg>
-se dogaja vsak dan ali
-vsako leto.
+ali 
+<FV>
+year after year,
+</FV>
+se dogaja vsak dan ali vsako leto. 
 </def>
 <cit type="translationEquivalent">
 <quote>

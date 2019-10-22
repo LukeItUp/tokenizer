@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+remark
+</orth>
+<form type="variant">
+<pron>
+/rI1m*A*:k/
+</pron>
+</form>
+<form type="inflected">
+remarks, remarking, remarked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To remark that something is the case 
+</seg>
+pomeni re&ccaron;i, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomniti, re&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He remarked that the lighting was not very good.
+</quote>
+<quote>
+His friends remarked on his failure to arrive.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A remark 
+</seg>
+je nekaj, kar re&ccaron;emo, pogosto mimogrede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomba, opazka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At school some of the children used to make unkind remarks about my clothes.
+</quote>
+</seg>
+</sense>
+</entry>

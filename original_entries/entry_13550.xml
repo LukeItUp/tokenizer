@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stack
+</orth>
+<form type="variant">
+<pron>
+/st*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+stacks, stacking, stacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stack of things 
+</seg>
+je urejena kopica stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skladanica, kup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On the sideboard was a stack of plates.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stack a number of things 
+</seg>
+pomeni urediti ve&ccaron;je &scaron;tevilo stvari v lepe skladanice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&zcaron;iti na kup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I started stacking the chairs.
+</quote>
+<quote>
+We stacked up the plates and carried them to the sink.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki kraj ali povr&scaron;ina 
+<seg type="lemma">
+stacked with objects
+</seg>
+, je polna kupov predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nalo&zcaron;en, nakopi&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shed was stacked with old boxes.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Stacks of something 
+</seg>
+pomeni veliko ne&ccaron;esa; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na kupe, veliko
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;ve got stacks of money.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inaccuracy
+</orth>
+<form type="variant">
+<pron>
+/In*&ae;kj@4r@si1/
+</pron>
+</form>
+<form type="inflected">
+inaccuracies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The inaccuracy of something 
+</seg>
+je dejstvo, da je nekaj nenatan&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenatan&ccaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the inaccuracy of my estimates.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inaccuracy 
+</seg>
+je trditev, ki je neto&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmota, pomota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The report contained a number of inaccuracies.
+</quote>
+</seg>
+</sense>
+</entry>

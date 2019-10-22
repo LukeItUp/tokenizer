@@ -1,0 +1,280 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deal
+</orth>
+<form type="variant">
+<pron>
+/d*i*:l/
+</pron>
+</form>
+<form type="inflected">
+deals, dealing, dealt
+</form>
+<form type="variant">
+<pron>
+/d*elt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A good deal of something 
+</seg>
+ali 
+<FV>
+a great deal of something 
+</FV>
+je veliko ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veliko, precej, dosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a great deal of concern about energy shortages.
+</quote>
+<quote>
+They talked a great deal.
+</quote>
+<quote>
+The teaching of the older children is a good deal better.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A deal 
+</seg>
+je dogovor ali ravnanje, zlasti pri poslovanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kup&ccaron;ija, sporazum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He certainly hadn&apos;t done badly on the deal.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+after 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+has had a bad deal
+</seg>
+, je imel smolo ali so z njim ravnali krivi&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne imeti sre&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has had a lousy deal out of life.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deal someone a blow 
+</seg>
+pomeni nekoga udariti ali ga po&scaron;kodovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadati, prizadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This woman dealt him an alarming series of blows.
+</quote>
+<quote>
+The growth of modern industry had dealt a heavy blow to their way of life.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To deal cards 
+</seg>
+pomeni dati igralne karte igralcem pri partiji kart. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(raz)deliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Deal seven cards to each player.
+</quote>
+<quote>
+Whose turn is it to deal?
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+deal in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To deal in a type of goods 
+</seg>
+pomeni, da prodajamo tisto vrsto blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shop deals only in trousers.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+deal out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To deal out cards 
+</seg>
+pomeni razdeliti igralne karte igralcem v partiji kart. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdeliti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+deal with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To deal with a situation or problem 
+</seg>
+pomeni storiti vse, kar je treba, da v dolo&ccaron;enih okoli&scaron;&ccaron;inah ali te&zcaron;avah dose&zcaron;emo za&zcaron;eleni rezultat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soo&ccaron;iti se, spopasti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They learned to deal with any sort of emergency.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+&Ccaron;e knjiga, govor ali film 
+<seg type="lemma">
+deals with a subject
+</seg>
+, se ukvarja z neko t&eacute;mo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obravnavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The film deals with a strange encounter between two soldiers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

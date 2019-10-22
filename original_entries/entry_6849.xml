@@ -1,0 +1,280 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+home
+</orth>
+<form type="variant">
+<pron>
+/h*@*Um/
+</pron>
+</form>
+<form type="inflected">
+homes, homing, homed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N, COUNT N, 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s home 
+</seg>
+je kraj ali dr&zcaron;ava, kjer &zcaron;ivimo ali &ccaron;utimo, da tja sodimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dom, domovina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The old man wants to die in his own home.
+</quote>
+<quote>
+...a normal home life.
+</quote>
+<quote>
+He stayed at home to care for the children.
+</quote>
+<quote>
+My own home town is thousands of miles away.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Home 
+</seg>
+pomeni proti kraju, kjer &zcaron;ivimo, ali tam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domov, doma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I want to go home.
+</quote>
+<quote>
+Here we are, home at last.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor se v dolo&ccaron;enih okoli&scaron;&ccaron;inah po&ccaron;uti 
+<seg type="lemma">
+at home
+</seg>
+, mu je udobno in je spro&scaron;&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot doma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt at home at once, because I recognized familiar faces.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MOD 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Home 
+</seg>
+pomeni tudi povezan s svojo dr&zcaron;avo in ne kak&scaron;no tujo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doma, doma&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The government had promised to maintain an expanding home market.
+</quote>
+<quote>
+Newspapers both at home and abroad ignored the incident.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A home 
+</seg>
+je tudi stavba, v kateri drugi skrbijo za ljudi, ki ne morejo skrbeti sami zase. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a children&apos;s home.
+</quote>
+<quote>
+...a home for the elderly.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The home of something 
+</seg>
+je kraj, kjer se je nekaj za&ccaron;elo ali kjer nekaj obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domovina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...that home of free enterprise, the United States.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring something home to someone 
+</seg>
+ali 
+<FV>
+to drive something home to someone 
+</FV>
+pomeni dose&ccaron;i, da nekdo razume, kako pomembno je nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopovedati, prepri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He raised his voice to drive home the point.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A home game 
+</seg>
+je tekma, ki jo mo&scaron;tvo igra na svojem igri&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekma na doma&ccaron;em terenu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They watched every single game, home or away.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+homing
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+home in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neki izstrelek 
+<seg type="lemma">
+homes in on something
+</seg>
+, najde cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It can thus home in on the target with pinpoint accuracy.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

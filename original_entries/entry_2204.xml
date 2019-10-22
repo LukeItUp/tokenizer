@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+charter
+</orth>
+<form type="variant">
+<pron>
+/tS*A*:t@/
+</pron>
+</form>
+<form type="inflected">
+charters, chartering, chartered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A charter 
+</seg>
+je dokument, v katerem so opisane pravice ali na&ccaron;ela neke organizacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(ustanovna) listina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Working Women's Charter.
+</quote>
+<quote>
+It contravened article 51 of the UN charter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je letalo ali ladja 
+<seg type="lemma">
+charter
+</seg>
+, ga je neka oseba ali skupina najela za uporabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;arterski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is travelling on a charter flight.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To charter a vehicle 
+</seg>
+pomeni najeti vozilo za zasebni prevoz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We plan to charter a special train for London.
+</quote>
+</seg>
+</sense>
+</entry>

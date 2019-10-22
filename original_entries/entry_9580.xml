@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nobody
+</orth>
+<form type="variant">
+<pron>
+/n*@*Ub@7di1/
+</pron>
+</form>
+<form type="inflected">
+nobodies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+INDEF PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Nobody 
+</seg>
+pomeni niti en &ccaron;lovek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nih&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nobody seems to notice.
+</quote>
+<quote>
+There was nobody on the bridge at all.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+no-one
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za koga re&ccaron;emo, da je 
+<seg type="lemma">
+a nobody
+</seg>
+, to pomeni, da se nam zdi popolnoma nepomemben. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron;la, nih&ccaron;e, nepomemben &ccaron;love&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Miss Watkins was a nobody; no family, no close friends.
+</quote>
+</seg>
+</sense>
+</entry>

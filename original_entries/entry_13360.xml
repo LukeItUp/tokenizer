@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spasm
+</orth>
+<form type="variant">
+<pron>
+/sp*&ae;z@0m/
+</pron>
+</form>
+<form type="inflected">
+spasms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spasm 
+</seg>
+je nenadna skr&ccaron;itev mi&scaron;ic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kr&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Spasms shook her lungs and chest.
+</quote>
+<quote>
+This may leave the muscle in spasm.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spasm of a feeling 
+</seg>
+je neprijeten ob&ccaron;utek, ki traja kraj&scaron;i &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a spasm of anger.
+</quote>
+</seg>
+</sense>
+</entry>

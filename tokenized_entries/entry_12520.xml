@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p673_s737933" id="p673_w256" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="317.582" base="323.99" width="28.9802" height="8.514">seabed</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p673_s737934" id="p673_w257" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="87.9" y="318.828" base="323.99" width="28.1716" height="6.844">/si&#194;bed/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p673_s737935" id="p673_w258" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="118.28" y="320.074" base="323.99" width="13.4724" height="5.192">SING</TOKEN>
+<TOKEN sid="p673_s737936" id="p673_w259" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="133.268" y="320.074" base="323.99" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p673_s737937" id="p673_w260" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.59" y="318.294" base="323.99" width="12.8016" height="7.552">The</TOKEN>
+<TOKEN sid="p673_s737938" id="p673_w261" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.593" y="318.294" base="323.99" width="23.1984" height="7.552">seabed</TOKEN>
+</seg>
+<TOKEN sid="p673_s737939" id="p673_w262" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="180" y="318.294" base="323.99" width="7.19856" height="7.552">so</TOKEN>
+<TOKEN sid="p673_s737940" id="p673_w263" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="189.397" y="318.294" base="323.99" width="9.19872" height="7.552">tla</TOKEN>
+<TOKEN sid="p673_s737941" id="p673_w264" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.795" y="318.294" base="323.99" width="12.7987" height="7.552">pod</TOKEN>
+<TOKEN sid="p673_s737942" id="p673_w265" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.793" y="318.294" base="323.99" width="27.9922" height="7.552">morjem.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p673_s737944" id="p673_w267" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="327.374" base="333.07" width="25.1928" height="7.552">morsko</TOKEN>
+<TOKEN sid="p673_s737945" id="p673_w268" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.8115" y="327.374" base="333.07" width="14.7989" height="7.552">dno;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p673_s737946" id="p673_w269" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.62" y="327.374" base="333.07" width="37.9742" height="7.552">&#8230;pipelines</TOKEN>
+<TOKEN sid="p673_s737947" id="p673_w270" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="152.593" y="327.374" base="333.07" width="8.40096" height="7.552">on</TOKEN>
+<TOKEN sid="p673_s737948" id="p673_w271" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.993" y="327.374" base="333.07" width="10.7971" height="7.552">the</TOKEN>
+<TOKEN sid="p673_s737949" id="p673_w272" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.788" y="327.374" base="333.07" width="27.5947" height="7.552">sea-bed.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

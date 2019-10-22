@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+braid
+</orth>
+<form type="variant">
+<pron>
+/br*e*Id/
+</pron>
+</form>
+<form type="inflected">
+braids, braiding, braided.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Braid 
+</seg>
+je ozek trak okra&scaron;enega blaga ali zvitih niti, ki ga uporabljamo za kra&scaron;enje obleke ali zaves. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trak, vrvica, kita
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cap with gold braid on it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To braid one's hair 
+</seg>
+pomeni splesti lase; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+splesti (kito)
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A braid 
+</seg>
+je spleten in zvezan pramen las; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kita
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Carole was plump, with long braids.
+</quote>
+</seg>
+</sense>
+</entry>

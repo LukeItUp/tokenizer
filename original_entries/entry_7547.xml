@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inscribe
+</orth>
+<form type="variant">
+<pron>
+/Inskr*a*Ib/
+</pron>
+</form>
+<form type="inflected">
+inscribes, inscribing, inscribed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar besede 
+<seg type="lemma">
+are inscribed on an object
+</seg>
+ ali kadar neki predmet 
+<seg type="lemma">
+is inscribed with words
+</seg>
+, so besede napisane ali vrezane v neki predmet; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vpisati, vgravirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The names of the dead were inscribed on the wall.
+</quote>
+<quote>
+...a ring inscribed &lsquo;To My Darling&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

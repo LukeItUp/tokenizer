@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tilt
+</orth>
+<form type="variant">
+<pron>
+/t*Ilt/
+</pron>
+</form>
+<form type="inflected">
+tilts, tilting, tilted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tilt an object 
+</seg>
+pomeni spremeniti polo&zcaron;aj predmeta, tako da je en njegov del vi&scaron;ji od drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tilted the flask and two or three drops trickled out.
+</quote>
+<quote>
+Let your head gently tilt forwards.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He indicated, with a tilt of his head, a girl nearby.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

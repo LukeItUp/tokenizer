@@ -1,0 +1,894 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+make
+</orth>
+<form type="variant">
+<pron>
+/m*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+makes, making, made
+</form>
+<form type="variant">
+<pron>
+/m*e*Id/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+make 
+</seg>
+povemo, da nekdo stori dolo&ccaron;eno dejanje. Na primer, kadar &ccaron;lovek 
+<seg type="lemma">
+makes a suggestion
+</seg>
+, nekaj predlaga. 
+</def>
+<seg type="example">
+<quote>
+I made the wrong decision.
+</quote>
+<quote>
+He made the shortest speech I&apos;ve ever heard.
+</quote>
+<quote>
+We have got to make a really serious effort.
+</quote>
+<quote>
+He had two phone calls to make.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes someone do something
+</seg>
+, tisto osebo pripravi do tega, da tisto naredi. Kadar nekdo 
+<seg type="lemma">
+makes someone do something
+</seg>
+, tisto osebo prisili ali prepri&ccaron;a, da tisto naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti do, prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A sudden noise made Brody jump.
+</quote>
+<quote>
+Make him listen!
+</quote>
+<quote>
+They were made to sit and wait.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make 
+</seg>
+pomeni, da nekdo ali nekaj povzro&ccaron;i, da kaka oseba ali stvar dobi dolo&ccaron;eno lastnost. Na primer, kadar nekaj 
+<seg type="lemma">
+makes someone happy
+</seg>
+, ga osre&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;d like to make the world a better place.
+</quote>
+<quote>
+They&apos;re making the old kitchen into a little bedroom.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+make 
+</seg>
+povemo, kako dobro ali slabo nekdo nekaj dela. Na primer, &ccaron;e &ccaron;lovek 
+<seg type="lemma">
+makes a success of something
+</seg>
+, potem to dobro opravi. 
+</def>
+<seg type="example">
+<quote>
+Let&apos;s not make a mess of this.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes something
+</seg>
+, tisto izdela ali ustvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I like making cakes.
+</quote>
+<quote>
+...the greatest film ever made.
+</quote>
+<quote>
+You can make petroleum out of coal.
+</quote>
+<quote>
+Martin, can you make us a drink?
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is made of a particular substance
+</seg>
+, je bila tista snov uporabljena pri izdelavi tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti (narejen) iz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The houses were made of brick.
+</quote>
+<quote>
+...a flute made from bone.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes a sound
+</seg>
+, oddaja zvok ali glas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati od sebe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try not to make so much noise.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+make 
+</seg>
+povemo, da je neko &scaron;tevilo se&scaron;tevek dveh drugih. Na primer, &ccaron;e dve &scaron;tevili 
+<seg type="lemma">
+make 12
+</seg>
+, je njun se&scaron;tevek 12. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+make 
+</seg>
+povemo, koliko je ura ali kolik&scaron;en je se&scaron;tevek. Na primer, &ccaron;e &ccaron;lovek 
+<seg type="lemma">
+makes it 4 o&apos;clock
+</seg>
+, njegova ura ka&zcaron;e &scaron;tiri. Kadar &ccaron;lovek 
+<seg type="lemma">
+makes the answer to a calculation 144
+</seg>
+, izra&ccaron;una, da je se&scaron;tevek 144. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati, zra&ccaron;unati
+</quote>
+</cit>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes money
+</seg>
+, ga dobi z delom ali vlaganji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaslu&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was making ninety dollars a week.
+</quote>
+<quote>
+She made a &pound;200 profit.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+make 
+</seg>
+povemo, da je nekdo ali nekaj primerno za dolo&ccaron;eno nalogo ali vlogo. Na primer, &ccaron;e za koga re&ccaron;emo, da 
+<seg type="lemma">
+would make a good secretary
+</seg>
+, ima prave sposobnosti za to, da bo dobra tajnica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postati, biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do garden tools make good gifts?
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+make 
+</seg>
+lahko povemo, da je del ali vidik ne&ccaron;esa odgovoren za njegov uspeh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nicholson&apos;s acting really makes the film.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes a place
+</seg>
+, mu uspe priti do dolo&ccaron;enega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i, prispeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I made Ramsdale by dawn.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes friends or enemies
+</seg>
+, dose&zcaron;e, da ljudje postanejo njegovi prijatelji ali sovra&zcaron;niki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobiti prijatelje/sovra&zcaron;nike
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Roger made a number of enemies.
+</quote>
+<quote>
+Karen made friends with several children.
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+making
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+make good: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+good
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+make way: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+way
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+make for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes for a place
+</seg>
+, se napoti v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We joined the crowd making for the exit.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+make of.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekoga vpra&scaron;amo, kaj ta oseba 
+<seg type="lemma">
+makes of something
+</seg>
+, nas zanima, kak&scaron;en je njegov vtis ali mnenje o tisti stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He didn&apos;t know what to make of his new boss.
+</quote>
+<quote>
+Can you make anything of it?
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+make off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes off
+</seg>
+, odide, kolikor hitro more. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odhiteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The vehicle made off at once.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+make off with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes off with something
+</seg>
+, tisto ukrade. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popihati jo z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Otto made off with the last of the brandy.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+make out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes something out
+</seg>
+, tisto vidi, sli&scaron;i ali razume. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He could just make out the number plate of the car.
+</quote>
+<quote>
+She tried to make out what was being said.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes out that something is the case
+</seg>
+, posku&scaron;a pri drugih ustvariti vtis, da je tako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s not really as hard as people make out.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes out a cheque
+</seg>
+ ali 
+<seg type="lemma">
+receipt
+</seg>
+, napi&scaron;e vse potrebne podatke na &ccaron;ek ali potrdilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpolniti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+make up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar ve&ccaron; stvari 
+<seg type="lemma">
+make up something
+</seg>
+, tisto stvar tvorijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestavljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the various groups which make up society.
+</quote>
+<quote>
+All substances are made up of molecules.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes up a story
+</seg>
+, si izmisli zgodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmisliti si
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+makes oneself up
+</seg>
+, si nanese kozmeti&ccaron;no sredstvo na obraz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nali&ccaron;iti se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+made up
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She had magnificent eyes, heavily made up.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+make-up
+</ref>
+</xr>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes up an amount
+</seg>
+, doda toliko, da je znesek tak, kot bi moral biti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokriti, prispevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Government would have to make up the difference out of its welfare budget.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+Kadar dve osebi 
+<seg type="lemma">
+make up 
+</seg>
+ali 
+<seg type="lemma">
+make it up
+</seg>
+, se po prepiru spet spoprijateljita. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobotati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He and Frank made it up.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<def xml:lang="sl">
+<seg type="lemma">
+To make up for something
+</seg>
+, pomeni, da nekaj, kar je izgubljeno ali manjka, nadomestimo ali nadoknadimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadoknaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If babies put on very little weight at first, eventually they will gain rapidly to make up for it.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes it up to someone
+</seg>
+, naredi neki osebi, ki jo je prej razo&ccaron;aral, nekaj, s &ccaron;imer ji poka&zcaron;e, da mu je &zcaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkupiti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</sense>
+</entry>

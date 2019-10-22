@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lid
+</orth>
+<form type="variant">
+<pron>
+/l*Id/
+</pron>
+</form>
+<form type="inflected">
+lids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lid 
+</seg>
+je pokrov, ki ga odpremo, &ccaron;e &zcaron;elimo se&ccaron;i v posodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokrov, pokrovka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was opening and closing the lid of her tin.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s lids 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+one&apos;s eyelids
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked round from under half-closed lids.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drawing
+</orth>
+<form type="variant">
+<pron>
+/dr*O*:IN/
+</pron>
+</form>
+<form type="inflected">
+drawings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drawing 
+</seg>
+je slika, narejena s svin&ccaron;nikom, peresom, barvnico ali pastelom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+risba
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Drawing 
+</seg>
+je spretnost ali dejavnost risanja slik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+risanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had a passion for drawing and painting.
+</quote>
+</seg>
+</sense>
+</entry>

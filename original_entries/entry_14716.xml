@@ -1,0 +1,229 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+track
+</orth>
+<form type="variant">
+<pron>
+/tr*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+tracks, tracking, tracked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A track 
+</seg>
+je ozka cesta ali pot. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+steza, pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a dusty mountain track.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A track 
+</seg>
+je tudi zemlji&scaron;&ccaron;e, po katerem na tekmovanjih te&ccaron;ejo ali vozijo konji, avtomobili ali &scaron;portniki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+steza
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SPORT
+</QZ>
+.
+</QP>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A railway track 
+</seg>
+so tirnice, po katerih vozijo vlaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+proga
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TRANSPORT
+</QZ>
+.
+</QP>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tracks 
+</seg>
+so odtisi nog ali drugi znaki, ki jih na tleh pusti &ccaron;lovek ali &zcaron;ival. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sledovi
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To track animals or people 
+</seg>
+pomeni iti za stopinjami &zcaron;ivali ali ljudi ali za drugimi znaki, ki jih pustijo za sabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slediti, zasledovati
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A track on a record or tape 
+</seg>
+je ena izmed pesmi ali glasbenih del na plo&scaron;&ccaron;i ali traku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posnetek
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kraj, ki je 
+<seg type="lemma">
+off the beaten track
+</seg>
+, je miren in odrezan od sveta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na samem, bogu za hrbtom
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep track of things or people 
+</seg>
+pomeni biti pozoren na stvari ali osebe, tako da vemo, kje so ali kaj se dogaja z njimi. 
+<FV>
+To lose track of things or people 
+</FV>
+pomeni ne ve&ccaron; vedeti, kje so ali kaj se dogaja z njimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasledovati, spremljati; ne ve&ccaron; zasledovati, ne ve&ccaron; spremljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We would never be able to keep track of the luggage on such a long journey.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+on the right track
+</seg>
+, razmi&scaron;lja tako, da bo verjetno na&scaron;el pravilen odgovor na vpra&scaron;anje ali re&scaron;itev zapleta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na pravi sledi, na pravi poti
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+track down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To track down someone or something 
+</seg>
+pomeni iskati nekoga ali nekaj in ga na koncu najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izslediti, najti, odkriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They lost all hope of tracking down the submarine.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weekend
+</orth>
+<form type="variant">
+<pron>
+/w*i*:k*end/
+</pron>
+</form>
+<form type="inflected">
+weekends.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A weekend 
+</seg>
+sta sobota in nedelja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konec tedna, vikend
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I spent the weekend at home.
+</quote>
+</seg>
+</sense>
+</entry>

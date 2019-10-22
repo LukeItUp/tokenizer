@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+postgraduate
+</orth>
+<form type="variant">
+<pron>
+/p*@*Ustgr*&ae;dju:@t/
+</pron>
+</form>
+<form type="inflected">
+postgraduates.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A postgraduate
+</seg>
+ je &scaron;tudent, ki je &zcaron;e dosegel fakultetno diplomo in nadaljuje &scaron;tudij na vi&scaron;ji ravni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podiplomski &scaron;tudent
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...postgraduate students.
+</quote>
+<quote>
+Many students go on and do postgraduate work.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

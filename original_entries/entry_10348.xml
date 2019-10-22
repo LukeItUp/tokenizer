@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pedigree
+</orth>
+<form type="variant">
+<pron>
+/p*edIgri:/
+</pron>
+</form>
+<form type="inflected">
+pedigrees.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Zcaron;ival, ki je 
+<seg type="lemma">
+pedigree
+</seg>
+, ima prednike iz ene same pasme, zato velja za kakovostno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rodovni&scaron;ki, z rodovnikom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pedigree cat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima pes, ma&ccaron;ka ali druga &zcaron;ival 
+<seg type="lemma">
+a pedigree
+</seg>
+, so njeni predniki znani in popisani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rodovnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...fine dogs with pedigrees.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s pedigree 
+</seg>
+je &ccaron;lovekovo ozadje ali njegovi predniki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rod, poreklo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had a criminal pedigree.
+</quote>
+</seg>
+</sense>
+</entry>

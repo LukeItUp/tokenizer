@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+principal
+</orth>
+<form type="variant">
+<pron>
+/pr*InsIp@0l/
+</pron>
+</form>
+<form type="inflected">
+principals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali stvar, ki je 
+<seg type="lemma">
+principal
+</seg>
+, je najpomembnej&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poglaviten, glaven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the principal character in James Bernard Fagan&apos;s play.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The principal of a school or college 
+</seg>
+je &ccaron;lovek, ki vodi &scaron;olo ali kolid&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ravnatelj
+</quote>
+</cit>
+</sense>
+</entry>

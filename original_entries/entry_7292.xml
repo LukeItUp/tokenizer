@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+incline,
+</orth>
+<form type="inflected">
+inclines, inclining, inclined;
+</form>
+<usg>
+knji&zcaron;na beseda; 
+</usg>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/*IN1klaIn/
+</pron>
+, glagol pa 
+<pron>
+/IN1kl*a*In/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An incline 
+</seg>
+je nagnjen teren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobo&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They walked down a steep incline.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To incline one&apos;s head 
+</seg>
+pomeni upogniti vrat, da se glava nagne naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagniti, pobesiti
+</quote>
+</cit>
+</sense>
+</entry>

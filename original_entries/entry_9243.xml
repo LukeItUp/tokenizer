@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mother
+</orth>
+<form type="variant">
+<pron>
+/m*VD@/
+</pron>
+</form>
+<form type="inflected">
+mothers, mothering, mothered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s mother 
+</seg>
+je &zcaron;enska v odnosu do nekoga, ki ga je rodila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mama, mati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I always did everything my mother told me.
+</quote>
+<quote>
+You are looking wonderful, Mother.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to mother one&apos;s children
+</seg>
+ ozna&ccaron;uje, kako mati skrbi za svoje otroke in jih vzgaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrbeti za svoje otroke
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Female monkeys who were badly mothered became bad mothers themselves.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mothers someone
+</seg>
+, z nekom ravna zelo naklonjeno in ga pogosto razvaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti za&scaron;&ccaron;itni&scaron;ki/materinski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Both the other senior typists tended to mother me.
+</quote>
+</seg>
+</sense>
+</entry>

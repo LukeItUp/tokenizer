@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+setting
+</orth>
+<form type="variant">
+<pron>
+/s*etIN/
+</pron>
+</form>
+<form type="inflected">
+settings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The setting for something 
+</seg>
+je okolje ali okoli&scaron;&ccaron;ine, v katerih se nekaj dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okolje, ozadje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The castle provided the perfect setting for a horror story.
+</quote>
+<quote>
+Children should be cared for in a home setting.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The settings on a machine 
+</seg>
+so razli&ccaron;ne funkcije pri mehanizmu za uravnavanje delovanja nekega stroja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastavitev, polo&zcaron;aj, re&zcaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Set the control to the coldest setting.
+</quote>
+</seg>
+</sense>
+</entry>

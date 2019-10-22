@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p157_s171891" id="p157_w999" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="608.092" base="614.5" width="24.2307" height="8.514">costly</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p157_s171892" id="p157_w1000" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="281.33" y="609.338" base="614.5" width="22.4191" height="6.844">/k&#201;stli</TOKEN>
+<TOKEN sid="p157_s171893" id="p157_w1001" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="304.11" y="608.7" base="612.11" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p157_s171894" id="p157_w1002" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="306.75" y="609.338" base="614.5" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p157_s171895" id="p157_w1003" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="313.61" y="609.16" base="614.5" width="24.6152" height="7.08">costlier,</TOKEN>
+<TOKEN sid="p157_s171896" id="p157_w1004" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="340.06" y="609.16" base="614.5" width="28.1212" height="7.08">costliest.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p157_s171898" id="p157_w1006" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="376.77" y="610.584" base="614.5" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p157_s171899" id="p157_w1007" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.17" y="608.804" base="614.5" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p157_s171900" id="p157_w1008" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.324" y="608.804" base="614.5" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p157_s171901" id="p157_w1009" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="412.28" y="608.804" base="614.5" width="21.9917" height="7.552">costly,</TOKEN>
+</seg>
+<TOKEN sid="p157_s171902" id="p157_w1010" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.233" y="608.804" base="614.5" width="5.9976" height="7.552">je</TOKEN>
+<TOKEN sid="p157_s171903" id="p157_w1011" font-name="ssunivers" bold="no" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="241.97" y="47.272" base="53.68" width="15.0102" height="8.496">157</TOKEN>
+<TOKEN sid="p157_s171904" id="p157_w1012" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="48.512" base="54.92" width="65.0715" height="8.514">correspondence</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p157_s171905" id="p157_w1013" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="418" y="48.512" base="54.92" width="24.2307" height="8.514">costly</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p157_s171906" id="p157_w1014" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="56.72" y="632.046" base="637.03" width="2.4507" height="6.608">t</TOKEN>
+<TOKEN sid="p157_s171907" id="p157_w1015" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="62.6401" y="632.046" base="637.03" width="11.8698" height="6.608">talk</TOKEN>
+<TOKEN sid="p157_s171908" id="p157_w1016" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="85.8903" y="632.046" base="637.03" width="3.5028" height="6.608">v</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p157_s171909" id="p157_w1017" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="92.87" y="632.046" base="637.03" width="12.8898" height="6.608">visit</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p157_s171910" id="p157_w1018" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="117.14" y="632.046" base="637.03" width="5.2479" height="6.608">w</TOKEN>
+<TOKEN sid="p157_s171911" id="p157_w1019" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="125.86" y="632.046" base="637.03" width="11.1693" height="6.608">win</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p157_s171912" id="p157_w1020" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="148.42" y="632.046" base="637.03" width="3.8493" height="6.608">x</TOKEN>
+</seg>
+<TOKEN sid="p157_s171913" id="p157_w1021" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="155.74" y="632.046" base="637.03" width="12.5597" height="6.608">loch</TOKEN>
+<TOKEN sid="p157_s171914" id="p157_w1022" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="179.69" y="632.046" base="637.03" width="3.15" height="6.608">z</TOKEN>
+<TOKEN sid="p157_s171915" id="p157_w1023" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="186.31" y="632.046" base="637.03" width="10.1298" height="6.608">zoo</TOKEN>
+<TOKEN sid="p157_s171917" id="p157_w1025" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="213.41" y="632.046" base="637.03" width="15.3493" height="6.608">show</TOKEN>
+<TOKEN sid="p157_s171918" id="p157_w1026" font-name="slexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="240.15" y="633.684" base="637.03" width="3.5028" height="3.395">&#199;</TOKEN>
+<TOKEN sid="p157_s171919" id="p157_w1027" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="247.129" y="632.046" base="637.03" width="24.6298" height="6.608">measure</TOKEN>
+<TOKEN sid="p157_s171920" id="p157_w1028" font-name="slexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="283.16" y="633.684" base="637.03" width="3.3138" height="3.395">&#207;</TOKEN>
+<TOKEN sid="p157_s171921" id="p157_w1029" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="289.94" y="632.046" base="637.03" width="12.2094" height="6.608">sing</TOKEN>
+<TOKEN sid="p157_s171922" id="p157_w1030" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="313.54" y="632.046" base="637.03" width="4.52781" height="6.608">t&#196;</TOKEN>
+<TOKEN sid="p157_s171923" id="p157_w1031" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="321.549" y="632.046" base="637.03" width="17.4491" height="6.608">cheap</TOKEN>
+<TOKEN sid="p157_s171924" id="p157_w1032" font-name="slexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="350.379" y="633.684" base="637.03" width="3.5028" height="3.395">&#210;</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p157_s171925" id="p157_w1033" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="357.359" y="632.046" base="637.03" width="15.6996" height="6.608">thing</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p157_s171926" id="p157_w1034" font-name="slexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="384.438" y="633.684" base="637.03" width="3.5028" height="3.395">&#200;</TOKEN>
+<TOKEN sid="p157_s171927" id="p157_w1035" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="391.418" y="632.046" base="637.03" width="13.2596" height="6.608">then</TOKEN>
+<TOKEN sid="p157_s171928" id="p157_w1036" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="416.068" y="632.046" base="637.03" width="7.33257" height="6.608">d&#199;</TOKEN>
+<TOKEN sid="p157_s171929" id="p157_w1037" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="426.878" y="632.046" base="637.03" width="15.3594" height="6.608">jump</TOKEN>
+<TOKEN sid="p158_s171943" id="p158_w1" font-name="SSExcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="64.094" base="69.79" width="13.5986" height="7.552">zelo</TOKEN>
+<TOKEN sid="p158_s171944" id="p158_w2" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="75.8688" y="64.094" base="69.79" width="21.6036" height="7.552">drago.</TOKEN>
+<TOKEN sid="p158_s171946" id="p158_w4" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="105.88" y="64.094" base="69.79" width="17.5982" height="7.552">drag;</TOKEN>
+<TOKEN sid="p158_s171947" id="p158_w5" font-name="SSExcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.57" y="64.094" base="69.79" width="11.2025" height="7.552">&#8230;a</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

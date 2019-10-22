@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p300_s328783" id="p300_w218" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="124.424" y="291.054" base="296.75" width="16.3994" height="7.552">pane</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p300_s328784" id="p300_w219" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="142.823" y="291.054" base="296.75" width="6.79608" height="7.552">in</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p300_s328785" id="p300_w220" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.62" y="291.054" base="296.75" width="10.7986" height="7.552">the</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p300_s328786" id="p300_w221" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="164.418" y="291.054" base="296.75" width="16.4815" height="7.552">door.</TOKEN>
+<TOKEN sid="p300_s328787" id="p300_w222" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="299.422" base="305.83" width="23.7519" height="8.514">frosty</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p300_s328788" id="p300_w223" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.32" y="300.668" base="305.83" width="21.7" height="6.844">/fr&#201;sti</TOKEN>
+<TOKEN sid="p300_s328789" id="p300_w224" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="102.38" y="300.03" base="303.44" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p300_s328790" id="p300_w225" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="105.02" y="300.668" base="305.83" width="4.9016" height="6.844">/.</TOKEN>
+<TOKEN sid="p300_s328792" id="p300_w227" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="118.7" y="301.914" base="305.83" width="10.4504" height="5.192">ADJ</TOKEN>
+</seg>
+<TOKEN sid="p300_s328793" id="p300_w228" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.21" y="300.134" base="305.83" width="21.5971" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p300_s328794" id="p300_w229" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.867" y="300.134" base="305.83" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p300_s328795" id="p300_w230" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.924" y="300.134" base="305.83" width="20.6582" height="7.552">vreme</TOKEN>
+<TOKEN sid="p300_s328796" id="p300_w231" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.64" y="300.134" base="305.83" width="21.8513" height="7.552">frosty,</TOKEN>
+<TOKEN sid="p300_s328797" id="p300_w232" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.551" y="300.134" base="305.83" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p300_s328798" id="p300_w233" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.607" y="300.134" base="305.83" width="23.9904" height="7.552">tempe-</TOKEN>
+<TOKEN sid="p300_s328799" id="p300_w234" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="309.214" base="314.91" width="21.2436" height="7.552">ratura</TOKEN>
+<TOKEN sid="p300_s328800" id="p300_w235" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.9527" y="309.214" base="314.91" width="18.9173" height="7.552">zraka</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p300_s328801" id="p300_w236" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="103.399" y="309.214" base="314.91" width="12.659" height="7.552">pod</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

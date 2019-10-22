@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prohibit
+</orth>
+<form type="variant">
+<pron>
+/pr@6h*IbIt/
+</pron>
+</form>
+<form type="inflected">
+prohibits, prohibiting, prohibited.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prohibit something 
+</seg>
+pomeni nekaj razglasiti za nedovoljeno ali nezakonito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepovedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She believes that nuclear weapons should be totally prohibited.
+</quote>
+<quote>
+The country has a law prohibiting employees from striking.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+prohibition
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the prohibition of strikes.
+</quote>
+<quote>
+...a prohibition on nuclear weapons.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

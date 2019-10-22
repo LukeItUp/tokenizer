@@ -5,7 +5,7 @@ alive
 </orth>
 <form type="variant">
 <pron>
-/@l*a*Iv/.
+/@l*a*Iv/
 </pron>
 </form>
 </form>
@@ -16,16 +16,15 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar so ljudje ali &#382;ivali
+Kadar so ljudje ali &zcaron;ivali 
 <seg type="lemma">
 alive
 </seg>
-je v
-njih &#382;ivljenje.
+, je v njih &zcaron;ivljenje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#382;iv
+&zcaron;iv
 </quote>
 </cit>
 <seg type="example">
@@ -41,16 +40,15 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;lovek, ki je
+&Ccaron;lovek, ki je 
 <seg type="lemma">
 alive
 </seg>
-je zelo dejaven in
-u&#382;iva ob vsem, kar po&#269;ne.
+, je zelo dejaven in u&zcaron;iva ob vsem, kar po&ccaron;ne. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#382;ivahen
+&zcaron;ivahen
 </quote>
 </cit>
 </sense>
@@ -61,15 +59,15 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Dejavnost ali polo&#382;aj, ki je
+Dejavnost ali polo&zcaron;aj, ki je 
 <seg type="lemma">
 alive
 </seg>
-obstaja ali deluje dobro.
+, obstaja ali deluje dobro. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#382;ivahen, produktiven
+&zcaron;ivahen, produktiven
 </quote>
 </cit>
 <seg type="example">
@@ -81,22 +79,21 @@ Theatre outside London is very much alive.
 <sense n="4">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je neki kraj
+Kadar je neki kraj 
 <seg type="lemma">
 alive with something
 </seg>
-je tam navzo&#269;ih veliko ljudi ali stvari, tako da je videti &#382;ivahen ali
-vznemirljiv.
+, je tam navzo&ccaron;ih veliko ljudi ali stvari, tako da je videti &zcaron;ivahen ali vznemirljiv. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -112,65 +109,62 @@ The ditches beside the fields were alive with frogs.
 <sense n="5">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-alive to a problem or
-situation
+alive to a problem or situation
 </seg>
-se tistega problema ali polo&#382;aja zaveda in pozna njegovo
-pomembnost.
+, se tistega problema ali polo&zcaron;aja zaveda in pozna njegovo pomembnost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-dovzeten, zavedajo&#269; se
+dovzeten, zavedajo&ccaron; se
 </quote>
 </cit>
 <seg type="example">
 <quote>
-As you can see, I am fully alive to the problems facing the
-industry.
+As you can see, I am fully alive to the problems facing the industry.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar zgodba ali opis
+Kadar zgodba ali opis 
 <seg type="lemma">
 comes alive
 </seg>
-postane zanimiv, &#382;ivahen ali realisti&#269;en.
+, postane zanimiv, &zcaron;ivahen ali realisti&ccaron;en. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-o&#382;iveti
+o&zcaron;iveti
 </quote>
 </cit>
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar ljudje ali kraji
+Kadar ljudje ali kraji 
 <seg type="lemma">
 come alive
 </seg>
-znova postanejo dejavni ali &#382;ivahni.
+, znova postanejo dejavni ali &zcaron;ivahni. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-o&#382;iveti
+o&zcaron;iveti
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

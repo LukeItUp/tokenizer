@@ -6,16 +6,17 @@ approximate,
 <form type="inflected">
 approximates, approximating, approximated;
 </form>
-<form type="variant">
-pridevnik izgovarjamo
+<PN>
+pridevnik izgovarjamo 
 <pron>
 /@3pr*Qks@1m@1t/
 </pron>
-glagol pa
+, glagol pa 
 <pron>
-/@3pr*Qks@1meIt/.
+/@3pr*Qks@1meIt/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -24,15 +25,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#352;tevilo, &#269;as ali polo&#382;aj, ki je
+&Scaron;tevilo, &ccaron;as ali polo&zcaron;aj, ki je 
 <seg type="lemma">
 approximate
 </seg>
-je blizu pravilnemu, vendar ni to&#269;en.
+, je blizu pravilnemu, vendar ni to&ccaron;en. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-pribli&#382;en
+pribli&zcaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -45,7 +46,6 @@ She gave me some approximate figures.
 <orth>
 approximately
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -61,31 +61,30 @@ We have approximately 40 pupils.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-or
+or 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekaj
+Kadar nekaj 
 <seg type="lemma">
-approximates to something
-else
+approximates to something else
 </seg>
-je tistemu podobno, vendar ne enako.
+, je tistemu podobno, vendar ne enako. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-(pri)bli&#382;ati se
+(pri)bli&zcaron;ati se
 </quote>
 </cit>
 <seg type="example">

@@ -5,30 +5,29 @@ answerable
 </orth>
 <form type="variant">
 <pron>
-/*A*:ns@0r@b@0l/.
+/*A*:ns@0r@b@0l/
 </pron>
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 answerable to someone
 </seg>
-se
-mora nekomu javiti in mu pojasniti svoja dejanja.
+, se mora nekomu javiti in mu pojasniti svoja dejanja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -39,23 +38,21 @@ biti odgovoren (nekomu)
 <sense n="2">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"for"
+&lsquo;for&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-answerable for his
-actions
+answerable for his actions
 </seg>
-mora prevzeti odgovornost za svoja dejanja ali dejanja nekoga
-drugega.
+, mora prevzeti odgovornost za svoja dejanja ali dejanja nekoga drugega. 
 </def>
 <cit type="translationEquivalent">
 <quote>

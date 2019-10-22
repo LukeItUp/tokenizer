@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+merge
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:dZ/
+</pron>
+</form>
+<form type="inflected">
+merges, merging, merged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+merges with another 
+</seg>
+ali 
+<seg type="lemma">
+is merged with another
+</seg>
+, se dve stvari pove&zcaron;eta v nekaj ve&ccaron;jega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They advised their clients to merge with another company.
+</quote>
+<quote>
+The borough of Holborn was merged with St Pancras and Hampstead.
+</quote>
+<quote>
+The voices merged with one another.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+merges into the darkness 
+</seg>
+ali 
+<seg type="lemma">
+into the background
+</seg>
+, tistega ne moremo ve&ccaron; razlo&ccaron;no videti ali razlo&ccaron;iti od ozadja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zliti se z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were painted so that they would merge into the landscape.
+</quote>
+</seg>
+</sense>
+</entry>

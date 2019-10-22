@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+parrot
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;r@t/
+</pron>
+</form>
+<form type="inflected">
+parrots, parroting, parroted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A parrot 
+</seg>
+je tropska ptica z ukrivljenim kljunom in &zcaron;ivopisanim ali sivim perjem. Ljudje jo imajo pogosto za hi&scaron;nega ljubljen&ccaron;ka. Nekatere vrste papig posnemajo govor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+papiga
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+parrots what someone else has said
+</seg>
+, ponavlja besede drugega &ccaron;loveka, ne da bi razumel, kaj pomenijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponavljati kot papiga
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj ponovi 
+<seg type="lemma">
+parrot fashion
+</seg>
+, ponovi natan&ccaron;no, vendar ne razume, kaj pravzaprav govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot papiga
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

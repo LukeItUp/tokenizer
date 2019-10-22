@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+visit
+</orth>
+<form type="variant">
+<pron>
+/v*IzIt/
+</pron>
+</form>
+<form type="inflected">
+visits, visiting, visited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To visit someone 
+</seg>
+pomeni iti k nekomu, da ga vidimo in z njim pre&zcaron;ivimo nekaj &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She visited some of her relatives for a few days.
+</quote>
+<quote>
+You might need to visit a solicitor.
+</quote>
+<quote>
+My aunt and uncle did visit once.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It would be nice if you paid me a visit.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To visit a place 
+</seg>
+pomeni iti nekam in si tisti kraj ogledati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is the best museum we&apos;ve visited.
+</quote>
+<quote>
+&lsquo;Do you live here?&rsquo;&mdash;&lsquo;No, we&apos;re just visiting.&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a brief visit to the U.S.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

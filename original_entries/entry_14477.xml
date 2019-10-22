@@ -1,0 +1,231 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thin
+</orth>
+<form type="variant">
+<pron>
+/T*In/
+</pron>
+</form>
+<form type="inflected">
+thinner, thinnest; thins, thinning, thinned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+thin
+</seg>
+, je med nasprotnima povr&scaron;inama tistega majhna razdalja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tanek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their tall, thin house.
+</quote>
+<quote>
+...thin cotton cloth.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+thinly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...fresh, thinly cut bread.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali &zcaron;ival, ki je 
+<seg type="lemma">
+thin
+</seg>
+, ima na telesu zelo malo ma&scaron;&ccaron;obe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+suh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Angela was dreadfully thin.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Teko&ccaron;ine, ki so 
+<seg type="lemma">
+thin
+</seg>
+, vsebujejo veliko vode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The liquid was thin and greyish brown.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V skupini ljudi, ki je 
+<seg type="lemma">
+thin
+</seg>
+, je zelo malo ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redek, malo&scaron;tevil&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The crowd seemed suddenly thinner.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+thinly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a thinly populated region.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar lasje nekoga 
+<seg type="lemma">
+are thinning
+</seg>
+, jih tisti &ccaron;lovek za&ccaron;ne izgubljati in postaja ple&scaron;ast. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+red&ccaron;iti se
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Osebe ali stvari so 
+<seg type="lemma">
+thin on the ground
+</seg>
+, kadar jih ni veliko in jih je zato te&zcaron;ko najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na redko posejan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Good new plays are still rather thin on the ground.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to disappear 
+</QI>
+<QF>
+into thin air: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+air
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+thin down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To thin a liquid down 
+</seg>
+pomeni dodati teko&ccaron;ini vodo ali drugo teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(raz)red&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The paint has been thinned down too much.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

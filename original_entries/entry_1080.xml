@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+baron
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;r@n/
+</pron>
+</form>
+<form type="inflected">
+barons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A baron 
+</seg>
+je mo&scaron;ki pripadnik plemstva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+baron
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+baron 
+</seg>
+opi&scaron;emo &ccaron;loveka, ki obvladuje velike dele&zcaron;e v kaki industriji in je zato izjemno vpliven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+magnat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...oil and wheat barons.
+</quote>
+</seg>
+</sense>
+</entry>

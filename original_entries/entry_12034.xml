@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reward
+</orth>
+<form type="variant">
+<pron>
+/rI1w*O*:d/
+</pron>
+</form>
+<form type="inflected">
+rewards, rewarding, rewarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A reward 
+</seg>
+je nekaj, kar nam nekdo da, ker smo naredili nekaj koristnega ali dobrega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagrada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a reward for outstanding service.
+</quote>
+<quote>
+They work with no thought of reward.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To reward someone 
+</seg>
+pomeni nekomu dati nekaj, ker je naredil nekaj koristnega ali dobrega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagraditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People should be rewarded for special effort.
+</quote>
+<quote>
+They rewarded the winners with gifts of fruit and flowers.
+</quote>
+</seg>
+</sense>
+</entry>

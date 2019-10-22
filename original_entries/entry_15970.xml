@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whirlwind
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:lwInd/
+</pron>
+</form>
+<form type="inflected">
+whirlwinds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A whirlwind 
+</seg>
+je visok steber zraka, ki se zelo hitro vrti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zra&ccaron;ni vrtinec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dogodek, ki je 
+<seg type="lemma">
+whirlwind
+</seg>
+, se odvija veliko hitreje kot navadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viharen, bliskovit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a whirlwind romance.
+</quote>
+</seg>
+</sense>
+</entry>

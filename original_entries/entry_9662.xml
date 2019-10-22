@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+novel
+</orth>
+<form type="variant">
+<pron>
+/n*Qv@0l/
+</pron>
+</form>
+<form type="inflected">
+novels.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A novel 
+</seg>
+je knjiga, ki pripoveduje zgodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+roman
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a novel by Henry James.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+novel
+</seg>
+, je druga&ccaron;no od vsega, kar je obstajalo prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nov, sve&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a novel experience.
+</quote>
+<quote>
+...novel teaching methods.
+</quote>
+</seg>
+</sense>
+</entry>

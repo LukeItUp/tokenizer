@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+purpose
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:p@s/
+</pron>
+</form>
+<form type="inflected">
+purposes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The purpose of something 
+</seg>
+je razlog, zaradi katerega nekaj izdelamo ali storimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The purpose of the meeting was to discuss the committee&apos;s report.
+</quote>
+<quote>
+The buildings are now used as a prison, but they weren&apos;t built for that purpose.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s purpose 
+</seg>
+je tisto, kar nekdo &zcaron;eli dose&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namen, cilj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her only purpose in life was to get rich.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Purpose 
+</seg>
+je ob&ccaron;utek, da imamo pred seboj dolo&ccaron;en cilj, in odlo&ccaron;enost, da ta cilj dose&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smisel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has given them a sense of purpose.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+on purpose
+</seg>
+, tisto naredimo zato, ker tako ho&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namenoma, nala&scaron;&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had gone there on purpose, to see what happened.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+for all practical purposes 
+</seg>
+pomeni, da polo&zcaron;aj ni popolnoma tak, kot ga opisujemo, u&ccaron;inek pa je kljub temu enak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na splo&scaron;no gledano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rest are now, for all practical purposes, useless.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo naredi nekaj 
+<seg type="lemma">
+to no purpose
+</seg>
+, s tistim ne dose&zcaron;e ni&ccaron;esar. Kadar nekdo naredi nekaj 
+<FV>
+to good purpose
+</FV>
+, s tistim nekaj dose&zcaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaman; uspe&scaron;no, u&ccaron;inkovito
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He used his past experience to good purpose.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+to all intents and purposes: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+intent
+</ref>
+</xr>
+</B>
+</entry>

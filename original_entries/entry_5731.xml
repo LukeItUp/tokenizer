@@ -1,0 +1,202 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+freeze
+</orth>
+<form type="variant">
+<pron>
+/fr*i*:z/
+</pron>
+</form>
+<form type="inflected">
+freezes, freezing, froze
+</form>
+<form type="variant">
+<pron>
+/fr*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+frozen
+</form>
+<form type="variant">
+<pron>
+/fr*@*Uz@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina 
+<seg type="lemma">
+freezes
+</seg>
+ ali kadar nekaj 
+<seg type="variant">
+freezes a liquid
+</seg>
+, tista teko&ccaron;ina zaradi mraza postane trda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmrzniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The water froze in the wells.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To freeze food 
+</seg>
+pomeni ohraniti &zcaron;ivila tako, da jih spravimo pri temperaturi pod ledi&scaron;&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamrzniti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar 
+<seg type="lemma">
+it freezes outside
+</seg>
+, je temperatura pod ledi&scaron;&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmrzovati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To freeze 
+</seg>
+pomeni, da nam postane zelo hladno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prezebati, zmrzovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You'll freeze to death out there.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+freezes
+</seg>
+, se nenadoma neha premikati in ostane popolnoma nepremi&ccaron;en in tih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otrpniti, paralizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Then she sensed something moving about. She froze.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To freeze something
+</seg>
+, na primer pla&ccaron;e ali cene, pomeni uradno razglasiti, da se v dolo&ccaron;enem obdobju ne bodo smele pove&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamrzniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Various attempts to control or freeze wages have failed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a freeze in the nuclear arms race.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+deep freeze, 
+</ref>
+<ref>
+freezing, 
+</ref>
+<ref>
+frozen
+</ref>
+</xr>
+</sense>
+</entry>

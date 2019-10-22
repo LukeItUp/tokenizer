@@ -1,0 +1,233 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hit
+</orth>
+<form type="variant">
+<pron>
+/h*It/
+</pron>
+</form>
+<form type="inflected">
+hits, hitting.
+</form>
+<IN>
+<IH>
+Hit 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hit someone or something 
+</seg>
+pomeni nekoga udariti ali zadeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udariti, zadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hit the burglar on the head with a candlestick.
+</quote>
+<quote>
+He never hit the ball very far.
+</quote>
+<quote>
+The truck had hit a wall.
+</quote>
+<quote>
+Enormous hailstones hit the roof of the car.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar bomba ali kak drug izstrelek 
+<seg type="lemma">
+hits its target
+</seg>
+, dose&zcaron;e svojo tar&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Three ships were hit.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hit 
+</seg>
+je dejanje ali posledica dejanja, pri katerem bomba ali kak drug izstrelek zadene cilj ali tar&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadetek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tanks were designed to withstand anything except a direct hit.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+hits a person, place, or thing
+</seg>
+, mo&ccaron;no prizadene osebo, kraj ali stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeti, udariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Spectator sport has been badly hit by the increase in ticket prices.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neko &ccaron;ustvo ali zamisel 
+<seg type="lemma">
+hits someone
+</seg>
+, se tistega &ccaron;ustva ali tiste zamisli oseba nenadoma za&ccaron;ne zavedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pre&scaron;initi, spoznati, zadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shock of her death kept hitting me afresh.
+</quote>
+<quote>
+Suddenly it hit me: my diary had probably been read by everyone in the office.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hit 
+</seg>
+je plo&scaron;&ccaron;a, igra ali film, ki je zelo priljubljen ali uspe&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uspe&scaron;nica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The play became a tremendous hit.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hit on 
+<VS>
+ali 
+</VS>
+<VV>
+hit upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hit on an idea 
+</seg>
+ali 
+<seg type="variant">
+to hit upon an idea 
+</seg>
+pomeni domisliti se neke ideje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domisliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hit on the idea of cutting a hole in the door to let the cat in.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

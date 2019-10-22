@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p513_s561829" id="p513_w131" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="191.032" base="197.44" width="40.7715" height="8.514">octagonal</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p513_s561830" id="p513_w132" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="101.11" y="192.278" base="197.44" width="35.7301" height="6.844">/&#201;kt&#230;g6n6</TOKEN>
+<TOKEN sid="p513_s561831" id="p513_w133" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="137.2" y="191.64" base="195.05" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p513_s561832" id="p513_w134" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="139.86" y="192.278" base="197.44" width="7.5016" height="6.844">l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p513_s561833" id="p513_w135" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="151" y="193.524" base="197.44" width="10.5108" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p513_s561834" id="p513_w136" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.13" y="191.744" base="197.44" width="13.2754" height="7.552">Kar</TOKEN>
+<TOKEN sid="p513_s561835" id="p513_w137" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.044" y="191.744" base="197.44" width="6.03648" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p513_s561836" id="p513_w138" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.72" y="191.744" base="197.44" width="35.5716" height="7.552">octagonal,</TOKEN>
+</seg>
+<TOKEN sid="p513_s561837" id="p513_w139" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.932" y="191.744" base="197.44" width="12.8794" height="7.552">ima</TOKEN>
+<TOKEN sid="p513_s561838" id="p513_w140" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3903" y="200.814" base="206.51" width="17.1986" height="7.552">osem</TOKEN>
+<TOKEN sid="p513_s561839" id="p513_w141" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.5891" y="200.814" base="206.51" width="25.591" height="7.552">stranic.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p513_s561841" id="p513_w143" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="115.41" y="200.814" base="206.51" width="45.45" height="7.552">osmerokoten;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p513_s561842" id="p513_w144" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.86" y="200.814" base="206.51" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p513_s561843" id="p513_w145" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.858" y="200.814" base="206.51" width="33.2078" height="7.552">octagonal</TOKEN>
+<TOKEN sid="p513_s561844" id="p513_w146" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.066" y="200.814" base="206.51" width="20.4869" height="7.552">tower.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

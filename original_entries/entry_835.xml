@@ -5,7 +5,7 @@ attach
 </orth>
 <form type="variant">
 <pron>
-/@t*#ae;tS/
+/@t*&ae;tS/
 </pron>
 </form>
 <form type="inflected">
@@ -15,19 +15,18 @@ attaches, attaching, attached.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attach something to an object
+To attach something to an object 
 </seg>
-pomeni
-tisto zdru&#382;iti ali pritrditi na neki predmet.
+pomeni tisto zdru&zcaron;iti ali pritrditi na neki predmet. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -38,23 +37,22 @@ pritrditi, privezati
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To be attached to an organization
+To be attached to an organization 
 </seg>
-pomeni
-delati za tisto organizacijo, navadno kraj&#353;i &#269;as.
+pomeni delati za tisto organizacijo, navadno kraj&scaron;i &ccaron;as. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-dodeliti, dolo&#269;iti
+dodeliti, dolo&ccaron;iti
 </quote>
 </cit>
 <seg type="example">
@@ -66,25 +64,25 @@ Hospital officers would be temporarily attached to NHS hospitals.
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attach a quality to something or someone
+To attach a quality to something or someone 
 </seg>
-pomeni domnevati, da ima nekaj ali nekdo tako lastnost.
+pomeni domnevati, da ima nekaj ali nekdo tako lastnost. 
 </def>
 <cit type="translationEquivalent">
 <quote>

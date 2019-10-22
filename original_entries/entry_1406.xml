@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blockade
+</orth>
+<form type="variant">
+<pron>
+/blQk*e*Id/
+</pron>
+</form>
+<form type="inflected">
+blockades, blockading, blockaded.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blockade 
+</seg>
+je dejanje, s katerim prepre&ccaron;imo, da bi neko blago pri&scaron;lo na cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapora, blokada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the blockade of Berlin.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The Atlantic Squadron promptly blockaded Santiago.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

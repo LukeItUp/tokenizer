@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lobby
+</orth>
+<form type="variant">
+<pron>
+/l*Qbi1/
+</pron>
+</form>
+<form type="inflected">
+lobbies, lobbying, lobbied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lobby of a building 
+</seg>
+je prostor za glavnim vhodom stavbe; iz njega vodijo hodniki in stopni&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preddverje, ve&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I rushed into the hotel lobby.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lobby 
+</seg>
+je tudi skupina oseb, ki posku&scaron;ajo prepri&ccaron;ati vlado, da bi nekaj storila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lobi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the anti-nuclear lobby.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lobby a member of a government 
+</seg>
+pomeni posku&scaron;ati prepri&ccaron;ati &ccaron;lana vlade, da bi nekaj storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lobirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lobbied the Home Secretary and other members of parliament.
+</quote>
+<quote>
+...lobbying for stricter controls on guns.
+</quote>
+</seg>
+</sense>
+</entry>

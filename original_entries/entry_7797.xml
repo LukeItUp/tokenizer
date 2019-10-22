@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+irrigate
+</orth>
+<form type="variant">
+<pron>
+/*IrIgeIt/
+</pron>
+</form>
+<form type="inflected">
+irrigates, irrigating, irrigated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To irrigate land 
+</seg>
+pomeni oskrbeti zemljo z vodo, da posevki bolje rastejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A small pump will irrigate about an acre of land.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+irrigated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the irrigated areas of the Ganges plain.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+irrigation
+</orth>
+<form type="variant">
+<pron>
+/IrIg*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the area under irrigation.
+</quote>
+<quote>
+...a complex irrigation system.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

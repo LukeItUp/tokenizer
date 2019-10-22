@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hiding
+</orth>
+<form type="variant">
+<pron>
+/h*a*IdIN/
+</pron>
+</form>
+<form type="inflected">
+hidings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+in hiding
+</seg>
+, na skrivaj odide nekam, kjer ga ne more nih&ccaron;e najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v skrivali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has not been heard from since going into hiding in June.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone a hiding 
+</seg>
+pomeni nekoga za kazen pretepsti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prebunkati, premlatiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He told us to stop, or else we&apos;d get a good hiding.
+</quote>
+</seg>
+</sense>
+</entry>

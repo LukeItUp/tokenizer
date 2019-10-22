@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+psychology
+</orth>
+<form type="variant">
+<pron>
+/saIk*Ql@dZi1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Psychology 
+</seg>
+je znanstveno preu&ccaron;evanje &ccaron;love&scaron;kega uma in vzrokov za &ccaron;love&scaron;ko ved&ecirc;nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+psihologija
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+psychologist
+</orth>
+<form type="variant">
+<pron>
+/saIk*Ql@ldZIst/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...child psychologists.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s psychology 
+</seg>
+je &ccaron;lovekov na&ccaron;in razmi&scaron;ljanja in ved&ecirc;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+miselnost, razmi&scaron;ljanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the psychology of the travelling salesman.
+</quote>
+</seg>
+</sense>
+</entry>

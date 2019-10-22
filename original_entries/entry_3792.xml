@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+devastate
+</orth>
+<form type="variant">
+<pron>
+/d*ev@steIt/
+</pron>
+</form>
+<form type="inflected">
+devastates, devastating, devastated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+devastates a place
+</seg>
+, mo&ccaron;no po&scaron;koduje neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opusto&scaron;iti, razdejati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A hurricane had devastated the plantation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+devastation
+</orth>
+<form type="variant">
+<pron>
+/d*ev@st*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the threat of nuclear devastation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

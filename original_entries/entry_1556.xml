@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bowed;
+</orth>
+<PN>
+pri 1. pomenu besedo izgovarjamo 
+<pron>
+/b*@*Ud/
+</pron>
+, pri 2. pa 
+<pron>
+/b*a*Ud/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+bowed
+</seg>
+, je upognjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukrivljen, kriv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had slightly bowed legs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+bowed
+</seg>
+, je njegov trup nagnjen naprej, najve&ccaron;krat zaradi starosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklju&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I remember seeing an old man bent and bowed walking slowly along Queen Anne Street.
+</quote>
+</seg>
+</sense>
+</entry>

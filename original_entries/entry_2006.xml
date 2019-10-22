@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cargo
+</orth>
+<form type="variant">
+<pron>
+/k*A*:g@U/
+</pron>
+</form>
+<form type="inflected">
+cargoes.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cargo of a ship or plane
+</seg>
+ je blago, ki ga preva&zcaron;a ladja ali letalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cargo of wool.
+</quote>
+<quote>
+The port is still handling cargo.
+</quote>
+</seg>
+</sense>
+</entry>

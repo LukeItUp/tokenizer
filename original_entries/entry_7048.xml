@@ -1,0 +1,188 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ice
+</orth>
+<form type="variant">
+<pron>
+/*a*Is/
+</pron>
+</form>
+<form type="inflected">
+ices, icing, iced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ice 
+</seg>
+je zmrznjena voda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+led
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ice 
+</seg>
+so tudi ko&scaron;&ccaron;ki ledu, s katerimi hladimo hrano ali pija&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+led
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...two tall glasses of pineapple juice, soda and ice.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+iced
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an iced beer.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ice cakes 
+</seg>
+pomeni prekriti torte s sladkim prelivom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obliti s sladkornim prelivom
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An ice 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+an ice cream
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sladoled
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break the ice 
+</seg>
+pomeni poskrbeti, da so ljudje spro&scaron;&ccaron;eni, na primer na za&ccaron;etku zabave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebiti led, premagati za&ccaron;etno nelagodje
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+icing
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+ice over 
+<VS>
+ali 
+</VS>
+<VV>
+ice up.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+ices over 
+</seg>
+ali 
+<seg type="variant">
+ices up
+</seg>
+, se prekrije z ledom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaledeneti, zamrzniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The road becomes treacherous when it is iced over.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

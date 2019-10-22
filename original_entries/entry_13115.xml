@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slot
+</orth>
+<form type="variant">
+<pron>
+/sl*Qt/
+</pron>
+</form>
+<form type="inflected">
+slots, slotting, slotted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slot 
+</seg>
+je ozka odprtina v stroju ali posodi, na primer luknja, v katero vstavimo kovanec, da stroj za&ccaron;ne delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He put money in the slot and the music started again.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slots into something else 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+slots something in
+</seg>
+, je tisto prave oblike in velikosti, da gre v neki prostor ali odprtino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilegati se, iti (v odprtino); spustiti v
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cylinder just slots into the barrel.
+</quote>
+<quote>
+I slotted my money in.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slot 
+</seg>
+je tudi prostor v urniku, razporeditvi ali organizaciji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(prost) termin, (prosto) mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Students get only two slots in the week for private study.
+</quote>
+</seg>
+</sense>
+</entry>

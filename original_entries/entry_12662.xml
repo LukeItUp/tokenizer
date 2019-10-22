@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sentimental
+</orth>
+<form type="variant">
+<pron>
+/s*entIm*ent@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sentimental
+</seg>
+, ga prevzemajo &ccaron;ustva kot razne&zcaron;enost, zaljubljenost ali &zcaron;alost. Kar je 
+<seg type="lemma">
+sentimental
+</seg>
+, taka &ccaron;ustva povzro&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sentimentalen, razne&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sentimental songs.
+</quote>
+<quote>
+People have become sentimental about the passing of ways and customs.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sentimentality
+</orth>
+<form type="variant">
+<pron>
+/s*entIment*&ae;lI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...her sentimentality about animals.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sentimental 
+</seg>
+pomeni povezan s &ccaron;lovekovimi &ccaron;ustvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sentimentalen, &ccaron;ustven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ring had been her mother&apos;s and she wore it for sentimental reasons.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sentimentally
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had become sentimentally attached to a student.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

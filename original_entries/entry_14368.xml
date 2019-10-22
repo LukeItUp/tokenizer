@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tenor
+</orth>
+<form type="variant">
+<pron>
+/t*en@/
+</pron>
+</form>
+<form type="inflected">
+tenors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tenor 
+</seg>
+je mo&scaron;ki, ki poje s precej visokim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tenorist
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...&rsquo;Roses of Picardy&rsquo; sung by an Irish tenor.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his pleasant tenor voice.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glasbilo, ki je 
+<seg type="lemma">
+tenor
+</seg>
+, ima precej nizko le&zcaron;e&ccaron; tonski obseg. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tenorski
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tenor of something 
+</seg>
+je splo&scaron;ni pomen ali razpolo&zcaron;enje, ki ga nekaj izra&zcaron;a; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vodilna misel, splo&scaron;ni ton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole tenor of his work was socialist.
+</quote>
+</seg>
+</sense>
+</entry>

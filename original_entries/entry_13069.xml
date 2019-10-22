@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slave
+</orth>
+<form type="variant">
+<pron>
+/sl*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+slaves, slaving, slaved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slave 
+</seg>
+je oseba, ki je last neke druge osebe in mora delati zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+su&zcaron;enj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a story about a slave who escapes and becomes a free man.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be a slave to something 
+</seg>
+pomeni biti pod mo&ccaron;nim vplivom ne&ccaron;esa ali biti podrejen ne&ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+su&zcaron;enj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s just become a slave to possessions and money.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slave for someone 
+</seg>
+pomeni trdo delati za nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+garati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Why am I slaving away, running a house and family single-handed?
+</quote>
+</seg>
+</sense>
+</entry>

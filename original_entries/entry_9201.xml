@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mop
+</orth>
+<form type="variant">
+<pron>
+/m*Qp/
+</pron>
+</form>
+<form type="inflected">
+mops, mopping, mopped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mop 
+</seg>
+je pripomo&ccaron;ek za pomivanje tal. Ima dolg ro&ccaron;aj in na koncu gobo ali mno&zcaron;ico trakov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomivalno omelo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mops a floor
+</seg>
+, o&ccaron;isti tla s krpo ali pomivalnim omelom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomiti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+mops a liquid 
+</seg>
+ali 
+<seg type="lemma">
+mops a surface
+</seg>
+, obri&scaron;e teko&ccaron;ino na neki povr&scaron;ini s suho krpo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He mopped the sweat from his face.
+</quote>
+<quote>
+Mop it with a tissue.
+</quote>
+<quote>
+He mopped his sweating brow.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mop of hair 
+</seg>
+je gosta gmota razpu&scaron;&ccaron;enih ali neurejenih las. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;op, griva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a coarse mop of black hair.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mop up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mops up a liquid
+</seg>
+, s krpo ali gobo odstrani neko teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mother started mopping up the oil.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

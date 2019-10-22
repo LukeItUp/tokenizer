@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+verify
+</orth>
+<form type="variant">
+<pron>
+/v*erIfaI/
+</pron>
+</form>
+<form type="inflected">
+verifies, verifying, verified.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To verify something 
+</seg>
+pomeni, da nekaj pregledamo ali potrdimo, da je resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preveriti; potrditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...evidence that could be tested and verified.
+</quote>
+<quote>
+I was asked to verify or deny this suggestion.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+verification
+</orth>
+<form type="variant">
+<pron>
+/v*erIfIk*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Any hypothesis must depend for its verification on observable evidence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

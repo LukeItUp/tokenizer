@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sunset
+</orth>
+<form type="variant">
+<pron>
+/s*Vnset/
+</pron>
+</form>
+<form type="inflected">
+sunsets.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sunset 
+</seg>
+je ve&ccaron;erni &ccaron;as, ko sonce izgine z neba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;ni zahod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ll leave just before sunset.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sunset 
+</seg>
+so barve in svetloba, ki jih vidimo na nebu zve&ccaron;er, ko sonce zahaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+son&ccaron;ni zahod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must see some beautiful sunsets here.
+</quote>
+</seg>
+</sense>
+</entry>

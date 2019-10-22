@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+query
+</orth>
+<form type="variant">
+<pron>
+/kw*I*@ri1/
+</pron>
+</form>
+<form type="inflected">
+queries, querying, queried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A query 
+</seg>
+je vpra&scaron;anje o kaki konkretni stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you have any queries, please don't hesitate to write.
+</quote>
+<quote>
+The assistant accepted my cheque without query.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+queries
+</seg>
+, postavi vpra&scaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpra&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;How much do I owe you?&rsquo; I queried.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To query something 
+</seg>
+pomeni spra&scaron;evati o ne&ccaron;em, ker nismo prepri&ccaron;ani, ali je pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preveriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your expenses have been queried by the tax man.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,142 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wrench
+</orth>
+<form type="variant">
+<pron>
+/r*entS/
+</pron>
+</form>
+<form type="inflected">
+wrenches, wrenching, wrenched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wrench something 
+</seg>
+pomeni na silo potegniti ali silovito zviti nekaj, kar je pritrjeno na dolo&ccaron;en kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iztrgati, izvle&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was trying to wrench my button off.
+</quote>
+<quote>
+I wrenched the door open.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wrench a limb or a joint 
+</seg>
+pomeni zviti in po&scaron;kodovati si ud ali sklep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti, spahniti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wrench one&apos;s eyes or mind away from something 
+</seg>
+pomeni mo&ccaron;no se potruditi, da ne bi ve&ccaron; gledali ali razmi&scaron;ljali o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tried to wrench my gaze away from the appalling sight.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da je to, da nekoga ali nekaj zapustimo, 
+<seg type="lemma">
+a wrench
+</seg>
+, ho&ccaron;emo re&ccaron;i, da smo zato zelo &zcaron;alostni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bole&ccaron;a lo&ccaron;itev
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wrench 
+</seg>
+je nastavljivo kovinsko orodje, ki ga uporabljamo za privijanje ali odvijanje matic in zapahov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klju&ccaron;, francoz
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+</sense>
+</entry>

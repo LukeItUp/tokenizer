@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+beer
+</orth>
+<form type="variant">
+<pron>
+/b*I*@/
+</pron>
+</form>
+<form type="inflected">
+beers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Beer 
+</seg>
+je grenka alkoholna pija&ccaron;a, ki jo izdelujejo iz hmelja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We drank a few pints of beer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A beer 
+</seg>
+je vr&ccaron;ek, steklenica ali plo&ccaron;evinka piva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He'd had two beers.
+</quote>
+</seg>
+</sense>
+</entry>

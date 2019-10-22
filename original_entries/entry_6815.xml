@@ -1,0 +1,122 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hitch
+</orth>
+<form type="variant">
+<pron>
+/h*ItS/
+</pron>
+</form>
+<form type="inflected">
+hitches, hitching, hitched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hitch 
+</seg>
+je la&zcaron;ji problem ali te&zcaron;ava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomanjkljivost, napaka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There had also been one or two technical hitches.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hitch a lift 
+</seg>
+pomeni ustaviti avto z dvignjenim palcem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;topati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hitched south towards Italy.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hitch something onto an object 
+</seg>
+pomeni nekaj nekam pritrditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeti, privezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ponies hitched to rails.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hitch up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hitch up a piece of clothing 
+</seg>
+pomeni potegniti obla&ccaron;ilo vi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povle&ccaron;i gor
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

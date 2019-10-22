@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+broadcast
+</orth>
+<form type="variant">
+<pron>
+/br*O*:dkA:st/
+</pron>
+</form>
+<form type="inflected">
+broadcasts, broadcasting, broadcasted.
+</form>
+<IN>
+Oblika za preteklik in pretekli dele&zcaron;nik je lahko 
+<IH>
+broadcasted 
+</IH>
+<IC>
+ali 
+</IC>
+<IH>
+broadcast
+</IH>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A broadcast 
+</seg>
+je tisto, kar sli&scaron;imo po radiu ali vidimo na televiziji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was criticized for making these broadcasts.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To broadcast a programme 
+</seg>
+pomeni poslati oddajo v eter po radijskih valovih, da jo lahko sli&scaron;ijo po radiu ali vidijo na televiziji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddajati, predvajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Episode One was broadcast last night.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+broadcasting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the purpose of educational broadcasting.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+irony
+</orth>
+<form type="variant">
+<pron>
+/*a*Ir@ni1/
+</pron>
+</form>
+<form type="inflected">
+ironies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Irony 
+</seg>
+je na&ccaron;in govorjenja, pri katerem re&ccaron;emo nekaj neprimernega, mi&scaron;ljenega kot &scaron;ala ali &zcaron;alitev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posmehovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She said with slight irony, &lsquo;Bravo.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The irony of a situation 
+</seg>
+je nenavaden ali zabaven vidik dolo&ccaron;enih okoli&scaron;&ccaron;in, nasprotje tistega, kar bi pri&ccaron;akovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ironija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The irony is that many politicians agree with him.
+</quote>
+<quote>
+History has many ironies.
+</quote>
+</seg>
+</sense>
+</entry>

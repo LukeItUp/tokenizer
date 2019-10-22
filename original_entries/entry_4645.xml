@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enclose
+</orth>
+<form type="variant">
+<pron>
+/I2N1kl*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+encloses, enclosing, enclosed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neka stvar 
+<seg type="lemma">
+enclosed by something solid
+</seg>
+, je popolnoma obdana od ne&ccaron;esa trdnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdati, ograditi; obdan, ograjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The statue is enclosed in a heavy glass cabinet.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enclosed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The reaction takes place within an enclosed space.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enclose something with a letter 
+</seg>
+pomeni nekaj dati v ovojnico k pismu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I enclose a small cheque.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enclosed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the enclosed list.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

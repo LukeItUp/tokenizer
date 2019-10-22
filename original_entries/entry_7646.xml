@@ -1,0 +1,227 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interest
+</orth>
+<form type="variant">
+<pron>
+/*Int@0r@2st/
+</pron>
+</form>
+<form type="inflected">
+interests, interesting, interested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an interest in something 
+</seg>
+pomeni &zcaron;eleti izvedeti ali sli&scaron;ati ve&ccaron; o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanimanje; zanimati se za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+None of them had the slightest interest in music.
+</quote>
+<quote>
+Brody was beginning to lose interest.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s interests 
+</seg>
+so stvari, ki jih z veseljem delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konji&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had two consuming interests: rowing and polo.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+interests someone
+</seg>
+, si nekdo &zcaron;eli izvedeti ve&ccaron; o ne&ccaron;em ali se s tistim &scaron;e naprej ukvarjati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanimati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Young men should always look for work which interests them.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To interest someone in something 
+</seg>
+pomeni nekoga pregovoriti, naj nekaj stori ali kupi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbuditi zanimanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can I interest you in yet another horror movie?
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an interest in something being done 
+</seg>
+pomeni &zcaron;eleti, da bi bilo nekaj storjeno, ker bomo imeli od tega korist. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korist, interes
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had no interest in the overthrow of the established order.
+</quote>
+<quote>
+They would protect the interests of their members.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in the interests of a person or group
+</seg>
+, na dolo&ccaron;en na&ccaron;in koristi neki osebi ali skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korist, prid
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is not in the interests of any of us to have a weak government.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have interests in a particular type of business
+</seg>
+ pomeni imeti v lasti podjetja dolo&ccaron;ene vrste ali njihove delnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dele&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an industrialist with business interests in Germany.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Interest 
+</seg>
+je denar, ki ga prejmemo, &ccaron;e smo vlo&zcaron;ili dolo&ccaron;en znesek denarja, ali denar, ki ga pla&ccaron;amo, &ccaron;e smo si denar sposodili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the interest you pay on your mortgage.
+</quote>
+<quote>
+...high interest rates.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+vested interest
+</ref>
+</xr>
+</sense>
+</entry>

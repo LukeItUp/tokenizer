@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+predecessor
+</orth>
+<form type="variant">
+<pron>
+/pr*i*:dIses@/
+</pron>
+</form>
+<form type="inflected">
+predecessors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s predecessor 
+</seg>
+je oseba, ki je opravljala neko delo ali imela neko vlogo pred osebo, o kateri govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predhodnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wasn&apos;t being paid the same wage as her predecessor.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The predecessor of an object or machine 
+</seg>
+je predmet ali stroj, ki ga je zamenjal predmet ali stroj, o katerem govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predhodnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The latest model is more refined than its predecessor.
+</quote>
+</seg>
+</sense>
+</entry>

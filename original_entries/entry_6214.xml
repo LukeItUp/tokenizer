@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+graft
+</orth>
+<form type="variant">
+<pron>
+/gr*A*:ft/
+</pron>
+</form>
+<form type="inflected">
+grafts, grafting, grafted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To graft a part of one plant onto another 
+</seg>
+pomeni stakniti dela dveh rastlin, da bi naprej rasla skupaj in postala ena sama rastlina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cepiti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To graft one idea or system onto another 
+</seg>
+pomeni poskusiti zdru&zcaron;iti eno zamisel ali sistem z drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...modern federal structures grafted on to ancient cultural divisions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To graft a piece of healthy tissue to a damaged part of your body 
+</seg>
+pomeni z zdravni&scaron;ko operacijo pripojiti kos zdravega tkiva na po&scaron;kodovan del telesa in ga tako nadomestiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...new veins grafted to his heart.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Laverne had skin grafts on her thighs.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,204 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+type
+</orth>
+<form type="variant">
+<pron>
+/t*a*Ip/
+</pron>
+</form>
+<form type="inflected">
+types, typing, typed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A type of something 
+</seg>
+je skupina stvari, ki imajo dolo&ccaron;ene skupne lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta, tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...several different types of accounts.
+</quote>
+<quote>
+They usually test your blood type during pregnancy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+a type 
+</seg>
+uporabimo za nekaj, kadar na tisto gledamo v primerjavi z drugimi stvarmi, ki imajo podobne lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta, tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How much longer can you do this type of work?
+</quote>
+<quote>
+...simple problems of this type.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular type of person 
+</seg>
+je oseba z dolo&ccaron;enim videzom ali lastnostmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was good-looking, if you like the strong, dark type.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To type something 
+</seg>
+pomeni nekaj napisati na ra&ccaron;unalnik ali pisalni stroj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natipkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I typed the reply.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+typing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I had to do some typing for her.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To type information into a computer or word processor 
+</seg>
+pomeni s tipkovnico vnesti podatke v ra&ccaron;unalnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vnesti, vtipkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The letter was typed into a word processor.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+type up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To type up a handwritten text 
+</seg>
+pomeni besedilo, ki je napisano na roko, napisati &scaron;e na ra&ccaron;unalnik ali pisalni stroj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretipkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After thinking about it, she typed it up, then we both read it.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

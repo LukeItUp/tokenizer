@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vaccinate
+</orth>
+<form type="variant">
+<pron>
+/v*&ae;ksIneIt/
+</pron>
+</form>
+<form type="inflected">
+vaccinates, vaccinating, vaccinated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be vaccinated against a disease 
+</seg>
+pomeni dobiti injekcijo, ki nas zavaruje pred dolo&ccaron;eno boleznijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of them were vaccinated against hepatitis.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+vaccination
+</orth>
+<form type="variant">
+<pron>
+/v*&ae;ksIn*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...vaccination against smallpox.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

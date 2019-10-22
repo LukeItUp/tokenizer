@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+opinion
+</orth>
+<form type="variant">
+<pron>
+/@p*Inj@n/
+</pron>
+</form>
+<form type="inflected">
+opinions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s opinion of something 
+</seg>
+je tisto, kar &ccaron;lovek misli o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mnenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The students were eager to express their opinions.
+</quote>
+<quote>
+Information of this nature was valuable, in his opinion.
+</quote>
+<quote>
+We have a high opinion of you.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be of the opinion that something is the case 
+</seg>
+pomeni misliti, da je nekaj res; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti mnenja, meniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is of the opinion that money is not important.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+opinion
+</seg>
+ lahko ozna&ccaron;ujemo mnenja in prepri&ccaron;anja ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mnenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...changes in public opinion.
+</quote>
+<quote>
+Difficulties arise where there&apos;s a difference of opinion.
+</quote>
+</seg>
+</sense>
+</entry>

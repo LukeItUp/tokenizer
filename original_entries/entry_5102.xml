@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fade
+</orth>
+<form type="variant">
+<pron>
+/f*e*Id/
+</pron>
+</form>
+<form type="inflected">
+fades, fading, faded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fades
+</seg>
+, po&ccaron;asi postane manj svetlo, manj glasno ali manj mo&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pojemati, bledeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The afternoon light was fading.
+</quote>
+<quote>
+The applause faded.
+</quote>
+<quote>
+Interest in the story will fade.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar barven predmet 
+<seg type="lemma">
+fades
+</seg>
+, njegova barva postopoma postaja bolj bleda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bledeti, obledeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wallpaper may have faded.
+</quote>
+<quote>
+How can I stop the sun from fading the carpet?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+faded
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an old man in a faded blue shirt.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fade away 
+<VS>
+ali 
+</VS>
+<VV>
+fade out.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fades away 
+</seg>
+ali kadar nekaj 
+<seg type="variant">
+fades out
+</seg>
+, po&ccaron;asi postaja manj silovito ali mo&ccaron;no, dokler se popolnoma ne kon&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izginjati, zamirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your enthusiasm for running will soon fade away.
+</quote>
+<quote>
+This sort of protest tends to fade out quickly.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

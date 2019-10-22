@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suspect,
+</orth>
+<form type="inflected">
+suspects, suspecting, suspected;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/s*@sp*ekt/
+</pron>
+, samostalnik ali pridevnik pa 
+<pron>
+/s*Vspekt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suspect that something is the case 
+</seg>
+pomeni misliti, da je nekaj najverjetneje res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domnevati, sumiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People suspected that a secret deal had been made.
+</quote>
+<quote>
+He suspected murder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suspect something 
+</seg>
+pomeni dvomiti, ali ne&ccaron;emu lahko zaupamo in se zanesemo na tisto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had many reasons for suspecting this approach.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suspect someone of a crime 
+</seg>
+pomeni misliti, da je nekdo zakrivil dolo&ccaron;en zlo&ccaron;in ali prestopek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osumiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was suspected of treason.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A suspect 
+</seg>
+je oseba, za katero mislimo, da je zakrivila dolo&ccaron;en zlo&ccaron;in ali prestopek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osumljenec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Last week police finally had a suspect for the murder.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+suspect
+</seg>
+, tistemu ne moremo zaupati ali dvomimo, da je tisto pristno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sumljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My friendliness was viewed as suspect by some people.
+</quote>
+</seg>
+</sense>
+</entry>

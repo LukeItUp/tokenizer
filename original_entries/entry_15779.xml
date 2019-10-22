@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+warning
+</orth>
+<form type="variant">
+<pron>
+/w*O*:nIN/
+</pron>
+</form>
+<form type="inflected">
+warnings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A warning 
+</seg>
+je nekaj, kar re&ccaron;emo ali napi&scaron;emo, da ljudem povemo za nevarnost, te&zcaron;avo ali kak&scaron;no drugo neprijetnost, ki bi se lahko zgodila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svarilo, opozorilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hospital issued warnings about drugs to be avoided.
+</quote>
+<quote>
+Dad gave a final warning to them not to look directly at the sun.
+</quote>
+<quote>
+Mary left her husband without any warning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejanja ali znamenja, ki so 
+<seg type="lemma">
+warning
+</seg>
+, pred ne&ccaron;im opozarjajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opozorilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Watch out for the warning signs of depression like insomnia.
+</quote>
+</seg>
+</sense>
+</entry>

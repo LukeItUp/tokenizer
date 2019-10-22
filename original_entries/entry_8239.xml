@@ -1,0 +1,244 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+less
+</orth>
+<form type="variant">
+<pron>
+/l*es/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+QUANTIF 
+<seg>
+or 
+</seg>
+DET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Less 
+</seg>
+pomeni manj kot prej ali manj kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+With practice it becomes less of an effort.
+</quote>
+<quote>
+We had less than three miles to go.
+</quote>
+<quote>
+Sixty per cent of them are aged 20 or less.
+</quote>
+<quote>
+A shower uses less water than a bath.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Less 
+</seg>
+pomeni tudi z manj neke lastnosti kot prej ali z manj neke lastnosti kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+From this time on, I felt less guilty.
+</quote>
+<quote>
+Fires occurred less frequently outside this area.
+</quote>
+<quote>
+...the less developed countries.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+less than before 
+</seg>
+ali 
+<seg type="lemma">
+less than someone else
+</seg>
+, tisto storimo v manj&scaron;em obsegu ali ne tako pogosto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You probably use them less than I do.
+</quote>
+<quote>
+The more I hear about him, the less I like him.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Less 
+</seg>
+pomeni tudi isto kot 
+<seg type="lemma">
+minus
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+minus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He earns &pound;200 a week, less tax.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+lesser
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+less and less 
+</seg>
+povemo, da nekaj postaja vedno manj&scaron;e po stopnji ali koli&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vse manj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He found them less and less interesting.
+</quote>
+<quote>
+They had less and less to talk about.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+less than 
+</seg>
+povemo, da nekaj nima dolo&ccaron;ene lastnosti. Na primer: kadar je nekaj 
+<seg type="lemma">
+less than perfect
+</seg>
+, ni popolno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+manj kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It would have been less than fair.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+no less 
+</seg>
+lahko poudarimo, da smo presene&ccaron;eni nad pomembnostjo nekoga ali ne&ccaron;esa ali da jo ob&ccaron;udujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; manj kot, sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the President of the United States, no less.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+no less than 
+</seg>
+lahko postavimo pred dolo&ccaron;eno koli&ccaron;ino, kadar &zcaron;elimo povedati, da je po na&scaron;em mnenju presenetljivo velika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; manj kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By 1880, there were no less than fifty-six coal mines.
+</quote>
+<quote>
+...no less than 40 per cent of the material.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+more or less: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+more
+</ref>
+</xr>
+</B>
+</entry>

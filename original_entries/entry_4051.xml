@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+display
+</orth>
+<form type="variant">
+<pron>
+/dIspl*e*I/
+</pron>
+</form>
+<form type="inflected">
+displays, displaying, displayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To display something 
+</seg>
+pomeni nekaj postaviti na tak&scaron;en kraj, da ljudje tisto lahko vidijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkazovati, razstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a small museum where they could display the collection.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He has all his tools on display.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To display a quality or emotion 
+</seg>
+pomeni vesti se tako, da poka&zcaron;e&scaron; neko lastnost ali &ccaron;ustvo.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati, pona&scaron;ati se s &ccaron;im
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a spontaneous display of affection.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A display 
+</seg>
+je nekaj, kar je namenjeno pritegovanju pozornosti ljudi, na primer neki dogodek ali privla&ccaron;na razporeditev razli&ccaron;nih predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razstava, razkazovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...displays of sausages and cheese.
+</quote>
+<quote>
+...a firework display.
+</quote>
+</seg>
+</sense>
+</entry>

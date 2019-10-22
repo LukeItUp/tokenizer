@@ -1,0 +1,251 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guard
+</orth>
+<form type="variant">
+<pron>
+/g*A*:d/
+</pron>
+</form>
+<form type="inflected">
+guards, guarding, guarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guard a place, person, or object 
+</seg>
+pomeni paziti neki kraj, osebo ali predmet, bodisi zato, da bi jih zavarovali, bodisi zato, da bi jim prepre&ccaron;ili beg. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stra&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Scotland Yard sent an officer to guard his house.
+</quote>
+<quote>
+She had been locked in her room and was guarded night and day.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guard 
+</seg>
+je oseba ali skupina oseb, ki nekoga ali nekaj varujejo ali stra&zcaron;ijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stra&zcaron;ar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They will give him an armed guard.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guard 
+</seg>
+je tudi &zcaron;elezni&scaron;ki uslu&zcaron;benec na vlaku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprevodnik
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guard something 
+</seg>
+pomeni varovati ali skrivati nekaj pomembnega ali tajnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovati, paziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The professions, as you might expect, guard their secrets closely.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+guarded
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The contents of the lists were a closely guarded secret.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guard 
+</seg>
+je tudi pokrov za nekaj nevarnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&scaron;&ccaron;ita, pokrov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the guard is taken off the motor the machine can&apos;t start.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To stand guard over someone or something 
+</seg>
+pomeni nekoga ali nekaj stra&zcaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovati, braniti, paziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You will be expected to stand guard over the village.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be on guard 
+</seg>
+pomeni biti odgovoren za varovanje dolo&ccaron;enega kraja ali osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stra&zcaron;iti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be on one&apos;s guard 
+</seg>
+pomeni paziti, ker bi okoli&scaron;&ccaron;ine lahko postale resne ali nevarne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti previden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Busy parents have to be on their guard against being bad-tempered with their children.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To catch someone off guard 
+</seg>
+pomeni nekoga presenetiti s tem, da nekaj naredimo takrat, ko ne pri&ccaron;akuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ujeti koga nepripravljenega
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+guard against.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To guard against something 
+</seg>
+pomeni paziti, da bi se izognili temu, da bi se nekaj zgodilo ali vplivalo na nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovati se pred &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ideas which the trained mind of a judge knows to guard against.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

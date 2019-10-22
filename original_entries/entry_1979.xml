@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+captive
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;ptIv/
+</pron>
+</form>
+<form type="inflected">
+captives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A captive 
+</seg>
+je zapornik; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ujetnik, talec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The troops took the women and children as captives.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take someone captive 
+</seg>
+pomeni nekoga ujeti in zapreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

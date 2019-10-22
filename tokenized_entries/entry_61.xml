@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p3_s2954" id="p3_w852" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.11" y="409.608" base="414.77" width="40.1916" height="6.844">/6bØnd6ns/.</TOKEN>
+<TOKEN sid="p3_s2954" id="p3_w852" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.11" y="409.608" base="414.77" width="40.1916" height="6.844">/6b&#216;nd6ns/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -36,7 +36,7 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p3_s2969" id="p3_w867" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.419" y="427.234" base="432.93" width="15.5606" height="7.552">…an</TOKEN>
+<TOKEN sid="p3_s2969" id="p3_w867" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.419" y="427.234" base="432.93" width="15.5606" height="7.552">&#8230;an</TOKEN>
 <TOKEN sid="p3_s2970" id="p3_w868" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="304.56" y="427.234" base="432.93" width="36.6394" height="7.552">abundance</TOKEN>
 <TOKEN sid="p3_s2971" id="p3_w869" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="342.779" y="427.234" base="432.93" width="6.37992" height="7.552">of</TOKEN>
 <TOKEN sid="p3_s2972" id="p3_w870" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.738" y="427.234" base="432.93" width="31.4338" height="7.552">evidence.</TOKEN>
@@ -44,7 +44,7 @@
 </seg>
 </sense>
 <sense n="2">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p3_s2974" id="p3_w872" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="389.94" y="429.014" base="432.93" width="21.6216" height="5.192">PHRASE</TOKEN>
@@ -81,6 +81,6 @@
 <TOKEN sid="p3_s2994" id="p3_w892" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="399.922" y="445.394" base="451.09" width="38.8015" height="7.552">abundance.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+picket
+</orth>
+<form type="variant">
+<pron>
+/p*IkIt/
+</pron>
+</form>
+<form type="inflected">
+pickets, picketing, picketed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stavkajo&ccaron;i delavci 
+<seg type="lemma">
+picket a place of work
+</seg>
+, stojijo pred prostorom, kjer sicer delajo, da bi prepri&ccaron;ali &scaron;e druge delavce, naj se pridru&zcaron;ijo stavki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti stavkovne stra&zcaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plan was to picket docks and power stations.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the historic picket at Saltley coke depot.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pickets 
+</seg>
+so ljudje, ki stavkajo tam, kjer sicer delajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavkovna stra&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We could hear the chanting of the pickets.
+</quote>
+</seg>
+</sense>
+</entry>

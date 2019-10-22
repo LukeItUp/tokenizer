@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p568_s622957" id="p568_w674" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="227.802" base="234.21" width="18.0405" height="8.514">poet</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p568_s622958" id="p568_w675" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="272.41" y="229.048" base="234.21" width="24.3516" height="6.844">/p6&#205;&#203;t/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p568_s622959" id="p568_w676" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="298.22" y="228.87" base="234.21" width="18.8494" height="7.08">poets.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p568_s622960" id="p568_w677" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="318.54" y="230.294" base="234.21" width="18.611" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p568_s622961" id="p568_w678" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="338.131" y="230.294" base="234.21" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p568_s622962" id="p568_w679" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.76" y="228.514" base="234.21" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p568_s622963" id="p568_w680" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.821" y="228.514" base="234.21" width="14.3798" height="7.552">poet</TOKEN>
+</seg>
+<TOKEN sid="p568_s622964" id="p568_w681" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.67" y="228.514" base="234.21" width="5.85648" height="7.552">je</TOKEN>
+<TOKEN sid="p568_s622965" id="p568_w682" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="373.986" y="228.514" base="234.21" width="20.4984" height="7.552">oseba,</TOKEN>
+<TOKEN sid="p568_s622966" id="p568_w683" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.943" y="228.514" base="234.21" width="6.65568" height="7.552">ki</TOKEN>
+<TOKEN sid="p568_s622967" id="p568_w684" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.059" y="228.514" base="234.21" width="13.1702" height="7.552">pi{e</TOKEN>
+<TOKEN sid="p568_s622968" id="p568_w685" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.688" y="228.514" base="234.21" width="21.2904" height="7.552">pesmi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p568_s622970" id="p568_w687" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="264.84" y="237.574" base="243.27" width="24.3893" height="7.552">pesnik;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p568_s622971" id="p568_w688" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="291.23" y="237.574" base="243.27" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p568_s622972" id="p568_w689" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="311.228" y="237.574" base="243.27" width="21.6036" height="7.552">Soviet</TOKEN>
+<TOKEN sid="p568_s622973" id="p568_w690" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.832" y="237.574" base="243.27" width="16.8019" height="7.552">poet,</TOKEN>
+<TOKEN sid="p568_s622974" id="p568_w691" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="353.634" y="237.574" base="243.27" width="45.2736" height="7.552">Yevtushenko.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

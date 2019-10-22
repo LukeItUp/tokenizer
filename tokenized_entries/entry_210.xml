@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p11_s11901" id="p11_w972" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.47" y="563.948" base="569.11" width="16.2002" height="6.844">/æd6</TOKEN>
+<TOKEN sid="p11_s11901" id="p11_w972" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.47" y="563.948" base="569.11" width="16.2002" height="6.844">/&#230;d6</TOKEN>
 <TOKEN sid="p11_s11902" id="p11_w973" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="316.97" y="563.3" base="566.71" width="2.39636" height="4.52176">7</TOKEN>
 <TOKEN sid="p11_s11903" id="p11_w974" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="319.58" y="563.948" base="569.11" width="12.5702" height="6.844">les6</TOKEN>
 <TOKEN sid="p11_s11904" id="p11_w975" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="332.45" y="563.3" base="566.71" width="2.39636" height="4.52176">2</TOKEN>
@@ -47,7 +47,7 @@
 <TOKEN sid="p11_s11925" id="p11_w996" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="289.09" y="581.564" base="587.26" width="42.6377" height="7.552">mladoletnik;</TOKEN>
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p11_s11926" id="p11_w997" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="333.277" y="581.564" base="587.26" width="15.7939" height="7.552">tudi:</TOKEN>
@@ -57,13 +57,13 @@
 <seg type="example">
 <quote>
 <TOKEN sid="p11_s11928" id="p11_w999" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="370.592" y="583.344" base="587.26" width="10.3693" height="5.192">ADJ</TOKEN>
-<TOKEN sid="p11_s11929" id="p11_w1000" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.55" y="581.564" base="587.26" width="11.1521" height="7.552">…a</TOKEN>
+<TOKEN sid="p11_s11929" id="p11_w1000" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.55" y="581.564" base="587.26" width="11.1521" height="7.552">&#8230;a</TOKEN>
 <TOKEN sid="p11_s11930" id="p11_w1001" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.252" y="581.564" base="587.26" width="20.142" height="7.552">father</TOKEN>
 <TOKEN sid="p11_s11931" id="p11_w1002" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.943" y="581.564" base="587.26" width="15.4418" height="7.552">with</TOKEN>
 <TOKEN sid="p11_s11932" id="p11_w1003" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.934" y="581.564" base="587.26" width="8.35128" height="7.552">an</TOKEN>
 <TOKEN sid="p11_s11933" id="p11_w1004" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="590.644" base="596.34" width="35.9935" height="7.552">adolescent</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

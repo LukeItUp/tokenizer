@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+laboratory
+</orth>
+<form type="variant">
+<pron>
+/l@3b*Qr@t@0ri1/
+</pron>
+</form>
+<form type="inflected">
+laboratories.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A laboratory 
+</seg>
+je stavba ali soba, kjer izvajajo znanstvene poskuse ali raziskave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+laboratorij
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The geologists took the samples back to the laboratory.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V &scaron;oli ali na univerzi je 
+<seg type="lemma">
+a laboratory 
+</seg>
+soba z znanstveno opremo, kjer se u&ccaron;enci u&ccaron;ijo naravoslovne predmete, na primer kemijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+laboratorij
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+language laboratory
+</ref>
+</xr>
+</sense>
+</entry>

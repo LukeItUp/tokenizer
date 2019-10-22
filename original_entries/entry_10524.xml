@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+photocopy
+</orth>
+<form type="variant">
+<pron>
+/f*@*Ut@6kQpi1/
+</pron>
+</form>
+<form type="inflected">
+photocopies, photocopying, photocopied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A photocopy 
+</seg>
+je kopija dokumenta, narejena s fotokopirnim strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fotokopija
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+photocopies a document
+</seg>
+, naredi kopijo dokumenta s fotokopirnim strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fotokopirati
+</quote>
+</cit>
+</sense>
+</entry>

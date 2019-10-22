@@ -1,0 +1,259 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+boil
+</orth>
+<form type="variant">
+<pron>
+/b*O*Il/
+</pron>
+</form>
+<form type="inflected">
+boils, boiling, boiled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vro&ccaron;a teko&ccaron;ina 
+<seg type="lemma">
+boils 
+</seg>
+ali kadar &ccaron;lovek 
+<seg type="lemma">
+boils it
+</seg>
+, se na povr&scaron;ini poka&zcaron;ejo mehur&ccaron;ki in teko&ccaron;ina se za&ccaron;ne spreminjati v paro ali hlape. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the water has boiled, let it cool.
+</quote>
+<quote>
+Boil the solution in the pan for five minutes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring a liquid to the boil 
+</seg>
+pomeni segreti teko&ccaron;ino, da zavre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavreti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To boil a kettle 
+</seg>
+pomeni segrevati kotli&ccaron;ek, dokler voda v njem ne zavre. Kadar re&ccaron;emo: 
+<seg type="lemma">
+the kettle is boiling
+</seg>
+, ho&ccaron;emo povedati, da voda v kotli&ccaron;ku vre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavreti, vreti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To boil food 
+</seg>
+pomeni kuhati hrano v vreli vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skuhati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn't know how to boil an egg.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj zelo vro&ccaron;e, je 
+<seg type="lemma">
+boiling 
+</seg>
+ali 
+<seg type="variant">
+boiling hot
+</seg>
+.
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrel; razgret; razbeljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I immersed my boiling body in a cool pool.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be boiling with anger 
+</seg>
+pomeni biti zelo jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozeleneti od jeze
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A boil 
+</seg>
+je rde&ccaron;a, bole&ccaron;a oteklina na ko&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tur, bula
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+boil away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina 
+<seg type="lemma">
+boils away
+</seg>
+, se vsa spremeni v paro ali hlape. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povreti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+boil down to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da polo&zcaron;aj ali problem 
+<seg type="lemma">
+boils down to something
+</seg>
+, ho&ccaron;emo povedati, da je tisto njun najpomembnej&scaron;i vidik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v resnici gre za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What it all seemed to boil down to was money.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+boil over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina, ki jo segrevamo, 
+<seg type="lemma">
+boils over
+</seg>
+, se dvigne in ste&ccaron;e &ccaron;ez rob posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skipeti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

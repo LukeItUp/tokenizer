@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+juggle
+</orth>
+<form type="variant">
+<pron>
+/dZ*Vg@0l/
+</pron>
+</form>
+<form type="inflected">
+juggles, juggling, juggled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To juggle 
+</seg>
+pomeni zabavati ljudi z metanjem predmetov v zrak, lovljenjem vsakega posebej in ponovnim metanjem v zrak, tako da jih je naenkrat ve&ccaron; v zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;onglirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+juggler
+</orth>
+<form type="variant">
+<pron>
+/dZ*Vgl@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a juggler practising his act.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To juggle numbers or ideas 
+</seg>
+ali 
+<seg type="lemma">
+to juggle with numbers and ideas 
+</seg>
+pomeni ve&ccaron;krat preurediti &scaron;tevilke, da se prilegajo za&zcaron;elenemu vzorcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poigravati se, premetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Both of them juggle their working hours to be with the children.
+</quote>
+<quote>
+He was still juggling with figures.
+</quote>
+</seg>
+</sense>
+</entry>

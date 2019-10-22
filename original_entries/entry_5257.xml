@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ferry
+</orth>
+<form type="variant">
+<pron>
+/f*eri1/
+</pron>
+</form>
+<form type="inflected">
+ferries, ferrying, ferried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ferry 
+</seg>
+je &ccaron;oln, ki preva&zcaron;a potnike ali vozila &ccaron;ez reko ali na kraj&scaron;e razdalje po morju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trajekt
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TRANSPORT
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+We got back to London by train and ferry.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ferry people or goods somewhere 
+</seg>
+pomeni nekam preva&zcaron;ati osebe ali blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preva&zcaron;ati, voziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were ferried from one building to another.
+</quote>
+</seg>
+</sense>
+</entry>

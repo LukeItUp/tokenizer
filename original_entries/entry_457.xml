@@ -5,7 +5,7 @@ amiss
 </orth>
 <form type="variant">
 <pron>
-/@m*Is/.
+/@m*Is/
 </pron>
 </form>
 </form>
@@ -16,16 +16,15 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekaj
+Kadar je nekaj 
 <seg type="lemma">
 amiss
 </seg>
-je pri tistem nekaj
-slabega.
+, je pri tistem nekaj slabega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-narobe, napa&#269;no
+narobe, napa&ccaron;no
 </quote>
 </cit>
 <seg type="example">
@@ -34,15 +33,14 @@ I immediately sensed something amiss.
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 takes a remark amiss
 </seg>
-ga
-neka pripomba u&#382;ali in razburi.
+, ga neka pripomba u&zcaron;ali in razburi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -57,16 +55,15 @@ You mustn't take anything I say amiss.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar re&#269;emo
+Kadar re&ccaron;emo 
 <seg type="lemma">
-something would not come
-amiss
+something would not come amiss
 </seg>
-ho&#269;emo povedati, da bi bilo nekaj dobrodo&#353;lo in koristno.
+, ho&ccaron;emo povedati, da bi bilo nekaj dobrodo&scaron;lo in koristno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-ne bi bilo odve&#269;
+ne bi bilo odve&ccaron;
 </quote>
 </cit>
 <seg type="example">
@@ -75,5 +72,5 @@ A little calm wouldn't come amiss.
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

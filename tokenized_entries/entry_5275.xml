@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p271_s296529" id="p271_w877" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="471.912" base="478.32" width="25.4704" height="8.514">feudal</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p271_s296530" id="p271_w878" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="284.27" y="473.158" base="478.32" width="22.8199" height="6.844">/fju&#194;d6</TOKEN>
+<TOKEN sid="p271_s296531" id="p271_w879" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="307.46" y="472.52" base="475.93" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p271_s296532" id="p271_w880" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="310.13" y="473.158" base="478.32" width="7.5216" height="6.844">l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p271_s296533" id="p271_w881" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="321.3" y="474.404" base="478.32" width="19.3352" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p271_s296534" id="p271_w882" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="343.141" y="474.404" base="478.32" width="10.5089" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p271_s296535" id="p271_w883" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.32" y="472.624" base="478.32" width="23.85" height="7.552">Feudal</TOKEN>
+</seg>
+<TOKEN sid="p271_s296536" id="p271_w884" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="384.82" y="472.624" base="478.32" width="25.4484" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p271_s296537" id="p271_w885" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.919" y="472.624" base="478.32" width="28.3061" height="7.552">povezan</TOKEN>
+<TOKEN sid="p271_s296538" id="p271_w886" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="481.704" base="487.4" width="3.1968" height="7.552">s</TOKEN>
+<TOKEN sid="p271_s296539" id="p271_w887" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="266.01" y="481.704" base="487.4" width="46.0001" height="7.552">fevdalizmom.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p271_s296541" id="p271_w889" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.24" y="481.704" base="487.4" width="31.199" height="7.552">fevdalen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p271_s296542" id="p271_w890" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="353.44" y="481.704" base="487.4" width="11.2025" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p271_s296543" id="p271_w891" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.643" y="481.704" base="487.4" width="21.1932" height="7.552">feudal</TOKEN>
+<TOKEN sid="p271_s296544" id="p271_w892" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.836" y="481.704" base="487.4" width="25.169" height="7.552">society.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

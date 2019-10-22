@@ -3,30 +3,30 @@
 <orth>
 all right;
 </orth>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-alright.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+alright
+</SV>
+. 
+</SN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-or
+or 
 </seg>
 ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 all right
 </seg>
-je zadovoljivo ali
-sprejemljivo.
+, je zadovoljivo ali sprejemljivo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -35,7 +35,7 @@ v redu, prav
 </cit>
 <seg type="example">
 <quote>
-"Do you like this champagne?"&#8212;"It's all right."
+&lsquo;Do you like this champagne?&rsquo;&mdash;&lsquo;It's all right.&rsquo;
 </quote>
 <quote>
 He's getting on all right.
@@ -49,12 +49,11 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 all right
 </seg>
-je zdrav,
-nepo&#353;kodovan ali na varnem.
+, je zdrav, nepo&scaron;kodovan ali na varnem. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -74,12 +73,11 @@ CONVENTION
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Izraz
+Izraz 
 <seg type="lemma">
-"all right"
+&lsquo;all right&rsquo; 
 </seg>
-uporabimo, kadar v nekaj
-privolimo.
+uporabimo, kadar v nekaj privolimo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -88,7 +86,7 @@ prav, v redu
 </cit>
 <seg type="example">
 <quote>
-"Can you help?"&#8212;"All right. What do you want me to do?"
+&lsquo;Can you help?&rsquo;&mdash;&lsquo;All right. What do you want me to do?&rsquo;
 </quote>
 </seg>
 </sense>
@@ -104,13 +102,13 @@ PHRASE
 <seg type="lemma">
 All right?
 </seg>
+ 
 </seg>
-re&#269;emo &#269;loveku, kadar &#382;elimo preveriti, ali je razumel tisto, kar smo
-pravkar povedali.
+re&ccaron;emo &ccaron;loveku, kadar &zcaron;elimo preveriti, ali je razumel tisto, kar smo pravkar povedali. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-Prav? Razume&#353;?
+Prav? Razume&scaron;?
 </quote>
 </cit>
 <seg type="example">

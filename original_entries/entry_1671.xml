@@ -1,0 +1,668 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bring
+</orth>
+<form type="variant">
+<pron>
+/br*IN/
+</pron>
+</form>
+<form type="inflected">
+brings, bringing, brought
+</form>
+<form type="variant">
+<pron>
+/br*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ob svojem prihodu 
+<seg type="lemma">
+brings someone or something with him/her
+</seg>
+, nekdo pride z njim ali pa nekaj prinese s seboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeljati, prinesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He would have to bring Judy with him.
+</quote>
+<quote>
+Please bring your calculator to every lesson.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring something to a different place or position 
+</seg>
+pomeni nekaj prestaviti na drug kraj ali v druga&ccaron;en polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti, dati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He opened the case and brought out a pair of glasses.
+</quote>
+<quote>
+Sheldon brought his right hand to his head.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring something to someone 
+</seg>
+pomeni nekaj iti iskat za nekoga drugega ali nekomu nekaj nesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prinesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bring me a glass of wine.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+brings people to come to a place
+</seg>
+, povzro&ccaron;i, da ljudje pridejo v tisti kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The festival brings a great many people to Glastonbury.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring someone or something into a particular state or condition
+</seg>
+ pomeni povzro&ccaron;iti, da je nekdo ali nekaj v takem stanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti, povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These ideas had brought him into conflict with Stalin.
+</quote>
+<quote>
+The wind had brought several trees down.
+</quote>
+<quote>
+He brought the car to a stop.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+brings a particular feeling, situation, or quality
+</seg>
+, povzro&ccaron;i dolo&ccaron;eno &ccaron;ustvo, okoli&scaron;&ccaron;ine ali lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prinesti; zakriviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could it be true that money did not bring happiness?
+</quote>
+<quote>
+The biting wind brought tears to her eyes.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+cannot bring himself to do something
+</seg>
+, se ne more odlo&ccaron;iti, da bi tisto storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti se, pripraviti se k &ccaron;emu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could not bring myself to touch him.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring a legal action against someone 
+</seg>
+pomeni nekoga uradno obto&zcaron;iti, da je storil nekaj nezakonitega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti to&zcaron;bo proti komu, to&zcaron;iti koga
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bring about.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring something about 
+</seg>
+pomeni dose&ccaron;i, da se nekaj zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Administration helped bring about a peaceful settlement.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring along.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring someone or something along 
+</seg>
+pomeni pripeljati nekoga ali prinesti nekaj s seboj, ko kam gremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti, pripeljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bring your friends along.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+brings back a memory
+</seg>
+, povzro&ccaron;i, da za&ccaron;nemo o ne&ccaron;em razmi&scaron;ljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obuditi spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Losing a husband can bring back memories of childhood loss.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+brings back a fashion or practice
+</seg>
+, znova uvede modo ali navado, ki je obstajala v preteklosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many of the students appear to be trying to bring back the crew cut.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring down a government or ruler 
+</seg>
+pomeni povzro&ccaron;iti, da vlada ali vladar izgubi oblast. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zru&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A national strike would bring the government down.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring forward.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To bring forward a meeting or lecture 
+</seg>
+pomeni urediti tako, da sta sestanek ali predavanje na vrsti prej, kot je bilo predvideno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestaviti na zgodnej&scaron;i &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The meeting has been brought forward to Tuesday.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+brings forward an argument or proposal
+</seg>
+, trditev ali predlog pojasni tako, da ljudje lahko razmislijo o njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navesti, obrazlo&zcaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar vlada ali organizacija 
+<seg type="lemma">
+brings in a new law or system
+</seg>
+, uvede nov zakon ali sistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uzakoniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The government intends to bring in legislation to control their activities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To bring in money 
+</seg>
+pomeni zaslu&zcaron;iti denar; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preskrbeti, prinesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tourism is a big industry, bringing in &pound;7 billion a year.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bring off something difficult 
+</seg>
+pomeni, da nekomu uspe narediti nekaj zahtevnega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izpeljati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali podjetje 
+<seg type="lemma">
+brings out a new product
+</seg>
+, za&ccaron;ne izdelovati in prodajati nov izdelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati na trg, objaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I've just brought out a book on Dostoevski.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+brings out a particular kind of behaviour in someone
+</seg>
+, povzro&ccaron;i dolo&ccaron;eno ved&ecirc;nje pri tistem &ccaron;loveku 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izzvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These dreadful circumstances bring out the worst in everybody.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring round 
+<VS>
+ali 
+</VS>
+<VV>
+bring to.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekoga, ki je v nezavesti, 
+<seg type="lemma">
+brings round
+</seg>
+ ali kadar ga 
+<seg type="variant">
+brings to
+</seg>
+, poskrbi, da se spet osvesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti k zavesti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+bring up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To bring up a child 
+</seg>
+pomeni skrbeti za otroka, dokler ne odraste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzgajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tony was brought up strictly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To bring up a particular subject 
+</seg>
+pomeni vpeljati dolo&ccaron;eno t&eacute;mo v razpravo ali pogovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti, na&ccaron;eti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+brings up food
+</seg>
+, izbruha hrano; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bruhati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

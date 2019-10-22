@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+upland
+</orth>
+<form type="variant">
+<pron>
+/*Vpl@3nd/
+</pron>
+</form>
+<form type="inflected">
+uplands.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kraji, ki so 
+<seg type="lemma">
+upland
+</seg>
+, le&zcaron;ijo na vrhu visokih hribov ali v krajih z visoko nadmorsko vi&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vi&scaron;inski, gorski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They move with their flocks to upland pastures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Uplands 
+</seg>
+so obmo&ccaron;ja na precej&scaron;nji nadmorski vi&scaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vi&scaron;avje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the chalk uplands of Wiltshire.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dot
+</orth>
+<form type="variant">
+<pron>
+/d*Qt/
+</pron>
+</form>
+<form type="inflected">
+dots.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dot 
+</seg>
+je zelo majhno, okroglo znamenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pika
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e se nekaj zgodi 
+<seg type="lemma">
+on the dot
+</seg>
+, se zgodi natan&ccaron;no ob pravem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do pi&ccaron;ice natanko
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

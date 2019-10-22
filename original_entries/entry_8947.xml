@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+miaow
+</orth>
+<form type="variant">
+<pron>
+/mi1*a*U/
+</pron>
+</form>
+<form type="inflected">
+miaows, miaowing, miaowed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ma&ccaron;ka 
+<seg type="lemma">
+goes 
+<seg type="lemma">
+miaow
+</seg>
+</seg>
+, se ogla&scaron;a s kratkimi visokimi glasovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mijavkanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That sounds like the miaow of a cat.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a cat miaowing outside.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

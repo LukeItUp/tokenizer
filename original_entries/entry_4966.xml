@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exile
+</orth>
+<form type="variant">
+<pron>
+/*egzaIl, *eksaIl/
+</pron>
+</form>
+<form type="inflected">
+exiles, exiling, exiled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo &zcaron;ivi 
+<seg type="lemma">
+in exile
+</seg>
+, &zcaron;ivi v tuji dr&zcaron;avi, ker ne sme &zcaron;iveti v svoji domovini, ponavadi zaradi politi&ccaron;nih razlogov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgnanstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...eight whole months of exile.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+exiled
+</seg>
+, ga po&scaron;ljejo iz domovine in nima dovoljenja za vrnitev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was exiled from Ceylon for a year.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exiled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the exiled King.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exile 
+</seg>
+je oseba, ki &zcaron;ivi v izgnanstvu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgnanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...political exiles.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+commend
+</orth>
+<form type="variant">
+<pron>
+/k@m*end/
+</pron>
+</form>
+<form type="inflected">
+commends, commending, commended;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To commend someone or something 
+</seg>
+pomeni nekoga ali nekaj uradno pohvaliti pred drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohvaliti, priporo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was commended for my reports.
+</quote>
+<quote>
+Rothermere commended Baldwin to his readers as a great man.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+commendation
+</orth>
+<form type="variant">
+<pron>
+/k*QmEnd*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His action earned the personal commendation of the prime minister.
+</quote>
+<quote>
+...a degree of duty and devotion which deserves commendation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+commends itself to someone
+</seg>
+, neki &ccaron;lovek tisto odobrava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The defence would scarcely commend itself even to other lawyers.
+</quote>
+</seg>
+</sense>
+</entry>

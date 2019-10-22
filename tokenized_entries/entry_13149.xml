@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p710_s781244" id="p710_w1071" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="580.852" base="587.26" width="26.599" height="8.514">smelly</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p710_s781245" id="p710_w1072" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="281.28" y="582.098" base="587.26" width="20.6496" height="6.844">/smeli</TOKEN>
+<TOKEN sid="p710_s781246" id="p710_w1073" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="302.29" y="581.46" base="584.87" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p710_s781247" id="p710_w1074" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="304.93" y="582.098" base="587.26" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p710_s781248" id="p710_w1075" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="311.57" y="583.344" base="587.26" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p710_s781249" id="p710_w1076" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.76" y="581.564" base="587.26" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p710_s781250" id="p710_w1077" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.694" y="581.564" base="587.26" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p710_s781251" id="p710_w1078" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.43" y="581.564" base="587.26" width="23.9918" height="7.552">smelly,</TOKEN>
+</seg>
+<TOKEN sid="p710_s781252" id="p710_w1079" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="372.161" y="581.564" base="587.26" width="12.7987" height="7.552">ima</TOKEN>
+<TOKEN sid="p710_s781253" id="p710_w1080" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.698" y="581.564" base="587.26" width="34.7774" height="7.552">neprijeten</TOKEN>
+<TOKEN sid="p710_s781254" id="p710_w1081" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.214" y="581.564" base="587.26" width="16.799" height="7.552">vonj.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p710_s781256" id="p710_w1083" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="264.84" y="590.644" base="596.34" width="30.2407" height="7.552">smrdljiv;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p710_s781257" id="p710_w1084" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="297.08" y="590.644" base="596.34" width="24.3979" height="7.552">&#8230;some</TOKEN>
+<TOKEN sid="p710_s781258" id="p710_w1085" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.478" y="590.644" base="596.34" width="21.1932" height="7.552">rather</TOKEN>
+<TOKEN sid="p710_s781259" id="p710_w1086" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.672" y="590.644" base="596.34" width="21.9924" height="7.552">smelly</TOKEN>
+<TOKEN sid="p710_s781260" id="p710_w1087" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.664" y="590.644" base="596.34" width="23.9933" height="7.552">cheese.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

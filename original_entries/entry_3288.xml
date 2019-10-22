@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+crust
+</orth>
+<form type="variant">
+<pron>
+/kr*Vst/
+</pron>
+</form>
+<form type="inflected">
+crusts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na hlebcu kruha je 
+<seg type="lemma">
+the crust 
+</seg>
+njegova trda, hrustljava povr&scaron;ina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skorja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crust 
+</seg>
+je tudi trda zgornja plast ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skorja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The snow had a fine crust on it.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The earth's crust 
+</seg>
+je zunanja plast Zemlje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(zemeljska) skorja
+</quote>
+</cit>
+</sense>
+</entry>

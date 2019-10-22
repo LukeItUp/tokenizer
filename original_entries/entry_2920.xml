@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contaminate
+</orth>
+<form type="variant">
+<pron>
+/k@7nt*&ae;mIneIt/
+</pron>
+</form>
+<form type="inflected">
+contaminates, contaminating, contaminated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+contaminated by dirt, chemicals, or radiation
+</seg>
+, postane ne&ccaron;isto ali &scaron;kodljivo zaradi umazanije, kemikalij ali &zcaron;ar&ccaron;enja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oku&zcaron;iti, onesna&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many wells have been contaminated by chemicals.
+</quote>
+<quote>
+...foods that are easily contaminated with poisonous bacteria.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+contaminated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...contaminated water.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+contamination
+</orth>
+<form type="variant">
+<pron>
+/k@7nt*&ae;mIn*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...infections caused by the contamination of milk.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

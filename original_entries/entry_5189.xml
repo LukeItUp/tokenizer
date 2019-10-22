@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fate
+</orth>
+<form type="variant">
+<pron>
+/f*e*It/
+</pron>
+</form>
+<form type="inflected">
+fates.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fate 
+</seg>
+je sila, za katero nekateri verjamejo, da uravnava vse, kar se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usoda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fate was against me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s fate 
+</seg>
+je tisto, kar se nekomu dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usoda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Several other companies suffered a similar fate.
+</quote>
+</seg>
+</sense>
+</entry>

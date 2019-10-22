@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+licence
+</orth>
+<form type="variant">
+<pron>
+/l*a*Is@ns/
+</pron>
+</form>
+<form type="inflected">
+licences;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+license
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A licence 
+</seg>
+je uradna listina, ki nam daje dovoljenje, da nekaj po&ccaron;nemo, uporabljamo ali imamo v lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovoljenje, licenca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a driving licence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo nekaj stori 
+<seg type="lemma">
+under licence
+</seg>
+, tisto stori s posebnim dovoljenjem oblasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z dovoljenjem, s koncesijo
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+off-licence
+</ref>
+</xr>
+</sense>
+</entry>

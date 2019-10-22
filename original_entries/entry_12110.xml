@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+roam
+</orth>
+<form type="variant">
+<pron>
+/r*@*Um/
+</pron>
+</form>
+<form type="inflected">
+roams, roaming, roamed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To roam an area 
+</seg>
+ali 
+<seg type="lemma">
+to roam around an area 
+</seg>
+pomeni hoditi po dolo&ccaron;enem obmo&ccaron;ju brez posebnega cilja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohajkovati, potepati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He roamed the streets at night.
+</quote>
+<quote>
+They roam over the hills and plains.
+</quote>
+</seg>
+</sense>
+</entry>

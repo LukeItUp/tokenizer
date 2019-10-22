@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+encounter
+</orth>
+<form type="variant">
+<pron>
+/I2N1k*a*Unt@/
+</pron>
+</form>
+<form type="inflected">
+encounters, encountering, encountered;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To encounter someone 
+</seg>
+pomeni nekoga sre&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naleteti na koga, tr&ccaron;iti v koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On their journey they encountered an English couple.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+That was my first encounter with the great man.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To encounter something 
+</seg>
+pomeni nekaj do&zcaron;iveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;ati, naleteti na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They've never encountered any discrimination.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In their earliest encounters with stories, children want action.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

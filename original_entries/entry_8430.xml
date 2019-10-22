@@ -1,0 +1,177 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+log
+</orth>
+<form type="variant">
+<pron>
+/l*Qg/
+</pron>
+</form>
+<form type="inflected">
+logs, logging, logged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A log 
+</seg>
+je kos debele veje ali debla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hlod, klada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He threw another log on the fire.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A log 
+</seg>
+je tudi uraden zapis tistega, kar se zgodi vsak dan, na primer na ladji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(ladijski) dnevnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Controller entered this in his log.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To log an event or fact 
+</seg>
+pomeni uradno zapisati neki dogodek ali dejstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpisati v dnevnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The death must be logged.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+log in 
+<VS>
+ali 
+</VS>
+<VV>
+log into.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To log into a computer system 
+</seg>
+ali 
+<seg type="variant">
+to log in 
+</seg>
+pomeni dobiti dostop do ra&ccaron;unalni&scaron;kega sistema, navadno z geslom ali imenom, ki ga ra&ccaron;unalnik prepozna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+log on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To log on 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+to log in
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+log out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar oseba, ki uporablja ra&ccaron;unalni&scaron;ki sistem, 
+<seg type="lemma">
+logs out
+</seg>
+, preneha uporabljati tak sistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odjaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

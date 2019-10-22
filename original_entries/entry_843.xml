@@ -15,26 +15,26 @@ attempts, attempting, attempted.
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-or
+or 
 </seg>
 TO-INF
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attempt something
+To attempt something 
 </seg>
-ali
+ali 
 <seg type="lemma">
 to attempt to do something
 </seg>
-pomeni poskusiti tisto opraviti.
+ pomeni poskusiti tisto opraviti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -49,7 +49,7 @@ A long time had elapsed since I had attempted any serious study.
 Some of the crowd attempted to break through police cordons.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -57,10 +57,9 @@ COUNT N
 </gramGrp>
 <seg type="example">
 <quote>
-The young birds manage to fly several kilometres at their first
-attempt.
+The young birds manage to fly several kilometres at their first attempt.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

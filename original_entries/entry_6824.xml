@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hoarse
+</orth>
+<form type="variant">
+<pron>
+/h*O*:s/
+</pron>
+</form>
+<form type="inflected">
+hoarser, hoarsest.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Glas, ki je 
+<seg type="lemma">
+hoarse
+</seg>
+, zveni grobo in nejasno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hripav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When he spoke his voice was hoarse with rage.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+hoarsely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Go in there,&rsquo; he whispered hoarsely.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+hoarseness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I noticed a peculiar hoarseness in Johnny&apos;s voice.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

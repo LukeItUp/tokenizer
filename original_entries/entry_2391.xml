@@ -1,0 +1,123 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clamp
+</orth>
+<form type="variant">
+<pron>
+/kl*&ae;mp/
+</pron>
+</form>
+<form type="inflected">
+clamps, clamping, clamped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A clamp 
+</seg>
+je priprava, ki trdno spaja dva predmeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sponka, &scaron;&ccaron;ipalka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+clamps one thing to another
+</seg>
+, dva predmeta pritrdi skupaj s sponko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+speti, pripeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...trays that were clamped to the arm of a chair.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To clamp something in a particular place 
+</seg>
+pomeni nekaj odlo&ccaron;no in trdno nekam postaviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posaditi, postaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He picked up his bowler hat and clamped it upon his head.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+clamp down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To clamp down on something 
+</seg>
+pomeni nekaj ustaviti ali nadzorovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trdo prijeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The authorities have got to clamp down on these trouble-makers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

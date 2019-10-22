@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hack
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+hacks, hacking, hacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hack something 
+</seg>
+pomeni nekaj rezati z ostrim orodjem in mo&ccaron;nimi, grobimi udarci. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razsekati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were ambushed and hacked to death.
+</quote>
+<quote>
+...hacking away at the branches.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hack 
+</seg>
+je poklicni pisatelj, ki dela hitro in ne da bi ga skrbela kakovost napisanega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pisun
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a hack writer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hack into a computer system 
+</seg>
+pomeni brez dovoljenja prityi v ra&ccaron;unalni&scaron;ki sistem, da bi pri&scaron;li do tajnih podatkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+hacker
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;k@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was well known as a hacker.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+hacking
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The act of hacking is not an offence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

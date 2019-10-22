@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disastrous
+</orth>
+<form type="variant">
+<pron>
+/dIz*A*:str@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dogodek, ki je 
+<seg type="lemma">
+disastrous
+</seg>
+, povzro&ccaron;i veliko &scaron;kode ali trpljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tragi&ccaron;en, katastrofalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...disastrous floods.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disastrously
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+These diseases have increased disastrously.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Disastrous 
+</seg>
+pomeni tudi zelo neuspe&scaron;en ali neprijeten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poguben, katastrofalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a disastrous holiday.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disastrously
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The team performed disastrously.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

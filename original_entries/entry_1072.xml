@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+barge
+</orth>
+<form type="variant">
+<pron>
+/b*A*:dZ/
+</pron>
+</form>
+<form type="inflected">
+barges, barging, barged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To barge into a place or person 
+</seg>
+pomeni grobo ali neolikano se zaleteti v nekega &ccaron;loveka ali kraj ali se zriniti mimo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+planiti, riniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Arthur barged into the garden.
+</quote>
+<quote>
+...barging his way through the crowd.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A barge 
+</seg>
+je ladja z ravnim dnom; z njo preva&zcaron;amo tovore. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+barka
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+barge in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To barge in 
+</seg>
+pomeni grobo ustaviti tisto, kar nekdo drug dela ali govori; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, zmotiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm sorry to barge in on you.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

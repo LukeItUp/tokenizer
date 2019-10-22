@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rivet
+</orth>
+<form type="variant">
+<pron>
+/r*IvIt/
+</pron>
+</form>
+<form type="inflected">
+rivets, riveting, riveted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be riveted by something 
+</seg>
+pomeni biti navdu&scaron;en nad &ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti osupel/navdu&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was riveted by his presentation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+riveting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a riveting television documentary.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rivet 
+</seg>
+je pripomo&ccaron;ek, s katerim kosa kovine pove&zcaron;emo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakovica
+</quote>
+</cit>
+</sense>
+</entry>

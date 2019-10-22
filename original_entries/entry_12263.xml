@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sack
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+sacks, sacking, sacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sack 
+</seg>
+je velika vre&ccaron;a iz grobega materiala, ki jo uporabljamo za prena&scaron;anje ali shranjevanje dobrin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sacks of flour.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sack someone from their job 
+</seg>
+pomeni, da delodajalec zaposlenega ne &zcaron;eli ve&ccaron; med svojimi delavci. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Three railwaymen were sacked because they would not join a union.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To get the sack 
+</seg>
+ali 
+<FV>
+to be given the sack 
+</FV>
+pomeni, da nas delodajalec odpusti iz slu&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobiti odpoved
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

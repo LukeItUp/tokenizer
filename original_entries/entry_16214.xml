@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+writer
+</orth>
+<form type="variant">
+<pron>
+/r*a*It@/
+</pron>
+</form>
+<form type="inflected">
+writers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A writer 
+</seg>
+je oseba, katere naloga je pisanje knjig, zgodb ali &ccaron;lankov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisec, pisatelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the writer and critic, Hilary Spurling.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The writer of a particular article, story, or other piece of writing 
+</seg>
+je oseba, ki je napisala dolo&ccaron;en &ccaron;lanek, zgodbo ali kak drug zapis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I arranged an appointment with the writer of the letter.
+</quote>
+</seg>
+</sense>
+</entry>

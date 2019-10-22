@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thousandth
+</orth>
+<form type="variant">
+<pron>
+/T*a*Uz@nT/
+</pron>
+</form>
+<form type="inflected">
+thousandths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Element, ki je v nekem zaporedju 
+<seg type="lemma">
+thousandth
+</seg>
+, je na tiso&ccaron;em mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiso&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thousandth 
+</seg>
+je eden od tiso&ccaron; enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiso&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a thousandth of a second.
+</quote>
+</seg>
+</sense>
+</entry>

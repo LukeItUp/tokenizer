@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p215_s233867" id="p215_w210" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="308.502" base="314.91" width="57.9399" height="8.514">double-decker</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p215_s233868" id="p215_w211" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="117.46" y="309.748" base="314.91" width="18.8101" height="6.844">/d&#216;b6</TOKEN>
+<TOKEN sid="p215_s233869" id="p215_w212" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="136.6" y="309.11" base="312.52" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p215_s233870" id="p215_w213" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="139.23" y="309.748" base="314.91" width="23.3516" height="6.844">ldek6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p215_s233871" id="p215_w214" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="165.37" y="309.57" base="314.91" width="50.6128" height="7.08">double-deckers.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p215_s233872" id="p215_w215" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="218.79" y="310.994" base="314.91" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p215_s233873" id="p215_w216" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="239.679" y="310.994" base="314.91" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p215_s233874" id="p215_w217" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="318.294" base="323.99" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p215_s233875" id="p215_w218" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="69.5497" y="318.294" base="323.99" width="48.7066" height="7.552">double-decker</TOKEN>
+</seg>
+<TOKEN sid="p215_s233876" id="p215_w219" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.83" y="318.294" base="323.99" width="5.95656" height="7.552">je</TOKEN>
+<TOKEN sid="p215_s233877" id="p215_w220" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="127.346" y="318.294" base="323.99" width="50.1919" height="7.552">dvonadstropen</TOKEN>
+<TOKEN sid="p215_s233878" id="p215_w221" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="179.098" y="318.294" base="323.99" width="28.5199" height="7.552">avtobus.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p215_s233880" id="p215_w223" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.02" y="318.294" base="323.99" width="28.7928" height="7.552">nadstro-</TOKEN>
+<TOKEN sid="p215_s233881" id="p215_w224" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="327.374" base="333.07" width="12.397" height="7.552">pen</TOKEN>
+<TOKEN sid="p215_s233882" id="p215_w225" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.7872" y="327.374" base="333.07" width="26.8013" height="7.552">avtobus</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

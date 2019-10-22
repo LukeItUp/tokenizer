@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+digit
+</orth>
+<form type="variant">
+<pron>
+/d*IdZIt/
+</pron>
+</form>
+<form type="inflected">
+digits.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A digit 
+</seg>
+je zapisano znamenje za katerokoli od desetih &scaron;tevilk od 0 do 9. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a two digit number.
+</quote>
+</seg>
+</sense>
+</entry>

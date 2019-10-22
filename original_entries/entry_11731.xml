@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+region
+</orth>
+<form type="variant">
+<pron>
+/r*i*:dZ@n/
+</pron>
+</form>
+<form type="inflected">
+regions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A region 
+</seg>
+je del dr&zcaron;ave ali sveta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obmo&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The country has nine autonomous regions.
+</quote>
+<quote>
+...desert regions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in the region of 
+</seg>
+poka&zcaron;emo, da govorimo o pribli&zcaron;ni koli&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pribli&zcaron;no, okoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Temperatures would be in the region of 500 degrees centigrade.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cut-out,
+</orth>
+<form type="inflected">
+cut-outs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cut-out 
+</seg>
+je avtomatska naprava, ki ugasne motor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtomatska varovalka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cut-out to prevent the battery from overcharging.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cardboard cut-out 
+</seg>
+je lik, izrezan iz lepenke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izrez
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be cut out 
+</seg>
+za dolo&ccaron;eno vrsto dela pomeni zanj imeti potrebne lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti primeren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm not really cut out for this job.
+</quote>
+</seg>
+</sense>
+</entry>

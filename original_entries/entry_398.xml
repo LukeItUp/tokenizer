@@ -6,16 +6,17 @@ ally,
 <form type="inflected">
 allies, allying, allied;
 </form>
-<form type="variant">
-samostalnik izgovarjamo
+<PN>
+samostalnik izgovarjamo 
 <pron>
-/*#ae;laI/
+/*&ae;laI/
 </pron>
-glagol pa
+, glagol pa 
 <pron>
-/@3l*a*I/.
+/@3l*a*I/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -25,10 +26,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An ally
+An ally 
 </seg>
-je dr&#382;ava, organizacija ali oseba,
-ki pomaga drugi ali jo podpira.
+je dr&zcaron;ava, organizacija ali oseba, ki pomaga drugi ali jo podpira. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -44,35 +44,34 @@ zaveznik
 <sense n="2">
 <gramGrp>
 <pos>
-REFL VB
+REFL VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"with"
+&lsquo;with&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To ally oneself with someone
+To ally oneself with someone 
 </seg>
-pomeni
-podpirati tistega &#269;loveka.
+pomeni podpirati tistega &ccaron;loveka. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-povezati se, zdru&#382;iti se
+povezati se, zdru&zcaron;iti se
 </quote>
 </cit>
 </sense>
 <sense n="3">
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-allied.
+allied
 </ref>
 </xr>
 </sense>

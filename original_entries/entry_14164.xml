@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+synonymous
+</orth>
+<form type="variant">
+<pron>
+/sIn*QnIm@s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedi ali izraza, ki sta 
+<seg type="lemma">
+synonymous
+</seg>
+, imata enak pomen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sopomenski, sinonimen
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+synonymous with another
+</seg>
+, je tako tesno povezana z neko drugo, da ob prvi vedno pomislimo na drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sozna&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Socialism became to him synonymous with peace.
+</quote>
+</seg>
+</sense>
+</entry>

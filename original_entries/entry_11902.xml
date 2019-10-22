@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rescue
+</orth>
+<form type="variant">
+<pron>
+/r*eskju:/
+</pron>
+</form>
+<form type="inflected">
+rescues, rescuing, rescued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rescue someone 
+</seg>
+pomeni spraviti &ccaron;loveka iz nevarnega ali te&zcaron;avnega polo&zcaron;aja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was rescued from the sinking aircraft by a passing ship.
+</quote>
+<quote>
+The Cabinet decided not to rescue the company.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rescuer
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The man&apos;s shouts could not be heard by the rescuers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Rescue 
+</seg>
+je pomo&ccaron;, ki &ccaron;loveka re&scaron;i iz nevarnega ali te&zcaron;avnega polo&zcaron;aja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomo&ccaron;, re&scaron;itev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rescue was at hand.
+</quote>
+<quote>
+The coastguard may be working on as many as 20 rescues at any one time.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To come to someone&apos;s rescue 
+</seg>
+pomeni nekomu ponuditi pomo&ccaron;, ko je v nevarnosti ali te&zcaron;avah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti/prisko&ccaron;iti na pomo&ccaron;
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

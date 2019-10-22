@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loot
+</orth>
+<form type="variant">
+<pron>
+/l*u*:t/
+</pron>
+</form>
+<form type="inflected">
+loots, looting, looted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To loot shops or houses 
+</seg>
+pomeni krasti stvari iz trgovin ali hi&scaron; med bitko ali neredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pleniti, ropati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Shops were looted and wrecked in London.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+looting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was widespread looting of stores and shops.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Loot 
+</seg>
+je ukraden denar ali blago; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+plen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He told his wife where the loot was hidden.
+</quote>
+</seg>
+</sense>
+</entry>

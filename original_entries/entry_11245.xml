@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prudent
+</orth>
+<form type="variant">
+<pron>
+/pr*u*:d@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+prudent
+</seg>
+, je razumen in previden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preudaren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He now considered it prudent to carry a revolver.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+prudently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Fanny prudently resolved to keep silent.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+prudence
+</orth>
+<form type="variant">
+<pron>
+/pr*u*:d@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her eagerness had overcome her prudence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

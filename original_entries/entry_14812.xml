@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trek
+</orth>
+<form type="variant">
+<pron>
+/tr*ek/
+</pron>
+</form>
+<form type="inflected">
+treks, trekking, trekked.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trek somewhere 
+</seg>
+pomeni iti nekam na dolgo in naporno pot, zlasti pe&scaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potovati (pe&scaron;), hoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They trekked for three days along the banks of the Zambezi.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We set off on a four hour trek.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

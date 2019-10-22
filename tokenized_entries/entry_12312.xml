@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p661_s725177" id="p661_w933" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="478.842" base="485.25" width="19.3589" height="8.514">salty</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p661_s725178" id="p661_w934" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="276.09" y="480.088" base="485.25" width="17.9793" height="6.844">/s&#201;lti</TOKEN>
+<TOKEN sid="p661_s725179" id="p661_w935" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="294.41" y="479.44" base="482.85" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p661_s725180" id="p661_w936" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="297.03" y="480.088" base="485.25" width="4.8816" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p661_s725181" id="p661_w937" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="303.49" y="479.91" base="485.25" width="20.734" height="7.08">saltier,</TOKEN>
+<TOKEN sid="p661_s725182" id="p661_w938" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="325.708" y="479.91" base="485.25" width="24.2082" height="7.08">saltiest.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p661_s725183" id="p661_w939" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="351.49" y="481.334" base="485.25" width="10.4099" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p661_s725184" id="p661_w940" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="363.5" y="479.554" base="485.25" width="13.1544" height="7.552">Kar</TOKEN>
+<TOKEN sid="p661_s725185" id="p661_w941" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="378.233" y="479.554" base="485.25" width="5.976" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p661_s725186" id="p661_w942" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="385.78" y="479.554" base="485.25" width="18.2815" height="7.552">salty,</TOKEN>
+</seg>
+<TOKEN sid="p661_s725187" id="p661_w943" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="405.642" y="479.554" base="485.25" width="25.4707" height="7.552">vsebuje</TOKEN>
+<TOKEN sid="p661_s725188" id="p661_w944" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="432.693" y="479.554" base="485.25" width="9.55584" height="7.552">sol</TOKEN>
+<TOKEN sid="p661_s725189" id="p661_w945" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.809" y="488.784" base="494.48" width="8.79552" height="7.552">ali</TOKEN>
+<TOKEN sid="p661_s725190" id="p661_w946" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.604" y="488.784" base="494.48" width="12.7987" height="7.552">ima</TOKEN>
+<TOKEN sid="p661_s725191" id="p661_w947" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.401" y="488.784" base="494.48" width="15.9941" height="7.552">okus</TOKEN>
+<TOKEN sid="p661_s725192" id="p661_w948" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="304.394" y="488.784" base="494.48" width="8.40096" height="7.552">po</TOKEN>
+<TOKEN sid="p661_s725193" id="p661_w949" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="314.793" y="488.784" base="494.48" width="14.7902" height="7.552">njej.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p661_s725195" id="p661_w951" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="337.83" y="488.784" base="494.48" width="15.9898" height="7.552">slan;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p661_s725196" id="p661_w952" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="355.82" y="488.784" base="494.48" width="23.598" height="7.552">&#8230;salty</TOKEN>
+<TOKEN sid="p661_s725197" id="p661_w953" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.418" y="488.784" base="494.48" width="20.4869" height="7.552">water.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

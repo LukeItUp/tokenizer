@@ -15,19 +15,18 @@ admissions.
 <sense n="1">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-or
+or 
 </seg>
 COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Admission
+Admission 
 </seg>
-je dovoljenje za vstop v prostor
-ali organizacijo, izdano osebi ali skupini oseb.
+je dovoljenje za vstop v prostor ali organizacijo, izdano osebi ali skupini oseb. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -51,10 +50,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The admission fee
+The admission fee 
 </seg>
-je znesek, ki ga pla&#269;amo
-za vstop.
+je znesek, ki ga pla&ccaron;amo za vstop. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -70,10 +68,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An admission
+An admission 
 </seg>
-je izjava o resni&#269;nosti
-ne&#269;esa slabega, neprijetnega ali sramotnega.
+je izjava o resni&ccaron;nosti ne&ccaron;esa slabega, neprijetnega ali sramotnega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -82,8 +79,7 @@ priznanje
 </cit>
 <seg type="example">
 <quote>
-He submitted his resignation, together with an admission of his
-guilt.
+He submitted his resignation, together with an admission of his guilt.
 </quote>
 </seg>
 </sense>

@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+president
+</orth>
+<form type="variant">
+<pron>
+/pr*ezId@nt/
+</pron>
+</form>
+<form type="inflected">
+presidents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The president 
+</seg>
+je pogost naziv za uradnega voditelja dr&zcaron;av, ki nimajo kralja ali kraljice. Nekateri taki voditelji dr&zcaron;av so izvoljeni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predsednik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The French president arrived in the United States this week.
+</quote>
+<quote>
+...the assassination of President Kennedy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The president of an organization 
+</seg>
+je &ccaron;lovek, ki ima v organizaciji najvi&scaron;ji polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predsednik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the former President of the Royal Academy.
+</quote>
+</seg>
+</sense>
+</entry>

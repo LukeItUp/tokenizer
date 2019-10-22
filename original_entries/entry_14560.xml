@@ -1,0 +1,322 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tie
+</orth>
+<form type="variant">
+<pron>
+/t*a*I/
+</pron>
+</form>
+<form type="inflected">
+ties, tying, tied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tie one thing to another 
+</seg>
+pomeni pritrditi eno stvar k drugi z vrvico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of those labels you tie onto the handle of your suitcase.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tie a piece of string round something 
+</seg>
+ali 
+<seg type="lemma">
+to tie something with string 
+</seg>
+pomeni polo&zcaron;iti vrvico okoli ne&ccaron;esa in njena konca pritrditi skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a little dog which had a ribbon tied round its neck.
+</quote>
+<quote>
+...a parcel tied with string.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tie one&apos;s shoelaces 
+</seg>
+pomeni povezati konca vezalke v pentljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was still tying his laces.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tie 
+</seg>
+je dolg ozek kos blaga, ki ga mo&scaron;ki nosijo pod ovratnikom srajce in spredaj zave&zcaron;ejo v vozel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kravata
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He took off his jacket and loosened his tie.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+bow tie
+</ref>
+</xr>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is tied to something else
+</seg>
+, je v tesni zvezi z ne&ccaron;im drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezati s &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The course I chose wasn&apos;t tied to a particular academic discipline.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ties 
+</seg>
+so povezave, ki obstajajo med nekom in drugimi osebami ali kraji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vez
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Family ties are often very strong.
+</quote>
+<quote>
+They want to loosen their ties with Britain.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tie with someone in a competition or a game 
+</seg>
+pomeni v tekmovanju dose&ccaron;i enako &scaron;tevilo to&ccaron;k ali enak uspeh kot nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati neodlo&ccaron;eno, deliti mesto ali nagrado
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two actresses tied for the Best Actress award.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In the event of a tie, the winner will be the contestant who took the shortest time.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tie up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To tie something up 
+</seg>
+pomeni pritrditi vrvico okoli ne&ccaron;esa, tako da tisti predmet ne razpade. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Clarissa came in, carrying some canvases tied up in brown paper.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To tie up an animal 
+</seg>
+pomeni pri&ccaron;vrstiti vrv, na kateri je &zcaron;ival, k trdnemu predmetu, tako da &zcaron;ival na more pobegniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privezati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To tie up one&apos;s shoelaces 
+</seg>
+pomeni vezalko na &ccaron;evlju povezati v pentljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To tie someone up 
+</seg>
+pomeni okoli nekoga zavezati vrv, tako da ne more pobegniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvezati
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+To be tied up with something
+</seg>
+ pomeni biti v tesni zvezi z ne&ccaron;im drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti povezan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s all tied up with the attempt to build a new spire for the cathedral.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

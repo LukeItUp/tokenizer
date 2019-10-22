@@ -1,0 +1,150 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+violate
+</orth>
+<form type="variant">
+<pron>
+/v*a*I*@leIt/
+</pron>
+</form>
+<form type="inflected">
+violates, violating, violated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To violate a law, agreement, or promise 
+</seg>
+pomeni ne ravnati tako, kot predpisuje zakon ali kot smo se zavezali s pogodbo ali obljubo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekr&scaron;iti, prelomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is violating his contract.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+violation
+</orth>
+<form type="variant">
+<pron>
+/v*a*I*@l*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They blockaded the Suez Canal in violation of international agreements.
+</quote>
+<quote>
+...violations of the Constitution.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To violate one&apos;s privacy or peace 
+</seg>
+pomeni motiti zasebnost ali mir nekoga; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+skaliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The calm of the press lounge was suddenly violated.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To violate a holy place 
+</seg>
+pomeni nespo&scaron;tljivo ali nasilno se vesti na svetem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(o)skruniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a curse on those who violated the tomb of the king.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+violation
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the violation of our homes.
+</quote>
+<quote>
+The disaster aroused suspicions of negligence and violations.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

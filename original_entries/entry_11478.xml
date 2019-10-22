@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ramble
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;mb@0l/
+</pron>
+</form>
+<form type="inflected">
+rambles, rambling, rambled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ramble 
+</seg>
+je dolg sprehod po de&zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohajkovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were out on a country ramble.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...rambling over the Yorkshire hills.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ramble 
+</seg>
+pomeni dolgo &ccaron;asa hoditi okoli brez pravega cilja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohajkovati, potepati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He often rambled and said strange things.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p503_s551352" id="p503_w648" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="145.372" base="151.78" width="40.8399" height="8.514">nobleman</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p503_s551353" id="p503_w649" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.08" y="146.618" base="151.78" width="22.4001" height="6.844">/n6&#205;b6</TOKEN>
+<TOKEN sid="p503_s551354" id="p503_w650" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="320.81" y="145.98" base="149.39" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p503_s551355" id="p503_w651" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="323.44" y="146.618" base="151.78" width="11.9603" height="6.844">lm6</TOKEN>
+<TOKEN sid="p503_s551356" id="p503_w652" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="335.73" y="145.98" base="149.39" width="2.39636" height="4.52176">3</TOKEN>
+<TOKEN sid="p503_s551357" id="p503_w653" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="338.36" y="146.618" base="151.78" width="9.2516" height="6.844">n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p503_s551358" id="p503_w654" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="349.7" y="146.44" base="151.78" width="34.1226" height="7.08">noblemen.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p503_s551359" id="p503_w655" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="385.92" y="147.864" base="151.78" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p503_s551360" id="p503_w656" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="406.329" y="147.864" base="151.78" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p503_s551361" id="p503_w657" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="412.54" y="146.084" base="151.78" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p503_s551362" id="p503_w658" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="420.24" y="146.084" base="151.78" width="21.9888" height="7.552">noble-</TOKEN>
+<TOKEN sid="p503_s551363" id="p503_w659" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="155.164" base="160.86" width="14.8003" height="7.552">man</TOKEN>
+</seg>
+<TOKEN sid="p503_s551364" id="p503_w660" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="277.61" y="155.164" base="160.86" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p503_s551365" id="p503_w661" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.605" y="155.164" base="160.86" width="23.9962" height="7.552">~lovek,</TOKEN>
+<TOKEN sid="p503_s551366" id="p503_w662" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="311.6" y="155.164" base="160.86" width="6.79536" height="7.552">ki</TOKEN>
+<TOKEN sid="p503_s551367" id="p503_w663" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.394" y="155.164" base="160.86" width="26.7898" height="7.552">pripada</TOKEN>
+<TOKEN sid="p503_s551368" id="p503_w664" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.182" y="155.164" base="160.86" width="33.1877" height="7.552">plemstvu.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p503_s551370" id="p503_w666" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.62" y="155.164" base="160.86" width="22.7916" height="7.552">plemi~</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flog
+</orth>
+<form type="variant">
+<pron>
+/fl*Qg/
+</pron>
+</form>
+<form type="inflected">
+flogs, flogging, flogged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flog something 
+</seg>
+pomeni nekaj prodati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prodati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flog someone 
+</seg>
+pomeni za kazen nekoga mo&ccaron;no udariti s bi&ccaron;em ali palico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bi&ccaron;ati, natepsti, &scaron;ibati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+flogging
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was sentenced to receive a public flogging.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

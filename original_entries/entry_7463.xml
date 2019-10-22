@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+influence
+</orth>
+<form type="variant">
+<pron>
+/*InflU@ns/
+</pron>
+</form>
+<form type="inflected">
+influences, influencing, influenced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Influence 
+</seg>
+je mo&ccaron;, da vplivamo na dejanja drugih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpliv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Moscow retains some influence over their affairs.
+</quote>
+<quote>
+He was under the influence of friends who were highly conservative.
+</quote>
+<quote>
+...the influence of religion on society.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be an influence on people or things 
+</seg>
+pomeni imeti vpliv na osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpliv, vplivna oseba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a bad influence on the children.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To influence a person, thing, or situation 
+</seg>
+pomeni imeti vpliv na na&ccaron;in, kako se nekdo vede, ali na to, kaj se zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I didn&apos;t want him to influence me in my choice.
+</quote>
+</seg>
+</sense>
+</entry>

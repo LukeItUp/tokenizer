@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+safeguard
+</orth>
+<form type="variant">
+<pron>
+/s*e*IfgA:d/
+</pron>
+</form>
+<form type="inflected">
+safeguards, safeguarding, safeguarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To safeguard something 
+</seg>
+pomeni prepre&ccaron;iti, da bi se tisto po&scaron;kodovalo ali bilo prizadeto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavarovati, za&scaron;&ccaron;ititi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have to fight to safeguard their future.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A safeguard 
+</seg>
+je zakon ali pravilo, katerega cilj je prepre&ccaron;iti, da bi se nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovalka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This clause was inserted as a safeguard against possible exploitation.
+</quote>
+</seg>
+</sense>
+</entry>

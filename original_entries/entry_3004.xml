@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cooking
+</orth>
+<form type="variant">
+<pron>
+/k*UkIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Cooking 
+</seg>
+je pripravljanje in kuhanje hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kuhanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My mother was fond of cooking.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+cooking 
+</seg>
+govorimo tudi o kuhani hrani dolo&ccaron;ene vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kuhinja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She loves your cooking.
+</quote>
+<quote>
+I like Portuguese cooking.
+</quote>
+</seg>
+</sense>
+</entry>

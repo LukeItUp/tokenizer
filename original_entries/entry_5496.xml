@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flow
+</orth>
+<form type="variant">
+<pron>
+/fl*@*U/
+</pron>
+</form>
+<form type="inflected">
+flows, flowing, flowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina, plin ali elektri&ccaron;ni tok 
+<seg type="lemma">
+flows
+</seg>
+, enakomerno in neprekinjeno te&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tears flowed down his cheeks.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The blood flow is cut off.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali stvari 
+<seg type="lemma">
+flow
+</seg>
+, se prosto ali enakomerno premikajo z enega kraja na drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;i, pretakati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The river flows south-west to the Atlantic Ocean.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There's a good flow of information.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar lasje ali obla&ccaron;ilo 
+<seg type="lemma">
+flows about someone
+</seg>
+, prosto pada ali ohlapno visi na nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+padati, usipati se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+flowing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...women in long flowing robes.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka lastnost ali polo&zcaron;aj 
+<seg type="lemma">
+flows from something
+</seg>
+, je naravna posledica ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izvirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The love for one another flows from that unity.
+</quote>
+</seg>
+</sense>
+</entry>

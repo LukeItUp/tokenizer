@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trauma
+</orth>
+<form type="variant">
+<pron>
+/tr*O*:m@/
+</pron>
+</form>
+<form type="inflected">
+traumas.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trauma 
+</seg>
+je izku&scaron;nja ali dogodek, ki nas zelo pretrese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+du&scaron;evni pretres, travma, &scaron;ok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the trauma of having their parents arrested.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Trauma 
+</seg>
+je stanje, ko smo pod hudim pritiskom in zelo nesre&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+du&scaron;evi pretres, travma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This would impose unnecessary trauma and suffering.
+</quote>
+</seg>
+</sense>
+</entry>

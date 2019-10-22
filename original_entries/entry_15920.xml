@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+were
+</orth>
+<form type="variant">
+<pron>
+/w@, w*$e*:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Were 
+</seg>
+je mno&zcaron;inska oblika in druga oseba ednine preteklega &ccaron;asa glagola 
+<ref>
+to be
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+AUX 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Were 
+</seg>
+v&ccaron;asih uporabljamo namesto 
+<seg type="lemma">
+was
+</seg>
+ v pogojnih odvisnikih ali za izra&zcaron;anje &zcaron;elje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti; bi bil
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wished he were taking a bath.
+</quote>
+<quote>
+He treated me as if I were crazy.
+</quote>
+</seg>
+<xr type="related">
+<QF>
+as it were: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+as
+</ref>
+</xr>
+</sense>
+</entry>

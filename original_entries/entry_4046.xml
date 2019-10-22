@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dispense
+</orth>
+<form type="variant">
+<pron>
+/dIsp*ens/
+</pron>
+</form>
+<form type="inflected">
+dispenses, dispensing, dispensed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dispense something 
+</seg>
+pomeni nekaj dati ljudem; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+deliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a clinic at which advice was dispensed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki 
+<seg type="lemma">
+dispenses medicine
+</seg>
+, pripravlja zdravila in jih deli ljudem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljati/deliti zdravila
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dispense with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dispense with something 
+</seg>
+pomeni prenehati nekaj uporabljati ali se ne&ccaron;esa znebiti, ker tistega ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odre&ccaron;i se, shajati brez
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We decided to dispense with the services of Mrs Baggot.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

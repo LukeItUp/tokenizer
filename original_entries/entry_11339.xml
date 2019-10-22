@@ -1,0 +1,523 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+push
+</orth>
+<form type="variant">
+<pron>
+/p*US/
+</pron>
+</form>
+<form type="inflected">
+pushes, pushing, pushed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push something 
+</seg>
+pomeni nekaj na silo pahniti, pogosto zato, da bi tisto premaknili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti, pritisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pushed the button that locked the door.
+</quote>
+<quote>
+I pushed open the door.
+</quote>
+<quote>
+Castle pushed his bicycle up King&apos;s Road.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The gate slid open at the push of a button.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push through things 
+</seg>
+ali 
+<seg type="lemma">
+to push one&apos;s way through things 
+</seg>
+pomeni uporabiti silo, da gremo lahko mimo stvari, ki nas ovirajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebiti se, utreti si pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ralph pushed between them to get a better view.
+</quote>
+<quote>
+I pushed my way through the people.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push a value or amount up or down 
+</seg>
+pomeni povzro&ccaron;iti, da se vrednost ali koli&ccaron;ina ne&ccaron;esa pove&ccaron;a ali zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvi&scaron;ati; zni&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The oil boom will push the inflation rate up to higher levels.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push someone into doing something 
+</seg>
+pomeni prepri&ccaron;ati ali prisiliti nekoga, da nekaj naredi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No one pushed me into this; I decided to do it of my own accord.
+</quote>
+<quote>
+The government was pushed to desperate extremes.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push for something 
+</seg>
+pomeni zelo si prizadevati, da bi nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadevati si za kaj, pritiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is pushing for secret balloting in Party elections.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+India led the non-aligned nations in a push for sanctions.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push something 
+</seg>
+pomeni tudi prizadevati si, da bi pove&ccaron;ali priljubljenost ne&ccaron;esa ali pritegnili ljudi k ne&ccaron;emu; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+delati reklamo za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...huge adverts pushing slimming drugs.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To push drugs 
+</seg>
+pomeni nezakonito prodajati mamila; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preprodajati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+pusher
+</orth>
+<form type="variant">
+<pron>
+/p*US@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...professional dope pushers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone the push
+</seg>
+ pomeni re&ccaron;i nekomu, da ga ne &zcaron;elimo ve&ccaron;; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odgnati, odriniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Another forty workers have been given the push.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+pushed
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+push ahead.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push ahead with something 
+</seg>
+pomeni nekaj delati naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajno nadaljevati, riniti dalje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have pushed ahead with an optimistic development strategy.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push around.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push someone around 
+</seg>
+pomeni nekomu ukazovati na grob in &zcaron;aljiv na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazovati, komandirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re not going to let them push us around.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push in 
+</seg>
+pomeni postaviti se v vrsto &ccaron;akajo&ccaron;ih pred druge; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vriniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Felicity pushed in next to Howard.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push off 
+</seg>
+pomeni oditi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pobrati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Push off. You&apos;re not wanted.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push on 
+</seg>
+pomeni potovati naprej proti cilju ali delati nekaj naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hiteti dalje, nadaljevati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push someone or something over 
+</seg>
+pomeni potisniti osebo ali stvar, tako da pade. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poriniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children were pushing each other over on the sand.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+push through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To push through a proposal 
+</seg>
+pomeni kljub te&zcaron;avam uspeti v prizadevanjih, da bi bil neki predlog sprejet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti skozi, dose&ccaron;i potrditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll see that the scheme is pushed through at the earliest date.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

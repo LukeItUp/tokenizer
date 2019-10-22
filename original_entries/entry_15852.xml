@@ -1,0 +1,340 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wear
+</orth>
+<form type="variant">
+<pron>
+/w*e*@/
+</pron>
+</form>
+<form type="inflected">
+wears, wearing, wore
+</form>
+<form type="variant">
+<pron>
+/w*O*:/
+</pron>
+</form>
+<form type="inflected">
+worn
+</form>
+<form type="variant">
+<pron>
+/w*O*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be wearing clothes 
+</seg>
+pomeni na telesu imeti obla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was wearing a T-shirt and jeans.
+</quote>
+<quote>
+...a girl who wore spectacles.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wear one&apos;s hair in a particular way 
+</seg>
+pomeni imeti lase postri&zcaron;ene ali po&ccaron;esane na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti, nositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His face was framed by his curly hair which he wore too long.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obla&ccaron;ila, primerna za dolo&ccaron;en &ccaron;as ali prilo&zcaron;nost, lahko imenujemo 
+<seg type="lemma">
+a particular kind of wear
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+no&scaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...evening wear.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+wears
+</seg>
+, postane tanj&scaron;e ali &scaron;ibkej&scaron;e zaradi nenehne rabe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oguliti se, ponositi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Move the carpet up or down as it starts to wear.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Wear 
+</seg>
+je po&scaron;kodovanost obla&ccaron;il ali drugih stvari; nastane zaradi uporabe v dolo&ccaron;enem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obraba, no&scaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when your sheets are showing signs of wear.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is wearing thin
+</seg>
+, postaja &scaron;ibkej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bledeti, izginjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His patience was clearly wearing thin.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+wearing, 
+</ref>
+<ref>
+worn
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wear away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+wears away 
+</seg>
+ali 
+<seg type="lemma">
+is worn away
+</seg>
+, postane tanko in nazadnje izgine zaradi nenehnega dotikanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrabiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The grass was worn away where the children used to play.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wear down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To wear people down 
+</seg>
+pomeni ljudi oslabiti s tem, da nenehno nekaj delamo ali jih prosimo, naj nekaj storijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We tried to wear them down gradually and make them agree.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wear off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar dolo&ccaron;en ob&ccaron;utek, na primer bole&ccaron;ina, 
+<seg type="lemma">
+wears off
+</seg>
+, po&ccaron;asi izgine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgubiti se, izginiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By the next afternoon the shock had worn off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wear out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+wears out 
+</seg>
+ali 
+<seg type="lemma">
+is worn out
+</seg>
+, je toliko v uporabi, da postane tanko ali &scaron;ibko in ni ve&ccaron; za rabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrabiti, ponositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His shoes keep wearing out.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+worn-out
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+liquid
+</orth>
+<form type="variant">
+<pron>
+/l*IkwId/
+</pron>
+</form>
+<form type="inflected">
+liquids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A liquid 
+</seg>
+je snov, na primer voda, ki ni trdna in jo lahko to&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teko&ccaron;ina
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+liquid
+</seg>
+, je v obliki teko&ccaron;ine in ni trdna snov ali plin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teko&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...liquid polish.
+</quote>
+</seg>
+</sense>
+</entry>

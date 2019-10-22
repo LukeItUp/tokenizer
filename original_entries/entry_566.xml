@@ -5,7 +5,7 @@ anticipate
 </orth>
 <form type="variant">
 <pron>
-/#ae;nt*IsIpeIt/
+/&ae;nt*IsIpeIt/
 </pron>
 </form>
 <form type="inflected">
@@ -15,23 +15,22 @@ anticipates, anticipating, anticipated.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To anticipate an event
+To anticipate an event 
 </seg>
-pomeni vnaprej
-ugotoviti, da se nekaj lahko zgodi, in se na dogodek pripraviti.
+pomeni vnaprej ugotoviti, da se nekaj lahko zgodi, in se na dogodek pripraviti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-predvideti, pri&#269;akovati
+predvideti, pri&ccaron;akovati
 </quote>
 </cit>
 <seg type="example">
@@ -44,10 +43,9 @@ The Secretary had anticipated the question.
 <orth>
 anticipation
 </orth>
-</form>
 <form type="variant">
 <pron>
-/#ae;nt*IsIp*e*IS@0n/
+/&ae;nt*IsIp*e*IS@0n/
 </pron>
 </form>
 <gramGrp>
@@ -65,29 +63,27 @@ Petrol coupons were issued in anticipation of rationing.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To anticipate something
+To anticipate something 
 </seg>
-pomeni z veseljem
-pri&#269;akovati, da se bo zgodilo nekaj prijetnega ali vznemirljivega.
+pomeni z veseljem pri&ccaron;akovati, da se bo zgodilo nekaj prijetnega ali vznemirljivega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-veseliti se (&#269;esa)
+veseliti se (&ccaron;esa)
 </quote>
 </cit>
 <seg type="example">
 <quote>
-She had often pleasurably anticipated the moment when she would hand in her
-resignation.
+She had often pleasurably anticipated the moment when she would hand in her resignation.
 </quote>
 </seg>
 <sense>
@@ -95,7 +91,6 @@ resignation.
 <orth>
 anticipation
 </orth>
-</form>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -103,8 +98,7 @@ UNCOUNT N
 </gramGrp>
 <seg type="example">
 <quote>
-"Please!" the children cried, jumping up and down in
-anticipation.
+&lsquo;Please!&rsquo; the children cried, jumping up and down in anticipation.
 </quote>
 </seg>
 </sense>

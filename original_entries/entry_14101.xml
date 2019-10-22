@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sweat
+</orth>
+<form type="variant">
+<pron>
+/sw*et/
+</pron>
+</form>
+<form type="inflected">
+sweats, sweating, sweated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sweat 
+</seg>
+je slana brezbarvna teko&ccaron;ina, ki se nam nabira na ko&zcaron;i, kadar nam je vro&ccaron;e ali kadar smo bolni ali prestra&scaron;eni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jack paused, wiping the sweat from his face.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sweat 
+</seg>
+pomeni, da se &ccaron;loveku na ko&zcaron;i nabira znoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znojiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I lay and sweated in bed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+in a sweat 
+</seg>
+ali 
+<FV>
+in a cold sweat
+</FV>
+, se mo&ccaron;no poti, zlasti ker je prestra&scaron;en ali bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblit z (mrzlim) znojem, znojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He awoke trembling and in a cold sweat.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

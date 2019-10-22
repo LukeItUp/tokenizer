@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blot
+</orth>
+<form type="variant">
+<pron>
+/bl*Qt/
+</pron>
+</form>
+<form type="inflected">
+blots, blotting, blotted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blot 
+</seg>
+je kaplja teko&ccaron;ine, navadno &ccaron;rnila, ki se je polila po povr&scaron;ini ne&ccaron;esa in se posu&scaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+made&zcaron;, packa
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blot a surface 
+</seg>
+pomeni odstraniti teko&ccaron;ino z neke povr&scaron;ine, tako da nanjo pritisnemo kos mehkega papirja ali blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popivnati
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+blot out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+blots out another thing
+</seg>
+, prva stvar stoji pred drugo in jo skriva, da je ne vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The resulting dust cloud blotted out the sun.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

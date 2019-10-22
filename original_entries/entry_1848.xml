@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+button
+</orth>
+<form type="variant">
+<pron>
+/b*Vt@0n/
+</pron>
+</form>
+<form type="inflected">
+buttons, buttoning, buttoned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Buttons 
+</seg>
+so majhni, trdi predmeti, pri&scaron;iti na srajce, pla&scaron;&ccaron;e ali druga obla&ccaron;ila. Kose obleke zapnemo tako, da te predmete potisnemo skozi gumbnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gumb
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To button a shirt, coat, or other piece of clothing
+</seg>
+ pomeni, da gumbe potisnemo skozi gumbnice in tako spnemo srajco, pla&scaron;&ccaron; ali kak&scaron;no drugo obla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapeti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A button 
+</seg>
+je tudi majhen predmet na stroju; nanj pritisnemo, &ccaron;e ho&ccaron;emo, da stroj za&ccaron;ne delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gumb (za vklop)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I couldn't remember which button turns it off.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+button up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To button up a shirt, coat, or other piece of clothing 
+</seg>
+pomeni popolnoma zapeti srajco, pla&scaron;&ccaron; ali kak&scaron;no drugo obla&ccaron;ilo, tako da vse gumbe potisnemo skozi gumbnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do vratu zapeti z gumbi
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

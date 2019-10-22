@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thread
+</orth>
+<form type="variant">
+<pron>
+/Tr*ed/
+</pron>
+</form>
+<form type="inflected">
+threads, threading, threaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thread 
+</seg>
+je dolg tanek kos bomba&zcaron;a, svile, najlona ali volne, kakr&scaron;ne uporabljamo pri &scaron;ivanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nit
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The thread on something 
+</seg>
+je izbo&ccaron;ena spiralna &ccaron;rta, na primer na vijaku ali na vrhnjem delu posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navoj
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The thread 
+</seg>
+je v razpravi ali zgodbi tista misel ali tema, ki razli&ccaron;ne dele povezuje v celoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had lost his thread and didn&apos;t know what to say next.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To thread a needle 
+</seg>
+pomeni potegniti nit skozi odprtinico na koncu &scaron;ivanke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdeti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To thread one&apos;s way through a group of people or things 
+</seg>
+pomeni prebijati se skozi vrzeli med ljudmi v skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utreti si pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We turned and threaded our way through the fairground.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+detect
+</orth>
+<form type="variant">
+<pron>
+/di1t*ekt/
+</pron>
+</form>
+<form type="inflected">
+detects, detecting, detected.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To detect something 
+</seg>
+pomeni nekaj opaziti ali najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkriti, najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These animals seem able to detect a shower of rain falling five miles away.
+</quote>
+<quote>
+The submarines had to be detected and destroyed.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+detection
+</orth>
+<form type="variant">
+<pron>
+/di1t*ekS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The main detection device is sonar.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

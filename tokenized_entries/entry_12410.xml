@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p667_s731250" id="p667_w249" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="322.272" base="328.68" width="25.9108" height="8.514">scarce</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p667_s731251" id="p667_w250" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="86.26" y="323.518" base="328.68" width="26.1316" height="6.844">/ske6s/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p667_s731252" id="p667_w251" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="116.03" y="323.34" base="328.68" width="24.5133" height="7.08">scarcer,</TOKEN>
+<TOKEN sid="p667_s731253" id="p667_w252" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="143.958" y="323.34" base="328.68" width="28.0692" height="7.08">scarcest.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p667_s731254" id="p667_w253" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="175.65" y="324.764" base="328.68" width="10.5108" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p667_s731255" id="p667_w254" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="189.78" y="322.984" base="328.68" width="21.7555" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p667_s731256" id="p667_w255" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.175" y="322.984" base="328.68" width="6.0372" height="7.552">je</TOKEN>
+<TOKEN sid="p667_s731257" id="p667_w256" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.852" y="322.984" base="328.68" width="18.9547" height="7.552">nekaj</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p667_s731258" id="p667_w257" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3897" y="332.204" base="337.9" width="23.0515" height="7.552">scarce,</TOKEN>
+</seg>
+<TOKEN sid="p667_s731259" id="p667_w258" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="87.7013" y="332.204" base="337.9" width="22.7981" height="7.552">tistega</TOKEN>
+<TOKEN sid="p667_s731260" id="p667_w259" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.759" y="332.204" base="337.9" width="6.79608" height="7.552">ni</TOKEN>
+<TOKEN sid="p667_s731261" id="p667_w260" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.816" y="332.204" base="337.9" width="22.7981" height="7.552">veliko.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p667_s731263" id="p667_w262" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="153.34" y="332.204" base="337.9" width="18.3924" height="7.552">pi~el,</TOKEN>
+<TOKEN sid="p667_s731264" id="p667_w263" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="173.992" y="332.204" base="337.9" width="21.0434" height="7.552">redek;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p667_s731265" id="p667_w264" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.3" y="332.204" base="337.9" width="15.5995" height="7.552">&#8230;an</TOKEN>
+<TOKEN sid="p667_s731266" id="p667_w265" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.158" y="332.204" base="337.9" width="28.6409" height="7.552">environ-</TOKEN>
+<TOKEN sid="p667_s731267" id="p667_w266" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3903" y="341.424" base="347.12" width="17.1986" height="7.552">ment</TOKEN>
+<TOKEN sid="p667_s731268" id="p667_w267" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.5891" y="341.424" base="347.12" width="20.6417" height="7.552">where</TOKEN>
+<TOKEN sid="p667_s731269" id="p667_w268" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="104.231" y="341.424" base="347.12" width="19.5955" height="7.552">water</TOKEN>
+<TOKEN sid="p667_s731270" id="p667_w269" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.827" y="341.424" base="347.12" width="5.59368" height="7.552">is</TOKEN>
+<TOKEN sid="p667_s731271" id="p667_w270" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.42" y="341.424" base="347.12" width="23.0544" height="7.552">scarce.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

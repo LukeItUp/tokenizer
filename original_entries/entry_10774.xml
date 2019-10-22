@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+policy
+</orth>
+<form type="variant">
+<pron>
+/p*QlIsi1/
+</pron>
+</form>
+<form type="inflected">
+policies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A policy 
+</seg>
+je skupina na&ccaron;rtov, ki je osnova za odlo&ccaron;anje, zlasti v politiki, gospodarstvu ali poslovnem &zcaron;ivljenju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+politika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They oppose Conservative policies.
+</quote>
+<quote>
+...economic and foreign policy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An insurance policy 
+</seg>
+je dokument, ki dokazuje, kak&scaron;no pogodbo smo sklenili z zavarovalnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(zavarovalna) polica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a life assurance policy.
+</quote>
+<quote>
+This service is free to policy holders.
+</quote>
+</seg>
+</sense>
+</entry>

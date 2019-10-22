@@ -1,0 +1,167 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+owe
+</orth>
+<form type="variant">
+<pron>
+/*@*U/
+</pron>
+</form>
+<form type="inflected">
+owes, owing, owed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To owe money to someone 
+</seg>
+pomeni, da smo si od nekoga izposodili denar in ga &scaron;e nismo vrnili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolgovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I still owe you seven pounds.
+</quote>
+<quote>
+I paid Gower what I owed him.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To owe a quality or ability to someone or something 
+</seg>
+pomeni imeti neko lastnost ali sposobnost po zaslugi dolo&ccaron;ene osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti dol&zcaron;an zahvalo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She owed her technique entirely to his teaching.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To owe gratitude, respect, or loyalty to someone 
+</seg>
+pomeni, da nekdo zaslu&zcaron;i na&scaron;o hvale&zcaron;nost, spo&scaron;tovanje ali zvestobo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti dol&zcaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We owe you our thanks, Dr Marlowe.
+</quote>
+<quote>
+Neither he nor Melanie owe me any explanation.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+owing to 
+</seg>
+uvajamo razlog za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I missed my flight owing to a traffic hold-up.
+</quote>
+</seg>
+</sense>
+</entry>

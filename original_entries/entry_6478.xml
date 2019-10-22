@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+halve
+</orth>
+<form type="variant">
+<pron>
+/h*A*:v/
+</pron>
+</form>
+<form type="inflected">
+halves, halving, halved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+halves something 
+</seg>
+ali kadar nekaj 
+<seg type="variant">
+halves
+</seg>
+, je tisto zmanj&scaron;ano na polovico prvotne velikosti ali koli&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepoloviti, razpoloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This could halve rail fares.
+</quote>
+<quote>
+If that happened, sales would halve overnight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To halve something 
+</seg>
+pomeni nekaj razdeliti na dva enaka dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepoloviti, razpoloviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Halve the avocado pears and remove the stones.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+Halves 
+</seg>
+je mno&zcaron;inska oblika samostalnika 
+<ref>
+half
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polovice
+</quote>
+</cit>
+</sense>
+</entry>

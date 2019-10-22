@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p801_s882649" id="p801_w426" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="517.302" base="523.71" width="32.2916" height="8.514">torpedo</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p801_s882650" id="p801_w427" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.88" y="518.548" base="523.71" width="37.5816" height="6.844">/t&#213;&#194;pi&#194;d6&#205;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p801_s882651" id="p801_w428" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="132.33" y="518.37" base="523.71" width="34.1158" height="7.08">torpedoes,</TOKEN>
+<TOKEN sid="p801_s882652" id="p801_w429" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="169.13" y="518.37" base="523.71" width="37.1122" height="7.08">torpedoing,</TOKEN>
+<TOKEN sid="p801_s882653" id="p801_w430" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="208.927" y="518.37" base="523.71" width="34.8658" height="7.08">torpedoed.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p801_s882655" id="p801_w432" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="70.72" y="528.874" base="532.79" width="19.1298" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p801_s882656" id="p801_w433" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="92.3594" y="528.874" base="532.79" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p801_s882657" id="p801_w434" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.12" y="527.094" base="532.79" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p801_s882658" id="p801_w435" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="109.38" y="527.094" base="532.79" width="26.761" height="7.552">torpedo</TOKEN>
+</seg>
+<TOKEN sid="p801_s882659" id="p801_w436" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.77" y="527.094" base="532.79" width="6.05736" height="7.552">je</TOKEN>
+<TOKEN sid="p801_s882660" id="p801_w437" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.488" y="527.094" base="532.79" width="32.4223" height="7.552">podvodni</TOKEN>
+<TOKEN sid="p801_s882661" id="p801_w438" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.572" y="527.094" base="532.79" width="29.4674" height="7.552">izstrelek</TOKEN>
+<TOKEN sid="p801_s882662" id="p801_w439" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.701" y="527.094" base="532.79" width="25.1626" height="7.552">cevaste</TOKEN>
+<TOKEN sid="p801_s882663" id="p801_w440" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="536.174" base="541.87" width="23.1293" height="7.552">oblike.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p801_s882665" id="p801_w442" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.9" y="536.174" base="541.87" width="26.3376" height="7.552">torpedo</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p801_s882667" id="p801_w444" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="127.05" y="537.954" base="541.87" width="7.13642" height="5.192">VB</TOKEN>
+<seg>
+<TOKEN sid="p801_s882668" id="p801_w445" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.27" y="537.954" base="541.87" width="10.6875" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p801_s882669" id="p801_w446" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="147.041" y="537.954" base="541.87" width="9.87723" height="5.192">OBJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p801_s882670" id="p801_w447" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="158.53" y="536.174" base="541.87" width="21.5539" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p801_s882671" id="p801_w448" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.673" y="536.174" base="541.87" width="17.1547" height="7.552">ladja</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p801_s882672" id="p801_w449" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.37" y="536.174" base="541.87" width="5.58288" height="7.552">is</TOKEN>
+<TOKEN sid="p801_s882673" id="p801_w450" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.542" y="536.174" base="541.87" width="36.2599" height="7.552">torpedoed,</TOKEN>
+</seg>
+<TOKEN sid="p801_s882674" id="p801_w451" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="545.254" base="550.95" width="6.39936" height="7.552">jo</TOKEN>
+<TOKEN sid="p801_s882675" id="p801_w452" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="71.0082" y="545.254" base="550.95" width="23.5944" height="7.552">zadene</TOKEN>
+<TOKEN sid="p801_s882676" id="p801_w453" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.8217" y="545.254" base="550.95" width="26.3945" height="7.552">torpedo</TOKEN>
+<TOKEN sid="p801_s882677" id="p801_w454" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.435" y="545.254" base="550.95" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p801_s882678" id="p801_w455" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.45" y="545.254" base="550.95" width="6.40008" height="7.552">jo</TOKEN>
+<TOKEN sid="p801_s882679" id="p801_w456" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="143.069" y="545.254" base="550.95" width="36.3902" height="7.552">najve~krat</TOKEN>
+<TOKEN sid="p801_s882680" id="p801_w457" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.678" y="545.254" base="550.95" width="13.9925" height="7.552">tudi</TOKEN>
+<TOKEN sid="p801_s882681" id="p801_w458" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.89" y="545.254" base="550.95" width="23.9962" height="7.552">potopi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p801_s882683" id="p801_w460" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.61" y="545.254" base="550.95" width="13.1976" height="7.552">tor-</TOKEN>
+<TOKEN sid="p801_s882684" id="p801_w461" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="554.334" base="560.03" width="27.1894" height="7.552">pedirati</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

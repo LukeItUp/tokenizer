@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+verse
+</orth>
+<form type="variant">
+<pron>
+/v*$e*:s/
+</pron>
+</form>
+<form type="inflected">
+verses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Verse 
+</seg>
+je besedilo, razdeljeno na vrstice, ki imajo dolo&ccaron;en ritem in se na koncu pogosto rimajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verzi, verzna oblika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She used to write plays in verse.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A verse 
+</seg>
+je eden izmed delov, na katere je razdeljena pesem, besedilo popevke ali poglavje v Svetem pismu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verz, vrstica
+</quote>
+</cit>
+</sense>
+</entry>

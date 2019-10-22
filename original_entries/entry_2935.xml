@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+continent
+</orth>
+<form type="variant">
+<pron>
+/k*QntIn@nt/
+</pron>
+</form>
+<form type="inflected">
+continents.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A continent 
+</seg>
+je zelo veliko ozemlje, na primer Afrika ali Azija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+celina, kontinent
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the North American continent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+continental
+</orth>
+<form type="variant">
+<pron>
+/k*QntIn*ent@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Defence should be organized on a continental scale.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PROPER N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V Veliki Britaniji celinsko Evropo v&ccaron;asih imenujejo 
+<seg type="lemma">
+the Continent
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+Evropa brez Velike Britanije
+</quote>
+</cit>
+<seg type="example">
+<quote>
+British artists are very well known on the Continent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+Continental
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a Continental holiday.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

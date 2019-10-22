@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+haul
+</orth>
+<form type="variant">
+<pron>
+/h*O*:l/
+</pron>
+</form>
+<form type="inflected">
+hauls, hauling, hauled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To haul something somewhere 
+</seg>
+pomeni nekaj s te&zcaron;avo nekam vle&ccaron;i, ker je te&zcaron;ko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vle&ccaron;i, potegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They hauled the pilot clear of the wreckage.
+</quote>
+<quote>
+Ralph hauled himself onto the platform.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a long haul
+</seg>
+, zahteva veliko &ccaron;asa in truda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+muka, boj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We began the long haul up the cobbled street.
+</quote>
+<quote>
+...as women begin the long haul to equality.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+haul up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is hauled up before a court of law
+</seg>
+, ga prisilijo, da se pojavi pred sodi&scaron;&ccaron;em; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poklicati na zagovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He got hauled up in court for assaulting a student.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

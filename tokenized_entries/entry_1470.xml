@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p71_s77945" id="p71_w744" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="294.192" base="300.6" width="25.1712" height="8.514">bogus</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p71_s77946" id="p71_w745" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="282.79" y="295.438" base="300.6" width="30.5316" height="6.844">/b6&#205;g6s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p71_s77947" id="p71_w746" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="315.8" y="296.684" base="300.6" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p71_s77948" id="p71_w747" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="328.73" y="294.904" base="300.6" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p71_s77949" id="p71_w748" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="344.404" y="294.904" base="300.6" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p71_s77950" id="p71_w749" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.89" y="294.904" base="300.6" width="21.9917" height="7.552">bogus,</TOKEN>
+</seg>
+<TOKEN sid="p71_s77951" id="p71_w750" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="377.361" y="294.904" base="300.6" width="6.79536" height="7.552">ni</TOKEN>
+<TOKEN sid="p71_s77952" id="p71_w751" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.635" y="294.904" base="300.6" width="26.3851" height="7.552">pristno.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p71_s77954" id="p71_w753" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.23" y="294.904" base="300.6" width="20.0016" height="7.552">la`en,</TOKEN>
+<TOKEN sid="p71_s77955" id="p71_w754" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="304.134" base="309.83" width="27.9907" height="7.552">nepravi,</TOKEN>
+<TOKEN sid="p71_s77956" id="p71_w755" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="290.8" y="304.134" base="309.83" width="35.8481" height="7.552">ponarejen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p71_s77957" id="p71_w756" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="328.65" y="304.134" base="309.83" width="26.802" height="7.552">&#8230;bogus</TOKEN>
+<TOKEN sid="p71_s77958" id="p71_w757" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.452" y="304.134" base="309.83" width="23.598" height="7.552">names.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

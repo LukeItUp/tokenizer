@@ -1,0 +1,153 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+row,
+</orth>
+<form type="inflected">
+rows, rowing, rowed;
+</form>
+<PN>
+pri prvih treh pomenih besedo izgovarjamo 
+<pron>
+/r*@*U/
+</pron>
+, pri 4. in 5. pa 
+<pron>
+/r*a*U/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A row 
+</seg>
+je ve&ccaron; stvari ali oseb, razvr&scaron;&ccaron;enih v zaporedje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrsta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a large hall filled with rows of desks.
+</quote>
+<quote>
+They were standing neatly in a row.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi ve&ccaron;krat 
+<seg type="lemma">
+in a row
+</seg>
+, se zgodi tolikokrat brez prekinitve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapovrstjo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was elected president three times in a row.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To row a boat 
+</seg>
+pomeni z vesli premikati &ccaron;oln po vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We rowed slowly towards the centre of the river.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a row on the lake.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A row 
+</seg>
+je spor ali hrupno razpravljanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were always having terrible rows.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a row 
+</seg>
+pomeni povzro&ccaron;ati hrup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tru&scaron;&ccaron;, kraval
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bandage
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;ndIdZ/
+</pron>
+</form>
+<form type="inflected">
+bandages, bandaging, bandaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bandage 
+</seg>
+je dolg trak blaga, navit okoli ranjenega dela telesa, zato da ga zavaruje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obveza, povoj
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+She was wearing a bandage round her head.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bandage a wound or part of one's body
+</seg>
+ pomeni, da okoli rane ali dela telesa navijemo povoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poviti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+bandaged
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a man with a bandaged arm.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

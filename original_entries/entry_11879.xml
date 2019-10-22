@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reprint,
+</orth>
+<form type="inflected">
+reprints, reprinting, reprinted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/r*i*:pr*Int/
+</pron>
+, samostalnik pa 
+<pron>
+/r*i*:prInt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar knjiga 
+<seg type="lemma">
+is reprinted
+</seg>
+, jo znova natisnejo, ker so vsi izvodi prej&scaron;nje izdaje po&scaron;li. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponatisniti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A reprint 
+</seg>
+je izvod spet natisnjene knjige. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponatis
+</quote>
+</cit>
+</sense>
+</entry>

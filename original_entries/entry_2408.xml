@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+classify
+</orth>
+<form type="variant">
+<pron>
+/kl*&ae;sIfaI/
+</pron>
+</form>
+<form type="inflected">
+classifies, classifying, classified.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so stvari, na primer &zcaron;ivali ali rastline, 
+<seg type="lemma">
+classified
+</seg>
+, so razdeljene v skupine, tako da so tiste z enakimi zna&ccaron;ilnostmi v isti skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvrstiti, razporediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Twenty-two of these plants are now classified as rare.
+</quote>
+<quote>
+The books have been classified according to subject.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+classification
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The cataloguing and classification of the plants on the island took several months.
+</quote>
+<quote>
+The broad outlines of most classifications are quite similar.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

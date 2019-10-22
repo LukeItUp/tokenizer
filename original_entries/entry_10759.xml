@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+poison
+</orth>
+<form type="variant">
+<pron>
+/p*O*Iz@0n/
+</pron>
+</form>
+<form type="inflected">
+poisons, poisoning, poisoned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Poison 
+</seg>
+je snov, ki &scaron;koduje ljudem ali &zcaron;ivalim ali celo povzro&ccaron;i smrt, &ccaron;e jo pogoltnejo ali kako druga&ccaron;e dobijo v telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was deadly poison and if he drank it he&apos;d die.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To poison someone 
+</seg>
+pomeni nekomu dati strup, da bi umrl ali zbolel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastrupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been poisoned with strychnine.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+poisoning
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The poisoning had not been accidental.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be poisoned by a substance 
+</seg>
+pomeni hudo zboleti zaradi dolo&ccaron;ene snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastrupiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can be poisoned by agricultural and industrial wastes.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+poisoning
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...food poisoning.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar hrana, ozra&ccaron;je ali kaj podobnega 
+<seg type="lemma">
+is poisoned
+</seg>
+, vsebuje strup ali druge &scaron;kodljive snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti zastrupljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Soil and water are being poisoned.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+poisoned
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a poisoned whisky bottle.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

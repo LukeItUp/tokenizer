@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grocery
+</orth>
+<form type="variant">
+<pron>
+/gr*@*Us@0ri1/
+</pron>
+</form>
+<form type="inflected">
+groceries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V Ameriki trgovino z &zcaron;ivili imenujejo 
+<seg type="lemma">
+a grocery
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trgovina z &zcaron;ivili
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Groceries 
+</seg>
+je hrana, na primer moka, sladkor in &zcaron;ivila v plo&ccaron;evinkah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a shopping-basket containing groceries.
+</quote>
+</seg>
+</sense>
+</entry>

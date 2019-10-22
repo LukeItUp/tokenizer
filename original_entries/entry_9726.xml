@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oblong
+</orth>
+<form type="variant">
+<pron>
+/*QblQN/
+</pron>
+</form>
+<form type="inflected">
+oblongs.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An oblong 
+</seg>
+je geometrijski lik z dvema dolgima in dvema kratkima stranicama; stranice se stikajo pod pravim kotom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravokotnik
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a small oblong of silver.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an oblong table.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

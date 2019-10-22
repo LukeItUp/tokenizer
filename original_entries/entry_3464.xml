@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+daze
+</orth>
+<form type="variant">
+<pron>
+/d*e*Iz/
+</pron>
+</form>
+<form type="inflected">
+dazed.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in a daze 
+</seg>
+pomeni po&ccaron;utiti se zmedenega ali vznemirjenega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbegan, osupel
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+dazed
+</seg>
+, zaradi nenadne po&scaron;kodbe ali nepri&ccaron;akovanega dogodka ni sposoben jasno razmi&scaron;ljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osupel, omamljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was dazed by the news.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dazed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He seemed dazed and bewildered.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

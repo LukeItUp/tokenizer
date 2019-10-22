@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+estate
+</orth>
+<form type="variant">
+<pron>
+/I2st*e*It/
+</pron>
+</form>
+<form type="inflected">
+estates.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An estate 
+</seg>
+je veliko zemlji&scaron;&ccaron;e na pode&zcaron;elju, katerega lastnik je ena oseba ali organizacija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posestvo, posest
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A housing estate 
+</seg>
+ali 
+<seg type="lemma">
+a factory estate 
+</seg>
+je veliko zemlji&scaron;&ccaron;e, na katerem stojijo hi&scaron;e ali tovarne.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(stanovanjsko, industrijsko) zemlji&scaron;&ccaron;e, parcela
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+real estate
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's estate 
+</seg>
+sta denar in imetje, ki ga nekdo zapusti, ko umre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dedi&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She left her estate to her grandchildren.
+</quote>
+</seg>
+</sense>
+</entry>

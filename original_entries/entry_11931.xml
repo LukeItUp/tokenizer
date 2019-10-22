@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+resort
+</orth>
+<form type="variant">
+<pron>
+/rI1z*O:t/
+</pron>
+</form>
+<form type="inflected">
+resorts, resorting, resorted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To resort to methods that one disapproves of 
+</seg>
+pomeni, da nekdo uporabi metode, s katerimi se ne strinja, ker ne vidi druge poti do zastavljenega cilja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zate&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had not so far chosen to resort to violence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+as a last resort
+</seg>
+, ho&ccaron;emo na ta na&ccaron;in re&scaron;iti neko te&zcaron;avo, pri kateri so odpovedali vsi drugi postopki re&scaron;evanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izhod v sili
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As a last resort he went to the British Library.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A resort 
+</seg>
+je kraj, kamor hodi na po&ccaron;itnice veliko ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+letovi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a seaside resort.
+</quote>
+</seg>
+</sense>
+</entry>

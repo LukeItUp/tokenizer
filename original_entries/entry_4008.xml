@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disintegrate
+</orth>
+<form type="variant">
+<pron>
+/dIs*IntI2greIt/
+</pron>
+</form>
+<form type="inflected">
+disintegrates, disintegrating, disintegrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neki predmet 
+<seg type="lemma">
+disintegrates
+</seg>
+, razpade na veliko majhnih kosov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpasti, razdrobiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was an explosion and the boat disintegrated.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e odnos ali organizacija 
+<seg type="lemma">
+disintegrates
+</seg>
+, postane &scaron;ibka in neuspe&scaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkrojiti (se), razpasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had seen marriages disintegrate under such pressure.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disintegration
+</orth>
+<form type="variant">
+<pron>
+/dIs*IntI2gr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the disintegration of the army.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

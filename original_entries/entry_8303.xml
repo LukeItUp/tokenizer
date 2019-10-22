@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lifespan
+</orth>
+<form type="variant">
+<pron>
+/l*a*Ifsp&ae;n/
+</pron>
+</form>
+<form type="inflected">
+lifespans.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lifespan of a person, animal, or plant 
+</seg>
+je obdobje, v katerem je neki &ccaron;lovek, &zcaron;ival ali rastlina &zcaron;iva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivljenjska doba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the human lifespan.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lifespan of a product, organization, or idea 
+</seg>
+je obdobje, v katerem neki izdelek, organizacija ali zamisel obstaja ali je v rabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rok trajanja, &zcaron;ivljenjska doba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This job had a planned life-span of five years.
+</quote>
+</seg>
+</sense>
+</entry>

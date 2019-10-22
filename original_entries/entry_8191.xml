@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lecture
+</orth>
+<form type="variant">
+<pron>
+/l*ektS@/
+</pron>
+</form>
+<form type="inflected">
+lectures, lecturing, lectured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lecture 
+</seg>
+je govor, ki ga nekdo ima, ko ljudi pou&ccaron;uje dolo&ccaron;eni predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predavanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a series of lectures on literature.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lecture 
+</seg>
+pomeni imeti predavanje ali vrsto predavanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lectured on Economic History at the University.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lecture someone about something 
+</seg>
+pomeni nekoga kritizirati ali mu povedati, kako bi se moral vesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grajati, pridigati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had always been lectured about not talking with my mouth full.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lecture 
+</seg>
+je tudi ostra kritika, ki jo nekdo pove o ne&ccaron;em, kar mu ni v&scaron;e&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridiga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;ll give her a lecture on her responsibilities.
+</quote>
+</seg>
+</sense>
+</entry>

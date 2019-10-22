@@ -1,0 +1,318 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+touch
+</orth>
+<form type="variant">
+<pron>
+/t*VtS/
+</pron>
+</form>
+<form type="inflected">
+touches, touching, touched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To touch something 
+</seg>
+pomeni ne&zcaron;no polo&zcaron;iti prste ali roko na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dotakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The metal is so hot I can&apos;t touch it.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He remembered the touch of her hand.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve stvari 
+<seg type="lemma">
+touch
+</seg>
+, povr&scaron;ini obeh prideta v neposreden stik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dotikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Make sure that the wires are not touching.
+</quote>
+<quote>
+My feet touched the ground.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s touch 
+</seg>
+je &ccaron;lovekov &ccaron;ut, s katerim je sposoben ugotoviti, kak&scaron;no je nekaj, &ccaron;e se tistega dotakne z rokami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The skin was slightly waxy to the touch.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be touched by something 
+</seg>
+pomeni biti &zcaron;alosten, razumevajo&ccaron; ali hvale&zcaron;en zaradi ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ganiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was touched by his thoughtfulness.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A touch 
+</seg>
+je podrobnost, ki jo ne&ccaron;emu dodamo, da tisto izbolj&scaron;amo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poteza, finesa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The final touches were put to their report.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+finishing touches
+</ref>
+</xr>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A touch of something 
+</seg>
+je zelo majhna koli&ccaron;ina ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;epec, malenkost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a touch of frost this morning.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get in touch with someone 
+</seg>
+ali 
+<seg type="lemma">
+to keep in touch with someone 
+</seg>
+pomeni nekomu pisati ali telefonirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navezati ali vzdr&zcaron;evati stike z nekom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Please drop in when you can. I&apos;d like to keep in touch.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To lose touch with someone 
+</seg>
+pomeni postopoma prenehati pisati tistemu &ccaron;loveku, mu telefonirati ali ga obiskovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgubiti stik
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be in touch with a subject or situation 
+</seg>
+pomeni poznati najnovej&scaron;e podatke o neki tematiki ali razmerah. 
+<FV>
+To be out of touch with a subject or situation 
+</FV>
+pomeni, da je na&scaron;e znanje o tistem zastarelo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na teko&ccaron;em, imeti stik; ne biti na teko&ccaron;em, ne imeti ve&ccaron; stika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m a bit out of touch with new developments.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Za tisto, kar je 
+<seg type="lemma">
+touch and go
+</seg>
+, nismo prepri&ccaron;ani, ali se bo zgodilo oziroma uspelo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+negotov, vpra&scaron;ljiv
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+touch down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar letalo 
+<seg type="lemma">
+touches down
+</seg>
+, prileti na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+touch on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To touch on something 
+</seg>
+pomeni nekaj na kratko omeniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dotakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the topic which I touched on at the beginning of this chapter.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

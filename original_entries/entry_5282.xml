@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fib
+</orth>
+<form type="variant">
+<pron>
+/f*Ib/
+</pron>
+</form>
+<form type="inflected">
+fibs, fibbing, fibbed;
+</form>
+<usg>
+pogovorna beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fib 
+</seg>
+je majhna, ne preve&ccaron; pomembna la&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drobna la&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be fibbing 
+</seg>
+pomeni govoriti la&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lagati, &scaron;irokoustiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It isn&apos;t true! You&apos;re fibbing!
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plaster
+</orth>
+<form type="variant">
+<pron>
+/pl*A*:st@/
+</pron>
+</form>
+<form type="inflected">
+plasters, plastering, plastered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Plaster 
+</seg>
+je gladka masa, narejena iz peska, apna in vode. Z njo prekrivamo stene in strope v notranjosti stavb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The walls were in a dreadful condition&mdash;the plaster was peeling off.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plaster a wall or ceiling 
+</seg>
+pomeni nanesti sloj ometa na steno ali strop. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ometati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a wall that was poorly plastered.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plaster 
+</seg>
+je ko&scaron;&ccaron;ek lepljivega materiala z majhno blazinico. Z njim prekrivamo majhne rane na telesu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obli&zcaron;
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar imamo nogo ali roko 
+<seg type="lemma">
+in plaster
+</seg>
+, imamo na njej mavec, ki varuje zlomljeno kost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v mavcu
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+</sense>
+</sense>
+</entry>

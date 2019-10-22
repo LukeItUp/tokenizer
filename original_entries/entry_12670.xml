@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sequence
+</orth>
+<form type="variant">
+<pron>
+/s*i*:kw@0ns/
+</pron>
+</form>
+<form type="inflected">
+sequences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sequence of events or things 
+</seg>
+je ve&ccaron; dogodkov ali stvari, ki si sledijo v dolo&ccaron;enem zaporedju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the strange sequence of events that led up to the murder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular sequence 
+</seg>
+je vrstni red, v katerem se stvari zgodijo ali so razvr&scaron;&ccaron;ene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaporedje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The paintings are exhibited in a chronological sequence.
+</quote>
+<quote>
+These recordings are in sequence and continuous.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A film sequence 
+</seg>
+je kratek odlomek v filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sekvenca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What did you think of that ghastly sequence at the end?
+</quote>
+</seg>
+</sense>
+</entry>

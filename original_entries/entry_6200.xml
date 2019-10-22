@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grab
+</orth>
+<form type="variant">
+<pron>
+/gr*&ae;b/
+</pron>
+</form>
+<form type="inflected">
+grabs, grabbing, grabbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grab something 
+</seg>
+ali 
+<seg type="lemma">
+to grab at something 
+</seg>
+pomeni nekaj vzeti ali grobo pobrati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgrabiti, pograbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She grabbed my arm.
+</quote>
+<quote>
+She fell on her knees to grab at the money.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He made a grab for the knife.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grab some food or sleep
+</seg>
+, pomeni, da se nam posre&ccaron;i hitro dobiti nekaj hrane ali spanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti si &ccaron;as za, odtrgati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll grab a sandwich before I go.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grab an opportunity 
+</seg>
+pomeni hlastno izrabiti prilo&zcaron;nost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkoristiti, pograbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Why didn&apos;t you grab the chance to go to New York?
+</quote>
+</seg>
+</sense>
+</entry>

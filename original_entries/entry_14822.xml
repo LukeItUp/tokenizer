@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trespass
+</orth>
+<form type="variant">
+<pron>
+/tr*esp@s/
+</pron>
+</form>
+<form type="inflected">
+trespasses, trespassing, trespassed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trespass on someone&apos;s land 
+</seg>
+pomeni, da stopimo na posest neke osebe brez njenega dovoljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepoobla&scaron;&ccaron;eno vstopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...signs saying &lsquo;No trespassing&rsquo;.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+trespasser
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Trespassers will be prosecuted.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

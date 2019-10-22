@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insure
+</orth>
+<form type="variant">
+<pron>
+/InS*U*@, -S*O*:/
+</pron>
+</form>
+<form type="inflected">
+insures, insuring, insured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insure oneself or one&apos;s property 
+</seg>
+pomeni pla&ccaron;ati zavarovalni&scaron;ki dru&zcaron;bi, da nam izpla&ccaron;a od&scaron;kodnino v primeru, &ccaron;e zbolimo ali je na&scaron;e imetje po&scaron;kodovano ali ukradeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavarovati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Insure your baggage before you leave home.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+insured
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The house is not insured against fire.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;against&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To insure against something 
+</seg>
+pomeni nekaj ukreniti, da se zavarujemo, &ccaron;e bi se zgodilo kaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavarovati se proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In years of good rainfall they expand their stocks to insure against drought.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+ensure
+</ref>
+</xr>
+</sense>
+</entry>

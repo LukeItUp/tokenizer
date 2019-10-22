@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+haste
+</orth>
+<form type="variant">
+<pron>
+/h*e*Ist/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Haste 
+</seg>
+je dejstvo, da nekaj storimo hitro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglica, prenagljenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I immediately regretted my haste.
+</quote>
+<quote>
+It was written quickly and published in haste.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make haste 
+</seg>
+pomeni hiteti; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+podvizati se
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

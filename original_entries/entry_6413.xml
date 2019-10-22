@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gym
+</orth>
+<form type="variant">
+<pron>
+/dZ*Im/
+</pron>
+</form>
+<form type="inflected">
+gyms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gym 
+</seg>
+je okraj&scaron;ava za 
+<seg type="lemma">
+gymnasium
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telovadnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always at the gym.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Gym 
+</seg>
+pomeni 
+<seg type="lemma">
+gymnastics
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gimnastika, telovadba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We did an hour of gym.
+</quote>
+</seg>
+</sense>
+</entry>

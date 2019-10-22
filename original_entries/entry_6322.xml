@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+groan
+</orth>
+<form type="variant">
+<pron>
+/gr*@*Un/
+</pron>
+</form>
+<form type="inflected">
+groans, groaning, groaned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To groan 
+</seg>
+pomeni spu&scaron;&ccaron;ati dolg, tih glas zaradi bole&ccaron;ine, nesre&ccaron;e ali neodobravanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stokati, je&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I&apos;m sick,&rsquo; he groaned.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+A chorus of groans greeted his joke.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar les 
+<seg type="lemma">
+groans
+</seg>
+, glasno poka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+je&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wind roared, the trees groaned.
+</quote>
+</seg>
+</sense>
+</entry>

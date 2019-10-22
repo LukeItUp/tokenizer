@@ -7,8 +7,8 @@
 <pron>
 <TOKEN sid="p3_s2409" id="p3_w307" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="85.09" y="391.458" base="396.62" width="6.01014" height="6.844">/6</TOKEN>
 <TOKEN sid="p3_s2410" id="p3_w308" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="91.28" y="390.81" base="394.22" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p3_s2411" id="p3_w309" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.81" y="391.458" base="396.62" width="18.8471" height="6.844">bsÕÂb,</TOKEN>
-<TOKEN sid="p3_s2412" id="p3_w310" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="114.681" y="391.458" base="396.62" width="21.0607" height="6.844">-zÕÂb/,</TOKEN>
+<TOKEN sid="p3_s2411" id="p3_w309" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.81" y="391.458" base="396.62" width="18.8471" height="6.844">bs&#213;&#194;b,</TOKEN>
+<TOKEN sid="p3_s2412" id="p3_w310" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="114.681" y="391.458" base="396.62" width="21.0607" height="6.844">-z&#213;&#194;b/,</TOKEN>
 <TOKEN sid="p3_s2413" id="p3_w311" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="137.17" y="391.28" base="396.62" width="26.244" height="7.08">absorbs,</TOKEN>
 </pron>
 </form>
@@ -211,7 +211,7 @@
 <TOKEN sid="p3_s2533" id="p3_w431" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="98.89" y="508.944" base="514.64" width="31.5101" height="7.568">absorbed</TOKEN>
 </quote>
 </cit>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <TOKEN sid="p3_s2534" id="p3_w432" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="131.94" y="510.724" base="514.64" width="10.3504" height="5.192">ADJ</TOKEN>
@@ -235,8 +235,8 @@
 <TOKEN sid="p3_s2545" id="p3_w443" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.08" y="518.014" base="523.71" width="34.3901" height="7.568">absorbing</TOKEN>
 </quote>
 </seg>
-</sense>
-<sense>
+</re>
+<re>
 <form type="lemma">
 <orth>
 <TOKEN sid="p3_s2546" id="p3_w444" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="148.48" y="519.794" base="523.71" width="10.4504" height="5.192">ADJ</TOKEN>
@@ -255,6 +255,6 @@
 <TOKEN sid="p3_s2551" id="p3_w449" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="526.382" base="532.79" width="40.5167" height="8.514">absorbent</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

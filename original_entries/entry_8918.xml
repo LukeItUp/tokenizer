@@ -1,0 +1,261 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mess
+</orth>
+<form type="variant">
+<pron>
+/m*es/
+</pron>
+</form>
+<form type="inflected">
+messes, messing, messed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+mess 
+</seg>
+uporabljamo za nekaj, kar je zelo razmetano in umazano ali neurejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nered
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I know the place is a mess, but make yourself at home.
+</quote>
+<quote>
+They went back to see how much mess they&apos;d left behind.
+</quote>
+<quote>
+We cleared up the mess.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za razmere re&ccaron;emo, da so 
+<seg type="lemma">
+a mess
+</seg>
+, kadar je veliko te&zcaron;av in neprijetnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zme&scaron;njava, godlja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My life is such a mess.
+</quote>
+<quote>
+It seemed a way out from the mess I&apos;d got myself into.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in a mess
+</seg>
+, je neurejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v neredu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her hair was in a terrible mess.
+</quote>
+<quote>
+The US economy is now in a mess.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mess 
+</seg>
+je tudi soba ali stavba, v kateri jedo pripadniki oboro&zcaron;enih sil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voja&scaron;ka menza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bomb attack on an officers&apos; mess.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mess about 
+<VS>
+ali 
+</VS>
+<VV>
+mess around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+is messing about 
+</seg>
+ali 
+<seg type="variant">
+is messing around
+</seg>
+, po&ccaron;ne stvari brez posebnega cilja in ne da bi kaj naredil; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zapravljati &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some of the lads had been messing around when they should have been working.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+messes about 
+</seg>
+ali 
+<seg type="variant">
+messes around with something
+</seg>
+, posega v tiste stvari in jih &scaron;e poslab&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn&apos;t want you coming and messing about with things.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+messes someone about 
+</seg>
+ali 
+<seg type="variant">
+around
+</seg>
+, nenehno spreminja na&ccaron;rte, to pa tisto osebo prizadene; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+delati neresno z nekom
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+mess up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+messes up something
+</seg>
+, pokvari nekaj, kar je bilo skrbno narejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That will mess up the whole analysis.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+messes up a room
+</seg>
+, spravi sobo v nered ali jo uma&zcaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmetati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

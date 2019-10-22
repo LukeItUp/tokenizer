@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ball game,
+</orth>
+<form type="inflected">
+ball games.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ball game 
+</seg>
+je tekma baseballa; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+baseballska tekma
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neki polo&zcaron;aj 
+<seg type="lemma">
+a whole new ball game
+</seg>
+, je popolnoma druga&ccaron;en od prej&scaron;njega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+druga pesem, &ccaron;isto nekaj drugega
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

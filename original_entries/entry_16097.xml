@@ -1,0 +1,182 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+witness
+</orth>
+<form type="variant">
+<pron>
+/w*ItnI1s/
+</pron>
+</form>
+<form type="inflected">
+witnesses, witnessing, witnessed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A witness to an event 
+</seg>
+je oseba, ki je videla neki dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;a, o&ccaron;ividec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Witnesses to the murder told what they had seen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To witness something 
+</seg>
+pomeni videti, kako se nekaj zgodi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti pri&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At least fifteen people witnessed the attack.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A witness 
+</seg>
+je oseba, ki pride na sodi&scaron;&ccaron;e, da bi povedala, kaj ve o dolo&ccaron;enem zlo&ccaron;inu ali kak&scaron;nem drugem dogodku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Other witnesses were called to give evidence.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A witness 
+</seg>
+je tudi oseba, ki zapi&scaron;e svoje ime na listino, ki smo jo podpisali, in tako potrdi, da je podpis res na&scaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+overitelj
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+witnesses someone&apos;s signature
+</seg>
+, zapi&scaron;e svoje ime pod podpis neke druge osebe in tako potrdi, da je podpis res njen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+overiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Now everything is signed and witnessed.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be witness to something 
+</seg>
+pomeni videti, kako se je nekaj zgodilo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti pri&ccaron;a, videti na svoje lastne o&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was the first time I was witness to one of his rages.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+bears witness to another
+</seg>
+, prva stvar ka&zcaron;e, da druga obstaja ali se je zgodila; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dokazovati, izpri&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This lack of action bears witness to a complacency which has survived two World Wars.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

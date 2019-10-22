@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guardian
+</orth>
+<form type="variant">
+<pron>
+/g*A*:dI@n/
+</pron>
+</form>
+<form type="inflected">
+guardians.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guardian 
+</seg>
+je oseba, ki so jo uradno dolo&ccaron;ili, da skrbi za otroka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrbnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He became the legal guardian of his brother&apos;s daughter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guardian 
+</seg>
+je tudi oseba, ki velja za za&scaron;&ccaron;itnika ali branilca stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varuh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...guardians of morality.
+</quote>
+</seg>
+</sense>
+</entry>

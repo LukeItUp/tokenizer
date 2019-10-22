@@ -1,0 +1,356 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cast
+</orth>
+<form type="variant">
+<pron>
+/k*A*:st/
+</pron>
+</form>
+<form type="inflected">
+casts, casting.
+</form>
+<IN>
+<IH>
+Cast 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cast of a play or film 
+</seg>
+so ljudje, ki igrajo v gledali&scaron;ki igri ali filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igralska zasedba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole cast worked wonderfully together.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast an actor 
+</seg>
+pomeni izbrati nekega igralca za dolo&ccaron;eno vlogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodeliti vlogo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was cast as the husband, a man of about fifty.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast one's eyes somewhere 
+</seg>
+pomeni nekam pogledati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i pogled, pogledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He cast a quick glance at his friend.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast doubt or suspicion on something 
+</seg>
+pomeni drugim vzbuditi negotovost o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasejati dvom, zbuditi dvom/pomislek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had cast doubt on our traditional beliefs.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast one's mind back
+</seg>
+ pomeni misliti na stvari iz preteklosti ali se jih poskusiti spomniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priklicati v spomin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He cast his mind back over the day.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+casts his vote in an election
+</seg>
+, glasuje na volitvah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Will had cast his vote for the President.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast an object 
+</seg>
+pomeni izdelati predmet tako, da zlijemo vro&ccaron;o, teko&ccaron;o kovino v posodo in jo pustimo, da se strdi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odliti, uliti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+casting
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+cast about 
+<VS>
+ali 
+</VS>
+<VV>
+cast around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To cast about 
+</seg>
+ali 
+<seg type="variant">
+to cast around for something 
+</seg>
+pomeni poskusiti nekaj najti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I cast around for some place to hide.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cast aside.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek 
+<seg type="lemma">
+casts someone or something aside
+</seg>
+, se tistega znebi; 
+</def>
+<usg>
+knji&zcaron;na raba, ki izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zavre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His country cast him aside and disgraced him.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+cast off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek 
+<seg type="lemma">
+casts something off
+</seg>
+, se ne&ccaron;esa znebi ali tistega ne uporablja ve&ccaron;; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odvre&ccaron;i, zavre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Organizations must cast off old-fashioned practices in order to survive.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+cast-off
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar &ccaron;lovek, ki je v &ccaron;olnu, 
+<seg type="lemma">
+casts off
+</seg>
+, odve&zcaron;e vrv, s katero je bil &ccaron;oln privezan k obali; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odriniti, izpluti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We cast off as quietly as we could.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

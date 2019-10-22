@@ -1,0 +1,143 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slight
+</orth>
+<form type="variant">
+<pron>
+/sl*a*It/
+</pron>
+</form>
+<form type="inflected">
+slighter, slightest; slights, slighting, slighted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+slight
+</seg>
+, je &scaron;tevil&ccaron;no ali koli&ccaron;insko zelo majhno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rahel, malenkosten, majhen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had a slight German accent.
+</quote>
+<quote>
+...after a slight hesitation.
+</quote>
+<quote>
+I haven&apos;t the slightest idea what you&apos;re talking about.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+slightly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+White wine should be slightly chilled.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in the slightest 
+</seg>
+poudarimo nikalno trditev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niti najmanj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My tennis hadn&apos;t improved in the slightest.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+slight
+</seg>
+, ima vitko in krhko telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+droben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I watched her slight figure cross the street.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slight someone 
+</seg>
+pomeni nekoga u&zcaron;aliti, ker z njim delamo, kot da je nepomemben. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omalova&zcaron;evati, podcenjevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His fear of being slighted made him avoid people.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was a slight on a past award-winner, Stevenson.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

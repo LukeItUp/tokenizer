@@ -1,0 +1,205 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+same
+</orth>
+<form type="variant">
+<pron>
+/s*e*Im/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+<seg>
+or 
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta dve stvari 
+<seg type="lemma">
+the same 
+</seg>
+ali kadar je ena stvar 
+<seg type="lemma">
+the same as another
+</seg>
+, sta dve stvari v ne&ccaron;em popolnoma enaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They both wore the same overcoats.
+</quote>
+<quote>
+He did exactly the same as John did.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar imata dve stvari neko lastnost, ki je 
+<seg type="lemma">
+the same
+</seg>
+, jo imata obe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He and Tom were exactly the same age.
+</quote>
+<quote>
+It was the same colour as the wall.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+same 
+</seg>
+poka&zcaron;emo, da govorimo samo o eni stvari in ne o dveh razli&ccaron;nih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+isti, eden in isti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We come from the same place.
+</quote>
+<quote>
+It was possible to work while watching TV at the same time.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRON 
+<seg>
+or 
+</seg>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+still the same
+</seg>
+, se ni v ni&ccaron;emer spremenilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The village stayed the same.
+</quote>
+<quote>
+He will never be the same again.
+</quote>
+<quote>
+It wouldn&apos;t improve me, I&apos;d be the same person I was before I saw it.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+<seg>
+or 
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+same 
+</seg>
+tudi poka&zcaron;emo, da govorimo o tistem, o &ccaron;emer smo govorili &zcaron;e prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+isti, enak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For the same reason, the United States lodged a formal protest.
+</quote>
+<quote>
+It&apos;s the same with teenage fashions.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+all the same 
+</seg>
+ali 
+<FV>
+just the same 
+</FV>
+poka&zcaron;emo, da se razmere ali na&scaron;e mnenje o njih ni spremenilo, ne glede na to, kar se je zgodilo ali kar je nekdo rekel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vseeno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew he wasn&apos;t listening, but she went on all the same.
+</quote>
+<quote>
+All the same, the courses are very popular.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+thanks all the same: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+thanks
+</ref>
+</xr>
+</B>
+</entry>

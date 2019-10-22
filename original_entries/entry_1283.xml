@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+biased
+</orth>
+<form type="variant">
+<pron>
+/b*a*I*@st/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+biased towards one thing
+</seg>
+, se bolj zanima za eno stvar kot za druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristranski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The university is biased towards the sciences.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+biased
+</seg>
+, daje prednost dolo&ccaron;eni osebi ali skupini in zato ne razsoja pravi&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristranski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am biased in favour of Eisenhower.
+</quote>
+</seg>
+</sense>
+</entry>

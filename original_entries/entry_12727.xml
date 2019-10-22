@@ -1,0 +1,186 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shade
+</orth>
+<form type="variant">
+<pron>
+/S*e*Id/
+</pron>
+</form>
+<form type="inflected">
+shades, shading, shaded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Shade 
+</seg>
+je obmo&ccaron;je, kjer je temno in hladno, ker sonce ne se&zcaron;e do tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+senca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are no trees or bushes to give shade.
+</quote>
+<quote>
+The air is cool in the shade.
+</quote>
+<quote>
+...the shade of a large oak tree.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kraj 
+<seg type="lemma">
+is shaded by something
+</seg>
+, zaradi ne&ccaron;esa svetloba ne more priti tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti zasen&ccaron;en, biti v senci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The broad walks are shaded by chestnut trees.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shade 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a lampshade
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sen&ccaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lamp with a thick silk shade.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The shades of a particular colour 
+</seg>
+so razli&ccaron;ice iste barve. Na primer, smaragdno zelena in olivno zelena sta razli&ccaron;ici zelene barve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtenek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...jackets in shades of pink, blue, and brown.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The shades of something abstract 
+</seg>
+so razli&ccaron;ice ne&ccaron;esa abstraktnega, zlasti kadar so razlike med njimi malenkostne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtenek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The phrase has many shades of meaning.
+</quote>
+<quote>
+...various shades of socialist opinion.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+shades into another thing
+</seg>
+, med tema dvema stvarema ni jasne meje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehajati, prelivati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...reds shading into pinks.
+</quote>
+</seg>
+</sense>
+</entry>

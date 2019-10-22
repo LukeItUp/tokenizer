@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+laurel
+</orth>
+<form type="variant">
+<pron>
+/l*Qr@0l/
+</pron>
+</form>
+<form type="inflected">
+laurels.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A laurel 
+</seg>
+je majhno zimzeleno drevo z gladkimi listi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lovor
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is resting on one&apos;s laurels
+</seg>
+, je zadovoljen s tistim, kar je &zcaron;e dosegel, in se ni&ccaron; ve&ccaron; ne trudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;ivati/spati na lovorikah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have no cause to rest on our laurels.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

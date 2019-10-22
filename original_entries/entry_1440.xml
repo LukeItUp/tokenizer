@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blunder
+</orth>
+<form type="variant">
+<pron>
+/bl*Vnd@/
+</pron>
+</form>
+<form type="inflected">
+blunders, blundering, blundered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blunder 
+</seg>
+pomeni narediti neumno ali lahkomiselno napako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogre&scaron;iti, ustreliti kozla
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I might have committed some dreadful blunder.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blunder somewhere 
+</seg>
+pomeni nerodno in neprevidno se nekam premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udariti se, zadeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She blundered into a tree.
+</quote>
+</seg>
+</sense>
+</entry>

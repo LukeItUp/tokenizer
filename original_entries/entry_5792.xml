@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frosty
+</orth>
+<form type="variant">
+<pron>
+/fr*Qsti1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je vreme 
+<seg type="lemma">
+frosty
+</seg>
+, je temperatura zraka pod ledi&scaron;&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ledeno mrzel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a still and frosty night.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je
+<seg type="lemma">
+ frosty
+</seg>
+, je neprijazen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hladen, brez&ccaron;uten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a frosty glance.
+</quote>
+</seg>
+</sense>
+</entry>

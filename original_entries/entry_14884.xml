@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+true
+</orth>
+<form type="variant">
+<pron>
+/tr*u*:/
+</pron>
+</form>
+<form type="inflected">
+truer, truest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zgodba ali trditev, ki je 
+<seg type="lemma">
+true
+</seg>
+, temelji na dejstvih in ni izmi&scaron;ljena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+resni&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The story about the murder is true.
+</quote>
+<quote>
+Unfortunately it was true about Sylvie.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+True 
+</seg>
+pomeni tudi pristen ali zna&ccaron;ilen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravi, pristen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She smiled with true amusement.
+</quote>
+<quote>
+...true democracy.
+</quote>
+<quote>
+He&apos;s a true American, in every respect.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sanje, &zcaron;elje ali napovedi 
+<seg type="lemma">
+come true
+</seg>
+, se res zgodijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uresni&ccaron;iti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be true to one&apos;s word 
+</seg>
+pomeni, da nekdo naredi tisto, kar je obljubil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati besedo
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

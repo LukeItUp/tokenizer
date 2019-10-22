@@ -1,0 +1,200 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plunge
+</orth>
+<form type="variant">
+<pron>
+/pl*VndZ/
+</pron>
+</form>
+<form type="inflected">
+plunges, plunging, plunged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+plunges in a particular direction
+</seg>
+, pade v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potopiti se; sko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The car plunged into the river.
+</quote>
+<quote>
+They plunged into the pool together.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They were relying on the plunge into icy waters to kill me.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plunge an object into something 
+</seg>
+pomeni neki predmet hitro in na silo potisniti v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti, zariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She plunged her hands into her coat pockets.
+</quote>
+<quote>
+He plunged the knife into her breast.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plunge someone or something into a state 
+</seg>
+pomeni povzro&ccaron;iti, da se nekdo ali nekaj nenadoma znajde v dolo&ccaron;enem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti, pahniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hall was plunged into darkness.
+</quote>
+<quote>
+...the danger of plunging society into chaos and anarchy.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plunge into an activity 
+</seg>
+pomeni, da nekdo naenkrat za&ccaron;ne nekaj delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spustiti se, vre&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She plunged bravely into the debate.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar koli&ccaron;ina ali stopnja 
+<seg type="lemma">
+plunges
+</seg>
+, se hitro in nenadoma zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sales have plunged by 24%.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take the plunge 
+</seg>
+pomeni odlo&ccaron;iti se, da bomo naredili nekaj, kar se nam zdi te&zcaron;avno ali tvegano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opogumiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Take the plunge and start your own firm.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

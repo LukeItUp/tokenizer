@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pluck
+</orth>
+<form type="variant">
+<pron>
+/pl*Vk/
+</pron>
+</form>
+<form type="inflected">
+plucks, plucking, plucked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pluck something from somewhere 
+</seg>
+pomeni nekaj prijeti in s hitrim gibom potegniti ven; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izpuliti; odtrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He plucked a tomato and offered it to Hilda.
+</quote>
+<quote>
+He laughed and plucked the paper from my hand.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pluck a chicken 
+</seg>
+pomeni odstraniti perje pi&scaron;&ccaron;ancu ali drugi mrtvi ptici, preden jo skuhamo ali spe&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oskubiti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pluck a guitar 
+</seg>
+pomeni s prsti prijeti strune na kitari ali drugem in&scaron;trumentu s strunami in jih nato spustiti, da nastane zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brenkati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pluck up the courage to do something 
+</seg>
+pomeni premagati strah in narediti nekaj, &ccaron;esar se bojimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati pogum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I eventually plucked up enough courage to go in.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

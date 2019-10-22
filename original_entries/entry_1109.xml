@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bass
+</orth>
+<form type="variant">
+<pron>
+/b*e*Is/
+</pron>
+</form>
+<form type="inflected">
+basses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bass 
+</seg>
+je pevec z globokim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+basist
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z glasbenim in&scaron;trumentom, ki je 
+<seg type="lemma">
+bass
+</seg>
+, lahko igramo zelo nizke tone. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+basovski, bas
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+MUSICAL INSTRUMENTS
+</QZ>
+.
+</QP>
+</sense>
+</entry>

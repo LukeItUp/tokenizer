@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+estimate,
+</orth>
+<form type="inflected">
+estimates, estimating, estimated;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/*estImeIt/
+</pron>
+, samostalnik pa
+<pron>
+/*estIm@1t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To estimate an amount or a quantity 
+</seg>
+pomeni pribli&zcaron;no izra&ccaron;unati neki znesek ali koli&ccaron;ino ali re&ccaron;i, kolik&scaron;na najverjetneje bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti, presoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were not able to estimate the cost.
+</quote>
+<quote>
+He estimated he would do the hundred miles by noon.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+estimated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In 1975 there were an estimated 6,000 children in community homes.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An estimate 
+</seg>
+je pribli&zcaron;ni izra&ccaron;un. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ocena, cenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+According to some estimates the number of farms has increased by 50 per cent.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An estimate 
+</seg>
+je tudi sodba o neki osebi ali razmerah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mnenje, ocena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thomas wasn't living up to my estimate of him.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flag
+</orth>
+<form type="variant">
+<pron>
+/fl*&ae;g/
+</pron>
+</form>
+<form type="inflected">
+flags, flagging, flagged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flag 
+</seg>
+je kos barvastega blaga, ki ga uporabljamo za znamenje ali simbol ne&ccaron;esa, na primer dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ship flying a foreign flag.
+</quote>
+<quote>
+The guard blew his whistle and waved his flag.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To flag 
+</seg>
+pomeni za&ccaron;eti izgubljati navdu&scaron;enje ali mo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kloniti, pe&scaron;ati, slabeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They showed signs of flagging.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+flagging
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She tried to revive their flagging energies.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+flag down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To flag down a vehicle 
+</seg>
+pomeni vozniku dati znamenje, naj ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaviti vozilo (z mahanjem)
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

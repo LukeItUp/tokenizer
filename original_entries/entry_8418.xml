@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+location
+</orth>
+<form type="variant">
+<pron>
+/l@Uk*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+locations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A location 
+</seg>
+je kraj, zlasti tak, kjer se nekaj dogaja ali le&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostor, lokacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Election officials ran out of ballot papers at six locations.
+</quote>
+<quote>
+The new job involves a new employer and a new location.
+</quote>
+<quote>
+...the size and location of your office.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar film snemamo 
+<seg type="lemma">
+on location
+</seg>
+, ga snemamo zunaj studia. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na terenu
+</quote>
+</cit>
+</sense>
+</entry>

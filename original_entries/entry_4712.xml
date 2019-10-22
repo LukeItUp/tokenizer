@@ -1,0 +1,167 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enough
+</orth>
+<form type="variant">
+<pron>
+/i1n*Vf/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+DET 
+<seg>
+or 
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Enough 
+</seg>
+pomeni toliko, kot potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovolj, zadosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven't enough room.
+</quote>
+<quote>
+I hope it's enough.
+</quote>
+<quote>
+I had not seen enough of his work.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The fact that he did so much is proof enough.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRON 
+<seg>
+or 
+</seg>
+DET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za nekaj re&ccaron;emo, da je 
+<seg type="lemma">
+enough
+</seg>
+, ho&ccaron;emo povedati, da no&ccaron;emo, da bi se nadaljevalo ali slab&scaron;alo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I've had enough of the both of you.
+</quote>
+<quote>
+Don't tell me. I've got enough problems.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This thing is complicated enough already.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+enough 
+</seg>
+povemo, da ima nekdo ali nekaj potrebno koli&ccaron;ino kakovosti ali da se nekaj dogaja do potrebne mere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was old enough to understand.
+</quote>
+<quote>
+The student isn't trying hard enough.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazi, kot sta 
+<seg type="lemma">
+strangely enough 
+</seg>
+in 
+<FV>
+interestingly enough 
+</FV>
+povemo, da je neko dejstvo za nas nenavadno ali zanimivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presenetljivo, za&ccaron;uda; zanimivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Oddly enough, I do believe you.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+sure enough: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+sure
+</ref>
+</xr>
+</B>
+</entry>

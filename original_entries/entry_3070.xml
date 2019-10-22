@@ -1,0 +1,182 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cost
+</orth>
+<form type="variant">
+<pron>
+/k*Qst/
+</pron>
+</form>
+<form type="inflected">
+costs, costing.
+</form>
+<IN>
+<IH>
+Cost 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cost of something 
+</seg>
+je znesek, ki ga potrebujemo, da nekaj kupimo, storimo ali izdelamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cena, stro&scaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The total cost of the holiday was &pound;300.
+</quote>
+<quote>
+The building was restored at a cost of &pound;500,000.
+</quote>
+<quote>
+...the huge increases in fuel costs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+cost 
+</seg>
+uporabljamo, ko govorimo o denarnem znesku, ki ga moramo za kaj pla&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Those books cost &pound;2.95 each.
+</quote>
+<quote>
+A two-day stay there cost me $125.
+</quote>
+<quote>
+A freezer doesn't cost much to run.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cost of achieving something 
+</seg>
+je izguba, &scaron;koda ali po&scaron;kodba, ki nastane zato, da nekaj dose&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cena, &zcaron;rtev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cost in human life had been enormous.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neki dogodek ali napaka 
+<seg type="lemma">
+costs someone something
+</seg>
+, nekdo nekaj izgubi zaradi nekega dogodka ali napake. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stati, veljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A single error here could cost you your life.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo, da mora biti nekaj narejeno 
+<seg type="lemma">
+at all costs
+</seg>
+, poudarimo, da je pomembno, da tisto naredimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za vsako ceno
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

@@ -5,18 +5,19 @@ anaesthetic
 </orth>
 <form type="variant">
 <pron>
-/*#ae;n@sT*etIk/
+/*&ae;n@sT*etIk/
 </pron>
 </form>
 <form type="inflected">
 anaesthetics;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-anesthetic.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+anesthetic
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -26,10 +27,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An anaesthetic
+An anaesthetic 
 </seg>
-je snov, ki nam pre&#382;ene
-bole&#269;ino, zlasti med operacijo.
+je snov, ki nam pre&zcaron;ene bole&ccaron;ino, zlasti med operacijo.
 </def>
 <cit type="translationEquivalent">
 <quote>

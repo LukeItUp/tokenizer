@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+coexist
+</orth>
+<form type="variant">
+<pron>
+/k*@*UI2gz*Ist/
+</pron>
+</form>
+<form type="inflected">
+coexists, coexisting, coexisted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e dve ali ve&ccaron; stvari 
+<seg type="lemma">
+coexist
+</seg>
+, obstajajo ob istem &ccaron;asu ali na istem prostoru.
+</def>
+<cit type="translationEquivalent">
+<quote>
+hkrati bivati, koeksistirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Large numbers of species coexist here.
+</quote>
+<quote>
+The forest peoples can coexist with the forest.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+coexistence
+</orth>
+<form type="variant">
+<pron>
+/k*@*UI2gz*Ist@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the need for peaceful coexistence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

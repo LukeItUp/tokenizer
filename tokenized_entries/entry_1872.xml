@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p94_s102855" id="p94_w687" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="281.222" base="287.63" width="21.0911" height="8.514">cabin</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p94_s102856" id="p94_w688" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="76.99" y="282.468" base="287.63" width="28.2216" height="6.844">/k&#230;b&#203;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p94_s102857" id="p94_w689" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="106.65" y="282.29" base="287.63" width="21.6014" height="7.08">cabins.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p94_s102859" id="p94_w691" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.76" y="283.714" base="287.63" width="18.5298" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p94_s102860" id="p94_w692" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="155.269" y="283.714" base="287.63" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p94_s102861" id="p94_w693" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="160.88" y="281.934" base="287.63" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p94_s102862" id="p94_w694" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.92" y="281.934" base="287.63" width="18.1512" height="7.552">cabin</TOKEN>
+</seg>
+<TOKEN sid="p94_s102863" id="p94_w695" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="187.5" y="281.934" base="287.63" width="5.83632" height="7.552">je</TOKEN>
+<TOKEN sid="p94_s102864" id="p94_w696" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.775" y="281.934" base="287.63" width="20.7936" height="7.552">sobica</TOKEN>
+<TOKEN sid="p94_s102865" id="p94_w697" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.008" y="281.934" base="287.63" width="8.24112" height="7.552">na</TOKEN>
+<TOKEN sid="p94_s102866" id="p94_w698" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="226.689" y="281.934" base="287.63" width="14.9501" height="7.552">ladji</TOKEN>
+<TOKEN sid="p94_s102867" id="p94_w699" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1801" y="291.014" base="296.71" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p94_s102868" id="p94_w700" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="72.027" y="291.014" base="296.71" width="21.5957" height="7.552">letalu.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p94_s102870" id="p94_w702" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="103.96" y="291.014" base="296.71" width="25.5946" height="7.552">kabina,</TOKEN>
+<TOKEN sid="p94_s102871" id="p94_w703" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.603" y="291.014" base="296.71" width="23.9962" height="7.552">kajuta;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p94_s102872" id="p94_w704" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.66" y="291.014" base="296.71" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p94_s102873" id="p94_w705" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="180.708" y="291.014" base="296.71" width="16.3915" height="7.552">First</TOKEN>
+<TOKEN sid="p94_s102874" id="p94_w706" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="200.149" y="291.014" base="296.71" width="17.9899" height="7.552">Class</TOKEN>
+<TOKEN sid="p94_s102875" id="p94_w707" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="221.189" y="291.014" base="296.71" width="20.4012" height="7.552">cabin.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p94_s102877" id="p94_w709" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="67.23" y="301.874" base="305.79" width="18.9709" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p94_s102878" id="p94_w710" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="87.8403" y="301.874" base="305.79" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p94_s102879" id="p94_w711" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="94.34" y="300.094" base="305.79" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p94_s102880" id="p94_w712" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="102.33" y="300.094" base="305.79" width="18.7906" height="7.552">cabin</TOKEN>
+</seg>
+<TOKEN sid="p94_s102881" id="p94_w713" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.5" y="300.094" base="305.79" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p94_s102882" id="p94_w714" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.876" y="300.094" base="305.79" width="13.9946" height="7.552">tudi</TOKEN>
+<TOKEN sid="p94_s102883" id="p94_w715" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.251" y="300.094" base="305.79" width="24.3972" height="7.552">manj{a</TOKEN>
+<TOKEN sid="p94_s102884" id="p94_w716" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.028" y="300.094" base="305.79" width="21.1932" height="7.552">lesena</TOKEN>
+<TOKEN sid="p94_s102885" id="p94_w717" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.6" y="300.094" base="305.79" width="15.9955" height="7.552">hi{a.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p94_s102887" id="p94_w719" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.59" y="300.094" base="305.79" width="18.0014" height="7.552">ko~a,</TOKEN>
+<TOKEN sid="p94_s102888" id="p94_w720" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="309.174" base="314.87" width="21.5892" height="7.552">koliba</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

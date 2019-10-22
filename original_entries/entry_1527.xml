@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+boss
+</orth>
+<form type="variant">
+<pron>
+/b*Qs/
+</pron>
+</form>
+<form type="inflected">
+bosses, bossing, bossed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's boss 
+</seg>
+je &ccaron;lovek, odgovoren za organizacijo, v kateri delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;ef
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be one's own boss 
+</seg>
+pomeni delati zase ali imeti mo&zcaron;nost kaj storiti, ne da bi prosili druge za dovoljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam svoj gospodar
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To boss someone 
+</seg>
+pomeni nekomu govoriti, kaj mora delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They've bossed us around enough.
+</quote>
+</seg>
+</sense>
+</entry>

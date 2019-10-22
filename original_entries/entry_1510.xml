@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+boost
+</orth>
+<form type="variant">
+<pron>
+/b*u*:st/
+</pron>
+</form>
+<form type="inflected">
+boosts, boosting, boosted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+boosts something
+</seg>
+, povzro&ccaron;i, da tisto naraste ali se pove&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This new technology will boost food production.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This will be a great boost to the economy.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+boosts our confidence or morale
+</seg>
+, izbolj&scaron;a na&scaron;o samozavest ali moralo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi, dvigniti, okrepiti
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a boost to self-confidence.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

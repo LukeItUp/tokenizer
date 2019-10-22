@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+medication
+</orth>
+<form type="variant">
+<pron>
+/m*edIk*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+medications.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Medication 
+</seg>
+je druga beseda za 
+<ref>
+medicine
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The doctor can prescribe medication to relieve the symptoms.
+</quote>
+<quote>
+Don&apos;t forget your medication.
+</quote>
+</seg>
+</sense>
+</entry>

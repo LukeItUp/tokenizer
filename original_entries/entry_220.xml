@@ -5,7 +5,7 @@ adult
 </orth>
 <form type="variant">
 <pron>
-/*#ae;dVlt, @3d*Vlt/
+/*&ae;dVlt, @3d*Vlt/
 </pron>
 </form>
 <form type="inflected">
@@ -20,14 +20,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An adult
+An adult 
 </seg>
-je zrel, povsem razvit &#269;lovek ali
-&#382;ival.
+je zrel, povsem razvit &ccaron;lovek ali &zcaron;ival. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-odrasel; odrasla &#382;ival
+odrasel; odrasla &zcaron;ival
 </quote>
 </cit>
 <seg type="example">
@@ -35,7 +34,7 @@ odrasel; odrasla &#382;ival
 A happy home is one in which children and adults have equal rights.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ATTRIB ADJ
@@ -46,7 +45,7 @@ ATTRIB ADJ
 ...adult insects.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -55,12 +54,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 adult
 </seg>
-je primerno za odrasle
-ljudi.
+, je primerno za odrasle ljudi. 
 </def>
 <cit type="translationEquivalent">
 <quote>

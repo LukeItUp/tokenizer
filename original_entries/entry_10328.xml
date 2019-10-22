@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peal
+</orth>
+<form type="variant">
+<pron>
+/p*i*:l/
+</pron>
+</form>
+<form type="inflected">
+peals, pealing, pealed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zvonovi 
+<seg type="lemma">
+peal
+</seg>
+, zvonijo drug za drugim, da nastane melodija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritrkavati; doneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nearby church bells pealed across the quiet city.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The peals can be overwhelming for people living nearby.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A peal of laughter or thunder
+</seg>
+ je dolg, glasen niz zvokov pri smejanju ali grmenju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krohot; grmenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...bursting into peals of laughter.
+</quote>
+</seg>
+</sense>
+</entry>

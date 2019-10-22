@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tally
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;li1/
+</pron>
+</form>
+<form type="inflected">
+tallies, tallying, tallied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tally 
+</seg>
+je neuradno zapisovanje koli&ccaron;in, ki jih postopoma dodajamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+evidenca, seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can you keep a tally of your own marks, please?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &scaron;tevilki ali trditvi 
+<seg type="lemma">
+tally
+</seg>
+, sta enaki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ujemati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ve checked their stories and they don&apos;t quite tally.
+</quote>
+<quote>
+The amount she mentioned failed to tally with the figure shown in the records.
+</quote>
+</seg>
+</sense>
+</entry>

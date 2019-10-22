@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sad
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;d/
+</pron>
+</form>
+<form type="inflected">
+sadder, saddest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sad 
+</seg>
+pomeni, da nismo sre&ccaron;ni, navadno zato, ker se je zgodilo nekaj takega, kar nam ni v&scaron;e&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked sad.
+</quote>
+<quote>
+He was sad to see her go.
+</quote>
+<quote>
+...a sad face.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sadly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He shook his head sadly.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+sadness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The news filled him with sadness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+sad
+</seg>
+, na nas deluje tako, da postanemo &zcaron;alostni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She told Susan there was some sad news for her.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sadness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the indescribable sadness of those final pages.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sad 
+</seg>
+opisujemo tudi neugodne okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alosten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sad fact is that full employment may never be regained.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sadly
+</orth>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+One aspect of education today has been sadly neglected.
+</quote>
+<quote>
+Sadly, we don&apos;t appear to have much chance of getting the contract.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

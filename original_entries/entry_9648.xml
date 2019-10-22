@@ -1,0 +1,258 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+notice
+</orth>
+<form type="variant">
+<pron>
+/n*@*UtIs/
+</pron>
+</form>
+<form type="inflected">
+notices, noticing, noticed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+notices something
+</seg>
+, se ne&ccaron;esa zave ali nekaj zazna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opaziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I suddenly noticed a friend in the front row.
+</quote>
+<quote>
+She noticed him scratching his head.
+</quote>
+<quote>
+She noticed that he was staring at her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A notice 
+</seg>
+je pisno obvestilo na kraju, kjer ga lahko vsak prebere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napis, obvestilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At the main entrance, there was a large notice which said &lsquo;Visitors welcome at any time.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+gives notice of something
+</seg>
+, opozori druge na to, kar se bo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napovedati, obvestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The union was to give 28 days&apos; notice of strikes.
+</quote>
+<quote>
+She could have done it if she&apos;d had a bit more notice.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+takes notice of something
+</seg>
+, posveti pozornost temu, kar re&ccaron;e ali naredi nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opaziti, upo&scaron;tevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hope the heads of schools will take notice of my comments.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+takes no notice of someone
+</seg>
+, tiste osebe ne upo&scaron;teva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne meniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Take no notice of him. He&apos;s always rude to people.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+comes to one&apos;s notice 
+</seg>
+ali 
+<FV>
+is brought to one&apos;s notice
+</FV>
+, se &ccaron;lovek za&ccaron;ne tistega zavedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postati pozoren na, biti opozorjen na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many cases have come to my notice.
+</quote>
+<quote>
+We bring to the notice of the committee things that ought to be done.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+escapes one&apos;s notice
+</seg>
+, &ccaron;lovek tistega ne opazi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It did not escape her notice that he kept glancing at her.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj naredi 
+<seg type="lemma">
+at short notice 
+</seg>
+ali 
+<FV>
+at a moment&apos;s notice
+</FV>
+, za tisto izve le malo prej, preden mora to narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v zelo kratkem &ccaron;asu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s going to be difficult to fix things at such short notice.
+</quote>
+<quote>
+It is there ready to be switched on at a moment&apos;s notice.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e bodo razmere obstajale 
+<seg type="lemma">
+until further notice
+</seg>
+, se bodo nadaljevale, dokler ne bo kdo poskrbel za spremembo ali dolo&ccaron;il druga&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do nadaljnjega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The beaches are closed until further notice.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar delodajalec 
+<seg type="lemma">
+gives someone notice
+</seg>
+, ga obvesti, da bo &ccaron;ez dolo&ccaron;en &ccaron;as izgubil slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had been given two weeks&apos; notice at the Works.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+hands in one&apos;s notice
+</seg>
+, obvesti delodajalca, da namerava &ccaron;ez dolo&ccaron;en &ccaron;as nehati delati pri njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati odpoved
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

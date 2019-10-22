@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tale
+</orth>
+<form type="variant">
+<pron>
+/t*e*Il/
+</pron>
+</form>
+<form type="inflected">
+tales.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tale 
+</seg>
+je zgodba, zlasti taka, ki govori o pustolov&scaron;&ccaron;inah ali &ccaron;ude&zcaron;nih dogodkih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodba, pripoved(ka)
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tale 
+</seg>
+je tudi opis zanimivega resni&ccaron;nega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everyone had some tale to tell about the very cold winter.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+old wives&apos; tale
+</ref>
+</xr>
+</sense>
+</entry>

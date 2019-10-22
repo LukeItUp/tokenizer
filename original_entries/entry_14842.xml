@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trigger
+</orth>
+<form type="variant">
+<pron>
+/tr*Ig@/
+</pron>
+</form>
+<form type="inflected">
+triggers, triggering, triggered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The trigger of a gun 
+</seg>
+je majhen vzvod pri pu&scaron;ki, ki ga potegnemo, ko &zcaron;elimo ustreliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;ilec, petelin
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+triggers an event 
+</seg>
+ali 
+<seg type="lemma">
+triggers an event off
+</seg>
+, povzro&ccaron;i dolo&ccaron;en dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti, povzro&ccaron;iti
+</quote>
+</cit>
+</sense>
+</entry>

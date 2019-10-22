@@ -1,0 +1,528 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mind
+</orth>
+<form type="variant">
+<pron>
+/m*a*Ind/
+</pron>
+</form>
+<form type="inflected">
+minds, minding, minded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s mind 
+</seg>
+je zmo&zcaron;nost mi&scaron;ljenja. Kadar je nekaj 
+<seg type="lemma">
+in one&apos;s mind
+</seg>
+, pomeni, da o tistem &ccaron;lovek razmi&scaron;lja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+um
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the evolution of the human mind.
+</quote>
+<quote>
+He could hear in his mind the wailings of the women.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+doesn&apos;t mind something
+</seg>
+, ga nekaj ne jezi ali moti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; imeti proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t mind personal questions at all.
+</quote>
+<quote>
+I don&apos;t mind walking.
+</quote>
+<quote>
+Do you mind if I stay here?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mind 
+</seg>
+re&ccaron;emo tudi, kadar ho&ccaron;emo nekoga opozoriti, naj bo previden, da se ne bo po&scaron;kodoval ali povzro&ccaron;il &scaron;kode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paziti na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mind the ice on the step as you go.
+</quote>
+<quote>
+Mind my specs!
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+minds something
+</seg>
+, nekaj &ccaron;asa nekaj ali nekoga nadzoruje, na primer otroka, trgovino ali prtljago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My mother is minding the office.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+takes one&apos;s mind off a problem
+</seg>
+, pomaga &ccaron;loveku, da za nekaj &ccaron;asa pozabi na te&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvrniti misli
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;loveku nekaj 
+<seg type="lemma">
+comes to mind
+</seg>
+, se spomni tistega brez posebnega truda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti na misel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I just pick up whatever groceries come to mind.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekomu re&ccaron;emo 
+<seg type="lemma">
+bear something in mind 
+</seg>
+ali 
+<FV>
+keep something in mind
+</FV>
+, mu naro&ccaron;imo, naj si tisto zapomni, ker je pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&scaron;tevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bear in mind that these are sixty-five-year-old men.
+</quote>
+<quote>
+It is important to keep in mind that these words are clues.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+one&apos;s mind is on something
+</seg>
+ povemo, da &ccaron;lovek misli na tisto stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti z mislimi pri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her mind was not on the announcements she was making.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+on one's mind
+</seg>
+, je nekdo zaradi tistega zaskrbljen in o tistem veliko razmi&scaron;lja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v mislih
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+has something in mind
+</seg>
+, ima namen tisto dobiti ali narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti v mislih, nameravati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It will be up to her to tell you what she has in mind.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+has a good mind to do something
+</seg>
+, bi tisto rad naredil, &ccaron;eprav verjetno ne bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameravati, imeti resen namen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve a good mind to punish you for behaving so badly.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+puts one&apos;s mind to something
+</seg>
+, ne&ccaron;emu posveti veliko energije, dela in pozornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavzeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You could get a job in London, if you put your mind to it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to my mind 
+</seg>
+uporabimo, kadar ho&ccaron;emo opozoriti, da izra&zcaron;amo svoje lastno mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po mojem mnenju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The worst part of air travel to my mind is the hanging around in airport lounges.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+has an open mind
+</seg>
+, si &scaron;e ni ustvaril mnenja o neki zadevi in &ccaron;aka, dokler ne bo poznal vseh dejstev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti odprt za stali&scaron;&ccaron;a
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes one&apos;s mind up
+</seg>
+, sklene, katero izmed ve&ccaron; mo&zcaron;nosti bo uporabil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to make up our minds quickly, or they&apos;ll go without us.
+</quote>
+<quote>
+My mind&apos;s made up.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+changes one&apos;s mind
+</seg>
+, spremeni svojo prej&scaron;njo odlo&ccaron;itev ali mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premisliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All of a sudden I changed my mind and decided not to go anywhere.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+in two minds about something
+</seg>
+, se ne more odlo&ccaron;iti, ali bi tisto naredil ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omahovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was very much in two minds whether to apply for the Cambridge job.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek vidi nekaj 
+<seg type="lemma">
+in one&apos;s mind&apos;s eye
+</seg>
+, si tisto predstavlja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstavljati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In her mind&apos;s eye, she had pictured herself in the new house.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s state of mind 
+</seg>
+je stanje &ccaron;lovekove du&scaron;evnosti v dolo&ccaron;enem trenutku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+du&scaron;evno stanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was in a fairly disturbed state of mind.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+cross 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+mind: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+cross
+</ref>
+</xr>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+wouldn&apos;t mind something
+</seg>
+, bi nekaj prav rad naredil; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+z veseljem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wouldn&apos;t mind a Renault myself.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+never mind 
+</seg>
+uporabimo, kadar ho&ccaron;emo pomiriti nekoga, ki je razburjen ali razo&ccaron;aran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; hudega
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Prav tako uporabimo 
+<seg type="lemma">
+never mind
+</seg>
+, &ccaron;e ho&ccaron;emo re&ccaron;i, da nekaj ni pomembno, zlasti kadar se nam nekdo opravi&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; hudega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some of their towels are soaking wet, but never mind.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+mind you 
+</seg>
+uporabimo, ko svojim prej&scaron;njim besedam dodamo &scaron;e nekaj, zlasti nasprotujo&ccaron;ega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudarjam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Charles is fit and well. Not happy, mind you, just fit and well.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+mind 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+own business: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+business
+</ref>
+</xr>
+</B>
+</entry>

@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p325_s356864" id="p325_w779" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="372.052" base="378.46" width="53.6598" height="8.514">grandmother</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p325_s356865" id="p325_w780" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="312.4" y="373.298" base="378.46" width="24.28" height="6.844">/gr&#230;nd</TOKEN>
+<TOKEN sid="p325_s356866" id="p325_w781" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="337.04" y="372.66" base="376.07" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p325_s356867" id="p325_w782" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="339.68" y="373.298" base="378.46" width="22.5616" height="6.844">m&#216;&#200;6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p325_s356868" id="p325_w783" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="365.83" y="373.12" base="378.46" width="47.2419" height="7.08">grandmothers.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p325_s356869" id="p325_w784" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="416.66" y="374.544" base="378.46" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p325_s356870" id="p325_w785" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="438.111" y="374.544" base="378.46" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p325_s356871" id="p325_w786" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="381.844" base="387.54" width="18.2477" height="7.552">One's</TOKEN>
+<TOKEN sid="p325_s356872" id="p325_w787" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.587" y="381.844" base="387.54" width="43.6896" height="7.552">grandmother</TOKEN>
+</seg>
+<TOKEN sid="p325_s356873" id="p325_w788" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.89" y="381.844" base="387.54" width="5.92632" height="7.552">je</TOKEN>
+<TOKEN sid="p325_s356874" id="p325_w789" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="333.346" y="381.844" base="387.54" width="15.3886" height="7.552">mati</TOKEN>
+<TOKEN sid="p325_s356875" id="p325_w790" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.264" y="381.844" base="387.54" width="17.7221" height="7.552">o~eta</TOKEN>
+<TOKEN sid="p325_s356876" id="p325_w791" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="369.515" y="381.844" base="387.54" width="8.65584" height="7.552">ali</TOKEN>
+<TOKEN sid="p325_s356877" id="p325_w792" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.7" y="381.844" base="387.54" width="23.1862" height="7.552">matere</TOKEN>
+<TOKEN sid="p325_s356878" id="p325_w793" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.415" y="381.844" base="387.54" width="15.7846" height="7.552">neke</TOKEN>
+<TOKEN sid="p325_s356879" id="p325_w794" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="421.729" y="381.844" base="387.54" width="20.4444" height="7.552">osebe.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p325_s356881" id="p325_w796" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.05" y="390.924" base="396.62" width="17.1979" height="7.552">stara</TOKEN>
+<TOKEN sid="p325_s356882" id="p325_w797" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.248" y="390.924" base="396.62" width="15.6002" height="7.552">mati</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

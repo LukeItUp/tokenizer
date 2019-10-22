@@ -1,0 +1,188 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+desert,
+</orth>
+<form type="inflected">
+deserts, deserting, deserted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/d*ez@t/
+</pron>
+, glagol pa 
+<pron>
+/di1z*$e*:t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A desert 
+</seg>
+je veliko ozemlje, kjer je zelo malo vode ali de&zcaron;ja in malo rastlin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pu&scaron;&ccaron;ava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Sahara Desert.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ljudje 
+<seg type="lemma">
+desert a place
+</seg>
+, zapustijo neki kraj, ki zato ostane prazen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapustiti, oditi
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+deserted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a deserted village.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+deserts someone
+</seg>
+, nekoga zapusti in mu ne pomaga ve&ccaron; ali ga ne podpira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She deserted her family.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+desertion
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She could get a divorce on the grounds of desertion.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+deserts from the armed forces
+</seg>
+, odide iz vojske brez dovoljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dezertirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+desertion
+</orth>
+<form type="variant">
+<pron>
+/di1z*$e*:S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the desertion of young conscripts.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+deserter
+</orth>
+<form type="variant">
+<pron>
+/di1z*$e*:t@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a deserter from the British army.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

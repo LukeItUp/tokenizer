@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+battle
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;t@0l/
+</pron>
+</form>
+<form type="inflected">
+battles, battling, battled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V vojni je 
+<seg type="lemma">
+a battle 
+</seg>
+spopad med vojskami ali skupinami ladij ali letal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bitka, boj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Battle of Balaclava.
+</quote>
+<quote>
+The general was killed in battle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A battle 
+</seg>
+je tudi proces, v katerem se dve osebi ali skupini bojujeta za oblast ali posku&scaron;ata dose&ccaron;i vsaka nekaj nasprotnega kot druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the battle between the sexes.
+</quote>
+<quote>
+...his battle for control of the administration.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To battle 
+</seg>
+pomeni na vse kriplje si prizadevati za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojevati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dad was soon battling for his life.
+</quote>
+</seg>
+</sense>
+</entry>

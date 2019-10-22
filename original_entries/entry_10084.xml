@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overthrow,
+</orth>
+<form type="inflected">
+overthrows, overthrowing, overthrew
+</form>
+<form type="variant">
+<pron>
+/*@*Uv@Tr*u*:/
+</pron>
+</form>
+<form type="inflected">
+overthrown
+</form>
+<form type="variant">
+<pron>
+/*@*Uv@Tr*@*Un/
+</pron>
+;
+</form>
+<PN>
+Kadar je beseda 
+<PP>
+overthrow 
+</PP>
+glagol, jo izgovarjamo 
+<pron>
+/*@*Uv@Tr*@*U/
+</pron>
+, kadar je samostalnik, pa 
+<pron>
+/*@*Uv@Tr@U/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To overthrow a government or a leader 
+</seg>
+pomeni s silo odstraniti vlado ali politi&ccaron;nega voditelja z oblasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strmoglaviti, zru&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was arrested for attempting to overthrow the regime.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the overthrow of the dictator.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka ideja, vrednota ali merilo 
+<seg type="lemma">
+is overthrown
+</seg>
+, ga nadomesti drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+propasti; zamenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Laws are openly violated, standards of behaviour are overthrown.
+</quote>
+</seg>
+</sense>
+</entry>

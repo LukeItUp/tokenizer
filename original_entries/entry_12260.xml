@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sabotage
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;b@tA:Z/
+</pron>
+</form>
+<form type="inflected">
+sabotages, sabotaging, sabotaged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sabotage something 
+</seg>
+pomeni nekaj namerno po&scaron;kodovati ali uni&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sabotirati, uni&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The power station had been sabotaged by anti-government guerrillas.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...widespread sabotage and the disruption of rail communications.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sabotage a plan or activity 
+</seg>
+pomeni namerno prepre&ccaron;iti uspe&scaron;no izvedbo na&ccaron;rta ali dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sabotirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t wish to be accused of sabotaging the President&apos;s programme.
+</quote>
+</seg>
+</sense>
+</entry>

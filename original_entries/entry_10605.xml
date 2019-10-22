@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pipeline
+</orth>
+<form type="variant">
+<pron>
+/p*a*IplaIn/
+</pron>
+</form>
+<form type="inflected">
+pipelines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pipeline 
+</seg>
+je velika cev, po kateri te&ccaron;e nafta ali plin prek velikih razdalj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cevovod
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in the pipeline
+</seg>
+, je &zcaron;e na&ccaron;rtovano ali se je &zcaron;e za&ccaron;elo izvajati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v teku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+More improvements were in the pipeline.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -7,42 +7,43 @@
 <pron>
 <TOKEN sid="p24_s26041" id="p24_w790" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="305.61" y="373.298" base="378.46" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p24_s26042" id="p24_w791" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="312.1" y="372.66" base="376.07" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p24_s26043" id="p24_w792" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="314.73" y="373.298" base="378.46" width="36.5016" height="6.844">niÂsÒ6tËst/,</TOKEN>
+<TOKEN sid="p24_s26043" id="p24_w792" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="314.73" y="373.298" base="378.46" width="36.5016" height="6.844">ni&#194;s&#210;6t&#203;st/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
 <TOKEN sid="p24_s26044" id="p24_w793" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="353.54" y="373.12" base="378.46" width="43.873" height="7.08">anaesthetists;</TOKEN>
 </form>
-<form type="variant">
+<SN>
 <TOKEN sid="p24_s26045" id="p24_w794" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="399.73" y="372.764" base="378.46" width="23.9904" height="7.552">pi{emo</TOKEN>
 <TOKEN sid="p24_s26046" id="p24_w795" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.029" y="372.764" base="378.46" width="13.9925" height="7.552">tudi</TOKEN>
-<orth>
+<SV>
 <TOKEN sid="p24_s26047" id="p24_w796" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="258.61" y="382.2" base="387.54" width="34.9916" height="7.08">anesthetist.</TOKEN>
-</orth>
-</form>
+</SV>
+<TOKEN sid="p24_s26048" id="p24_w797" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="295.02" y="383.624" base="387.54" width="18.4922" height="5.192">COUNT</TOKEN>
+</SN>
 </form>
 <sense>
 <gramGrp>
 <pos>
-<TOKEN sid="p24_s26048" id="p24_w797" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="295.02" y="383.624" base="387.54" width="18.4922" height="5.192">COUNT</TOKEN>
 <TOKEN sid="p24_s26049" id="p24_w798" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="314.498" y="383.624" base="387.54" width="4.12335" height="5.192">N</TOKEN>
+<TOKEN sid="p24_s26050" id="p24_w799" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.06" y="381.844" base="387.54" width="9.82008" height="7.552">An</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-<TOKEN sid="p24_s26050" id="p24_w799" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="320.06" y="381.844" base="387.54" width="9.82008" height="7.552">An</TOKEN>
 <TOKEN sid="p24_s26051" id="p24_w800" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.3" y="381.844" base="387.54" width="39.2105" height="7.552">anaesthetist</TOKEN>
-</seg>
 <TOKEN sid="p24_s26052" id="p24_w801" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="371.91" y="381.844" base="387.54" width="5.81688" height="7.552">je</TOKEN>
+</seg>
 <TOKEN sid="p24_s26053" id="p24_w802" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.147" y="381.844" base="387.54" width="29.1334" height="7.552">zdravnik</TOKEN>
 <TOKEN sid="p24_s26054" id="p24_w803" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.7" y="381.844" base="387.54" width="30.3631" height="7.552">specialist</TOKEN>
 <TOKEN sid="p24_s26055" id="p24_w804" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="390.924" base="396.62" width="7.60176" height="7.552">za</TOKEN>
 <TOKEN sid="p24_s26056" id="p24_w805" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="268.211" y="390.924" base="396.62" width="25.1914" height="7.552">dajanje</TOKEN>
 <TOKEN sid="p24_s26057" id="p24_w806" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="295.401" y="390.924" base="396.62" width="35.5824" height="7.552">anestezije.</TOKEN>
+<TOKEN sid="p24_s26059" id="p24_w808" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="339.23" y="390.924" base="396.62" width="33.5887" height="7.552">anestezist</TOKEN>
 </def>
 <cit type="translationEquivalent">
 <quote>
-<TOKEN sid="p24_s26059" id="p24_w808" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="339.23" y="390.924" base="396.62" width="33.5887" height="7.552">anestezist</TOKEN>
+<TOKEN sid="p24_s26060" id="p24_w809" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="399.282" base="405.69" width="51.7865" height="8.514">anaesthetize</TOKEN>
 </quote>
 </cit>
 </sense>

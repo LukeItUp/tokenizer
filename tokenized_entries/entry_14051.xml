@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p764_s840884" id="p764_w148" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="217.722" base="224.13" width="19.9523" height="8.514">surly</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p764_s840885" id="p764_w149" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="76.97" y="218.968" base="224.13" width="16.6996" height="6.844">/s&#197;&#194;li</TOKEN>
+<TOKEN sid="p764_s840886" id="p764_w150" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="94.04" y="218.32" base="221.73" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p764_s840887" id="p764_w151" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="96.68" y="218.968" base="224.13" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p764_s840888" id="p764_w152" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="104.08" y="220.214" base="224.13" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p764_s840889" id="p764_w153" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.04" y="218.434" base="224.13" width="17.5946" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p764_s840890" id="p764_w154" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="137.145" y="218.434" base="224.13" width="5.99688" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p764_s840891" id="p764_w155" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.64" y="218.434" base="224.13" width="19.1916" height="7.552">surly,</TOKEN>
+</seg>
+<TOKEN sid="p764_s840892" id="p764_w156" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.341" y="218.434" base="224.13" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p764_s840893" id="p764_w157" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.847" y="218.434" base="224.13" width="15.4404" height="7.552">grob</TOKEN>
+<TOKEN sid="p764_s840894" id="p764_w158" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="193.796" y="218.434" base="224.13" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p764_s840895" id="p764_w159" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="203.1" y="218.434" base="224.13" width="17.591" height="7.552">slabe</TOKEN>
+<TOKEN sid="p764_s840896" id="p764_w160" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.2" y="218.434" base="224.13" width="18.396" height="7.552">volje.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p764_s840898" id="p764_w162" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="66.42" y="227.504" base="233.2" width="24.2467" height="7.552">osoren;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p764_s840899" id="p764_w163" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="92.6698" y="227.504" base="233.2" width="11.5891" height="7.552">His</TOKEN>
+<TOKEN sid="p764_s840900" id="p764_w164" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="106.258" y="227.504" base="233.2" width="17.5982" height="7.552">voice</TOKEN>
+<TOKEN sid="p764_s840901" id="p764_w165" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="125.855" y="227.504" base="233.2" width="13.1947" height="7.552">was</TOKEN>
+<TOKEN sid="p764_s840902" id="p764_w166" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="141.048" y="227.504" base="233.2" width="18.7596" height="7.552">surly.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

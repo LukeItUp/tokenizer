@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+summons
+</orth>
+<form type="variant">
+<pron>
+/s*Vm@nz/
+</pron>
+</form>
+<form type="inflected">
+summonses, summonsing, summonsed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A summons 
+</seg>
+je ukaz, da moramo priti k nekomu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poziv, klic, ukaz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I waited in my office for a summons from the boss.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A summons 
+</seg>
+je tudi uradni ukaz, da moramo priti na sodi&scaron;&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodni poziv
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be summonsed 
+</seg>
+pomeni dobiti uradni ukaz, da moramo priti na sodi&scaron;&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklicati na sodi&scaron;&ccaron;e
+</quote>
+</cit>
+</sense>
+</entry>

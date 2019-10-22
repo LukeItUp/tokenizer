@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+organ
+</orth>
+<form type="variant">
+<pron>
+/*O*:g@n/
+</pron>
+</form>
+<form type="inflected">
+organs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An organ 
+</seg>
+je del telesa, ki ima dolo&ccaron;en namen ali nalogo, na primer srce ali plju&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+organ
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children&apos;s bones and organs are very sensitive to radiation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An organ 
+</seg>
+je tudi velik glasbeni in&scaron;trument z razli&ccaron;no dolgimi cevmi; skoznje iz mehov prihaja zrak. Na to glasbilo igramo podobno kot na klavir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+orgle
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+organist
+</orth>
+<form type="variant">
+<pron>
+/*O*:g@nIst/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He is a very fine organist.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za &ccaron;asopis re&ccaron;emo, da je 
+<seg type="lemma">
+an organ of a particular organization
+</seg>
+, kadar ga neka organizacija uporablja kot sredstvo za raz&scaron;iranje podatkov ali vplivanje na ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They decided to close the newspaper and launch it again as a government organ.
+</quote>
+</seg>
+</sense>
+</entry>

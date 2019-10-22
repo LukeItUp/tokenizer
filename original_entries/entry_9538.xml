@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nibble
+</orth>
+<form type="variant">
+<pron>
+/n*Ib@0l/
+</pron>
+</form>
+<form type="inflected">
+nibbles, nibbling, nibbled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nibbles something 
+</seg>
+ali 
+<seg type="lemma">
+nibbles at something
+</seg>
+, tisto po&ccaron;asi je z drobnimi gri&zcaron;ljaji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;asi jesti, mleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Just nibble a piece of bread.
+</quote>
+<quote>
+She nibbled at her food.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar mi&scaron; ali druga majhna &zcaron;ival 
+<seg type="lemma">
+nibbles something
+</seg>
+, nekaj grize s hitrimi, ponavljajo&ccaron;imi se ugrizi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grizljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was nibbling the end of a leaf.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nibble 
+</seg>
+je ne&zcaron;en ali hiter ugriz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugriz; gri&zcaron;ljaj
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,149 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fault
+</orth>
+<form type="variant">
+<pron>
+/f*O*:lt/
+</pron>
+</form>
+<form type="inflected">
+faults, faulting, faulted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj slabega 
+<seg type="lemma">
+one&apos;s fault
+</seg>
+, je tisto povzro&ccaron;il tisti &ccaron;lovek in je zato odgovoren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivda; napaka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was entirely my own fault.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fault in something 
+</seg>
+je &scaron;ibkost ali nepopolnost ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hiba, napaka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Computer faults are commonplace.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+cannot fault someone
+</seg>
+, nekdo nekaj po&ccaron;ne tako dobro, da ga za to ne moremo kritizirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne mo&ccaron;i grajati/o&ccaron;itati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I couldn&apos;t fault him on that one.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fault 
+</seg>
+je tudi &scaron;iroka razpoka v zemeljski skorji; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prelomnica
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+at fault
+</seg>
+, nima prav ali je storil nekaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+motiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was 1976, I believe, if my memory is not at fault.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To find fault with something 
+</seg>
+pomeni prito&zcaron;evati se nad &ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grajati, o&ccaron;itati
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

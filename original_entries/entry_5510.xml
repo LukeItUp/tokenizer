@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fluid
+</orth>
+<form type="variant">
+<pron>
+/fl*u*:Id/
+</pron>
+</form>
+<form type="inflected">
+fluids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fluid 
+</seg>
+je snov v teko&ccaron;em stanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teko&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...petrol and cleaning fluids.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+After a month it was still completely fluid at the centre.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je polo&zcaron;aj, ideja ali ureditev
+<seg type="lemma">
+ fluid
+</seg>
+, se bo verjetno spremenila ali pa jo je mogo&ccaron;e spremeniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremenljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Opinion in the trade unions is very fluid as regards this question.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fluidity
+</orth>
+<form type="variant">
+<pron>
+/flu:*IdI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the fluidity of the situation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

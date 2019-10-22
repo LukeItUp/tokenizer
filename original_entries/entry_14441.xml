@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+theorem
+</orth>
+<form type="variant">
+<pron>
+/T*I*@r@0m/
+</pron>
+</form>
+<form type="inflected">
+theorems.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A theorem 
+</seg>
+je trditev v matematiki, za katero lahko z logi&ccaron;no izpeljavo doka&zcaron;emo, da je resni&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teorem, izrek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the theorem of Pythagoras.
+</quote>
+<quote>
+...a book about the attempts to prove Fermat&apos;s last theorem.
+</quote>
+</seg>
+</sense>
+</entry>

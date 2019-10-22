@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cull
+</orth>
+<form type="variant">
+<pron>
+/k*Vl/
+</pron>
+</form>
+<form type="inflected">
+culls, culling, culled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cull ideas or information 
+</seg>
+pomeni zbirati zamisli ali podatke, da jih bomo uporabili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati, nabrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...materials that I'd culled from all sorts of places.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cull a group of animals 
+</seg>
+pomeni zaklati nekaj &zcaron;ivali iz skupine, da bi zmanj&scaron;ali njihovo &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrati za zakol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They start to cull the herds in dry years.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a big elephant cull in Zimbabwe.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

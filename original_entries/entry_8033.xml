@@ -1,0 +1,401 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+knock
+</orth>
+<form type="variant">
+<pron>
+/n*Qk/
+</pron>
+</form>
+<form type="inflected">
+knocks, knocking, knocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knock at a door or window 
+</seg>
+pomeni ve&ccaron;krat zapovrstjo udariti po vratih ali oknu, da bi pritegnili pozornost neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He knocked softly on the door.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a knock at the door.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knock something 
+</seg>
+pomeni nekaj grobo udariti, da se premakne ali prevrne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekucniti, podreti; vre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the excitement he knocked over his chair.
+</quote>
+<quote>
+The glass had been knocked out from windows.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Knocks can cause weaknesses in the spine.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knock someone down 
+</seg>
+ali 
+<seg type="lemma">
+to knock someone unconscious 
+</seg>
+pomeni nekoga tako mo&ccaron;no udariti, da pade ali omedli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbiti na tla, potol&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dad knocked him to the floor.
+</quote>
+<quote>
+Rudolph had seen him knock Thomas unconscious with his fist.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knock someone or something 
+</seg>
+pomeni nekoga ali nekaj kritizirati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rniti, kritizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always knocking the performance of fellow-actors.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+knock about 
+<VS>
+ali 
+</VS>
+<VV>
+knock around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To be knocked about 
+</seg>
+ali 
+<seg type="variant">
+to be knocked around 
+</seg>
+pomeni, da tistega &ccaron;loveka nekdo ve&ccaron;krat udari; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti pretepen, biti zdelan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did not like the thought of a woman being knocked about.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+has knocked about 
+</seg>
+ali 
+<seg type="variant">
+has knocked around
+</seg>
+, ima izku&scaron;nje s &scaron;tevilnimi kraji ali okoli&scaron;&ccaron;inami; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+klatiti se, potikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm a bachelor, I've knocked about the world a bit.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+knock back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To knock back a drink 
+</seg>
+pomeni hitro spiti pija&ccaron;o; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+popiti na du&scaron;ek, zvrniti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+knock down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar neko vozilo 
+<seg type="lemma">
+knocks someone down
+</seg>
+, nekega &ccaron;loveka zadene tako, da umre ali je ranjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povoziti, zbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was knocked down by a bus.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To knock down a building 
+</seg>
+pomeni namenoma uni&ccaron;iti stavbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'd knock the wall down between the two rooms.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+knock off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+knocks an amount off the price of something
+</seg>
+, za dolo&ccaron;en znesek zni&zcaron;a ceno tistega izdelka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He knocked &pound;50 off the price, because it was scratched.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+knock out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To knock someone out 
+</seg>
+pomeni nekoga tako udariti, da omedli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z udarcem onesvestiti; knockoutirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hit me so hard he knocked me out.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar neko mamilo 
+<seg type="lemma">
+knocks someone out
+</seg>
+, tisti &ccaron;lovek po njegovem zau&zcaron;itju postane omamljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omamiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tablet had knocked her out for four hours.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar neka oseba ali mo&scaron;tvo 
+<seg type="lemma">
+is knocked out of a competition
+</seg>
+, je na tekmi pora&zcaron;eno in ne sme ve&ccaron; igrati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izlo&ccaron;en biti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

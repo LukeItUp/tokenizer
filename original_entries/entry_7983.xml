@@ -1,0 +1,250 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kick
+</orth>
+<form type="variant">
+<pron>
+/k*Ik/
+</pron>
+</form>
+<form type="inflected">
+kicks, kicking, kicked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick someone or something 
+</seg>
+pomeni nekoga udariti s stopalom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brcniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He protested violently, and threatened to kick me.
+</quote>
+<quote>
+We caught sight of Christopher, kicking a tin can down the High Street.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gave him a good kick.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick 
+</seg>
+pomeni silovito in nenadoma premikati stopala, na primer pri plesu ali plavanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brcati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Simon was floating in the water and kicking with his feet.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+gets a kick from something
+</seg>
+, zaradi tistega u&zcaron;iva ali je prijetno vznemirjen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+u&zcaron;ivati v ne&ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They loved debate, and got a kick out of court proceedings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick a habit 
+</seg>
+pomeni prenehati z neko navado; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+opustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Leicester's supporters have never kicked the travelling habit.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+free kick
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+kick off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick off an event or a discussion 
+</seg>
+pomeni za&ccaron;eti neki dogodek ali pogovor; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti, spraviti v tek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They kicked off a two-month tour of the U.S. with a party in Washington.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+kick out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick someone out 
+</seg>
+pomeni nekoga prisiliti, da zapusti neki kraj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i ven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He kicked me out.
+</quote>
+<quote>
+She kicked me out of the room.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+kick up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To kick up a fuss or a row 
+</seg>
+pomeni postati zelo jezen ali vznemirjen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dvigniti hrup, zasitnariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When I told him, he kicked up a fuss.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

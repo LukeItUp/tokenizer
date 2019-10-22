@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ninth
+</orth>
+<form type="variant">
+<pron>
+/n*a*InT/
+</pron>
+</form>
+<form type="inflected">
+ninths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The ninth item 
+</seg>
+je tisti element, ki je v nekem zaporedju na devetem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the ninth floor of the Hotel.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ninth 
+</seg>
+je eden od devetih enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+devetina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In exchange for this work they get one ninth of the crop.
+</quote>
+</seg>
+</sense>
+</entry>

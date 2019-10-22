@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discussion
+</orth>
+<form type="variant">
+<pron>
+/dIsk*VS@0n/
+</pron>
+</form>
+<form type="inflected">
+discussions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Discussion 
+</seg>
+je resno razpravljanje o ne&ccaron;em z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razprava, diskusija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ten hours were spent in discussion of Boon's papers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A discussion 
+</seg>
+je resen pogovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razprava, diskusija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had been involved in discussions about this with Ken and Frank.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+under discussion
+</seg>
+, o tistem govorimo in &scaron;e nismo sprejeli dokon&ccaron;ne odlo&ccaron;itve.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v razpravi, neodlo&ccaron;en
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

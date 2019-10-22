@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p689_s756338" id="p689_w381" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="435.602" base="442.01" width="21.8504" height="8.514">sheaf</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p689_s756339" id="p689_w382" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.39" y="436.848" base="442.01" width="17.9916" height="6.844">/&#196;i&#194;f/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p689_s756340" id="p689_w383" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="100.21" y="436.67" base="442.01" width="25.8822" height="7.08">sheaves</TOKEN>
+</form>
+<form type="variant">
+<pron>
+<TOKEN sid="p689_s756341" id="p689_w384" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="127.92" y="436.848" base="442.01" width="22.7116" height="6.844">/&#196;i&#194;vz/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p689_s756343" id="p689_w386" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="158.95" y="438.094" base="442.01" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p689_s756344" id="p689_w387" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="179.181" y="438.094" base="442.01" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p689_s756345" id="p689_w388" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.13" y="436.314" base="442.01" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p689_s756346" id="p689_w389" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.56" y="436.314" base="442.01" width="17.9971" height="7.552">sheaf</TOKEN>
+<TOKEN sid="p689_s756347" id="p689_w390" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="212.387" y="436.314" base="442.01" width="6.80328" height="7.552">of</TOKEN>
+<TOKEN sid="p689_s756348" id="p689_w391" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="221.021" y="436.314" base="442.01" width="22.7916" height="7.552">papers</TOKEN>
+</seg>
+<TOKEN sid="p689_s756349" id="p689_w392" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3902" y="445.394" base="451.09" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p689_s756350" id="p689_w393" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="70.4758" y="445.394" base="451.09" width="15.9941" height="7.552">snop</TOKEN>
+<TOKEN sid="p689_s756351" id="p689_w394" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.5593" y="445.394" base="451.09" width="29.4883" height="7.552">papirjev.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p689_s756353" id="p689_w396" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.47" y="445.394" base="451.09" width="26.7934" height="7.552">sve`enj,</TOKEN>
+<TOKEN sid="p689_s756354" id="p689_w397" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="155.354" y="445.394" base="451.09" width="13.5986" height="7.552">{op;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p689_s756355" id="p689_w398" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.05" y="445.394" base="451.09" width="11.2025" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p689_s756356" id="p689_w399" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="184.343" y="445.394" base="451.09" width="17.5939" height="7.552">thick</TOKEN>
+<TOKEN sid="p689_s756357" id="p689_w400" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.027" y="445.394" base="451.09" width="17.5939" height="7.552">sheaf</TOKEN>
+<TOKEN sid="p689_s756358" id="p689_w401" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.711" y="445.394" base="451.09" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p689_s756359" id="p689_w402" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="232.201" y="445.394" base="451.09" width="11.597" height="7.552">let-</TOKEN>
+<TOKEN sid="p689_s756360" id="p689_w403" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="454.474" base="460.17" width="14.7902" height="7.552">ters.</TOKEN>
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p689_s756362" id="p689_w405" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="86.16" y="456.254" base="460.17" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p689_s756363" id="p689_w406" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="106.609" y="456.254" base="460.17" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p689_s756364" id="p689_w407" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.89" y="454.474" base="460.17" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p689_s756365" id="p689_w408" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="120.65" y="454.474" base="460.17" width="17.9971" height="7.552">sheaf</TOKEN>
+<TOKEN sid="p689_s756366" id="p689_w409" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.807" y="454.474" base="460.17" width="6.80328" height="7.552">of</TOKEN>
+<TOKEN sid="p689_s756367" id="p689_w410" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.771" y="454.474" base="460.17" width="15.197" height="7.552">corn</TOKEN>
+</seg>
+<TOKEN sid="p689_s756368" id="p689_w411" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.11" y="454.474" base="460.17" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p689_s756369" id="p689_w412" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.266" y="454.474" base="460.17" width="24.7889" height="7.552">sve`enj</TOKEN>
+<TOKEN sid="p689_s756370" id="p689_w413" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.214" y="454.474" base="460.17" width="19.445" height="7.552">zrelih</TOKEN>
+<TOKEN sid="p689_s756371" id="p689_w414" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.818" y="454.474" base="460.17" width="19.9879" height="7.552">`itnih</TOKEN>
+<TOKEN sid="p689_s756372" id="p689_w415" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3906" y="463.544" base="469.24" width="15.5923" height="7.552">bilk,</TOKEN>
+<TOKEN sid="p689_s756373" id="p689_w416" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="79.9831" y="463.544" base="469.24" width="34.799" height="7.552">povezanih</TOKEN>
+<TOKEN sid="p689_s756374" id="p689_w417" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="116.782" y="463.544" base="469.24" width="24.7925" height="7.552">skupaj.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p689_s756376" id="p689_w419" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.8" y="463.544" base="469.24" width="15.9898" height="7.552">snop</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

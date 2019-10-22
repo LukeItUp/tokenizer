@@ -1,0 +1,243 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+that
+</orth>
+<form type="variant">
+<pron>
+/D*&ae;t/
+</pron>
+</form>
+<form type="inflected">
+those
+</form>
+<form type="variant">
+<pron>
+/D*@*Uz/
+</pron>
+</form>
+<PN>
+Besedo 
+<PP>
+that 
+</PP>
+ pri 3. in 4. pomenu lahko izgovarjamo tudi 
+<pron>
+/D@3t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+DET 
+<seg>
+or 
+</seg>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+that 
+</seg>
+in 
+<seg type="variant">
+those 
+</seg>
+uporabljamo, ko govorimo o &zcaron;e omenjenih ali znanih stvareh ali osebah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ta, tisti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That old woman saved my life.
+</quote>
+<quote>
+Not all crimes are committed for those reasons.
+</quote>
+<quote>
+&lsquo;Did you see him?&rsquo;&mdash;&lsquo;No.&rsquo;&mdash;&lsquo;That&apos;s a pity.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRON 
+<seg>
+or 
+</seg>
+DET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+those 
+</seg>
+uporabljamo, ko govorimo o osebah ali stvareh, o katerih &zcaron;elimo povedati nekaj podrobnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tisti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I want to thank those of you who&apos;ve offered to help.
+</quote>
+<quote>
+The scheme was set up to help those concerned with the teaching of reading.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+CONJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+that 
+</seg>
+uporabljamo za nekaterimi glagoli, samostalniki in pridevniki, da z njim uvedemo odvisni stavek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+da
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She suggested that I telephoned you.
+</quote>
+<quote>
+He was motivated by the conviction that these tendencies would increase.
+</quote>
+<quote>
+It is important that you should know precisely what is needed.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRON
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+that 
+</seg>
+uvajamo tudi oziralne odvisnike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the gate that opened onto the lake.
+</quote>
+<quote>
+For dessert there was ice cream that Mum had made.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is not that bad 
+</seg>
+ali 
+<seg type="lemma">
+is not that funny
+</seg>
+, je tisto manj slabo ali zabavno, kot mislijo drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tako
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It isn&apos;t quite that bad.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+that is 
+</seg>
+in 
+<FV>
+that is to say 
+</FV>
+uporabimo, kadar &zcaron;elimo dodati &scaron;e nekaj podrobnosti o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se pravi, torej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It deals with matters of social policy; that is to say, everything from housing to education.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+that&apos;s that 
+</seg>
+pomeni, da o ne&ccaron;em ne moremo narediti ali re&ccaron;i ni&ccaron;esar ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+to je to, to je vse
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was an accident, and that&apos;s that.
+</quote>
+<quote>
+The Ravenscrofts refused and that was that.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+this and that: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+this
+</ref>
+</xr>
+</B>
+</entry>

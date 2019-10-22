@@ -1,0 +1,276 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swing
+</orth>
+<form type="variant">
+<pron>
+/sw*IN/
+</pron>
+</form>
+<form type="inflected">
+swings, swinging, swung
+</form>
+<form type="variant">
+<pron>
+/sw*VN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+swings 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+swings something
+</seg>
+, se tisto ve&ccaron;krat premakne nazaj in naprej ali v levo in desno od to&ccaron;ke mirovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nihati, zibati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chandelier started to swing.
+</quote>
+<quote>
+He sat there swinging his legs.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She walked with an exaggerated swing of the hips.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+swings in a particular direction
+</seg>
+, se premakne v dolo&ccaron;eno smer v &scaron;irokem loku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavihteti se, zanihati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I pushed the door and it swung open.
+</quote>
+<quote>
+Boylan swung the bag on to the back seat.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a grand, impatient swing of his arm.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali vozilo 
+<seg type="lemma">
+swings in a particular direction
+</seg>
+, se nenadoma obrne v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglo se obrniti, naglo zaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I swing quickly around.
+</quote>
+<quote>
+He swung his car out of the side road.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To swing at someone or something 
+</seg>
+pomeni posku&scaron;ati udariti nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamahniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I swung at him and hit him forcefully.
+</quote>
+<quote>
+The soldier swung a slow, heavy right hand at Tom.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A swing 
+</seg>
+je sede&zcaron;, ki visi s kovinskega okvirja ali drevesa na dveh vrveh ali verigah. Nanj lahko sedemo in se gugamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gugalnica
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A swing in people&apos;s opinions or attitudes 
+</seg>
+je precej&scaron;nja sprememba mnenj ali stali&scaron;&ccaron; ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premik, zasuk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a 16.2% swing to the Social Democrats.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer javno mnenje ali razmerje mo&ccaron;i, 
+<seg type="lemma">
+swings in a particular direction
+</seg>
+, se spremeni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The balance of power had swung decisively in favour of the moderates.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in full swing
+</seg>
+, deluje s polno silo in ni ve&ccaron; na za&ccaron;etni stopnji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v polnem zamahu, z vso silo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get into the swing of something 
+</seg>
+pomeni za&ccaron;eti se ukvarjati z ne&ccaron;im in u&zcaron;ivati pri tem; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+v&zcaron;iveti se, priti noter
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

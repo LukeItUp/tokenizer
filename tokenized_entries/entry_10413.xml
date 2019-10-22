@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p550_s602780" id="p550_w672" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="217.962" base="224.37" width="39.442" height="8.514">perfumed</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p550_s602781" id="p550_w673" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="294.72" y="219.208" base="224.37" width="22.5097" height="6.844">/p&#197;&#194;fju</TOKEN>
+<TOKEN sid="p550_s602782" id="p550_w674" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="317.6" y="218.56" base="221.97" width="2.39636" height="4.52176">4</TOKEN>
+<TOKEN sid="p550_s602783" id="p550_w675" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="320.23" y="219.208" base="224.37" width="15.4116" height="6.844">md/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p550_s602784" id="p550_w676" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="337.97" y="220.454" base="224.37" width="10.4504" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p550_s602785" id="p550_w677" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.75" y="218.674" base="224.37" width="13.1947" height="7.552">Kar</TOKEN>
+<TOKEN sid="p550_s602786" id="p550_w678" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.274" y="218.674" base="224.37" width="5.99616" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p550_s602787" id="p550_w679" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.59" y="218.674" base="224.37" width="34.7918" height="7.552">perfumed,</TOKEN>
+</seg>
+<TOKEN sid="p550_s602788" id="p550_w680" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="411.711" y="218.674" base="224.37" width="12.7987" height="7.552">ima</TOKEN>
+<TOKEN sid="p550_s602789" id="p550_w681" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.839" y="218.674" base="224.37" width="13.1861" height="7.552">pri-</TOKEN>
+<TOKEN sid="p550_s602790" id="p550_w682" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="227.744" base="233.44" width="16.7918" height="7.552">jeten</TOKEN>
+<TOKEN sid="p550_s602791" id="p550_w683" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="277.401" y="227.744" base="233.44" width="16.799" height="7.552">vonj.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p550_s602793" id="p550_w685" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="302.44" y="227.744" base="233.44" width="19.1916" height="7.552">di{e~,</TOKEN>
+<TOKEN sid="p550_s602794" id="p550_w686" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.632" y="227.744" base="233.44" width="36.792" height="7.552">odi{avljen;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p550_s602795" id="p550_w687" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.41" y="227.744" base="233.44" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p550_s602796" id="p550_w688" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.408" y="227.744" base="233.44" width="32.3878" height="7.552">perfumed</TOKEN>
+<TOKEN sid="p550_s602797" id="p550_w689" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.796" y="227.744" base="233.44" width="10.4875" height="7.552">air.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

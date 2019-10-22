@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+verge
+</orth>
+<form type="variant">
+<pron>
+/v*$e*:dZ/
+</pron>
+</form>
+<form type="inflected">
+verges, verging, verged.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+on the verge of something
+</seg>
+, namerava nekaj v kratkem narediti ali pa se mu obeta, da se mu bo tisto v kratkem zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tik na tem, na robu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The unions are on the verge of settling their latest pay dispute.
+</quote>
+<quote>
+...people living on the verge of starvation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The verge of a road 
+</seg>
+je ozek pas trave ob cesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+travni obrobek, rob
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a grass verge.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+verge on 
+<VS>
+ali 
+</VS>
+<VV>
+verge upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+verges on 
+</seg>
+ali 
+<seg type="variant">
+verges upon something else
+</seg>
+, je skoraj enako kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mejiti na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had a feeling of distrust verging on panic.
+</quote>
+<quote>
+...direct action verging on violence.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gallant
+</orth>
+<form type="variant">
+<pron>
+/g*&ae;l@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+gallant
+</seg>
+, je zelo pogumen ali &ccaron;asten, kadar se znajde v nevarnosti ali te&zcaron;avah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vite&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have put up a gallant fight over the years.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gallantly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Gallantly they battled on.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Mo&scaron;ki, ki je 
+<seg type="lemma">
+gallant
+</seg>
+, je vljuden in pozoren do &zcaron;ensk. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubezniv, udvorljiv
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+gallantly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He gallantly offered to carry her cases to the car.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

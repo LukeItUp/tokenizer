@@ -5,7 +5,7 @@ absent
 </orth>
 <form type="variant">
 <pron>
-/*#ae;bs@2nt/.
+/*&ae;bs@2nt/
 </pron>
 </form>
 </form>
@@ -16,12 +16,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekdo ali nekaj
+Kadar je nekdo ali nekaj 
 <seg type="lemma">
-absent from a place or
-situation
+absent from a place or situation
 </seg>
-v dolo&#269;enem kraju ali situaciji ni navzo&#269; ali ga ni zraven.
+, v dolo&ccaron;enem kraju ali situaciji ni navzo&ccaron; ali ga ni zraven. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -41,15 +40,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek videti
+Kadar je &ccaron;lovek videti 
 <seg type="lemma">
-absent
+absent,
 </seg>
 ni pozoren.
 </def>
 <cit type="translationEquivalent">
 <quote>
-raztresen, zami&#353;ljen
+raztresen, zami&scaron;ljen
 </quote>
 </cit>
 <seg type="example">
@@ -70,7 +69,7 @@ ADV
 </gramGrp>
 <seg type="example">
 <quote>
-"Did you?" Boylan said absently.
+&lsquo;Did you?&rsquo; Boylan said absently.
 </quote>
 </seg>
 </sense>

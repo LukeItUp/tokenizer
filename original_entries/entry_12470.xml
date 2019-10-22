@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+Scot
+</orth>
+<form type="variant">
+<pron>
+/sk*Qt/
+</pron>
+</form>
+<form type="inflected">
+Scots.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A Scot 
+</seg>
+je oseba, ki je po rodu s &Scaron;kotskega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&Scaron;kot/-tinja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Scots 
+</seg>
+je angle&scaron;ko nare&ccaron;je, ki ga govorijo na &Scaron;kotskem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;kot&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He speaks broad Scots.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Scots 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+Scottish
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;kotski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spoke with a Scots accent.
+</quote>
+</seg>
+</sense>
+</entry>

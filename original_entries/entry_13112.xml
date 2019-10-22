@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slope
+</orth>
+<form type="variant">
+<pron>
+/sl*@*Up/
+</pron>
+</form>
+<form type="inflected">
+slopes, sloping, sloped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slope 
+</seg>
+je povr&scaron;ina, ki le&zcaron;i pod dolo&ccaron;enim kotom, tako da je en konec vi&scaron;e kot drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobo&ccaron;je, breg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She rode up a grassy slope.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar povr&scaron;ina 
+<seg type="lemma">
+slopes
+</seg>
+, le&zcaron;i pod dolo&ccaron;enim kotom, tako da je en konec vi&scaron;e kot drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti nagnjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The roof sloped down at the back.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sloping
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...gently sloping hills.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slopes
+</seg>
+, ni ravno, ampak nagnjeno v desno ali levo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagibati se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+sloping
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...sloping handwriting.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The slope of something 
+</seg>
+je k&oacute;t, pod katerim je nekaj nagnjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagib
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a slope of ten degrees.
+</quote>
+</seg>
+</sense>
+</entry>

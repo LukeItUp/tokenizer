@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tonnage
+</orth>
+<form type="variant">
+<pron>
+/t*VnIdZ/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tonnage of a ship 
+</seg>
+je velikost ladje ali koli&ccaron;ina tovora, ki ga ladja lahko pelje; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nosilnost
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tonnage of something 
+</seg>
+je koli&ccaron;ina ne&ccaron;esa, izra&zcaron;ena v tonah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tona&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the total tonnage of TNT used during the last war.
+</quote>
+</seg>
+</sense>
+</entry>

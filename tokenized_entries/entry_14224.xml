@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p775_s853196" id="p775_w847" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="362.972" base="369.38" width="30.6005" height="8.514">tandem</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p775_s853197" id="p775_w848" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="287.19" y="364.218" base="369.38" width="22.9901" height="6.844">/t&#230;nd6</TOKEN>
+<TOKEN sid="p775_s853198" id="p775_w849" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="310.4" y="363.58" base="366.99" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p775_s853199" id="p775_w850" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="312.96" y="364.218" base="369.38" width="10.8416" height="6.844">m/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p775_s853200" id="p775_w851" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="325.27" y="364.04" base="369.38" width="28.78" height="7.08">tandems.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p775_s853202" id="p775_w853" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="361.67" y="365.464" base="369.38" width="18.611" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p775_s853203" id="p775_w854" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="381.311" y="365.464" base="369.38" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p775_s853204" id="p775_w855" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.94" y="363.684" base="369.38" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p775_s853205" id="p775_w856" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.019" y="363.684" base="369.38" width="24.9444" height="7.552">tandem</TOKEN>
+</seg>
+<TOKEN sid="p775_s853206" id="p775_w857" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="420.46" y="363.684" base="369.38" width="5.86728" height="7.552">je</TOKEN>
+<TOKEN sid="p775_s853207" id="p775_w858" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="427.799" y="363.684" base="369.38" width="14.4122" height="7.552">kolo</TOKEN>
+<TOKEN sid="p775_s853208" id="p775_w859" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="372.764" base="378.46" width="7.60248" height="7.552">za</TOKEN>
+<TOKEN sid="p775_s853209" id="p775_w860" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="270.013" y="372.764" base="378.46" width="12.001" height="7.552">dve</TOKEN>
+<TOKEN sid="p775_s853210" id="p775_w861" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="283.615" y="372.764" base="378.46" width="19.5948" height="7.552">osebi.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p775_s853212" id="p775_w863" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="310.65" y="372.764" base="378.46" width="25.5996" height="7.552">tandem</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<re value="phrase">
+<gramGrp>
+<pos>
+<TOKEN sid="p775_s853214" id="p775_w865" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="344.12" y="374.544" base="378.46" width="21.7206" height="5.192">PHRASE</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p775_s853215" id="p775_w866" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="367.44" y="372.764" base="378.46" width="21.5942" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p775_s853216" id="p775_w867" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.633" y="372.764" base="378.46" width="11.9995" height="7.552">dve</TOKEN>
+<TOKEN sid="p775_s853217" id="p775_w868" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.232" y="372.764" base="378.46" width="17.591" height="7.552">osebi</TOKEN>
+<TOKEN sid="p775_s853218" id="p775_w869" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.422" y="372.764" base="378.46" width="18.7934" height="7.552">nekaj</TOKEN>
+<TOKEN sid="p775_s853219" id="p775_w870" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="381.844" base="387.54" width="28.6502" height="7.552">naredita</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p775_s853220" id="p775_w871" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="291.85" y="381.844" base="387.54" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p775_s853221" id="p775_w872" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.034" y="381.844" base="387.54" width="27.5976" height="7.552">tandem,</TOKEN>
+</seg>
+<TOKEN sid="p775_s853222" id="p775_w873" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.022" y="381.844" base="387.54" width="15.1963" height="7.552">tisto</TOKEN>
+<TOKEN sid="p775_s853223" id="p775_w874" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.608" y="381.844" base="387.54" width="28.6553" height="7.552">naredita</TOKEN>
+<TOKEN sid="p775_s853224" id="p775_w875" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.653" y="381.844" base="387.54" width="24.7925" height="7.552">skupaj.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p775_s853226" id="p775_w877" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.44" y="381.844" base="387.54" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p775_s853227" id="p775_w878" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="419.83" y="381.844" base="387.54" width="22.3956" height="7.552">tande-</TOKEN>
+<TOKEN sid="p775_s853228" id="p775_w879" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="390.924" base="396.62" width="12.7987" height="7.552">mu,</TOKEN>
+<TOKEN sid="p775_s853229" id="p775_w880" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="275.548" y="390.924" base="396.62" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p775_s853230" id="p775_w881" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="281.491" y="390.924" base="396.62" width="42.7882" height="7.552">sodelovanju,</TOKEN>
+<TOKEN sid="p775_s853231" id="p775_w882" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="326.218" y="390.924" base="396.62" width="24.7882" height="7.552">skupaj;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p775_s853232" id="p775_w883" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.95" y="390.924" base="396.62" width="11.2025" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p775_s853233" id="p775_w884" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="366.092" y="390.924" base="396.62" width="13.9954" height="7.552">new</TOKEN>
+<TOKEN sid="p775_s853234" id="p775_w885" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.027" y="390.924" base="396.62" width="14.801" height="7.552">play</TOKEN>
+<TOKEN sid="p775_s853235" id="p775_w886" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.768" y="390.924" base="396.62" width="9.59688" height="7.552">we</TOKEN>
+<TOKEN sid="p775_s853236" id="p775_w887" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="410.304" y="390.924" base="396.62" width="12.8002" height="7.552">had</TOKEN>
+<TOKEN sid="p775_s853237" id="p775_w888" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="425.044" y="390.924" base="396.62" width="17.1907" height="7.552">writ-</TOKEN>
+<TOKEN sid="p775_s853238" id="p775_w889" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="399.994" base="405.69" width="10.7971" height="7.552">ten</TOKEN>
+<TOKEN sid="p775_s853239" id="p775_w890" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.606" y="399.994" base="405.69" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p775_s853240" id="p775_w891" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="282.4" y="399.994" base="405.69" width="27.5962" height="7.552">tandem.</TOKEN>
+</quote>
+</seg>
+</re>
+</sense>
+</entry>

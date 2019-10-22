@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p63_s68614" id="p63_w315" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="408.362" base="414.77" width="16.5314" height="8.514">bike</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p63_s68615" id="p63_w316" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="74.67" y="409.608" base="414.77" width="22.2416" height="6.844">/ba&#203;k/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p63_s68616" id="p63_w317" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="98.35" y="409.43" base="414.77" width="17.631" height="7.08">bikes.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p63_s68617" id="p63_w318" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="117.44" y="410.854" base="414.77" width="18.5338" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p63_s68618" id="p63_w319" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="136.96" y="410.854" base="414.77" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p63_s68619" id="p63_w320" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="142.58" y="409.074" base="414.77" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p63_s68620" id="p63_w321" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="149.619" y="409.074" base="414.77" width="14.31" height="7.552">bike</TOKEN>
+</seg>
+<TOKEN sid="p63_s68621" id="p63_w322" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="165.38" y="409.074" base="414.77" width="5.83632" height="7.552">je</TOKEN>
+<TOKEN sid="p63_s68622" id="p63_w323" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="172.656" y="409.074" base="414.77" width="14.3194" height="7.552">kolo</TOKEN>
+<TOKEN sid="p63_s68623" id="p63_w324" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.414" y="409.074" base="414.77" width="8.47584" height="7.552">ali</TOKEN>
+<TOKEN sid="p63_s68624" id="p63_w325" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.33" y="409.074" base="414.77" width="27.8395" height="7.552">motorno</TOKEN>
+<TOKEN sid="p63_s68625" id="p63_w326" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.608" y="409.074" base="414.77" width="16.1597" height="7.552">kolo;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p63_s68626" id="p63_w327" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="418.154" base="423.85" width="36.0086" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p63_s68627" id="p63_w328" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.399" y="418.154" base="423.85" width="17.6011" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p63_s68629" id="p63_w330" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.23" y="418.154" base="423.85" width="16.799" height="7.552">kolo,</TOKEN>
+<TOKEN sid="p63_s68630" id="p63_w331" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="145.028" y="418.154" base="423.85" width="23.1826" height="7.552">bicikel</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

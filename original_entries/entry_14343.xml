@@ -1,0 +1,142 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+temper
+</orth>
+<form type="variant">
+<pron>
+/t*emp@/
+</pron>
+</form>
+<form type="inflected">
+tempers, tempering, tempered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s temper 
+</seg>
+je &ccaron;lovekova lastnost, da se hitro razjezi ali da ostane miren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temperament, zna&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had a most violent temper.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s temper 
+</seg>
+je tudi &ccaron;lovekovo splo&scaron;no razpolo&zcaron;enje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volja, razpolo&zcaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She might come home in a better temper.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To temper something 
+</seg>
+pomeni narediti nekaj manj skrajno ali bolj sprejemljivo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati, ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our delight was tempered by surprise.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+in a temper
+</seg>
+, je zelo jezen in se ne more obvladati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besen, razka&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One day the man attacked me in a temper.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To lose one&apos;s temper 
+</seg>
+pomeni postati zelo jezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razjeziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She suddenly lost her temper and left the room.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

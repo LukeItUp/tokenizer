@@ -1,0 +1,225 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smash
+</orth>
+<form type="variant">
+<pron>
+/sm*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+smashes, smashing, smashed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smash something 
+</seg>
+pomeni nekaj udariti, vre&ccaron;i ali spustiti na tla, tako da se razleti na veliko ko&scaron;&ccaron;kov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some windows have been smashed.
+</quote>
+<quote>
+I nearly smashed the TV set.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+smashes
+</seg>
+, pade na tla in se razleti na veliko ko&scaron;&ccaron;kov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A plate dropped from his fingers and smashed on the kitchen floor.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smash through something 
+</seg>
+pomeni iti skozi nekaj tako, da tisto razbijemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti, razbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The police smashed their way into eleven homes.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+smashes 
+</seg>
+ali 
+<seg type="lemma">
+is smashed against something
+</seg>
+, z veliko silo udari ob nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The waves smashed onto the shore.
+</quote>
+<quote>
+The sea smashed the boat against the rocks.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smash something 
+</seg>
+pomeni nekaj, na primer politi&ccaron;ni sistem, namerno uni&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uni&ccaron;iti, sesuti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are interested in transforming the system rather than smashing it.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Igra ali film je 
+<seg type="lemma">
+a smash 
+</seg>
+ali 
+<seg type="lemma">
+a smash hit
+</seg>
+, kadar je zelo uspe&scaron;en in priljubljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uspe&scaron;nica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The show was a smash hit in London and New York.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+smash up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To smash something up 
+</seg>
+pomeni nekaj popolnoma uni&ccaron;iti tako, da razpade na veliko ko&scaron;&ccaron;kov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razbiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He started smashing up all the furniture.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

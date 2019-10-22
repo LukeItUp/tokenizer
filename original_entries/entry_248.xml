@@ -19,16 +19,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-aerial
+aerial 
 </seg>
-opisujemo tisto, kar je
-nad zemeljskim povr&#353;jem ali se zgodi v zraku.
+opisujemo tisto, kar je nad zemeljskim povr&scaron;jem ali se zgodi v zraku. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-nadzemen, zra&#269;en
+nadzemen, zra&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -47,12 +46,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Posnetki, ki so
+Posnetki, ki so 
 <seg type="lemma">
 aerial
 </seg>
-prikazujejo z
-letala posneto zemeljsko povr&#353;je.
+, prikazujejo z letala posneto zemeljsko povr&scaron;je. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -68,10 +66,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An aerial
+An aerial 
 </seg>
-je kos &#382;ice, ki sprejema
-televizijske ali radijske signale;
+je kos &zcaron;ice, ki sprejema televizijske ali radijske signale; 
 </def>
 <usg>
 britanska raba.
@@ -81,11 +78,12 @@ britanska raba.
 antena
 </quote>
 </cit>
-<ref type="picture">
-glej slikovno prilogo
-<ref>
-CAR AND BICYCLE.
-</ref>
-</ref>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
 </sense>
 </entry>

@@ -1,0 +1,138 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+band
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;nd/
+</pron>
+</form>
+<form type="inflected">
+bands, banding, banded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A band 
+</seg>
+je skupina glasbenikov, ki skupaj igrajo jazz, rock ali pop glasbo ali ki igrajo na trobila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ansambel, bend, glasbena skupina
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A band of people 
+</seg>
+je skupina ljudi, ki so se zbrali zaradi skupnega zanimanja ali prepri&ccaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina, tolpa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a small band of revolutionaries.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A band 
+</seg>
+je tudi ozek, raven pas blaga, ki ga navijemo okoli glave ali zapestja ali okrog obla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a panama hat with a red band.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi vrsta &scaron;tevilk ali vrednosti v merskem sistemu se lahko imenuje 
+<seg type="lemma">
+a band
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tabela, razpon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a very wide band of radio frequencies.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+band together.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To band together 
+</seg>
+pomeni zbrati se v skupino in delovati, da bi nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everywhere women banded together to talk about liberation.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

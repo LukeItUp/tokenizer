@@ -1,0 +1,37 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p323_s354100" id="p323_w178" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="254.032" base="260.44" width="28.7194" height="8.514">gosling</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p323_s354101" id="p323_w179" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="86.87" y="255.278" base="260.44" width="27.4716" height="6.844">/g&#201;zl&#203;&#207;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p323_s354102" id="p323_w180" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="115.77" y="255.1" base="260.44" width="27.6669" height="7.08">goslings.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p323_s354103" id="p323_w181" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="144.86" y="256.524" base="260.44" width="18.5298" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p323_s354104" id="p323_w182" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="164.36" y="256.524" base="260.44" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p323_s354105" id="p323_w183" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.97" y="254.744" base="260.44" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p323_s354106" id="p323_w184" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.01" y="254.744" base="260.44" width="23.4288" height="7.552">gosling</TOKEN>
+</seg>
+<TOKEN sid="p323_s354107" id="p323_w185" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.85" y="254.744" base="260.44" width="5.83704" height="7.552">je</TOKEN>
+<TOKEN sid="p323_s354108" id="p323_w186" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.127" y="254.744" base="260.44" width="20.5618" height="7.552">mlada</TOKEN>
+<TOKEN sid="p323_s354109" id="p323_w187" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="231.129" y="254.744" base="260.44" width="12.7231" height="7.552">gos.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p323_s354111" id="p323_w189" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="263.824" base="269.52" width="19.5998" height="7.552">goska</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

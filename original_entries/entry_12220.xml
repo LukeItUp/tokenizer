@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ruling
+</orth>
+<form type="variant">
+<pron>
+/r*u*:lIN/
+</pron>
+</form>
+<form type="inflected">
+rulings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Skupina, ki je 
+<seg type="lemma">
+ruling
+</seg>
+, nadzoruje dogajanja v organizaciji ali dr&zcaron;avi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vladajo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Church&apos;s ruling body.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ruling 
+</seg>
+je uradna odlo&ccaron;itev sodnika ali sodi&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;itev, odlo&ccaron;ba, odlok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The judge gave his ruling.
+</quote>
+</seg>
+</sense>
+</entry>

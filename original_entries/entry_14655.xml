@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+too
+</orth>
+<form type="variant">
+<pron>
+/t*u*:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+too 
+</seg>
+dodamo, ko navedemo &scaron;e eno osebo, stvar ali vidik, za katerega velja prej&scaron;nja trditev ali ga vklju&ccaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tudi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m on your side. Seibert is too.
+</quote>
+<quote>
+There were carrots too.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+too 
+</seg>
+poka&zcaron;emo, da je neke stvari ali lastnosti ve&ccaron;, kot bi bilo za&zcaron;eleno ali sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preve&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Avoid using too much water.
+</quote>
+<quote>
+Don&apos;t leave it in too warm a place.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazoma 
+<seg type="lemma">
+all too 
+</seg>
+in 
+<seg type="variant">
+only too 
+</seg>
+poudarimo, da se nekaj dogaja v ve&ccaron;jem obsegu, kot bi bilo za&zcaron;eleno ali sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;e preve&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can remember only too well the disasters that followed.
+</quote>
+<quote>
+The suspicions had proved all too true.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+too 
+</seg>
+omilimo negativno mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(ne) preve&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wasn&apos;t too keen on it.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<QF>
+too bad: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+bad
+</ref>
+</xr>
+<xr type="related">
+<QF>
+none too: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+none
+</ref>
+</xr>
+</sense>
+</entry>

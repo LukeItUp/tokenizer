@@ -1,0 +1,270 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+position
+</orth>
+<form type="variant">
+<pron>
+/p@z*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+positions, positioning, positioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The position of someone or something 
+</seg>
+je kraj, kjer nekdo ali nekaj je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj, lega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They tell the time by the position of the sun.
+</quote>
+<quote>
+He had shifted position from the front to the back of the room.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Oseba ali stvar je 
+<seg type="lemma">
+in position
+</seg>
+, kadar je na pravem ali obi&ccaron;ajnem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na svojem mestu, na polo&zcaron;aju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By 8.05 the groups were in position.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba ali stvar je 
+<seg type="lemma">
+in a particular position
+</seg>
+, kadar sedi, le&zcaron;i, stoji ali je postavljena na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I helped her to a sitting position.
+</quote>
+<quote>
+Hold it in an upright position.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To position something somewhere 
+</seg>
+pomeni nekaj dati nekam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mel positioned his car alongside the foreman&apos;s.
+</quote>
+<quote>
+The boy positioned himself near the door.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s position in society 
+</seg>
+je ugled, ki ga nekdo u&zcaron;iva v dru&zcaron;bi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Women hold a strong position in Aboriginal society.
+</quote>
+<quote>
+...people in positions of power and influence.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s position in a company or organization 
+</seg>
+je mesto, ki ga nekdo zaseda v podjetju ali organizaciji; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...top management positions.
+</quote>
+<quote>
+Thorn lost his position as steward.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s position in a race or competition 
+</seg>
+je na tekmovanju uvrstitev posameznika med zmagovalce ali mesto med sodelujo&ccaron;imi, ki ga v danem trenutku tekmovanja zaseda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in a particular position 
+</seg>
+pomeni biti v dolo&ccaron;enih okoli&scaron;&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It puts me in a rather difficult position.
+</quote>
+<quote>
+You are in the fortunate position of having no responsibilities.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s position on a particular matter 
+</seg>
+je mnenje, ki ga ima nekdo o dolo&ccaron;eni t&eacute;mi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stali&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What is their position on the proposed sale of aircraft?
+</quote>
+</seg>
+</sense>
+</entry>

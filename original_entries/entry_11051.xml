@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+priest
+</orth>
+<form type="variant">
+<pron>
+/pr*i*:st/
+</pron>
+</form>
+<form type="inflected">
+priests.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A priest 
+</seg>
+je pripadnik duhov&scaron;&ccaron;ine v katoli&scaron;ki ali pravoslavni cerkvi in v nekaterih protestantskih cerkvah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+duhovnik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A priest 
+</seg>
+je tudi mo&scaron;ki v &scaron;tevilnih nekr&scaron;&ccaron;anskih verah, ki ima posebne dol&zcaron;nosti in odgovornosti na kraju, kjer ljudje opravljajo molitve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sve&ccaron;enik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Buddhist priest.
+</quote>
+</seg>
+</sense>
+</entry>

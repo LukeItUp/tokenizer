@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+illustration
+</orth>
+<form type="variant">
+<pron>
+/*Il@str*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+illustrations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An illustration 
+</seg>
+je primer ali zgodba, s katero nekaj pojasnimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ilustracija, ponazoritev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve included a few specific examples as illustrations of the difficulty of our work.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V knjigi je 
+<seg type="lemma">
+an illustration 
+</seg>
+slika ali diagram. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ilustracija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a cookery book with marvellous colour illustrations.
+</quote>
+</seg>
+</sense>
+</entry>

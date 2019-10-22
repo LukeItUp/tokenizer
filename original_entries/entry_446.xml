@@ -5,7 +5,7 @@ ambush
 </orth>
 <form type="variant">
 <pron>
-/*#ae;mbUS/
+/*&ae;mbUS/
 </pron>
 </form>
 <form type="inflected">
@@ -15,20 +15,19 @@ ambushes, ambushing, ambushed.
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar ljudje
+Kadar ljudje 
 <seg type="lemma">
 ambush their enemies
 </seg>
-se
-skrijejo, po&#269;akajo svoje sovra&#382;nike in &#353;ele potem napadejo.
+, se skrijejo, po&ccaron;akajo svoje sovra&zcaron;nike in &scaron;ele potem napadejo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -40,7 +39,7 @@ pripraviti zasedo
 Weyler's troops successfully ambushed a rebel force.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -51,6 +50,6 @@ COUNT N
 A whole battalion got caught in an ambush.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

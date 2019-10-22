@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exempt
+</orth>
+<form type="variant">
+<pron>
+/I2gz*emp0t/
+</pron>
+</form>
+<form type="inflected">
+exempts, exempting, exempted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be exempt from a rule or duty 
+</seg>
+pomeni ne biti dol&zcaron;an nekoga ubogati ali nekaj narediti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+opravi&ccaron;iti, izvzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Harold was exempt from military service.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exempt a person from a rule or duty 
+</seg>
+pomeni uradno izjaviti, da neki osebi ni treba ubogati pravila ali izpolniti dol&zcaron;nosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prost, izvzet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Farmers were exempted from rates.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exemption
+</orth>
+<form type="variant">
+<pron>
+/I2gz*emp0S@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...exemption from jury service.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

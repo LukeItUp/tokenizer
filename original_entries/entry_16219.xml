@@ -1,0 +1,318 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wrong
+</orth>
+<form type="variant">
+<pron>
+/r*QN/
+</pron>
+</form>
+<form type="inflected">
+wrongs, wronging, wronged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+wrong
+</seg>
+, je v dolo&ccaron;enem polo&zcaron;aju ali t&eacute;mi, o kateri govorimo, nezadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narobe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The front door was unlocked&mdash;something was wrong.
+</quote>
+<quote>
+I asked what was wrong.
+</quote>
+<quote>
+There was nothing wrong with his eyesight.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Wrong 
+</seg>
+pomeni nepravi ali neprimeren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napa&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m afraid I&apos;ll make the wrong decision.
+</quote>
+<quote>
+Her name was spelt wrong.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+wrongly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Many of us choose wrongly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be wrong about something 
+</seg>
+pomeni, da tisto, kar o ne&ccaron;em re&ccaron;emo ali mislimo, ni pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+motiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We had to admit the possibility that we might be wrong.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+wrongly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She supposed, wrongly, that the other two agreed with her.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, kar po&ccaron;nemo, 
+<seg type="lemma">
+wrong
+</seg>
+, je slabo ali neeti&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemoralen, zmoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You were wrong to speak to the newspapers first.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+wrong 
+</seg>
+uporabljamo za dejanja, ki so slaba ali neeti&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivica, zabloda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Any good parent feels strongly about right and wrong.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wrong 
+</seg>
+je nepravi&ccaron;no dejanje ali polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In a democracy wrongs should be righted by the vote and not by violence.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wrong someone 
+</seg>
+pomeni z nekom ravnati grdo ali nepravi&ccaron;no; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nekomu storiti krivico, biti krivi&ccaron;en
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tista stran tkanine ali papirja, ki je 
+<seg type="lemma">
+wrong
+</seg>
+, bi morala biti obrnjena navznoter ali navzdol in se ne bi smela videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hrbten
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get something wrong 
+</seg>
+pomeni narediti napako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think she got his name wrong.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To go wrong 
+</seg>
+pomeni narediti napako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Where did I go wrong?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+goes wrong
+</seg>
+, preneha delovati ali ni ve&ccaron; uspe&scaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Computers do go wrong.
+</quote>
+<quote>
+Their relationship went wrong after the birth of their child.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be in the wrong 
+</seg>
+pomeni, da je tisto, kar po&ccaron;nemo, neeti&ccaron;no ali nedovoljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v zmoti, napa&ccaron;no ravnati
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

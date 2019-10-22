@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sacrifice
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;krIfaIs/
+</pron>
+</form>
+<form type="inflected">
+sacrifices, sacrificing, sacrificed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sacrifice an animal 
+</seg>
+pomeni ubiti &zcaron;ival in jo ponuditi Bogu ali bo&zcaron;anstvu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+darovati, &zcaron;rtvovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+White animals were sacrificed by white-robed priests.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a ritual sacrifice.
+</quote>
+<quote>
+...human sacrifice.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sacrifice something 
+</seg>
+pomeni, da se odre&ccaron;emo ne&ccaron;emu dragocenemu ali pomembnemu, pogosto zato, da naredimo nekaj za koga drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;rtvovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...women who have sacrificed career and marriage to care for elderly relatives.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a mother&apos;s sacrifices for her children.
+</quote>
+<quote>
+...a story of bravery and sacrifice.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

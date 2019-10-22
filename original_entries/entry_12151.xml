@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+roost
+</orth>
+<form type="variant">
+<pron>
+/r*u*:st/
+</pron>
+</form>
+<form type="inflected">
+roosts, roosting, roosted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A roost 
+</seg>
+je kraj, kjer ptice po&ccaron;ivajo ali spletejo gnezda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnezdi&scaron;&ccaron;e, gred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The gulls were returning to their roosts among the rocks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptice 
+<seg type="lemma">
+roost
+</seg>
+, se nekje namestijo in tam preno&ccaron;ijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The chickens roost there all winter.
+</quote>
+</seg>
+</sense>
+</entry>

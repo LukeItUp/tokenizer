@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+phone
+</orth>
+<form type="variant">
+<pron>
+/f*@*Un/
+</pron>
+</form>
+<form type="inflected">
+phones, phoning, phoned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The phone 
+</seg>
+je elektri&ccaron;ni sistem, ob pomo&ccaron;i katerega se lahko pogovarjamo z nekom, ki je na kakem drugem kraju. Na napravi zavrtimo ali vtipkamo &scaron;tevilko in govorimo v slu&scaron;alko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telefon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of the work is carried out over the phone.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I must go and make a phone call.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A phone 
+</seg>
+je tudi naprava, ki jo uporabljamo, ko nekomu telefoniramo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telefon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m scared to answer the phone.
+</quote>
+<quote>
+The phone rang.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+phones someone
+</seg>
+, zavrti telefonsko &scaron;tevilko nekoga in se z njim pogovarja po telefonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telefonirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I went to phone Jenny.
+</quote>
+<quote>
+Harland phoned to tell me what time the bus was due.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+on the phone
+</seg>
+, se z nekom pogovarja po telefonu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na telefonu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I spent an hour on the phone trying to sort things out.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Re&ccaron;emo tudi, da je &ccaron;lovek 
+<seg type="lemma">
+on the phone
+</seg>
+, kadar ima v hi&scaron;i ali stanovanju telefon. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti telefon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are you on the phone?
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

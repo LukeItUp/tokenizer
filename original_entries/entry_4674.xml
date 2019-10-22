@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enemy
+</orth>
+<form type="variant">
+<pron>
+/*en@mi1/
+</pron>
+</form>
+<form type="inflected">
+enemies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;loveka, ki nam namerava storiti kaj slabega, imenujemo 
+<seg type="lemma">
+an enemy
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sovra&zcaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an enemy of society.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The enemy 
+</seg>
+je vojska ali dr&zcaron;ava, s katero se bojujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sovra&zcaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the enemy had been forced back.
+</quote>
+<quote>
+...enemy aircraft.
+</quote>
+</seg>
+</sense>
+</entry>

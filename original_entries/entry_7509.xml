@@ -1,0 +1,154 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inject
+</orth>
+<form type="variant">
+<pron>
+/IndZ*ekt/
+</pron>
+</form>
+<form type="inflected">
+injects, injecting, injected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inject someone with a liquid 
+</seg>
+pomeni z injekcijo nekaj vbrizgati nekomu v telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati injekcijo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She injected a sleeping drug into my arm.
+</quote>
+<quote>
+Animals were injected with various doses.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+injection
+</orth>
+<form type="variant">
+<pron>
+/IndZ*ekS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You had a smallpox injection when you were five.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inject something into a situation 
+</seg>
+pomeni okoli&scaron;&ccaron;inam dodati nekaj, na primer vznemirjenje ali zanimivost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodati, popestriti, po&zcaron;iviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was trying to inject some fun into the grim proceedings.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inject money into a business or organization 
+</seg>
+pomeni neko podjetje ali organizacijo oskrbeti z ve&ccaron; denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Enormous sums of money are injected each year into teaching.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+injection
+</orth>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...massive injections of commercial funds.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

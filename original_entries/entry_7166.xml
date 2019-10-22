@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impact
+</orth>
+<form type="variant">
+<pron>
+/*Imp&ae;kt/
+</pron>
+</form>
+<form type="inflected">
+impacts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes an impact on a situation or person
+</seg>
+, ima mo&ccaron;an vpliv na dolo&ccaron;ene okoli&scaron;&ccaron;ine ali osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpliv; zapustiti mo&ccaron;an vtis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the impact of computing on routine office work.
+</quote>
+<quote>
+British authors make relatively little impact abroad.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The impact of one object on another 
+</seg>
+je sila, s katero en predmet zadene drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udarec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many modern bullets produce an explosive effect upon impact.
+</quote>
+</seg>
+</sense>
+</entry>

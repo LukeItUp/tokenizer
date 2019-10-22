@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inspect
+</orth>
+<form type="variant">
+<pron>
+/Insp*ekt/
+</pron>
+</form>
+<form type="inflected">
+inspects, inspecting, inspected.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inspect something 
+</seg>
+pomeni nekaj pazljivo pregledati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She inspected his scalp for lice.
+</quote>
+<quote>
+The kitchens were now amongst the cleanest he had inspected.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inspection
+</orth>
+<form type="variant">
+<pron>
+/Insp*ekS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Closer inspection revealed crabs among the rocks.
+</quote>
+<quote>
+...an inspection of the kitchen.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+likely
+</orth>
+<form type="variant">
+<pron>
+/l*a*Ikli1/
+</pron>
+</form>
+<form type="inflected">
+likelier, likeliest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+likely
+</seg>
+, je najbr&zcaron; res ali se bo verjetno zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verjeten, mo&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It seemed hardly likely that they would agree.
+</quote>
+<quote>
+What kind of change is likely?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+likely to do something
+</seg>
+, bo tisto verjetno storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+verjetno je, da
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were not likely to forget it.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Very likely 
+</seg>
+ali 
+<seg type="variant">
+most likely 
+</seg>
+pomeni verjetno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vsej verjetnosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most likely it will be a woman.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+likely 
+</seg>
+opisujemo osebe, ki bodo verjetno primerne za dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The local committee is always looking out for likely recruits.
+</quote>
+</seg>
+</sense>
+</entry>

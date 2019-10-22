@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+murmur
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:m@/
+</pron>
+</form>
+<form type="inflected">
+murmurs, murmuring, murmured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+murmurs something
+</seg>
+, nekaj re&ccaron;e zelo potiho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamrmrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Darling,&rsquo; she murmured.
+</quote>
+<quote>
+They murmured agreement.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A murmur 
+</seg>
+je nekaj, kar nekdo re&ccaron;e, pa se komaj sli&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrmranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were murmurs of sympathy.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A murmur 
+</seg>
+je tudi neprekinjen, tih, nerazlo&ccaron;en zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrmranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the murmur of waves on a beach.
+</quote>
+</seg>
+</sense>
+</entry>

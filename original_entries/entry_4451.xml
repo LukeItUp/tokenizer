@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eccentric
+</orth>
+<form type="variant">
+<pron>
+/I2ks*entrIk/
+</pron>
+</form>
+<form type="inflected">
+eccentrics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+eccentric
+</seg>
+, ima navade in prepri&ccaron;anja, ki se drugim zdijo &ccaron;udni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;uda&scaron;ki, prenapet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a slightly eccentric Frenchman.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+eccentricity
+</orth>
+<form type="variant">
+<pron>
+/*eksentr*IsI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the eccentricity of Rose's behaviour.
+</quote>
+<quote>
+...her husband's eccentricities.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An eccentric 
+</seg>
+je oseba &ccaron;udnih navad in prepri&ccaron;anj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;udak, prenapete&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bunch of harmless eccentrics.
+</quote>
+</seg>
+</sense>
+</entry>

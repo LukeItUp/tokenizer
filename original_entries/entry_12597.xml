@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+select
+</orth>
+<form type="variant">
+<pron>
+/sI2l*ekt/
+</pron>
+</form>
+<form type="inflected">
+selects, selecting, selected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To select something 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+to choose something
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They select books that seem to them important.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+selected
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We were shown carefully selected places during our visit.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+select
+</seg>
+, po splo&scaron;nem mnenju sodi med najbolj&scaron;e svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are members of a select band of professional athletes.
+</quote>
+</seg>
+</sense>
+</entry>

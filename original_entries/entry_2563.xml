@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+coil
+</orth>
+<form type="variant">
+<pron>
+/k*O*Il/
+</pron>
+</form>
+<form type="inflected">
+coils, coiling, coiled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A coil of rope or wire 
+</seg>
+je kos vrvi ali &zcaron;ice, zvit v vrsto zank. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navitek; navitje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A coil 
+</seg>
+je ena sama zanka v navitku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navoj, zavoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Pythons kill by tightening their coils so that their victim cannot breathe.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+coils 
+</seg>
+ali kadar &ccaron;lovek 
+<seg type="lemma">
+coil something up
+</seg>
+, se tisto zvija v vrsto zank ali v obliko prstana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oviti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thick smoke coiled up over the fields.
+</quote>
+<quote>
+He coiled up the hose.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+coiled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The base is made of coiled springs.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

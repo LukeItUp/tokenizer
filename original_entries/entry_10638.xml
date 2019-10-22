@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plague
+</orth>
+<form type="variant">
+<pron>
+/pl*e*Ig/
+</pron>
+</form>
+<form type="inflected">
+plagues, plaguing, plagued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plague 
+</seg>
+je zelo nalezljiva bolezen, ki se hitro &scaron;iri in zaradi katere umre veliko ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kuga
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plague of unpleasant things 
+</seg>
+je mno&zcaron;ica neprijetnih stvari, ki se dogajajo ali pridejo naenkrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naval, nadloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a plague of locusts.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neprijetne stvari 
+<seg type="lemma">
+plague someone
+</seg>
+, se nekomu kar naprej dogajajo in mu povzro&ccaron;ajo veliko te&zcaron;av. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mu&ccaron;iti, povzro&ccaron;ati te&zcaron;ave
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The system is plagued by technical faults.
+</quote>
+<quote>
+He suffered severe back injuries, which plague him to this day.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plague someone 
+</seg>
+pomeni nenehno nekoga motiti ali ga za nekaj prositi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadlegovati, gnjaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The readers were urged to plague their MP with letters of protest.
+</quote>
+</seg>
+</sense>
+</entry>

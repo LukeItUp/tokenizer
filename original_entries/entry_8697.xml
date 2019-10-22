@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+manuscript
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;nj@4skrIpt/
+</pron>
+</form>
+<form type="inflected">
+manuscripts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A manuscript 
+</seg>
+je tipkano ali na roko napisano besedilo knjige, preden je natisnjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rokopis
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A manuscript 
+</seg>
+je tudi star dokument, napisan na roko &scaron;e v &ccaron;asu pred izumom tiska. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rokopis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a medieval manuscript.
+</quote>
+</seg>
+</sense>
+</entry>

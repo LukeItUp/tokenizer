@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spin
+</orth>
+<form type="variant">
+<pron>
+/sp*In/
+</pron>
+</form>
+<form type="inflected">
+spins, spinning, spun
+</form>
+<form type="variant">
+<pron>
+/sp*Vn/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+spins
+</seg>
+, se hitro obra&ccaron;a okoli osi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The football went spinning into the canal.
+</quote>
+<quote>
+He spun the chair round to face the desk.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+one&apos;s head is spinning
+</seg>
+ pomeni, da &ccaron;lovek &ccaron;uti omotico in je zmeden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His head was spinning from wine and liqueurs.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spin 
+</seg>
+pomeni zvijati vlakna v nit s posebnim pripomo&ccaron;kom ali strojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His wife was spinning wool.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+spin out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To spin something out 
+</seg>
+pomeni vesti se tako, da nekaj traja dlje, kot bi sicer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razvle&ccaron;i, raztegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I might be able to spin my talk out to three-quarters of an hour.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

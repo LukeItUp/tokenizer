@@ -1,0 +1,122 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hole
+</orth>
+<form type="variant">
+<pron>
+/h*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+holes, holing, holed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hole 
+</seg>
+je odprtina ali prazen prostor v ne&ccaron;em trdnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+luknja, jama
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What do you recommend for filling holes and cracks?
+</quote>
+<quote>
+...a deep hole in the ground.
+</quote>
+<quote>
+He was wearing grey socks with holes in them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pick holes in an argument or theory 
+</seg>
+pomeni najti &scaron;ibke to&ccaron;ke v neki trditvi ali teoriji; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kritizirati, sesuvati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Neprijeten kraj lahko imenujemo 
+<seg type="lemma">
+a hole
+</seg>
+; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+luknja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Why don&apos;t you leave this awful hole and come to live with me?
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka stavba ali ladja 
+<seg type="lemma">
+is holed
+</seg>
+, vanjo naredijo luknje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preluknjati; preluknjan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The buildings were holed by shrapnel.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,228 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+string
+</orth>
+<form type="variant">
+<pron>
+/str*IN/
+</pron>
+</form>
+<form type="inflected">
+strings, stringing, strung
+</form>
+<form type="variant">
+<pron>
+/str*VN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+String 
+</seg>
+je tanka vrv, narejena iz prepletenih niti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrvica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ball of string.
+</quote>
+<quote>
+...a bunch of balloons on a string.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A string of things 
+</seg>
+je ve&ccaron; stvari na isti niti ali &zcaron;ici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a string of beads round her neck.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A string 
+</seg>
+je vrsta ali zaporedje podobnih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a string of islands.
+</quote>
+<quote>
+...the latest in a string of hotel disasters.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The strings 
+</seg>
+so pri glasbenem in&scaron;trumentu mo&ccaron;no napete kovinske ali plasti&ccaron;ne niti, ki z nihanjem ustvarjajo zvoke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+struna
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The strings 
+</seg>
+je del orkestra, ki ga sestavljajo in&scaron;trumenti s strunami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+godala
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To pull strings to get something done 
+</seg>
+pomeni uporabiti svoj vpliv, da se nekaj zgodi; 
+</def>
+<usg>
+beseda pogosto izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+uporabiti zveze
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nam nekdo nekaj ponudi 
+<seg type="lemma">
+with no strings attached
+</seg>
+, svoje ponudbe ne pogojuje z dodatnimi pogoji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez dodatnih pogojev, brez posebnih zahtev
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+string out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar so stvari 
+<seg type="lemma">
+strung out somewhere
+</seg>
+, so nekje razporejene v dolgi vrsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti razprostrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...small towns strung out along the dirt roads.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+string together.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To string things together 
+</seg>
+pomeni stvari zbirati drugo za drugo, da jih pove&zcaron;emo v celoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nanizati, nabrati skupaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I strung together some rhymes to amuse her.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inhibit
+</orth>
+<form type="variant">
+<pron>
+/Inh*IbIt/
+</pron>
+</form>
+<form type="inflected">
+inhibits, inhibiting, inhibited.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+inhibits growth or development
+</seg>
+, prepre&ccaron;i rast ali razvoj ali ga upo&ccaron;asni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustaviti, ovirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The drugs with which the animals are fed inhibit their development.
+</quote>
+</seg>
+</sense>
+</entry>

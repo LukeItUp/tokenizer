@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reticent
+</orth>
+<form type="variant">
+<pron>
+/r*etIs@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+reticent about something
+</seg>
+, o tisti stvari ne govori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was always extremely reticent about her colleagues.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+reticence
+</orth>
+<form type="variant">
+<pron>
+/r*etIs@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...her reticence about her personal life.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

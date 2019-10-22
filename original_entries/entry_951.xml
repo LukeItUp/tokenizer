@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+baby
+</orth>
+<form type="variant">
+<pron>
+/b*e*Ibi1/
+</pron>
+</form>
+<form type="inflected">
+babies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A baby 
+</seg>
+je zelo majhen otrok, ki &scaron;e ne zna hoditi in govoriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dojen&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Nekateri z besedo 
+<seg type="lemma">
+baby 
+</seg>
+ljube&ccaron;e nagovarjajo druge; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dragi, sr&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don't worry, baby, I'll think of something.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+payable
+</orth>
+<form type="variant">
+<pron>
+/p*e*I@b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Znesek, ki je 
+<seg type="lemma">
+payable
+</seg>
+, je treba pla&ccaron;ati ali je izpla&ccaron;ljiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The interest payable on these loans was vast.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;ek 
+<seg type="lemma">
+made payable to someone
+</seg>
+, je na njem napisano ime te osebe kot znak, naj bo znesek na &ccaron;eku izpla&ccaron;an njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasiti se ne, biti napisan na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cheques should be made payable to Trans Euro Travel Ltd.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+text
+</orth>
+<form type="variant">
+<pron>
+/t*ekst/
+</pron>
+</form>
+<form type="inflected">
+texts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The text of a book 
+</seg>
+je glavni napisani del knjige, ne pa uvod, slike ali kazalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besedilo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Text 
+</seg>
+je vsako napisano gradivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besedilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These machines have the capacity to &lsquo;read&rsquo; printed text.
+</quote>
+<quote>
+Herr Kohl produced the text of his statement.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A text 
+</seg>
+je knjiga ali druga&ccaron;e zapisano besedilo, povezano z dolo&ccaron;enim znanstvenim podro&ccaron;jem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besedilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a text on Oriental philosophy.
+</quote>
+</seg>
+</sense>
+</entry>

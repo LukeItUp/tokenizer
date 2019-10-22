@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+evening
+</orth>
+<form type="variant">
+<pron>
+/*i*:vnIN/
+</pron>
+</form>
+<form type="inflected">
+evenings.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The evening 
+</seg>
+je del dneva med koncem popoldneva in &ccaron;asom, ko gremo v posteljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;er
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He arrived about six in the evening.
+</quote>
+<quote>
+Each evening he runs 5 miles.
+</quote>
+<quote>
+He was silently finishing his evening meal.
+</quote>
+</seg>
+</sense>
+</entry>

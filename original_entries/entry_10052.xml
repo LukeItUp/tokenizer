@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overhaul
+</orth>
+<form type="variant">
+<pron>
+/*@*Uv@h*O*:l/
+</pron>
+</form>
+<form type="inflected">
+overhauls, overhauling, overhauled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To overhaul a piece of equipment 
+</seg>
+pomeni o&ccaron;istiti in preveriti delovanje naprave ter jo po potrebi popraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregledati, narediti remont
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The engines were overhauled before our departure.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+overhauls a system or method
+</seg>
+, natan&ccaron;no pregleda sistem ali postopek in ga spremeni, da bi ga izbolj&scaron;al. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preu&ccaron;iti in izbolj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The company needs to overhaul its techniques and methods.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a major overhaul of the country&apos;s educational system.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

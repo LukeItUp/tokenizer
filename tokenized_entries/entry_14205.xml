@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p774_s852022" id="p774_w842" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="308.502" base="314.91" width="28.439" height="8.514">takeoff</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p774_s852023" id="p774_w843" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="282.99" y="309.748" base="314.91" width="28.4516" height="6.844">/te&#203;k&#201;f/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p774_s852024" id="p774_w844" font-name="ssunivers" symbolic="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="313.03" y="309.57" base="314.91" width="26.9892" height="7.08">takeoffs.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p774_s852025" id="p774_w845" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="341.58" y="310.994" base="314.91" width="27.2141" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p774_s852026" id="p774_w846" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="369.874" y="310.994" base="314.91" width="4.12335" height="5.192">N</TOKEN>
+<seg>
+<TOKEN sid="p774_s852027" id="p774_w847" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="375.101" y="310.994" base="314.91" width="4.94901" height="5.192">or</TOKEN>
+</seg>
+<TOKEN sid="p774_s852028" id="p774_w848" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="381.155" y="310.994" base="314.91" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p774_s852029" id="p774_w849" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="401.194" y="310.994" base="314.91" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p774_s852030" id="p774_w850" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.9" y="309.214" base="314.91" width="25.5413" height="7.552">Takeoff</TOKEN>
+</seg>
+<TOKEN sid="p774_s852031" id="p774_w851" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="434.03" y="309.214" base="314.91" width="5.9904" height="7.552">je</TOKEN>
+<TOKEN sid="p774_s852032" id="p774_w852" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="318.294" base="323.99" width="24.9379" height="7.552">za~etek</TOKEN>
+<TOKEN sid="p774_s852033" id="p774_w853" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.038" y="318.294" base="323.99" width="22.5403" height="7.552">poleta,</TOKEN>
+<TOKEN sid="p774_s852034" id="p774_w854" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="309.068" y="318.294" base="323.99" width="8.29152" height="7.552">ko</TOKEN>
+<TOKEN sid="p774_s852035" id="p774_w855" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.849" y="318.294" base="323.99" width="18.648" height="7.552">letalo</TOKEN>
+<TOKEN sid="p774_s852036" id="p774_w856" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.987" y="318.294" base="323.99" width="24.1315" height="7.552">zapusti</TOKEN>
+<TOKEN sid="p774_s852037" id="p774_w857" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="364.608" y="318.294" base="323.99" width="10.8706" height="7.552">tla.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p774_s852039" id="p774_w859" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.84" y="318.294" base="323.99" width="17.8488" height="7.552">vzlet;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p774_s852040" id="p774_w860" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="402.2" y="318.294" base="323.99" width="20.6532" height="7.552">&#8230;fifty</TOKEN>
+<TOKEN sid="p774_s852041" id="p774_w861" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.344" y="318.294" base="323.99" width="15.6722" height="7.552">min-</TOKEN>
+<TOKEN sid="p774_s852042" id="p774_w862" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="327.374" base="333.07" width="13.9946" height="7.552">utes</TOKEN>
+<TOKEN sid="p774_s852043" id="p774_w863" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="274.605" y="327.374" base="333.07" width="15.9955" height="7.552">after</TOKEN>
+<TOKEN sid="p774_s852044" id="p774_w864" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.6" y="327.374" base="333.07" width="25.3786" height="7.552">takeoff.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+crystal
+</orth>
+<form type="variant">
+<pron>
+/kr*Ist@0l/
+</pron>
+</form>
+<form type="inflected">
+crystals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crystal 
+</seg>
+je rudnina, ki je po naravni poti dobila pravilno simetri&ccaron;no obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kristal
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Pure copper is made up of layers of crystals.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Crystal 
+</seg>
+je prozoren kamen, ki ga uporabljamo za nakit in okraske. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kristal
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Crystal 
+</seg>
+je tudi zelo kakovostno steklo, ki ima povr&scaron;ino navadno bru&scaron;eno v vzorce. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kristalno steklo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a shimmering crystal chandelier.
+</quote>
+</seg>
+</sense>
+</entry>

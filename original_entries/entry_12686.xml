@@ -1,0 +1,355 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+serve
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:v/
+</pron>
+</form>
+<form type="inflected">
+serves, serving, served.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To serve one&apos;s country, an organization, or a person 
+</seg>
+pomeni opravljati koristno delo za svojo dr&zcaron;avo, neko ustanovo ali osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slu&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For over thirty years, she has served the company loyally and well.
+</quote>
+<quote>
+He served with the army in France.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT, TO-INF, 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+serves as a particular thing 
+</seg>
+ali 
+<seg type="lemma">
+serves a particular purpose
+</seg>
+, ima uporaba tistega dolo&ccaron;en namen oziroma ne&ccaron;emu slu&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slu&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a long, grey building that served as a cafeteria.
+</quote>
+<quote>
+His refusal to answer only serves to increase our suspicions.
+</quote>
+<quote>
+I failed to see what purpose this could serve.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+serves people or an area
+</seg>
+, ljudem ali nekemu obmo&ccaron;ju da tisto, kar potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slu&zcaron;iti, oskrbovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were five water taps to serve all thirty camps.
+</quote>
+<quote>
+...work which will serve the community.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To serve people 
+</seg>
+ali 
+<seg type="lemma">
+to serve food and drink 
+</seg>
+pomeni dati ljudem hrano in pija&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When everybody had been served, the meal began.
+</quote>
+<quote>
+I served the children their meal.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar prodajalec 
+<seg type="lemma">
+serves someone
+</seg>
+, stranki ponudi izdelke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are you being served?
+</quote>
+<quote>
+She spent six months serving in a shop.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sodi&scaron;&ccaron;e 
+<seg type="lemma">
+serves a legal order on someone 
+</seg>
+ali 
+<seg type="lemma">
+serves someone with a legal order
+</seg>
+, nekomu po&scaron;lje uradno odredbo; 
+</def>
+<usg>
+pravna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dostaviti, vro&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To serve a prison sentence 
+</seg>
+pomeni pre&zcaron;iveti dolo&ccaron;en &ccaron;as v zaporu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestajati zaporno kazen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is now serving a life sentence in an Italian jail.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo pri tenisu 
+<seg type="lemma">
+serves
+</seg>
+, vr&zcaron;e &zcaron;ogico v zrak, jo udari z loparjem in tako za&ccaron;ne igro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+servirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s my turn to serve.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her second serve went into the net.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="9">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+It serves someone right 
+</seg>
+re&ccaron;emo takrat, ko se nekomu zgodi nekaj neprijetnega, za kar je po na&scaron;em mnenju kriv sam, zato se nam prav ni&ccaron; ne smili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prav mu bodi
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="10">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+serving.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+serve out 
+<VS>
+ali 
+</VS>
+<VV>
+serve up.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To serve out food 
+</seg>
+ali 
+<seg type="variant">
+to serve it up 
+</seg>
+pomeni ljudem dati obrok hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+servirati, deliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Army kitchens serve up better fare than some hotels do.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

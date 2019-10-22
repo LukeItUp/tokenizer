@@ -1,0 +1,232 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+risk
+</orth>
+<form type="variant">
+<pron>
+/r*Isk/
+</pron>
+</form>
+<form type="inflected">
+risks, risking, risked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar obstaja 
+<seg type="lemma">
+a risk of something unpleasant
+</seg>
+, obstaja mo&zcaron;nost, da se zgodi nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevarnost, mo&zcaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is very little risk of infection.
+</quote>
+<quote>
+...the risk that their men might disappear without trace.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+a risk
+</seg>
+, ima lahko nevarne ali neprijetne posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tveganje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Such a response would be an irrational risk.
+</quote>
+<quote>
+Your television is a fire risk if left plugged in overnight.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To risk something unpleasant 
+</seg>
+pomeni narediti nekaj, &ccaron;eprav vemo, da ima to lahko neprijetne posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were willing to risk losing their jobs.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To risk an action 
+</seg>
+pomeni, da nekaj naredimo, &ccaron;eprav vemo, da utegne imeti neza&zcaron;elene posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you have an expensive rug, don&apos;t risk washing it yourself.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To risk someone&apos;s life 
+</seg>
+pomeni nekoga postaviti v nevaren polo&zcaron;aj, v katerem tvega &zcaron;ivljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had risked her life to help save mine.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+at risk
+</seg>
+, je v polo&zcaron;aju, ko se mu lahko zgodi kaj neprijetnega ali nevarnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogro&zcaron;en, v nevarnosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;re putting my career at risk.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To do something at one&apos;s own risk 
+</seg>
+pomeni, da bo v primeru, da se nekomu kaj zgodi, odgovornost za to samo njegova. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na (svojo) lastno odgovornost
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To run the risk of doing or experiencing something 
+</seg>
+pomeni, da se zavestno odlo&ccaron;imo, da bomo nekaj naredili, &ccaron;eprav vemo, da ima lahko neza&zcaron;elene ali nevarne posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We run the risk of confusing the voters.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take a risk 
+</seg>
+pomeni narediti nekaj, za kar vemo, da utegne biti nevarno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am taking a tremendous risk.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

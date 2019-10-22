@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ease
+</orth>
+<form type="variant">
+<pron>
+/*i*:z/
+</pron>
+</form>
+<form type="inflected">
+eases, easing, eased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Ease 
+</seg>
+je odsotnost te&zcaron;avnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lahkota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She performed this trick with ease.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be at ease 
+</seg>
+pomeni po&ccaron;utiti se samozavestno in udobno. 
+<FV>
+To be ill at ease 
+</FV>
+pomeni biti prestra&scaron;en ali zaskrbljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&scaron;&ccaron;en; nespro&scaron;&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was at ease with strangers.
+</quote>
+<quote>
+Brody felt ill at ease and patronized.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+eases an unpleasant situation
+</seg>
+, naredi neprijeten polo&zcaron;aj manj znosnej&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(o)laj&scaron;ati, (u)bla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bungalows were built to ease the housing shortage.
+</quote>
+<quote>
+...a powder which eased the pain.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+eases 
+</seg>
+ali 
+<seg type="lemma">
+eases off
+</seg>
+, se zmanj&scaron;a po stopnji, koli&ccaron;ini ali mo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popustiti, ponehati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crude oil prices have eased slightly.
+</quote>
+<quote>
+The rain had eased off.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ease something somewhere 
+</seg>
+pomeni nekaj po&ccaron;asi in previdno nekam premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekoliko prestaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I eased the back door open.
+</quote>
+</seg>
+</sense>
+</entry>

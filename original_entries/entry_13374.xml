@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+specialist
+</orth>
+<form type="variant">
+<pron>
+/sp*eS@lIst/
+</pron>
+</form>
+<form type="inflected">
+specialists.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A specialist 
+</seg>
+je oseba, ki ima posebne spretnosti ali veliko ve o dolo&ccaron;enem podro&ccaron;ju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+specialist, strokovnjak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an eye specialist.
+</quote>
+<quote>
+She is a specialist in Eastern European affairs.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a specialist teacher of mathematics.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intellect
+</orth>
+<form type="variant">
+<pron>
+/*Int@2lekt/
+</pron>
+</form>
+<form type="inflected">
+intellects.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Intellect 
+</seg>
+je sposobnost za razmi&scaron;ljanje in razumevanje zamisli in podatkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razum
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the intellect of modern man.
+</quote>
+<quote>
+...the idea of computers with intellects.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Intellect 
+</seg>
+je tudi lastnost, da je &ccaron;lovek zelo pameten ali bister. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pamet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a family noted for its intellect.
+</quote>
+</seg>
+</sense>
+</entry>

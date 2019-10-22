@@ -1,0 +1,239 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+post
+</orth>
+<form type="variant">
+<pron>
+/p*@*Ust/
+</pron>
+</form>
+<form type="inflected">
+posts, posting, posted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The post 
+</seg>
+je sistem, ki zagotavlja pobiranje in dostavljanje pisem in paketov; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;ta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a cheque for you in the post.
+</quote>
+<quote>
+Winners will be notified by post.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+postal
+</orth>
+<form type="variant">
+<pron>
+/p*@*Ust@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...increases in postal charges.
+</quote>
+<quote>
+...the postal service.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s post 
+</seg>
+so pisma in po&scaron;iljke, ki pridejo na na&scaron; naslov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;ta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is some post for you.
+</quote>
+<quote>
+Rose was reluctant to answer her post.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To post a letter or parcel 
+</seg>
+pomeni poslati pismo ali paket nekomu tako, da ga vr&zcaron;emo v po&scaron;tni nabiralnik ali odnesemo na po&scaron;tni urad. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m going to post a letter.
+</quote>
+<quote>
+I&apos;ll be glad to post you details.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To keep someone posted 
+</seg>
+pomeni nekomu redno sporo&ccaron;ati, kaj se dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redno obve&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+David promised to keep them posted.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A post 
+</seg>
+je pokon&ccaron;na velika palica, zasajena v tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A dog sat chained to a post.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A post in an organization 
+</seg>
+je delovno mesto ali uradni polo&zcaron;aj v organizaciji; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+polo&zcaron;aj, mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is well qualified for the post.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be posted somewhere 
+</seg>
+pomeni, da nas organizacija, za katero delamo, nekam po&scaron;lje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have been posted to Paris.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+posting
+</ref>
+</xr>
+</sense>
+</entry>

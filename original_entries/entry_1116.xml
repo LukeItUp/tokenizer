@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bathe
+</orth>
+<form type="variant">
+<pron>
+/b*e*ID/
+</pron>
+</form>
+<form type="inflected">
+bathes, bathing, bathed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bathe 
+</seg>
+v morju, reki ali jezeru pomeni tam plavati ali se igrati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is dangerous to bathe in the sea here.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Let's go for a bathe.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bathe 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+to have a bath
+</seg>
+; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kopati se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bathe a wound 
+</seg>
+pomeni previdno umiti rano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;istiti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki prostor 
+<seg type="lemma">
+bathed in light
+</seg>
+, je zelo svetel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopati se v svetlobi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room was bathed in sunlight.
+</quote>
+</seg>
+</sense>
+</entry>

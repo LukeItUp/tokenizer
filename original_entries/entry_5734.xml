@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+freezing point.
+</orth>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Freezing point 
+</seg>
+je 0 &deg;Celzija; pri tej temperaturi voda zmrzne.
+</def>
+<cit type="translationEquivalent">
+<quote>
+ledi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The temperature was well above freezing point.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The freezing point of a particular substance 
+</seg>
+je temperatura, pri kateri dolo&ccaron;ena snov zmrzne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ledi&scaron;&ccaron;e
+</quote>
+</cit>
+</sense>
+</entry>

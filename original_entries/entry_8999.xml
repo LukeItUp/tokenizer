@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+military
+</orth>
+<form type="variant">
+<pron>
+/m*IlIt@0ri1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Military 
+</seg>
+se nana&scaron;a na oboro&zcaron;ene sile neke dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voja&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...military leaders.
+</quote>
+<quote>
+...direct military action.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The military 
+</seg>
+so oboro&zcaron;ene sile neke dr&zcaron;ave, zlasti &ccaron;astniki z visokimi &ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vojska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The politicians and the military will do nothing.
+</quote>
+</seg>
+</sense>
+</entry>

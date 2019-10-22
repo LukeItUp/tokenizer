@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+locate
+</orth>
+<form type="variant">
+<pron>
+/l@Uk*e*It/
+</pron>
+</form>
+<form type="inflected">
+locates, locating, located;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To locate something or someone 
+</seg>
+pomeni najti nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiskati, zaslediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you do locate him, call me.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+located in a particular place
+</seg>
+, je na dolo&ccaron;enem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati, stati, biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house was located in the heart of the city.
+</quote>
+</seg>
+</sense>
+</entry>

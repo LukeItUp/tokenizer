@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+buoyant
+</orth>
+<form type="variant">
+<pron>
+/b*O*I@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+buoyant
+</seg>
+, je vesel in &zcaron;ivahen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veder, &ccaron;il
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He suddenly smiled, feeling buoyant and at ease.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+buoyancy
+</orth>
+<form type="variant">
+<pron>
+/b*O*I@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Without Alfred's buoyancy and originality we would never have succeeded.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+buoyant
+</seg>
+, plava na gladini ali lebdi v zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plavajo&ccaron;, lebde&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a row of buoyant cylinders.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+buoyancy
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+New chambers were added to provide buoyancy.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

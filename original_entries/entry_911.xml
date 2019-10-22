@@ -5,7 +5,7 @@ average
 </orth>
 <form type="variant">
 <pron>
-/*#ae;v@0rIdZ/
+/*&ae;v@0rIdZ/
 </pron>
 </form>
 <form type="inflected">
@@ -20,23 +20,21 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An average
+An average 
 </seg>
-je izid, ki ga dobimo, kadar
-se&#353;tejemo ve&#269; zneskov in se&#353;tevek delimo s &#353;tevilom zneskov.
+je izid, ki ga dobimo, kadar se&scaron;tejemo ve&ccaron; zneskov in se&scaron;tevek delimo s &scaron;tevilom zneskov. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-povpre&#269;je
+povpre&ccaron;je
 </quote>
 </cit>
 <seg type="example">
 <quote>
-These pupils were examined in 39 subjects, an average of 6.5 subjects for
-each pupil.
+These pupils were examined in 39 subjects, an average of 6.5 subjects for each pupil.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ATTRIB ADJ
@@ -47,28 +45,27 @@ ATTRIB ADJ
 The average age of the group was thirty-nine years.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 COMPLEMENT
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To average a particular amount
+To average a particular amount 
 </seg>
-pomeni, da
-tista koli&#269;ina velja kot povpre&#269;je v dolo&#269;enem &#269;asu.
+pomeni, da tista koli&ccaron;ina velja kot povpre&ccaron;je v dolo&ccaron;enem &ccaron;asu. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-imeti povpre&#269;no vrednost, enakomerno porazdeliti
+imeti povpre&ccaron;no vrednost, enakomerno porazdeliti
 </quote>
 </cit>
 <seg type="example">
@@ -84,16 +81,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 average
 </seg>
-je zna&#269;ilno za normalno
-velikost ali kakovost.
+, je zna&ccaron;ilno za normalno velikost ali kakovost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-povpre&#269;en, srednje vrednosti
+povpre&ccaron;en, srednje vrednosti
 </quote>
 </cit>
 <seg type="example">
@@ -113,27 +109,24 @@ PHRASE
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar re&#269;emo
+Kadar re&ccaron;emo 
 <seg type="lemma">
 on average
 </seg>
-ho&#269;emo
-povedati, da je dolo&#269;eno &#353;tevilo povpre&#269;je ve&#269; &#353;tevil.
+, ho&ccaron;emo povedati, da je dolo&ccaron;eno &scaron;tevilo povpre&ccaron;je ve&ccaron; &scaron;tevil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-v povpre&#269;ju
+v povpre&ccaron;ju
 </quote>
 </cit>
 <seg type="example">
 <quote>
-We can discover how many words, on average, a person reads in a
-minute.
+We can discover how many words, on average, a person reads in a minute.
 </quote>
 </seg>
 </sense>
 </sense>
-<sense>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -147,16 +140,15 @@ PHR VB
 </gramGrp>
 <sense>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-averages out a set of
-numbers
+averages out a set of numbers
 </seg>
-izra&#269;una povpre&#269;je vrste &#353;tevil.
+, izra&ccaron;una povpre&ccaron;je vrste &scaron;tevil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-izra&#269;unati srednjo vrednost
+izra&ccaron;unati srednjo vrednost
 </quote>
 </cit>
 </sense>

@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oblige
+</orth>
+<form type="variant">
+<pron>
+/@6bl*a*IdZ/
+</pron>
+</form>
+<form type="inflected">
+obliges, obliging, obliged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+obliges someone to do something
+</seg>
+, v &ccaron;loveku vzbudi ob&ccaron;utek, da je tisto prisiljen storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvezovati, prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Politeness obliged me to go on with the conversation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+obliged
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I felt obliged to invite him into the parlour.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To oblige someone 
+</seg>
+pomeni nekomu pomagati tako, da naredimo tisto, kar nas ta &ccaron;lovek prosi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Who did you ask?&rsquo;&mdash;&lsquo;Charlie. He&apos;s only too glad to oblige.&rsquo;
+</quote>
+</seg>
+</sense>
+</entry>

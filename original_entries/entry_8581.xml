@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+magazine
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;g@z*i*:n/
+</pron>
+</form>
+<form type="inflected">
+magazines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A magazine 
+</seg>
+je tiskano gradivo, ki izhaja enkrat na teden ali mesec in vsebuje &ccaron;lanke, zgodbe, fotografije in oglase. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+revija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I got the recipe from a woman&apos;s magazine.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na radiu ali televiziji je 
+<seg type="lemma">
+a magazine 
+</seg>
+oddaja z zanimivimi prispevki o ljudeh in dogodkih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+magazin
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Newsbeat is the popular news magazine on Radio 1.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stalk
+</orth>
+<form type="variant">
+<pron>
+/st*O*:k/
+</pron>
+</form>
+<form type="inflected">
+stalks, stalking, stalked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The stalk of a flower, leaf, or fruit 
+</seg>
+je tanki del cveta, lista ali sade&zcaron;a, ki ga povezuje z drevesom ali drugo rastlino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+steblo, pecelj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stalk a person or a wild animal 
+</seg>
+pomeni potihoma in na skrivaj slediti neki osebi ali divji &zcaron;ivali, da bi jo ujeli ali opazovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zalezovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He moved like a tiger stalking its prey.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stalk somewhere 
+</seg>
+pomeni hoditi togo, ponosno ali jezno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;opiriti se, prevzetno hoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She stalked into the living room.
+</quote>
+</seg>
+</sense>
+</entry>

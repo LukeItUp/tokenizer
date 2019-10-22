@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+meditate
+</orth>
+<form type="variant">
+<pron>
+/m*edIteIt/
+</pron>
+</form>
+<form type="inflected">
+meditates, meditating, meditated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To meditate on something
+</seg>
+ pomeni razmi&scaron;ljati o ne&ccaron;em dolgo &ccaron;asa, skrbno in poglobljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmi&scaron;ljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was left alone to meditate on his sins.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+meditation
+</orth>
+<form type="variant">
+<pron>
+/m*edIt*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the subject of my meditation.
+</quote>
+<quote>
+I hope we will not disturb your meditations.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+meditates
+</seg>
+, je zbran, njegov duh pa je umirjen; to je pogosto del verskih vaj ali na&ccaron;ina &zcaron;ivljenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meditirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...meditating in the wilderness for seven days.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+meditation
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was deeply interested in meditation and yoga.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

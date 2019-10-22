@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loop
+</orth>
+<form type="variant">
+<pron>
+/l*u*:p/
+</pron>
+</form>
+<form type="inflected">
+loops, looping, looped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A loop 
+</seg>
+nastane, kadar nekaj dolgega dobi ukrivljeno obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanka, pentlja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...loops of blue and pink ribbon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To loop a rope or string around an object 
+</seg>
+pomeni privezati kos vrvi v obliki zanke okoli nekega predmeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The king had pearls looped round his neck.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+loops
+</seg>
+, se giblje v krogu, tako da nastane oblika zanke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti zanko, kro&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Birds loop and weave through the tall trees.
+</quote>
+</seg>
+</sense>
+</entry>

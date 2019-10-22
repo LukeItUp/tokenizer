@@ -1,0 +1,155 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lack
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;k/
+</pron>
+</form>
+<form type="inflected">
+lacks, lacking, lacked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ne&ccaron;esa ni dovolj ali tistega sploh ni, to imenujemo 
+<seg type="lemma">
+a lack of something
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomanjkanje, potreba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hated the lack of privacy in the dormitory.
+</quote>
+<quote>
+Lack of proper funding is making our job more difficult.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lack something 
+</seg>
+pomeni ne&ccaron;esa ne imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trpeti pomanjkanje ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They lack the confidence to make friends.
+</quote>
+<quote>
+The advertisement lacks any individuality.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is lacking
+</seg>
+, tistega ni dovolj ali sploh ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+primanjkovati, manjkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What is lacking in this case,&rsquo; he concluded, &lsquo;is a corpse.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+is lacking in a particular quality
+</seg>
+, dolo&ccaron;ene lastnosti nima ali je nima dovolj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne imeti, ne imeti dovolj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Philip was not lacking in intelligence or ability.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+No lack of something 
+</seg>
+pomeni, da je ne&ccaron;esa veliko in morda ve&ccaron;, kot je treba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dovolj, obilica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was no lack of schools to choose from.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

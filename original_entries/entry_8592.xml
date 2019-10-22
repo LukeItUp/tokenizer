@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+magnification
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;gnIfIk*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+magnifications.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Magnification 
+</seg>
+je postopek, pri katerem nekaj naredimo na videz ve&ccaron;je, kot je v resnici, na primer tako, da uporabimo mikroskop. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&ccaron;anje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri mikroskopu, teleskopu ali daljnogledu nam 
+<seg type="lemma">
+magnification 
+</seg>
+pove, kolikokrat ta naprava lahko pove&ccaron;a stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&ccaron;ava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the images, even under the highest magnification, were simply points of light.
+</quote>
+</seg>
+</sense>
+</entry>

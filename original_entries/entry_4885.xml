@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+evidence
+</orth>
+<form type="variant">
+<pron>
+/*evId@ns/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Evidence 
+</seg>
+so stvari, ki jih vidimo, do&zcaron;ivimo ali nam zanje povedo drugi in zaradi katerih verjamemo, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokaz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We saw evidence everywhere that a real effort was being made to promote tourism.
+</quote>
+<quote>
+There was no evidence of quarrels between them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give evidence in a court of law 
+</seg>
+pomeni na sodi&scaron;&ccaron;u povedati tisto, kar o ne&ccaron;em vemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;ati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekdo ali nekaj 
+<seg type="lemma">
+in evidence
+</seg>
+, je navzo&ccaron; in ga lahko jasno vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opazen, viden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Violence was particularly in evidence in the towns.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

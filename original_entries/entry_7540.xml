@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inquire
+</orth>
+<form type="variant">
+<pron>
+/IN1kw*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+inquires, inquiring, inquired;
+</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+enquire 
+</SV>
+<pron>
+/I2N1kw*a*I*@/
+</pron>
+.
+</SN>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To inquire about something 
+</seg>
+pomeni vpra&scaron;ati za podatke o ne&ccaron;em; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+poizvedeti, pozanimati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went to enquire about the times of trains to Edinburgh.
+</quote>
+<quote>
+He inquired whether it was possible to leave his case at the station.
+</quote>
+<quote>
+&lsquo;What will it cost?&rsquo; inquired Miss Musson.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+inquire after.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To inquire after someone 
+</seg>
+pomeni vpra&scaron;ati, kako nekomu gre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpra&scaron;ati po kom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She enquired after Mrs Carstair&apos;s daughter, who had just had a baby.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+inquire into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To inquire into something 
+</seg>
+pomeni nekaj preiskovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poizvedovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The police inquired into the deaths of two young girls.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

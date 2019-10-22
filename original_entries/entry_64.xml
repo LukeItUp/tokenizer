@@ -6,16 +6,16 @@ abuse,
 <form type="inflected">
 abuses, abusing, abused;
 </form>
-<form type="variant">
-samostalnik izgovarjamo
+<PN>
+samostalnik izgovarjamo 
 <pron>
 /@3bj*u*:s/
 </pron>
-glagol pa
+,glagol pa 
 <pron>
-/@3bj*u*:z/.
+/@3bj*u*:z/
 </pron>
-</form>
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -25,14 +25,13 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Abuse
+Abuse 
 </seg>
-so nevljudne in neprijazne besede,
-ki jih &#269;lovek izre&#269;e v jezi.
+so nevljudne in neprijazne besede, ki jih &ccaron;lovek izre&ccaron;e v jezi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#382;alitev, psovka
+&zcaron;alitev, psovka
 </quote>
 </cit>
 <seg type="example">
@@ -44,20 +43,19 @@ The girls shrieked abuse at the lawyers.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-abuses someone
+abuses someone,
 </seg>
-tistemu
-&#269;loveku govori nevljudne ali neprijazne besede ali z njim ravna kruto ali nasilno.
+tistemu &ccaron;loveku govori nevljudne ali neprijazne besede ali z njim ravna kruto ali nasilno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -76,19 +74,18 @@ The patients were often physically abused.
 <sense n="3">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Abuse of someone
+Abuse of someone 
 </seg>
-je kruto ali nasilno
-ravnanje z nekim &#269;lovekom.
+je kruto ali nasilno ravnanje z nekim &ccaron;lovekom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -104,23 +101,22 @@ zloraba, sramotitev
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To abuse something
+To abuse something 
 </seg>
-pomeni nekaj
-uporabljati narobe ali s slabim namenom.
+pomeni nekaj uporabljati narobe ali s slabim namenom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-zlorabiti, napa&#269;no uporabiti
+zlorabiti, napa&ccaron;no uporabiti
 </quote>
 </cit>
 </sense>
@@ -132,10 +128,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Abuse of something
+Abuse of something 
 </seg>
-je nepravilna raba ali
-uporaba ne&#269;esa v slabe namene.
+je nepravilna raba ali uporaba ne&ccaron;esa v slabe namene. 
 </def>
 <cit type="translationEquivalent">
 <quote>

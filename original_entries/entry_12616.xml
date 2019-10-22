@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+selfish
+</orth>
+<form type="variant">
+<pron>
+/s*elfIS/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+selfish
+</seg>
+, skrbi samo zase, za druge pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sebi&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a totally selfish attitude.
+</quote>
+<quote>
+How mean and selfish you are!
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+selfishly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Why is he acting so selfishly?
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+selfishness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He felt ashamed of his selfishness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

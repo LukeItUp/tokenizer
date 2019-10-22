@@ -1,0 +1,245 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+value
+</orth>
+<form type="variant">
+<pron>
+/v*&ae;lju:/
+</pron>
+</form>
+<form type="inflected">
+values, valuing, valued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The value of something 
+</seg>
+je pomembnost ali uporabnost ne&ccaron;esa, na primer lastnosti ali postopka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everyone realizes the value of sincerity.
+</quote>
+<quote>
+It should have novelty value, if nothing else.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The value of something 
+</seg>
+je znesek, ki bi ga lahko dobili za tisto, kar je v na&scaron;i lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What will happen to the value of my property?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The values of a person or group 
+</seg>
+so moralna na&ccaron;ela in prepri&ccaron;anja osebe ali skupine ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrednote
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the traditional values of civility and moderation.
+</quote>
+<quote>
+They have different values from the families they serve.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To value something 
+</seg>
+pomeni misliti, da je nekaj pomembno in imeti dobro mnenje o tistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Which do you value most&mdash;wealth or health?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+valued
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...one of our valued customers.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar strokovnjaki 
+<seg type="lemma">
+value something
+</seg>
+, dolo&ccaron;ijo, koliko je nekaj vredno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The table silver was valued at &pound;20,000.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+good value 
+</seg>
+ali 
+<FV>
+value for money
+</FV>
+, je vredno zneska, kolikor stane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vreden svoje cene, dobra kup&ccaron;ija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The set lunch is good value at &pound;5.95.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+of value
+</seg>
+, je uporabno ali pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vreden, koristen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nothing of value can be said about this matter.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put a high value on something 
+</seg>
+pomeni misliti, da je nekaj zelo pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+visoko ceniti, pripisovati velik pomen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He places a high value on educating his children.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take a remark or action at face value
+</seg>
+ pomeni sprejeti pripombo ali dejanje brez razmi&scaron;ljanja, kak&scaron;en pomen ali namen ima v resnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprejeti nekaj kot resni&ccaron;no ali iskreno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took the praise at face value.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

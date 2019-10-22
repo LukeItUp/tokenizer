@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contract,
+</orth>
+<form type="inflected">
+contracts, contracting, contracted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/k*Qntr&ae;kt/
+</pron>
+, glagol pa 
+<pron>
+/k@7ntr*&ae;kt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A contract 
+</seg>
+je pisni uradni sporazum, zlasti tak, ki je povezan s prodajo ne&ccaron;esa ali z opravljanjem nekega dela ali naloge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We won a contract to build fifty-eight planes.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+contractual
+</orth>
+<form type="variant">
+<pron>
+/k@7ntr*&ae;ktjU0@l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The union had a contractual agreement with the company.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contract with someone to do something 
+</seg>
+pomeni uradno privoliti, da bomo nekaj naredili; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+skleniti pogodbo, dogovoriti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They contracted to supply us with horses.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+contracts
+</seg>
+, postane manj&scaron;e ali kraj&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skr&ccaron;iti se, zo&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Metals expand with heat and contract with cold.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+contraction
+</orth>
+<form type="variant">
+<pron>
+/k@7ntr*&ae;kS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the contraction of the muscles.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contract an illness 
+</seg>
+pomeni nalesti se bolezni; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zboleti
+</quote>
+</cit>
+</sense>
+</entry>

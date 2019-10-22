@@ -1,0 +1,258 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rub
+</orth>
+<form type="variant">
+<pron>
+/r*Vb/
+</pron>
+</form>
+<form type="inflected">
+rubs, rubbing, rubbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rub something 
+</seg>
+pomeni premikati roko ali kos blaga sem ter tja po ne&ccaron;em in pri tem mo&ccaron;no pritiskati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drgniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He groaned and rubbed his eyes.
+</quote>
+<quote>
+He rubbed at his throat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rub a part of one&apos;s body against a surface 
+</seg>
+pomeni nasloniti del telesa ob neko povr&scaron;ino in ga ob njej premikati sem ter tja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podrgniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She rubbed her cheek against my temple.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rub a substance onto a surface 
+</seg>
+pomeni z roko razmazati snov po neki povr&scaron;ini in jo vtisniti vanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ointment he rubbed into the wound made it feel better.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve stvari 
+<seg type="lemma">
+rub together 
+</seg>
+ali kadar nekdo 
+<seg type="variant">
+rubs two things together
+</seg>
+, se dve stvari dotikata in premikata sem ter tja ena ob drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drgniti (se), meti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rubbed his hands and laughed.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To rub something in 
+</seg>
+pomeni govoriti o ne&ccaron;em, kar zadeva sogovornika ali poslu&scaron;alca in je zanj neprijetno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dra&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;How old are you? Forty?&rsquo;&mdash;&lsquo;All right, no need to rub it in.&rsquo;
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+rub salt into 
+</QF>
+<QI>
+someone&apos;s 
+</QI>
+<QF>
+wounds: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+salt
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+rub shoulders with 
+</QF>
+<QI>
+someone: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+shoulder
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rub off on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar navade ali lastnosti ene osebe 
+<seg type="lemma">
+rub off on another person
+</seg>
+, se potem, ko se dve osebi nekaj &ccaron;asa dru&zcaron;ita, navad ali lastnosti prve osebe navzame tudi druga; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prijeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They hoped that some of his prowess might rub off on them.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+rub out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rub out something 
+</seg>
+pomeni z radirko, krpo ali gobo odstraniti nekaj, kar je napisano na papirju ali tabli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrisati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

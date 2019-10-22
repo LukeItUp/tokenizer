@@ -5,7 +5,7 @@ accident
 </orth>
 <form type="variant">
 <pron>
-/*#ae;ksId@2nt/
+/*&ae;ksId@2nt/
 </pron>
 </form>
 <form type="inflected">
@@ -20,20 +20,18 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An accident
+An accident 
 </seg>
-je dogodek, ki se zgodi povsem
-po naklju&#269;ju.
+je dogodek, ki se zgodi povsem po naklju&ccaron;ju. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-naklju&#269;je
+naklju&ccaron;je
 </quote>
 </cit>
 <seg type="example">
 <quote>
-The fact that there is a university here is due to a historic
-accident.
+The fact that there is a university here is due to a historic accident.
 </quote>
 </seg>
 </sense>
@@ -45,22 +43,22 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An accident
+An accident 
 </seg>
-je tudi neprijeten ali
-nesre&#269;en dogodek, ki navadno povzro&#269;i po&#353;kodbo ali smrt.
+je tudi neprijeten ali nesre&ccaron;en dogodek, ki navadno povzro&ccaron;i po&scaron;kodbo ali smrt. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 nezgoda
 </quote>
 </cit>
-<ref type="picture">
-glej slikovno prilogo
-<ref>
-HEALTH.
-</ref>
-</ref>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
 <seg type="example">
 <quote>
 She was killed in a motor accident.
@@ -75,16 +73,15 @@ PHRASE
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar se nekaj zgodi
+Kadar se nekaj zgodi 
 <seg type="lemma">
 by accident
 </seg>
-se
-zgodi po naklju&#269;ju.
+, se zgodi po naklju&ccaron;ju. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-po nesre&#269;i, po naklju&#269;ju
+po nesre&ccaron;i, po naklju&ccaron;ju
 </quote>
 </cit>
 <seg type="example">

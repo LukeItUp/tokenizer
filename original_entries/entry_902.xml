@@ -20,19 +20,17 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An auxiliary
+An auxiliary 
 </seg>
-je oseba, ki po slu&#382;beni
-dol&#382;nosti pomaga drugim.
+je oseba, ki po slu&zcaron;beni dol&zcaron;nosti pomaga drugim. 
 <seg type="lemma">
 Auxiliaries
 </seg>
-so pogosto medicinski
-delavci ali &#269;lani oboro&#382;enih sil.
+ so pogosto medicinski delavci ali &ccaron;lani oboro&zcaron;enih sil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-pomo&#269;nik, pomo&#382;ni delavec
+pomo&ccaron;nik, pomo&zcaron;ni delavec
 </quote>
 </cit>
 <seg type="example">
@@ -40,7 +38,7 @@ pomo&#269;nik, pomo&#382;ni delavec
 ...nursing auxiliaries.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ATTRIB ADJ
@@ -51,7 +49,7 @@ ATTRIB ADJ
 ...six auxiliary squadrons.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -60,12 +58,11 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Oprema, ki je
+Oprema, ki je 
 <seg type="lemma">
 auxiliary
 </seg>
-je pomo&#382;na in jo
-uporabljamo po potrebi.
+, je pomo&zcaron;na in jo uporabljamo po potrebi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -85,26 +82,26 @@ COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-V slovnici so
+V slovnici so 
 <seg type="lemma">
-auxiliary verbs
+auxiliary verbs 
 </seg>
 <seg type="lemma">
 be
 </seg>
+, 
 <seg type="lemma">
 have
 </seg>
-in
+ in 
 <seg type="lemma">
 do
 </seg>
-. Uporabljamo jih skupaj z glavnim glagolom pri oblikovanju &#269;asov,
-nikalnih in vpra&#353;alnih stavkov in tako dalje.
+. Uporabljamo jih skupaj z glavnim glagolom pri oblikovanju &ccaron;asov, nikalnih in vpra&scaron;alnih stavkov in tako dalje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-pomo&#382;ni glagol
+pomo&zcaron;ni glagol
 </quote>
 </cit>
 </sense>

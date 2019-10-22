@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+simulation
+</orth>
+<form type="variant">
+<pron>
+/s*Imj@4l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+simulations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Simulation 
+</seg>
+je to, da se pretvarjamo, ali rezultat posnemanja ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hlinjenje, pretvarjanje; simulacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her remark had been greeted with a simulation of diffidence
+</quote>
+<quote>
+The viewer was unable to distinguish reality from simulation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A simulation 
+</seg>
+je tudi poskus, da bi problem re&scaron;ili tako, da ga predstavimo matemati&ccaron;no, pogosto z ra&ccaron;unalnikom; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+simulacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Computer modelling and simulation have been used as an aid to battle tactics.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+outlaw
+</orth>
+<form type="variant">
+<pron>
+/*a*UtlO:/
+</pron>
+</form>
+<form type="inflected">
+outlaws, outlawing, outlawed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be outlawed 
+</seg>
+pomeni, da je nekaj razgla&scaron;eno za nezakonito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepovedati z zakonom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...legislation which will outlaw this system.
+</quote>
+<quote>
+The use of poison gas was outlawed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An outlaw 
+</seg>
+je zlo&ccaron;inec, ki se skriva pred oblastmi; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+bandit, izob&ccaron;enec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a band of outlaws.
+</quote>
+</seg>
+</sense>
+</entry>

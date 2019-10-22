@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loud
+</orth>
+<form type="variant">
+<pron>
+/l*a*Ud/
+</pron>
+</form>
+<form type="inflected">
+louder, loudest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je zvok 
+<seg type="lemma">
+loud
+</seg>
+, je mo&ccaron; glasu zelo velika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His voice was loud and savage.
+</quote>
+<quote>
+There was a loud explosion.
+</quote>
+<quote>
+He spoke louder.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+loudly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The audience laughed loudly.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+loud in one&apos;s support or condemnation of something
+</seg>
+, silovito izra&zcaron;a svoje mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Northcliffe&apos;s newspapers were loud in their condemnation of British sentimentality.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+loudly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Most people loudly allege that all this is just another excuse.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za obla&ccaron;ilo re&ccaron;emo, da je 
+<seg type="lemma">
+loud
+</seg>
+, je zelo pisanih barv ali ima vpadljiv vzorec; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kri&ccaron;e&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...young men in loud shirts and jackets.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor nekaj re&ccaron;e 
+<seg type="lemma">
+out loud
+</seg>
+, tisto izre&ccaron;e, ne pa samo razmi&scaron;lja o tistem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na glas povedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was praying out loud.
+</quote>
+<quote>
+I laughed out loud at the thought.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

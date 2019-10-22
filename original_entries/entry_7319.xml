@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+incorporate
+</orth>
+<form type="variant">
+<pron>
+/IN1k*O*:p@reIt/
+</pron>
+</form>
+<form type="inflected">
+incorporates, incorporating, incorporated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+is incorporated into another
+</seg>
+, postane del druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...legislation compelling manufacturers to incorporate safety features in all new cars.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+incorporation
+</orth>
+<form type="variant">
+<pron>
+/IN1k*O*:p@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the incorporation of Austria into the German Empire.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+incorporates another
+</seg>
+, vsebuje drugo stvar kot enega svojih sestavnih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vklju&ccaron;iti, vsebovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These houses usually incorporated a long gallery.
+</quote>
+</seg>
+</sense>
+</entry>

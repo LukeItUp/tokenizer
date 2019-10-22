@@ -1,0 +1,184 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+jar
+</orth>
+<form type="variant">
+<pron>
+/dZ*A*:/
+</pron>
+</form>
+<form type="inflected">
+jars, jarring, jarred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A jar 
+</seg>
+je steklena posoda s pokrovom; uporabljamo jo za spravilo hrane.
+</def>
+<cit type="translationEquivalent">
+<quote>
+kozarec, vr&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+jar 
+</seg>
+se lahko nana&scaron;a na kozarec z vsebino vred ali pa samo na vsebino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kozarec, vr&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a jar of peanut butter.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+jars on someone
+</seg>
+, je nekomu neprijetno ali ga jezi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vznemirjati, iti na &zcaron;ivce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The harsh, metallic sound jarred on her.
+</quote>
+<quote>
+He had a way of speaking that jarred.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+jarring
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a jarring office block.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+jars someone
+</seg>
+, nekoga pretrese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presuniti, &scaron;okirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was evidently jarred by my appearance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+jarring
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a jarring experience.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; stvari 
+<seg type="lemma">
+jar 
+</seg>
+ali 
+<seg type="lemma">
+are jarred
+</seg>
+, z veliko silo udarijo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stresti, pretresti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house shook and his bones were jarred.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Knocks and jars can cause weakness in the spine.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

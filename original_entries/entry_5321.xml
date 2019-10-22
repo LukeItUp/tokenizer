@@ -1,0 +1,380 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fill
+</orth>
+<form type="variant">
+<pron>
+/f*Il/
+</pron>
+</form>
+<form type="inflected">
+fills, filling, filled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fill a container or area 
+</seg>
+pomeni dati veliko koli&ccaron;ino ne&ccaron;esa v posodo ali obmo&ccaron;je, tako da je polno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fill the teapot with boiling water.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fills a space
+</seg>
+, je tako veliko, da poleg ostane zelo malo prostora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Enthusiastic crowds filled the streets.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+filled
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a large hall filled with rows of desks.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fill 
+</seg>
+pomeni postati poln predmetov, oseb ali snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Madeleine&apos;s eyes filled with tears.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fills someone with an emotion 
+</seg>
+ali kadar &ccaron;ustvo 
+<seg type="lemma">
+fills someone
+</seg>
+, nekdo mo&ccaron;no ob&ccaron;uti tisto &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His son&apos;s lies filled him with anger.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka dejavnost ali obstoj ne&ccaron;esa 
+<seg type="lemma">
+fills a need or gap
+</seg>
+, zadovolji potrebo ali zapolni praznino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadostiti, zadovoljiti, zapolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Alliance filled the political vacuum.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+fills a role or position
+</seg>
+, opravlja dolo&ccaron;eno nalogo ali ima poseben prostor v nekem sistemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasesti, zasedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has filled this role in a most satisfactory way for many years.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have had one&apos;s fill of something 
+</seg>
+pomeni ne &zcaron;eleti si, da bi nekaj spet do&zcaron;iveli ali storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadostiti, nasititi se ne&ccaron;esa
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+filling
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fill in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fill in a form 
+</seg>
+pomeni zapisati podatke v temu namenjene prostor&ccaron;ke na obrazcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fill in your name and address.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fill someone in 
+</seg>
+pomeni nekomu dati podrobne podatke o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seznaniti, pou&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll fill you in on the details now.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To fill in for someone else 
+</seg>
+pomeni opravljati delo nekoga drugega med njegovo odsotnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadomestiti, vsko&ccaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fill out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fill out a form 
+</seg>
+pomeni zapisati podatke v temu namenjene prostor&ccaron;ke na obrazcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve filled out the death certificate.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar vitek &ccaron;lovek 
+<seg type="lemma">
+fills out
+</seg>
+, postane obilnej&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrediti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fill up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fill up a container 
+</seg>
+pomeni dati ve&ccaron;jo koli&ccaron;ino ne&ccaron;esa v posodo, tako da je polna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fill up his seed bowl twice a day.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar neki prostor 
+<seg type="lemma">
+fills up
+</seg>
+, ga stvari ali ljudje napolnijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His office began to fill up with people.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

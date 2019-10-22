@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curb
+</orth>
+<form type="variant">
+<pron>
+/k*$e*:b/
+</pron>
+</form>
+<form type="inflected">
+curbs, curbing, curbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To curb something 
+</seg>
+pomeni nekaj nadzorovati in dr&zcaron;ati v dolo&ccaron;enih mejah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krotiti, brzdati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...proposals to curb the powers of the Home Secretary.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This requires a curb on public spending.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+kerb
+</ref>
+</xr>
+</sense>
+</entry>

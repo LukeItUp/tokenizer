@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+paddle
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;d@0l/
+</pron>
+</form>
+<form type="inflected">
+paddles, paddling, paddled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A paddle 
+</seg>
+je kratek drog, ki se na enem koncu raz&scaron;iri v plo&scaron;&ccaron;at lopatast del; z njim pomikamo &ccaron;oln po vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veslo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+paddle
+</seg>
+, za zabavo hodijo po plitvi vodi ob robu morja ali stojijo v njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+broditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was too cold for paddling.
+</quote>
+</seg>
+</sense>
+</entry>

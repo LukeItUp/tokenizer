@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+levy
+</orth>
+<form type="variant">
+<pron>
+/l*evi1/
+</pron>
+</form>
+<form type="inflected">
+levies, levying, levied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A levy 
+</seg>
+je znesek, ki ga pla&ccaron;amo za davek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dav&scaron;&ccaron;ina, dajatev
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vlada ali neka organizacija 
+<seg type="lemma">
+levies a tax
+</seg>
+, od ljudi zahteva davek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmeriti davek
+</quote>
+</cit>
+</sense>
+</entry>

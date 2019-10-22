@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dissolve
+</orth>
+<form type="variant">
+<pron>
+/dIz*Qlv/
+</pron>
+</form>
+<form type="inflected">
+dissolves, dissolving, dissolved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dissolve a solid substance 
+</seg>
+pomeni me&scaron;ati trdno snov s teko&ccaron;ino, dokler se ne razkroji.
+</def>
+<cit type="translationEquivalent">
+<quote>
+raztopiti, razpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dissolve the sugar in the water.
+</quote>
+<quote>
+Stir over a low heat until the sugar has dissolved.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dissolve an organization or legal relationship 
+</seg>
+pomeni uradno prekiniti neko organizacijo ali zakonski odnos; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+razdreti, razpustiti, ukiniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They wish to dissolve their union with the United States.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dissolve in 
+<VS>
+ali 
+</VS>
+<VV>
+dissolve into.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dissolve into tears or laughter 
+</seg>
+pomeni za&ccaron;eti jokati ali se smejati, ker se ne moremo obvladati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+planiti (v jok ali smeh)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kiri dissolved in tears.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

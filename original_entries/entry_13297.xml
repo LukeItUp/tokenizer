@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+soothe
+</orth>
+<form type="variant">
+<pron>
+/s*u*:D/
+</pron>
+</form>
+<form type="inflected">
+soothes, soothing, soothed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To soothe someone 
+</seg>
+pomeni pomiriti nekoga, ki je jezen ali razburjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potola&zcaron;iti, pomiriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to soothe her by making conversation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+soothing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...soothing music.
+</quote>
+<quote>
+...a few soothing words.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+soothes pain
+</seg>
+, deluje tako, da bole&ccaron;ina postane manj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cream she put on to soothe her sunburn.
+</quote>
+</seg>
+</sense>
+</entry>

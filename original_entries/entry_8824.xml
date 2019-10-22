@@ -1,0 +1,591 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mean
+</orth>
+<form type="variant">
+<pron>
+/m*i*:n/
+</pron>
+</form>
+<form type="inflected">
+means, meaning, meant
+</form>
+<form type="variant">
+<pron>
+/m*ent/
+</pron>
+;
+</form>
+<form type="inflected">
+meaner, meanest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+mean 
+</seg>
+povemo, da &zcaron;elimo dobiti razlago neke besede, izraza ali giba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What does &lsquo;imperialism&rsquo; mean?
+</quote>
+<quote>
+What is meant by the term &lsquo;mental activity&rsquo;?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+mean 
+</seg>
+povemo, na kaj se &ccaron;lovek z besedami nana&scaron;a ali kaj ho&ccaron;e povedati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti, hoteti re&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+But what do we mean by &lsquo;education&rsquo;?
+</quote>
+<quote>
+I know the guy you mean.
+</quote>
+<quote>
+I thought you meant you wanted to take your own car.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+means a lot to someone
+</seg>
+, je za nekoga zelo pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veliko pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These were the friends who had meant most to her since childhood.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+means another
+</seg>
+, ka&zcaron;e, da je tista druga resni&ccaron;na ali da se bo zanesljivo zgodila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A cut in taxes will mean a cut in government spending.
+</quote>
+<quote>
+Water running down the outside of a wall may mean that the gutters are blocked.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To mean what one says 
+</seg>
+pomeni, da dolo&ccaron;en &ccaron;lovek govori resno in se ne &scaron;ali, ne pretirava in ne govori tako samo iz vljudnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+resno misliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m going. I mean it.
+</quote>
+<quote>
+Anyone can program a computer. And I do mean anyone.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+means to do something
+</seg>
+, tisto namerava storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameravati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I meant to ring you but I&apos;m afraid I forgot.
+</quote>
+<quote>
+I&apos;m sorry, I didn&apos;t mean to be rude.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is meant to be a particular thing 
+</seg>
+ali 
+<seg type="lemma">
+is meant for a particular purpose
+</seg>
+, je to tisto, kar smo nameravali ali na&ccaron;rtovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mi&scaron;ljen, predviden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sorry, I&apos;m not very good at drawing, but that&apos;s meant to be a cube.
+</quote>
+<quote>
+&lsquo;That hurts!&rsquo;&mdash;&lsquo;It&apos;s meant to!&rsquo;
+</quote>
+<quote>
+His smile was meant for me.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is meant to happen or exist
+</seg>
+, predvidevamo, da se bo zgodilo ali da obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naj bi bilo, bi moralo biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I found a road that wasn&apos;t meant to be there.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Meant 
+</seg>
+uporabljamo tudi, ko govorimo o slovesu ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naj bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;re meant to be excellent cars.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A means of doing something
+</seg>
+ je postopek ali pripomo&ccaron;ek, ki nam omogo&ccaron;i, da tisto naredimo. 
+<seg type="lemma">
+Means
+</seg>
+ je tako edninska kot mno&zcaron;inska oblika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredstvo, na&ccaron;in
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Scientists are working to devise a means of storing this type of power.
+</quote>
+<quote>
+We have the means to kill people on a massive scale.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Means
+</seg>
+ je tudi denar, ki ga &ccaron;lovek ima; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sredstva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sutcliffe has a house in Mayfair so he obviously has means.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+mean
+</seg>
+, ni pripravljen zapraviti veliko denarja ali ve&ccaron;je koli&ccaron;ine &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skop, stiska&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I used to be very mean about hot water.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+meanness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+These employers were famous for their meanness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+mean to someone
+</seg>
+, je do tiste osebe neprijazen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grd
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had apologized for being so mean to Rudolph.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+meanness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...his meanness to his sisters.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V matematiki je 
+<seg type="lemma">
+the mean 
+</seg>
+srednja vrednost niza &scaron;tevil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povpre&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What you do first is to calculate the mean.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+I mean 
+</seg>
+uporabljamo, kadar ho&ccaron;emo nekaj razlo&zcaron;iti bolj razumljivo, utemeljiti tisto, kar smo &zcaron;e rekli, ali popraviti svoje lastne besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ho&ccaron;em re&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If you haven&apos;t any climbing boots, you can borrow them. I mean dozens of people have got boots.
+</quote>
+<quote>
+This is Herbert, I mean Humbert.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a means to an end
+</seg>
+, tisto naredimo samo zato, ker bomo tako la&zcaron;e dosegli tisto, kar &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredstvo za dosego cilja
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+by means of a particular method or object
+</seg>
+, to naredimo tako, da uporabimo tisto metodo ali predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s/z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rig is anchored in place by means of steel cables.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+by all means 
+</seg>
+damo svoje privoljenje ali dovoljenje; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vsekakor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By all means take a day&apos;s holiday.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+by no means 
+</seg>
+poudarimo, da nekaj ni res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nikakor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is by no means certain that this is what he did.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+no mean 
+</seg>
+poudarimo, da je neka oseba ali stvar res dobra ali izjemna; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nikakor ne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sir George Gilbert Scott, himself no mean architect, approved the plans.
+</quote>
+<quote>
+Persuading John to come was no mean feat.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

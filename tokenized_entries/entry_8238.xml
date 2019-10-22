@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p430_s470029" id="p430_w99" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="163.242" base="169.65" width="27.9021" height="8.514">lesbian</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p430_s470030" id="p430_w100" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="83.84" y="164.488" base="169.65" width="31.2616" height="6.844">/lezb&#203;6n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p430_s470031" id="p430_w101" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="116.55" y="164.31" base="169.65" width="27.0108" height="7.08">lesbians.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p430_s470032" id="p430_w102" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="145.01" y="165.734" base="169.65" width="18.5694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p430_s470033" id="p430_w103" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="164.559" y="165.734" base="169.65" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p430_s470034" id="p430_w104" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.18" y="163.954" base="169.65" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p430_s470035" id="p430_w105" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.23" y="163.954" base="169.65" width="23.4907" height="7.552">lesbian</TOKEN>
+</seg>
+<TOKEN sid="p430_s470036" id="p430_w106" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.17" y="163.954" base="169.65" width="5.84568" height="7.552">je</TOKEN>
+<TOKEN sid="p430_s470037" id="p430_w107" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="209.465" y="163.954" base="169.65" width="32.1358" height="7.552">homosek-</TOKEN>
+<TOKEN sid="p430_s470038" id="p430_w108" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1806" y="173.034" base="178.73" width="21.8448" height="7.552">sualno</TOKEN>
+<TOKEN sid="p430_s470039" id="p430_w109" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.515" y="173.034" base="178.73" width="34.3066" height="7.552">usmerjena</TOKEN>
+<TOKEN sid="p430_s470040" id="p430_w110" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.311" y="173.034" base="178.73" width="24.5347" height="7.552">`enska.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p430_s470042" id="p430_w112" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.01" y="173.034" base="178.73" width="28.3032" height="7.552">lezbijka;</TOKEN>
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+<TOKEN sid="p430_s470043" id="p430_w113" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="180.803" y="173.034" base="178.73" width="17.1151" height="7.552">Tudi:</TOKEN>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+<TOKEN sid="p430_s470044" id="p430_w114" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="199.4" y="174.814" base="178.73" width="10.2901" height="5.192">ADJ</TOKEN>
+<TOKEN sid="p430_s470045" id="p430_w115" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="211.21" y="173.034" base="178.73" width="30.4214" height="7.552">&#8230;lesbian</TOKEN>
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

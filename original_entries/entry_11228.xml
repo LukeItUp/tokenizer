@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+provide
+</orth>
+<form type="variant">
+<pron>
+/pr@v*a*Id/
+</pron>
+</form>
+<form type="inflected">
+provides, providing, provided.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To provide something 
+</seg>
+pomeni dati nekomu nekaj, kar potrebuje, ali poskrbeti, da tisto dobi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotoviti, preskrbeti, poskrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most animals provide food for their young.
+</quote>
+<quote>
+The government cannot provide all young people with a job.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+provide for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To provide for someone 
+</seg>
+pomeni nekomu dati stvari, ki jih potrebuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Parents are expected to provide for their children.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To provide for a possible future event 
+</seg>
+pomeni zagotoviti pogoje za izvedbo morebitnega dogodka; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+predvideti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Should the law provide for these cases?
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

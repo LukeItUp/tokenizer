@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dice
+</orth>
+<form type="variant">
+<pron>
+/d*a*Is/
+</pron>
+</form>
+<form type="inflected">
+dices, dicing, diced.
+</form>
+<IN>
+<IH>
+Dice 
+</IH>
+<IC>
+je edninska in mno&zcaron;inska oblika samostalnika.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dice 
+</seg>
+je majhna kocka, ki ima na vsaki ploskvi od ene do &scaron;est pik; me&ccaron;emo jo pri igrah, da dolo&ccaron;imo, na primer, za koliko polj lahko premaknemo figuro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(igralna) kocka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They roll dice to see who will go first.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dice food 
+</seg>
+pomeni rezati hrano na majhne ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrezati na kocke
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Peel and finely dice the onion.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+diced
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...diced potatoes.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

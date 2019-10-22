@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dog
+</orth>
+<form type="variant">
+<pron>
+/d*Qg/
+</pron>
+</form>
+<form type="inflected">
+dogs, dogging, dogged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dog 
+</seg>
+je &zcaron;ival, ki jo imamo ljudje pogosto doma ali jo uporabljamo za &ccaron;uvaja ali na lovu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pes
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar omenjamo spol psa ali lisjaka, samca imenujemo 
+<seg type="lemma">
+a dog
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pes, lisjak
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e te&zcaron;ave ali po&scaron;kodbe 
+<seg type="lemma">
+dog someone
+</seg>
+, nekoga nenehno ovirajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preganjati, zasledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The project has been dogged by a number of technical problems.
+</quote>
+<quote>
+Bad luck has dogged me all year.
+</quote>
+</seg>
+</sense>
+</entry>

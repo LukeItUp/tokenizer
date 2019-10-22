@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleepy
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:pi1/
+</pron>
+</form>
+<form type="inflected">
+sleepier, sleepiest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sleepy
+</seg>
+, je utrujen in bi rad spal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She suddenly started to feel very sleepy.
+</quote>
+<quote>
+...a sleepy yawn.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sleepily
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Where have you been?&rsquo; Rudolph asked sleepily.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kraj, ki je 
+<seg type="lemma">
+sleepy
+</seg>
+, je zelo miren in se v njem ne dogaja ni&ccaron; zanimivega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sleepy villages.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+king
+</orth>
+<form type="variant">
+<pron>
+/k*IN/
+</pron>
+</form>
+<form type="inflected">
+kings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A king 
+</seg>
+je &ccaron;lan kraljevske dru&zcaron;ine svoje dr&zcaron;ave in velja za voditelja tiste dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kralj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the King of Spain.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri &scaron;ahu je 
+<seg type="lemma">
+the king 
+</seg>
+figura, ki jo igralec posku&scaron;a osvojiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kralj
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A king 
+</seg>
+je tudi igralna karta s podobo kralja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kralj
+</quote>
+</cit>
+</sense>
+</entry>

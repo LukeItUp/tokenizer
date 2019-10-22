@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+soap
+</orth>
+<form type="variant">
+<pron>
+/s*@*Up/
+</pron>
+</form>
+<form type="inflected">
+soaps, soaping, soaped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Soap 
+</seg>
+je snov, ki jo poleg vode uporabljamo za umivanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+milo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bar of yellow soap.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To soap oneself 
+</seg>
+pomeni nanesti milo na telo, da bi se umili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namiliti se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A soap 
+</seg>
+je druga beseda za 
+<ref>
+a soap opera
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+limonada
+</quote>
+</cit>
+</sense>
+</entry>

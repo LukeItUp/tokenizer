@@ -1,0 +1,170 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pocket
+</orth>
+<form type="variant">
+<pron>
+/p*QkIt/
+</pron>
+</form>
+<form type="inflected">
+pockets, pocketing, pocketed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pocket 
+</seg>
+je majhni vre&ccaron;i podoben del obla&ccaron;ila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She put her hand in her coat pocket.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pocket something 
+</seg>
+pomeni nekaj dati v &zcaron;ep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati v &zcaron;ep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I locked the door and pocketed the key.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pocket something 
+</seg>
+pomeni tudi nekaj ukrasti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vtakniti v svoj &zcaron;ep, zmakniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...servants who pocketed household funds for their own use.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+pocket 
+</seg>
+opisujemo stvari, ki so tako majhne, da jih lahko damo v &zcaron;ep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;epen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a pocket calculator.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pocket of something 
+</seg>
+je majhno obmo&ccaron;je ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostor&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We sat in the pocket of warmth by the fire.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To pick someone&apos;s pocket 
+</seg>
+pomeni nekomu ukrasti nekaj iz &zcaron;epa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukrasti iz &zcaron;epa
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be out of pocket 
+</seg>
+pomeni, da imamo manj denarja, kot bi ga morali imeti, ponavadi zato, ker smo nekaj pla&ccaron;ali za nekoga drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti izgubo, biti na izgubi
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+virtue
+</orth>
+<form type="variant">
+<pron>
+/v*$e:tju:, -tSu:/
+</pron>
+</form>
+<form type="inflected">
+virtues.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Virtue 
+</seg>
+je pravilno razmi&scaron;ljanje in delovanje ter izogibanje napa&ccaron;nim stvarem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krepost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We accept certain principles of religion and traditional virtue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A virtue 
+</seg>
+je dobra lastnost ali ravnanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrlina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Charity is the greatest of Christian virtues.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A virtue of something 
+</seg>
+je prednost ali dobra stran ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrlina, odlika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the virtues of female independence.
+</quote>
+<quote>
+There is no virtue in taking this action.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+by virtue of 
+</seg>
+pojasnimo, zakaj se nekaj zgodi ali je res; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na temelju, zaradi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was an object of interest simply by virtue of being British.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

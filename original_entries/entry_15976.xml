@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whistle
+</orth>
+<form type="variant">
+<pron>
+/w*Is@0l/
+</pron>
+</form>
+<form type="inflected">
+whistles, whistling, whistled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whistle 
+</seg>
+pomeni ustvariti zvok tako, da pihnemo skozi ustnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;vi&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He walked home whistling cheerfully.
+</quote>
+<quote>
+I was whistling little bits of the song.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Sean let out a low whistle of surprise.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+whistles
+</seg>
+, ustvari glasen, visok zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;vi&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bullets whistled past his head.
+</quote>
+<quote>
+The train whistled as it approached the tunnel.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A whistle 
+</seg>
+je majhna kovinska cev, v katero pihamo, da nastane glasen zvok in pritegnemo pozornost ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pi&scaron;&ccaron;alka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The guard blew his whistle and waved his green flag.
+</quote>
+</seg>
+</sense>
+</entry>

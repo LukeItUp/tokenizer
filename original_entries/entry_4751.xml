@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+entrust
+</orth>
+<form type="variant">
+<pron>
+/I2ntr*Vst/
+</pron>
+</form>
+<form type="inflected">
+entrusts, entrusting, entrusted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To entrust something important to someone 
+</seg>
+ali 
+<seg type="lemma">
+to entrust something important with someone 
+</seg>
+pomeni nekomu dodeliti pomembno nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupati, pooblastiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children are too young to be entrusted with family money.
+</quote>
+<quote>
+It was a task the Foreign Secretary had entrusted to him.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+westerly
+</orth>
+<form type="variant">
+<pron>
+/w*est@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Westerly 
+</seg>
+pomeni proti zahodu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahoden, na zahod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The harbour has a westerly outlook.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Veter, ki je 
+<seg type="lemma">
+westerly
+</seg>
+, piha z zahoda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahoden
+</quote>
+</cit>
+</sense>
+</entry>

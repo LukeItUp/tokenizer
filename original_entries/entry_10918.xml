@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prayer
+</orth>
+<form type="variant">
+<pron>
+/pr*e*@/
+</pron>
+</form>
+<form type="inflected">
+prayers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Prayer 
+</seg>
+je dejavnost, pri kateri molimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+molitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her eyes were shut and her lips were moving in prayer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To say one&apos;s prayers 
+</seg>
+pomeni moliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moliti
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A prayer 
+</seg>
+so besede, ki jih izgovorimo, ko molimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+molitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I made a brief prayer for her recovery.
+</quote>
+</seg>
+</sense>
+</entry>

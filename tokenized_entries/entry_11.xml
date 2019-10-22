@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p1_s94" id="p1_w94" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="293.81" y="164.488" base="169.65" width="19.6002" height="6.844">/æbd6</TOKEN>
+<TOKEN sid="p1_s94" id="p1_w94" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="293.81" y="164.488" base="169.65" width="19.6002" height="6.844">/&#230;bd6</TOKEN>
 <TOKEN sid="p1_s95" id="p1_w95" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="313.51" y="163.85" base="167.26" width="2.39636" height="4.52176">6</TOKEN>
 <TOKEN sid="p1_s96" id="p1_w96" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="315.97" y="164.488" base="169.65" width="17.9816" height="6.844">m6n/,</TOKEN>
 </pron>
@@ -44,7 +44,7 @@
 <TOKEN sid="p1_s115" id="p1_w115" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="297.35" y="182.114" base="187.81" width="24.6528" height="7.552">trebuh;</TOKEN>
 </quote>
 </cit>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <TOKEN sid="p1_s117" id="p1_w117" font-name="ssunivers" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.77" y="182.114" base="187.81" width="36.3917" height="7.568">abdominal</TOKEN>
@@ -54,7 +54,7 @@
 <pron>
 <TOKEN sid="p1_s118" id="p1_w118" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="367.79" y="182.648" base="187.81" width="6.1601" height="6.844">/6</TOKEN>
 <TOKEN sid="p1_s119" id="p1_w119" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="374.28" y="182.01" base="185.42" width="2.39636" height="4.52176">3</TOKEN>
-<TOKEN sid="p1_s120" id="p1_w120" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="376.91" y="182.648" base="187.81" width="21.4391" height="6.844">bdÉmË</TOKEN>
+<TOKEN sid="p1_s120" id="p1_w120" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="376.91" y="182.648" base="187.81" width="21.4391" height="6.844">bd&#201;m&#203;</TOKEN>
 <TOKEN sid="p1_s121" id="p1_w121" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="398.68" y="182.01" base="185.42" width="2.39636" height="4.52176">1</TOKEN>
 <TOKEN sid="p1_s122" id="p1_w122" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="401.31" y="182.648" base="187.81" width="7.61014" height="6.844">n6</TOKEN>
 <TOKEN sid="p1_s123" id="p1_w123" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="409.25" y="182.01" base="185.42" width="2.39636" height="4.52176">0</TOKEN>
@@ -68,7 +68,7 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p1_s126" id="p1_w126" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.03" y="182.114" base="187.81" width="11.2003" height="7.552">…a</TOKEN>
+<TOKEN sid="p1_s126" id="p1_w126" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.03" y="182.114" base="187.81" width="11.2003" height="7.552">&#8230;a</TOKEN>
 <TOKEN sid="p1_s127" id="p1_w127" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="191.194" base="196.89" width="24.3922" height="7.552">patient</TOKEN>
 <TOKEN sid="p1_s128" id="p1_w128" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.201" y="191.194" base="196.89" width="29.7677" height="7.552">suffering</TOKEN>
 <TOKEN sid="p1_s129" id="p1_w129" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.967" y="191.194" base="196.89" width="15.8551" height="7.552">from</TOKEN>
@@ -76,6 +76,6 @@
 <TOKEN sid="p1_s131" id="p1_w131" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.815" y="191.194" base="196.89" width="20.3904" height="7.552">pains.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

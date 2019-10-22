@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slice
+</orth>
+<form type="variant">
+<pron>
+/sl*a*Is/
+</pron>
+</form>
+<form type="inflected">
+slices, slicing, sliced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slice 
+</seg>
+je kos hrane, ki smo ga odrezali od ve&ccaron;jega kosa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos, rezina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She cut him three large slices of bread.
+</quote>
+<quote>
+...slices of chicken pie.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slice food 
+</seg>
+pomeni narezati hrano na tanke kose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw her slicing an apple.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slice of something 
+</seg>
+je del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos, dele&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rents provided a large slice of his income.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;through&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slice 
+</seg>
+ali 
+<seg type="lemma">
+to slice through something 
+</seg>
+pomeni zarezati ali hitro se premakniti skozi nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They sliced the air with their knives.
+</quote>
+<quote>
+The shark&apos;s fin sliced through the water.
+</quote>
+</seg>
+</sense>
+</entry>

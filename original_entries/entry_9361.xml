@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+muster
+</orth>
+<form type="variant">
+<pron>
+/m*Vst@/
+</pron>
+</form>
+<form type="inflected">
+musters, mustering, mustered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+musters something
+</seg>
+, zbere kar najve&ccaron; ne&ccaron;esa, na primer mo&ccaron;i ali energije, da lahko potem nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hit him with all the force I could muster.
+</quote>
+<quote>
+The group cannot muster sufficient working class support.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki 
+<seg type="lemma">
+muster 
+</seg>
+ali 
+<seg type="lemma">
+are mustered
+</seg>
+, se zberejo na enem kraju, da gredo v akcijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbrati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An enormous convoy mustered in the city.
+</quote>
+</seg>
+</sense>
+</entry>

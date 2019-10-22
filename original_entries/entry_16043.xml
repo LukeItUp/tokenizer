@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+winch
+</orth>
+<form type="variant">
+<pron>
+/w*IntS/
+</pron>
+</form>
+<form type="inflected">
+winches, winching, winched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A winch 
+</seg>
+je stroj za dviganje te&zcaron;kih predmetov. Sestavljen je iz valja, okrog katerega je navita vrv ali veriga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vitel, vreteno
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To winch an object or person somewhere 
+</seg>
+pomeni dvigniti ali spustiti neko osebo ali predmet z vitlom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvigniti z vitlom
+</quote>
+</cit>
+</sense>
+</entry>

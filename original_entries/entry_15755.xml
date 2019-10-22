@@ -1,0 +1,199 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+want
+</orth>
+<form type="variant">
+<pron>
+/w*Qnt/
+</pron>
+</form>
+<form type="inflected">
+wants, wanting, wanted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To want something 
+</seg>
+pomeni &ccaron;utiti &zcaron;eljo ali potrebo, da bi nekaj imeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eleti, potrebovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you want a cup of coffee?
+</quote>
+<quote>
+All they want is a holiday.
+</quote>
+<quote>
+I want to be an actress.
+</quote>
+<quote>
+I didn&apos;t want him to go.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+wants doing
+</seg>
+, obstaja potreba, da je tisto storjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreben biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ve got a couple of jobs that want doing in the garden.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+you want to do a particular thing
+</seg>
+ nekomu svetujemo, naj tisto stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v tvojem/va&scaron;em interesu je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You want to book your holiday early this year.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be wanted 
+</seg>
+pomeni, da nekoga i&scaron;&ccaron;e policija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti iskan s tiralico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is wanted for the crimes of murder and kidnapping.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A want of something 
+</seg>
+je odsotnost ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pomanjkanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had to confess their complete want of foresight.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+for want of something else
+</seg>
+, storimo zato, ker neka druga stvar ni dosegljiva ali mo&zcaron;na; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zaradi pomanjkanja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For want of anything better to do, he continued to read.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

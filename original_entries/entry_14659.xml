@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tooth
+</orth>
+<form type="variant">
+<pron>
+/t*u*:T/
+</pron>
+</form>
+<form type="inflected">
+teeth
+</form>
+<form type="variant">
+<pron>
+/t*i*:T/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s teeth 
+</seg>
+so trdi beli izrastki v ustih, s katerimi grizemo in &zcaron;ve&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zobje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The teeth of a comb, saw, or zip 
+</seg>
+so delci glavnika, &zcaron;age ali zadrge, ki &scaron;trlijo iz vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zobje, zobci
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+grit 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+teeth: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+grit
+</ref>
+</xr>
+<xr type="related">
+<QF>
+by the skin of 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+teeth: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+skin
+</ref>
+</xr>
+</sense>
+</entry>

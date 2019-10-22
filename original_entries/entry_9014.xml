@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mimic
+</orth>
+<form type="variant">
+<pron>
+/m*ImIk/
+</pron>
+</form>
+<form type="inflected">
+mimics, mimicking, mimicked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mimics someone&apos;s actions or voice
+</seg>
+, na zabaven na&ccaron;in posnema dejanja ali glas nekoga drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posnemati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can mimic Cockney speech reasonably well.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mimic 
+</seg>
+je &ccaron;lovek, ki zna posnemati druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posnemovalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One of my brothers is a wonderful mimic.
+</quote>
+</seg>
+</sense>
+</entry>

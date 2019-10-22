@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tribute
+</orth>
+<form type="variant">
+<pron>
+/tr*Ibju:t/
+</pron>
+</form>
+<form type="inflected">
+tributes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tribute 
+</seg>
+so besede ali dejanja, s katerimi &zcaron;elimo pokazati svoje ob&ccaron;udovanje in spo&scaron;tovanje nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poklon, izraz spo&scaron;tovanja, po&ccaron;astitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She accepted the tribute graciously.
+</quote>
+<quote>
+Asquith paid tribute to his personal qualities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+a tribute to another thing
+</seg>
+, je rezultat druge in dokazuje njeno kakovost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokaz kakovosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The fact that I survived is a tribute to the indestructibility of the human body.
+</quote>
+</seg>
+</sense>
+</entry>

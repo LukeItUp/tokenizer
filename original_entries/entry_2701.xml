@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+competitor
+</orth>
+<form type="variant">
+<pron>
+/k@7mp*etIt@/
+</pron>
+</form>
+<form type="inflected">
+competitors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Podjetja, ki so 
+<seg type="lemma">
+competitors
+</seg>
+, prodajajo sorodne vrste izdelkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekmec, konkurent
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Austin-Rover's challenge to its foreign competitors.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A competitor 
+</seg>
+je &ccaron;lovek, ki sodeluje na tekmovanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekmovalec
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+syndrome
+</orth>
+<form type="variant">
+<pron>
+/s*Indr@Um/
+</pron>
+</form>
+<form type="inflected">
+syndromes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A syndrome 
+</seg>
+je bolezensko stanje, ki ga dolo&ccaron;uje zna&ccaron;ilna skupina bolezenskih znakov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sindrom
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+syndrome 
+</seg>
+uporabljamo tudi za neza&zcaron;eleno stanje, za katero je zna&ccaron;ilna dolo&ccaron;ena vrsta dogajanja ali ved&ecirc;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sindrom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the capitalist syndrome of growth, profits, competition.
+</quote>
+</seg>
+</sense>
+</entry>

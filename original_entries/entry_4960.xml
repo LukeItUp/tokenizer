@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exhibition
+</orth>
+<form type="variant">
+<pron>
+/*egzIb*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+exhibitions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exhibition 
+</seg>
+je zbirka slik ali drugih predmetov, razstavljenih na javnem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razstava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Did you see the Shakespeare exhibition?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Exhibition 
+</seg>
+je prikazovanje slik ali drugih predmetov na javnem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikazovanje, razstavljanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The film was refused a licence for public exhibition.
+</quote>
+</seg>
+</sense>
+</entry>

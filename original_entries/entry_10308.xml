@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pave
+</orth>
+<form type="variant">
+<pron>
+/p*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+paves, paving, paved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so tla 
+<seg type="lemma">
+paved
+</seg>
+, so prekrita s kamnitimi ali betonskimi kockami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tlakovan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a steep causeway paved with slabs of granite.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+paves the way for something else
+</seg>
+, ustvari okoli&scaron;&ccaron;ine, v katerih se lahko zgodi nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utreti pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His work paved the way for Burkitt&apos;s theories.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

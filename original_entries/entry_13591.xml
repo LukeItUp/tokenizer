@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+staple
+</orth>
+<form type="variant">
+<pron>
+/st*e*Ip@0l/
+</pron>
+</form>
+<form type="inflected">
+staples, stapling, stapled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Staples 
+</seg>
+so kratki kosi &zcaron;ice, s katerimi spenjamo liste papirja. Skozi papir jih potisnemo s spenja&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sponka za papir
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To staple something 
+</seg>
+pomeni nekaj nekam pritrditi s sponkami za papir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;vrstiti, pripeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The letter was stapled to the other documents in the file.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obrok ali hrana, ki je 
+<seg type="lemma">
+staple
+</seg>
+, je osnova &ccaron;lovekovega vsakdanjega jedilnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glaven, poglaviten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the dry bread which is their staple diet.
+</quote>
+</seg>
+</sense>
+</entry>

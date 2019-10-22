@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grammar
+</orth>
+<form type="variant">
+<pron>
+/gr*&ae;m@/
+</pron>
+</form>
+<form type="inflected">
+grammars.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Grammar 
+</seg>
+so jezikovna pravila, ki opisujejo, kako oblikujemo stavke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slovnica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+someone&apos;s grammar 
+</seg>
+uporabimo, kadar opisujemo, ali se nekdo pri pisanju ali govorjenju dr&zcaron;i oziroma ne dr&zcaron;i slovni&ccaron;nih pravil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slovnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m constantly having to correct their grammar.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grammar 
+</seg>
+je knjiga, v kateri so opisana jezikovna pravila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slovnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an old French grammar.
+</quote>
+</seg>
+</sense>
+</entry>

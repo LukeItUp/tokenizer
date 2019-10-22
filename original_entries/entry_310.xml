@@ -5,7 +5,7 @@ ahead
 </orth>
 <form type="variant">
 <pron>
-/@h*ed/.
+/@h*ed/
 </pron>
 </form>
 </form>
@@ -16,11 +16,11 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekaj
+Kadar je nekaj 
 <seg type="lemma">
 ahead
 </seg>
-je pred nami.
+, je pred nami. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -43,12 +43,11 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek pri delu ali dose&#382;kih
+Kadar je &ccaron;lovek pri delu ali dose&zcaron;kih 
 <seg type="lemma">
-ahead of
-someone
+ahead of someone
 </seg>
-napreduje bolj kot nekdo drug.
+, napreduje bolj kot nekdo drug. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -63,11 +62,11 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek ali mo&#353;tvo na tekmovanju
+Kadar je &ccaron;lovek ali mo&scaron;tvo na tekmovanju 
 <seg type="lemma">
 ahead
 </seg>
-zmaguje.
+, zmaguje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -78,21 +77,21 @@ spredaj
 <sense n="4">
 <gramGrp>
 <pos>
-ADV
+ADV 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"of"
+&lsquo;of&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek nekam pride
+Kadar &ccaron;lovek nekam pride
 <seg type="lemma">
-ahead of someone
+ ahead of someone
 </seg>
-pride tja pred tistim &#269;lovekom.
+, pride tja pred tistim &ccaron;lovekom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -101,16 +100,15 @@ prehiteti
 </cit>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
-goes on ahead
+goes on ahead 
 </seg>
-ali
+ali 
 <seg type="lemma">
 is sent on ahead
 </seg>
-nekam odide ali je poslan prej kakor
-drugi.
+, nekam odide ali je poslan prej kakor drugi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -132,9 +130,9 @@ ADV
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Ahead
+Ahead 
 </seg>
-se nana&#353;a tudi na prihodnost.
+se nana&scaron;a tudi na prihodnost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -150,10 +148,10 @@ I haven't had time to think far ahead.
 <sense n="6">
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-go ahead.
+go ahead
 </ref>
 </xr>
 </sense>

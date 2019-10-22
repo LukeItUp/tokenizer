@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+majority
+</orth>
+<form type="variant">
+<pron>
+/m@dZ*QrI1ti1/
+</pron>
+</form>
+<form type="inflected">
+majorities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The majority of people or things 
+</seg>
+je ve&ccaron; kot polovica ljudi ali stvari v kaki skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...mass movements involving the overwhelming majority of the people.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je skupina 
+<seg type="lemma">
+in a majority 
+</seg>
+ali 
+<FV>
+in the majority
+</FV>
+, predstavlja ve&ccaron; kot polovico neke ve&ccaron;je skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v ve&ccaron;ini
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri volitvah je 
+<seg type="lemma">
+a majority 
+</seg>
+razlika med &scaron;tevilom glasov, ki jih dobi zmagovalec, in &scaron;tevilom glasov, ki jih dobi oseba ali stranka na drugem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Benn was returned by a majority of 15,479.
+</quote>
+</seg>
+</sense>
+</entry>

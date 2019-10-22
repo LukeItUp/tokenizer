@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ride
+</orth>
+<form type="variant">
+<pron>
+/r*a*Id/
+</pron>
+</form>
+<form type="inflected">
+rides, riding, rode
+</form>
+<form type="variant">
+<pron>
+/r*@*Ud/
+</pron>
+</form>
+<form type="inflected">
+ridden
+</form>
+<form type="variant">
+<pron>
+/r*Id@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ride a horse 
+</seg>
+pomeni sedeti na konju in usmerjati njegovo gibanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jahati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Every morning he used to ride his mare across the fields.
+</quote>
+<quote>
+I rode in the Grand National.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ride a bicycle or a motorcycle 
+</seg>
+pomeni usmerjati premikanje kolesa ali motorja in potovati z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rode round the campus on a bicycle.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ride in a vehicle 
+</seg>
+pomeni potovati v vozilu, na primer v avtu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That afternoon he rode in a jeep to the village.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ride 
+</seg>
+je potovanje na konju, kolesu ali v vozilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vo&zcaron;nja; je&zcaron;a
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the bus ride to Worcester.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+has taken someone for a ride
+</seg>
+, je tisto osebo ogoljufal ali prevaral; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+okoli prinesti
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

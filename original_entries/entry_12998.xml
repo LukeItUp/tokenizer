@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+site
+</orth>
+<form type="variant">
+<pron>
+/s*a*It/
+</pron>
+</form>
+<form type="inflected">
+sites, siting, sited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A site 
+</seg>
+je zemlji&scaron;&ccaron;e, ki se uporablja za dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlji&scaron;&ccaron;e, prizori&scaron;&ccaron;e, kraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...dusty building sites.
+</quote>
+<quote>
+...the site of the murder of the little princes in 1483.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is sited in a particular place or position
+</seg>
+, je postavljeno ali zgrajeno na dolo&ccaron;enem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti name&scaron;&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They refused to have cruise missiles sited on their soil.
+</quote>
+</seg>
+</sense>
+</entry>

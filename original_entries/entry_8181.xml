@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+learn
+</orth>
+<form type="variant">
+<pron>
+/l*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+learns, learning, learned 
+<IS>
+ali 
+</IS>
+<IV>
+learnt 
+</IV>
+<pron>
+/l*$e*:nt/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To learn something 
+</seg>
+pomeni pridobiti znanje ali spretnost z u&ccaron;enjem ali vajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nau&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children learn foreign languages very easily.
+</quote>
+<quote>
+The best way to learn is by practical experience.
+</quote>
+<quote>
+He had never learnt to read and write.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+learner
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She is a very slow learner.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To learn a poem, song, or the script of a play 
+</seg>
+pomeni u&ccaron;iti se ali ponavljati besedilo pesmi ali scenarija neke igre, da si ga zapomnimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nau&ccaron;iti se na pamet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to learn the whole poem.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+learn to behave in a particular way
+</seg>
+, se njihovo vedenje postopoma spreminja in se za&ccaron;nejo vesti na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privaditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If only these people could learn to live together.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To learn of something 
+</seg>
+pomeni zvedeti nekaj o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvedeti, sli&scaron;ati za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They offered help as soon as they learnt of the accident.
+</quote>
+<quote>
+She was extremely upset to learn that he had died.
+</quote>
+<quote>
+...the night when he learned the truth about Sam.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,151 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trace
+</orth>
+<form type="variant">
+<pron>
+/tr*e*Is/
+</pron>
+</form>
+<form type="inflected">
+traces, tracing, traced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trace something 
+</seg>
+pomeni nekaj iskati in na koncu najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izslediti, najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were trying to trace her missing husband.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trace the development of something 
+</seg>
+pomeni ugotoviti ali opisati, kako je potekal razvoj ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slediti (poteku), raziskati, opisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...attempting to trace the evolution of man.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trace a drawing or map 
+</seg>
+pomeni polo&zcaron;iti prozoren papir na sliko ali zemljevid in vle&ccaron;i svin&ccaron;nik po &ccaron;rtah, ki se vidijo skozi papir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopirati risbo, prerisati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trace 
+</seg>
+je znak, ki ka&zcaron;e, da je nekdo ali nekaj bilo na dolo&ccaron;enem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No trace was found of either the bag or its contents.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo izgine 
+<seg type="lemma">
+without trace
+</seg>
+, ni nobenega znaka, po katerem bi lahko sklepali, kam je od&scaron;el. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez sledu
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trace of something 
+</seg>
+je zelo majhna koli&ccaron;ina ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sled, drobec, trohica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...traces of the paint.
+</quote>
+</seg>
+</sense>
+</entry>

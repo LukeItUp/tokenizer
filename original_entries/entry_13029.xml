@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+skill
+</orth>
+<form type="variant">
+<pron>
+/sk*Il/
+</pron>
+</form>
+<form type="inflected">
+skills.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Skill 
+</seg>
+je znanje in sposobnost, ki nam omogo&ccaron;a, da nekaj naredimo dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spretnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The carving shows remarkable technical skill.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A skill 
+</seg>
+je vrsta dela ali opravila, ki zahteva posebno usposabljanje in znanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spretnost, ve&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the skills of painting and drawing.
+</quote>
+<quote>
+...learning new skills.
+</quote>
+</seg>
+</sense>
+</entry>

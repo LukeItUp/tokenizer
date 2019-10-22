@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p466_s511302" id="p466_w1045" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="562.702" base="569.11" width="29.5018" height="8.514">melody</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p466_s511303" id="p466_w1046" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="283.87" y="563.948" base="569.11" width="24.5396" height="6.844">/mel6di</TOKEN>
+<TOKEN sid="p466_s511304" id="p466_w1047" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="308.63" y="563.3" base="566.71" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p466_s511305" id="p466_w1048" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="311.17" y="563.948" base="569.11" width="4.7716" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p466_s511306" id="p466_w1049" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="317.39" y="563.77" base="569.11" width="30.0024" height="7.08">melodies.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p466_s511307" id="p466_w1050" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="348.85" y="565.194" base="569.11" width="18.5694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p466_s511308" id="p466_w1051" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="368.409" y="565.194" base="569.11" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p466_s511309" id="p466_w1052" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.03" y="563.414" base="569.11" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p466_s511310" id="p466_w1053" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.08" y="563.414" base="569.11" width="24.048" height="7.552">melody</TOKEN>
+</seg>
+<TOKEN sid="p466_s511311" id="p466_w1054" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.58" y="563.414" base="569.11" width="5.8464" height="7.552">je</TOKEN>
+<TOKEN sid="p466_s511312" id="p466_w1055" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.876" y="563.414" base="569.11" width="26.136" height="7.552">prijetno</TOKEN>
+<TOKEN sid="p466_s511313" id="p466_w1056" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="572.494" base="578.19" width="33.0444" height="7.552">zaporedje</TOKEN>
+<TOKEN sid="p466_s511314" id="p466_w1057" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.654" y="572.494" base="578.19" width="26.0093" height="7.552">zvokov;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p466_s511315" id="p466_w1058" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="321.664" y="572.494" base="578.19" width="25.5917" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p466_s511316" id="p466_w1059" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.256" y="572.494" base="578.19" width="17.6011" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p466_s511318" id="p466_w1061" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="375.09" y="572.494" base="578.19" width="29.5891" height="7.552">melodija</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

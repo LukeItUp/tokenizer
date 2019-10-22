@@ -1,0 +1,167 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heap
+</orth>
+<form type="variant">
+<pron>
+/h*i*:p/
+</pron>
+</form>
+<form type="inflected">
+heaps, heaping, heaped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A heap 
+</seg>
+je neurejen kup stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kup, gomila
+</quote>
+</cit>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To collapse in a heap 
+</seg>
+pomeni trdo pasti na tla in se ne ve&ccaron; premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgruditi se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To heap things in a pile 
+</seg>
+pomeni urediti predmete v velik kup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakopi&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...food heaped on platters.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;upon&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To heap praise or criticism on someone or something 
+</seg>
+pomeni nekomu nameniti veliko hvale ali kritike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obsipati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heaps of something 
+</seg>
+ali 
+<seg type="variant">
+a heap of something 
+</seg>
+je velika koli&ccaron;ina ne&ccaron;esa; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na kupe, ogromno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ve got heaps of time.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+heap up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To heap things up 
+</seg>
+pomeni spraviti stvari na kup. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nakopi&ccaron;iti, nametati na kup
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

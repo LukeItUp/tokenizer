@@ -1,0 +1,496 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hang
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;N/
+</pron>
+</form>
+<form type="inflected">
+hangs, hanging, hung 
+<pron>
+/h*VN/
+</pron>
+ 
+<IS>
+ali 
+</IS>
+<IV>
+hanged
+</IV>
+.
+</form>
+<IN>
+<IH>
+Hanged 
+</IH>
+<IC>
+je pri 3. pomenu oblika za preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hang something somewhere 
+</seg>
+pomeni nekaj pritrditi tako visoko, da je nad zemljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was hanging his coat in the hall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is hanging somewhere
+</seg>
+, je zgornji del tega na nekaj pritrjen, preostali del pa je prost in brez podpore. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viseti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...some washing hanging on a line.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hang someone 
+</seg>
+pomeni nekoga usmrtiti tako, da mu okoli vratu zave&zcaron;emo vrv in mu izpod stopal vzamemo oporo, da obvisi v zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rebecca Smith was hanged in 1849.
+</quote>
+<quote>
+He tried to hang himself.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;over&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki prihodnji dogodek ali mo&zcaron;nost 
+<seg type="lemma">
+hangs over someone
+</seg>
+, nekomu povzro&ccaron;a skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viseti nad glavo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the threat of universal extinction hanging over all the world today.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To get the hang of something 
+</seg>
+pomeni za&ccaron;eti razumevati, kako se nekaj naredi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dojeti bistvo, razumeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Once you have got the hang of it, you&apos;ll be alright.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+hanging
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hang about, 
+<VV>
+hang around, 
+</VV>
+<VS>
+ali 
+</VS>
+<VV>
+hang round.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hang about
+</seg>
+, 
+<seg type="variant">
+hang around
+</seg>
+ ali 
+<seg type="variant">
+hang round somewhere 
+</seg>
+pomeni nekje ostati ali &ccaron;akati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+postopati, viseti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We would have to hang around for a while.
+</quote>
+<quote>
+I enjoyed hanging around Parliament listening to debates.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekomu re&ccaron;emo 
+<seg type="lemma">
+hang on
+</seg>
+, ga prosimo, naj za hipec po&ccaron;aka; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hang on a minute.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hang on 
+</seg>
+pomeni nekako pre&zcaron;iveti, dokler se polo&zcaron;aj ne izbolj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, ne popustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can&apos;t keep hanging on here much longer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar neka stvar 
+<seg type="lemma">
+hangs on another
+</seg>
+, je odvisna od druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvisen biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everything hangs on money at the moment.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang onto.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hang onto something 
+</seg>
+pomeni nekaj zelo trdno dr&zcaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oklepati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Claude hung on to Tom&apos;s shoulder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To hang onto a position 
+</seg>
+pomeni poskusiti ohraniti polo&zcaron;aj, ki ga imamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oklepati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fear is a powerful motive for hanging onto power.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hang out washing 
+</seg>
+pomeni obesiti perilo na vrv, da se posu&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang round.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+hang around
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To hang something up 
+</seg>
+pomeni nekaj postaviti tako, da je najvi&scaron;ji del podprt, preostali pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Howard hangs up his scarf on the hook behind the door.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is hanging up somewhere
+</seg>
+, je nekam postavljeno tako, da se ne dotika tal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viseti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are some old tools hanging up in the shed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To hang up 
+</seg>
+pomeni prekiniti telefonski pogovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&zcaron;iti slu&scaron;alko
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+hang up on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hang up on someone 
+</seg>
+pomeni nenadoma in nepri&ccaron;akovano prekiniti telefonski pogovor, tako da slu&scaron;alko polo&zcaron;imo nazaj na vilice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&zcaron;iti, prekiniti, vre&ccaron;i slu&scaron;alko dol
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

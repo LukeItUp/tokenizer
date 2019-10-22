@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dislike
+</orth>
+<form type="variant">
+<pron>
+/dIsl*a*Ik/
+</pron>
+</form>
+<form type="inflected">
+dislikes, disliking, disliked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dislike someone or something 
+</seg>
+pomeni misliti, da je nekdo ali nekaj neprijeten, in ga zato ne maramo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne marati, ob&ccaron;utiti odpor do nekoga ali ne&ccaron;esa
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dislike 
+</seg>
+je &ccaron;ustvo antipatije do nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpor, nenaklonjenost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their dislike of authority.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take a dislike to someone or something 
+</seg>
+pomeni za&ccaron;utiti odpor do nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;utiti odpor, upreti se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's dislikes 
+</seg>
+so stvari, ki jih &ccaron;lovek ne mara. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepriljubljena stvar, antipatija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has her likes and dislikes, as we all have.
+</quote>
+</seg>
+</sense>
+</entry>

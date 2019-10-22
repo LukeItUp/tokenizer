@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suspend
+</orth>
+<form type="variant">
+<pron>
+/s@sp*end/
+</pron>
+</form>
+<form type="inflected">
+suspends, suspending, suspended.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is suspended from a high place
+</seg>
+, je pritrjeno tako, da visi z visoke to&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti obe&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A model aeroplane was suspended above the stage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suspend something 
+</seg>
+pomeni nekaj prelo&zcaron;iti na poznej&scaron;i &ccaron;as ali za nekaj &ccaron;asa ustaviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&zcaron;iti, prekiniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The builders suspended their work.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is suspended from their job
+</seg>
+, mu nadrejeni uka&zcaron;ejo, da nekaj &ccaron;asa ne sme delati, najve&ccaron;krat kot kazen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti suspendiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The people involved in the incident have been suspended from their duties.
+</quote>
+</seg>
+</sense>
+</entry>

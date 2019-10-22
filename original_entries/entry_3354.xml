@@ -1,0 +1,156 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curse
+</orth>
+<form type="variant">
+<pron>
+/k*$e*:s/
+</pron>
+</form>
+<form type="inflected">
+curses, cursing, cursed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To curse 
+</seg>
+pomeni psovati ali govoriti grde besede, ker smo zaradi ne&ccaron;esa jezni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preklinjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He missed the ball and cursed violently.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+With a curse he disentangled his head from the netting.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To curse someone 
+</seg>
+pomeni nekomu govoriti &zcaron;aljive besede, ker smo jezni nanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preklinjati koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was cursing him under my breath for his carelessness.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To curse something 
+</seg>
+pomeni jezno se prito&zcaron;evati nad &ccaron;im, najve&ccaron;krat v prosta&scaron;kem jeziku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preklinjati kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cursing my plight, I tried to find shelter for the night.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo 
+<seg type="lemma">
+there is a curse on someone
+</seg>
+, ho&ccaron;emo povedati, da neka nadnaravna sila povzro&ccaron;a, da se nekomu dogajajo neprijetne stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekletstvo, urok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a curse on this family.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi tisto, kar povzro&ccaron;a veliko te&zcaron;av ali nezadovoljstva, lahko imenujemo 
+<seg type="lemma">
+a curse
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekletstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Loneliness in old age is the curse of modern society.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dish
+</orth>
+<form type="variant">
+<pron>
+/d*IS/
+</pron>
+</form>
+<form type="inflected">
+dishes, dishing, dished.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dish 
+</seg>
+je plitva posoda, ki jo uporabljamo za kuhanje ali serviranje hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skleda, kro&zcaron;nik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dish 
+</seg>
+je tudi hrana, pripravljena na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jed
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the traditional British dish of eggs and bacon.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dish up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dish up food 
+</seg>
+pomeni servirati hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postre&ccaron;i, prinesti na mizo
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

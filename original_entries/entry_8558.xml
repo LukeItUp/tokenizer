@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lyric
+</orth>
+<form type="variant">
+<pron>
+/l*IrIk/
+</pron>
+</form>
+<form type="inflected">
+lyrics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Poezija, ki je 
+<seg type="lemma">
+lyric
+</seg>
+, je napisana v preprostem in osebnem slogu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lirski, liri&ccaron;en
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lyrics of a song 
+</seg>
+so besede neke pesmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besedilo
+</quote>
+</cit>
+</sense>
+</entry>

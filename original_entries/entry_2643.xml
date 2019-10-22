@@ -1,0 +1,102 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+comment
+</orth>
+<form type="variant">
+<pron>
+/k*QmEnt/
+</pron>
+</form>
+<form type="inflected">
+comments, commenting, commented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To comment on something 
+</seg>
+pomeni povedati svoje mnenje o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komentirati, pripomniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Both girls commented on Chris's size.
+</quote>
+<quote>
+&lsquo;It needs washing,&rsquo; she commented.
+</quote>
+<quote>
+Someone commented that Brian changes his mind every day.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A comment 
+</seg>
+je izjava, ki podaja na&scaron;e mnenje o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomba, razlaga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People in the town started making rude comments.
+</quote>
+<quote>
+He was not available for comment yesterday.
+</quote>
+</seg>
+<sense value="phrase">
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+no comment
+</seg>
+ med intervjujem povemo, da no&ccaron;emo odgovoriti na vpra&scaron;anje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez besed
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Do you intend to keep them in prison?&rsquo;&mdash;&lsquo;No comment.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

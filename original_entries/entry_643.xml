@@ -6,16 +6,17 @@ appropriate,
 <form type="inflected">
 appropriates, appropriating, appropriated;
 </form>
-<form type="variant">
-pridevnik izgovarjamo
+<PN>
+pridevnik izgovarjamo 
 <pron>
 /@3pr*@*UprI@t/
 </pron>
-glagol pa
+, glagol pa 
 <pron>
-/@3pr*@*UprIeIt/.
+/@3pr*@*UprIeIt/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -24,12 +25,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 appropriate
 </seg>
-je v dolo&#269;enih
-okoli&#353;&#269;inah ustrezno ali sprejemljivo.
+, je v dolo&ccaron;enih okoli&scaron;&ccaron;inah ustrezno ali sprejemljivo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -46,7 +46,6 @@ It seemed appropriate to end with a joke.
 <orth>
 appropriately
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -62,23 +61,22 @@ He reminded himself to thank Louis appropriately.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e &#269;lovek
+&Ccaron;e &ccaron;lovek 
 <seg type="lemma">
 appropriates something
 </seg>
-vzame
-nekaj, kar ni njegova last;
+, vzame nekaj, kar ni njegova last; 
 </def>
 <usg>
-knji&#382;na raba.
+knji&zcaron;na raba.
 </usg>
 <cit type="translationEquivalent">
 <quote>
@@ -87,8 +85,7 @@ prilastiti si, prisvojiti si
 </cit>
 <seg type="example">
 <quote>
-The materials are exported and other countries appropriate the
-profits.
+The materials are exported and other countries appropriate the profits.
 </quote>
 </seg>
 </sense>

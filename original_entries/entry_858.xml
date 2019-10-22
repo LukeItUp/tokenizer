@@ -6,41 +6,40 @@ attribute,
 <form type="inflected">
 attributes, attributing, attributed;
 </form>
-<form type="variant">
-glagol izgovarjamo
+<PN>
+glagol izgovarjamo 
 <pron>
 /@3tr*Ibju:t/
 </pron>
-samostalnik pa
+, samostalnik pa 
 <pron>
-/*#ae;trIbju:t/.
+/*&ae;trIbju:t/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attribute something to an event or
-situation
+To attribute something to an event or situation
 </seg>
-pomeni, da mislimo, da je vzrok za tako stanje tisti dogodek
-ali polo&#382;aj.
+ pomeni, da mislimo, da je vzrok za tako stanje tisti dogodek ali polo&zcaron;aj. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -56,27 +55,25 @@ Economists attributed the lack of progress to poor cooperation.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attribute a remark, a piece of writing, or a
-work to someone
+To attribute a remark, a piece of writing, or a work to someone
 </seg>
-pomeni povedati, da je nekdo tisto pripombo, besedilo ali
-umetnino izrekel, napisal ali izdelal.
+ pomeni povedati, da je nekdo tisto pripombo, besedilo ali umetnino izrekel, napisal ali izdelal. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -87,27 +84,25 @@ pripisati
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attribute a particular quality or feature to
-someone or something
+To attribute a particular quality or feature to someone or something 
 </seg>
-pomeni misliti, da ima tisti &#269;lovek ali stvar
-dolo&#269;eno lastnost ali zna&#269;ilnost.
+pomeni misliti, da ima tisti &ccaron;lovek ali stvar dolo&ccaron;eno lastnost ali zna&ccaron;ilnost. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -124,10 +119,9 @@ Here we are attributing human feelings to animals.
 <orth>
 attribution
 </orth>
-</form>
 <form type="variant">
 <pron>
-/*#ae;trIbj*u*:S@0n/
+/*&ae;trIbj*u*:S@0n/
 </pron>
 </form>
 <gramGrp>
@@ -150,9 +144,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An attribute
+An attribute 
 </seg>
-je zna&#269;ilnost ali oznaka.
+je zna&ccaron;ilnost ali oznaka. 
 </def>
 <cit type="translationEquivalent">
 <quote>

@@ -1,0 +1,119 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rotate
+</orth>
+<form type="variant">
+<pron>
+/r@Ut*e*It/
+</pron>
+</form>
+<form type="inflected">
+rotates, rotating, rotated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rotate 
+</seg>
+pomeni premikati se v kro&zcaron;ni smeri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...two drums rotating in opposite directions.
+</quote>
+<quote>
+He rotated the camera.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rotation
+</orth>
+<form type="variant">
+<pron>
+/r@Ut*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the earth&apos;s rotation.
+</quote>
+<quote>
+...the rotations of the ceiling fan.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rotate a group of things or people 
+</seg>
+pomeni uporabiti vsako stvar ali osebo v skupini eno za drugo in potem znova za&ccaron;eti od za&ccaron;etka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rotirati, menjavati po redu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Weeds and diseases are controlled by rotating the crops.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rotation
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She did everything in strict rotation.
+</quote>
+<quote>
+Crop rotations will help to minimize disease.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

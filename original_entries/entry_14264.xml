@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+taunt
+</orth>
+<form type="variant">
+<pron>
+/t*O*:nt/
+</pron>
+</form>
+<form type="inflected">
+taunts, taunting, taunted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To taunt someone 
+</seg>
+pomeni &zcaron;aljivo govoriti o nekom, zlasti o njegovih slabostih ali pomanjkljivostih, da bi ga razburili ali razjezili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posmehovati se, zbadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...street marchers taunting the police.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The children had to put up with taunts like &lsquo;You haven&apos;t got a Dad.&rsquo;
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

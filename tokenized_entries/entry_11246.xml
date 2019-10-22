@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p596_s653355" id="p596_w468" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="598.862" base="605.27" width="23.5091" height="8.514">prune</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p596_s653356" id="p596_w469" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="79.57" y="600.108" base="605.27" width="25.5616" height="6.844">/pru&#194;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p596_s653357" id="p596_w470" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="106.52" y="599.93" base="605.27" width="23.274" height="7.08">prunes,</TOKEN>
+<TOKEN sid="p596_s653358" id="p596_w471" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="131.098" y="599.93" base="605.27" width="26.1495" height="7.08">pruning,</TOKEN>
+<TOKEN sid="p596_s653359" id="p596_w472" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="158.552" y="599.93" base="605.27" width="24.0232" height="7.08">pruned.</TOKEN>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p596_s653361" id="p596_w474" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.01" y="601.354" base="605.27" width="18.611" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p596_s653362" id="p596_w475" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="209.581" y="601.354" base="605.27" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p596_s653363" id="p596_w476" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.13" y="599.574" base="605.27" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p596_s653364" id="p596_w477" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.12" y="599.574" base="605.27" width="19.4674" height="7.552">prune</TOKEN>
+</seg>
+<TOKEN sid="p596_s653365" id="p596_w478" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="608.804" base="614.5" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p596_s653366" id="p596_w479" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.4156" y="608.804" base="614.5" width="31.1875" height="7.552">posu{ena</TOKEN>
+<TOKEN sid="p596_s653367" id="p596_w480" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.842" y="608.804" base="614.5" width="17.9928" height="7.552">sliva.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p596_s653369" id="p596_w482" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="128.54" y="608.804" base="614.5" width="15.9962" height="7.552">suha</TOKEN>
+<TOKEN sid="p596_s653370" id="p596_w483" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="146.776" y="608.804" base="614.5" width="15.9955" height="7.552">sliva</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p596_s653372" id="p596_w485" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="171.91" y="610.584" base="614.5" width="7.14681" height="5.192">VB</TOKEN>
+<seg>
+<TOKEN sid="p596_s653373" id="p596_w486" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="180.591" y="610.584" base="614.5" width="10.7182" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p596_s653374" id="p596_w487" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="192.843" y="610.584" base="614.5" width="9.89802" height="5.192">OBJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p596_s653375" id="p596_w488" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.99" y="608.804" base="614.5" width="8.1432" height="7.552">To</TOKEN>
+<TOKEN sid="p596_s653376" id="p596_w489" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.374" y="608.804" base="614.5" width="19.9915" height="7.552">prune</TOKEN>
+<TOKEN sid="p596_s653377" id="p596_w490" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="237.606" y="608.804" base="614.5" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p596_s653378" id="p596_w491" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="64.0944" base="69.7904" width="13.0478" height="7.552">tree</TOKEN>
+<TOKEN sid="p596_s653379" id="p596_w492" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="274.399" y="64.0944" base="69.7904" width="7.2" height="7.552">or</TOKEN>
+<TOKEN sid="p596_s653380" id="p596_w493" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.34" y="64.0944" base="69.7904" width="16.3944" height="7.552">bush</TOKEN>
+</seg>
+<TOKEN sid="p596_s653381" id="p596_w494" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="303.48" y="64.0944" base="69.7904" width="25.1964" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p596_s653382" id="p596_w495" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.416" y="64.0944" base="69.7904" width="27.8561" height="7.552">porezati</TOKEN>
+<TOKEN sid="p596_s653383" id="p596_w496" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.012" y="64.0944" base="69.7904" width="18.7963" height="7.552">nekaj</TOKEN>
+<TOKEN sid="p596_s653384" id="p596_w497" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="383.549" y="64.0944" base="69.7904" width="9.99936" height="7.552">vej</TOKEN>
+<TOKEN sid="p596_s653385" id="p596_w498" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="396.288" y="64.0944" base="69.7904" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p596_s653386" id="p596_w499" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="402.629" y="64.0944" base="69.7904" width="25.8653" height="7.552">drevesa</TOKEN>
+<TOKEN sid="p596_s653387" id="p596_w500" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.234" y="64.0944" base="69.7904" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p596_s653388" id="p596_w501" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="73.1744" base="78.8704" width="19.5998" height="7.552">grma.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p596_s653390" id="p596_w503" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.44" y="73.174" base="78.87" width="29.8613" height="7.552">obrezati;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p596_s653391" id="p596_w504" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.3" y="73.174" base="78.87" width="9.59688" height="7.552">He</TOKEN>
+<TOKEN sid="p596_s653392" id="p596_w505" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.897" y="73.174" base="78.87" width="16.7954" height="7.552">went</TOKEN>
+<TOKEN sid="p596_s653393" id="p596_w506" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.693" y="73.174" base="78.87" width="6.80328" height="7.552">to</TOKEN>
+<TOKEN sid="p596_s653394" id="p596_w507" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.496" y="73.174" base="78.87" width="19.9915" height="7.552">prune</TOKEN>
+<TOKEN sid="p596_s653395" id="p596_w508" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.488" y="73.174" base="78.87" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p596_s653396" id="p596_w509" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="392.286" y="73.174" base="78.87" width="19.0418" height="7.552">roses.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

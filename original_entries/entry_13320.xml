@@ -1,0 +1,143 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sour
+</orth>
+<form type="variant">
+<pron>
+/s*a*U*@/
+</pron>
+</form>
+<form type="inflected">
+sours, souring, soured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+sour
+</seg>
+, ima mo&ccaron;en okus, podoben okusu limone ali nezrelega jabolka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kisel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Add enough sugar to keep it from tasting sour.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Mleko, ki je 
+<seg type="lemma">
+sour
+</seg>
+, ima neprijeten okus, ker ni ve&ccaron; sve&zcaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kisel, skisan
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudje, ki so 
+<seg type="lemma">
+sour
+</seg>
+, so slabe volje in neprijazni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;emeren, kisel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I received a sour look every time I passed her house.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+goes sour 
+</seg>
+ali 
+<FV>
+turns sour
+</FV>
+, postane manj prijetno ali manj zadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spriditi se, skisati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The evening had turned sour.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar prijateljstvo ali stali&scaron;&ccaron;e do ne&ccaron;esa 
+<seg type="lemma">
+sours 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+sours a friendship or attitude
+</seg>
+, postane manj prijateljsko ali optimisti&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti (se), ohladiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Detente has soured.
+</quote>
+<quote>
+These latest cuts might sour relations between the government and the military.
+</quote>
+</seg>
+</sense>
+</entry>

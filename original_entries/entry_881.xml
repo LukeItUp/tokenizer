@@ -5,7 +5,7 @@ authentic
 </orth>
 <form type="variant">
 <pron>
-/O:T*entIk/.
+/O:T*entIk/
 </pron>
 </form>
 </form>
@@ -16,12 +16,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Slika ali pismo, ki je
+Slika ali pismo, ki je 
 <seg type="lemma">
 authentic
 </seg>
-je
-pristen in ne ponaredek ali posnetek.
+, je pristen in ne ponaredek ali posnetek. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -33,7 +32,6 @@ pristen, verodostojen
 <orth>
 authenticity
 </orth>
-</form>
 <form type="variant">
 <pron>
 /*O*:Tent*IsI1ti1/
@@ -58,12 +56,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Podatek ali ra&#269;un, ki je
+Podatek ali ra&ccaron;un, ki je 
 <seg type="lemma">
 authentic
 </seg>
-je
-zanesljiv in natan&#269;en.
+, je zanesljiv in natan&ccaron;en. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -80,7 +77,6 @@ zanesljiv, verodostojen
 <orth>
 authenticity
 </orth>
-</form>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -88,8 +84,7 @@ UNCOUNT N
 </gramGrp>
 <seg type="example">
 <quote>
-No historian has ever doubted the authenticity of Haldane's
-account.
+No historian has ever doubted the authenticity of Haldane's account.
 </quote>
 </seg>
 </sense>

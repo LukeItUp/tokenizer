@@ -1,0 +1,182 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+review
+</orth>
+<form type="variant">
+<pron>
+/rI1vj*u*:/
+</pron>
+</form>
+<form type="inflected">
+reviews, reviewing, reviewed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A review 
+</seg>
+je prispevek v &ccaron;asopisu, reviji, na radiu ali televiziji, v katerem avtor posreduje svoje mnenje o ne&ccaron;em, na primer o novi knjigi ali igri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kritika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a review of Lord Harewood&apos;s autobiography.
+</quote>
+<quote>
+...book reviews.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A review of a situation or system 
+</seg>
+je uradna preu&ccaron;itev stanja ali sistema, da bi ugotovili, ali ga je treba spremeniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregled, pretres
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a review of public expenditure.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar polo&zcaron;aj ali sistem 
+<seg type="lemma">
+is reviewed
+</seg>
+, ga uradno preu&ccaron;ujejo, da bi ugotovili, ali ga je treba spremeniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregledati, preu&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+By law, state pensions must be reviewed once a year.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+comes up for review
+</seg>
+, nastopi &ccaron;as, da je treba tisto uradno pregledati in nato odlo&ccaron;iti, ali je tisto treba spremeniti. Kadar je nekaj 
+<FV>
+under review
+</FV>
+, tisto preu&ccaron;ujejo na tak na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti na vrsto za pregled; biti v pretresu
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To review a situation 
+</seg>
+pomeni skrbno pregledati in oceniti polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretresti, oceniti
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+reviews something
+</seg>
+, o ne&ccaron;em, na primer o novi knjigi ali igri, napi&scaron;e &ccaron;lanek ali o tistem govori na televiziji ali radiu; tako izrazi svoje mnenje o tisti stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kriti&scaron;ko oceniti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+reviewer
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Reviewers loved the book.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

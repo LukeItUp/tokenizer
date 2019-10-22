@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p494_s540691" id="p494_w86" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="163.832" base="170.24" width="29.4633" height="8.514">narrate</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p494_s540692" id="p494_w87" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="86.15" y="165.078" base="170.24" width="28.1216" height="6.844">/n6reËt/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p494_s540693" id="p494_w88" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="116.45" y="164.9" base="170.24" width="28.1232" height="7.08">narrates,</TOKEN>
+<TOKEN sid="p494_s540694" id="p494_w89" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="146.617" y="164.9" base="170.24" width="31.1188" height="7.08">narrating,</TOKEN>
+<TOKEN sid="p494_s540695" id="p494_w90" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="179.78" y="164.9" base="170.24" width="28.8725" height="7.08">narrated.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p494_s540696" id="p494_w91" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="210.84" y="166.324" base="170.24" width="7.14681" height="5.192">VB</TOKEN>
+<seg>
+<TOKEN sid="p494_s540697" id="p494_w92" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="219.481" y="166.324" base="170.24" width="10.7182" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p494_s540698" id="p494_w93" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="231.694" y="166.324" base="170.24" width="9.89802" height="5.192">OBJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p494_s540699" id="p494_w94" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="173.614" base="179.31" width="21.3149" height="7.552">Kadar</TOKEN>
+<TOKEN sid="p494_s540700" id="p494_w95" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.0242" y="173.614" base="179.31" width="21.6468" height="7.552">~lovek</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p494_s540701" id="p494_w96" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="106.2" y="173.614" base="179.31" width="27.8978" height="7.552">narrates</TOKEN>
+</seg>
+<TOKEN sid="p494_s540702" id="p494_w97" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="135.63" y="173.614" base="179.31" width="25.9819" height="7.552">zgodbo,</TOKEN>
+<TOKEN sid="p494_s540703" id="p494_w98" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="163.141" y="173.614" base="179.31" width="6.32952" height="7.552">jo</TOKEN>
+<TOKEN sid="p494_s540704" id="p494_w99" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.999" y="173.614" base="179.31" width="17.7221" height="7.552">pove.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p494_s540706" id="p494_w101" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="196.06" y="173.614" base="179.31" width="31.032" height="7.552">povedati,</TOKEN>
+<TOKEN sid="p494_s540707" id="p494_w102" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="228.621" y="173.614" base="179.31" width="12.9744" height="7.552">pri-</TOKEN>
+<TOKEN sid="p494_s540708" id="p494_w103" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="182.684" base="188.38" width="37.8072" height="7.552">povedovati;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p494_s540709" id="p494_w104" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="99.4202" y="182.684" base="188.38" width="9.41688" height="7.552">He</TOKEN>
+<TOKEN sid="p494_s540710" id="p494_w105" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="110.257" y="182.684" base="188.38" width="28.3342" height="7.552">narrated</TOKEN>
+<TOKEN sid="p494_s540711" id="p494_w106" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.011" y="182.684" base="188.38" width="12.2522" height="7.552">this</TOKEN>
+<TOKEN sid="p494_s540712" id="p494_w107" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="153.683" y="182.684" base="188.38" width="12.2594" height="7.552">tale</TOKEN>
+<TOKEN sid="p494_s540713" id="p494_w108" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.362" y="182.684" base="188.38" width="15.053" height="7.552">with</TOKEN>
+<TOKEN sid="p494_s540714" id="p494_w109" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.835" y="182.684" base="188.38" width="16.7616" height="7.552">great</TOKEN>
+<TOKEN sid="p494_s540715" id="p494_w110" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.017" y="182.684" base="188.38" width="19.1038" height="7.552">effect.</TOKEN>
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+<TOKEN sid="p494_s540717" id="p494_w112" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="228.54" y="182.684" base="188.38" width="13.0586" height="7.568">nar-</TOKEN>
+<TOKEN sid="p494_s540718" id="p494_w113" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="191.744" base="197.44" width="20.4012" height="7.568">ration</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p494_s540719" id="p494_w114" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="82.79" y="192.278" base="197.44" width="26.0798" height="6.844">/n6reËÄ6</TOKEN>
+<TOKEN sid="p494_s540720" id="p494_w115" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="109.2" y="191.64" base="195.05" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p494_s540721" id="p494_w116" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="111.83" y="192.278" base="197.44" width="6.8799" height="6.844">n/</TOKEN>
+</pron>
+</form>
+<gramGrp>
+<pos>
+<TOKEN sid="p494_s540722" id="p494_w117" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="121.29" y="193.524" base="197.44" width="27.2111" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p494_s540723" id="p494_w118" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="150.031" y="193.524" base="197.44" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+<TOKEN sid="p494_s540724" id="p494_w119" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="156.37" y="191.744" base="197.44" width="12.8002" height="7.552">The</TOKEN>
+<TOKEN sid="p494_s540725" id="p494_w120" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.381" y="191.744" base="197.44" width="27.9814" height="7.552">richness</TOKEN>
+<TOKEN sid="p494_s540726" id="p494_w121" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="201.572" y="191.744" base="197.44" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p494_s540727" id="p494_w122" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.183" y="191.744" base="197.44" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p494_s540728" id="p494_w123" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.192" y="191.744" base="197.44" width="18.4003" height="7.552">novel</TOKEN>
+<TOKEN sid="p494_s540729" id="p494_w124" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="200.814" base="206.51" width="20.795" height="7.552">comes</TOKEN>
+<TOKEN sid="p494_s540730" id="p494_w125" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.9739" y="200.814" base="206.51" width="15.8551" height="7.552">from</TOKEN>
+<TOKEN sid="p494_s540731" id="p494_w126" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="100.828" y="200.814" base="206.51" width="9.99072" height="7.552">his</TOKEN>
+<TOKEN sid="p494_s540732" id="p494_w127" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.817" y="200.814" base="206.51" width="34.3886" height="7.552">narration.</TOKEN>
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

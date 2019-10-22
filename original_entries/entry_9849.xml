@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+one-way.
+</orth>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Po cesti, ki je 
+<seg type="lemma">
+one-way
+</seg>
+, promet poteka samo v eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enosmeren
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z vozovnico, ki je 
+<seg type="lemma">
+one-way
+</seg>
+, lahko potujemo samo do dolo&ccaron;enega kraja, ne pa tudi nazaj do izhodi&scaron;&ccaron;nega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enosmeren, v eno smer
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a one-way ticket to Jersey.
+</quote>
+</seg>
+</sense>
+</entry>

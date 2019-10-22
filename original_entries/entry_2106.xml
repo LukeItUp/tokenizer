@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ceiling
+</orth>
+<form type="variant">
+<pron>
+/s*i*:lIN/
+</pron>
+</form>
+<form type="inflected">
+ceilings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ceiling 
+</seg>
+je vrhnja povr&scaron;ina sobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strop
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a large room with a high ceiling.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ceiling 
+</seg>
+je tudi uradna zgornja meja cen ali pla&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najvi&scaron;ja vrednost, zgornja meja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ceiling on business rate increases.
+</quote>
+</seg>
+</sense>
+</entry>

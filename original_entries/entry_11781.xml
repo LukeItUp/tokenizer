@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+relevant
+</orth>
+<form type="variant">
+<pron>
+/r*el@v@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+relevant
+</seg>
+, je povezano s tistim, o &ccaron;emer govorimo ali pi&scaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezan s &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is not strictly relevant to what I&apos;ll be saying.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+relevance
+</orth>
+<form type="variant">
+<pron>
+/r*el@v@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She did not understand the relevance of his remarks.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar, ki je v dolo&ccaron;eni vrsti 
+<seg type="lemma">
+relevant
+</seg>
+, je prava ali primerna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustrezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are made to conform with the relevant British Standards.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+synthesis
+</orth>
+<form type="variant">
+<pron>
+/s*InT@1sIs/
+</pron>
+</form>
+<form type="inflected">
+syntheses
+</form>
+<form type="variant">
+<pron>
+/s*InT@1si:z/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A synthesis of different ideas or styles 
+</seg>
+je me&scaron;anica ali povezava razli&ccaron;nih idej ali slogov; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;itev, sinteza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a synthesis of Jewish theology and Greek philosophy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The synthesis of a substance 
+</seg>
+je izdelava neke snovi s kemi&ccaron;nimi ali biolo&scaron;kimi reakcijami; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sinteza, tvorjenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We need sunlight for the synthesis of vitamin D.
+</quote>
+</seg>
+</sense>
+</entry>

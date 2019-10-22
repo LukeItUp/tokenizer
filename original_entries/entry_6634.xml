@@ -1,0 +1,172 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hear
+</orth>
+<form type="variant">
+<pron>
+/h*I*@/
+</pron>
+</form>
+<form type="inflected">
+hears, hearing, heard
+</form>
+<form type="variant">
+<pron>
+/h*$e*:d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hear sounds 
+</seg>
+pomeni zavedati se zvokov, ker dose&zcaron;ejo na&scaron;a u&scaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sli&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He heard a distant voice shouting.
+</quote>
+<quote>
+She could hear clearly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sodnik ali sodi&scaron;&ccaron;e 
+<seg type="lemma">
+hears a case 
+</seg>
+ali 
+<seg type="lemma">
+hears evidence
+</seg>
+, uradno poslu&scaron;a primer ali dokaze, da bi lahko razsodil o primeru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasli&scaron;ati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;from&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hear from someone 
+</seg>
+pomeni od nekoga prejeti pismo ali telefonski klic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prejeti pismo ali klic
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;ll be delighted to hear from you again.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hear some news or information 
+</seg>
+pomeni izvedeti novico ali podatek, ker nam ga nekdo pove ali je omenjen po radiu ali televiziji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sli&scaron;ati, izvedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My first meeting with the woman confirmed everything I had heard about her.
+</quote>
+<quote>
+I was glad to hear that things are quietening down.
+</quote>
+<quote>
+He came to hear of their difficulties.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+I won&apos;t hear of someone doing something 
+</seg>
+re&ccaron;emo, kadar nekomu no&ccaron;emo dovoliti, da bi nekaj storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niti sli&scaron;ati no&ccaron;em
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+I have never heard of someone or something 
+</seg>
+re&ccaron;emo, kadar o nekom ali ne&ccaron;em ni&ccaron;esar ne vemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nikoli &scaron;e nisem sli&scaron;al
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nobody had ever heard of him.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

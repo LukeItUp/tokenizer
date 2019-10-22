@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fashion
+</orth>
+<form type="variant">
+<pron>
+/f*&ae;S@0n/
+</pron>
+</form>
+<form type="inflected">
+fashions, fashioning, fashioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+in a particular fashion
+</seg>
+, tisto storimo na tak na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na dolo&ccaron;en na&ccaron;in
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He greeted us in his usual friendly fashion.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fashion 
+</seg>
+je podro&ccaron;je dejavnosti, ki zajema slog obla&ccaron;enja in zunanji videz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the fashion industry.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fashion 
+</seg>
+je slog obla&ccaron;enja ali ved&ecirc;nja, ki je v dolo&ccaron;enem &ccaron;asu priljubljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the latest Parisian fashions.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in fashion
+</seg>
+, je v dolo&ccaron;enem &ccaron;asu priljubljeno in cenjeno. Kadar je nekaj 
+<FV>
+out of fashion
+</FV>
+, ni preve&ccaron; priljubljeno ali cenjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v modi, iz mode
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fashion something 
+</seg>
+pomeni nekaj narediti; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+izdelati, oblikovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The crew fashioned a raft from the wreckage.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+old-fashioned
+</ref>
+</xr>
+</sense>
+</entry>

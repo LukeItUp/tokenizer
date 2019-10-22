@@ -1,0 +1,319 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dry
+</orth>
+<form type="variant">
+<pron>
+/dr*a*I/
+</pron>
+</form>
+<form type="inflected">
+drier 
+<IS>
+ali 
+</IS>
+<IV>
+dryer, 
+</IV>
+driest; dries, drying, dried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+dry
+</seg>
+, na sebi ali v sebi nima vode ali kak&scaron;ne druge teko&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+suh
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+dryness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the dryness of the air.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dry something 
+</seg>
+ali 
+<seg type="variant">
+something dries 
+</seg>
+pomeni, da nekaj postane suho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posu&scaron;iti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He dried his feet with the towel.
+</quote>
+<quote>
+The washing hung drying in the sun.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je vreme 
+<seg type="lemma">
+dry
+</seg>
+, ni nobenega de&zcaron;ja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+suh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The night was dry and clear.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Te be on dry land 
+</seg>
+pomeni biti na kopnem in ne na ladji ali &ccaron;olnu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopno
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dry humour 
+</seg>
+je posmehljiv in porogljiv humor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajedljiv, piker
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I enjoyed her dry accounts of her work experiences.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+drily 
+<ZS>
+ali 
+</ZS>
+<ZV>
+dryly
+</ZV>
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Thank you,&rsquo; I said drily. &lsquo;It must be nice to be so culturally enlightened.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dry sherry or wine 
+</seg>
+je &scaron;eri ali vino, ki ni sladko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+suh
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+dried, 
+</ref>
+<ref>
+dryer
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dry out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+dries out
+</seg>
+, postane popolnoma suho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izsu&scaron;iti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+dry up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+dries up
+</seg>
+, izgubi vso vodo ali vlago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izsu&scaron;iti se, posu&scaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The pool dried up in the summer.
+</quote>
+<quote>
+My mouth always dries up when I'm nervous.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dried-up
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a dried-up piece of cake.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To dry up 
+</seg>
+ali 
+<seg type="variant">
+to dry the dishes up 
+</seg>
+pomeni po obedu obrisati vodo s pomitega jedilnega pribora in posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobrisati (posodo)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Would you like me to dry up?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+&Ccaron;e zaloga ali vrsta predmetov 
+<seg type="lemma">
+dries up
+</seg>
+, preneha obstajati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiti, usahniti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

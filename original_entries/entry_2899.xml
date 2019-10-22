@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+constrict
+</orth>
+<form type="variant">
+<pron>
+/k@7nstr*Ikt/
+</pron>
+</form>
+<form type="inflected">
+constricts, constricting, constricted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To constrict something 
+</seg>
+pomeni nekaj mo&ccaron;no stisniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stisniti, zadrgniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rubbed his ankles where the bindings had constricted him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+constriction
+</orth>
+<form type="variant">
+<pron>
+/k@7nstr*IkS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Some snakes kill, not by constriction, but by poison.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+constricts someone
+</seg>
+, omeji njegova dejanja, tako da ne more po&ccaron;eti tistega, kar &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omejiti, prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the constricting structure of schools.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+constriction
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the constrictions of family life.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

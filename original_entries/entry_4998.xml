@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+experiment
+</orth>
+<form type="variant">
+<pron>
+/I2ksp*er@1m@2nt/
+</pron>
+</form>
+<form type="inflected">
+experiments, experimenting, experimented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An experiment 
+</seg>
+je znanstveni preskus, s katerim ho&ccaron;emo nekaj dokazati ali odkriti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskus
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To experiment with something 
+</seg>
+ali 
+<seg type="lemma">
+to experiment on something 
+</seg>
+pomeni na ne&ccaron;em opraviti znanstveni poskus. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati poskuse, eksperimentirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He experimented with young white rats.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+experimentation
+</orth>
+<form type="variant">
+<pron>
+/I2ksp*er@1ment*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...medical experimentation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e naredimo nekaj novega, da bi videli, kako deluje, lahko svoje dejanje opi&scaron;emo kot 
+<seg type="lemma">
+an experiment
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the failure of this great experiment in industrial democracy.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...small businesses anxious to experiment with computers.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

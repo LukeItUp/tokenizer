@@ -1,0 +1,319 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+name
+</orth>
+<form type="variant">
+<pron>
+/n*e*Im/
+</pron>
+</form>
+<form type="inflected">
+names, naming, named.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The name of a person, thing, or place 
+</seg>
+je beseda ali sklop besed, s katerimi opredelimo ali prepoznamo &ccaron;loveka, predmet ali kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ime
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His name is Richard Arnason.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+names someone or something
+</seg>
+, nekomu ali ne&ccaron;emu d&aacute; ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poimenovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wanted to name the baby Colleen.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To name someone or something 
+</seg>
+pomeni tudi, da nekoga ali nekaj identificiramo z imenom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Minister, whom he did not name.
+</quote>
+<quote>
+...various flowers: roses, tulips and snapdragons, to name only a few.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+named
+</ref>
+</xr>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;after&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+names someone or something after a person or thing
+</seg>
+, tej osebi ali stvari da ime po neki drugi osebi ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati po
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The College in Holborn is named after her.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+names something
+</seg>
+, na primer datum za sestanek ali ceno ne&ccaron;esa, pove, kdaj naj bi bil sestanek oziroma kolik&scaron;na naj bi bila cena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati, predlagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He named a price he thought would scare me off.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+name
+</seg>
+ lahko uporabimo tudi za &ccaron;lovekov sloves. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ime
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Grey spoke out in public to clear Haldane&apos;s name.
+</quote>
+<quote>
+They were giving the country a bad name.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+a name
+</seg>
+, je slaven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ime
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+brand name, 
+</ref>
+<ref>
+Christian name, 
+</ref>
+<ref>
+maiden name
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekoga omenimo 
+<seg type="lemma">
+by name
+</seg>
+, o njem ne govorimo posredno, pa&ccaron; pa povemo njegovo ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z imenom
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+calls someone names
+</seg>
+, za nekoga uporablja neprijazne ali &zcaron;aljive besede, ki tistega &ccaron;loveka razjezijo ali u&zcaron;alijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmerjati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj prijavljeno 
+<seg type="lemma">
+in one&apos;s name
+</seg>
+, uradno pripada tisti osebi ali je rezervirano zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na ime
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room was reserved in the name of Peters.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor nekaj naredi 
+<seg type="lemma">
+in the name of an ideal or a group of people
+</seg>
+, to naredi zato, ker verjame v ideal ali ker predstavlja skupino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v imenu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The group claims to speak in the name of &lsquo;the simple people of the country&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+makes a name for himself
+</seg>
+, postane znan ali ob&ccaron;udovan zaradi ne&ccaron;esa, kar je naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uveljaviti se, zasloveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George Eliot had already made a name for herself as a writer.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

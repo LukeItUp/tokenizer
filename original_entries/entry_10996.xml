@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prescription
+</orth>
+<form type="variant">
+<pron>
+/pri1skr*IpS@0n/
+</pron>
+</form>
+<form type="inflected">
+prescriptions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A prescription 
+</seg>
+je zdravilo, ki ga je zdravnik predpisal bolniku, ali obrazec, na katerega napi&scaron;e podatke o tem zdravilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+recept, zdravilo na recept
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a prescription for sleeping tablets.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zdravilo, ki ga dobimo 
+<seg type="lemma">
+on prescription
+</seg>
+, lahko kupimo v lekarni, &ccaron;e imamo zanj recept. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na recept
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

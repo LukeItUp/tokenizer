@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+danger
+</orth>
+<form type="variant">
+<pron>
+/d*e*IndZ@/
+</pron>
+</form>
+<form type="inflected">
+dangers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Danger 
+</seg>
+je mo&zcaron;nost, da bi nekdo po&scaron;kodoval ali ubil nekega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevarnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The child is too young to understand danger.
+</quote>
+<quote>
+I was in no danger.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A danger 
+</seg>
+je nekaj ali nekdo, ki lahko &ccaron;loveka rani ali mu &scaron;koduje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevarnost, gro&zcaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cigarette smoking is a danger to health.
+</quote>
+<quote>
+...the dangers of making assumptions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e obstaja 
+<seg type="lemma">
+a danger
+</seg>
+, da se bo zgodilo nekaj neprijetnega, je mogo&ccaron;e, da se bo tisto zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevarnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is no danger of fire.
+</quote>
+<quote>
+There was a danger that she might marry the wrong man.
+</quote>
+</seg>
+</sense>
+</entry>

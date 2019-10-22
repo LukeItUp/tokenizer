@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pall
+</orth>
+<form type="variant">
+<pron>
+/p*O*:l/
+</pron>
+</form>
+<form type="inflected">
+palls, palling, palled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+palls
+</seg>
+, postane manj zanimivo ali manj prijetno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bledeti, izgubiti &ccaron;ar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+George&apos;s jokes were beginning to pall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pall of smoke 
+</seg>
+je gost oblak dima; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+oblak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A pall of smoke hung over the entire area.
+</quote>
+</seg>
+</sense>
+</entry>

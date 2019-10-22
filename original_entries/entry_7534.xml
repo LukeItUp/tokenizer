@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inoculate
+</orth>
+<form type="variant">
+<pron>
+/In*Qkj@4leIt/
+</pron>
+</form>
+<form type="inflected">
+inoculates, inoculating, inoculated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be inoculated against a disease 
+</seg>
+pomeni dobiti injekcijo &scaron;ibke oblike neke bolezni, da nas zavaruje pred njo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cepiti; cepljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A pedigree pup should have been inoculated against serious diseases.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+inoculation
+</orth>
+<form type="variant">
+<pron>
+/In*Qkj@4l*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...inoculations against tetanus.
+</quote>
+<quote>
+...prevention of disease by inoculation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

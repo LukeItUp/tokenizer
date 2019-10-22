@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hairpin
+</orth>
+<form type="variant">
+<pron>
+/h*e*@pIn/
+</pron>
+</form>
+<form type="inflected">
+hairpins.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hairpin 
+</seg>
+je tanek kos ukrivljene kovine; z njim pripenjamo lase. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lasnica, lasna igla
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hairpin bend 
+</seg>
+je zelo oster ovinek na cesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+serpentina, oster ovinek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We laboured slowly up the hairpin bends.
+</quote>
+</seg>
+</sense>
+</entry>

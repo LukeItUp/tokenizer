@@ -1,0 +1,270 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+correct
+</orth>
+<form type="variant">
+<pron>
+/k@r*ekt/
+</pron>
+</form>
+<form type="inflected">
+corrects, correcting, corrected.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+correct
+</seg>
+, je natan&ccaron;no in brez napak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That's the correct answer.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+correctly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I hope I pronounced his name correctly.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+correctness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This confirmed the correctness of my decision.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be correct 
+</seg>
+re&ccaron;emo, &ccaron;e je tisto, kar smo rekli ali mislili, resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti prav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jenkins is correct. We've got to change our strategy.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The correct thing 
+</seg>
+je prava ali najprimernej&scaron;a stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravi(len), ustrezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Make sure you ask for the correct fuse.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+correctly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Rice, correctly cooked and prepared, is delicious.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To correct a mistake, problem, or fault 
+</seg>
+pomeni popraviti napako, te&zcaron;avo ali zmoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti, ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wish to correct a false impression which may have been created.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To correct someone 
+</seg>
+pomeni re&ccaron;i nekaj bolj pravilnega ali primernega od tistega, kar je nekdo pravkar povedal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I'm a fighter like your dad is&mdash;or was,&rsquo; Mr Cupples corrected himself.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+corrects a piece of writing
+</seg>
+, zaznamuje napake v zapisu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ved&ecirc;nje, ki je 
+<seg type="lemma">
+correct
+</seg>
+, velja za dru&zcaron;beno sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vljuden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Charter's dealings with him have been wholly correct.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+correctly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We tried to behave correctly.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+correctness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Such a person should be treated with polite correctness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

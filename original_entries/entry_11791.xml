@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+relish
+</orth>
+<form type="variant">
+<pron>
+/r*elIS/
+</pron>
+</form>
+<form type="inflected">
+relishes, relishing, relished.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To relish something 
+</seg>
+pomeni, da &ccaron;lovek ob ne&ccaron;em ob&ccaron;uti veliko zadovoljstva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&zcaron;ivati v &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He relishes the challenge of competition.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+In his book he exposed with relish all the evils of our present day.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To relish the idea or prospect of something 
+</seg>
+pomeni z veseljem misliti na nekaj, kar se utegne zgoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veseliti se &ccaron;esa, u&zcaron;ivati ob misli na kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn&apos;t relish the idea of going on her own.
+</quote>
+</seg>
+</sense>
+</entry>

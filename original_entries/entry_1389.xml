@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blindfold
+</orth>
+<form type="variant">
+<pron>
+/bl*a*Indf@Uld/
+</pron>
+</form>
+<form type="inflected">
+blindfolds, blindfolding, blindfolded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blindfold 
+</seg>
+je trak iz blaga, ki ga nekomu zave&zcaron;emo &ccaron;ez o&ccaron;i, da ne vidi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preveza, ruta
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blindfold someone 
+</seg>
+pomeni nekomu z ruto prevezati o&ccaron;i, da ne vidi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati o&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was blindfolded and taken away in an unmarked car.
+</quote>
+</seg>
+</sense>
+</entry>

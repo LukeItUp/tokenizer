@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+door
+</orth>
+<form type="variant">
+<pron>
+/d*O*:/
+</pron>
+</form>
+<form type="inflected">
+doors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A door 
+</seg>
+je nihajo&ccaron; ali drse&ccaron; kos lesa, stekla ali kovine; z njim odpiramo in zapiramo vhod v stavbo, sobo, omaro ali vozilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrata
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A door 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a doorway
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vratna odprtina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As they passed through the door, they saw Tom at the end of the room.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Next door 
+</seg>
+se nana&scaron;a na hi&scaron;o poleg na&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v sosednji hi&scaron;i, najbli&zcaron;ji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She put a notice in the shop next door.
+</quote>
+<quote>
+...our next-door neighbour, Joan.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+out of doors
+</seg>
+, je zunaj poslopja in ne v njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zunaj, na zraku
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

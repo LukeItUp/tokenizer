@@ -5,7 +5,7 @@ adverse
 </orth>
 <form type="variant">
 <pron>
-/*#ae;dv$e:s/.
+/*&ae;dv$e:s/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Odlo&#269;itve, okoli&#353;&#269;ine ali u&#269;inki, ki so
+Odlo&ccaron;itve, okoli&scaron;&ccaron;ine ali u&ccaron;inki, ki so 
 <seg type="lemma">
 adverse
 </seg>
-so za &#269;loveka neugodni.
+, so za &ccaron;loveka neugodni. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-neugoden, &#353;kodljiv
+neugoden, &scaron;kodljiv
 </quote>
 </cit>
 <seg type="example">
@@ -40,7 +40,6 @@ Falling prices had an adverse effect on business.
 <orth>
 adversely
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV

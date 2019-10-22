@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+instigate
+</orth>
+<form type="variant">
+<pron>
+/*InstIgeIt/
+</pron>
+</form>
+<form type="inflected">
+instigates, instigating, instigated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To instigate an event or situation 
+</seg>
+pomeni spro&zcaron;iti neki dogodek ali okoli&scaron;&ccaron;ine; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti, spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Further prosecutions were instigated privately.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+instigation
+</orth>
+<form type="variant">
+<pron>
+/*InstIg*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+One husband, at the instigation of his wife, called the police.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+instigator
+</orth>
+<form type="variant">
+<pron>
+/*InstIgeIt@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The instigator of the plot was Colonel Fletcher.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peg
+</orth>
+<form type="variant">
+<pron>
+/p*eg/
+</pron>
+</form>
+<form type="inflected">
+pegs, pegging, pegged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A peg 
+</seg>
+je majhna kljuka na steni ali vratih, kamor lahko obe&scaron;amo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obe&scaron;alnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He takes his coat from the peg.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+ A clothes peg 
+</seg>
+je plasti&ccaron;en ali lesen predmet, s katerim oprano perilo pripnemo na vrv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;ipalka za perilo
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pegs clothes
+</seg>
+, s &scaron;&ccaron;ipalkami pritrdi perilo na vrv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripeti
+</quote>
+</cit>
+</sense>
+</entry>

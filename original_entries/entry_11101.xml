@@ -1,0 +1,150 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+proceed,
+</orth>
+<form type="inflected">
+proceeds, proceeding, proceeded;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/pr@6s*i*:d/
+</pron>
+, samostalnik pa 
+<pron>
+/pr*@*Usi:dz/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To proceed to do something 
+</seg>
+pomeni nekaj narediti potem, ko naredimo nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preiti, nadaljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He proceeded to explain.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To proceed 
+</seg>
+pomeni &scaron;e naprej delati isto kot prej; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nadaljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is necessary to examine this claim before we proceed any further.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dejavnost, postopek ali dogodek 
+<seg type="lemma">
+proceeds
+</seg>
+, se &scaron;e naprej dogaja po na&ccaron;rtih; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+potekati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Preparations were proceeding on schedule.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To proceed in a particular direction 
+</seg>
+pomeni iti v dolo&ccaron;eni smeri; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...as we were proceeding along Chiswick High Street.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The proceeds of an event or activity 
+</seg>
+je denar, zbran po zaslugi neke prireditve ali dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkupi&ccaron;ek, dohodek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The proceeds will be given away to a deserving charity.
+</quote>
+</seg>
+</sense>
+</entry>

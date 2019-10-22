@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+product
+</orth>
+<form type="variant">
+<pron>
+/pr*QdVkt/
+</pron>
+</form>
+<form type="inflected">
+products.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A product 
+</seg>
+je nekaj, kar podjetje izdeluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdelek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...car-cleaning products.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar ali oseba, ki je 
+<seg type="lemma">
+a product of a particular situation or process
+</seg>
+, je taka, kot je, zaradi dolo&ccaron;enih okoli&scaron;&ccaron;in ali postopka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plod, rezultat, posledica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The uniformity of the dancers was the product of hours of training.
+</quote>
+<quote>
+She is a product of the 1970s.
+</quote>
+</seg>
+</sense>
+</entry>

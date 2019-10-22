@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drug
+</orth>
+<form type="variant">
+<pron>
+/dr*Vg/
+</pron>
+</form>
+<form type="inflected">
+drugs, drugging, drugged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drug 
+</seg>
+je kemi&ccaron;na snov, ki jo dajejo ljudem, da bi ozdravili ali prepre&ccaron;ili bolezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravilo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Drugs 
+</seg>
+so tudi snovi, ki jih nekateri ljudje kadijo ali si jih vbrizgavajo v kri zaradi njihovega u&ccaron;inka; v ve&ccaron;ini dr&zcaron;av je uporaba takih snovi prepovedana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mamilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was on drugs.
+</quote>
+<quote>
+She takes drugs.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drug a person or animal 
+</seg>
+pomeni osebi ali &zcaron;ivali dati kemi&ccaron;no snov, da postane zaspana ali nezavestna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omamiti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+drugged
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She spoke as if she was half asleep or drugged.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je hrana ali pija&ccaron;a 
+<seg type="lemma">
+drugged
+</seg>
+, so ji dodane kemi&ccaron;ne snovi, zato da tisti, ki jo pije ali j&eacute;, omedli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zastrupiti z mamilom
+</quote>
+</cit>
+</sense>
+</entry>

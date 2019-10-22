@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p383_s419706" id="p383_w446" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="608.092" base="614.5" width="33.0175" height="8.514">indolent</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p383_s419707" id="p383_w447" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.27" y="609.338" base="614.5" width="35.3516" height="6.844">/&#203;nd6l6nt/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p383_s419708" id="p383_w448" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="128.14" y="610.584" base="614.5" width="10.3306" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p383_s419709" id="p383_w449" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.02" y="608.804" base="614.5" width="17.3527" height="7.552">Kdor</TOKEN>
+<TOKEN sid="p383_s419710" id="p383_w450" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="158.892" y="608.804" base="614.5" width="5.91624" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p383_s419711" id="p383_w451" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="166.33" y="608.804" base="614.5" width="29.7418" height="7.552">indolent,</TOKEN>
+</seg>
+<TOKEN sid="p383_s419712" id="p383_w452" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.591" y="608.804" base="614.5" width="5.91624" height="7.552">je</TOKEN>
+<TOKEN sid="p383_s419713" id="p383_w453" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.027" y="608.804" base="614.5" width="12.1543" height="7.552">len;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p383_s419714" id="p383_w454" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.7" y="608.804" base="614.5" width="25.1078" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p383_s419715" id="p383_w455" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="64.0944" base="69.7904" width="17.1605" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p383_s419717" id="p383_w457" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.25" y="64.094" base="69.79" width="37.1426" height="7.552">brezbri`en,</TOKEN>
+<TOKEN sid="p383_s419718" id="p383_w458" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.882" y="64.094" base="69.79" width="30.3178" height="7.552">apati~en,</TOKEN>
+<TOKEN sid="p383_s419719" id="p383_w459" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="355.69" y="64.094" base="69.79" width="40.4928" height="7.552">ravnodu{en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p383_s419720" id="p383_w460" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="397.72" y="64.094" base="69.79" width="15.3806" height="7.552">&#8230;an</TOKEN>
+<TOKEN sid="p383_s419721" id="p383_w461" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="414.59" y="64.094" base="69.79" width="27.6206" height="7.552">indolent</TOKEN>
+<TOKEN sid="p383_s419722" id="p383_w462" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="73.174" base="78.87" width="19.9908" height="7.552">smile.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

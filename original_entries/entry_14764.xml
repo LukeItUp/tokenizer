@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+transit
+</orth>
+<form type="variant">
+<pron>
+/tr*&ae;nzIt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudje ali stvari, ki so 
+<seg type="lemma">
+in transit
+</seg>
+, potujejo ali so na poti iz enega kraja proti drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na poti, v prevozu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tablets had been lost in transit.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V obmo&ccaron;ju ali prostoru, ki je 
+<seg type="lemma">
+transit
+</seg>
+, ljudje ali tovor &ccaron;akajo med dvema kosoma poti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tranziten, prehoden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the transit lounge.
+</quote>
+</seg>
+</sense>
+</entry>

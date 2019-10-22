@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stunt
+</orth>
+<form type="variant">
+<pron>
+/st*Vnt/
+</pron>
+</form>
+<form type="inflected">
+stunts, stunting, stunted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stunt 
+</seg>
+je nekaj, kar nekdo naredi, da pritegne pozornost javnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+reklamni trik, senzacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Climbing up the church tower was a fine publicity stunt.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stunt 
+</seg>
+je tudi nevarno in razburljivo dejanje, ki je sestavni del snemanja filma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevaren prizor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Steve McQueen did most of his own stunts.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stunt the growth or development of something 
+</seg>
+pomeni prepre&ccaron;iti, da bi nekaj raslo ali se razvijalo tako, kot bi se moralo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavirati, okrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These insecticides can stunt plant growth.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stunted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...old, stunted thorn trees.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

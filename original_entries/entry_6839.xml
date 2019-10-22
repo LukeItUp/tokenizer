@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+holiday
+</orth>
+<form type="variant">
+<pron>
+/h*QlIdI3/
+</pron>
+</form>
+<form type="inflected">
+holidays.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A holiday 
+</seg>
+je obdobje, ki ga pre&zcaron;ivimo pro&ccaron; od doma, da si odpo&ccaron;ijemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;itnice, dopust
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I went to Marrakesh for a holiday.
+</quote>
+<quote>
+Remember to turn off the gas when you go on holiday.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A holiday 
+</seg>
+je tudi obdobje, v katerem ne delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;itnice, praznik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+New Year&apos;s Day is a national holiday.
+</quote>
+<quote>
+The company offers three weeks paid holiday.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+bank holiday
+</ref>
+</xr>
+</sense>
+</entry>

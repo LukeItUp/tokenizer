@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hen
+</orth>
+<form type="variant">
+<pron>
+/h*en/
+</pron>
+</form>
+<form type="inflected">
+hens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Hens 
+</seg>
+so &zcaron;ivali, ki kokodakajo; pogosto jih redimo zaradi jajc. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koko&scaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hen 
+</seg>
+je tudi vsaka pti&ccaron;ja samica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a hen pheasant.
+</quote>
+</seg>
+</sense>
+</entry>

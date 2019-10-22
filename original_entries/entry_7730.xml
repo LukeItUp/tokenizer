@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invasion
+</orth>
+<form type="variant">
+<pron>
+/Inv*e*IZ@0n/
+</pron>
+</form>
+<form type="inflected">
+invasions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An invasion of a country 
+</seg>
+je dejstvo, da neka vojska s silo vstopi v dr&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napad, vdor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the invasion of Europe by the Allies in 1944.
+</quote>
+<quote>
+It enabled us to remain free from invasion.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prihod ve&ccaron;jega &scaron;tevila stvari ali oseb lahko imenujemo 
+<seg type="lemma">
+an invasion
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poplava, naval
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the invasion of Italian movies in the fifties.
+</quote>
+</seg>
+</sense>
+</entry>

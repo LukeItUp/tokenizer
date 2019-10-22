@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gape
+</orth>
+<form type="variant">
+<pron>
+/g*e*Ip/
+</pron>
+</form>
+<form type="inflected">
+gapes, gaping, gaped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gape 
+</seg>
+pomeni presene&ccaron;eno, z odprtimi usti gledati nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+buljiti, bol&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jackson gaped in astonishment at the result.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gaping
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...gaping tourists.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+gapes
+</seg>
+, se na &scaron;iroko odpre ali razpre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zijati, zevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The shirt gaped to reveal his chest.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gaping
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The dressing gown had a gaping hole in it.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

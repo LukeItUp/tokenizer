@@ -1,0 +1,316 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+term
+</orth>
+<form type="variant">
+<pron>
+/t*$e*:m/
+</pron>
+</form>
+<form type="inflected">
+terms, terming, termed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A term 
+</seg>
+je beseda ali nekaj besed skupaj, ki se uporabljajo za dolo&ccaron;en predmet ali pojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izraz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He asked them what they understood by the term &lsquo;radical&rsquo;.
+</quote>
+<quote>
+&lsquo;Habeas corpus&rsquo; is a legal term.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To term 
+</seg>
+pomeni povedati, kak&scaron;no ime uporabljamo za dolo&ccaron;en pojem ali predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...recent breakthroughs in what might be termed &lsquo;birth technology&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A term 
+</seg>
+je eno izmed obdobij, na katera je po &scaron;olskem ali &scaron;tudijskem koledarju razdeljeno vsako leto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+semester
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the spring term.
+</quote>
+<quote>
+It was the first week of term.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A term 
+</seg>
+je obdobje, v katerem nekdo opravlja dolo&ccaron;eno delo ali dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mandat, doba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Baldwin&apos;s second term of office as Premier.
+</quote>
+<quote>
+...a long prison term.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The terms of an agreement or arrangement 
+</seg>
+so pogoji, ki so jih udele&zcaron;enci v pogodbi sprejeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogoji, dolo&ccaron;be
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We will not accept these terms.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar o ne&ccaron;em govorimo 
+<seg type="lemma">
+in particular terms 
+</seg>
+ali 
+<FV>
+in terms of a particular thing
+</FV>
+, opredelimo, o katerih vidikih tistega govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s stali&scaron;&ccaron;a, v smislu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Life is going to be a little easier in economic terms.
+</quote>
+<quote>
+In Marxist terms, nationalism of this kind cannot last.
+</quote>
+<quote>
+These losses are not to be explained in terms of what happened last week.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is thinking in terms of doing something
+</seg>
+ ali 
+<FV>
+is talking in terms of doing something
+</FV>
+, razmi&scaron;lja ali govori o mo&zcaron;nosti, da bi nekaj naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmi&scaron;ljati s stali&scaron;&ccaron;a; razmi&scaron;ljati o tem, da bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You should be thinking in terms of paying off your debts.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+the long term 
+</seg>
+in 
+<FV>
+the short term 
+</FV>
+uporabljamo, kadar govorimo o tem, kaj se bo zgodilo &ccaron;ez veliko &ccaron;asa ali v kratkem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kratkoro&ccaron;no; dolgoro&ccaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Such a policy would be economically disastrous in the long term.
+</quote>
+<quote>
+These are only short-term solutions.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To come to terms with something difficult or unpleasant 
+</seg>
+pomeni nau&ccaron;iti se sprejeti nekaj te&zcaron;avnega ali neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprijazniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has come to terms with death.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo z dvema &ccaron;lovekoma ravna 
+<seg type="lemma">
+on the same terms 
+</seg>
+ali 
+<FV>
+on equal terms
+</FV>
+, ju obravnava enako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+enakovredno
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sta dva &ccaron;loveka 
+<seg type="lemma">
+on good terms 
+</seg>
+ali 
+<FV>
+on friendly terms
+</FV>
+, se drug do drugega vedeta prijazno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v prijateljskih odnosih
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You need to be on friendly terms with him.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+on speaking terms: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+speak
+</ref>
+</xr>
+<xr type="related">
+<QF>
+contradiction in terms: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+contradiction
+</ref>
+</xr>
+</B>
+</entry>

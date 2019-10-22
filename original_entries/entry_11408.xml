@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quit
+</orth>
+<form type="variant">
+<pron>
+/kw*It/
+</pron>
+</form>
+<form type="inflected">
+quits, quitting.
+</form>
+<IN>
+<IH>
+Quit 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To quit doing something 
+</seg>
+pomeni nehati nekaj delati; 
+</def>
+<usg>
+besedo rabimo zlasti v ameri&scaron;ki angle&scaron;&ccaron;ini.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+opustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jack wants to quit smoking.
+</quote>
+<quote>
+A week later he quit.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje, ki se prepirajo ali bojujejo, 
+<seg type="lemma">
+call it quits
+</seg>
+, se dogovorijo, da se bodo nehali prepirati ali bojevati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&lsquo;skleniti premirje&rsquo;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We decided to call it quits.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

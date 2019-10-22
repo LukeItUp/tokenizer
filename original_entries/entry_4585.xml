@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+embedded
+</orth>
+<form type="variant">
+<pron>
+/I2mb*edId/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neki predmet 
+<seg type="lemma">
+embedded in something
+</seg>
+, je nekje &ccaron;vrsto in globoko pritrjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakopan, vtisnjen, zasidran, zakoreninjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boat lay with its rudder embedded in mud.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Odnos ali ob&ccaron;utek, ki je 
+<seg type="lemma">
+embedded in a society or in someone's personality
+</seg>
+, je postal nelo&ccaron;ljiva lastnost dru&zcaron;be ali posameznika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtisnjen, vsajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a deeply embedded feeling of guilt.
+</quote>
+</seg>
+</sense>
+</entry>

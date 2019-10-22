@@ -1,0 +1,217 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guarantee
+</orth>
+<form type="variant">
+<pron>
+/g*&ae;r@nt*i*:/
+</pron>
+</form>
+<form type="inflected">
+guarantees, guaranteeing, guaranteed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+guarantees another
+</seg>
+, zagotovo povzro&ccaron;i, da se zgodi druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This method guarantees success.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guarantee something 
+</seg>
+pomeni obljubiti, da se bo nekaj vsekakor zgodilo ali da bomo tisto storili ali priskrbeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m not guaranteeing that this will work.
+</quote>
+<quote>
+They guarantee to hold interest rates down until next year.
+</quote>
+<quote>
+Advertisers were guaranteed a weekly circulation of 250,000.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To guarantee that something will happen 
+</seg>
+ali 
+<seg type="lemma">
+it is guaranteed to happen 
+</seg>
+pomeni, da smo prepri&ccaron;ani o tem, da se bo nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jam&ccaron;iti, biti porok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You should have one evening off a week, but you can&apos;t guarantee it.
+</quote>
+<quote>
+This state of affairs is guaranteed to continue indefinitely.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a guarantee of a particular thing
+</seg>
+, je gotovo, da se bo dolol&ccaron;ena stvar zgodila ali je resni&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotovilo, poro&scaron;tvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is no guarantee that they are telling the truth.
+</quote>
+<quote>
+The jury system is one of the guarantees of democracy.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guarantee 
+</seg>
+je tudi obljuba, da se bo nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagotovilo, poro&scaron;tvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We want some guarantee that an enquiry will be held.
+</quote>
+<quote>
+...guarantees of full employment.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar podjetje 
+<seg type="lemma">
+guarantees work
+</seg>
+, pisno obljubi, da bodo vse napake, ki bi jih uporabnik v dolo&ccaron;enem &ccaron;asu odkril, brezpla&ccaron;no popravili ali pa izdelek zamenjali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati garancijo
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guarantee 
+</seg>
+je tudi pisna obljuba nekega podjetja, da bo v primeru, &ccaron;e se bo na njihovem delu v omejenem &ccaron;asovnem roku pokazala napaka, izdelek brezpla&ccaron;no popravilo ali zamenjalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+garancija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How long does the guarantee last?
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p74_s80564" id="p74_w90" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="163.242" base="169.65" width="24.6599" height="8.514">booze</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p74_s80565" id="p74_w91" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.78" y="164.488" base="169.65" width="22.3516" height="6.844">/bu&#194;z/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p74_s80566" id="p74_w92" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="104.73" y="164.31" base="169.65" width="24.3661" height="7.08">boozes,</TOKEN>
+<TOKEN sid="p74_s80567" id="p74_w93" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="130.601" y="164.31" base="169.65" width="27.3618" height="7.08">boozing,</TOKEN>
+<TOKEN sid="p74_s80568" id="p74_w94" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="159.467" y="164.31" base="169.65" width="25.1154" height="7.08">boozed;</TOKEN>
+</form>
+<usg>
+<TOKEN sid="p74_s80569" id="p74_w95" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.07" y="163.954" base="169.65" width="35.928" height="7.552">pogovorna</TOKEN>
+<TOKEN sid="p74_s80570" id="p74_w96" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.588" y="163.954" base="169.65" width="18.0101" height="7.552">bese-</TOKEN>
+<TOKEN sid="p74_s80571" id="p74_w97" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="173.034" base="178.73" width="10.3003" height="7.552">da.</TOKEN>
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+<TOKEN sid="p74_s80573" id="p74_w99" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="78.24" y="174.814" base="178.73" width="26.9735" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p74_s80574" id="p74_w100" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="106.268" y="174.814" base="178.73" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p74_s80575" id="p74_w101" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="111.99" y="173.034" base="178.73" width="20.2003" height="7.552">Booze</TOKEN>
+</seg>
+<TOKEN sid="p74_s80576" id="p74_w102" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.73" y="173.034" base="178.73" width="5.94648" height="7.552">je</TOKEN>
+<TOKEN sid="p74_s80577" id="p74_w103" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="141.226" y="173.034" base="178.73" width="33.5966" height="7.552">alkoholna</TOKEN>
+<TOKEN sid="p74_s80578" id="p74_w104" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176.372" y="173.034" base="178.73" width="22.4957" height="7.552">pija~a.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p74_s80580" id="p74_w106" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.19" y="173.034" base="178.73" width="20.5488" height="7.552">pija~a</TOKEN>
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+<TOKEN sid="p74_s80582" id="p74_w108" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="234.49" y="174.814" base="178.73" width="7.11068" height="5.192">VB</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p74_s80583" id="p74_w109" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="182.114" base="187.81" width="8.1432" height="7.552">To</TOKEN>
+<TOKEN sid="p74_s80584" id="p74_w110" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="70.3248" y="182.114" base="187.81" width="19.6056" height="7.552">booze</TOKEN>
+</seg>
+<TOKEN sid="p74_s80585" id="p74_w111" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.9298" y="182.114" base="187.81" width="25.1928" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p74_s80586" id="p74_w112" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.121" y="182.114" base="187.81" width="11.9909" height="7.552">piti</TOKEN>
+<TOKEN sid="p74_s80587" id="p74_w113" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="133.111" y="182.114" base="187.81" width="27.5947" height="7.552">alkohol.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p74_s80589" id="p74_w115" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.95" y="182.114" base="187.81" width="28.399" height="7.552">popivati</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

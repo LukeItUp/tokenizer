@@ -1,0 +1,46 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p449_s492744" id="p449_w680" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="226.792" base="233.2" width="20.9013" height="8.514">lunar</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p449_s492745" id="p449_w681" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.19" y="228.038" base="233.2" width="24.8716" height="6.844">/lu&#194;n6/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p449_s492746" id="p449_w682" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="305.21" y="229.284" base="233.2" width="19.1852" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p449_s492747" id="p449_w683" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="325.871" y="229.284" base="233.2" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p449_s492748" id="p449_w684" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.46" y="227.504" base="233.2" width="21.191" height="7.552">Lunar</TOKEN>
+</seg>
+<TOKEN sid="p449_s492749" id="p449_w685" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.8" y="227.504" base="233.2" width="25.1928" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p449_s492750" id="p449_w686" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="389.142" y="227.504" base="233.2" width="27.9994" height="7.552">povezan</TOKEN>
+<TOKEN sid="p449_s492751" id="p449_w687" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="419.291" y="227.504" base="233.2" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p449_s492752" id="p449_w688" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="425.04" y="227.504" base="233.2" width="17.195" height="7.552">luno;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p449_s492753" id="p449_w689" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="236.584" base="242.28" width="25.5917" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p449_s492754" id="p449_w690" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.402" y="236.584" base="242.28" width="17.6011" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p449_s492756" id="p449_w692" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="314.23" y="236.584" base="242.28" width="19.9908" height="7.552">lunin,</TOKEN>
+<TOKEN sid="p449_s492757" id="p449_w693" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="336.221" y="236.584" base="242.28" width="29.9974" height="7.552">mese~ev;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p449_s492758" id="p449_w694" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="368.22" y="236.584" base="242.28" width="17.9978" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p449_s492759" id="p449_w695" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="388.218" y="236.584" base="242.28" width="18.3931" height="7.552">lunar</TOKEN>
+<TOKEN sid="p449_s492760" id="p449_w696" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="408.611" y="236.584" base="242.28" width="26.3902" height="7.552">surface.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

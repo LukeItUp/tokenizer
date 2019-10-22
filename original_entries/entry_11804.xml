@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+remedy
+</orth>
+<form type="variant">
+<pron>
+/r*emI1di1/
+</pron>
+</form>
+<form type="inflected">
+remedies, remedying, remedied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A remedy 
+</seg>
+je nekaj, kar nam pomaga uspe&scaron;no re&scaron;iti te&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravilo, pomo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a drastic remedy for lawlessness and disorder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A remedy 
+</seg>
+je tudi nekaj, kar naj bi pozdravilo bolezen ali bole&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Home-made remedies can often lessen the pain.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To remedy something 
+</seg>
+pomeni popraviti nekaj, kar je napa&ccaron;no ali &scaron;kodljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popraviti, odpraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Technicians laboriously tried to find and remedy faults.
+</quote>
+</seg>
+</sense>
+</entry>

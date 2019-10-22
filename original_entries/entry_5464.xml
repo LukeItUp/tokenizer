@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flicker
+</orth>
+<form type="variant">
+<pron>
+/fl*Ik@/
+</pron>
+</form>
+<form type="inflected">
+flickers, flickering, flickered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e svetloba ali plamen
+<seg type="lemma">
+ flickers
+</seg>
+, sije ali gori neenakomerno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+migotati, brleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The candle flickered by the bed.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a faint flicker of lightning.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flicker 
+</seg>
+je kratko do&zcaron;ivetje nekega &ccaron;ustva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kan&ccaron;ek, trohica, preblisk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a flicker of fear in the man's eyes.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e dolo&ccaron;en izraz 
+<seg type="lemma">
+flickers across one's face
+</seg>
+, se za kratek &ccaron;as poka&zcaron;e na obrazu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prikazati se za hip
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A rather sad smile flickered across her face.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+flickers
+</seg>
+, se nalahno in hitro premika, zlasti gor in dol ali nazaj in naprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+migetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her eyelids flickered and closed again.
+</quote>
+</seg>
+</sense>
+</entry>

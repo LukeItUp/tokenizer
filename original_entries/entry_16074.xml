@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wise
+</orth>
+<form type="variant">
+<pron>
+/w*a*Iz/
+</pron>
+</form>
+<form type="inflected">
+wiser, wisest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+wise
+</seg>
+, je sposoben uporabljati svoje izku&scaron;nje in znanje za razumne odlo&ccaron;itve in sodbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moder
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s a very wise man.
+</quote>
+<quote>
+Hugh made the wisest decision of all.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+wisely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You have chosen wisely.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo po dolo&ccaron;eni razlagi ali dogodku 
+<seg type="lemma">
+no wiser 
+</seg>
+ali 
+<FV>
+none the wiser
+</FV>
+, tega dogodka ali razlage ni razumel ali se ne zaveda popolnoma, kaj se je zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; pametnej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No one outside would be any the wiser.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

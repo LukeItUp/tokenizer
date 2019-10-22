@@ -1,0 +1,305 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wave
+</orth>
+<form type="variant">
+<pron>
+/w*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+waves, waving, waved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wave 
+</seg>
+ali 
+<seg type="lemma">
+to wave one&apos;s hand 
+</seg>
+pomeni premikati dlan po zraku z leve na desno, navadno v pozdrav ali slovo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mahati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His mother waved to him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Jack gave his usual cheery wave.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wave someone away 
+</seg>
+ali 
+<seg type="lemma">
+to wave someone on 
+</seg>
+pomeni z dlanjo narediti gib, ki nekomu pove, kam naj gre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati (z roko)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He waves on the traffic.
+</quote>
+<quote>
+I was waved through.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wave something 
+</seg>
+pomeni nekaj dr&zcaron;ati v zraku in hitro premikati z ene strani na drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mahati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All along the route, people applauded and waved flags at them.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wave 
+</seg>
+je narasla vodna gmota morja ali jezera, ki nastane zaradi vetra ali plimovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the line of white foam where the waves broke on the beach.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+tidal wave
+</ref>
+</xr>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar imajo lasje 
+<seg type="lemma">
+waves
+</seg>
+, so valoviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koder
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+wave 
+</seg>
+uporabljamo za ozna&ccaron;evanje, kako nekaj potuje, na primer zvok, svetloba in radijski signal, ali kako se &scaron;iri sila eksplozije ali potresa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Radar employs radio waves whereas sonar uses sound waves.
+</quote>
+<quote>
+...the shock wave from a one megaton bomb.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+wave 
+</seg>
+uporabljamo v izrazih, kot so 
+<seg type="lemma">
+long wave
+</seg>
+, 
+<seg type="lemma">
+medium wave
+</seg>
+ in 
+<seg type="lemma">
+short wave
+</seg>
+, ki se nana&scaron;ajo na nihanje ali frekvenco radijskih valov pri oddajanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(dolgi, srednji, kratki) val
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wave of sympathy, alarm, or panic 
+</seg>
+je vztrajno nara&scaron;&ccaron;anje naklonjenosti, strahu ali panike v skupini oseb ali posamezniku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val, naval
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the general wave of panic, nobody thought of phoning for an ambulance.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+wave 
+</seg>
+lahko uporabimo tudi za nenadno pove&ccaron;anje dolo&ccaron;ene dejavnosti ali vrste ved&ecirc;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+val, izbruh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In Paris in May 1968 there was a massive wave of student riots.
+</quote>
+<quote>
+...a crime wave.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+new wave
+</ref>
+</xr>
+</sense>
+</entry>

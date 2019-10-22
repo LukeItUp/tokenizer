@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shorten
+</orth>
+<form type="variant">
+<pron>
+/S*O*:t@0n/
+</pron>
+</form>
+<form type="inflected">
+shortens, shortening, shortened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shorten an event 
+</seg>
+pomeni storiti nekaj, da dolo&ccaron;en dogodek ne traja toliko &ccaron;asa, kot bi sicer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skraj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The colonel had a plan to shorten the war.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shortens 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+shortens an object
+</seg>
+, tisti predmet postane kraj&scaron;i ali ga nekdo skraj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skraj&scaron;ati (se), skr&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The back muscles contract and shorten as your leg lifts.
+</quote>
+<quote>
+She wondered if she could have the sleeves shortened.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+connive
+</orth>
+<form type="variant">
+<pron>
+/k@n*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+connives, conniving, connived.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To connive at something 
+</seg>
+pomeni dovoliti, da se nekaj zgodi, &ccaron;eprav vemo, da ni prav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dajati potuho, zatisniti o&ccaron;i pred &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was assisted by his mother who connived at his laziness.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+connivance
+</orth>
+<form type="variant">
+<pron>
+/k@7n*a*Iv@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He kept out of jail with the connivance of corrupt police.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

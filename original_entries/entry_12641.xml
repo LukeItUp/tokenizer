@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+senator
+</orth>
+<form type="variant">
+<pron>
+/s*en@t@/
+</pron>
+</form>
+<form type="inflected">
+senators.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A senator 
+</seg>
+je &ccaron;lan senata. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+senator
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Senator Edward Kennedy.
+</quote>
+</seg>
+</sense>
+</entry>

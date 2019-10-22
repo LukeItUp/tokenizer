@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pole
+</orth>
+<form type="variant">
+<pron>
+/p*@*Ul/
+</pron>
+</form>
+<form type="inflected">
+poles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pole 
+</seg>
+je dolga tanka palica iz lesa ali kovine, s katero podpiramo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tent poles.
+</quote>
+<quote>
+...telegraph poles.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The earth&apos;s poles 
+</seg>
+sta skrajni to&ccaron;ki Zemlje na nasprotnih koncih osi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&ccaron;aj
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da sta dva &ccaron;loveka 
+<seg type="lemma">
+poles apart
+</seg>
+, &zcaron;elimo povedati, da imata povsem razli&ccaron;na prepri&ccaron;anja in stali&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dale&ccaron; narazen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Politically they were poles apart.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grief
+</orth>
+<form type="variant">
+<pron>
+/gr*i*:f/
+</pron>
+;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Grief 
+</seg>
+je huda &zcaron;alost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bridkost, potrtost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That helped to ease his grief.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+comes to grief
+</seg>
+, mu spodleti ali se po&scaron;koduje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+propasti, pogoreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I ran away once but came to grief.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

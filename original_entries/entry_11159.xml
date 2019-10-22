@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prompt
+</orth>
+<form type="variant">
+<pron>
+/pr*Qmp0t/
+</pron>
+</form>
+<form type="inflected">
+prompts, prompting, prompted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+prompts someone to do something
+</seg>
+, vpliva na nekoga, da naredi dolo&ccaron;eno stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Times article prompted him to call a meeting.
+</quote>
+<quote>
+My choice was prompted by a number of considerations.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prompt someone 
+</seg>
+pomeni dajati pogum nekomu, ki neha govoriti, ali mu pomagati, da nadaljuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Yes?&rsquo; Morris prompted, after a pause.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejanje, ki je 
+<seg type="lemma">
+prompt
+</seg>
+, se zgodi brez odla&scaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+takoj&scaron;en, hiter
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a prompt reply.
+</quote>
+<quote>
+She requires prompt medical attention.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,330 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+concern
+</orth>
+<form type="variant">
+<pron>
+/k@7ns*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+concerns, concerning, concerned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Concern 
+</seg>
+je ob&ccaron;utek zaskrbljenosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaskrbljenost, skrb
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the growing public concern over Britain's poor economic performance.
+</quote>
+<quote>
+My concern is that many of these cases are going unnoticed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+concerns someone
+</seg>
+, tistemu &ccaron;loveku povzro&ccaron;a skrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati skrbi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One of the things that concerns me is the rise in vandalism.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+concerned
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was concerned about the level of unemployment.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To concern oneself with something 
+</seg>
+pomeni ne&ccaron;emu posve&ccaron;ati pozornost zaradi prepri&ccaron;anja, da je pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati si skrbi; zanimati se za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't want you to concern yourself with it.
+</quote>
+<quote>
+We are more concerned with efficiency than expansion.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's concern for someone 
+</seg>
+je &zcaron;elja, da bi bil dolo&ccaron;en &ccaron;lovek sre&ccaron;en, zdrav in na varnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrb
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She shows a true concern for others.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadr polo&zcaron;aj, dogodek ali dejavnost 
+<seg type="lemma">
+concerns someone
+</seg>
+, vpliva na nekega &ccaron;loveka ali pa je &ccaron;lovek vanj vpleten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanimati, zadevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These are matters which some of my colleagues would think do not concern them.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+concerned
+</orth>
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was a perfect arrangement for all concerned.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki polo&zcaron;aj ali problem 
+<seg type="lemma">
+someone's concern
+</seg>
+, sodi med njegove dol&zcaron;nosti ali pa je zanj odgovoren. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrb
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That's your concern, I'm afraid.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka knjiga, govor ali podatek 
+<seg type="lemma">
+concerns a particular subject 
+</seg>
+ali 
+<seg type="lemma">
+is concerned with a particular subject
+</seg>
+, govori o tisti t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obravnavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This chapter is concerned with changes that are likely to take place.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A concern 
+</seg>
+je tudi podjetje ali dru&zcaron;ba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koncern
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the giant West German chemical concern, Hoechst.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+as far as something is concerned
+</seg>
+, naka&zcaron;emo, o kateri t&eacute;mi govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v zvezi z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have rather a poor record as far as regional studies are concerned.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+As far as I'm concerned 
+</seg>
+re&ccaron;emo, kadar ho&ccaron;emo povedati svoje mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kar zadeva mene, kar se mene ti&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is all rubbish as far as I'm concerned.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

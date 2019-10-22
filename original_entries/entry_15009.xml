@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unaccustomed
+</orth>
+<form type="variant">
+<pron>
+/*Vn@k*Vst@md/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unaccustomed to something
+</seg>
+, ne&ccaron;esa ni vajen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were unaccustomed to wearing suits and ties.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ved&ecirc;nje ali do&zcaron;ivetje 
+<seg type="lemma">
+unaccustomed
+</seg>
+, se nekdo vede tako, kot ni obi&ccaron;ajno zanj, ali do&zcaron;ivi nekaj, kar zanj ni obi&ccaron;ajno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za nekoga nenavaden, neobi&ccaron;ajen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Judy cried with unaccustomed vehemence, &lsquo;Yes, I know!&rsquo;
+</quote>
+<quote>
+...his unaccustomed and unwelcome leisure time.
+</quote>
+</seg>
+</sense>
+</entry>

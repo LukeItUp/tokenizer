@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+technology
+</orth>
+<form type="variant">
+<pron>
+/tekn*Ql@dZi1/
+</pron>
+</form>
+<form type="inflected">
+technologies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Technology 
+</seg>
+je uporaba ali preu&ccaron;evanje uporabe znanstvenega v&eacute;denja za prakti&ccaron;ne namene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tehnologija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...advances in technology and science.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+technologist
+</orth>
+<form type="variant">
+<pron>
+/tekn*Ql@dZIst/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a small group of distinguished scientists and technologists.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A technology 
+</seg>
+je posebno podro&ccaron;je dejavnosti, ki zahteva znanstvene postopke in v&eacute;denje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tehnologija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...computer technology.
+</quote>
+</seg>
+</sense>
+</entry>

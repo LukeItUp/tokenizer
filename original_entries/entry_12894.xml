@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shy
+</orth>
+<form type="variant">
+<pron>
+/S*a*I/
+</pron>
+</form>
+<form type="inflected">
+shyer, shyest; shies, shying, shied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+shy
+</seg>
+, je &zcaron;iv&ccaron;en in nespro&scaron;&ccaron;en v dru&zcaron;bi drugih ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve always been a bit shy.
+</quote>
+<quote>
+...a shy smile.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+shyly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She smiled shyly at him.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+shyness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I tried to overcome my shyness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be shy of doing something 
+</seg>
+pomeni, da ne&ccaron;esa ne &zcaron;elimo narediti, ker se bojimo, kaj bi se utegnilo zgoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t be shy of telling them what you think.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar konj 
+<seg type="lemma">
+shies
+</seg>
+, nenadoma posko&ccaron;i ali se spusti v dir, ker se prestra&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spla&scaron;iti se
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+work-shy.
+</ref>
+</xr>
+</sense>
+</entry>

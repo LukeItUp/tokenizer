@@ -1,0 +1,201 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whole
+</orth>
+<form type="variant">
+<pron>
+/h*@*Ul/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The whole of something 
+</seg>
+pomeni celoto ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cel, ves, celoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the whole of Europe.
+</quote>
+<quote>
+...the whole of July.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They&apos;re the best in the whole world.
+</quote>
+<quote>
+I&apos;ve never told this to anyone else in my whole life.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A whole 
+</seg>
+je ena sama stvar, ki obsega ve&ccaron; razli&ccaron;nih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+celota, vse
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The earth&apos;s weather system is an integrated whole.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+whole
+</seg>
+, ni zlomljeno ali po&scaron;kodovano; knji&zcaron;na raba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fortunately, the plates were still whole.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Whole 
+</seg>
+pomeni v enem kosu. Na primer, &ccaron;e pogoltnemo 
+<seg type="lemma">
+something whole
+</seg>
+, ne&ccaron;esa ne zgrizemo na manj&scaron;e kose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ves, cel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The snake can swallow a small rat whole.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+whole 
+</seg>
+poudarimo tisto, kar po&ccaron;nemo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+popolnoma, v celoti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a whole new way of life.
+</quote>
+<quote>
+Charles was a whole lot nicer than I had expected.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar o ne&ccaron;em govorimo 
+<seg type="lemma">
+as a whole
+</seg>
+, govorimo na splo&scaron;no kot o samostojni enoti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot celota, v celoti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is that just in India, or in the world as a whole?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+on the whole 
+</seg>
+povemo, da je tisto, kar re&ccaron;emo, resni&ccaron;no samo na splo&scaron;no in morda ne v vseh primerih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na splo&scaron;no, v celoti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On the whole he is a very difficult character.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

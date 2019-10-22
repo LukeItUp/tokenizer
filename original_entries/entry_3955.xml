@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discount,
+</orth>
+<form type="inflected">
+discounts, discounting, discounted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/d*IskaUnt/
+</pron>
+, glagol pa
+<pron>
+/dIsk*a*Unt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A discount 
+</seg>
+je zni&zcaron;anje cene ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popust
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our clients receive a 50 per cent discount.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To discount something 
+</seg>
+pomeni nekaj zavrniti ali prezreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spregledati, ne meniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I decided to discount the risks.
+</quote>
+</seg>
+</sense>
+</entry>

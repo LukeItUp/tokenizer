@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prominent
+</orth>
+<form type="variant">
+<pron>
+/pr*QmIn@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+prominent
+</seg>
+, je pomembna oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugleden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...US Senators and other prominent American personalities.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+prominence
+</orth>
+<form type="variant">
+<pron>
+/pr*QmIn@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Alan Travers had risen to prominence in his wife&apos;s organisation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+prominent
+</seg>
+, je zelo opazno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izstopajo&ccaron;, viden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were two prominent landmarks.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+prominently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a large photograph prominently displayed in her front room.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

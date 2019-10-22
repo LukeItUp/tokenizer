@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sip
+</orth>
+<form type="variant">
+<pron>
+/s*Ip/
+</pron>
+</form>
+<form type="inflected">
+sips, sipping, sipped.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sip a drink 
+</seg>
+pomeni piti z majhnimi po&zcaron;irki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+srkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The guests were sipping their drinks.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She took another sip from her glass.
+</quote>
+<quote>
+...sips of water.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

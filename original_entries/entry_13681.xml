@@ -1,0 +1,622 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stick
+</orth>
+<form type="variant">
+<pron>
+/st*Ik/
+</pron>
+</form>
+<form type="inflected">
+sticks, sticking, stuck
+</form>
+<form type="variant">
+<pron>
+/st*Vk/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stick 
+</seg>
+je dolg, tanek kos lesa, na primer odmrla veja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+palica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I gathered some sticks to start the fire.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stick of something 
+</seg>
+je dolg, tanek kos ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+palica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sticks of dynamite.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick a pointed object in something 
+</seg>
+pomeni v nekaj potisniti koni&ccaron;ast predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabosti, vtakniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stuck the knife right in.
+</quote>
+<quote>
+He stuck a cigar in his mouth.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick one thing to another 
+</seg>
+pomeni pritrditi dve stvari skupaj z lepilom ali lepilnim trakom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They went round sticking posters on walls.
+</quote>
+<quote>
+Someone has stuck a label on the crate.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sticks somewhere
+</seg>
+, je pritrjeno ali utrjeno v enem polo&zcaron;aju in se ne more premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilepiti se, oprijeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sand that sticks to your hair and skin.
+</quote>
+<quote>
+If your zip sticks, it might be because a thread has caught in it.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sticks in one&apos;s mind
+</seg>
+, se tistega dolgo spominjamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati v spominu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One lecture stuck in my mind.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick something somewhere 
+</seg>
+pomeni nekaj nekam malomarno polo&zcaron;iti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vtakniti, potla&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She closed the bag and stuck it back on the shelf.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+stuck.
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To stick it 
+</seg>
+ali 
+<FV>
+to stick at it 
+</FV>
+ali 
+<FV>
+to stick it out 
+</FV>
+pomeni ne oditi ali obupati v te&zcaron;avnem polo&zcaron;aju; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vztrajati, ne popustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t know how I&apos;ve stuck it. It&apos;s been hell.
+</quote>
+<quote>
+You must stick at it if you want to succeed.
+</quote>
+<quote>
+I stuck it out as long as I could.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get the wrong end of the stick 
+</seg>
+pomeni nekaj popolnoma napak razumeti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+narobe razumeti
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+stick 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+neck out: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+neck.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+stick around.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick around 
+</seg>
+pomeni ostati tam, kjer smo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ostati na mestu, ostati v bli&zcaron;ini
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll stick around and keep an eye on the food.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick by.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick by someone 
+</seg>
+pomeni nekomu &scaron;e naprej pomagati ali ga zagovarjati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati zvest
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a good commanding officer who stuck by his men when they got into trouble.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sticks out
+</seg>
+, se &scaron;iri onstran ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;trleti, moleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a little chimney sticking out of the roof.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To stick something out 
+</seg>
+pomeni poskrbeti, da se nekaj prika&zcaron;e od znotraj ali izza ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomazati, pomoliti ven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lally stuck her head out of a window.
+</quote>
+<quote>
+Lynn stuck out her tongue.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sticks out
+</seg>
+, je zelo opazno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izstopati, &scaron;trleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His accent made him stick out.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick out for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick out for something 
+</seg>
+pomeni nekaj, kar si &zcaron;elimo, kar naprej zahtevati in ne sprejeti ni&ccaron;esar druga&ccaron;nega ali manj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stuck out for twice the usual salary, and got it.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To stick to something 
+</seg>
+pomeni ostati blizu ne&ccaron;esa ali pri ne&ccaron;em in tistega ne zamenjati za kaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati pri &ccaron;em, vztrajati pri &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I went over the hill instead of sticking to the river.
+</quote>
+<quote>
+They are sticking to their present policy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To stick to a promise or agreement 
+</seg>
+pomeni storiti tako, kot smo rekli, da bomo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati obljubo, vztrajati pri sporazumu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They stuck to the bargain.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To stick up a picture or a notice 
+</seg>
+pomeni pritrditi sliko ali obvestilo na steno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obesiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have a painting stuck up on the wall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj dolgega 
+<seg type="lemma">
+sticks up
+</seg>
+, je obrnjeno navzgor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moleti navzgor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These plants stick up vertically from the seabed.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick up for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick up for someone or something 
+</seg>
+pomeni nekaj silovito zagovarjati ali braniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+braniti, zavzemati se za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He thanked his father for sticking up for him.
+</quote>
+<quote>
+I was too scared to stick up for my rights.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+stick with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stick with someone or something 
+</seg>
+pomeni ostati pri nekom ali ne&ccaron;em in ne izbrati &ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Stick with me and you&apos;ll be okay.
+</quote>
+<quote>
+I stuck with my staple diet: brown rice.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

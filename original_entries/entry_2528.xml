@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cock
+</orth>
+<form type="variant">
+<pron>
+/k*Qk/
+</pron>
+</form>
+<form type="inflected">
+cocks, cocking, cocked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cock 
+</seg>
+je odrasel pi&scaron;&ccaron;anec; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+petelin
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cock one's head or leg 
+</seg>
+pomeni dvigniti glavo ali nogo vstran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagniti, vstran dvigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stepped back, his head cocked to one side, to admire his work.
+</quote>
+<quote>
+A stray dog cocked his leg against a lamp-post.
+</quote>
+</seg>
+</sense>
+</entry>

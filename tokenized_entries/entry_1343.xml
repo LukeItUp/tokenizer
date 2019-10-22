@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+black and white.
+</orth>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na fotografiji ali filmu, ki je
+<seg type="lemma">
+black and white
+</seg>
+je vse v &ccaron;rni, beli in sivi barvi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rno-bel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw it in black and white.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je
+<seg type="lemma">
+in black and white
+</seg>
+je zapisano ali natisnjeno in ne le povedano.
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rno na belem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I want to see that agreement written down in black and white.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

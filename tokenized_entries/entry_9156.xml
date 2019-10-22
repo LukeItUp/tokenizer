@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p132_s144790" id="p132_w736" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="200.274" base="205.97" width="16.943" height="7.552">mom</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p132_s144791" id="p132_w737" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.223" y="200.274" base="205.97" width="8.93664" height="7.552">ali</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p132_s144792" id="p132_w738" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="291.83" y="200.274" base="205.97" width="24.4267" height="7.552">te`avo.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p132_s144794" id="p132_w740" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="327.83" y="200.274" base="205.97" width="17.4002" height="7.552">tr~iti</TOKEN>
+<seg>
+<TOKEN sid="p132_s144795" id="p132_w741" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.9" y="200.274" base="205.97" width="10.5422" height="7.552">ob,</TOKEN>
+</seg>
+<TOKEN sid="p132_s144796" id="p132_w742" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="363.112" y="200.274" base="205.97" width="26.483" height="7.552">naleteti</TOKEN>
+<TOKEN sid="p132_s144797" id="p132_w743" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.265" y="200.274" base="205.97" width="10.5422" height="7.552">na;</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p132_s144798" id="p132_w744" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="407.52" y="200.274" base="205.97" width="32.4878" height="7.552">Everyone</TOKEN>
+</seg>
+<TOKEN sid="p132_s144799" id="p132_w745" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.611" y="209.354" base="215.05" width="20.795" height="7.552">comes</TOKEN>
+<TOKEN sid="p132_s144800" id="p132_w746" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="281.404" y="209.354" base="215.05" width="8.79696" height="7.552">up</TOKEN>
+<TOKEN sid="p132_s144801" id="p132_w747" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.2" y="209.354" base="215.05" width="24.7954" height="7.552">against</TOKEN>
+<TOKEN sid="p132_s144802" id="p132_w748" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.994" y="209.354" base="215.05" width="49.9709" height="7.552">discrimination</TOKEN>
+<TOKEN sid="p132_s144803" id="p132_w749" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.964" y="209.354" base="215.05" width="22.392" height="7.552">sooner</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p132_s144804" id="p132_w750" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.354" y="209.354" base="215.05" width="7.19856" height="7.552">or</TOKEN>
+<TOKEN sid="p132_s144805" id="p132_w751" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.552" y="209.354" base="215.05" width="16.884" height="7.552">later.</TOKEN>
+<TOKEN sid="p132_s144806" id="p132_w752" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.611" y="218.434" base="224.13" width="18.797" height="7.568">come</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p132_s144807" id="p132_w753" font-name="ssunivers" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="279.408" y="218.434" base="224.13" width="19.5955" height="7.568">upon.</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

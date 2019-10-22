@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clout
+</orth>
+<form type="variant">
+<pron>
+/kl*a*Ut/
+</pron>
+</form>
+<form type="inflected">
+clouts, clouting, clouted;
+</form>
+<usg>
+pogovorna beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To clout someone 
+</seg>
+pomeni nekoga udariti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mahniti, udariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Then he clouted me across the face.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a clout on the head.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Clout 
+</seg>
+pomeni tudi vpliv in mo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vpliv, mo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The commission lacks the clout to force him to resign.
+</quote>
+<quote>
+...political clout.
+</quote>
+</seg>
+</sense>
+</entry>

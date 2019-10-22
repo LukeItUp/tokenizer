@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hem
+</orth>
+<form type="variant">
+<pron>
+/h*em/
+</pron>
+</form>
+<form type="inflected">
+hems, hemming, hemmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hem 
+</seg>
+je zapognjen in pri&scaron;it rob obla&ccaron;ila ali kosa tkanine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rob
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hem a piece of cloth 
+</seg>
+pomeni zapogniti rob kosa tkanine nazaj in ga pri&scaron;iti, da je videti lep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zarobiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had hemmed a set of handkerchiefs.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hem in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+hemmed in by something
+</seg>
+, ga nekaj popolnoma obkro&zcaron;a, tako da se ne more premikati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obkoljen, obrobljen
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,122 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+expense
+</orth>
+<form type="variant">
+<pron>
+/I2ksp*ens/
+</pron>
+</form>
+<form type="inflected">
+expenses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Expense
+</seg>
+ je znesek, ki ga je treba pla&ccaron;ati za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znesek, stro&scaron;ek, izdatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the roads they're building at vast expense.
+</quote>
+<quote>
+...household expenses.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's expenses 
+</seg>
+je denar, ki ga potro&scaron;imo, ko po&ccaron;nemo nekaj, kar je povezano z delom in za kar nam pozneje pla&ccaron;ajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stro&scaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...travelling expenses.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekaj storimo 
+<seg type="lemma">
+at someone's expense
+</seg>
+, nam nekdo za tisto da denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na stro&scaron;ek nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He circulated the document at his own expense.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e razdremo &scaron;alo 
+<seg type="lemma">
+at someone's expense
+</seg>
+, to storimo zato, da je nekdo videti sme&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na ra&ccaron;un nekoga
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekaj dose&zcaron;emo 
+<seg type="lemma">
+at someone's expense
+</seg>
+, to storimo tako, da nekomu &scaron;kodujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na &scaron;kodo nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They increase their own income at the expense of the rural masses.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+search
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:tS/
+</pron>
+</form>
+<form type="inflected">
+searches, searching, searched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To search for something 
+</seg>
+pomeni nekaj natan&ccaron;no iskati. 
+<seg type="lemma">
+To search a place 
+</seg>
+pomeni, da prostor ali obmo&ccaron;je natan&ccaron;no pregledamo, da bi nekaj na&scaron;li. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(pre)iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He glanced around the room, searching for a place to sit.
+</quote>
+<quote>
+He searched through a drawer and eventually found the photo.
+</quote>
+<quote>
+I searched the city for a room.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar policisti 
+<seg type="lemma">
+search someone
+</seg>
+, pregledajo &ccaron;lovekova obla&ccaron;ila, da bi na&scaron;li morebitne skrite predmete. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preiskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were stopped by the police and searched.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A search 
+</seg>
+je poskus, da bi nekaj na&scaron;li s skrbnim pregledovanjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I found the keys after a long search.
+</quote>
+<quote>
+...the search for oil.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar gre nekdo 
+<seg type="lemma">
+in search of something
+</seg>
+, se loti iskanja tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We went round the town in search of a place to stay.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

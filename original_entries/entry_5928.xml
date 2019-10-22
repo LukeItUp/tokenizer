@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+garnish
+</orth>
+<form type="variant">
+<pron>
+/g*A*:nIS/
+</pron>
+</form>
+<form type="inflected">
+garnishes, garnishing, garnished.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A garnish 
+</seg>
+je majhna koli&ccaron;ina hrane, ki jo uporabljamo za kra&scaron;enje &zcaron;ivil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okras, dekoracija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a garnish of parsley.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To garnish food 
+</seg>
+pomeni okrasiti hrano z majhnimi koli&ccaron;inami drugih &zcaron;ivil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrasiti, dekorirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Garnish the fish with cucumber slices.
+</quote>
+</seg>
+</sense>
+</entry>

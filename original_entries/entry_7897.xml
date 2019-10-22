@@ -1,0 +1,314 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+join
+</orth>
+<form type="variant">
+<pron>
+/dZ*O*In/
+</pron>
+</form>
+<form type="inflected">
+joins, joining, joined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One person or thing joins another 
+</seg>
+re&ccaron;emo, kadar dve osebi ali predmeta prideta skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridru&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went for a walk before joining his brother for tea.
+</quote>
+<quote>
+The helicopter was quickly joined by a second.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To join a queue 
+</seg>
+pomeni, da gremo stat na konec vrste &ccaron;akajo&ccaron;ih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti se v vrsto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They went off to join the queue for coffee.
+</quote>
+<quote>
+The van joined the row of cars.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve cesti ali reki 
+<seg type="lemma">
+join
+</seg>
+, ali kadar ena 
+<seg type="lemma">
+joins the other
+</seg>
+, se sre&ccaron;ata ali prideta skupaj na dolo&ccaron;eni to&ccaron;ki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;iti se, sre&ccaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This road joins the motorway at junction 16.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To join an organization 
+</seg>
+pomeni postati &ccaron;lan neke organizacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridru&zcaron;iti se, v&ccaron;laniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We both joined the Labour Party.
+</quote>
+<quote>
+I had decided to join.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To join an activity 
+</seg>
+pomeni, da se za&ccaron;nemo ukvarjati z neko dejavnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridru&zcaron;iti se, priklju&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were invited to join the feasting.
+</quote>
+</seg>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+join forces: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+force
+</ref>
+</xr>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To join two things 
+</seg>
+pomeni spojiti ali pritrditi dve stvari skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spojiti, povezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Draw a straight line joining these two points.
+</quote>
+<quote>
+The cities are joined by telecommunication links.
+</quote>
+<quote>
+Cut them down the middle and join the two outside edges together.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A join 
+</seg>
+je kraj, kjer sta dve stvari pritrjeni ali pripeti skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stikali&scaron;&ccaron;e, stik, sti&ccaron;i&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The repair was done so well, you could hardly see the join.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+join in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To join in an activity 
+</seg>
+pomeni, da se za&ccaron;nemo ukvarjati z neko dejavnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridru&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Parents should join in these discussions.
+</quote>
+<quote>
+He tries to join in.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+join up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To join up 
+</seg>
+pomeni postati &ccaron;lan oboro&zcaron;enih sil; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+iti k vojakom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At eighteen, just before joining up and going abroad, I met Elizabeth.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To join up two things 
+</seg>
+pomeni pripeti ali pritrditi dve stvari skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spojiti, zvezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I used to join up all his paper clips in a long chain.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

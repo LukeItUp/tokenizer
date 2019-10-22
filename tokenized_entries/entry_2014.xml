@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p100_s109387" id="p100_w659" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="226.792" base="233.2" width="47.4696" height="8.514">carnivorous</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p100_s109388" id="p100_w660" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="301.98" y="228.038" base="233.2" width="27.7702" height="6.844">/k&#202;&#194;n&#203;v6</TOKEN>
+<TOKEN sid="p100_s109389" id="p100_w661" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="330.04" y="227.4" base="230.81" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p100_s109390" id="p100_w662" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="332.65" y="228.038" base="233.2" width="14.8716" height="6.844">r6s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p100_s109391" id="p100_w663" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="349.08" y="229.284" base="233.2" width="10.3901" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p100_s109392" id="p100_w664" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.04" y="227.504" base="233.2" width="19.7964" height="7.552">@ival,</TOKEN>
+<TOKEN sid="p100_s109393" id="p100_w665" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.396" y="227.504" base="233.2" width="6.75576" height="7.552">ki</TOKEN>
+<TOKEN sid="p100_s109394" id="p100_w666" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.711" y="227.504" base="233.2" width="5.95656" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p100_s109395" id="p100_w667" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.22" y="227.504" base="233.2" width="41.8018" height="7.552">carnivorous,</TOKEN>
+</seg>
+<TOKEN sid="p100_s109396" id="p100_w668" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="236.584" base="242.28" width="5.99688" height="7.552">j&#233;</TOKEN>
+<TOKEN sid="p100_s109397" id="p100_w669" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="266.607" y="236.584" base="242.28" width="19.1995" height="7.552">meso.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p100_s109399" id="p100_w671" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="294.04" y="236.584" base="242.28" width="29.5891" height="7.552">mesojed;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p100_s109400" id="p100_w672" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.63" y="236.584" base="242.28" width="24.3972" height="7.552">Snakes</TOKEN>
+<TOKEN sid="p100_s109401" id="p100_w673" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.027" y="236.584" base="242.28" width="10.6488" height="7.552">are</TOKEN>
+<TOKEN sid="p100_s109402" id="p100_w674" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="364.676" y="236.584" base="242.28" width="42.2532" height="7.552">carnivorous.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

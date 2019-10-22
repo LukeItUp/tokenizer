@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flank
+</orth>
+<form type="variant">
+<pron>
+/fl*&ae;Nk/
+</pron>
+</form>
+<form type="inflected">
+flanks, flanking, flanked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+flanked by things
+</seg>
+, ima tiste stvari na obeh straneh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdajati s strani
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Billy was seated at the table, flanked by the two women.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Flanks 
+</seg>
+so stranski deli &zcaron;ivalskega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their legs gripped the flanks of the ponies.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The flank of an army or fleet 
+</seg>
+je stranski del vojske ali ladjevja, pripravljenega na boj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their fire on the enemy&apos;s flank could not stop his southward advance.
+</quote>
+</seg>
+</sense>
+</entry>

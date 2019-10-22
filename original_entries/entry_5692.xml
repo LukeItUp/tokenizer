@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fracture
+</orth>
+<form type="variant">
+<pron>
+/fr*&ae;ktS@/
+</pron>
+</form>
+<form type="inflected">
+fractures, fracturing, fractured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fracture 
+</seg>
+je razpoka ali zlom ne&ccaron;esa, zlasti kosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlom, nalom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fracture of the left shoulder blade.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kost 
+<seg type="lemma">
+fractures 
+</seg>
+ali 
+<seg type="lemma">
+is fractured
+</seg>
+, se zlomi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlomiti se, po&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fractured ankle.
+</quote>
+</seg>
+</sense>
+</entry>

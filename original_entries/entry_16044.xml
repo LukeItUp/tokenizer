@@ -1,0 +1,291 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wind,
+</orth>
+<form type="inflected">
+winds, winding, wound 
+<pron>
+/w*a*Und/
+</pron>
+.
+</form>
+<PN>
+Besedo 
+<PP>
+wind 
+</PP>
+pri pomenih od 1 do 5 izgovarjamo 
+<pron>
+/w*Ind/
+</pron>
+, pri pomenih od 6 do 8 in frazni glagol pa 
+<pron>
+/w*a*Ind/
+</pron>
+.
+</PN>
+<IN>
+Pri 3. pomenu je oblika za pretekli in pretekli dele&zcaron;nik 
+<IH>
+winded
+</IH>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wind 
+</seg>
+je zra&ccaron;ni tok, ki se pomika nad zemeljsko povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veter
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...poppies fluttering in the wind.
+</quote>
+<quote>
+There was a fierce wind blowing.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s wind 
+</seg>
+je &ccaron;lovekova sposobnost, da z lahkoto diha. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sapa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had to stop and regain my wind.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be winded by something 
+</seg>
+pomeni kratek &ccaron;as imeti te&zcaron;ave z dihanjem, na primer zaradi udarca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti zadihan/zasopel
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na glasbilo, ki je 
+<seg type="lemma">
+wind
+</seg>
+, igramo tako, da pihamo vanj ali &ccaron;ezenj; v to skupino glasbil sodita na primer trobenta ali flavta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pihalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...wind players.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To get wind of something 
+</seg>
+pomeni sli&scaron;ati za nekaj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zavohati, izvohati, izvedeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He somehow got wind of the party and managed to get himself invited.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar cesta ali reka 
+<seg type="lemma">
+winds somewhere
+</seg>
+, gre v dolo&ccaron;eno smer s &scaron;tevilnimi ovinki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vijugati se, viti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The river winds through the town.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+winding
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the winding road leading to the Castle.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wind something round something else 
+</seg>
+pomeni nekaj ve&ccaron;krat oviti okoli ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naviti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wind a clock or watch 
+</seg>
+pomeni omogo&ccaron;iti delovanje zapestne ali kake druge ure, tako da obrnemo gumb, klju&ccaron; ali ro&ccaron;ico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naviti
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wind up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neka dejavnost ali posel 
+<seg type="lemma">
+is wound up
+</seg>
+, je kon&ccaron;ana ali sklenjena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Four years later the company was wound up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -5,7 +5,7 @@ anger
 </orth>
 <form type="variant">
 <pron>
-/*#ae;Ng@/
+/*&ae;Ng@/
 </pron>
 </form>
 <form type="inflected">
@@ -20,11 +20,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Anger
+Anger 
 </seg>
-je mo&#269;no &#269;ustvo, ki ga ob&#269;utimo,
-kadar mislimo, da se je nekdo vedel tako krivi&#269;no, kruto ali &#382;aljivo, da mu &#382;elimo
-odlo&#269;no pokazati svoja &#269;ustva.
+je mo&ccaron;no &ccaron;ustvo, ki ga ob&ccaron;utimo, kadar mislimo, da se je nekdo vedel tako krivi&ccaron;no, kruto ali &zcaron;aljivo, da mu &zcaron;elimo odlo&ccaron;no pokazati svoja &ccaron;ustva. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -33,27 +31,26 @@ jeza
 </cit>
 <seg type="example">
 <quote>
-"You're a fool."&#8212;&#382;Am I?" he said, red with anger.
+&lsquo;You're a fool.&rsquo;&mdash;&zcaron;Am I?&rsquo; he said, red with anger.
 </quote>
 </seg>
 </sense>
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekdo ali nekaj
+Kadar nekdo ali nekaj 
 <seg type="lemma">
 angers somebody
 </seg>
-ga
-spravi v jezo.
+, ga spravi v jezo. 
 </def>
 <cit type="translationEquivalent">
 <quote>

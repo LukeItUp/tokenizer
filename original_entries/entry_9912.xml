@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+orchestrate
+</orth>
+<form type="variant">
+<pron>
+/*O*:kI2streIt/
+</pron>
+</form>
+<form type="inflected">
+orchestrates, orchestrating, orchestrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To orchestrate something 
+</seg>
+pomeni nekaj zelo skrbno organizirati, da bi dosegli dolo&ccaron;en rezultat ali okoli&scaron;&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti in voditi potek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He personally orchestrated that entire evening.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+orchestrated
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a brilliantly orchestrated campaign of persuasion and protest.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To orchestrate a piece of music 
+</seg>
+pomeni glasbeno delo prirediti tako, da ga lahko izvaja orkester. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+orkestrirati, instrumentirati
+</quote>
+</cit>
+</sense>
+</entry>

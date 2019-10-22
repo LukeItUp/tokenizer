@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleepless
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:plI2s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V no&ccaron;i, ki je 
+<seg type="lemma">
+sleepless
+</seg>
+, ne moremo spati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez spanca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;d had a sleepless night.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sleepless
+</seg>
+, ne more spati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesp&eacute;&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Late in the night, sleepless and troubled, he went for a walk.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sleeplessness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I began to suffer from sleeplessness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

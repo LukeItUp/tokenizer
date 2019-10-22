@@ -1,0 +1,185 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sale
+</orth>
+<form type="variant">
+<pron>
+/s*e*Il/
+</pron>
+</form>
+<form type="inflected">
+sales.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sale of goods 
+</seg>
+je izro&ccaron;itev blaga v zameno za denar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...new laws to control the sale of guns.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sales of a product 
+</seg>
+je koli&ccaron;ina prodanega blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Car sales are 5 per cent down.
+</quote>
+<quote>
+Sales of the magazine are declining.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sales 
+</seg>
+je dejavnost tistega oddelka v podjetju, ki je pristojen za prodajo izdelkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sales executive.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sale 
+</seg>
+je obdobje, ko v neki trgovini prodajajo izdelke po zni&zcaron;ani ceni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razprodaja, akcija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;re having a clearance sale.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sale 
+</seg>
+je tudi prireditev, na kateri blago kupi tisti, ki zanj ponudi najve&ccaron; denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dra&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the quarterly cattle sale.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Nekaj je 
+<seg type="lemma">
+for sale 
+</seg>
+ali 
+<FV>
+up for sale
+</FV>
+, kadar lastnik posku&scaron;a tisto prodati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na prodaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their house is up for sale.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izdelke, ki so 
+<seg type="lemma">
+on sale
+</seg>
+, lahko kupimo v trgovinah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na prodaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The only English newspaper on sale was the Morning Star.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+jumble sale
+</ref>
+</xr>
+</B>
+</entry>

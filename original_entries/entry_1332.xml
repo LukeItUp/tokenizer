@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bishop
+</orth>
+<form type="variant">
+<pron>
+/b*IS@p/
+</pron>
+</form>
+<form type="inflected">
+bishops.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bishop 
+</seg>
+je duhovnik na visokem polo&zcaron;aju, predvsem v rimskokatoli&scaron;ki, anglikanski in pravoslavni cerkvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;kof
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri &scaron;ahu je 
+<seg type="lemma">
+a bishop 
+</seg>
+figura, ki jo diagonalno premikamo po &scaron;ahovnici. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teka&ccaron;
+</quote>
+</cit>
+</sense>
+</entry>

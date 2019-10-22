@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p300_s328873" id="p300_w308" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="390.212" base="396.62" width="25.5389" height="8.514">frothy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p300_s328874" id="p300_w309" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="83.85" y="391.458" base="396.62" width="20.1414" height="6.844">/fr&#201;&#210;i</TOKEN>
+<TOKEN sid="p300_s328875" id="p300_w310" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="104.48" y="390.81" base="394.22" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p300_s328876" id="p300_w311" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="107.21" y="391.458" base="396.62" width="5.0316" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p300_s328877" id="p300_w312" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="115.99" y="392.704" base="396.62" width="10.6514" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p300_s328878" id="p300_w313" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.34" y="390.924" base="396.62" width="33.8774" height="7.552">Teko~ina,</TOKEN>
+<TOKEN sid="p300_s328879" id="p300_w314" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.967" y="390.924" base="396.62" width="6.94584" height="7.552">ki</TOKEN>
+<TOKEN sid="p300_s328880" id="p300_w315" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="178.663" y="390.924" base="396.62" width="6.14664" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p300_s328881" id="p300_w316" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.52" y="390.924" base="396.62" width="23.9414" height="7.552">frothy,</TOKEN>
+</seg>
+<TOKEN sid="p300_s328882" id="p300_w317" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.212" y="390.924" base="396.62" width="13.0997" height="7.552">ima</TOKEN>
+<TOKEN sid="p300_s328883" id="p300_w318" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="233.061" y="390.924" base="396.62" width="8.55144" height="7.552">na</TOKEN>
+<TOKEN sid="p300_s328884" id="p300_w319" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1803" y="399.994" base="405.69" width="27.9835" height="7.552">povr{ini</TOKEN>
+<TOKEN sid="p300_s328885" id="p300_w320" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.1626" y="399.994" base="405.69" width="20.7936" height="7.552">veliko</TOKEN>
+<TOKEN sid="p300_s328886" id="p300_w321" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="112.955" y="399.994" base="405.69" width="38.9527" height="7.552">mehur~kov.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p300_s328888" id="p300_w323" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="160.15" y="399.994" base="405.69" width="24.4008" height="7.552">penast;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p300_s328889" id="p300_w324" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.54" y="399.994" base="405.69" width="27.8532" height="7.552">&#8230;frothy</TOKEN>
+<TOKEN sid="p300_s328890" id="p300_w325" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.392" y="399.994" base="405.69" width="15.287" height="7.552">beer.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

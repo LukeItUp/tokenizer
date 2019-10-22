@@ -1,0 +1,232 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seize
+</orth>
+<form type="variant">
+<pron>
+/s*i*:z/
+</pron>
+</form>
+<form type="inflected">
+seizes, seizing, seized.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seize something 
+</seg>
+pomeni nekaj hitro in &ccaron;vrsto prijeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgrabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I seized him by the collar.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seize a place 
+</seg>
+pomeni, da skupina ljudi s silo, hitro in nenadoma prevzame nadzor nad nekim krajem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The airfield had been seized by US troops.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seize someone 
+</seg>
+pomeni nekoga aretirati ali zajeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijeti, zajeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A university professor was seized on Wednesday by three armed men.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seize an oportunity 
+</seg>
+pomeni izkoristiti prilo&zcaron;nost in narediti tisto, kar si &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pograbiti, izkoristiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Derrick seized the chance and went to Spain.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+seize on 
+<VS>
+ali 
+</VS>
+<VV>
+seize upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To seize on something 
+</seg>
+ali 
+<seg type="variant">
+to seize upon something 
+</seg>
+pomeni pokazati veliko zanimanje za nekaj, pogosto zato, ker je za nas uporabno ali koristno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poprijeti, oprijeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was one of the points that I seized upon with some force.
+</quote>
+<quote>
+...seizing on it as an excuse for a rest period.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+seize up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar del telesa 
+<seg type="lemma">
+seizes up
+</seg>
+, nas za&ccaron;ne tako boleti, da ga ne moremo premikati; do tega pride zaradi prevelike obremenitve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobiti kr&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your back may seize up.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar motor 
+<seg type="lemma">
+seizes up
+</seg>
+, neha delovati, ker se pregreje ali mu zmanjka olja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpovedati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+seize upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+seize on
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

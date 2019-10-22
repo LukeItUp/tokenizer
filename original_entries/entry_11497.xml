@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ransom
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;ns@0m/
+</pron>
+</form>
+<form type="inflected">
+ransoms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ransom 
+</seg>
+je znesek, ki ga ugrabitelji zahtevajo, da izpustijo &zcaron;rtev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkupnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The family paid a ransom of &pound;50,000 for the child&apos;s release.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+holds someone to ransom
+</seg>
+, ima tisto osebo za talca, dokler zanjo ne dobi zahtevane odkupnine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;evati kot talca
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

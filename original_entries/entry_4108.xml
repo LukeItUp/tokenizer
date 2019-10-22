@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+district
+</orth>
+<form type="variant">
+<pron>
+/d*IstrIkt/
+</pron>
+</form>
+<form type="inflected">
+districts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A district 
+</seg>
+je obmo&ccaron;je mesta ali pokrajine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;etrt, del, okoli&scaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...doctors in country districts.
+</quote>
+<quote>
+...a working class district of Paris.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A district 
+</seg>
+je tudi upravno obmo&ccaron;je mesta ali pokrajine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okro&zcaron;je, okraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...district councils.
+</quote>
+</seg>
+</sense>
+</entry>

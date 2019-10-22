@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kindly
+</orth>
+<form type="variant">
+<pron>
+/k*a*Indli1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+kindly
+</seg>
+, je ljubezniv, ljube&ccaron; in so&ccaron;uten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijazen, dobrohoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Being a kindly and reasonable man, he at once apologized.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+kindliness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the great virtues of humility and kindliness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekoga prosimo 
+<seg type="lemma">
+to kindly do something
+</seg>
+, s tem poka&zcaron;emo svojo nejevoljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ali bi bili lahko prosim tako prijazni
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kindly take your hand off my knee.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+kind
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+looks kindly on something
+</seg>
+, tisto odobrava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naklonjeno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The White House will look more kindly on a robust economy.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+does not take kindly to something
+</seg>
+, tistega ne odobrava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenaklonjeno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are unlikely to take kindly to this suggestion.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

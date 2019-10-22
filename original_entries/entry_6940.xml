@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hour
+</orth>
+<form type="variant">
+<pron>
+/*a*U*@/
+</pron>
+</form>
+<form type="inflected">
+hours.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An hour 
+</seg>
+je obdobje &scaron;estdesetih minut. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ura
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They slept for two hours.
+</quote>
+<quote>
+We talked for hours.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obdobje, v katerem se nekaj zgodi vsak dan, lahko imenujemo 
+<seg type="lemma">
+the hours that it happens
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ure, &ccaron;as
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...our demands for shorter working hours.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+on the hour
+</seg>
+, se zgodi ob enih, ob dveh in tako naprej z rednim zamikom ene ure. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob polni uri
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Buses for London leave on the hour.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+in the small hours
+</seg>
+, se zgodi v &ccaron;asu od polno&ccaron;i do zgodnjih jutranjih ur. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodnje jutranje ure
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The noise kept him awake until the small hours.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+eleventh hour, 
+</ref>
+<ref>
+rush hour
+</ref>
+</xr>
+</B>
+</entry>

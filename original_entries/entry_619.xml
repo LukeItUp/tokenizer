@@ -5,7 +5,7 @@ appetite
 </orth>
 <form type="variant">
 <pron>
-/*#ae;p@1taIt/
+/*&ae;p@1taIt/
 </pron>
 </form>
 <form type="inflected">
@@ -15,18 +15,18 @@ appetites.
 <sense n="1">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-or
+or 
 </seg>
 UNCOUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-One's appetite
+One's appetite 
 </seg>
-je &#269;lovekova &#382;elja po jedi.
+je &ccaron;lovekova &zcaron;elja po jedi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -50,14 +50,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To have an appetite for something
+To have an appetite for something 
 </seg>
-pomeni,
-da si tisto mo&#269;no &#382;elimo.
+pomeni, da si tisto mo&ccaron;no &zcaron;elimo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-po&#382;elenje, &#382;elja
+po&zcaron;elenje, &zcaron;elja
 </quote>
 </cit>
 <seg type="example">

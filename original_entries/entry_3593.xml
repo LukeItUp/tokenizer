@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+definition
+</orth>
+<form type="variant">
+<pron>
+/d*efIn*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+definitions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A definition of a word or term 
+</seg>
+je razlaga, ki pove pomen besede ali izraza, najve&ccaron;krat v slovarju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlaga, definicija
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima nekaj dolo&ccaron;eno lastnost 
+<seg type="lemma">
+by definition
+</seg>
+, jo ima &zcaron;e samo zaradi tistega, kar je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam po sebi
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Definition 
+</seg>
+je lastnost, da je nekaj jasno in dolo&ccaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opredelitev, razpoznavnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They lack definition and identity as a class.
+</quote>
+</seg>
+</sense>
+</entry>

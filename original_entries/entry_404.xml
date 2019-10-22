@@ -5,7 +5,7 @@ along
 </orth>
 <form type="variant">
 <pron>
-/@l*QN/.
+/@l*QN/
 </pron>
 </form>
 </form>
@@ -19,12 +19,11 @@ PREP
 <seg type="lemma">
 To move or look along something
 </seg>
-pomeni
-gibati se ali gledati proti enemu koncu tiste stvari.
+ pomeni gibati se ali gledati proti enemu koncu tiste stvari. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-po, vzdol&#382;
+po, vzdol&zcaron;
 </quote>
 </cit>
 <seg type="example">
@@ -39,20 +38,19 @@ She glanced along the corridor.
 <sense n="2">
 <gramGrp>
 <pos>
-PREP
+PREP 
 <seg>
-or
+or 
 </seg>
 ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekaj
+Kadar je nekaj 
 <seg type="lemma">
-along a road, river, or
-corridor
+along a road, river, or corridor
 </seg>
-poteka vzdol&#382; ceste, reke ali prehoda.
+, poteka vzdol&zcaron; ceste, reke ali prehoda. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -75,12 +73,11 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekdo ali nekaj
+Kadar nekdo ali nekaj 
 <seg type="lemma">
 moves along
 </seg>
-se
-vztrajno premika.
+, se vztrajno premika. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -102,10 +99,9 @@ ADV
 <def xml:lang="sl">
 Kadar nekaj
 <seg type="lemma">
-is going along
+ is going along 
 </seg>
-na dolo&#269;en
-na&#269;in, pomeni, da napreduje na tisti na&#269;in.
+na dolo&ccaron;en na&ccaron;in, pomeni, da napreduje na tisti na&ccaron;in. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -126,10 +122,9 @@ ADV
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To take someone along
+To take someone along 
 </seg>
-pomeni nekoga vzeti
-s seboj, kadar nekam odhajamo.
+pomeni nekoga vzeti s seboj, kadar nekam odhajamo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -142,19 +137,18 @@ Why don't you come along too?
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-all along
+all along 
 </seg>
-povemo, da je nekaj
-obstajalo ali bilo resni&#269;no v dolo&#269;enem obdobju.
+povemo, da je nekaj obstajalo ali bilo resni&ccaron;no v dolo&ccaron;enem obdobju. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-vseskozi, nenehno, ves &#269;as
+vseskozi, nenehno, ves &ccaron;as
 </quote>
 </cit>
 <seg type="example">
@@ -166,14 +160,13 @@ Perhaps they had been mistaken all along.
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-To do something along with someone else
+To do something along with someone else 
 </seg>
-pomeni narediti tisto skupaj z nekom.
+pomeni narediti tisto skupaj z nekom. 
 <seg type="lemma">
-To take one thing
-along with another
+To take one thing along with another
 </seg>
-pomeni vzeti obe stvari hkrati.
+ pomeni vzeti obe stvari hkrati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -189,5 +182,5 @@ The eggs were delivered along with the milk.
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

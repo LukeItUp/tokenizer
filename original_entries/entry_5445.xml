@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flaw
+</orth>
+<form type="variant">
+<pron>
+/fl*O*:/
+</pron>
+</form>
+<form type="inflected">
+flaws.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flaw in something 
+</seg>
+je napaka ali pomota v ne&ccaron;em, zaradi katere je tisto pokvarjeno ali nezadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hiba, pomanjkljivost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is a flaw in this policy.
+</quote>
+<quote>
+The law contained a flaw which made it unworkable.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+flawed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...flawed arguments.
+</quote>
+<quote>
+Certainly, these are flawed paintings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flaw in someone&apos;s character 
+</seg>
+je neza&zcaron;elena lastnost, ki jo ima &ccaron;lovekov zna&ccaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hiba, pomanjkljivost
+</quote>
+</cit>
+</sense>
+</entry>

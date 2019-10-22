@@ -11,34 +11,34 @@ appal
 <form type="inflected">
 appals, appalling, appalled;
 </form>
-<form type="variant">
-v ameri&#353;ki angle&#353;&#269;ini pi&#353;emo
-<orth>
-appall
-</orth>
-in
-<orth>
-appalls.
-</orth>
-</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+appall 
+</SV>
+in 
+<SV>
+appalls
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekaj
+Kadar nekaj 
 <seg type="lemma">
 appals someone
 </seg>
-ga presune ali
-ogor&#269;i, ker je tako slabo.
+, ga presune ali ogor&ccaron;i, ker je tako slabo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -55,7 +55,6 @@ The levels of ignorance appalled me.
 <orth>
 appalled
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADJ

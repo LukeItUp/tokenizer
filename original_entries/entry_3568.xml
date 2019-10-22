@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+default
+</orth>
+<form type="variant">
+<pron>
+/di1f*O*:lt/
+</pron>
+</form>
+<form type="inflected">
+defaults, defaulting, defaulted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+defaults
+</seg>
+, ne naredi ne&ccaron;esa, kar bi po zakonu moral storiti, na primer poravnati svoj dolg. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne izpolniti obveznosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He said he had been right to default on that loan.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...default of payment.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+by default
+</seg>
+, se zgodi samo zato, ker se nekaj drugega ni zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+avtomati&ccaron;no, zaradi nenavzo&ccaron;nosti ne&ccaron;esa
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

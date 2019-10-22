@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+occur
+</orth>
+<form type="variant">
+<pron>
+/@7k*$e*:/
+</pron>
+</form>
+<form type="inflected">
+occurs, occurring, occurred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dogodek 
+<seg type="lemma">
+occurs
+</seg>
+, se zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgoditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The attack occurred six days ago.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To occur 
+</seg>
+pomeni tudi obstajati ali biti navzo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dogajati se, obstajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Racism and sexism occur in all institutions.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar misel ali ideja 
+<seg type="lemma">
+occurs to someone
+</seg>
+, &ccaron;loveku kar naenkrat pride na pamet ali se je zave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti na misel, pre&scaron;initi, posvetiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It had never occurred to her that he might insist on paying.
+</quote>
+</seg>
+</sense>
+</entry>

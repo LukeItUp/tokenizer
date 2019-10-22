@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reprimand
+</orth>
+<form type="variant">
+<pron>
+/r*eprImA:nd/
+</pron>
+</form>
+<form type="inflected">
+reprimands, reprimanding, reprimanded.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo, ki ima oblast, 
+<seg type="lemma">
+reprimands someone
+</seg>
+, tisti osebi uradno pove, da je naredila nekaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was called to the office of a superior to be reprimanded.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a gentle reprimand.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

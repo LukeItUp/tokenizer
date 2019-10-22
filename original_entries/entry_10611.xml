@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+piracy
+</orth>
+<form type="variant">
+<pron>
+/p*a*Ir@1sI/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Piracy 
+</seg>
+je bilo nekdaj ropanje ladij na morju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piratstvo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Piracy
+</seg>
+ je tudi nedovoljeno kopiranje elektronskega, posnetega ali tiskanega gradiva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piratstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...software piracy.
+</quote>
+</seg>
+</sense>
+</entry>

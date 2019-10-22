@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stain
+</orth>
+<form type="variant">
+<pron>
+/st*e*In/
+</pron>
+</form>
+<form type="inflected">
+stains, staining, stained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stain 
+</seg>
+je znamenje na ne&ccaron;em, ki ga je te&zcaron;ko odstraniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+made&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...grease stains.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina 
+<seg type="lemma">
+stains something
+</seg>
+, se nekaj obarva ali je ozna&ccaron;eno z njo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamazati, obarvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the pink spots staining my new blue jacket.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stained
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a little man with stained teeth.
+</quote>
+<quote>
+His shirt was stained with blood.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

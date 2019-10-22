@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p106_s115681" id="p106_w255" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="331.492" base="337.9" width="37.5884" height="8.514">cemetery</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p106_s115682" id="p106_w256" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.66" y="332.738" base="337.9" width="19.0403" height="6.844">/sem6</TOKEN>
+<TOKEN sid="p106_s115683" id="p106_w257" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="112.99" y="332.09" base="335.5" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p106_s115684" id="p106_w258" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="115.59" y="332.738" base="337.9" width="8.25041" height="6.844">tri</TOKEN>
+<TOKEN sid="p106_s115685" id="p106_w259" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="124.16" y="332.09" base="335.5" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p106_s115686" id="p106_w260" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="126.76" y="332.738" base="337.9" width="4.8616" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p106_s115687" id="p106_w261" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="133.17" y="332.56" base="337.9" width="36.3487" height="7.08">cemeteries.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p106_s115688" id="p106_w262" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="171.03" y="333.984" base="337.9" width="18.8506" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p106_s115689" id="p106_w263" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.93" y="333.984" base="337.9" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p106_s115690" id="p106_w264" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="196.62" y="332.204" base="337.9" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p106_s115691" id="p106_w265" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="203.78" y="332.204" base="337.9" width="30.3048" height="7.552">cemetery</TOKEN>
+</seg>
+<TOKEN sid="p106_s115692" id="p106_w266" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.65" y="332.204" base="337.9" width="5.95008" height="7.552">je</TOKEN>
+<TOKEN sid="p106_s115693" id="p106_w267" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="341.424" base="347.12" width="13.9925" height="7.552">kraj</TOKEN>
+<TOKEN sid="p106_s115694" id="p106_w268" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="76.1712" y="341.424" base="347.12" width="7.60176" height="7.552">za</TOKEN>
+<TOKEN sid="p106_s115695" id="p106_w269" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.7717" y="341.424" base="347.12" width="43.596" height="7.552">pokopavanje</TOKEN>
+<TOKEN sid="p106_s115696" id="p106_w270" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.366" y="341.424" base="347.12" width="25.1842" height="7.552">umrlih.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p106_s115698" id="p106_w272" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="164.8" y="341.424" base="347.12" width="40.392" height="7.552">pokopali{~e</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

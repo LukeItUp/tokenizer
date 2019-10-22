@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bracket
+</orth>
+<form type="variant">
+<pron>
+/br*&ae;kI2t/
+</pron>
+</form>
+<form type="inflected">
+brackets, bracketing, bracketed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Brackets 
+</seg>
+je par lo&ccaron;il, ki ju zapi&scaron;emo z znakoma ( ); med njiju napi&scaron;emo besedo, izraz ali stavek, kadar ho&ccaron;emo ozna&ccaron;iti, da podajamo dodatne podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oklepaj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bracket a word, expression, or sentence 
+</seg>
+pomeni postaviti besedo, izraz ali stavek med oklepaje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati v oklepaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bracketed question mark.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in a particular bracket
+</seg>
+, sodi v dolo&ccaron;ene meje, na primer cenovne ali starostne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the 14-16 age bracket.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;together&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bracket two or more things or people together 
+</seg>
+pomeni, da po na&scaron;em mnenju dve ali ve&ccaron; oseb ali stvari sodijo skupaj, ker so si podobne ali kako druga&ccaron;e sorodne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izena&ccaron;iti, zajeti v isto kategorijo
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bracket 
+</seg>
+je tudi kos kovine, lesa ali plastike, ki ga pritrdimo na steno za oporo polici ali &ccaron;emu podobnemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nosilec, konzola
+</quote>
+</cit>
+</sense>
+</entry>

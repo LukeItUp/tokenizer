@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discreet
+</orth>
+<form type="variant">
+<pron>
+/dIskr*i*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+discreet
+</seg>
+, se izogiba temu, da bi pri obravnavi tajnih ali zasebnih zadev povzro&ccaron;il zadrego. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obziren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+ discreet enquiries at his place of employment.
+</quote>
+<quote>
+I'll certainly be most discreet in my conversation.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+discreetly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The king came discreetly up the back stairs.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+discreet
+</seg>
+, naj ne bi vzbujalo pozornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neopazen
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+discreetly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the discreetly shaded light.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p129_s141264" id="p129_w586" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="118.502" base="124.91" width="29.4633" height="8.514">colliery</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p129_s141265" id="p129_w587" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="286.99" y="119.748" base="124.91" width="25.6497" height="6.844">/k&#201;lj6ri</TOKEN>
+<TOKEN sid="p129_s141266" id="p129_w588" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="313" y="119.11" base="122.52" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p129_s141267" id="p129_w589" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="315.63" y="119.748" base="124.91" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p129_s141268" id="p129_w590" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="322.92" y="119.57" base="124.91" width="30.3818" height="7.08">collieries.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p129_s141269" id="p129_w591" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="355.7" y="120.994" base="124.91" width="18.9709" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p129_s141270" id="p129_w592" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="376.31" y="120.994" base="124.91" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p129_s141271" id="p129_w593" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.82" y="119.214" base="124.91" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p129_s141272" id="p129_w594" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.82" y="119.214" base="124.91" width="25.4376" height="7.552">colliery</TOKEN>
+</seg>
+<TOKEN sid="p129_s141273" id="p129_w595" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.65" y="119.214" base="124.91" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p129_s141274" id="p129_w596" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="427.037" y="119.214" base="124.91" width="15.1898" height="7.552">rud-</TOKEN>
+<TOKEN sid="p129_s141275" id="p129_w597" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="128.284" base="133.98" width="11.1931" height="7.552">nik</TOKEN>
+<TOKEN sid="p129_s141276" id="p129_w598" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="274.002" y="128.284" base="133.98" width="31.4496" height="7.552">premoga;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p129_s141277" id="p129_w599" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.45" y="128.284" base="133.98" width="32.7845" height="7.552">britanska</TOKEN>
+<TOKEN sid="p129_s141278" id="p129_w600" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="342.234" y="128.284" base="133.98" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p129_s141280" id="p129_w602" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="368.08" y="128.284" base="133.98" width="44.6558" height="7.552">premogovnik</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

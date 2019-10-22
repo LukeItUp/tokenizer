@@ -1,0 +1,431 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+far
+</orth>
+<form type="variant">
+<pron>
+/f*A*:/
+</pron>
+</form>
+<form type="inflected">
+farther
+<form type="variant">
+<pron>
+/f*A*:D@/
+</pron>
+</form>
+<IS>
+ali 
+</IS>
+<IV>
+further 
+</IV>
+<pron>
+/f*$e*:D@/
+</pron>
+, farthest 
+<form type="variant">
+<pron>
+/f*A*:DI2st/
+</pron>
+</form>
+<IS>
+ali 
+</IS>
+<IV>
+furthest 
+</IV>
+<form type="variant">
+<pron>
+/f*$e*:DI2st/
+</pron>
+</form>
+</form>
+<IN>
+Obliki 
+<IH>
+farther 
+</IH>
+<IC>
+in 
+</IC>
+<IH>
+farthest 
+</IH>
+<IC>
+uporabljamo zlasti takrat, kadar govorimo o razdaljah.
+</IC>
+</IN>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+further 
+</ref>
+<seg>
+in 
+</seg>
+<ref>
+furthest
+</ref>
+</xr>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki kraj, stvar ali oseba 
+<seg type="lemma">
+far away from another
+</seg>
+, je med njima velika razdalja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dale&ccaron; pro&ccaron;, dale&ccaron; stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat far away from the others.
+</quote>
+<quote>
+...a villa not far from Hotel Miranda.
+</quote>
+<quote>
+...a little farther south.
+</quote>
+</seg>
+<T>
+<def xml:lang="sl">
+Izraz uporabljamo tudi v vpra&scaron;anjih in trditvah o razdalji. 
+</def>
+<seg type="example">
+<quote>
+How far is Amity from here?
+</quote>
+<quote>
+Vita went as far as Bologna.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+far 
+</seg>
+uporabljamo, kadadr govorimo o delu obmo&ccaron;ja, ki je najbolj oddaljen od sredi&scaron;&ccaron;a v dolo&ccaron;eni smeri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrajen, daljnji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...in the far north of the country.
+</quote>
+<quote>
+...on the far right of the page.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta nekje dve podobni stvari, uporabimo besedo 
+<seg type="lemma">
+far 
+</seg>
+za tisto, ki je bolj oddaljena od na&scaron;e to&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the far end of the room.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;as ali kraj, ki je 
+<seg type="lemma">
+far in the future or the past
+</seg>
+, je dale&ccaron; od sedanjosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Fourth of July isn&apos;t far off.
+</quote>
+<quote>
+...as far back as the twelfth century.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+far 
+</seg>
+ozna&ccaron;imo obseg ali stopnjo, do katere se nekaj zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dale&ccaron;, zelo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Prices will not come down very far.
+</quote>
+<quote>
+None of us would trust them very far.
+</quote>
+<quote>
+...using her methods as far as possible.
+</quote>
+</seg>
+<T>
+<def xml:lang="sl">
+Izraz uporabljamo tudi v vpra&scaron;anjih in trditvah o obsegu ali stopnji. 
+</def>
+<seg type="example">
+<quote>
+How far have you got in developing this?
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+far 
+</seg>
+lahko uporabimo v primerjavah, ko poudarimo, da je ena stvar veliko ve&ccaron;ja ali bolj&scaron;a od druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veliko, dale&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a far greater problem.
+</quote>
+<quote>
+It was far more than I expected.
+</quote>
+<quote>
+The firm had far outstripped its rivals.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+far and wide
+</seg>
+, se zgodi v &scaron;tevilnih krajih ali na velikem ozemlju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dale&ccaron; naokoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People would come from far and wide to hear him.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+by far 
+</seg>
+ali 
+<FV>
+far and away 
+</FV>
+uporabimo v primerjavah, ko poudarimo, da je nekaj bolj&scaron;e ali ve&ccaron;je kot karkoli drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dale&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was by far the camp&apos;s best swimmer.
+</quote>
+<quote>
+This is far and away the most important point.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar sta neki odgovor ali ideja 
+<FV>
+not far out
+</FV>
+ ali 
+<FV>
+not far off
+</FV>
+, sta skoraj pravilna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne napa&ccaron;en, ne dale&ccaron; od resnice
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+far from 
+</seg>
+poudarimo, da je nekaj nasprotno od tistega, kar bi lahko bilo ali kar smo pri&ccaron;akovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vse prej kot, niti malo ne
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His hands were far from clean.
+</quote>
+<quote>
+Far from speeding up, the tank slithered to a halt.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+So far 
+</seg>
+pomeni do zdaj&scaron;njega trenutka v &ccaron;asu ali okoli&scaron;&ccaron;inah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+do zdaj, doslej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What do you think of the town so far?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+is going too far
+</seg>
+, je po na&scaron;em mnenju njegovo ved&ecirc;nje nesprejemljivo ali skrajno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+predale&ccaron;
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+as far as 
+</QF>
+<QI>
+something 
+</QI>
+<QC>
+is concerned: 
+</QC>
+<seg>
+glej 
+</seg>
+<ref>
+concern
+</ref>
+</xr>
+<xr type="related">
+<QF>
+few and far between: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+few
+</ref>
+</xr>
+<xr type="related">
+<QF>
+in so far as: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+insofar
+</ref>
+</xr>
+</B>
+</entry>

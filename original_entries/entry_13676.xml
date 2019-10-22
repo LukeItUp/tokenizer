@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stern
+</orth>
+<form type="variant">
+<pron>
+/st*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+sterner, sternest; sterns.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+stern
+</seg>
+, je zelo resen in strog. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nepopustljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sylvia had a stern father who never praised her.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sternly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He walked over and said to him sternly, &lsquo;Give that to me&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The stern of a boat 
+</seg>
+je zadnji del ladje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She seated herself in the stern.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pet
+</orth>
+<form type="variant">
+<pron>
+/p*et/
+</pron>
+</form>
+<form type="inflected">
+pets, petting, petted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pet 
+</seg>
+je &zcaron;ival, ki jo imamo v hi&scaron;i ali stanovanju, da nam dela dru&zcaron;bo in nas razveseljuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doma&ccaron;a &zcaron;ival, ljubljen&ccaron;ek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is against the rules to keep pets.
+</quote>
+<quote>
+...his pet dog.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je teorija ali t&eacute;ma 
+<seg type="lemma">
+pet
+</seg>
+, jo nekdo najbolj podpira ali mu je najbolj pri srcu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najljub&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were listening to a gardener with his pet theories.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pets a person or animal
+</seg>
+, neko osebo ali &zcaron;ival ne&zcaron;no treplja ali bo&zcaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubkovati, bo&zcaron;ati
+</quote>
+</cit>
+</sense>
+</entry>

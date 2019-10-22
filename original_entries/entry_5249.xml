@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fence
+</orth>
+<form type="variant">
+<pron>
+/f*ens/
+</pron>
+</form>
+<form type="inflected">
+fences, fencing, fenced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fence 
+</seg>
+je ovira, narejena iz lesa ali &zcaron;ice, ki jo podpirajo stebri ali koli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ograja, plot
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HOUSE AND FLAT
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fence an area of land 
+</seg>
+pomeni obdati zemlji&scaron;&ccaron;e z ograjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ograditi
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+fenced
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a fenced enclosure.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sit on the fence 
+</seg>
+pomeni izogibati se temu, da bi v razpravi ali sporu podprli katerokoli stran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati nepristranski
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fence in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fence something in 
+</seg>
+pomeni nekaj obdati z ograjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ograditi, utrditi
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fence off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fence off an area of land 
+</seg>
+pomeni postaviti ograjo okoli zemlji&scaron;&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddeliti z ograjo, ograditi
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

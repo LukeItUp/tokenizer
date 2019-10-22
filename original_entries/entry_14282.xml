@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+team
+</orth>
+<form type="variant">
+<pron>
+/t*i*:m/
+</pron>
+</form>
+<form type="inflected">
+teams, teaming, teamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A team 
+</seg>
+je skupina ljudi, ki igrajo skupaj proti drugi skupini v tekmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&scaron;tvo, ekipa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the New Zealand rugby team.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A team 
+</seg>
+je tudi skupina ljudi, ki delajo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skupina, mo&scaron;tvo, ekipa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a team of scientists.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+team up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To team up with someone 
+</seg>
+pomeni pridru&zcaron;iti se nekomu, da lahko nekaj naredimo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;iti se, delati skupaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He teamed up with a friend and set up a business doing interior decorating.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

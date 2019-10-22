@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sentiment
+</orth>
+<form type="variant">
+<pron>
+/s*entIm@2nt/
+</pron>
+</form>
+<form type="inflected">
+sentiments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sentiment 
+</seg>
+je odnos do ne&ccaron;esa, ob&ccaron;utek ali mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nazor, mnenje, razpolo&zcaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...anti-imperialist sentiment.
+</quote>
+<quote>
+These sentiments were generally echoed by other speakers at the meeting.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sentiment 
+</seg>
+je &ccaron;ustveno stanje kot razne&zcaron;enost, zaljubljenost ali &zcaron;alost, ki vpliva na &ccaron;lovekovo ved&ecirc;nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;ustvenost, sentimentalnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m worried that you might be doing it out of sentiment. Out of affection for me.
+</quote>
+</seg>
+</sense>
+</entry>

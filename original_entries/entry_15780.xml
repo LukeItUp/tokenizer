@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+warp
+</orth>
+<form type="variant">
+<pron>
+/w*O*:p/
+</pron>
+</form>
+<form type="inflected">
+warps, warping, warped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+warps 
+</seg>
+ali 
+<seg type="lemma">
+is warped
+</seg>
+, se tisto po&scaron;koduje zaradi upogibanja ali krivljenja, pogosto zaradi vpliva vro&ccaron;ine ali vode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zviti (se), skriviti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cabinet doors began to warp soon after they were installed.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+warped
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The wooden balconies were warped and weatherbeaten.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+warps someone&apos;s character
+</seg>
+, na nekoga vpliva tako, da njegov zna&ccaron;aj postane nenormalen ali slab. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man whose whole character was warped by being bullied.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A warp in time or space 
+</seg>
+je nami&scaron;ljen prelom ali nenadna sprememba normalnega do&zcaron;ivljanja &ccaron;asa ali prostora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popa&ccaron;enje, izkrivljenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There&apos;s a kind of time warp in his education.
+</quote>
+</seg>
+</sense>
+</entry>

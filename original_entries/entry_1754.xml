@@ -1,0 +1,136 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bug
+</orth>
+<form type="variant">
+<pron>
+/b*Vg/
+</pron>
+</form>
+<form type="inflected">
+bugs, bugging, bugged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bug 
+</seg>
+je majcena, zlasti &scaron;kodljiva &zcaron;u&zcaron;elka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hro&scaron;&ccaron;, stenica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bug 
+</seg>
+je tudi blaga bolezen, na primer prehlad, ki jo ljudje nalezejo drug od drugega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+infekcija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There must be a bug going around.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neki prostor 
+<seg type="lemma">
+bugged
+</seg>
+, so v njem skriti mikrofoni, s katerimi prislu&scaron;kujejo ali skrivaj snemajo pogovore v njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opremljen s skritimi mikrofoni
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+bugs someone
+</seg>
+, ga skrbi ali jezi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;reti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be bitten by a bug 
+</seg>
+pomeni, da se je tisti &ccaron;lovek nenadoma za nekaj mo&ccaron;no navdu&scaron;il; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ponoreti za &ccaron;im
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She's been bitten by the skiing bug.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

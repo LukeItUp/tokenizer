@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p3_s2127" id="p3_w25" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="85.38" y="91.868" base="97.03" width="19.3097" height="6.844">/æbs6</TOKEN>
+<TOKEN sid="p3_s2127" id="p3_w25" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="85.38" y="91.868" base="97.03" width="19.3097" height="6.844">/&#230;bs6</TOKEN>
 <TOKEN sid="p3_s2128" id="p3_w26" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="104.97" y="91.2195" base="94.63" width="2.39636" height="4.52176">2</TOKEN>
 <TOKEN sid="p3_s2129" id="p3_w27" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="107.56" y="91.868" base="97.03" width="11.9616" height="6.844">nt/.</TOKEN>
 </pron>
@@ -85,12 +85,12 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p3_s2175" id="p3_w73" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.56" y="127.644" base="133.34" width="15.601" height="7.552">…an</TOKEN>
+<TOKEN sid="p3_s2175" id="p3_w73" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.56" y="127.644" base="133.34" width="15.601" height="7.552">&#8230;an</TOKEN>
 <TOKEN sid="p3_s2176" id="p3_w74" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="221.801" y="127.644" base="133.34" width="21.9996" height="7.552">absent</TOKEN>
 <TOKEN sid="p3_s2177" id="p3_w75" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3904" y="136.724" base="142.42" width="18.6502" height="7.552">stare.</TOKEN>
 </quote>
 </seg>
-<sense>
+<re>
 <form type="lemma">
 <orth>
 <TOKEN sid="p3_s2179" id="p3_w77" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="89.54" y="136.724" base="142.42" width="29.2003" height="7.568">absently</TOKEN>
@@ -103,13 +103,13 @@
 </gramGrp>
 <seg type="example">
 <quote>
-<TOKEN sid="p3_s2181" id="p3_w79" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.29" y="136.724" base="142.42" width="14.7917" height="7.552">šDid</TOKEN>
-<TOKEN sid="p3_s2182" id="p3_w80" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.08" y="136.724" base="142.42" width="17.5982" height="7.552">you?’</TOKEN>
+<TOKEN sid="p3_s2181" id="p3_w79" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="134.29" y="136.724" base="142.42" width="14.7917" height="7.552">&#353;Did</TOKEN>
+<TOKEN sid="p3_s2182" id="p3_w80" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="151.08" y="136.724" base="142.42" width="17.5982" height="7.552">you?&#8217;</TOKEN>
 <TOKEN sid="p3_s2183" id="p3_w81" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.677" y="136.724" base="142.42" width="24.4008" height="7.552">Boylan</TOKEN>
 <TOKEN sid="p3_s2184" id="p3_w82" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.077" y="136.724" base="142.42" width="13.9925" height="7.552">said</TOKEN>
 <TOKEN sid="p3_s2185" id="p3_w83" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.068" y="136.724" base="142.42" width="29.975" height="7.552">absently.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

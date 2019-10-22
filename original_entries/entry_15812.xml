@@ -1,0 +1,250 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+water
+</orth>
+<form type="variant">
+<pron>
+/w*O*:t@/
+</pron>
+</form>
+<form type="inflected">
+waters, watering, watered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Water 
+</seg>
+je &ccaron;ista, brezbarvna teko&ccaron;ina brez okusa in vonja; je nujno potrebna za &zcaron;ivljenje vseh rastlin in &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a drink of water.
+</quote>
+<quote>
+Mammals can&apos;t breathe under water.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+water
+</seg>
+ ali 
+<seg type="variant">
+waters 
+</seg>
+uporabljamo, kadar govorimo o veliki koli&ccaron;ini ali obmo&ccaron;ju vode, na primer jezeru ali morju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voda, vodna povr&scaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children played at the water&apos;s edge.
+</quote>
+<quote>
+...the black waters of the Thames.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A country&apos;s waters 
+</seg>
+sestavlja vodna povr&scaron;ina blizu neke dr&zcaron;ave, za katero velja, da sodi k njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozemeljske vode
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ship was in British waters.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To water plants 
+</seg>
+pomeni naliti vodo na prst, da bi rastline dobro uspevale. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaliti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s eyes water 
+</seg>
+re&ccaron;emo, kadar ima &ccaron;lovek solze v o&ccaron;eh in ga zato pe&ccaron;ejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+solziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The onions made his eyes water.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s mouth waters 
+</seg>
+re&ccaron;emo, kadar v ustih nastaja ve&ccaron; sline, navadno zato, ker duhamo ali vidimo slastno hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cediti sline
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This should make your mouth water.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To pass water 
+</seg>
+pomeni izlo&ccaron;iti se&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mokriti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je neki dogodek 
+<seg type="lemma">
+water under the bridge
+</seg>
+, se je zgodil in ga ni mogo&ccaron;e spremeniti, zato nima smisla, da bi nas &scaron;e skrbelo zaradi njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preteklost
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+water down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To water down food or drink 
+</seg>
+pomeni dodati vodo hrani ali pija&ccaron;i, da postane bolj blaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razred&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The milk had been watered down.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar je govor ali na&ccaron;rt 
+<seg type="lemma">
+watered down
+</seg>
+, je poskrbljeno, da je manj silovit. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti, zmanj&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The whole article had been watered down.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

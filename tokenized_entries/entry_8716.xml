@@ -1,0 +1,47 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p458_s502350" id="p458_w831" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="399.282" base="405.69" width="28.9794" height="8.514">marital</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p458_s502351" id="p458_w832" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="285.22" y="400.528" base="405.69" width="26.8803" height="6.844">/m&#230;r&#203;t6</TOKEN>
+<TOKEN sid="p458_s502352" id="p458_w833" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="312.43" y="399.89" base="403.3" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p458_s502353" id="p458_w834" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="315.06" y="400.528" base="405.69" width="7.4416" height="6.844">l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p458_s502354" id="p458_w835" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="325.8" y="401.774" base="405.69" width="19.1847" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p458_s502355" id="p458_w836" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="347.26" y="401.774" base="405.69" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p458_s502356" id="p458_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.02" y="399.994" base="405.69" width="17.1979" height="7.552">Izraz</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p458_s502357" id="p458_w838" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.52" y="399.994" base="405.69" width="25.1914" height="7.552">marital</TOKEN>
+</seg>
+<TOKEN sid="p458_s502358" id="p458_w839" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="410.03" y="399.994" base="405.69" width="30.0024" height="7.552">ozna~uje</TOKEN>
+<TOKEN sid="p458_s502359" id="p458_w840" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="409.074" base="414.77" width="21.5957" height="7.552">stvari,</TOKEN>
+<TOKEN sid="p458_s502360" id="p458_w841" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="282.855" y="409.074" base="414.77" width="6.79608" height="7.552">ki</TOKEN>
+<TOKEN sid="p458_s502361" id="p458_w842" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.301" y="409.074" base="414.77" width="7.19928" height="7.552">so</TOKEN>
+<TOKEN sid="p458_s502362" id="p458_w843" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="302.151" y="409.074" base="414.77" width="31.603" height="7.552">povezane</TOKEN>
+<TOKEN sid="p458_s502363" id="p458_w844" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="336.404" y="409.074" base="414.77" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p458_s502364" id="p458_w845" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="342.654" y="409.074" base="414.77" width="31.999" height="7.552">zakonsko</TOKEN>
+<TOKEN sid="p458_s502365" id="p458_w846" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="377.304" y="409.074" base="414.77" width="20.8044" height="7.552">zvezo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p458_s502367" id="p458_w848" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="407.63" y="409.074" base="414.77" width="32.3885" height="7.552">zakonski;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p458_s502368" id="p458_w849" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="418.154" base="423.85" width="32.395" height="7.552">&#8230;marital</TOKEN>
+<TOKEN sid="p458_s502369" id="p458_w850" font-name="ssexcelsior" symbolic="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.005" y="418.154" base="423.85" width="33.0444" height="7.552">problems.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

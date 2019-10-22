@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gamble
+</orth>
+<form type="variant">
+<pron>
+/g*&ae;mb@0l/
+</pron>
+</form>
+<form type="inflected">
+gambles, gambling, gambled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gamble 
+</seg>
+je tvegano dejanje ali odlo&ccaron;itev v upanju na denar ali uspeh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;pekulacija, tvegana igra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We took a gamble, and lost.
+</quote>
+<quote>
+...a gamble that paid off for us.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was gambling on the assumption that the file had been lost.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gamble 
+</seg>
+pomeni staviti denar v neki igri ali staviti na dolo&ccaron;en izid dirke ali tekme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+igrati za denar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gambled heavily on the horses.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gambling
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He used the firm&apos;s money to pay off gambling debts.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+gambler
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a compulsive gambler.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

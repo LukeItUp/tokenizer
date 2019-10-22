@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+jail
+</orth>
+<form type="variant">
+<pron>
+/dZ*e*Il/
+</pron>
+</form>
+<form type="inflected">
+jails, jailing, jailed;
+</form>
+<SN>
+v zastareli britanski angle&scaron;&ccaron;ini se uporablja tudi zapis 
+<SV>
+gaol
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A jail 
+</seg>
+je prostor, kjer imajo ljudi zaklenjene, navadno zato, ker so bili obsojeni za storjeni zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+je&ccaron;a, zapor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went to jail for attempted robbery.
+</quote>
+<quote>
+...a heavy jail sentence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be jailed 
+</seg>
+pomeni, da nas zaprejo v je&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was jailed for five years.
+</quote>
+</seg>
+</sense>
+</entry>

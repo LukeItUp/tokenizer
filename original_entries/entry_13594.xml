@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+starch
+</orth>
+<form type="variant">
+<pron>
+/st*A*:tS/
+</pron>
+</form>
+<form type="inflected">
+starches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Starch 
+</seg>
+je snov, ki jo uporabljamo za utrjevanje tkanin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;krob, apretura
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Starch 
+</seg>
+je tudi ogljikov hidrat, ki ga najdemo v &zcaron;ivilih, na primer v kruhu, krompirju in ri&zcaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;krob
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cut down on the starches.
+</quote>
+</seg>
+</sense>
+</entry>

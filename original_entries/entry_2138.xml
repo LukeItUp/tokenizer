@@ -1,0 +1,265 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+centre
+</orth>
+<form type="variant">
+<pron>
+/s*ent@/
+</pron>
+</form>
+<form type="inflected">
+centres, centring, centred;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+center, centers, centering, centered
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The centre of something 
+</seg>
+je sredina ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He moved the table over to the centre of the room.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a black wig with a centre parting.
+</quote>
+<quote>
+The centre section was coloured pink.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A centre 
+</seg>
+je kraj, kjer se ljudje sestajajo, dobivajo pomo&ccaron; ali sodelujejo pri neki dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi&scaron;&ccaron;e, center
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a new arts centre.
+</quote>
+<quote>
+...the university's health centre.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neko obmo&ccaron;je ali mesto 
+<seg type="lemma">
+a centre for an industry or activity
+</seg>
+, je neka industrija ali dejavnost tam zelo pomembna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+center, sredi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The region began as a centre for sheep-farming.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The centre of a situation 
+</seg>
+je najpomembnej&scaron;a stvar v dolo&ccaron;enem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi&scaron;&ccaron;e, jedro, srce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Smith was right in the centre of the action.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+the centre of attention or interest
+</seg>
+, ljudje tistemu posve&ccaron;ajo veliko pozornosti ali se za tisto zanimajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was the centre of public admiration.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V politiki se 
+<seg type="lemma">
+the centre 
+</seg>
+nana&scaron;a na politi&ccaron;ne skupine in prepri&ccaron;anja, ki niso niti levi&ccaron;arska niti desni&ccaron;arska. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredinski
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a relatively small centre party called the Free Democrats.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+centred in a particular place
+</seg>
+, ima v tistem kraju svojo osrednjo enoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti sede&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were now centred in the new Royal Observatory at Greenwich.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+centre around 
+<VS>
+ali 
+</VS>
+<VV>
+centre on.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+centres around/on a person or thing
+</seg>
+, je tista oseba ali stvar poglavitna t&eacute;ma ali sredi&scaron;&ccaron;e pozornosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti se okoli koga ali &ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The workers' demands centred around pay and conditions.
+</quote>
+<quote>
+Attention was for the moment centred on Michael Simpson.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

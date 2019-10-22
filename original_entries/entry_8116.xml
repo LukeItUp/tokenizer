@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+latch
+</orth>
+<form type="variant">
+<pron>
+/l*&ae;tS/
+</pron>
+</form>
+<form type="inflected">
+latches, latching, latched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A latch 
+</seg>
+je kovinska palica na vratih ali lesi. Pritrjena je tako, da so vrata zapahnjena, ko pa jo dvignemo, jih odpremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapah
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To latch a door or gate 
+</seg>
+pomeni zapreti vrata ali leso z zapahom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapahniti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so vrata s klju&ccaron;avnico, ki se zaklepa samodejno, 
+<seg type="lemma">
+on the latch
+</seg>
+, je klju&ccaron;avnica nastavljena tako, da se takrat, ko vrata zapremo, ne zaklene samodejno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezaklenjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He closed the door and left it on the latch in case Tom had forgotten his key.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+latch onto.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To latch onto someone or something 
+</seg>
+pomeni zaplesti se z nekom ali ne&ccaron;im, ker nas to zanima ali nam koristi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prilepiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She latched onto someone with a family business.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

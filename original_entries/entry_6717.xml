@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+herd
+</orth>
+<form type="variant">
+<pron>
+/h*$e*:d/
+</pron>
+</form>
+<form type="inflected">
+herds, herding, herded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A herd 
+</seg>
+je velika skupina &zcaron;ivali ene vrste, ki &zcaron;ivijo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;reda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a herd of goats.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To herd people or animals 
+</seg>
+pomeni ljudi ali &zcaron;ivali prisiliti, da se premikajo v skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+goniti, zgnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...men herding cattle.
+</quote>
+<quote>
+The chained people were herded back into the dark cellar.
+</quote>
+</seg>
+</sense>
+</entry>

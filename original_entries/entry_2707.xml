@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+complement
+</orth>
+<form type="variant">
+<pron>
+/k*Qmpl@1m@2nt/
+</pron>
+</form>
+<form type="inflected">
+complements, complementing, complemented.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje ali stvari 
+<seg type="lemma">
+complement each another
+</seg>
+, se dobro ujemajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopolnjevati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Crisp pastry complements the juicy fruit of an apple pie.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The exercises are an ideal complement to my usual rehearsal methods.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V slovnici je 
+<seg type="lemma">
+a complement 
+</seg>
+eden od sestavnih delov stav&ccaron;ne zgradbe, ki daje podatke o osebku ali predmetu glagola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dopolnilo
+</quote>
+</cit>
+</sense>
+</entry>

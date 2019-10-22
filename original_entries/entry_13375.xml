@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+speciality
+</orth>
+<form type="variant">
+<pron>
+/speSj*&ae;lI1ti1/
+</pron>
+</form>
+<form type="inflected">
+specialities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s speciality 
+</seg>
+je vrsta dela, pri katerem je nekdo najbolj&scaron;i, ali podro&ccaron;je, o katerem ve najve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+specialnost, podro&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Work with children is their speciality.
+</quote>
+<quote>
+They enjoy talking about their own specialities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A speciality of a place 
+</seg>
+je tisto, kar v nekem kraju naredijo odli&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+specialiteta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chocolate gateau was a speciality of the Caf&eacute; de Rome.
+</quote>
+</seg>
+</sense>
+</entry>

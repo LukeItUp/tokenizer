@@ -1,0 +1,210 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brush
+</orth>
+<form type="variant">
+<pron>
+/br*VS/
+</pron>
+</form>
+<form type="inflected">
+brushes, brushing, brushed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A brush 
+</seg>
+je predmet, na katerega je pritrjeno veliko &scaron;tevilo &scaron;&ccaron;etin; uporablja se za pometanje, &ccaron;esanje ali pleskanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+omelo, krta&ccaron;a, &scaron;&ccaron;etka, &ccaron;opi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a paint brush.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brush something 
+</seg>
+pomeni nekaj &ccaron;istiti ali urejati s &scaron;&ccaron;etko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;etkati, krta&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm going to brush my teeth.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Give the carpet a hard brush.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brush something away 
+</seg>
+pomeni nekaj odstraniti tako, da stvar nalahno odrinemo z roko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potisniti stran; obrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She brushed back the hair from her eyes.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brush something 
+</seg>
+ali 
+<seg type="lemma">
+to brush against something 
+</seg>
+pomeni mimogrede se ne&ccaron;esa nalahno dotakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oplaziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The girl's hair brushed his cheek.
+</quote>
+<quote>
+An arm brushed against hers.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+brush aside.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To brush aside an idea, remark, or feeling 
+</seg>
+pomeni zavrniti, da bi razmi&scaron;ljali o tisti ideji, pripombi ali &ccaron;ustvu, ker se nam ne zdi pomembno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne upo&scaron;tevati, prezreti, ne meniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She brushed his protests aside.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+brush up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To brush up a subject 
+</seg>
+ali 
+<seg type="variant">
+to brush up on a subject 
+</seg>
+pomeni obnoviti ali izbolj&scaron;ati svoje v&eacute;denje o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osve&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They need to brush up their French.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

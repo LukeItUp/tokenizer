@@ -5,7 +5,7 @@ accusing
 </orth>
 <form type="variant">
 <pron>
-/@3kj*u*:zIN/.
+/@3kj*u*:zIN/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;e je &#269;lovekov izraz ali glas
+&Ccaron;e je &ccaron;lovekov izraz ali glas 
 <seg type="lemma">
 accusing
 </seg>
-ka&#382;e, da je po njegovem mnenju nekdo storil nekaj slabega.
+, ka&zcaron;e, da je po njegovem mnenju nekdo storil nekaj slabega. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-obto&#382;ujo&#269;
+obto&zcaron;ujo&ccaron;
 </quote>
 </cit>
 <seg type="example">
@@ -37,7 +37,6 @@ She gave him an accusing look.
 <orth>
 accusingly
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -45,7 +44,7 @@ ADV
 </gramGrp>
 <seg type="example">
 <quote>
-"You liked him," he said accusingly.
+&lsquo;You liked him,&rsquo; he said accusingly.
 </quote>
 </seg>
 </sense>

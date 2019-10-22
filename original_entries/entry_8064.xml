@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ladle
+</orth>
+<form type="variant">
+<pron>
+/l*e*Id@0l/
+</pron>
+</form>
+<form type="inflected">
+ladles, ladling, ladled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ladle 
+</seg>
+je &scaron;iroka, okrogla, globoka &zcaron;lica z dolgim ro&ccaron;ajem; z njo postre&zcaron;emo juho ali enolon&ccaron;nico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajemalka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ladle food 
+</seg>
+pomeni z zajemalko stre&ccaron;i, na primer juho ali enolon&ccaron;nico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajemati, deliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...ladling the soup into bowls.
+</quote>
+</seg>
+</sense>
+</entry>

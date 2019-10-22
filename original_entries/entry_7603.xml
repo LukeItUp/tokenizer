@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insufficient
+</orth>
+<form type="variant">
+<pron>
+/*Ins@f*IS@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+insufficient
+</seg>
+, za dolo&ccaron;en namen ne zadostuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezadosten, pomanjkljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Insufficient research has been done.
+</quote>
+<quote>
+These steps will be insufficient to change our economic decline.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+insufficiently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My hand had proved insufficiently strong to open the door.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

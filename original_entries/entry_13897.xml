@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subservient
+</orth>
+<form type="variant">
+<pron>
+/s@bs*$e*:vI@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be subservient 
+</seg>
+pomeni delati vse, kar od nas ho&ccaron;e nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretirano uslu&zcaron;en, servilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was subservient and eager to please.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+subservience
+</orth>
+<form type="variant">
+<pron>
+/s@bs*$e*:vI@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+How long would they keep us in subservience?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+subservient to another thing
+</seg>
+, jo obravnavamo kot manj pomembno od neke druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podrejen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Economic systems became subservient to social objectives.
+</quote>
+</seg>
+</sense>
+</entry>

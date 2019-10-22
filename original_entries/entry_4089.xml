@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distance
+</orth>
+<form type="variant">
+<pron>
+/d*Ist@ns/
+</pron>
+</form>
+<form type="inflected">
+distances.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The distance between two places 
+</seg>
+je koli&ccaron;ina prostora med dvema krajema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaljenost, razdalja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The town is some distance from the sea.
+</quote>
+<quote>
+Farmers were travelling long distances to get supplies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+at a distance from something
+</seg>
+ ali &ccaron;e nekaj vidi ali se spominja 
+<FV>
+from a distance
+</FV>
+, je dale&ccaron; od tistega v prostoru ali &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(od) dale&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+From a distance, he heard Jack's whisper.
+</quote>
+<quote>
+Remembering this disaster at a distance, I think that it was not her fault.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blessing
+</orth>
+<form type="variant">
+<pron>
+/bl*esIN/
+</pron>
+</form>
+<form type="inflected">
+blessings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blessing 
+</seg>
+je nekaj dobrega, za kar smo hvale&zcaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blagoslov, dobrina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Health is a blessing that money cannot buy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+with someone's blessing
+</seg>
+, tisti &ccaron;lovek na&scaron;e dejanje odobrava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blagoslov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She did it with the full blessing of her parents.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki dogodek 
+<seg type="lemma">
+a mixed blessing
+</seg>
+, ima tako dobre kot slabe strani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;a v nesre&ccaron;i
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

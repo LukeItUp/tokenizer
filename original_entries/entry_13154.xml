@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smoke
+</orth>
+<form type="variant">
+<pron>
+/sm*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+smokes, smoking, smoked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Smoke 
+</seg>
+je plin, v katerem so drobci trdnih snovi in ki uhaja v zrak, ko nekaj gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dim
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room was full of smoke.
+</quote>
+<quote>
+...cigarette smoke.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is smoking
+</seg>
+, iz tistega uhaja dim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Down below in the valleys the chimneys were smoking.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smoke a cigarette, cigar, or pipe 
+</seg>
+pomeni imeti v ustih cigareto, cigaro ali pipo in iz nje vle&ccaron;i dim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat and smoked and stared out of the window.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smoke 
+</seg>
+pomeni redno kaditi cigarete, cigare ali pipo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do you smoke?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+smoker
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a pipe smoker.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smoke fish or meat 
+</seg>
+pomeni obesiti ribe ali meso nad gore&ccaron; les, da bi jih dim konzerviral in jim dal zna&ccaron;ilni okus. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekaditi
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+smoked
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...smoked salmon.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

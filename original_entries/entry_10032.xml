@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overall,
+</orth>
+<form type="inflected">
+overalls;
+</form>
+<PN>
+pridevnik ali prislov izgovarjamo 
+<pron>
+/*@*Uv@r0*O*:l/
+</pron>
+, samostalnik pa 
+<pron>
+/*@*Uv@r0O:l/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+overall 
+</seg>
+poka&zcaron;emo, da govorimo o nekem dogajanju na splo&scaron;no ali o celoti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+splo&scaron;en, celoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the overall pattern of his life.
+</quote>
+<quote>
+The overall impression was of a smoky industrial city.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Overall, imports account for half of our stock.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Overalls 
+</seg>
+je obla&ccaron;ilo, pri katerem so hla&ccaron;e zdru&zcaron;ene z jopi&ccaron;em in ki ga nosimo prek drugih obla&ccaron;il, da so zavarovana, ko delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kombinezon, pajac
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An overall 
+</seg>
+je vrsta gornjega obla&ccaron;ila, ki jo nosimo prek drugih obla&ccaron;il, da so zavarovana, ko delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovna halja
+</quote>
+</cit>
+</sense>
+</entry>

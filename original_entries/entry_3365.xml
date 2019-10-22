@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+custody
+</orth>
+<form type="variant">
+<pron>
+/k*Vst@di1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Custody 
+</seg>
+je zakonita pravica do nege otroka, zlasti pravica, dodeljena otrokovemu o&ccaron;etu ali materi po lo&ccaron;itvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skrbni&scaron;tvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Divorce courts usually award custody to mothers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+in custody
+</seg>
+, je bil aretiran in bo ostal v zaporu, dokler mu ne bodo sodili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v priporu, zaprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people who have been quite wrongly held in custody.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

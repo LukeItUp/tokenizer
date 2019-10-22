@@ -5,7 +5,7 @@ agnostic
 </orth>
 <form type="variant">
 <pron>
-/#ae;gn*QstIk/
+/&ae;gn*QstIk/
 </pron>
 </form>
 <form type="inflected">
@@ -20,17 +20,16 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An agnostic
+An agnostic 
 </seg>
-je prepri&#269;an, da ni mogo&#269;e
-vedeti, ali bog obstaja ali ne.
+je prepri&ccaron;an, da ni mogo&ccaron;e vedeti, ali bog obstaja ali ne. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 agnostik, dvomljivec
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 ADJ
@@ -41,6 +40,6 @@ ADJ
 She remained agnostic.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

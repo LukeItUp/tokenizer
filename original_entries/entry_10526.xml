@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+photograph
+</orth>
+<form type="variant">
+<pron>
+/f*@*Ut@grA:f, -gr&ae;f/
+</pron>
+</form>
+<form type="inflected">
+photographs, photographing, photographed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A photograph 
+</seg>
+je slika, ki jo naredimo s fotografskim aparatom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fotografija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They contacted the police after seeing his photograph in a newspaper.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+photographs someone or something
+</seg>
+, uporabi fotografski aparat, da dobi sliko neke osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fotografirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She photographed the pigeons in Trafalgar Square.
+</quote>
+</seg>
+</sense>
+</entry>

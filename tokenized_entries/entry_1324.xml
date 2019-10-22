@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p64_s69785" id="p64_w392" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="499.152" base="505.56" width="16.6298" height="8.514">Biro</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p64_s69786" id="p64_w393" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="72.89" y="500.398" base="505.56" width="29.5416" height="6.844">/ba&#203;r6&#205;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p64_s69787" id="p64_w394" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="104.18" y="500.22" base="505.56" width="18.3803" height="7.08">Biros.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p64_s69788" id="p64_w395" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="124.31" y="501.644" base="505.56" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p64_s69789" id="p64_w396" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="144.487" y="501.644" base="505.56" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p64_s69790" id="p64_w397" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.36" y="499.864" base="505.56" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p64_s69791" id="p64_w398" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.71" y="499.864" base="505.56" width="14.6621" height="7.552">Biro</TOKEN>
+</seg>
+<TOKEN sid="p64_s69792" id="p64_w399" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.12" y="499.864" base="505.56" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p64_s69793" id="p64_w400" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.866" y="499.864" base="505.56" width="27.1901" height="7.552">kemi~ni</TOKEN>
+<TOKEN sid="p64_s69794" id="p64_w401" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.806" y="499.864" base="505.56" width="30.7886" height="7.552">svin~nik;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p64_s69795" id="p64_w402" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.18" y="508.944" base="514.64" width="31.207" height="7.552">blagovna</TOKEN>
+<TOKEN sid="p64_s69796" id="p64_w403" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.3871" y="508.944" base="514.64" width="28.8029" height="7.552">znamka.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p64_s69798" id="p64_w405" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="130.42" y="508.944" base="514.64" width="15.5894" height="7.552">kuli,</TOKEN>
+<TOKEN sid="p64_s69799" id="p64_w406" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.008" y="508.944" base="514.64" width="27.1858" height="7.552">kemi~ni</TOKEN>
+<TOKEN sid="p64_s69800" id="p64_w407" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.193" y="508.944" base="514.64" width="28.7827" height="7.552">svin~nik</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

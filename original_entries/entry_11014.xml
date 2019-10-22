@@ -1,0 +1,40 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pressed
+</orth>
+<form type="variant">
+<pron>
+/pr*est/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+pressed for money
+</seg>
+ ali 
+<seg type="lemma">
+pressed for time
+</seg>
+, nima dovolj denarja ali &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v denarni/&ccaron;asovni stiski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always pressed for money.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+residential
+</orth>
+<form type="variant">
+<pron>
+/r*ezId*enS@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V delu mesta, ki je 
+<seg type="lemma">
+residential
+</seg>
+, so predvsem stanovanjske stavbe, ne pa pisarne ali tovarne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stanovanjski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...fashionable residential suburbs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ustanova je 
+<seg type="lemma">
+residential
+</seg>
+, kadar lahko v njej med &scaron;tudijem ali zdravljenjem tudi stanujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z internatom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...residential colleges.
+</quote>
+</seg>
+</sense>
+</entry>

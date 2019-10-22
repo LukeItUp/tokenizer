@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bloom
+</orth>
+<form type="variant">
+<pron>
+/bl*u*:m/
+</pron>
+</form>
+<form type="inflected">
+blooms, blooming, bloomed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Na rastlini je 
+<seg type="lemma">
+a bloom
+</seg>
+ tisti del, ki cveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cvet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...great scarlet hibiscus blooms.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Rastlina, ki je 
+<seg type="lemma">
+in bloom
+</seg>
+, je polna cvetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cveto&ccaron;
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar rastlina 
+<seg type="lemma">
+blooms
+</seg>
+, po&zcaron;ene cvetove. Kadar ro&zcaron;a 
+<seg type="lemma">
+blooms
+</seg>
+, se cvetni popek odpre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cveteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This variety of rose blooms late into the autumn.
+</quote>
+</seg>
+</sense>
+</entry>

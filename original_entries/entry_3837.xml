@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dictation
+</orth>
+<form type="variant">
+<pron>
+/dIkt*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+dictations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dictation 
+</seg>
+je glasno govorjenje besed zato, da jih nekdo drug zapi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jill took down a story from Frank's dictation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dictation 
+</seg>
+je preskus znanja tujega jezika, pri katerem napi&scaron;emo besedilo, ki nam ga glasno preberejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narek
+</quote>
+</cit>
+</sense>
+</entry>

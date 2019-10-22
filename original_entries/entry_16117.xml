@@ -1,0 +1,205 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wonder
+</orth>
+<form type="variant">
+<pron>
+/w*Vnd@/
+</pron>
+</form>
+<form type="inflected">
+wonders, wondering, wondered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wonder about something 
+</seg>
+pomeni razmi&scaron;ljati o ne&ccaron;em in o tistem posku&scaron;ati kaj uganiti ali tisto bolje razumeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmi&scaron;ljati, spra&scaron;evati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I keep wondering and worrying about what you said.
+</quote>
+<quote>
+I wonder what she&apos;ll look like.
+</quote>
+<quote>
+I am beginning to wonder why we ever invited them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wonder at something 
+</seg>
+pomeni biti presene&ccaron;en in osupel ob ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;uditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wondered at her strength.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj, kar se je zgodilo, 
+<seg type="lemma">
+a wonder
+</seg>
+, ho&ccaron;emo povedati, da je zelo presenetljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;ude&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was a wonder that she managed to come.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Wonder 
+</seg>
+je ob&ccaron;utek presene&ccaron;enja in osuplosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;udenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...exclamations of wonder.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wonder 
+</seg>
+je nekaj osupljivega, kar ljudje ob&ccaron;udujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;ude&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the wonders of modern technology.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazi 
+<seg type="lemma">
+no wonder
+</seg>
+, 
+<FV>
+little wonder
+</FV>
+ ali 
+<FV>
+small wonder 
+</FV>
+povemo, da nas nekaj ne presene&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; &ccaron;udnega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Little wonder that today we are in such a mess.
+</quote>
+<quote>
+&lsquo;Anyway, he didn&apos;t win.&rsquo;&mdash;&lsquo;No wonder.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+works wonders 
+</seg>
+ali 
+<FV>
+does wonders
+</FV>
+, ima zelo dober u&ccaron;inek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati &ccaron;ude&zcaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A whisky at the end of the day will sometimes work wonders.
+</quote>
+<quote>
+The doctors have done wonders for your leg.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

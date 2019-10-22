@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+buyer
+</orth>
+<form type="variant">
+<pron>
+/b*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+buyers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A buyer 
+</seg>
+je &ccaron;lovek, ki nekaj kupuje ali namerava kupiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kupec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have a buyer for the house.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A buyer 
+</seg>
+je tudi &ccaron;lovek, zaposlen v kak&scaron;ni veliki trgovini, zato da odlo&ccaron;a, katere izdelke bodo za nadaljnjo prodajo kupovali od izdelovalcev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nabavni referent
+</quote>
+</cit>
+</sense>
+</entry>

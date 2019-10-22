@@ -1,0 +1,341 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sign
+</orth>
+<form type="variant">
+<pron>
+/s*a*In/
+</pron>
+</form>
+<form type="inflected">
+signs, signing, signed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sign 
+</seg>
+je znamenje ali lik s posebnim pomenom, na primer v matematiki ali glasbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a minus sign.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sign 
+</seg>
+je gib roke ali glave s konkretnim pomenom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znak, znamenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Through signs she communicated that she wanted the women to hide.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sign 
+</seg>
+je tudi kos lesa, kovine ali plastike, na katerem so besede ali slike, ki posredujejo podatke ali navodila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The exit sign is marked with an arrow.
+</quote>
+<quote>
+A sign saying &lsquo;Women&apos;s Centre&rsquo; hung over the door.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sign of something 
+</seg>
+je dokaz, da tisto obstaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znamenje, znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How pleasant to see a sign of summer once again.
+</quote>
+<quote>
+The Englishman showed no signs of his annoyance.
+</quote>
+<quote>
+His sores had begun to show signs of healing.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sign a document 
+</seg>
+pomeni napisati svoje ime na dokument. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sign your name in the book.
+</quote>
+<quote>
+Sign here to acknowledge receipt.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sign away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sign something away 
+</seg>
+pomeni podpisati uradne dokumente, s katerimi potrjujemo, da nimamo ve&ccaron; pravice do ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uradno se odpovedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chiefs were encouraged to sign away land that appeared to be unoccupied.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sign for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sign for something 
+</seg>
+pomeni s podpisom obrazca uradno potrditi, da smo nekaj dobili ali sprejeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpisati prejem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When signing for any parcel, always add &lsquo;not inspected&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sign in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sign in 
+</seg>
+pomeni podpisati se v knjigo gostov v hotelu ali klubu in tako potrditi svoj prihod. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They signed in at the reception desk.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sign on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To sign on for a job or course 
+</seg>
+ali 
+<seg type="variant">
+to sign up for a job or course 
+</seg>
+pomeni uradno sprejeti delovno mesto ali se prijaviti za &scaron;tudij ali te&ccaron;aj in o tem podpisati pogodbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se, sprejeti (delovno) mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He signed on the next morning with the RAF.
+</quote>
+<quote>
+You could sign on for a course in word processing.
+</quote>
+<quote>
+He signed up as a painter on the Federal Art Project.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To sign on 
+</seg>
+pomeni uradno izjaviti, da smo nezaposleni, tako da od dr&zcaron;ave dobivamo denarno podporo; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se kot nezaposlen
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sign out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sign out 
+</seg>
+pomeni s podpisom v knjigi gostov uradno potrditi, da odhajamo iz hotela ali kluba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odjaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sign up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+sign on 1.
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

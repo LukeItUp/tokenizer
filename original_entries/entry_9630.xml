@@ -1,0 +1,169 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nose
+</orth>
+<form type="variant">
+<pron>
+/n*@*Uz/
+</pron>
+</form>
+<form type="inflected">
+noses, nosing, nosed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s nose 
+</seg>
+je tisti del &ccaron;love&scaron;kega obraza, s katerim vohamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Johnny punched me in the nose.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The nose of a plane 
+</seg>
+je sprednji del letala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nos (letala)
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+under one&apos;s nose
+</seg>
+, se dogaja pred &ccaron;lovekom in bi mu moralo biti o&ccaron;itno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pred nosom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cheating was going on under the teacher&apos;s nose.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pokes his nose into something
+</seg>
+, se vme&scaron;ava v tisto zadevo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vtikati nos v kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been sent to poke his nose into their business.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pays through the nose for something
+</seg>
+, nekaj pla&ccaron;a po zelo visoki ceni; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prepla&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Country people have to pay through the nose for their goods.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+nose about 
+<VS>
+ali 
+</VS>
+<VV>
+nose around.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+noses about 
+</seg>
+ali 
+<seg type="variant">
+noses around
+</seg>
+, si ogleduje neki prostor ali kraj, da bi na&scaron;el kaj zanimivega; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vohljati naokoli, pasti radovednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He nosed about among the boilers.
+</quote>
+<quote>
+Stay outside the door and see that no one comes nosing around.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

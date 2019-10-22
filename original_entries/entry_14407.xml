@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+testimony
+</orth>
+<form type="variant">
+<pron>
+/t*estIm@ni1/
+</pron>
+</form>
+<form type="inflected">
+testimonies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Testimony 
+</seg>
+je uradna izjava, ki jo damo na sodi&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Three women backed up her testimony.
+</quote>
+<quote>
+Philip gave testimony against his own brother.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+a testimony to another thing
+</seg>
+, ka&zcaron;e, da druga stvar obstaja ali je resni&ccaron;na; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pri&ccaron;evanje, dokaz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is spectacular testimony to the computer&apos;s creative powers.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p140_s152670" id="p140_w153" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="227.032" base="233.44" width="33.0817" height="8.514">concept</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p140_s152671" id="p140_w154" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="91.33" y="228.278" base="233.44" width="35.8416" height="6.844">/k&#201;nsept/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p140_s152672" id="p140_w155" font-name="SSUnivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="130.88" y="228.1" base="233.44" width="31.1742" height="7.08">concepts.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p140_s152673" id="p140_w156" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="165.78" y="229.524" base="233.44" width="19.2901" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p140_s152674" id="p140_w157" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="187.609" y="229.524" base="233.44" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p140_s152675" id="p140_w158" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="195.41" y="227.744" base="233.44" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p140_s152676" id="p140_w159" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.72" y="227.744" base="233.44" width="27.059" height="7.552">concept</TOKEN>
+</seg>
+<TOKEN sid="p140_s152677" id="p140_w160" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.49" y="227.744" base="233.44" width="6.10992" height="7.552">je</TOKEN>
+<TOKEN sid="p140_s152678" id="p140_w161" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1803" y="236.814" base="242.51" width="25.5917" height="7.552">zamisel</TOKEN>
+<TOKEN sid="p140_s152679" id="p140_w162" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="87.4323" y="236.814" base="242.51" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p140_s152680" id="p140_w163" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="97.8896" y="236.814" base="242.51" width="37.1959" height="7.552">abstraktno</TOKEN>
+<TOKEN sid="p140_s152681" id="p140_w164" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="136.746" y="236.814" base="242.51" width="24.0005" height="7.552">na~elo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p140_s152683" id="p140_w166" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="168.29" y="236.814" base="242.51" width="22.7952" height="7.552">pojem,</TOKEN>
+<TOKEN sid="p140_s152684" id="p140_w167" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="192.744" y="236.814" base="242.51" width="29.1931" height="7.552">koncept;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p140_s152685" id="p140_w168" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="223.6" y="236.814" base="242.51" width="18" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p140_s152686" id="p140_w169" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="245.884" base="251.58" width="25.6766" height="7.552">concept</TOKEN>
+<TOKEN sid="p140_s152687" id="p140_w170" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="87.3361" y="245.884" base="251.58" width="6.27984" height="7.552">of</TOKEN>
+<TOKEN sid="p140_s152688" id="p140_w171" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.0955" y="245.884" base="251.58" width="17.5162" height="7.552">trade</TOKEN>
+<TOKEN sid="p140_s152689" id="p140_w172" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="114.091" y="245.884" base="251.58" width="32.6275" height="7.552">unionism.</TOKEN>
+</quote>
+<quote>
+<TOKEN sid="p140_s152690" id="p140_w173" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="148.189" y="245.884" base="251.58" width="8.27424" height="7.552">Of</TOKEN>
+<TOKEN sid="p140_s152691" id="p140_w174" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.943" y="245.884" base="251.58" width="23.2718" height="7.552">course,</TOKEN>
+<TOKEN sid="p140_s152692" id="p140_w175" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="182.694" y="245.884" base="251.58" width="10.0339" height="7.552">it's</TOKEN>
+<TOKEN sid="p140_s152693" id="p140_w176" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.198" y="245.884" base="251.58" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p140_s152694" id="p140_w177" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="199.678" y="245.884" base="251.58" width="26.0107" height="7.552">difficult</TOKEN>
+<TOKEN sid="p140_s152695" id="p140_w178" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="227.168" y="245.884" base="251.58" width="14.4403" height="7.552">con-</TOKEN>
+<TOKEN sid="p140_s152696" id="p140_w179" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="254.964" base="260.66" width="16.3987" height="7.552">cept.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

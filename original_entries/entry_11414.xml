@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quotation
+</orth>
+<form type="variant">
+<pron>
+/kw@Ut*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+quotations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quotation 
+</seg>
+je stavek ali besedna zveza iz neke knjige, pesmi ali igre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navedek, citat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a quotation from a novel by Somerset Maugham.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To give someone a quotation
+</seg>
+ pomeni, da tistemu &ccaron;loveku povemo, koliko mu bomo ra&ccaron;unali za dolo&ccaron;eno delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponudba z navedbo cene
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They submitted quotations and agreed prices.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,392 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fight
+</orth>
+<form type="variant">
+<pron>
+/f*a*It/
+</pron>
+</form>
+<form type="inflected">
+fights, fighting, fought
+</form>
+<form type="variant">
+<pron>
+/f*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fight something 
+</seg>
+pomeni, da si odlo&ccaron;no prizadevamo nekaj prepre&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojevati se proti &ccaron;emu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t fight against progress.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the fight against illegal drugs.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fight for something 
+</seg>
+pomeni, da si odlo&ccaron;no prizadevamo nekaj dobiti ali dose&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojevati se za nekaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They will fight for their rights.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the fight for equality.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fight 
+</seg>
+pomeni posku&scaron;ati telesno po&scaron;kodovati drugega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bojevati se, tepsti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I learned how to fight other boys.
+</quote>
+<quote>
+He had fought in the First World War.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fighting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We were only metres away from the fighting.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fight 
+</seg>
+je polo&zcaron;aj, v katerem ljudje drug drugega posku&scaron;ajo zadeti ali telesno po&scaron;kodovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boj, pretep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There would be fights sometimes between the workers.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fight about something 
+</seg>
+pomeni prepirati se o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepirati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They fought about money.
+</quote>
+<quote>
+It&apos;s nice not having to fight you about housework.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar politiki 
+<seg type="lemma">
+fight an election
+</seg>
+, posku&scaron;ajo zmagati na volitvah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kandidirati
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fight an emotion or desire 
+</seg>
+pomeni mo&ccaron;no se truditi, da ne bi ob&ccaron;utili ali pokazali &ccaron;ustva ali &zcaron;elje ali ravnali v skladu s tistim &ccaron;ustvom ali &zcaron;eljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatirati, tla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He fought the urge to cry.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To fight one&apos;s way somewhere 
+</seg>
+pomeni s te&zcaron;avo nekam priti, navadno zato, ker nas ovira veliko ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utreti/izbojevati si pot
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put up a fight 
+</seg>
+pomeni zelo se bojevati proti &ccaron;loveku, mo&ccaron;nej&scaron;emu od nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogumno se bojevati
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fight back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fight back against someone 
+</seg>
+pomeni truditi se, da bi se zavarovali pred &ccaron;lovekom, ki nas je napadel ali nam povzro&ccaron;il te&zcaron;ave, in ga ustaviti ali premagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+braniti se, upirati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The importing countries could fight back with laws of their own.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fight back an emotion 
+</seg>
+pomeni mo&ccaron;no se truditi, da nekega &ccaron;ustva ne bi ob&ccaron;utili, pokazali ali se ravnali ravnali v skladu z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potla&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She fought back the tears.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fight off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fight off something 
+</seg>
+pomeni, da nam nekaj, na primer bolezen ali neprijeten ob&ccaron;utek, uspe odgnati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odbiti, ubraniti; pregnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can fight off most minor ailments.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fight off someone 
+</seg>
+pomeni uspe&scaron;no odgnati nekoga, ki nas je napadel, tako da se bojujemo z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odbiti, ubraniti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fight out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar dve osebi ali skupini 
+<seg type="lemma">
+fight something out
+</seg>
+, se bojujeta ali prepirata, dokler ena od njiju ne zmaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbojevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...while the European nations were fighting it out on the battlefield.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

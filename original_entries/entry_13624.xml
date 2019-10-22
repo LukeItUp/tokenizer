@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+statistic
+</orth>
+<form type="variant">
+<pron>
+/st@t*IstIk/
+</pron>
+</form>
+<form type="inflected">
+statistics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Statistics 
+</seg>
+so dejstva, ki jih dobimo z raz&ccaron;lenjevanjem podatkov, izra&zcaron;enih s &scaron;tevilkami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+statistika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...divorce statistics.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Statistics 
+</seg>
+je matemati&ccaron;na veja, ki se ukvarja s preu&ccaron;evanjem podatkov, izra&zcaron;enih s &scaron;tevilkami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+statistika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I teach statistics.
+</quote>
+</seg>
+</sense>
+</entry>

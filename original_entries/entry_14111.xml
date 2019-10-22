@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sweetheart
+</orth>
+<form type="variant">
+<pron>
+/sw*i*:thA:t/
+</pron>
+</form>
+<form type="inflected">
+sweethearts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+sweetheart 
+</seg>
+nagovorimo nekoga, ki ga imamo zelo radi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sr&ccaron;ek, ljub&ccaron;ek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Someone&apos;s sweetheart 
+</seg>
+je dekle ali fant, s katerim nekdo hodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ljubezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He married his childhood sweetheart.
+</quote>
+</seg>
+</sense>
+</entry>

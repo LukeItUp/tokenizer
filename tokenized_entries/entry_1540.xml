@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p75_s82165" id="p75_w600" font-name="ssunivers" symbolic="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="82.242" base="88.65" width="31.3426" height="8.514">boulder</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p75_s82166" id="p75_w601" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="288.53" y="83.488" base="88.65" width="30.1616" height="6.844">/b6&#205;ld6/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p75_s82167" id="p75_w602" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="320.74" y="83.31" base="88.65" width="29.9984" height="7.08">boulders.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p75_s82168" id="p75_w603" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="352.78" y="84.734" base="88.65" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p75_s82169" id="p75_w604" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="373.157" y="84.734" base="88.65" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p75_s82170" id="p75_w605" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="379.32" y="82.954" base="88.65" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p75_s82171" id="p75_w606" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.961" y="82.954" base="88.65" width="26.3866" height="7.552">boulder</TOKEN>
+</seg>
+<TOKEN sid="p75_s82172" id="p75_w607" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="415.4" y="82.954" base="88.65" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p75_s82173" id="p75_w608" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.437" y="82.954" base="88.65" width="18.7956" height="7.552">velik,</TOKEN>
+<TOKEN sid="p75_s82174" id="p75_w609" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="92.014" base="97.71" width="28.7899" height="7.552">zaobljen</TOKEN>
+<TOKEN sid="p75_s82175" id="p75_w610" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="291.599" y="92.014" base="97.71" width="24.7968" height="7.552">kamen.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p75_s82177" id="p75_w612" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.64" y="92.014" base="97.71" width="23.1984" height="7.552">balvan</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

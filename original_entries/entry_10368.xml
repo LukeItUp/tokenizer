@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pencil
+</orth>
+<form type="variant">
+<pron>
+/p*ens@0l/
+</pron>
+</form>
+<form type="inflected">
+pencils, pencilling, pencilled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pencil 
+</seg>
+je lesena pali&ccaron;ica z grafitnim vlo&zcaron;kom na sredini; z njo pi&scaron;emo ali ri&scaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svin&ccaron;nik
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pencils something
+</seg>
+, nekaj napi&scaron;e s svin&ccaron;nikom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napisati s svin&ccaron;nikom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pencilled his initials at the end.
+</quote>
+</seg>
+</sense>
+</entry>

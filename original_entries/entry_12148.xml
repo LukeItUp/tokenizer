@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+room
+</orth>
+<form type="variant">
+<pron>
+/r*u*:m/
+</pron>
+</form>
+<form type="inflected">
+rooms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A room 
+</seg>
+je eden izmed lo&ccaron;enih delov v stavbi; ima stene, strop in vrata. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room contained a couch and a glass cabinet.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekje obstaja 
+<seg type="lemma">
+room for something
+</seg>
+, je tam dovolj prostora za dolo&ccaron;eno stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There wasn&apos;t enough room for everybody.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar obstaja 
+<seg type="lemma">
+room for a particular kind of behaviour
+</seg>
+, je dolo&ccaron;eno ved&ecirc;nje sprejemljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prostor, mo&zcaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There ought to be room for differences of opinion.
+</quote>
+<quote>
+There is room for much more research.
+</quote>
+</seg>
+</sense>
+</entry>

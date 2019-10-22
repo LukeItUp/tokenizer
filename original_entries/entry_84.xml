@@ -15,22 +15,21 @@ acclaims, acclaiming, acclaimed.
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To be acclaimed
+To be acclaimed 
 </seg>
-pomeni, da tistega &#269;loveka
-ljudje navdu&#353;eno hvalijo;
+pomeni, da tistega &ccaron;loveka ljudje navdu&scaron;eno hvalijo; 
 </def>
 <usg>
-knji&#382;na raba.
+knji&zcaron;na raba.
 </usg>
 <cit type="translationEquivalent">
 <quote>
@@ -42,7 +41,7 @@ biti hvaljen/odobravan
 He has been widely acclaimed for his paintings.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 UNCOUNT N
@@ -53,6 +52,6 @@ UNCOUNT N
 His book was published in 1919 and met with unusual acclaim.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

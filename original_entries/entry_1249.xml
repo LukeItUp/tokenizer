@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+benign
+</orth>
+<form type="variant">
+<pron>
+/bi1n*a*In/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+benign
+</seg>
+, je prijazen, mil in ne&scaron;kodljiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blag, ljubezniv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are among the most benign people on earth.
+</quote>
+<quote>
+His face was calm and benign.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+benignly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He smiled benignly at his guest.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Bolezen ali snov, ki je 
+<seg type="lemma">
+benign
+</seg>
+, ne povzro&ccaron;i smrti ali huj&scaron;e &scaron;kode; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nenevaren, benigen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...women with benign breast disease.
+</quote>
+</seg>
+</sense>
+</entry>

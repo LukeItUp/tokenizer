@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p332_s364968" id="p332_w1082" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="589.932" base="596.34" width="37.0497" height="8.514">guidance</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p332_s364969" id="p332_w1083" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="292.1" y="591.178" base="596.34" width="21.0901" height="6.844">/ga&#203;d6</TOKEN>
+<TOKEN sid="p332_s364970" id="p332_w1084" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="313.52" y="590.54" base="593.95" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p332_s364971" id="p332_w1085" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="316.15" y="591.178" base="596.34" width="12.5116" height="6.844">ns/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p332_s364972" id="p332_w1086" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="330.78" y="592.424" base="596.34" width="27.2082" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p332_s364973" id="p332_w1087" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="359.447" y="592.424" base="596.34" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p332_s364974" id="p332_w1088" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="365.69" y="590.644" base="596.34" width="32.791" height="7.552">Guidance</TOKEN>
+</seg>
+<TOKEN sid="p332_s364975" id="p332_w1089" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="400.59" y="590.644" base="596.34" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p332_s364976" id="p332_w1090" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="408.705" y="590.644" base="596.34" width="22.4006" height="7.552">pomo~</TOKEN>
+<TOKEN sid="p332_s364977" id="p332_w1091" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.225" y="590.644" base="596.34" width="6.79536" height="7.552">in</TOKEN>
+<TOKEN sid="p332_s364978" id="p332_w1092" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="599.724" base="605.42" width="23.279" height="7.552">nasvet.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p332_s364980" id="p332_w1094" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="289.14" y="599.724" base="605.42" width="28.7597" height="7.552">napotek,</TOKEN>
+<TOKEN sid="p332_s364981" id="p332_w1095" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="319.379" y="599.724" base="605.42" width="30.6403" height="7.552">navodilo;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p332_s364982" id="p332_w1096" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="351.5" y="599.724" base="605.42" width="37.0339" height="7.552">&#8230;guidance</TOKEN>
+<TOKEN sid="p332_s364983" id="p332_w1097" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="390.014" y="599.724" base="605.42" width="15.4966" height="7.552">from</TOKEN>
+<TOKEN sid="p332_s364984" id="p332_w1098" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.991" y="599.724" base="605.42" width="8.28144" height="7.552">an</TOKEN>
+<TOKEN sid="p332_s364985" id="p332_w1099" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.753" y="599.724" base="605.42" width="23.2718" height="7.552">expert.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

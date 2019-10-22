@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+outline
+</orth>
+<form type="variant">
+<pron>
+/*a*UtlaIn/
+</pron>
+</form>
+<form type="inflected">
+outlines, outlining, outlined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To outline an idea or plan 
+</seg>
+pomeni v grobih obrisih razlo&zcaron;iti zamisel ali na&ccaron;rt. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skicirati, na kratko predstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I outlined my reasons.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An outline 
+</seg>
+je splo&scaron;na razlaga ali opis &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oris
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a brief outline of European art.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar predmet 
+<seg type="lemma">
+is outlined
+</seg>
+, vidimo njegovo splo&scaron;no obliko, ker je za njim vir svetlobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti viden v obrisu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was clearly outlined in the light of a lamp.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An outline of something 
+</seg>
+je splo&scaron;na oblika ne&ccaron;esa, zlasti kadar tistega ne vidimo dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obris, silhueta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He saw the outline of a house against the sky.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,291 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shoot
+</orth>
+<form type="variant">
+<pron>
+/S*u*:t/
+</pron>
+</form>
+<form type="inflected">
+shoots, shooting, shot
+</form>
+<form type="variant">
+<pron>
+/S*Qt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot 
+</seg>
+pomeni pritisniti na spro&zcaron;ilec pri pu&scaron;ki ali pi&scaron;toli, da iz nje odleti naboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+streljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were told to shoot first and ask questions later.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot a person or animal 
+</seg>
+pomeni ubiti ali po&scaron;kodovati &ccaron;loveka ali &zcaron;ival s strelom iz pu&scaron;ke ali pi&scaron;tole. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustreliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He shot his wife and then shot himself.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot an arrow 
+</seg>
+pomeni z lokom izstreliti pu&scaron;&ccaron;ico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izstreliti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot in a particular direction 
+</seg>
+pomeni premakniti se v dolo&ccaron;eno smer hitro in nenadoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti, &scaron;vigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She shot back into the room.
+</quote>
+<quote>
+He shot out his hand and stopped the child from falling.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot a glance at someone 
+</seg>
+pomeni nekoga hitro in za kratek &ccaron;as pogledati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+oplaziti s pogledom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He shot a suspicious glare at me.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar film 
+<seg type="lemma">
+is shot
+</seg>
+, s filmsko kamero naredijo posnetke zanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+snemati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of the film was shot in Spain.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shoot 
+</seg>
+je rastlina, ki za&ccaron;enja rasti, ali nov del, ki raste iz drevesa ali druge rastline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poganjek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A few tender shoots had started to appear.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+shot.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+shoot on sight: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+sight.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shoot down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shoot down an aeroplane or helicopter 
+</seg>
+pomeni streljati na letalo ali helikopter in ga zadeti, tako da se zru&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestreliti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+shoot up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+shoots up
+</seg>
+, hitro zraste ali se pove&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naglo narasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The inflation rate shot up from 30% to 48%.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

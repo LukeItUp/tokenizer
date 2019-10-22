@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+epileptic
+</orth>
+<form type="variant">
+<pron>
+/*epIl*eptIk/
+</pron>
+</form>
+<form type="inflected">
+epileptics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+epileptic
+</seg>
+, trpi za bo&zcaron;jastjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bo&zcaron;jasten, epilepti&ccaron;en
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He is an epileptic.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Epileptic 
+</seg>
+je tudi tisto, kar povzro&ccaron;i bo&zcaron;jast. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bo&zcaron;jasten, epilepti&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an epileptic fit.
+</quote>
+</seg>
+</sense>
+</entry>

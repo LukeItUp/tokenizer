@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+steal
+</orth>
+<form type="variant">
+<pron>
+/st*i*:l/
+</pron>
+</form>
+<form type="inflected">
+steals, stealing, stole 
+<pron>
+/st*@*Ul/
+</pron>
+, 
+<form type="inflected">
+stolen 
+<pron>
+/st*@*Ul@0n/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To steal something 
+</seg>
+pomeni nekomu nekaj odvzeti brez njegovega privoljenja in brez namere, da bi tisto vrnili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukrasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stole knives and a gun.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stealing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had been expelled from his previous school for stealing.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+stolen
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...stolen credit cards.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To steal somewhere 
+</seg>
+pomeni tiho in previdno se nekam premakniti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prikrasti se, odkrasti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Simon came stealing out of the shadows.
+</quote>
+</seg>
+</sense>
+</entry>

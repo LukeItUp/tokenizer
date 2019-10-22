@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+differentiate
+</orth>
+<form type="variant">
+<pron>
+/d*If@r*enSIeIt/
+</pron>
+</form>
+<form type="inflected">
+differentiates, differentiating, differentiated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;between&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To differentiate between things 
+</seg>
+pomeni poznati ali pokazati razliko med stvarmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlikovati, razlo&ccaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How can you differentiate between moral and religious questions?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e neka lastnost 
+<seg type="lemma">
+differentiates one thing from another
+</seg>
+, povzro&ccaron;i, da sta obe stvari razli&ccaron;ni.
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti, razlikovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What differentiates a sculpture from an object?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+differentiation
+</orth>
+<form type="variant">
+<pron>
+/dIf@renSI*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the differentiation of classes.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

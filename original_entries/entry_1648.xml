@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bribe
+</orth>
+<form type="variant">
+<pron>
+/br*a*Ib/
+</pron>
+</form>
+<form type="inflected">
+bribes, bribing, bribed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bribe 
+</seg>
+je znesek ali dragocenost, ki jo nekdo da uradni osebi, da bi nekaj naredila v zameno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podkupnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Vice President admitted taking bribes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+bribes an official
+</seg>
+, da podkupnino uradni osebi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podkupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The attempt to bribe the clerk had failed.
+</quote>
+</seg>
+</sense>
+</entry>

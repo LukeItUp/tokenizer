@@ -1,0 +1,268 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eye
+</orth>
+<form type="variant">
+<pron>
+/*a*I/
+</pron>
+</form>
+<form type="inflected">
+eyes, eyeing 
+<IS>
+ali 
+</IS>
+<IV>
+eying, 
+</IV>
+eyed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's eyes 
+</seg>
+sta organa na obrazu, s katerima gledamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oko; o&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She opened her eyes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an eye for something 
+</seg>
+pomeni, da znamo nekaj prepoznati in dobro oceniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti smisel za kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a marvellous eye for detail.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To eye something 
+</seg>
+pomeni nekaj gledati pozorno ali sumni&ccaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preu&ccaron;evati, ogledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Posy was eyeing the man thoughtfully.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To cast one's eye over something 
+</seg>
+ali 
+<FV>
+to run one's eye over something 
+</FV>
+pomeni na hitro pogledati vse dele ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preleteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He ran his eye over the article.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+catches one's eye
+</seg>
+, nekdo tisto nenadoma opazi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti v o&ccaron;i, pritegniti pozornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The flowers in your window caught my eye.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To try to catch someone's eye 
+</seg>
+pomeni truditi se, da bi pritegnili pozornost neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opozoriti nase
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+has one's eye on someone
+</seg>
+, nekoga opazuje in ocenjuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opazovati in ocenjevati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je nekaj resni&ccaron;no 
+<seg type="lemma">
+in someone's eyes
+</seg>
+, je zanj resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v o&ccaron;eh nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her children could do no wrong in her eyes.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep an eye on someone or something 
+</seg>
+pomeni nekoga ali nekaj opazovati in skrbeti, da je na varnem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Can you keep an eye on the baby while I go shopping?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izrek: 
+<seg type="lemma">
+there is more to a situation than meets the eye
+</seg>
+, pomeni, da so neke okoli&scaron;&ccaron;ine bolj zapletene, kot je sprva kazalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+huj&scaron;e, kot je videti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e neki dogodek 
+<seg type="lemma">
+opens one's eyes
+</seg>
+, &ccaron;loveka opozori, da je nekaj druga&ccaron;no, kot je sprva mislil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekomu odpreti o&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+doesn't see eye to eye with someone
+</seg>
+, se z nekom ne strinja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne strinjati se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be up to one's eyes in something 
+</seg>
+pomeni biti zelo zaposlen z ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti do vratu v ne&ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sal is still up to her eyes in kids and housework.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

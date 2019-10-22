@@ -5,7 +5,7 @@ adjunct
 </orth>
 <form type="variant">
 <pron>
-/*#ae;dZVNkt/
+/*&ae;dZVNkt/
 </pron>
 </form>
 <form type="inflected">
@@ -15,28 +15,27 @@ adjuncts.
 <sense n="1">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
-PREP
+PREP 
 <seg type="prep">
-"to"
+&lsquo;to&rsquo; 
 </seg>
 <seg>
-or
+or 
 </seg>
 <seg type="prep">
-"of"
+&lsquo;of&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An adjunct
+An adjunct 
 </seg>
-je nekaj, kar je povezano z
-ne&#269;im drugim, ve&#269;jim ali pomembnej&#353;im.
+je nekaj, kar je povezano z ne&ccaron;im drugim, ve&ccaron;jim ali pomembnej&scaron;im. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -56,16 +55,15 @@ COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-V slovnici je
+V slovnici je 
 <seg type="lemma">
-an adjunct
+an adjunct 
 </seg>
-eden glavnih
-delov stavka in daje podatke o &#269;asu, kraju ali na&#269;inu.
+eden glavnih delov stavka in daje podatke o &ccaron;asu, kraju ali na&ccaron;inu. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-prilastek; prislovno dolo&#269;ilo
+prilastek; prislovno dolo&ccaron;ilo
 </quote>
 </cit>
 </sense>

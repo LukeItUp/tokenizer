@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+orbit
+</orth>
+<form type="variant">
+<pron>
+/*O*:bIt/
+</pron>
+</form>
+<form type="inflected">
+orbits, orbiting, orbited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An orbit 
+</seg>
+je krivulja, po kateri potuje predmet, ki kro&zcaron;i okoli planeta, Lune ali Sonca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kro&zcaron;nica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the orbit of Mercury.
+</quote>
+<quote>
+How much does it cost to put a satellite into orbit?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To orbit a planet, a moon, or the sun 
+</seg>
+pomeni gibati se okoli planeta, Lune ali Sonca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kro&zcaron;iti okoli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the first American astronaut to orbit in space.
+</quote>
+</seg>
+</sense>
+</entry>

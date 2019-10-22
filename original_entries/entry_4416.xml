@@ -1,0 +1,139 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+early
+</orth>
+<form type="variant">
+<pron>
+/*$e*:li1/
+</pron>
+</form>
+<form type="inflected">
+earlier, earliest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Early 
+</seg>
+pomeni blizu za&ccaron;etka obdobja, procesa ali dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodnji, za&ccaron;etni, zgodaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I got up early.
+</quote>
+<quote>
+...early last week.
+</quote>
+<quote>
+...in the early 1980s.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo ali nekaj 
+<seg type="lemma">
+arrives or happens early
+</seg>
+, pride ali se zgodi pred pri&ccaron;akovanim ali obi&ccaron;ajnim &ccaron;asom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgodaj, zgodnji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The day's practice ended early because of bad light.
+</quote>
+<quote>
+...her husband's early death.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+As early as 
+</seg>
+pomeni ob dolo&ccaron;enem &ccaron;asu, ki je presenetljivo zgoden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As early as 1978 the United States had taken steps to counteract this.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+At the earliest 
+</seg>
+pomeni ne pred omenjenim datumom ali &ccaron;asom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najprej, ne prej kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No developments were expected before August at the earliest.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+bright and early: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+bright
+</ref>
+</xr>
+<xr type="related">
+<QF>
+early night: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+night
+</ref>
+</xr>
+</B>
+</entry>

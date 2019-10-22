@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pirate
+</orth>
+<form type="variant">
+<pron>
+/p*a*Ir@1t/
+</pron>
+</form>
+<form type="inflected">
+pirates, pirating, pirated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pirates 
+</seg>
+so bili nekdaj mornarji, ki so napadali in ropali druge ladje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pirat
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pirate something 
+</seg>
+pomeni kopirati in nezakonito prodajati elektronsko, posneto ali tiskano gradivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezakonito kopirati in prodajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+New advertisers were pirating his paintings.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+pirated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There were a lot of pirated editions.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+broke
+</orth>
+<form type="variant">
+<pron>
+/br*@*Uk/
+</pron>
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Broke 
+</seg>
+je preteklik glagola 
+<ref>
+to break
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlomiti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+broke
+</seg>
+, nima denarja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+brez ficka
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar podjetje 
+<seg type="lemma">
+goes broke
+</seg>
+, izgubi ves denar in ne more ve&ccaron; poslovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bankrotirati, iti v ste&ccaron;aj
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p232_s253363" id="p232_w878" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="399.562" base="405.97" width="26.1322" height="8.514">ellipse</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p232_s253364" id="p232_w879" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.76" y="400.808" base="405.97" width="5.06995" height="6.844">/i</TOKEN>
+<TOKEN sid="p232_s253365" id="p232_w880" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="286.19" y="400.17" base="403.58" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p232_s253366" id="p232_w881" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="288.83" y="400.808" base="405.97" width="17.6416" height="6.844">l&#203;ps/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p232_s253367" id="p232_w882" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="308.16" y="400.63" base="405.97" width="25.8809" height="7.08">ellipses.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p232_s253368" id="p232_w883" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="335.73" y="402.054" base="405.97" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p232_s253369" id="p232_w884" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="355.869" y="402.054" base="405.97" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p232_s253370" id="p232_w885" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.68" y="400.274" base="405.97" width="9.99936" height="7.552">An</TOKEN>
+<TOKEN sid="p232_s253371" id="p232_w886" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="373.368" y="400.274" base="405.97" width="21.9802" height="7.552">ellipse</TOKEN>
+</seg>
+<TOKEN sid="p232_s253372" id="p232_w887" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="397.05" y="400.274" base="405.97" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p232_s253373" id="p232_w888" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="404.737" y="400.274" base="405.97" width="22.4028" height="7.552">ovalen</TOKEN>
+<TOKEN sid="p232_s253374" id="p232_w889" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="428.829" y="400.274" base="405.97" width="11.1938" height="7.552">lik,</TOKEN>
+<TOKEN sid="p232_s253375" id="p232_w890" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="409.344" base="415.04" width="29.1989" height="7.552">podoben</TOKEN>
+<TOKEN sid="p232_s253376" id="p232_w891" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="289.809" y="409.344" base="415.04" width="43.1856" height="7.552">splo{~enemu</TOKEN>
+<TOKEN sid="p232_s253377" id="p232_w892" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.995" y="409.344" base="415.04" width="21.8506" height="7.552">krogu.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p232_s253379" id="p232_w894" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="365.08" y="409.344" base="415.04" width="19.9908" height="7.552">elipsa</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

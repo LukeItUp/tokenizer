@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+corrode
+</orth>
+<form type="variant">
+<pron>
+/k@r*@*Ud/
+</pron>
+</form>
+<form type="inflected">
+corrodes, corroding, corroded.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kovina 
+<seg type="lemma">
+corrodes
+</seg>
+, jo postopno uni&ccaron;i rja ali kak&scaron;na kemikalija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rjaveti, razkrojiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Vinegar will corrode metal.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+corroded
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The generator was badly corroded.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

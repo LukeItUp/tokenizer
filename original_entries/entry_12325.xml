@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sand
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;nd/
+</pron>
+</form>
+<form type="inflected">
+sands, sanding, sanded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sand 
+</seg>
+je prahu podobna snov, ki jo tvorijo drobna zrna kamna. Iz nje je ve&ccaron;ina pu&scaron;&ccaron;av in morskih pla&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pesek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children played in the sand at the water&apos;s edge.
+</quote>
+<quote>
+...grains of sand.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sands 
+</seg>
+so prostrana obmo&ccaron;ja peska, na primer obala ali pu&scaron;&ccaron;ava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sipina; pe&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...miles of empty sands.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sand an object 
+</seg>
+pomeni odrgniti predmet s smirkovim papirjem, da je bolj gladek ali &ccaron;istej&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smirkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A scratched item of furniture can be professionally sanded.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,325 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+solid
+</orth>
+<form type="variant">
+<pron>
+/s*QlId/
+</pron>
+</form>
+<form type="inflected">
+solids.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Snov ali predmet, ki je 
+<seg type="lemma">
+solid
+</seg>
+, je v trdem agregatnem stanju, ne pa v teko&ccaron;em ali plinskem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trd, &ccaron;vrst
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The basic choice is gas, electricity, or solid fuel.
+</quote>
+<quote>
+Even the sea around them is frozen solid.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A solid 
+</seg>
+je trda in &ccaron;vrsta snov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trda snov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must at least know whether it&apos;s a solid or a liquid or a gas.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Predmet ali gmota, ki je 
+<seg type="lemma">
+solid
+</seg>
+, v sebi nima praznega prostora za ni&ccaron;esar, pa tudi nikakr&scaron;nih lukenj ali praznin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a solid-tyred bus.
+</quote>
+<quote>
+The car park was packed solid.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Predmet, ki je narejen 
+<seg type="lemma">
+of solid gold 
+</seg>
+ali 
+<seg type="lemma">
+of solid oak
+</seg>
+, je v celoti narejen iz tega materiala, na primer iz zlata ali hrasta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+masiven
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zgradba, ki je 
+<seg type="lemma">
+solid
+</seg>
+, je mo&ccaron;na in ni verjetno, da bi se sesula. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...solid Victorian houses.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+solidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...large houses built solidly of wooden planks.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+solidity
+</orth>
+<form type="variant">
+<pron>
+/s@l*IdI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their appearance of massive solidity.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dr&zcaron;avljan, ki je 
+<seg type="lemma">
+solid
+</seg>
+, je ugleden in se ljudje lahko zanesejo nanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soliden, zanesljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She regarded them as solid, good, dull people.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+solidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a solidly respectable family.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+solid
+</seg>
+, je zanesljivo, mo&ccaron;no in po obsegu veliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temeljit, trden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a veteran British Council worker, with solid experience in Asia and Africa.
+</quote>
+<quote>
+Solid evidence is needed.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+solidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They are solidly behind the proposal.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+solidity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...giving an added strength and solidity to the state.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+<seg>
+or 
+</seg>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something for a solid period of time 
+</seg>
+pomeni nekaj delati vse navedeno obdobje brez prekinitve ali odmora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brez prekinitive, skupaj; dober
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I waited a solid hour.
+</quote>
+<quote>
+I read for two hours solid.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+solidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+If you work for ten weeks solidly you might stand more of a chance.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

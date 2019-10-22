@@ -5,18 +5,19 @@ artefact
 </orth>
 <form type="variant">
 <pron>
-/*A*:tI1f#ae;kt/
+/*A*:tI1f&ae;kt/
 </pron>
 </form>
 <form type="inflected">
 artefacts;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-artifact.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+artifact
+</SV>
+. 
+</SN>
 </form>
 <sense>
 <gramGrp>
@@ -26,14 +27,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An artefact
+An artefact 
 </seg>
-je okrasek, orodje ali kak
-drug predmet, ki ga izdela &#269;lovek.
+je okrasek, orodje ali kak drug predmet, ki ga izdela &ccaron;lovek. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-(ro&#269;ni) izdelek
+(ro&ccaron;ni) izdelek
 </quote>
 </cit>
 </sense>

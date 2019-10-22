@@ -6,16 +6,17 @@ accent,
 <form type="inflected">
 accents, accenting, accented;
 </form>
-<form type="variant">
-samostalnik izgovarjamo
+<PN>
+samostalnik izgovarjamo 
 <pron>
-/*#ae;ks@2nt/
+/*&ae;ks@2nt/
 </pron>
-glagol pa
+, glagol pa 
 <pron>
-/#ae;ks*ent/.
+/&ae;ks*ent/
 </pron>
-</form>
+.
+</PN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -24,12 +25,11 @@ COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;lovek, ki govori z dolo&#269;enim
+&Ccaron;lovek, ki govori z dolo&ccaron;enim 
 <seg type="lemma">
 accent
 </seg>
-besede izgovarja tako, da izdaja svoje poreklo &#8212; dr&#382;avo, pokrajino ali dru&#382;beni
-razred.
+, besede izgovarja tako, da izdaja svoje poreklo &mdash; dr&zcaron;avo, pokrajino ali dru&zcaron;beni razred. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -50,10 +50,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An accent
+An accent 
 </seg>
-je tudi znak, zapisan pod ali
-nad &#269;rkami v nekaterih jezikih, s katerim ozna&#269;imo, kako se izgovarjajo.
+je tudi znak, zapisan pod ali nad &ccaron;rkami v nekaterih jezikih, s katerim ozna&ccaron;imo, kako se izgovarjajo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -68,11 +67,11 @@ SING N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je na dolo&#269;eni zna&#269;ilnosti ne&#269;esa
+Kadar je na dolo&ccaron;eni zna&ccaron;ilnosti ne&ccaron;esa 
 <seg type="lemma">
 accent
 </seg>
-je ta lastnost najpomembnej&#353;a.
+, je ta lastnost najpomembnej&scaron;a. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -88,19 +87,18 @@ The accent is on presentation in this contest.
 <sense n="4">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To accent a word or a musical note
+To accent a word or a musical note 
 </seg>
-pomeni,
-da neki besedi ali noti damo ve&#269;ji poudarek.
+pomeni, da neki besedi ali noti damo ve&ccaron;ji poudarek. 
 </def>
 <cit type="translationEquivalent">
 <quote>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+valuable
+</orth>
+<form type="variant">
+<pron>
+/v*&ae;ljU0@b@0l/
+</pron>
+</form>
+<form type="inflected">
+valuables.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pomo&ccaron; ali nasvet, ki je 
+<seg type="lemma">
+valuable
+</seg>
+, je zelo koristen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dragocen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They could also give valuable help.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Predmeti, ki so 
+<seg type="lemma">
+valuable
+</seg>
+, na primer slike ali nakit, so vredni veliko denarja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dragocen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She collected vintage cars and built up a valuable stamp collection.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They were robbed of money and valuables at gunpoint.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

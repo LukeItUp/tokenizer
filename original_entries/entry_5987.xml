@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+genetic
+</orth>
+<form type="variant">
+<pron>
+/dZI2n*etIk/
+</pron>
+</form>
+<form type="inflected">
+genetics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Genetics 
+</seg>
+je preu&ccaron;evanje tega, kako lastnosti z geni prehajajo iz enega rodu v drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+genetika, veda o dedovanju
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Genetic 
+</seg>
+pomeni tak, ki ima opraviti z genetiko ali geni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deden, genetski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...genetic defects.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+genetically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...genetically programmed behaviour.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

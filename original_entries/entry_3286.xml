@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+crusade
+</orth>
+<form type="variant">
+<pron>
+/kru:s*e*Id/
+</pron>
+</form>
+<form type="inflected">
+crusades.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A crusade 
+</seg>
+je dolgotrajen in odlo&ccaron;en poskus, da bi nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kampanja, boj; kri&zcaron;arska vojna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the great crusade to fight and conquer cancer.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+crusader
+</orth>
+<form type="variant">
+<pron>
+/kru:s*e*Id@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a moral crusader.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

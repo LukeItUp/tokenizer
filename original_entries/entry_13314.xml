@@ -1,0 +1,304 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sound
+</orth>
+<form type="variant">
+<pron>
+/s*a*Und/
+</pron>
+</form>
+<form type="inflected">
+sounds, sounding, sounded; sounder, soundest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sound 
+</seg>
+je vsaka posami&ccaron;na stvar, ki jo sli&scaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvok, glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He heard the sound of footsteps in the hall.
+</quote>
+<quote>
+He opened the door without a sound.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sound 
+</seg>
+je vse, kar lahko sli&scaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sound travels better in water than in air.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer hupa, 
+<seg type="lemma">
+sounds
+</seg>
+, povzro&ccaron;i zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oglasiti se, sli&scaron;ati se, razlegati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A car passed him at top speed, sounding its horn.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;like&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sounds a particular way
+</seg>
+, ima ali povzro&ccaron;i dolo&ccaron;ene vrste zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sli&scaron;ati se, zveneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rustling of the woman&apos;s dress sounded alarmingly loud.
+</quote>
+<quote>
+Her footsteps sounded like pistol shots.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar govorimo o na&ccaron;inu, kako nekdo 
+<seg type="lemma">
+sounds
+</seg>
+, po njegovem govorjenju sklepamo o tem, kako se po&ccaron;uti ali kaj je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zveneti, govoriti kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Ah,&rsquo; Piper said. He sounded a little discouraged.
+</quote>
+<quote>
+You know, you sound just like an insurance salesman.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, kar smo pravkar prebrali ali sli&scaron;ali, 
+<seg type="lemma">
+sounds a particular way
+</seg>
+, na nas naredi dolo&ccaron;en vtis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zveneti, sli&scaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;They&apos;ve got a small farm down in Devon.&rsquo;&mdash;&lsquo;That sounds nice.&rsquo;
+</quote>
+<quote>
+It sounds to me as though he&apos;s just doing it to be awkward.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sound of something 
+</seg>
+je vtis, ki si ga ustvarimo, ko nekaj sli&scaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kako zveni, zvok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t like the sound of linguistics.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+sound
+</seg>
+, je v dobrem stanju in ni okvarjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My heart is basically sound.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj, na primer nasvet, 
+<seg type="lemma">
+sound
+</seg>
+, je zanesljiv in razumen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pameten, trezen
+</quote>
+</cit>
+</sense>
+<sense n="10">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sound asleep 
+</seg>
+pomeni trdno spati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trdno spati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="11">
+<xr type="related">
+<QF>
+safe and sound: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+safe.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sound out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sound someone out 
+</seg>
+pomeni nekomu postaviti vrsto vpra&scaron;anj, da bi ugotovili, kaj misli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpra&scaron;ati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+squat
+</orth>
+<form type="variant">
+<pron>
+/skw*Qt/
+</pron>
+</form>
+<form type="inflected">
+squats, squatting, squatted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To squat down 
+</seg>
+pomeni po&ccaron;eniti, tako da z upognjenimi nogami lovimo ravnote&zcaron;je na stopalih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;epeti, po&ccaron;epniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He told the boys to squat in a semicircle around him.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+squat
+</seg>
+, je kratko in &scaron;iroko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;okat, debelu&scaron;ast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...squat wooden churches.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To squat in an unused building 
+</seg>
+pomeni &zcaron;iveti v stavbi, ki ni v uporabi, ne da bi za to imeli zakonsko pravico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na &ccaron;rno vseljen, biti &ccaron;rnoselec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were squatting in an empty house.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+squatter
+</orth>
+<form type="variant">
+<pron>
+/skw*Qt@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the subject of squatters&apos; rights.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spear
+</orth>
+<form type="variant">
+<pron>
+/sp*I*@/
+</pron>
+</form>
+<form type="inflected">
+spears, spearing, speared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spear 
+</seg>
+je dolga palica z ostro konico; uporablja se kot oro&zcaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pu&scaron;&ccaron;ica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spear something 
+</seg>
+pomeni potisniti koni&ccaron;ast predmet v nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nabosti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lally took her fork and speared an oyster from its shell.
+</quote>
+</seg>
+</sense>
+</entry>

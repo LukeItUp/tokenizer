@@ -1,0 +1,274 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tell
+</orth>
+<form type="variant">
+<pron>
+/t*el/
+</pron>
+</form>
+<form type="inflected">
+tells, telling, told
+</form>
+<form type="variant">
+<pron>
+/t*@*Uld/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+with 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tell someone something 
+</seg>
+pomeni nekomu z besedami posredovati obvestilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+John refused to tell me her name.
+</quote>
+<quote>
+He told me that he was a farmer.
+</quote>
+<quote>
+&lsquo;We told a lot of lies,&rsquo; said Bill.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tells someone something
+</seg>
+, nekomu razkrije dolo&ccaron;eno dejstvo ali ga opozori, kaj naj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The design of the computer tells us nothing about such things.
+</quote>
+<quote>
+Every movement they make tells you that they are tired.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tell someone to do something 
+</seg>
+pomeni nekomu ukazati, svetovati ali dati navodilo, naj nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazati, naro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Just do as you&apos;re told.
+</quote>
+<quote>
+My uncle smiled and told me not to worry.
+</quote>
+<quote>
+I told her that what she needs is a good long book.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+can tell what is happening or what is true
+</seg>
+, je sposoben pravilno oceniti, kaj se dogaja ali kaj je res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugotoviti, prepoznati, videti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can&apos;t tell the difference between truth and fiction.
+</quote>
+<quote>
+I couldn&apos;t tell what they were thinking.
+</quote>
+<quote>
+So far as we can tell, it is still in perfect condition.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neprijetno ali utrujajo&ccaron;e do&zcaron;ivetje 
+<seg type="lemma">
+begins to tell
+</seg>
+, za&ccaron;enja povzro&ccaron;ati hude posledice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati se, poznati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The strain was beginning to tell.
+</quote>
+<quote>
+All these late nights were beginning to tell on my health.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+time will tell
+</seg>
+, ho&ccaron;emo povedati, da bo resnica o ne&ccaron;em znana &scaron;ele &ccaron;ez nekaj &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;as bo pokazal
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tell apart.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+can tell similar people or things apart
+</seg>
+, je sposoben prepoznati razlike med podobnimi osebami ali stvarmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lo&ccaron;iti, razlikovati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tell off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tell someone off 
+</seg>
+pomeni z nekom govoriti jezno ali resno, ker je naredil nekaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&scaron;teti, grajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We don&apos;t want to get told off, do we?
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+telling-off
+</orth>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+When she got back she would give him such a telling-off about that doll.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</sense>
+</entry>

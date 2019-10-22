@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+taxi
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;ksi1/
+</pron>
+</form>
+<form type="inflected">
+taxis, taxiing, taxied.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A taxi 
+</seg>
+je avtomobil, s katerim nas voznik za pla&ccaron;ilo pelje, kamor &zcaron;elimo priti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+taksi
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar letalo 
+<seg type="lemma">
+taxis
+</seg>
+, po&ccaron;asi pelje po letali&scaron;ki stezi pred vzletom ali po pristanku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati po letali&scaron;ki stezi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Boeing taxied down the runway.
+</quote>
+</seg>
+</sense>
+</entry>

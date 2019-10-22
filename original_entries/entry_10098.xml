@@ -1,0 +1,232 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+own
+</orth>
+<form type="variant">
+<pron>
+/*@*Un/
+</pron>
+</form>
+<form type="inflected">
+owns, owning, owned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+own 
+</seg>
+poudarimo, da nekaj pripada omenjeni osebi ali stvari ali je zna&ccaron;ilno zanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lasten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;d killed her own children.
+</quote>
+<quote>
+Each city has its own peculiarities.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRON
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His background was similar to my own.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+own 
+</seg>
+poudarimo, da nekdo naredi nekaj brez pomo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are expected to make their own beds.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRON
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I said &lsquo;What about lunch?&rsquo; and he said, &lsquo;Oh, get your own.&rsquo;
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To own something 
+</seg>
+pomeni imeti nekaj v lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti, biti lastnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a huge old house owned by an Irish doctor.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on one&apos;s own
+</seg>
+, je brez dru&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She lived on her own.
+</quote>
+<quote>
+...sitting on his own.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor nekaj naredi 
+<seg type="lemma">
+on one&apos;s own
+</seg>
+, nekaj naredi brez pomo&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We want to write a book on our own.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get one&apos;s own back 
+</seg>
+pomeni prizadeti ali prelisi&ccaron;iti nekoga, ki je prizadel ali prelisi&ccaron;il nas; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vrniti komu, ma&scaron;&ccaron;evati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At last he was getting his own back.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+hold 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+own: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+hold
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+own up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To own up to something 
+</seg>
+pomeni povedati, da smo naredili nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They don&apos;t want to own up to this.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+finger
+</orth>
+<form type="variant">
+<pron>
+/f*INg@/
+</pron>
+</form>
+<form type="inflected">
+fingers, fingering, fingered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s fingers 
+</seg>
+so &scaron;tirje dolgi izrastki na koncu obeh rok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prst (na roki)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She ran her fingers through the cool grass.
+</quote>
+<quote>
+He held it between his finger and thumb.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To finger something 
+</seg>
+pomeni ne&ccaron;esa se dotakniti ali potipati s prstom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otipati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Eric fingered his split lip.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put one&apos;s finger on a reason or problem 
+</seg>
+pomeni prepoznati neki razlog ali te&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ugotoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He immediately put his finger on what was wrong.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To point the finger at someone 
+</seg>
+pomeni nekoga za nekaj okriviti ali obto&zcaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s prstom pokazati na koga
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QI>
+to have 
+</QI>
+<QF>
+green fingers: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+green
+</ref>
+</xr>
+</B>
+</entry>

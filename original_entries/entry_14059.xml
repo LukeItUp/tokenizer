@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surprising
+</orth>
+<form type="variant">
+<pron>
+/s@pr*a*IzIN/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+surprising
+</seg>
+, je nepri&ccaron;akovano ali nenavadno in &ccaron;loveka preseneti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presenetljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He leapt out of the car with surprising agility.
+</quote>
+<quote>
+It was surprising how much money she managed to earn.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+surprisingly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was surprisingly cheap.
+</quote>
+<quote>
+Not surprisingly the proposal met with hostile reactions.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pointer
+</orth>
+<form type="variant">
+<pron>
+/p*O*Int@/
+</pron>
+</form>
+<form type="inflected">
+pointers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pointer 
+</seg>
+je nasvet ali podatek, ki nam pomaga razumeti polo&zcaron;aj ali re&scaron;iti te&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+namig
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a list of things that seemed to be pointers to the truth of what happened.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pointer 
+</seg>
+je tudi dolga tanka palica, s katero ka&zcaron;emo na primer po zemljevidih ali skicah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+palica
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pointer 
+</seg>
+je pri merilni napravi dolg ozek kos kovine, ki ka&zcaron;e na &scaron;tevilke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazalec
+</quote>
+</cit>
+</sense>
+</entry>

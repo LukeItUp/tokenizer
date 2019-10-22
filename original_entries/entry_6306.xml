@@ -1,0 +1,142 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grill
+</orth>
+<form type="variant">
+<pron>
+/gr*Il/
+</pron>
+</form>
+<form type="inflected">
+grills, grilling, grilled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grill food 
+</seg>
+pomeni kuhati &zcaron;ivila z uporabo mo&ccaron;nega ognja tik nad njimi ali pod njimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pra&zcaron;iti, pe&ccaron;i na &zcaron;aru
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I usually grill or fry beef.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+grilled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a grilled chop.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grill 
+</seg>
+je del kuhalnika, na katerem kuhamo hrano, tako da mo&ccaron;na toplota prihaja od zgoraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ar
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grill 
+</seg>
+je tudi plosk okvir iz kovinskih pre&ccaron;k; na njem pripravljamo hrano nad ognjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ar, re&scaron;etka
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grill 
+</seg>
+je tudi jed, sestavljena iz &zcaron;ivil, pe&ccaron;enih na &zcaron;aru. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na &zcaron;aru pe&ccaron;ena jed
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grill someone 
+</seg>
+pomeni nekomu vsiljivo postaviti veliko vpra&scaron;anj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zasli&scaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At the police station, she was grilled for twenty-four hours.
+</quote>
+</seg>
+</sense>
+</entry>

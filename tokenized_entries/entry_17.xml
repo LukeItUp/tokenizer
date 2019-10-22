@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p1_s258" id="p1_w258" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.05" y="355.138" base="360.3" width="26.6716" height="6.844">/6baËd/,</TOKEN>
+<TOKEN sid="p1_s258" id="p1_w258" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="280.05" y="355.138" base="360.3" width="26.6716" height="6.844">/6ba&#203;d/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -15,7 +15,7 @@
 </form>
 </form>
 <sense n="1">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p1_s263" id="p1_w263" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="396.33" y="356.384" base="360.3" width="21.7206" height="5.192">PHRASE</TOKEN>
@@ -52,7 +52,7 @@
 <TOKEN sid="p1_s283" id="p1_w283" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="380.03" y="372.764" base="378.46" width="25.1453" height="7.552">Dennis.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 <sense n="2">
 <gramGrp>
@@ -82,7 +82,6 @@
 </quote>
 </cit>
 </sense>
-<sense>
 <sense value="phr vb">
 <form type="lemma">
 <orth>
@@ -96,7 +95,7 @@
 <TOKEN sid="p1_s303" id="p1_w303" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="305.553" y="401.774" base="405.69" width="7.1473" height="5.192">VB</TOKEN>
 </pos>
 </gramGrp>
-<sense>
+<re>
 <def xml:lang="sl">
 <seg type="lemma">
 <TOKEN sid="p1_s304" id="p1_w304" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="314.53" y="399.994" base="405.69" width="8.1432" height="7.552">To</TOKEN>
@@ -143,7 +142,6 @@
 <TOKEN sid="p1_s338" id="p1_w338" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="402.659" y="427.234" base="432.93" width="29.9894" height="7.552">decision.</TOKEN>
 </quote>
 </seg>
-</sense>
-</sense>
+</re>
 </sense>
 </entry>

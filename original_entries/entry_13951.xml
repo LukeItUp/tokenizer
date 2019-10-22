@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suffocate
+</orth>
+<form type="variant">
+<pron>
+/s*Vf@keIt/
+</pron>
+</form>
+<form type="inflected">
+suffocates, suffocating, suffocated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+suffocates 
+</seg>
+ali kadar nekaj 
+<seg type="variant">
+suffocates someone
+</seg>
+, tisti &ccaron;lovek umre, ker nima ve&ccaron; zraka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadu&scaron;iti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sir, we are suffocating. We must surrender.
+</quote>
+<quote>
+The smoke and fumes almost suffocated me.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+suffocation
+</orth>
+<form type="variant">
+<pron>
+/s*Vf@k*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Many slaves died of heat and suffocation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

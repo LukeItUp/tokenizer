@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+zigzag
+</orth>
+<form type="variant">
+<pron>
+/z*Igz&ae;g/
+</pron>
+</form>
+<form type="inflected">
+zigzags, zigzagging, zigzagged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A zigzag 
+</seg>
+je &ccaron;rta z ve&ccaron; koti, kot da bi imeli ve&ccaron; &ccaron;rk Z povezanih v neprekinjen niz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cikcak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Suddenly there was a flash and a zigzag of forked lightning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To zigzag 
+</seg>
+pomeni premikati se naprej pod kotom najprej na eno stran, nato &scaron;e na drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cikcakati, vijugati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We zigzagged laboriously up the track.
+</quote>
+</seg>
+</sense>
+</entry>

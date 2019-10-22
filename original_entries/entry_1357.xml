@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blame
+</orth>
+<form type="variant">
+<pron>
+/bl*e*Im/
+</pron>
+</form>
+<form type="inflected">
+blames, blaming, blamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blame a person or thing
+</seg>
+ pomeni misliti, da sta tisti &ccaron;lovek ali stvar kriva za nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okriviti, obto&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was blamed for the theft.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You haven't said a word of blame.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The blame for something bad
+</seg>
+ je odgovornost, ker smo povzro&ccaron;ili ali dovolili, da se je zgodilo nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had to take the blame for everything.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Not to blame someone for doing something 
+</seg>
+pomeni misliti, da je bilo dejanje nekega &ccaron;loveka v danih okoli&scaron;&ccaron;inah razumno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne obto&zcaron;evati, ne o&ccaron;itati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can't really blame him for wanting to make me suffer.
+</quote>
+</seg>
+</sense>
+</entry>

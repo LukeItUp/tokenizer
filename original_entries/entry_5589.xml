@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+forecast
+</orth>
+<form type="variant">
+<pron>
+/f*O*:kA:st/
+</pron>
+</form>
+<form type="inflected">
+forecasts, forecasting, forecasted.
+</form>
+<IN>
+Obliki za preteklik in pretekli dele&zcaron;nik sta lahko 
+<IH>
+forecasted 
+</IH>
+<IC>
+ali 
+</IC>
+<IH>
+forecast
+</IH>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A forecast 
+</seg>
+je predvidevanje prihodnjih stvari ali dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napoved
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...forecasts of military involvement in British politics.
+</quote>
+<quote>
+...the weather forecast.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor
+<seg type="lemma">
+ forecasts future events
+</seg>
+, poveda, kaj misli, da se bo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napovedati, predvideti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some warm weather had been forecast.
+</quote>
+</seg>
+</sense>
+</entry>

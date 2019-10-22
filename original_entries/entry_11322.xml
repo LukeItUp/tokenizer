@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+purge
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:dZ/
+</pron>
+</form>
+<form type="inflected">
+purges, purging, purged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To purge an organization of its unacceptable members 
+</seg>
+pomeni odstraniti iz organizacije nesprejemljive &ccaron;lane. Kadar ljudje 
+<seg type="lemma">
+are purged from an organization
+</seg>
+, jih vplivne osebe v organizaciji odstranijo, ker se jim zdijo nesprejemljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti &ccaron;istko, izklju&ccaron;iti, odstraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...to purge the government of Latimer&apos;s supporters.
+</quote>
+<quote>
+They had done their best to purge extremists from the party.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They discovered that there were infiltrators inside the party. A purge began.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To purge something of undesirable things 
+</seg>
+pomeni odstraniti neprijetne stvari iz ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&ccaron;istiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tried desperately to purge myself of these dangerous desires.
+</quote>
+</seg>
+</sense>
+</entry>

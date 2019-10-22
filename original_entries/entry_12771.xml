@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shed
+</orth>
+<form type="variant">
+<pron>
+/S*ed/
+</pron>
+</form>
+<form type="inflected">
+sheds, shedding.
+</form>
+<IN>
+<IH>
+Shed 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shed 
+</seg>
+je majhna stavba, v kateri shranjujemo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lopa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the coal shed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival 
+<seg type="lemma">
+sheds hair or skin
+</seg>
+, ji odpade nekaj dlake ali vrhnja plast ko&zcaron;e. Kadar drevo 
+<seg type="lemma">
+sheds its leaves
+</seg>
+, v jeseni izgubi listje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogoliti se, oleviti se; odvre&ccaron;i
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shed something 
+</seg>
+pomeni tudi znebiti se ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odvre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I shed all my restraint.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar tovornjak 
+<seg type="lemma">
+sheds its load
+</seg>
+, z njega kosi tovora padajo na cesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stresati, izgubljati
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To shed tears 
+</seg>
+pomeni jokati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prelivati (solze)
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To shed blood 
+</seg>
+pomeni nasilno pobijati ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prelivati (kri)
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sheds light on a problem
+</seg>
+, zaradi tistega dolo&ccaron;eno stvar la&zcaron;e razumemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvetliti
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

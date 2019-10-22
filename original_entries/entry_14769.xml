@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+translate
+</orth>
+<form type="variant">
+<pron>
+/tr&ae;nsl*e*It, tr&ae;nz-/
+</pron>
+</form>
+<form type="inflected">
+translates, translating, translated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To translate something 
+</seg>
+pomeni, da nekaj, kar je nekdo rekel ali zapisal, povemo ali zapi&scaron;emo v drugem jeziku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My books have been translated into many languages.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To translate one thing into another 
+</seg>
+pomeni nekaj preoblikovati v nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spreminjati, preoblikovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He started to translate into action the dreams of African unity.
+</quote>
+</seg>
+</sense>
+</entry>

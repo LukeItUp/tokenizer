@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p550_s602500" id="p550_w392" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="471.912" base="478.32" width="42.2729" height="8.514">perforated</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p550_s602501" id="p550_w393" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.34" y="473.158" base="478.32" width="43.1516" height="6.844">/p&#197;&#194;f6re&#203;t&#203;d/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p550_s602502" id="p550_w394" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="143.05" y="474.404" base="478.32" width="10.3901" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p550_s602503" id="p550_w395" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="155" y="472.624" base="478.32" width="13.0954" height="7.552">Kar</TOKEN>
+<TOKEN sid="p550_s602504" id="p550_w396" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.645" y="472.624" base="478.32" width="5.94648" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p550_s602505" id="p550_w397" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="177.15" y="472.624" base="478.32" width="37.5314" height="7.552">perforated,</TOKEN>
+</seg>
+<TOKEN sid="p550_s602506" id="p550_w398" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.231" y="472.624" base="478.32" width="12.6994" height="7.552">ima</TOKEN>
+<TOKEN sid="p550_s602507" id="p550_w399" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="230.48" y="472.624" base="478.32" width="11.101" height="7.552">ve~</TOKEN>
+<TOKEN sid="p550_s602508" id="p550_w400" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1796" y="481.704" base="487.4" width="26.0942" height="7.552">drobnih</TOKEN>
+<TOKEN sid="p550_s602509" id="p550_w401" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="87.7124" y="481.704" base="487.4" width="24.858" height="7.552">luknjic.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p550_s602511" id="p550_w403" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.8" y="481.704" base="487.4" width="37.8346" height="7.552">preluknjan,</TOKEN>
+<TOKEN sid="p550_s602512" id="p550_w404" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.073" y="481.704" base="487.4" width="34.3728" height="7.552">luknji~ast;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p550_s602513" id="p550_w405" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.94" y="481.704" base="487.4" width="11.0419" height="7.552">&#8230;a</TOKEN>
+<TOKEN sid="p550_s602514" id="p550_w406" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.421" y="481.704" base="487.4" width="34.1453" height="7.552">perforated</TOKEN>
+<TOKEN sid="p550_s602515" id="p550_w407" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1797" y="490.784" base="496.48" width="15.5923" height="7.552">steel</TOKEN>
+<TOKEN sid="p550_s602516" id="p550_w408" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="77.7722" y="490.784" base="496.48" width="19.1988" height="7.552">plate.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

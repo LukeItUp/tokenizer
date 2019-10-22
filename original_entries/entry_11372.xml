@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quarry
+</orth>
+<form type="variant">
+<pron>
+/kw*Qri1/
+</pron>
+</form>
+<form type="inflected">
+quarries, quarrying, quarried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quarry 
+</seg>
+je kraj, kjer izkopavajo velike koli&ccaron;ine kamna, skrila ali rudnine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kamnolom
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To quarry a stone or mineral
+</seg>
+ pomeni iz kamnoloma odstranjevati kamen ali rudnino s kopanjem, vrtanjem ali miniranjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridobivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Limestone has been quarried for centuries.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The quarry 
+</seg>
+je &zcaron;ival, ki jo lovi &ccaron;lovek ali druga &zcaron;ival. Mno&zcaron;inska oblika je prav tako 
+<seg type="lemma">
+quarry
+</seg>
+; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+plen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Move slowly, or you will startle your quarry.
+</quote>
+</seg>
+</sense>
+</entry>

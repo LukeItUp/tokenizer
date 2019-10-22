@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+student
+</orth>
+<form type="variant">
+<pron>
+/stj*u*:d@nt/
+</pron>
+</form>
+<form type="inflected">
+students.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A student 
+</seg>
+je oseba, ki &scaron;tudira na univerzi ali kolid&zcaron;u, v Zdru&zcaron;enih dr&zcaron;avah Amerike pa tudi oseba, ki hodi v srednjo &scaron;olo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tudent; dijak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a part-time student at King&apos;s College, London.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+mature student.
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A student of a particular subject 
+</seg>
+je oseba, ki posku&scaron;a izvedeti &ccaron;im ve&ccaron; o dolo&ccaron;eni stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raziskovalec; preu&ccaron;evalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is our treatment of old people which most shocks students of our culture.
+</quote>
+</seg>
+</sense>
+</entry>

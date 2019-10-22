@@ -1,0 +1,344 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+use,
+</orth>
+<form type="inflected">
+uses, using, used;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/j*u*:z/
+</pron>
+, samostalnik pa 
+<pron>
+/j*u*:s/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To use a particular thing 
+</seg>
+pomeni s stvarjo nekaj narediti zato, da bi opravili dolo&ccaron;eno delo ali nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Use pins to keep it in place.
+</quote>
+<quote>
+He wants to use the phone.
+</quote>
+<quote>
+No violence was used.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To use a particular word or expression 
+</seg>
+pomeni izre&ccaron;i ali napisati dolo&ccaron;eno besedo ali izraz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s a phrase I once heard him use in a sermon.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To use people 
+</seg>
+pomeni dose&ccaron;i, da ljudje delajo za nas, ne da bi nas ob tem zanimalo, kako se godi z njimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkoristiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For the first time he felt used.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The use of something 
+</seg>
+je uporabljanje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporaba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the large-scale use of fertilisers and insecticides.
+</quote>
+<quote>
+...a pamphlet for use in schools.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have the use of something 
+</seg>
+pomeni biti sposoben nekaj uporabljati ali imeti dovoljenje za uporabo tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporaba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lost the use of his legs.
+</quote>
+<quote>
+I&apos;ve got the use of the car this evening.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has a use 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+has a use for something
+</seg>
+, je tisto mogo&ccaron;e uporabiti za dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He might later have a use for it.
+</quote>
+<quote>
+Possibly I could find some use for these drawers.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A use of a word 
+</seg>
+je na&ccaron;in, kako uporabimo neko besedo, da ima dolo&ccaron;en pomen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He brooded on her use of the word &lsquo;important&rsquo;.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make use of something 
+</seg>
+pomeni, da z ne&ccaron;im nekaj naredimo, zato da opravimo dolo&ccaron;eno delo ali nekaj dose&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uporabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Industry is making increasing use of robots.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Naprava, stroj ali postopek je 
+<seg type="lemma">
+in use
+</seg>
+, kadar ga ljudje redno uporabljajo. Kadar pa je 
+<FV>
+out of use
+</FV>
+, se ne uporablja ve&ccaron; redno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v uporabi; iz rabe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Within the next decade industrial robots will be in widespread use.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+of use
+</seg>
+, je uporabno. Kar je 
+<FV>
+no use
+</FV>
+, pa ni uporabno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koristno; nekoristno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t know whether any of these things will be any use to you.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+It&apos;s no use doing something 
+</seg>
+ali 
+<FV>
+what&apos;s the use of doing something 
+</FV>
+re&ccaron;emo, kadar mislimo, da je dejanje nesmiselno in da z njim ne bomo dosegli ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nima smisla
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is no use arguing with you.
+</quote>
+<quote>
+There&apos;s no use having regrets.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+use up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To use up a supply of something 
+</seg>
+pomeni, da zaloge ne&ccaron;esa rabimo toliko &ccaron;asa, da tistega ne ostane ni&ccaron; ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+porabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He used up all the coins he had.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

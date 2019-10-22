@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+kit
+</orth>
+<form type="variant">
+<pron>
+/k*It/
+</pron>
+</form>
+<form type="inflected">
+kits.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A kit 
+</seg>
+je skupina predmetov, ki so skupaj, ker jih uporabljamo v podobne namene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprema, komplet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...my first-aid kit.
+</quote>
+<quote>
+...a tool kit.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's kit 
+</seg>
+je posebna obleka, ki jo uporabljamo pri dolo&ccaron;enem &scaron;portu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprema
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Have you brought your squash kit?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A kit 
+</seg>
+je tudi skupina delov, ki jih lahko sestavimo, da nekaj naredimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(sestavljiv) komplet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a do-it-yourself radio kit.
+</quote>
+</seg>
+</sense>
+</entry>

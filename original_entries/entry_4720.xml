@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enslave
+</orth>
+<form type="variant">
+<pron>
+/I2nsl*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+enslaves, enslaving, enslaved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enslave someone 
+</seg>
+pomeni nekoga spremeniti v su&zcaron;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasu&zcaron;ljiti, podjarmiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was enslaved and ill-treated.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enslaved
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...enslaved peoples.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+enslavement
+</orth>
+<form type="variant">
+<pron>
+/I2nsl*e*Ivm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the enslavement of the whole population.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enslave people 
+</seg>
+pomeni tudi dr&zcaron;ati ljudi v te&zcaron;avnem polo&zcaron;aju, iz katerega ne morejo uiti.
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasu&zcaron;njiti, prikleniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Men were enslaved by developing industrialism.
+</quote>
+</seg>
+</sense>
+</entry>

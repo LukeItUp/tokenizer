@@ -1,0 +1,191 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+book
+</orth>
+<form type="variant">
+<pron>
+/b*Uk/
+</pron>
+</form>
+<form type="inflected">
+books, booking, booked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A book 
+</seg>
+je predmet, sestavljen iz ve&ccaron; spetih listov papirja, navadno potiskanih z besedami in pritrjenih v ovitek iz debelej&scaron;ega papirja ali lepenke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+knjiga
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A book of something
+</seg>
+, na primer znamk, v&zcaron;igalic ali vstopnic, je manj&scaron;e &scaron;tevilo takih predmetov, vpetih med tanko lepenko ali plasti&ccaron;ne platnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blok
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A company's or organization's books 
+</seg>
+so zapisi o porabljenem ali zaslu&zcaron;enem denarju ali seznam imen ljudi, ki so &ccaron;lani dru&zcaron;be ali organizacije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+knjige; seznam
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He's going to help me go over my books and check the totals.
+</quote>
+<quote>
+His name is no longer on our books.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To book something
+</seg>
+, na primer hotelsko sobo ali vstopnico, pomeni poskrbeti, da jo bomo lahko ob dolo&ccaron;enem &ccaron;asu dobili ali uporabili; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+rezervirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'd like to book a table for four for tomorrow night.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+booking
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je hotel, restavracija ali gledali&scaron;&ccaron;e 
+<seg type="lemma">
+booked up
+</seg>
+ ali 
+<FV>
+fully booked, tam ob dolo&ccaron;eni uri ali dnevu ni ve&ccaron; prostih sob, miz ali vstopnic. 
+</FV>
+</def>
+<cit type="translationEquivalent">
+<quote>
+(polno) zaseden
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+in someone's bad books
+</seg>
+, je nekdo jezen nanj. Kadar pa je
+<FV>
+in someone's good books
+</FV>
+, je tisti &ccaron;lovek z njim zadovoljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pri kom slabo/dobro zapisan
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+book into 
+<VS>
+ali 
+</VS>
+<VV>
+book in.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To book into a hotel
+</seg>
+ ali 
+<seg type="variant">
+to book in 
+</seg>
+pomeni uradno potrditi, da smo pri&scaron;li zato, da bi se nastanili v hotelu, navadno s podpisom v knjigi gostov; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

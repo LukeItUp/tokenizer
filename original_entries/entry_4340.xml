@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drunk
+</orth>
+<form type="variant">
+<pron>
+/dr*VNk/
+</pron>
+</form>
+<form type="inflected">
+drunks.
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Drunk 
+</seg>
+je pretekli dele&zcaron;nik glagola 
+<ref>
+to drink
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+piti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+drunk
+</seg>
+, je popil toliko alkohola, da ne more jasno gvoriti ali se razumno vesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pijan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was so drunk he couldn't write a word.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drunk 
+</seg>
+je &ccaron;lovek, ki je pijan ali se pogosto napije alkohola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pijanec
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,130 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+punch
+</orth>
+<form type="variant">
+<pron>
+/p*VntS/
+</pron>
+</form>
+<form type="inflected">
+punches, punching, punched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To punch someone 
+</seg>
+pomeni nekoga mo&ccaron;no udariti s pestjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mahniti, udariti, suniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Boylan punched him hard on the nose.
+</quote>
+<quote>
+I was punched in the stomach.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...aiming a slow punch at my jaw.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A punch 
+</seg>
+je orodje, s katerim delamo luknje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;ilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made a small hole in the belt with a leather punch.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To punch holes in something 
+</seg>
+pomeni potiskati oster predmet v nekaj in tako delati luknje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+luknjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Edward was punching holes in a can.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Punch 
+</seg>
+je pija&ccaron;a, navadno narejena iz vina ali &zcaron;gane pija&ccaron;e; pome&scaron;ana je s sladkorjem, sadjem in za&ccaron;imbami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pun&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...hot rum punch.
+</quote>
+</seg>
+</sense>
+</entry>

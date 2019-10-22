@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+require
+</orth>
+<form type="variant">
+<pron>
+/rI1kw*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+requires, requiring, required;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To require something 
+</seg>
+pomeni, da nam je tisto potrebno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is there anything you require?
+</quote>
+<quote>
+Parliamentary approval would be required for it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is required to do something
+</seg>
+, mora tisto storiti, na primer zato, ker tako dolo&ccaron;a pravilo ali zakon. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati, morati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the boys were required to study religion.
+</quote>
+<quote>
+He was doing what was required of him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+required
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Check that the machines meet required standards.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

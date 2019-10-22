@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+skate
+</orth>
+<form type="variant">
+<pron>
+/sk*e*It/
+</pron>
+</form>
+<form type="inflected">
+skates, skating, skated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A skate 
+</seg>
+pomeni tudi 
+<seg type="lemma">
+ice-skate
+</seg>
+ ali 
+<seg type="lemma">
+roller-skate
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drsalka; kotalka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To skate 
+</seg>
+pomeni premikati se na drsalkah ali kotalkah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drsati se, kotalkati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...skating across the frozen pond.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+skating
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There is skating in the winter.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To skate round 
+</seg>
+ali 
+<seg type="lemma">
+to skate over a difficult subject 
+</seg>
+pomeni izogniti se neprijetni t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presko&ccaron;iti, narediti ovinek, izogniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He skated round the subject once or twice.
+</quote>
+<quote>
+The book skates over the technicalities.
+</quote>
+</seg>
+</sense>
+</entry>

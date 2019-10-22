@@ -1,0 +1,339 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+speak
+</orth>
+<form type="variant">
+<pron>
+/sp*i*:k/
+</pron>
+</form>
+<form type="inflected">
+speaks, speaking, spoke 
+<pron>
+/sp*@*Uk/
+</pron>
+, 
+<form type="inflected">
+spoken 
+<pron>
+/sp*@*Uk@0n/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To speak 
+</seg>
+pomeni uporabiti glas, da izre&ccaron;emo besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She spoke with an Irish accent.
+</quote>
+<quote>
+Mary turned her head to speak to him.
+</quote>
+<quote>
+He hadn&apos;t been able to speak of what had happened.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+spoken
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a robot capable of understanding spoken commands.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To speak a foreign language 
+</seg>
+pomeni obvladati tuj jezik in ga biti spodoben uporabljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They spoke fluent English.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To speak well or badly of someone 
+</seg>
+pomeni re&ccaron;i dobre ali slabe stvari o nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro/slabo govoriti o
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The students spoke highly of their history lecturer.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+so to speak 
+</seg>
+poka&zcaron;emo, da tisto, kar govorimo, ni dobesedno res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tako reko&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He goes to work early; before the office is awake, so to speak.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazi kot 
+<seg type="lemma">
+generally speaking 
+</seg>
+in 
+<FV>
+technically speaking 
+</FV>
+poka&zcaron;emo, kak&scaron;ne vrste je na&scaron;a izjava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na splo&scaron;no re&ccaron;eno; strokovno povedano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+America is still, generally speaking, the most technologically advanced country.
+</quote>
+<quote>
+Roughly speaking, there are two possibilities.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+speaking of 
+</seg>
+uvedemo novo t&eacute;mo pogovora, na katero nas napeljuje pravkar uporabljena beseda ali izraz. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ko smo &zcaron;e pri tem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s nice to have an admirer who gives nothing away. Speaking of giving away, I have brought you a present.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+nobody to speak of 
+</seg>
+ali 
+<FV>
+nothing to speak of 
+</FV>
+pomenita skoraj nih&ccaron;e ali ni&ccaron; ali pa samo nepomembne osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevreden omembe; ni&ccaron; takega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Did you find anything?&rsquo;&mdash;&lsquo;No, nothing to speak of.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+are not on speaking terms
+</seg>
+, nikoli ne govorijo drug z drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne govoriti z nekom
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To speak one&apos;s mind on something 
+</seg>
+pomeni povedati natan&ccaron;no tako, kot mislimo o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati svoje mnenje
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+speaks for itself
+</seg>
+, so lastnosti ali pomen tistega tako o&ccaron;itne, da jih ni treba pojasnjevati ali nanje opozarjati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti samo zase
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+speak for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To speak for a group of people 
+</seg>
+pomeni pojasniti mnenje skupine ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti v imenu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m only speaking for myself, not for my colleagues.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+speak out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To speak out in favour of something or against something 
+</seg>
+pomeni javno povedati, da mislimo, da je nekaj dobro ali slabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastopiti proti, odkrito govoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He spoke out against racial discrimination many times.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+speak up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+speak up 
+</seg>
+uporabimo, kadar nekoga prosimo, naj govori glasneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti glasno
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

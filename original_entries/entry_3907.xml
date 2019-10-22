@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disadvantage
+</orth>
+<form type="variant">
+<pron>
+/d*Is@3dv*A*:ntIdZ/
+</pron>
+</form>
+<form type="inflected">
+disadvantages.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A disadvantage 
+</seg>
+je tisti del okoli&scaron;&ccaron;in, ki povzro&ccaron;a te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomanjkljivost, slaba stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the disadvantages of living in cities.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je &ccaron;lovek 
+<seg type="lemma">
+at a disadvantage
+</seg>
+, ima problem, ki ga drugi nimajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neugoden polo&zcaron;aj, &scaron;koda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These restrictions put banks at a disadvantage.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

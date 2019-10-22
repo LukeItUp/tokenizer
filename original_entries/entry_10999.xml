@@ -1,0 +1,409 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+present
+</orth>
+<form type="inflected">
+presents, presenting, presented;
+</form>
+<PN>
+pridevnik in samostalnik izgovarjamo 
+<pron>
+/pr*ez@nt/
+</pron>
+, glagol pa 
+<pron>
+/pri1z*ent/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+present 
+</seg>
+opisujemo osebe in stvari, ki obstajajo zdaj, v nasprotju s tistimi, ki so obstajale v preteklosti ali bodo obstajale v prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdaj&scaron;nji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The present chairperson is a woman.
+</quote>
+<quote>
+Economic planning cannot succeed in present conditions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The present 
+</seg>
+je obdobje, ki poteka zdaj, in stvari, ki se dogajajo zdaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sedanjost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to come to terms with the present.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+present at an event
+</seg>
+, se udele&zcaron;i neke prireditve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+navzo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been present at the dance.
+</quote>
+<quote>
+There was a photographer present.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A present 
+</seg>
+je nekaj, kar damo komu, na primer za rojstni dan ali bo&zcaron;i&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+darilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I gave him an atlas as a birthday present.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+REFL VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present oneself somewhere 
+</seg>
+pomeni nekje naznaniti, da smo pri&scaron;li; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+javiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The next morning I presented myself at their offices.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present someone to an important person 
+</seg>
+pomeni nekoga uradno seznaniti z neko pomembno osebo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+predstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+May I present Mr Rudolph Wallace.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present someone with something
+</seg>
+ pomeni nekomu nekaj uradno dati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izro&ccaron;iti komu kaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He presented her with a signed copy of his book.
+</quote>
+<quote>
+One of his constituents presented a petition to Parliament.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+presents a difficulty or a challenge
+</seg>
+, predstavlja te&zcaron;avo ali izziv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti, pomeniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tornado presented the island with severe problems.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present information 
+</seg>
+pomeni posredovati podatke ljudem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstaviti, posredovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a way of presenting new material.
+</quote>
+<quote>
+Our teachers were trying to present us with an accurate picture of history.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present someone or something in a particular way 
+</seg>
+pomeni opisati osebo ali stvar na dolo&ccaron;en na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her lawyer wanted to present her in the most favourable light.
+</quote>
+<quote>
+They present the British as the colonialist oppressor.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To present a programme on television or radio 
+</seg>
+pomeni v televizijski ali radijski oddaji predstaviti posamezne dele ali nastopajo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...&rsquo;University Link&rsquo;, compiled and presented by Dr Brian Smith.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+presenter
+</orth>
+<form type="variant">
+<pron>
+/pri1z*ent@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Her strong point is that she&apos;s a very good presenter.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+at present
+</seg>
+, se dogaja zdaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trenutno, zdaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He is at present serving a life sentence.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neke okoli&scaron;&ccaron;ine obstajajo 
+<seg type="lemma">
+for the present
+</seg>
+, obstajajo zdaj, vendar je verjetno, da se bodo spremenile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za zdaj, zaenkrat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For the present she continues with the antibiotics.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The present day 
+</seg>
+je obdobje, ki poteka zdaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+danes, dana&scaron;nji dan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This tradition has continued till the present day.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

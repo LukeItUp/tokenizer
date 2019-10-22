@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p32_s34560" id="p32_w664" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="274.15" y="246.198" base="251.36" width="24.8016" height="6.844">/ær6b/,</TOKEN>
+<TOKEN sid="p32_s34560" id="p32_w664" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="274.15" y="246.198" base="251.36" width="24.8016" height="6.844">/&#230;r6b/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -45,7 +45,7 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p32_s34581" id="p32_w685" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="317.19" y="263.824" base="269.52" width="17.671" height="7.552">…his</TOKEN>
+<TOKEN sid="p32_s34581" id="p32_w685" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="317.19" y="263.824" base="269.52" width="17.671" height="7.552">&#8230;his</TOKEN>
 <TOKEN sid="p32_s34582" id="p32_w686" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="338.621" y="263.824" base="269.52" width="17.8373" height="7.552">early</TOKEN>
 <TOKEN sid="p32_s34583" id="p32_w687" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="360.218" y="263.824" base="269.52" width="11.2702" height="7.552">life</TOKEN>
 <TOKEN sid="p32_s34584" id="p32_w688" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="375.248" y="263.824" base="269.52" width="23.4461" height="7.552">among</TOKEN>
@@ -53,7 +53,7 @@
 <TOKEN sid="p32_s34586" id="p32_w690" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="417.332" y="263.824" base="269.52" width="22.7988" height="7.552">Arabs.</TOKEN>
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 <TOKEN sid="p32_s34587" id="p32_w691" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="272.904" base="278.6" width="17.5889" height="7.552">Tudi:</TOKEN>
@@ -71,6 +71,6 @@
 <TOKEN sid="p32_s34595" id="p32_w699" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="281.974" base="287.67" width="16.2511" height="7.552">were</TOKEN>
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

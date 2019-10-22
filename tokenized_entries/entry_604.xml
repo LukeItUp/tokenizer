@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p29_s31371" id="p29_w808" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="296.56" y="346.058" base="351.22" width="44.6916" height="6.844">/6pÉl6dÇaËz/,</TOKEN>
+<TOKEN sid="p29_s31371" id="p29_w808" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="296.56" y="346.058" base="351.22" width="44.6916" height="6.844">/6p&#201;l6d&#199;a&#203;z/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -14,29 +14,29 @@
 <TOKEN sid="p29_s31374" id="p29_w811" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="421.975" y="345.88" base="351.22" width="20.2433" height="7.08">apolo-</TOKEN>
 <TOKEN sid="p29_s31375" id="p29_w812" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="260.81" y="354.96" base="360.3" width="18.1508" height="7.08">gized;</TOKEN>
 </form>
-<form type="variant">
+<SN>
 <TOKEN sid="p29_s31376" id="p29_w813" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.43" y="354.604" base="360.3" width="23.3424" height="7.552">pi{emo</TOKEN>
 <TOKEN sid="p29_s31377" id="p29_w814" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="305.243" y="354.604" base="360.3" width="13.6037" height="7.552">tudi</TOKEN>
-<orth>
+<SV>
 <TOKEN sid="p29_s31378" id="p29_w815" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="320.33" y="354.96" base="360.3" width="32.0416" height="7.08">apologise.</TOKEN>
-</orth>
-</form>
+</SV>
+<TOKEN sid="p29_s31379" id="p29_w816" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="353.84" y="356.384" base="360.3" width="7.06068" height="5.192">VB</TOKEN>
+</SN>
 </form>
 <sense>
 <gramGrp>
 <pos>
-<TOKEN sid="p29_s31379" id="p29_w816" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="353.84" y="356.384" base="360.3" width="7.06068" height="5.192">VB</TOKEN>
+<TOKEN sid="p29_s31380" id="p29_w817" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.41" y="354.604" base="360.3" width="21.0758" height="7.552">Kadar</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-<TOKEN sid="p29_s31380" id="p29_w817" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="362.41" y="354.604" base="360.3" width="21.0758" height="7.552">Kadar</TOKEN>
 <TOKEN sid="p29_s31381" id="p29_w818" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="384.955" y="354.604" base="360.3" width="21.348" height="7.552">~lovek</TOKEN>
-<seg type="lemma">
 <TOKEN sid="p29_s31382" id="p29_w819" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="407.79" y="354.604" base="360.3" width="34.4246" height="7.552">apologizes</TOKEN>
+<seg type="lemma">
 <TOKEN sid="p29_s31383" id="p29_w820" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="363.684" base="369.38" width="6.80328" height="7.552">to</TOKEN>
 <TOKEN sid="p29_s31384" id="p29_w821" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="269.213" y="363.684" base="369.38" width="31.1688" height="7.552">someone,</TOKEN>
-</seg>
 <TOKEN sid="p29_s31385" id="p29_w822" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="301.982" y="363.684" base="369.38" width="20.7965" height="7.552">izjavi,</TOKEN>
+</seg>
 <TOKEN sid="p29_s31386" id="p29_w823" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.378" y="363.684" base="369.38" width="8.40168" height="7.552">da</TOKEN>
 <TOKEN sid="p29_s31387" id="p29_w824" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.38" y="363.684" base="369.38" width="10.7993" height="7.552">mu</TOKEN>
 <TOKEN sid="p29_s31388" id="p29_w825" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="346.779" y="363.684" base="369.38" width="5.99688" height="7.552">je</TOKEN>
@@ -49,21 +49,22 @@
 <TOKEN sid="p29_s31395" id="p29_w832" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="271.407" y="372.764" base="378.46" width="10.7993" height="7.552">mu</TOKEN>
 <TOKEN sid="p29_s31396" id="p29_w833" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.006" y="372.764" base="378.46" width="31.4453" height="7.552">povzro~il</TOKEN>
 <TOKEN sid="p29_s31397" id="p29_w834" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="317.252" y="372.764" base="378.46" width="23.6045" height="7.552">te`ave.</TOKEN>
+<TOKEN sid="p29_s31399" id="p29_w836" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.67" y="372.764" base="378.46" width="33.1927" height="7.552">opravi~iti</TOKEN>
 </def>
 <cit type="translationEquivalent">
 <quote>
-<TOKEN sid="p29_s31399" id="p29_w836" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.67" y="372.764" base="378.46" width="33.1927" height="7.552">opravi~iti</TOKEN>
 <TOKEN sid="p29_s31400" id="p29_w837" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="383.663" y="372.764" base="378.46" width="8.79696" height="7.552">se;</TOKEN>
+<TOKEN sid="p29_s31401" id="p29_w838" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.25" y="372.764" base="378.46" width="2.8008" height="7.552">I</TOKEN>
 </quote>
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p29_s31401" id="p29_w838" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.25" y="372.764" base="378.46" width="2.8008" height="7.552">I</TOKEN>
 <TOKEN sid="p29_s31402" id="p29_w839" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="398.85" y="372.764" base="378.46" width="31.9925" height="7.552">apologise</TOKEN>
 <TOKEN sid="p29_s31403" id="p29_w840" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="432.642" y="372.764" base="378.46" width="9.59472" height="7.552">for</TOKEN>
 <TOKEN sid="p29_s31404" id="p29_w841" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.811" y="381.844" base="387.54" width="10.4026" height="7.552">my</TOKEN>
 <TOKEN sid="p29_s31405" id="p29_w842" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="273.212" y="381.844" base="387.54" width="12.7973" height="7.552">late</TOKEN>
 <TOKEN sid="p29_s31406" id="p29_w843" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.008" y="381.844" base="387.54" width="25.1899" height="7.552">arrival.</TOKEN>
+<TOKEN sid="p29_s31407" id="p29_w844" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="390.212" base="396.62" width="32.7704" height="8.514">apology</TOKEN>
 </quote>
 </seg>
 </sense>

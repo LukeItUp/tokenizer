@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+untrue
+</orth>
+<form type="variant">
+<pron>
+/Vntr*u*:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+untrue
+</seg>
+, ni resni&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neresni&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The story was probably untrue.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+untrue to someone
+</seg>
+, nekomu ni zvest ali mu la&zcaron;e; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nezvest
+</quote>
+</cit>
+</sense>
+</entry>

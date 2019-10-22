@@ -1,0 +1,235 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subject,
+</orth>
+<form type="inflected">
+subjects, subjecting, subjected;
+</form>
+<PN>
+samostalnik, pridevnik ali predlog izgovarjamo 
+<pron>
+/s*VbdZI2kt/
+</pron>
+, glagol pa 
+<pron>
+/s*@bdZ*ekt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The subject of a conversation, letter, or book 
+</seg>
+je tisto, o &ccaron;emer te&ccaron;e beseda v pogovoru, pismu ali knjigi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+t&eacute;ma, predmet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t have any strong views on the subject.
+</quote>
+<quote>
+However much you try to change the subject, the conversation invariably returns to politics.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The subject of a clause 
+</seg>
+je v slovnici tista samostalni&scaron;ka besedna zveza, s katero poimenujemo osebo ali stvar, ki izvaja dejanje, izra&zcaron;eno s povedkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osebek
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A subject 
+</seg>
+je tudi na primer kemija, zgodovina ali angle&scaron;&ccaron;ina, ki se je u&ccaron;imo v &scaron;oli ali na univerzi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predmet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Maths was my best subject at school.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The subjects of a country 
+</seg>
+so ljudje, ki &zcaron;ivijo v neki dr&zcaron;avi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;avljan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...British subjects.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so ljudje 
+<seg type="lemma">
+subject
+</seg>
+, jih nadzoruje vlada ali vladar. Kadar so dr&zcaron;ave 
+<seg type="lemma">
+subject
+</seg>
+, jih nadzoruje druga dr&zcaron;ava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podlo&zcaron;en, podrejen, podjarmljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...freedom for the subject peoples of the world.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be subject to something 
+</seg>
+pomeni soditi pod dolo&ccaron;ena pravila ali zakone ali nagnjen k ne&ccaron;emu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvr&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your profit will be subject to tax.
+</quote>
+<quote>
+He is highly strung and, therefore, subject to heart attacks.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se bo ena stvar zgodila 
+<seg type="lemma">
+subject to another
+</seg>
+, se bo zgodila le pod pogojem, da se zgodi nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s pogojem, ob upo&scaron;tevanju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The property will be sold subject to the following conditions.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To subject someone to something unpleasant 
+</seg>
+pomeni poskrbeti, da nekdo do&zcaron;ivi nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvre&ccaron;i, izpostaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was subjected to the harshest possible punishment.
+</quote>
+</seg>
+</sense>
+</entry>

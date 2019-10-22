@@ -1,0 +1,269 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+force
+</orth>
+<form type="variant">
+<pron>
+/f*O*:s/
+</pron>
+</form>
+<form type="inflected">
+forces, forcing, forced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To force someone to do something 
+</seg>
+pomeni povzro&ccaron;iti, da nekdo nekaj stori, &ccaron;eprav tega no&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They forced him to resign.
+</quote>
+<quote>
+She forced herself to kiss her mother's cheek.
+</quote>
+<quote>
+...the campaign to force the closure of the factory.
+</quote>
+<quote>
+Weekend gales forced him to change his plans.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To force something into a particular position 
+</seg>
+pomeni z mo&ccaron;jo in prisilo dose&ccaron;i, da se nekaj nekam premakne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasilno potisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I forced his head back.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To force a lock, door, or safe 
+</seg>
+pomeni razbiti klju&ccaron;avnico ali nasilno odpreti vrata ali blagajno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti, vlomiti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Force 
+</seg>
+je mo&ccaron; ali sila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron;, sila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have renounced the use of force to settle our disputes.
+</quote>
+<quote>
+I hit him with all the force I could muster.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be a force in a situation 
+</seg>
+pomeni imeti velik vpliv na neki polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Britain is re-establishing itself as a powerful force in world affairs.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V fiziki je 
+<seg type="lemma">
+a force 
+</seg>
+privla&ccaron;na ali odbojna mo&ccaron;, ki jo ima ena stvar na drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sila
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...magnetic forces.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A force 
+</seg>
+je tudi organizirana skupina vojakov ali oboro&zcaron;enih oseb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oboro&zcaron;ene sile, vojska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the United States armed forces.
+</quote>
+<quote>
+...a guerrilla force.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To force one's way into a place 
+</seg>
+pomeni odrivati ali lomiti predmete, ki so nam napoti, da bi pri&scaron;li v neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izsiliti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo nekaj stori 
+<seg type="lemma">
+from force of habit
+</seg>
+, to stori, ker je bil to navajen po&ccaron;eti v preteklosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron; navade, &zcaron;elezna srajca
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Zakon ali sistem, ki je 
+<seg type="lemma">
+in force
+</seg>
+, velja oziroma je v uporabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veljaven, v veljavi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when the system comes into force.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kdor 
+<seg type="lemma">
+joins forces with someone
+</seg>
+, dela z nekom, da bi dosegla skupni cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdru&zcaron;iti sile
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inverse
+</orth>
+<form type="variant">
+<pron>
+/*Inv*$e*:s/
+</pron>
+;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je odnos med dvema stvarema ali koli&ccaron;inama 
+<seg type="lemma">
+inverse
+</seg>
+, se pri njem ena pove&ccaron;uje, ko se druga zmanj&scaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrnjen, obraten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The time spent varies in inverse proportion to the amount of work done.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The inverse of something 
+</seg>
+je natan&ccaron;no nasprotje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasprotje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It represents the inverse of everything I find worth preserving.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The inverse case is also worth considering.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

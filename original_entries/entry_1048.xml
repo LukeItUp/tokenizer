@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bankrupt
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;Nkr@9pt/
+</pron>
+</form>
+<form type="inflected">
+bankrupts, bankrupting, bankrupted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ljudje ali organizacije, ki so 
+<seg type="lemma">
+bankrupt
+</seg>
+, nimajo dovolj denarja za poravnavo svojih dolgov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obubo&zcaron;an, v ste&ccaron;aju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The company has gone bankrupt.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bankrupt a person or company 
+</seg>
+pomeni prisiliti &ccaron;loveka ali podjetje k ste&ccaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti na bera&scaron;ko palico
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bankrupt 
+</seg>
+je oseba, ki je uradno razglasila, da je v ste&ccaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bankroter, ste&ccaron;ajnik
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+bankrupt
+</seg>
+, tistemu v celoti manjka dolo&ccaron;ena lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomanjkljiv, prazen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the mindless, intellectually bankrupt leadership.
+</quote>
+</seg>
+</sense>
+</entry>

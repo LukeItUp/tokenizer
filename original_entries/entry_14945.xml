@@ -1,0 +1,50 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tussle
+</orth>
+<form type="variant">
+<pron>
+/t*Vs@0l/
+</pron>
+</form>
+<form type="inflected">
+tussles, tussling, tussled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tussle 
+</seg>
+je boj ali prepri&ccaron;evanje med dvema osebama. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spopad, ogor&ccaron;ena razprava, ravs
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was still smarting from the tussle over the bottle.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...directors tussling about levels of authority.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

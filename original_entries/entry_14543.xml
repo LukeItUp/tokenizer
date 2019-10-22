@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thunder
+</orth>
+<form type="variant">
+<pron>
+/T*Vnd@/
+</pron>
+</form>
+<form type="inflected">
+thunders, thundering, thundered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Thunder 
+</seg>
+je zvok, ki ga sli&scaron;imo na nebu, potem ko se zabliska. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a clap of thunder.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+It thunders
+</seg>
+ pomeni, da grmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grmeti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The thunder of something 
+</seg>
+je mo&ccaron;en in nizek zvok, ki ga povzro&ccaron;a neko dogajanje, na primer promet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grmenje, bobnenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the thunder of five hundred war drums.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To thunder 
+</seg>
+pomeni povzro&ccaron;ati glasen trajajo&ccaron; zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grmeti, bobneti
+</quote>
+</cit>
+</sense>
+</entry>

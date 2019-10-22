@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+businessman
+</orth>
+<form type="variant">
+<pron>
+/b*IznIsm@3n/
+</pron>
+</form>
+<form type="inflected">
+businessmen.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A businessman 
+</seg>
+je &ccaron;lovek, ki dela v nekem podletju, na primer na kakem vodilnem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslovne&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a good businessman
+</seg>
+, zna obra&ccaron;ati denar in sklepati dobre kup&ccaron;ije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dober trgovec
+</quote>
+</cit>
+</sense>
+</entry>

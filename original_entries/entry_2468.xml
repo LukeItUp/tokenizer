@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clog
+</orth>
+<form type="variant">
+<pron>
+/kl*Qg/
+</pron>
+</form>
+<form type="inflected">
+clogs, clogging, clogged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+clogs a hole
+</seg>
+, zapre luknjo tako, da ne more ni&ccaron; skoznjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zama&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His rifle was clogged with sand.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Clogs 
+</seg>
+so te&zcaron;ki usnjeni ali leseni &ccaron;evlji z debelimi lesenimi podplati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cokla
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+clog up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+clogged up
+</seg>
+, je zama&scaron;eno in ne deluje ve&ccaron; pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zama&scaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If the cooling unit gets clogged up with ice it can't do its job efficiently.
+</quote>
+<quote>
+Their lungs may progressively clog up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

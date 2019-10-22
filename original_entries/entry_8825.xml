@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+meander
+</orth>
+<form type="variant">
+<pron>
+/mi1*&ae;nd@/
+</pron>
+</form>
+<form type="inflected">
+meanders, meandering, meandered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar reka ali cesta 
+<seg type="lemma">
+meanders
+</seg>
+, ima veliko zavojev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+viti se, vijugati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A stream meandered towards the sea.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To meander 
+</seg>
+pomeni tudi hoditi po&ccaron;asi in ne naravnost proti cilju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pohajkovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We meandered along eating nuts and blackberries.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prove
+</orth>
+<form type="variant">
+<pron>
+/pr*u*:v/
+</pron>
+</form>
+<form type="inflected">
+proves, proving, proved, proven 
+<pron>
+/pr*u*:v@0n/
+</pron>
+.
+</form>
+<IN>
+Oblika za pretekli dele&zcaron;nik je lahko 
+<IH>
+proved 
+</IH>
+<IC>
+ali 
+</IC>
+<IH>
+proven
+</IH>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prove that something is true 
+</seg>
+pomeni pokazati, da je nekaj zanesljivo res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dokazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was able to prove that he was an American.
+</quote>
+<quote>
+He is going to have to prove his innocence.
+</quote>
+<quote>
+She has to be proved wrong.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+proven
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This man is a proven liar.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+proves to have a particular quality
+</seg>
+, se za tisto izka&zcaron;e, da ima dolo&ccaron;eno lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I proved to be hopeless as a teacher.
+</quote>
+<quote>
+This information has proved useful.
+</quote>
+</seg>
+</sense>
+</entry>

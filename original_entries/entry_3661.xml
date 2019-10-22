@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+denial
+</orth>
+<form type="variant">
+<pron>
+/dI2n*a*I*@l/
+</pron>
+</form>
+<form type="inflected">
+denials.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A denial of something 
+</seg>
+je izjava, da nekaj ni resni&ccaron;no, na primer obto&zcaron;ba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanikanje, preklic
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made a personal denial of all the charges against him.
+</quote>
+<quote>
+...the government&apos;s policy of denial.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Denial of something
+</seg>
+ pomeni, da ljudem ni dovoljeno, da bi imeli nekaj, do &ccaron;esar imajo po njihovem mnenju pravico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvzem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They protested against the continued denial of civil liberties.
+</quote>
+</seg>
+</sense>
+</entry>

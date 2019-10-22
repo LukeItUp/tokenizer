@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dame
+</orth>
+<form type="variant">
+<pron>
+/d*e*Im/
+</pron>
+</form>
+<form type="inflected">
+dames.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dame 
+</seg>
+je &zcaron;enska; 
+</def>
+<usg>
+pogovorna ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dama, gospa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Remember, some of these dames are very powerful in movies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V Veliki Britaniji je 
+<seg type="lemma">
+Dame 
+</seg>
+naslov, ki ga podelijo &zcaron;enski kot posebno &ccaron;ast zaradi pomembne slu&zcaron;be ali dela, ki ga je opravila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dama
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Dame Flora Robson.
+</quote>
+</seg>
+</sense>
+</entry>

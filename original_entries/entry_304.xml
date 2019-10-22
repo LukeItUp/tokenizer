@@ -5,15 +5,17 @@ agonizing
 </orth>
 <form type="variant">
 <pron>
-/*#ae;g@7naIzIN/
+/*&ae;g@7naIzIN/
 </pron>
+;
 </form>
-<form type="variant">
-pi&#353;emo tudi
-<orth>
-agonising.
-</orth>
-</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+agonising
+</SV>
+. 
+</SN>
 </form>
 <sense n="1">
 <gramGrp>
@@ -22,16 +24,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 agonizing
 </seg>
-nam povzro&#269;a hude
-telesne ali du&#353;evne bole&#269;ine.
+, nam povzro&ccaron;a hude telesne ali du&scaron;evne bole&ccaron;ine. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-mu&#269;en
+mu&ccaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -44,7 +45,6 @@ mu&#269;en
 <orth>
 agonizingly
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -64,16 +64,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Odlo&#269;itve ali izbire, ki so
+Odlo&ccaron;itve ali izbire, ki so 
 <seg type="lemma">
 agonizing
 </seg>
-so
-zelo te&#382;avne.
+, so zelo te&zcaron;avne. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-mu&#269;en
+mu&ccaron;en
 </quote>
 </cit>
 </sense>

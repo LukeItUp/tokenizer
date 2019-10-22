@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+edition
+</orth>
+<form type="variant">
+<pron>
+/I2d*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+editions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An edition 
+</seg>
+je dolo&ccaron;ena razli&ccaron;ica knjige, revije ali &ccaron;asopisa, ki ga natisnejo naenkrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izdaja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the city edition of the New York Times.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An edition 
+</seg>
+je tudi ena v seriji televizijskih ali radijskih oddaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddaja, epizoda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tonight's edition of Kaleidoscope.
+</quote>
+</seg>
+</sense>
+</entry>

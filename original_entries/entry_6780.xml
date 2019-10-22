@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hike
+</orth>
+<form type="variant">
+<pron>
+/h*a*Ik/
+</pron>
+</form>
+<form type="inflected">
+hikes, hiking, hiked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hike 
+</seg>
+je dolg sprehod v naravi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&scaron;a&ccaron;enje, izlet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;re going on a four mile hike tomorrow.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hike 
+</seg>
+pomeni hoditi na dolge sprehode v naravi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&scaron;a&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was in Switzerland, hiking.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+hiker
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I watched the hikers scrambling up the gully.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+hiking
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We have maps of the area where we hope to do some hiking.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

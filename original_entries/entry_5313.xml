@@ -1,0 +1,311 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+figure
+</orth>
+<form type="variant">
+<pron>
+/f*Ig@/
+</pron>
+</form>
+<form type="inflected">
+figures, figuring, figured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A figure 
+</seg>
+je dolo&ccaron;ena koli&ccaron;ina, izra&zcaron;ena s &scaron;tevilko, zlasti v statistiki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilka, podatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...unemployment figures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A figure 
+</seg>
+je tudi katerikoli od desetih znakov od 0 do 9; z njimi ponazarjamo &scaron;tevila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilka, cifra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a three-figure number.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A figure 
+</seg>
+je oblika osebe, ki je ne vidimo jasno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lik, podoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could see a small female figure advancing towards us.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki ga imenujemo 
+<seg type="lemma">
+a particular type of figure
+</seg>
+, je dobro znan in na neki na&ccaron;in pomemben. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osebnost, oseba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was a key figure in the independence struggle.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+a mother figure 
+</seg>
+ali 
+<seg type="lemma">
+a hero figure
+</seg>
+, ima lastnosti, zna&ccaron;ilne za matere ali junake. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lik, podoba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...authority figures.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s figure 
+</seg>
+je oblika &ccaron;lovekovega telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;s got a fabulous figure.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A figure 
+</seg>
+je tudi risba ali diagram v knjigi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skica, diagram
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The original design was modified (see Figure 4.)
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To figure that something is the case 
+</seg>
+pomeni misliti ali uganiti, da je nekaj tako, kot je; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ugotoviti, misliti, presoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They figured it was better to stay where they were.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To figure in something 
+</seg>
+pomeni pojaviti se ali biti vsebovan v ne&ccaron;em, najsi bo &ccaron;lovek ali stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastopati, pojaviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Loneliness figures quite a lot in his conversation.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Scaron;tevilo, ki je 
+<seg type="lemma">
+in double figures
+</seg>
+, zna&scaron;a med deset in devetindevetdeset. &Scaron;tevilo, ki je 
+<seg type="lemma">
+in single figures
+</seg>
+, zna&scaron;a med ni&ccaron; in devet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvomesten; enomesten
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To put a figure on an amount 
+</seg>
+pomeni natan&ccaron;no povedati, kolik&scaron;no koli&ccaron;ino mislimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolo&ccaron;iti natan&ccaron;en znesek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They said defence spending should be raised but put no figure on the increase they wanted.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+figure out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To figure out something 
+</seg>
+pomeni najti re&scaron;itev ali razlog za nekaj, na primer za problem; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ugotoviti, domisliti se, stuhtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had not yet figured out what she was going to do.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

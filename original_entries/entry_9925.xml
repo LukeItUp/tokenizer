@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+organic
+</orth>
+<form type="variant">
+<pron>
+/O:g*&ae;nIk/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+organic
+</seg>
+, je rastlinskega ali &zcaron;ivalskega izvora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+organski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rocks were carefully searched for organic remains.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri vrtnarjenju ali kmetovanju, ki je 
+<seg type="lemma">
+organic
+</seg>
+, uporabljamo samo naravne &zcaron;ivalske in rastlinske izdelke, umetnih gnojil ali pesticidov pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biolo&scaron;ki
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+organically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...organically grown vegetables.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

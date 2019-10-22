@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+summary
+</orth>
+<form type="variant">
+<pron>
+/s*Vm@ri1/
+</pron>
+</form>
+<form type="inflected">
+summaries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A summary 
+</seg>
+je kratek opis ne&ccaron;esa, ki vsebuje klju&ccaron;ne zna&ccaron;ilnosti, ne pa tudi podrobnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzetek, obnova
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Here is a summary of the plot.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so dejanja 
+<seg type="lemma">
+summary
+</seg>
+, jih izvedemo brez odla&scaron;anja, &ccaron;eprav bi prej ali namesto tega morali narediti nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagel, skraj&scaron;an, izveden po hitrem postopku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...mass arrests and summary executions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+summarily
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He summarily dismissed our problem as unimportant.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

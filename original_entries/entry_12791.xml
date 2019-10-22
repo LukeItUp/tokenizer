@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shield
+</orth>
+<form type="variant">
+<pron>
+/S*i*:ld/
+</pron>
+</form>
+<form type="inflected">
+shields, shielding, shielded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shield 
+</seg>
+je velik kos kovine ali usnja, s katerim so si v&ccaron;asih vojaki varovali telo med bojem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;&ccaron;it
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shield someone from danger 
+</seg>
+pomeni biti med nekom in virom nevarnosti zanj, tako da ga zavarujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+varovati, &scaron;&ccaron;ititi, kriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her parasol was propped up behind her to shield her from the sun.
+</quote>
+</seg>
+</sense>
+</entry>

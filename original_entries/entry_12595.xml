@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seizure
+</orth>
+<form type="variant">
+<pron>
+/s*i*:Z@/
+</pron>
+</form>
+<form type="inflected">
+seizures.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A seizure of power 
+</seg>
+je dejanje, pri katerem skupina ljudi s silo nenadoma prevzame nadzor nad nekim krajem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevzem, zavzetje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the seizure of factories by the workers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a seizure 
+</seg>
+pomeni do&zcaron;iveti sr&ccaron;ni ali epilepti&ccaron;ni napad. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napad
+</quote>
+</cit>
+</sense>
+</entry>

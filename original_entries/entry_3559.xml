@@ -1,0 +1,322 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deep
+</orth>
+<form type="variant">
+<pron>
+/d*i*:p/
+</pron>
+</form>
+<form type="inflected">
+deeper, deepest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+deep
+</seg>
+, sega dale&ccaron; v globino s povr&scaron;ja ali gladine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sea is not very deep there.
+</quote>
+<quote>
+They dug deep down into the earth.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deeply
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His face was deeply lined.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+after 
+</seg>
+N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+deep 
+</seg>
+uporabljamo za mere. Na primer, &ccaron;e je nekaj 
+<seg type="lemma">
+two feet deep
+</seg>
+, od vrha do dna ali od prednje do zadnje strani meri dva &ccaron;evlja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globok
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Deep 
+</seg>
+na nekem obmo&ccaron;ju pomeni dale&ccaron; v notranjosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globoko
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...deep in the forest.
+</quote>
+<quote>
+Guerrilla forces were advancing deep into enemy territory.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+deep 
+</seg>
+uporabljamo za poudarjanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velik, temeljit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was a matter of deep concern.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deeply
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...deeply religious people.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in a deep sleep 
+</seg>
+pomeni, da spimo tako trdno, da nas je te&zcaron;ko zbuditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trdno spati
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za dih ali vzdih, ki je 
+<seg type="lemma">
+deep
+</seg>
+, uporabimo vsa plju&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took a deep breath and put her head under the water.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+deeply
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She sighed deeply.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Barva, ki je 
+<seg type="lemma">
+deep
+</seg>
+, je intenzivna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&ccaron;an, izrazit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sky was a deep purple.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zvok, ki je 
+<seg type="lemma">
+deep
+</seg>
+, je nizek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sang in a deep voice.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Misli, ki so 
+<seg type="lemma">
+deep
+</seg>
+, so tehtne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+globok
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be deep in thought 
+</seg>
+pomeni, da o ne&ccaron;em intenzivno razmi&scaron;ljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tuhtati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+goes deep 
+</seg>
+ali 
+<FV>
+runs deep
+</FV>
+, je zelo resno in te&zcaron;ko spremenljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti ukoreninjen/zasidran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The crisis in the prisons goes deep.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

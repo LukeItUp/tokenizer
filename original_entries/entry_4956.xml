@@ -1,0 +1,171 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exhaust
+</orth>
+<form type="variant">
+<pron>
+/I2gz*O*:st/
+</pron>
+</form>
+<form type="inflected">
+exhausts, exhausting, exhausted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+exhausts someone
+</seg>
+, nekoga zelo utrudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His efforts exhausted him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exhausted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+All three men were hot, dirty, and exhausted.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+exhausting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a difficult and exhausting job.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exhaust money or food 
+</seg>
+pomeni porabiti ves denar ali vso hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpati, porabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They soon exhausted the food resources.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exhaust a subject 
+</seg>
+pomeni toliko govoriti o neki t&eacute;mi, da ni ve&ccaron; kaj povedati o njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz&ccaron;rpati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exhaust 
+</seg>
+ali 
+<seg type="variant">
+an exhaust pipe 
+</seg>
+je cev, po kateri gredo plini iz motorja motornega vozila.
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpuh, izpu&scaron;na cev
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Exhaust 
+</seg>
+je plin, ki ga oddaja stroj motornega vozila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpu&scaron;ni plin
+</quote>
+</cit>
+</sense>
+</entry>

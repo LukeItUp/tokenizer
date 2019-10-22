@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frequency
+</orth>
+<form type="variant">
+<pron>
+/fr*i*:kw@nsi1/
+</pron>
+</form>
+<form type="inflected">
+frequencies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The frequency of an event 
+</seg>
+je &scaron;tevilo ponavljanj nekega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogostost, frekvenca
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Disasters appear to be increasing in frequency.
+</quote>
+<quote>
+...the frequency of their appearance.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The frequency of a sound or radio wave 
+</seg>
+je hitrost, s katero niha zvok ali radijski val; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+frekvenca
+</quote>
+</cit>
+</sense>
+</entry>

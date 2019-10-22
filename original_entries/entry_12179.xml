@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rout
+</orth>
+<form type="variant">
+<pron>
+/r*a*Ut/
+</pron>
+</form>
+<form type="inflected">
+routs, routing, routed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojska ali &scaron;portno mo&scaron;tvo 
+<seg type="lemma">
+routs its opponents
+</seg>
+, popolnoma in z lahkoto premaga nasprotnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potol&ccaron;i, zmleti, nabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Spain could not muster sufficient resources to rout the Cubans.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The retreat turned into a rout.
+</quote>
+<quote>
+The terrified army fled in rout.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

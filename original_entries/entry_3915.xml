@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+disappear
+</orth>
+<form type="variant">
+<pron>
+/d*Is@p*I*@/
+</pron>
+</form>
+<form type="inflected">
+disappears, disappearing, disappeared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo ali nekaj 
+<seg type="lemma">
+disappears
+</seg>
+, odide nekam, kjer ga ne moremo videti ali najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izginiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw him disappear round the corner.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disappearance
+</orth>
+<form type="variant">
+<pron>
+/d*Is@p*I*@r@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the mysterious disappearance of Halliday.
+</quote>
+<quote>
+...a series of disappearances in the Carribean.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To disappear 
+</seg>
+pomeni tudi prenehati obstajati ali se dogajati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izginiti, izumreti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+disappearance
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the disappearance of the dinosaurs.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stampede
+</orth>
+<form type="variant">
+<pron>
+/st&ae;mp*i*:d/
+</pron>
+</form>
+<form type="inflected">
+stampedes, stampeding, stampeded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ve&ccaron; &zcaron;ivali 
+<seg type="lemma">
+stampede 
+</seg>
+ali 
+<seg type="lemma">
+are stampeded
+</seg>
+, divje, neobvladano te&ccaron;ejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brezglavo dirjati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stampede 
+</seg>
+je pojav, ko skupina &zcaron;ivali ali oseb divje, neobvladano te&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brezglava dirka, pani&ccaron;ni beg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a stampede of elephants.
+</quote>
+<quote>
+Her foot got trodden on in the general stampede to the exit.
+</quote>
+</seg>
+</sense>
+</entry>

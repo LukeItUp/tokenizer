@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+steer
+</orth>
+<form type="variant">
+<pron>
+/st*I*@/
+</pron>
+</form>
+<form type="inflected">
+steers, steering, steered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To steer a car, boat, or plane 
+</seg>
+pomeni upravljati avtomobil, ladjo ali letalo tako, da pelje v pravo smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krmariti, voditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He steered the car through the broad entrance.
+</quote>
+<quote>
+The freighter steered out of Santiago Bay that evening.
+</quote>
+<quote>
+I was trying to steer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To steer someone in a particular direction 
+</seg>
+pomeni nekoga peljati v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voditi, usmerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He steered me to a table and sat me down in a chair.
+</quote>
+</seg>
+</sense>
+</entry>

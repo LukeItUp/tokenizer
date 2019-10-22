@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+session
+</orth>
+<form type="variant">
+<pron>
+/s*eS@0n/
+</pron>
+</form>
+<form type="inflected">
+sessions.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A session 
+</seg>
+je sestanek uradne skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasedanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an emergency session of the United Nations Security Council.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A session 
+</seg>
+je tudi obdobje, ko potekajo redni sestanki neke uradne skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovno obdobje, zasedanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the government&apos;s programme for the 1966-67 parliamentary session.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A session of a particular activity 
+</seg>
+je &ccaron;as, ko poteka neka dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;anje, sestanek, seansa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a tough bargaining session.
+</quote>
+</seg>
+</sense>
+</entry>

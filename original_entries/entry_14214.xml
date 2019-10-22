@@ -1,0 +1,294 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+talk
+</orth>
+<form type="variant">
+<pron>
+/t*O*:k/
+</pron>
+</form>
+<form type="inflected">
+talks, talking, talked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk 
+</seg>
+pomeni pripovedovati stvari nekomu drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti, pogovarjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They talked about old times.
+</quote>
+<quote>
+He was the only one in the family she could talk to.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I must have a long talk with him.
+</quote>
+<quote>
+There was a lot of talk about his divorce.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk politics or sport 
+</seg>
+pomeni govoriti na primer o politiki ali &scaron;portu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovoriti se o, govoriti o
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let&apos;s talk a little business, shall we?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk on or about something 
+</seg>
+pomeni imeti neuraden govor o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti o
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I talked yesterday about the history of the project.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I used to give the staff a talk on psychology every week.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Talks 
+</seg>
+so uradni pogovori, zlasti med dvema dr&zcaron;avama ali dvema stranema v sporu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovori
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...peace talks.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+talking of 
+</seg>
+uvedemo novo t&eacute;mo pogovora, ki je nekako povezana s tistim, kar smo pravkar omenili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ko &zcaron;e govorimo o
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Talking of girls, has anyone seen Sylvia Wicks recently?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+small talk
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+talk down to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk down to someone 
+</seg>
+pomeni z nekom govoriti na na&ccaron;in, ki ka&zcaron;e, da mislimo, da smo pametnej&scaron;i ali pomembnej&scaron;i od njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti zvi&scaron;ka
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+talk into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk someone into doing something 
+</seg>
+pomeni prepri&ccaron;ati nekoga, da nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She talked me into taking a week&apos;s holiday.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+talk out of.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk someone out of doing something 
+</seg>
+pomeni prepri&ccaron;ati nekoga, da ne&ccaron;esa ne naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pregovoriti (nekoga, da ne naredi ne&ccaron;esa)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He tried to talk me out of buying such a big car.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+talk over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To talk something over 
+</seg>
+pomeni nekaj pretresti v pogovoru z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogovoriti se, prediskutirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I agreed to go home and talk things over with my father.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

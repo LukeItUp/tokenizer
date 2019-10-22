@@ -1,0 +1,168 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+great
+</orth>
+<form type="variant">
+<pron>
+/gr*e*It/
+</pron>
+</form>
+<form type="inflected">
+greater, greatest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+great 
+</seg>
+opi&scaron;emo nekaj, kar je zelo veliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a great black cloud of smoke.
+</quote>
+<quote>
+There is a great amount of conflict.
+</quote>
+<quote>
+He had great difficulty in selling his house.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj ali nekdo pomemben, slaven ali vznemirljiv, lahko re&ccaron;emo, da je 
+<seg type="lemma">
+great
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velik, ugleden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the great cities of the Rhineland.
+</quote>
+<quote>
+...the great issues of the day.
+</quote>
+<quote>
+...a great actor.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+greatness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the greatness of Germany.
+</quote>
+<quote>
+...Boltzmann&apos;s greatness as a physicist.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+great
+</seg>
+, je zelo dobro; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+super, imeniten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s a great idea.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+CONVENTION
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Great! Thanks very much.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+with 
+</seg>
+ADJ 
+<seg>
+or 
+</seg>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+great 
+</seg>
+uporabljamo tudi za poudarjanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a great big gaping hole.
+</quote>
+<quote>
+He was a great friend of Huxley.
+</quote>
+</seg>
+</sense>
+</entry>

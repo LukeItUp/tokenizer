@@ -1,0 +1,153 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exchange
+</orth>
+<form type="variant">
+<pron>
+/I2kstS*e*Ind0Z/
+</pron>
+</form>
+<form type="inflected">
+exchanges, exchanging, exchanged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dva 
+<seg type="lemma">
+exchange things
+</seg>
+, dasta stvari drug drugemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The three of us exchanged addresses.
+</quote>
+<quote>
+Gertie and Dolly exchanged glances.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an exchange of information.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exchange one thing for another 
+</seg>
+pomeni zamenjati eno stvar z drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sales girl refused to exchange the sweater.
+</quote>
+<quote>
+She exchanged the jewels for money.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekomu damo eno stvar 
+<seg type="lemma">
+in exchange for another thing
+</seg>
+, mu jo damo zato, ker nam da drugo stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v zameno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They sold textiles in exchange for agricultural products.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exchange 
+</seg>
+je kratek pogovor; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pogovor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Throughout these exchanges I had a curious feeling of detachment.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+stock exchange, 
+</ref>
+<ref>
+telephone exchange
+</ref>
+</xr>
+</sense>
+</entry>

@@ -1,0 +1,222 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dead
+</orth>
+<form type="variant">
+<pron>
+/d*ed/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, &zcaron;ival ali rastlina, ki je 
+<seg type="lemma">
+dead
+</seg>
+, ni ve&ccaron; &zcaron;iva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mrtev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was shot dead in a gunfight.
+</quote>
+<quote>
+Mary threw away the dead flowers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The dead 
+</seg>
+so ljudje, ki so mrtvi ali so bili ubiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umrli, &zcaron;rtve
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Among the dead was Captain Burroughs.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovekova roka ali noga 
+<seg type="lemma">
+goes dead
+</seg>
+, je za kraj&scaron;i &ccaron;as ne &ccaron;utimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je telefonski aparat ali kak&scaron;na druga naprava 
+<seg type="lemma">
+dead
+</seg>
+, ne deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpovedati, pokvariti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The phone went dead.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dead 
+</seg>
+pomeni popoln, zlasti v kombinaciji z besedami 
+<seg type="lemma">
+silence
+</seg>
+, 
+<seg type="lemma">
+centre
+</seg>
+ in 
+<seg type="lemma">
+stop
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+popoln, absoluten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was dead silence.
+</quote>
+<quote>
+The table was placed in the dead centre of the room.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was staring dead ahead.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dead 
+</seg>
+pomeni tudi zelo ali mo&ccaron;no; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+povsem, &ccaron;isto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s dead easy.
+</quote>
+<quote>
+They were dead against the idea.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The dead of night 
+</seg>
+je srednji del no&ccaron;i, ko je temno in tiho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredi no&ccaron;i, temna no&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They came at dead of night.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+stops dead
+</seg>
+, se nenadoma ustavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na mestu se ustaviti
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

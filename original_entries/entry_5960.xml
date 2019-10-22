@@ -1,0 +1,154 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gear
+</orth>
+<form type="variant">
+<pron>
+/g*I*@/
+</pron>
+</form>
+<form type="inflected">
+gears, gearing, geared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gear 
+</seg>
+je del strojne opreme, na primer v avtomobilu ali na kolesu; uravnava hitrost, s katero se mo&ccaron; pretvarja v gibanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+John checked the gear on the bicycle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gear 
+</seg>
+je tudi ena od razli&ccaron;nih stopenj hitrosti ali mo&ccaron;i, ki jo ima stroj ali vozilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prestava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We slow down to first gear and ten miles an hour.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The gear for a particular activity 
+</seg>
+so oprema in posebna obla&ccaron;ila, ki jih uporabljamo za dolo&ccaron;eno dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprema
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...camping gear.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+is geared to a particular purpose
+</seg>
+, je organiziran ali narejen tako, da je primeren za dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prilagoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were not geared to armed combat.
+</quote>
+<quote>
+...a policy geared towards rehabilitation.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+gear up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To be geared up to do something 
+</seg>
+pomeni biti pripravljen in sposoben nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opremiti, prilagoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Hotels like this are not geared up to cater for parties.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

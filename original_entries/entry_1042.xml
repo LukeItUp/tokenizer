@@ -1,0 +1,145 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bank
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;Nk/
+</pron>
+</form>
+<form type="inflected">
+banks, banking, banked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bank 
+</seg>
+je kraj, kamor lahko spravimo denar na ra&ccaron;un. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+banka
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+bank 
+</seg>
+opisujemo skladi&scaron;&ccaron;e ne&ccaron;esa. Na primer: 
+<seg type="lemma">
+a blood bank 
+</seg>
+ali 
+<seg type="lemma">
+a data bank 
+</seg>
+je skladi&scaron;&ccaron;e krvi oziroma podatkov, pripravljenih za uporabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+banka
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bank 
+</seg>
+je tudi dvignjena zemlja ob robu reke ali jezera. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+breg
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the river bank.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bank of something 
+</seg>
+je debel sloj ali velik kup ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bank of fog.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+bank on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To bank on something happening 
+</seg>
+pomeni zanesti se, da se bo nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ra&ccaron;unati na, zana&scaron;ati se na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He may come, but I'm not banking on it.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

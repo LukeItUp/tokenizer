@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+skilled
+</orth>
+<form type="variant">
+<pron>
+/sk*Ild/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+skilled
+</seg>
+, ima znanje in sposobnosti, ki mu omogo&ccaron;ajo, da nekaj dela dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&scaron;&ccaron;, izurjen, kvalificiran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...hand-made items produced by skilled craftsmen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delo, ki je 
+<seg type="lemma">
+skilled
+</seg>
+, lahko opravljajo samo osebe, usposobljene za to. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strokoven
+</quote>
+</cit>
+</sense>
+</entry>

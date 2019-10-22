@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+birthplace
+</orth>
+<form type="variant">
+<pron>
+/b*$e*:TpleIs/
+</pron>
+</form>
+<form type="inflected">
+birthplaces.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's birthplace 
+</seg>
+je kraj, kjer se je &ccaron;lovek rodil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojstni kraj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The birthplace of something 
+</seg>
+je kraj, kjer se je nekaj za&ccaron;elo ali od koder izvira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rojstni kraj, domovina; poreklo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the birthplace of the Renaissance.
+</quote>
+</seg>
+</sense>
+</entry>

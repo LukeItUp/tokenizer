@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+boom
+</orth>
+<form type="variant">
+<pron>
+/b*u*:m/
+</pron>
+</form>
+<form type="inflected">
+booms, booming, boomed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A boom in something 
+</seg>
+pomeni, da se je tisto hitro pove&ccaron;alo ali razvilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razcvet, rast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the population boom.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The gardening industry is booming.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, na primer velik boben, top ali &ccaron;love&scaron;ki glas, 
+<seg type="lemma">
+booms
+</seg>
+, odda glasen, nizek, odmevajo&ccaron; zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabobneti, odmevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cannon boomed again.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The boom of the drum echoed along the street.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suck
+</orth>
+<form type="variant">
+<pron>
+/s*Vk/
+</pron>
+</form>
+<form type="inflected">
+sucks, sucking, sucked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suck something 
+</seg>
+pomeni dr&zcaron;ati nekaj z usti in vle&ccaron;i z li&ccaron;nicami in jezikom, ponavadi zato, da iz tistega potegnemo teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sesati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The baby went on sucking the bottle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sucks an object or liquid somewhere
+</seg>
+, z veliko silo nekam potegne kak predmet ali teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posesati, potegniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The water is sucked upwards through the roots.
+</quote>
+</seg>
+</sense>
+</entry>

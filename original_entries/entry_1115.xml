@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bath
+</orth>
+<form type="variant">
+<pron>
+/b*A*:T/
+</pron>
+</form>
+<form type="inflected">
+baths, bathing, bathed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bath 
+</seg>
+je dolga, pravokotna posoda, ki jo napolnimo z vodo, sedemo vanjo in si umijemo telo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kad, banja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a bath 
+</seg>
+ali 
+<seg type="lemma">
+to take a bath 
+</seg>
+pomeni umiti si telo sed&eacute; v kadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopati se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bath a child or other person 
+</seg>
+pomeni umiti otroka ali odraslo osebo v kadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She will show you how to bath the baby.
+</quote>
+</seg>
+</sense>
+</entry>

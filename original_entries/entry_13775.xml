@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+strap
+</orth>
+<form type="variant">
+<pron>
+/str*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+straps, strapping, strapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A strap 
+</seg>
+je ozek kos usnja ali tkanine, s katerim nosimo predmete ali jih ve&zcaron;emo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jermen, pas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I undid the straps, and opened the case.
+</quote>
+<quote>
+...high-heeled shoes, with straps above the ankle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strap something somewhere 
+</seg>
+pomeni nekaj nekam pritrditi z jermenom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripasati, privezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Children should be strapped into a special car seat.
+</quote>
+<quote>
+He straps on his watch.
+</quote>
+</seg>
+</sense>
+</entry>

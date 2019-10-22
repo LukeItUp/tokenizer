@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p223_s243551" id="p223_w844" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="372.052" base="378.46" width="24.6308" height="8.514">dusky</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p223_s243552" id="p223_w845" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="283.46" y="373.298" base="378.46" width="21.35" height="6.844">/d&#216;ski</TOKEN>
+<TOKEN sid="p223_s243553" id="p223_w846" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="305.25" y="372.66" base="376.07" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p223_s243554" id="p223_w847" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="307.93" y="373.298" base="378.46" width="4.9816" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p223_s243555" id="p223_w848" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="316.59" y="374.544" base="378.46" width="10.5702" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p223_s243556" id="p223_w849" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="330.81" y="372.764" base="378.46" width="13.3546" height="7.552">Kar</TOKEN>
+<TOKEN sid="p223_s243557" id="p223_w850" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="347.843" y="372.764" base="378.46" width="6.07608" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p223_s243558" id="p223_w851" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="357.61" y="372.764" base="378.46" width="22.8118" height="7.552">dusky,</TOKEN>
+</seg>
+<TOKEN sid="p223_s243559" id="p223_w852" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="384.099" y="372.764" base="378.46" width="6.07608" height="7.552">je</TOKEN>
+<TOKEN sid="p223_s243560" id="p223_w853" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.853" y="372.764" base="378.46" width="21.0564" height="7.552">precej</TOKEN>
+<TOKEN sid="p223_s243561" id="p223_w854" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.589" y="372.764" base="378.46" width="23.5987" height="7.552">temno.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p223_s243563" id="p223_w856" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="267.05" y="381.844" base="387.54" width="24.7925" height="7.552">sen~en,</TOKEN>
+<TOKEN sid="p223_s243564" id="p223_w857" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="293.843" y="381.844" base="387.54" width="27.1973" height="7.552">mra~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p223_s243565" id="p223_w858" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.04" y="381.844" base="387.54" width="18.3938" height="7.552">&#8230;her</TOKEN>
+<TOKEN sid="p223_s243566" id="p223_w859" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="343.434" y="381.844" base="387.54" width="20.3947" height="7.552">dusky</TOKEN>
+<TOKEN sid="p223_s243567" id="p223_w860" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="365.829" y="381.844" base="387.54" width="24.7925" height="7.552">cheeks.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

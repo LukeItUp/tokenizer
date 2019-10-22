@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hundred
+</orth>
+<form type="variant">
+<pron>
+/h*Vndr@1d/
+</pron>
+</form>
+<form type="inflected">
+hundreds.
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+A hundred 
+</seg>
+ali 
+<seg type="lemma">
+one hundred 
+</seg>
+je &scaron;tevilka 100. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are more than two hundred languages spoken in Nigeria.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+hundreds 
+</seg>
+opi&scaron;emo izjemno veliko &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na stotine
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He handed me hundreds of forms.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj 
+<seg type="lemma">
+a hundred per cent true
+</seg>
+, ho&ccaron;emo povedati, da je popolnoma resni&ccaron;no; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stoodstotno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your assessment of Otto is a hundred per cent wrong.
+</quote>
+<quote>
+I agree one hundred per cent with Carol.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

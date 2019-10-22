@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mow
+</orth>
+<form type="variant">
+<pron>
+/m*@*U/
+</pron>
+</form>
+<form type="inflected">
+mows, mowing, mowed 
+<IS>
+ali 
+</IS>
+<IV>
+mown
+</IV>
+</form>
+<form type="variant">
+<pron>
+/m*@*Un/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mows an area of grass
+</seg>
+, pokosi travnato zemlji&scaron;&ccaron;e s kosilnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everyone was mowing their lawns.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mow down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar ve&ccaron;je &scaron;tevilo ljudi 
+<seg type="lemma">
+is mown down
+</seg>
+, so vsi pobiti naenkrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokositi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Several children had strayed onto an airport runway and been mown down by a jet.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

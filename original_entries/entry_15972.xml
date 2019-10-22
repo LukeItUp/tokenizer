@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whisk
+</orth>
+<form type="variant">
+<pron>
+/w*Isk/
+</pron>
+</form>
+<form type="inflected">
+whisks, whisking, whisked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whisk someone or something somewhere 
+</seg>
+pomeni nekoga ali nekaj hitro nekam peljati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hitro odpeljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was whisked into hospital with fierce abdominal pains.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To whisk eggs or cream 
+</seg>
+pomeni zelo naglo vme&scaron;avati zrak v jajca ali smetano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stepati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whisk the egg whites until stiff.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A whisk 
+</seg>
+je kuhinjsko orodje za stepanje jajc ali smetane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+metlica
+</quote>
+</cit>
+</sense>
+</entry>

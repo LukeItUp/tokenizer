@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shout
+</orth>
+<form type="variant">
+<pron>
+/S*a*Ut/
+</pron>
+</form>
+<form type="inflected">
+shouts, shouting, shouted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shout 
+</seg>
+je glasen vzklik ali klic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Excited shouts and laughter could be heard from the garden.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shout 
+</seg>
+pomeni govoriti na ves glas, tako da se sli&scaron;i dale&ccaron; naokoli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kri&ccaron;ati, vpiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children on the sand were shouting with excitement.
+</quote>
+<quote>
+&lsquo;Stop it!&rsquo; he shouted.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+shout down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To shout someone down 
+</seg>
+pomeni kri&ccaron;ati na nekoga, ki govori, tako da nih&ccaron;e ne more sli&scaron;ati, kaj pravi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preglasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Healey was shouted down at a meeting in Birmingham.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

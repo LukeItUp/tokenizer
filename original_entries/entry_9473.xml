@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+negligent
+</orth>
+<form type="variant">
+<pron>
+/n*eglIdZ@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+negligent
+</seg>
+, ne naredi ne&ccaron;esa, kar bi moral. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevesten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has to prove that he has not been negligent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+negligently
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They may act foolishly or negligently.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+negligence
+</orth>
+<form type="variant">
+<pron>
+/n*eglIdZ@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The chairman of the Party had been dismissed for negligence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

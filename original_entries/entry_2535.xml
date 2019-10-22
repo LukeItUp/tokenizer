@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cocktail
+</orth>
+<form type="variant">
+<pron>
+/k*QkteIl/
+</pron>
+</form>
+<form type="inflected">
+cocktails.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cocktail 
+</seg>
+je alkoholna pija&ccaron;a iz ve&ccaron; sestavin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koktajl
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a champagne cocktail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cocktail
+</seg>
+ je tudi nekaj, kar je narejeno z me&scaron;anjem razli&ccaron;nih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;anica, koktajl
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a shrimp cocktail.
+</quote>
+</seg>
+</sense>
+</entry>

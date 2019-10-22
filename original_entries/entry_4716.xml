@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enrich
+</orth>
+<form type="variant">
+<pron>
+/I2nr*ItS/
+</pron>
+</form>
+<form type="inflected">
+enriches, enriching, enriched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enrich something 
+</seg>
+pomeni izbolj&scaron;ati kakovost ne&ccaron;esa, tako da tistemu nekaj dodamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obogatiti, oplemenititi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He enriched drab lives.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enriched
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...enriched breakfast cereals.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+enrichment
+</orth>
+<form type="variant">
+<pron>
+/I2nr*ItSm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the enrichment of human experience.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To enrich someone 
+</seg>
+pomeni nekoga narediti bogatej&scaron;ega; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+obogatiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The purpose of the colonies was to enrich the colonists.
+</quote>
+</seg>
+</sense>
+</entry>

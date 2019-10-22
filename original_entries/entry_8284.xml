@@ -1,0 +1,388 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lie
+</orth>
+<form type="variant">
+<pron>
+/l*a*I/
+</pron>
+</form>
+<IN>
+Oblike 
+<IH>
+lie, lies, lying, lay 
+</IH>
+<pron>
+/l*e*I/
+</pron>
+, 
+<IH>
+lain
+</IH>
+ 
+<form type="variant">
+<pron>
+/l*e*In/
+</pron>
+</form>
+ 
+<IC>
+uporabljamo kot glagol pri pomenih od 1 do 6 in pri fraznih glagolih. Oblike 
+</IC>
+<IH>
+lie, lies, lying, lied 
+</IH>
+<IC>
+uporabljamo kot glagol pri 8. pomenu. 
+</IC>
+<IH>
+Lies 
+</IH>
+<IC>
+je tudi mno&zcaron;inska oblika samostalnika pri 7. pomenu.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be lying somewhere 
+</seg>
+pomeni biti v vodoravnem polo&zcaron;aju, tako da ne stojimo in ne sedimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I lay there trying to remember what he looked like.
+</quote>
+<quote>
+Judy was lying flat on the bed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki predmet 
+<seg type="lemma">
+lies in a particular place
+</seg>
+, je v vodoravnem polo&zcaron;aju na nekem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the folder lying open before him.
+</quote>
+<quote>
+The coffin lay undisturbed for centuries.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki kraj 
+<seg type="lemma">
+lies in a particular position
+</seg>
+, je v nekem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati, biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bridge lies beyond the docks.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+lie 
+</seg>
+uporabimo, kadar omenimo vzroke ali izvor ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+le&zcaron;ati, biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The causes of this lie deep in the history of society.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+lies ahead
+</seg>
+, se bo zgodilo v prihodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;akati, biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Endless hours of pleasure lie before you.
+</quote>
+<quote>
+...an unwelcome foretaste of what lay in store.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+lie 
+</seg>
+povemo, v kak&scaron;nem polo&zcaron;aju je nekdo med tekmovanjem. Na primer: 
+<seg type="lemma">
+to be lying third 
+</seg>
+pomeni biti tretji po vrsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lie 
+</seg>
+je tisto, kar nekdo re&ccaron;e, &ccaron;eprav ve, da ni res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+la&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;re telling lies now.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be lying 
+</seg>
+pomeni govoriti nekaj, kar vemo, da ni res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You lied to me.
+</quote>
+<quote>
+&lsquo;Certainly not,&rsquo; I lied.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+lying
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+lie down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To lie down 
+</seg>
+pomeni namestiti se v vodoravno lego, navadno zato, da bi po&ccaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+le&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lay down on the couch.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take unfair treatment lying down 
+</seg>
+pomeni sprejeti krivi&ccaron;no ravnanje brez prito&zcaron;evanja ali odpora; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pogoltniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was never one to take bullying lying down.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+lie with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar odgovornost za nekaj 
+<seg type="lemma">
+lies with someone
+</seg>
+, je nekomu nalo&zcaron;ena; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pripadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Are you saying that the fault generally lies with the management?
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

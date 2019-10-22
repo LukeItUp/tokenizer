@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+escort,
+</orth>
+<form type="inflected">
+escorts, escorting, escorted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/*eskO:t/
+</pron>
+, glagol pa
+<pron>
+/I2sk*O*:t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An escort 
+</seg>
+je oseba, ki z nami nekam gre, da bi nas varovala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremljevalec, spremstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a police escort.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekoga nekam peljejo 
+<seg type="lemma">
+under escort
+</seg>
+, ga spremljajo stra&zcaron;arji, bodisi zato, ker so ga aretirali ali ker je pomembna oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v spremstvu, s stra&zcaron;o
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To escort someone somewhere 
+</seg>
+pomeni z nekom nekam iti, da bi se prepri&ccaron;ali, ali odide z nekega kraja ali prispe na cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spremiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He escorted me to the door.
+</quote>
+</seg>
+</sense>
+</entry>

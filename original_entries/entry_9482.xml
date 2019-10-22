@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+neighbourhood
+</orth>
+<form type="variant">
+<pron>
+/n*e*Ib@hUd/
+</pron>
+</form>
+<form type="inflected">
+neighbourhoods;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+neighborhood
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A neighbourhood 
+</seg>
+je stanovanjski del mesta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soseska, &ccaron;etrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She&apos;d just moved into the neighbourhood.
+</quote>
+<quote>
+...a wealthy neighbourhood.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+in the neighbourhood of a place
+</seg>
+, je blizu nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v bli&zcaron;ini
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were heading for a destination in the neighbourhood of the Lofoten Islands.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

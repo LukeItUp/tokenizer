@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fox
+</orth>
+<form type="variant">
+<pron>
+/f*Qks/
+</pron>
+</form>
+<form type="inflected">
+foxes, foxing, foxed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fox 
+</seg>
+je divja &zcaron;ival, podobna psu, ki ima rde&ccaron;kasto rjav ko&zcaron;uh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lisica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+foxes someone
+</seg>
+, tisti &ccaron;lovek ne&ccaron;esa ne razume ali ne zna re&scaron;iti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+preslepiti, prelisi&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were foxed by the calculations.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infinite
+</orth>
+<form type="variant">
+<pron>
+/*InfIn@1t/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+infinite
+</seg>
+, je izjemno veliko po koli&ccaron;ini ali stopnji ali nima meje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neskon&ccaron;en, neomejen, brezmejen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Qualified doctors are found in an infinite variety of careers.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infinitely
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The process of unloading had been infinitely easier than putting the stuff on.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

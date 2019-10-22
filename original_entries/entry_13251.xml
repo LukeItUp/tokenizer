@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+soil
+</orth>
+<form type="variant">
+<pron>
+/s*O*Il/
+</pron>
+</form>
+<form type="inflected">
+soils, soiling, soiled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Soil 
+</seg>
+je snov na tistih delih zemeljske povr&scaron;ine, kjer lahko rastejo rastline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemlja, prst
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The soil here is very fertile.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+soil 
+</seg>
+lahko uporabljamo tudi za ozemlje neke dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tla
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...if no foreign armies had invaded Russian soil.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To soil something 
+</seg>
+pomeni umazati nekaj; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+onesna&zcaron;iti, umazati
+</quote>
+</cit>
+</sense>
+</entry>

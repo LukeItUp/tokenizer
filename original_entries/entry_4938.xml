@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exclusive
+</orth>
+<form type="variant">
+<pron>
+/I2kskl*u*:sIv/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+exclusive
+</seg>
+, je dostopno samo bogatim ljudem ali tistim, ki sodijo v visok dru&zcaron;beni razred. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ekskluziven, rezerviran za dru&zcaron;beno smetano
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an exclusive residential district.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Exclusive 
+</seg>
+pomeni v uporabi ali lasti ene osebe ali skupine oseb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+monopolen, izklju&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have exclusive use of the machine.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e sta dve stvari 
+<seg type="lemma">
+mutually exclusive
+</seg>
+, ne moreta obstajati skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izklju&ccaron;ujo&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is no reason why these two functions should be mutually exclusive.
+</quote>
+</seg>
+</sense>
+</entry>

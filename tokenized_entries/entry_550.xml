@@ -36,7 +36,7 @@
 <quote>
 <TOKEN sid="p2_s1606" id="p2_w605" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="268.452" y="145.804" base="151.5" width="12.1565" height="7.552">nje.</TOKEN>
 <TOKEN sid="p2_s1608" id="p2_w607" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.9" y="145.804" base="151.5" width="14.5591" height="7.552">nad;</TOKEN>
-<TOKEN sid="p2_s1609" id="p2_w608" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="303.97" y="145.804" base="151.5" width="17.7581" height="7.552">…the</TOKEN>
+<TOKEN sid="p2_s1609" id="p2_w608" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="303.97" y="145.804" base="151.5" width="17.7581" height="7.552">&#8230;the</TOKEN>
 <TOKEN sid="p2_s1610" id="p2_w609" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="323.248" y="145.804" base="151.5" width="29.8339" height="7.552">branches</TOKEN>
 <TOKEN sid="p2_s1611" id="p2_w610" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="354.603" y="145.804" base="151.5" width="19.2902" height="7.552">above</TOKEN>
 </quote>
@@ -89,7 +89,7 @@
 </seg>
 </sense>
 <sense n="3">
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p2_s1639" id="p2_w638" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.642" y="173.034" base="178.73" width="34.3152" height="7.552">omenjeno.</TOKEN>
@@ -134,6 +134,6 @@
 <TOKEN sid="p2_s1668" id="p2_w667" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.166" y="200.274" base="205.97" width="27.5926" height="7.552">koli~ina</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

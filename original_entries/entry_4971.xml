@@ -1,0 +1,84 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exit
+</orth>
+<form type="variant">
+<pron>
+/*egzIt, *eksIt/
+</pron>
+</form>
+<form type="inflected">
+exits.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exit 
+</seg>
+so vrata, skozi katera lahko zapustimo javno poslopje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izhod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He hurried towards the exit.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An exit 
+</seg>
+je tudi kraj, kjer lahko vozila zapustijo avtocesto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odcep
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make an exit from a room 
+</seg>
+pomeni zapustiti sobo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+oditi; odhod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made a hasty exit from the Men's Room.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

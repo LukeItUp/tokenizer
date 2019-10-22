@@ -1,0 +1,316 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+near
+</orth>
+<form type="variant">
+<pron>
+/n*I*@/
+</pron>
+</form>
+<form type="inflected">
+nearer, nearest; nears, nearing, neared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP, ADV, 
+<seg>
+or 
+</seg>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+near a place or thing 
+</seg>
+ali 
+<seg type="lemma">
+near to it
+</seg>
+, je nedale&ccaron; od nekega kraja ali predmeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blizu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stood near the door.
+</quote>
+<quote>
+I wish I lived nearer London.
+</quote>
+<quote>
+He pulled her nearer to him.
+</quote>
+<quote>
+I looked at the books nearest to where I stood.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+near a particular state 
+</seg>
+ali 
+<seg type="lemma">
+near to it
+</seg>
+, je dolo&ccaron;eno stanje &zcaron;e skoraj dosegel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na robu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her father was angry, her mother near tears.
+</quote>
+<quote>
+I was very near to giving in to their demands.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PREP 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta si stvari podobni, lahko re&ccaron;emo, da sta 
+<seg type="lemma">
+near each other 
+</seg>
+ali 
+<seg type="lemma">
+near to each other
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blizu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most views were fairly near the truth.
+</quote>
+<quote>
+He is the nearest we have to an English Leonardo da Vinci.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s near relatives 
+</seg>
+so najo&zcaron;ji sorodniki nekega &ccaron;loveka, na primer star&scaron;i in stari star&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bli&zcaron;nji sorodniki
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+near a particular time 
+</seg>
+ali 
+<seg type="variant">
+near to it
+</seg>
+, se zgodi tik pred tistim &ccaron;asom ali tik zatem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kmalu po, malo pred
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...near the beginning of the play.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;as ali dogodek 
+<seg type="lemma">
+near
+</seg>
+, se bo zgodil zelo kmalu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blizu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...as her wedding day drew near.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+near 
+</seg>
+lahko pomeni tudi, da nekaj skoraj ima dolo&ccaron;eno lastnost ali se skoraj zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skoraj, blizu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a state of near chaos.
+</quote>
+<quote>
+...our near catastrophic economic troubles.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+is nearing a particular place, stage, or point in time
+</seg>
+, se dolo&ccaron;enemu kraju, stopnji ali &ccaron;asu pribli&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bli&zcaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As they neared the harbour, it began to rain.
+</quote>
+<quote>
+...anybody nearing the age of retirement.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraza 
+<seg type="lemma">
+near enough 
+</seg>
+in 
+<FV>
+as near as makes no difference 
+</FV>
+pomenita, da je nekaj skoraj res; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nekaj takega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He paid &pound;100, or as near as makes no difference.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a near thing
+</seg>
+, se skoraj kon&ccaron;a z nesre&ccaron;o ali katastrofo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za las
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I lived&mdash;but it was a near thing.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+nowhere near: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+nowhere
+</ref>
+</xr>
+</B>
+</entry>

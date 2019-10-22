@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seed
+</orth>
+<form type="variant">
+<pron>
+/s*i*:d/
+</pron>
+</form>
+<form type="inflected">
+seeds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A seed 
+</seg>
+je majhen in trd del rastline, iz katerega lahko zraste nova rastlina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seme
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sunflower seeds.
+</quote>
+<quote>
+...a packet of seed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The seeds of something 
+</seg>
+so za&ccaron;etki ali izvor ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+seme
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The seeds of doubt had been sown.
+</quote>
+</seg>
+</sense>
+</entry>

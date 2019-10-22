@@ -1,0 +1,290 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sense
+</orth>
+<form type="variant">
+<pron>
+/s*ens/
+</pron>
+</form>
+<form type="inflected">
+senses, sensing, sensed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s senses 
+</seg>
+so telesne zmo&zcaron;nosti videnja, vohanja, sli&scaron;anja, dotikanja in oku&scaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;ut
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They all have an excellent sense of smell.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sense something 
+</seg>
+pomeni za&ccaron;eti se ne&ccaron;esa zavedati, &ccaron;eprav tisto ni zelo o&ccaron;itno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;utiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Doctors often sense uneasiness in people.
+</quote>
+<quote>
+He sensed that she did not want to talk to him.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a sense of guilt or shame 
+</seg>
+pomeni ob&ccaron;utiti na primer krivdo ali sram. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was overcome by a sense of failure.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a sense of duty or justice 
+</seg>
+pomeni znati lo&ccaron;iti, kaj je na&scaron;a dol&zcaron;nost ali kaj je pravi&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has a strong sense of justice.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a sense of timing or style 
+</seg>
+pomeni imeti prirojen ob&ccaron;utek za pravi trenutek ali eleganco. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smisel, ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A good sense of timing is important for an actor.
+</quote>
+<quote>
+He hasn&apos;t got much dress sense.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sense 
+</seg>
+je sposobnost razumnega presojanja in preudarnega ved&ecirc;nja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razum, zdrava pamet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had the good sense to realize that the plan would never work.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+common sense
+</ref>
+</xr>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sense of a word or expression 
+</seg>
+je eden izmed mo&zcaron;nih pomenov besede ali izraza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomen, smisel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t like the Washington climate&mdash;in all senses of the word.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes sense 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+can make sense of something
+</seg>
+, tisto nekomu uspe razumeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti smisel, razumeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I looked at the page but the words made no sense.
+</quote>
+<quote>
+You had to read it six times to make any sense of it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar neko dejanje 
+<seg type="lemma">
+makes sense
+</seg>
+, se zdi smiselno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti smiseln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Under these conditions it made sense to adopt labour-saving methods.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+has come to one&apos;s senses 
+</seg>
+ali 
+<FV>
+has been brought to one&apos;s senses
+</FV>
+, se neha vesti nerazumno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priti k pameti; spraviti k pameti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je nekaj res 
+<seg type="lemma">
+in a sense
+</seg>
+, mislimo, da je delno res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekako, po svoje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In a sense, I still love him.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

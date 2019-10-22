@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brave
+</orth>
+<form type="variant">
+<pron>
+/br*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+braver, bravest; braves, braving, braved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+brave
+</seg>
+, je voljan po&ccaron;eti nevarne stvari in v te&zcaron;avnih ali nevarnih okoli&scaron;&ccaron;inah ne poka&zcaron;e strahu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogumen, hraber
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the brave young men who have fallen in the struggle.
+</quote>
+<quote>
+I think you were very brave to defy convention.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+bravely
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He fought bravely at the Battle of Waterloo.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be putting a brave face on a difficult situation 
+</seg>
+pomeni, da se tisti &ccaron;lovek samo pretvarja, da je kos te&zcaron;avam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati vesel obraz
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To brave a difficult or dangerous situation 
+</seg>
+pomeni spopasti se s te&zcaron;avnim ali nevarnim polo&zcaron;ajem, da bi nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljubovati, pogumno se upirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Farmers braved wintry conditions to rescue the sheep.
+</quote>
+</seg>
+</sense>
+</entry>

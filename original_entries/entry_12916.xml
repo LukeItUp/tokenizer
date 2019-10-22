@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sieve
+</orth>
+<form type="variant">
+<pron>
+/s*Iv/
+</pron>
+</form>
+<form type="inflected">
+sieves, sieving, sieved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sieve 
+</seg>
+je pripomo&ccaron;ek s kovinskim ali plasti&ccaron;nim obro&ccaron;em, na katerega je pritrjena kovinska mre&zcaron;a. Z njim lo&ccaron;imo teko&ccaron;ino od trdne snovi ali ve&ccaron;je ko&scaron;&ccaron;ke od manj&scaron;ih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sito
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sieve a liquid or powder-like substance 
+</seg>
+pomeni, da teko&ccaron;ino ali pra&scaron;kasto snov stresemo skozi sito, da lo&ccaron;imo teko&ccaron;ino od goste snovi ali ve&ccaron;je delce od manj&scaron;ih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+precediti; presejati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sieve the flour into a basin to remove all the lumps.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p805_s887164" id="p805_w401" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="517.302" base="523.71" width="43.776" height="8.514">transaction</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p805_s887165" id="p805_w402" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="101.82" y="518.548" base="523.71" width="37.1502" height="6.844">/tr&#230;nz&#230;k&#196;6</TOKEN>
+<TOKEN sid="p805_s887166" id="p805_w403" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="139.13" y="517.91" base="521.32" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p805_s887167" id="p805_w404" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="141.65" y="518.548" base="523.71" width="8.8916" height="6.844">n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p805_s887168" id="p805_w405" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="151.95" y="518.37" base="523.71" width="38.7072" height="7.08">transactions.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p805_s887169" id="p805_w406" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="192.02" y="519.794" base="523.71" width="18.411" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p805_s887170" id="p805_w407" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="211.411" y="519.794" base="523.71" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p805_s887171" id="p805_w408" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217" y="518.014" base="523.71" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p805_s887172" id="p805_w409" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224" y="518.014" base="523.71" width="19.8072" height="7.552">trans-</TOKEN>
+<TOKEN sid="p805_s887173" id="p805_w410" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="527.094" base="532.79" width="20.7" height="7.552">action</TOKEN>
+</seg>
+<TOKEN sid="p805_s887174" id="p805_w411" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="84.5999" y="527.094" base="532.79" width="5.8968" height="7.552">je</TOKEN>
+<TOKEN sid="p805_s887175" id="p805_w412" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="91.9972" y="527.094" base="532.79" width="29.7" height="7.552">poslovna</TOKEN>
+<TOKEN sid="p805_s887176" id="p805_w413" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.198" y="527.094" base="532.79" width="26.892" height="7.552">kup~ija.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p805_s887178" id="p805_w415" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="157.39" y="527.094" base="532.79" width="39.2904" height="7.552">transakcija,</TOKEN>
+<TOKEN sid="p805_s887179" id="p805_w416" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="198.18" y="527.094" base="532.79" width="19.0944" height="7.552">posel,</TOKEN>
+<TOKEN sid="p805_s887180" id="p805_w417" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="218.774" y="527.094" base="532.79" width="24.9912" height="7.552">kup~ija</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

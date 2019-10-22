@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+indicator
+</orth>
+<form type="variant">
+<pron>
+/*IndIkeIt@/
+</pron>
+</form>
+<form type="inflected">
+indicators.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An indicator of something 
+</seg>
+nam pove, ali nekaj obstaja ali kak&scaron;no je; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kazalec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Price is not always an indicator of quality.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A car&apos;s indicators 
+</seg>
+so lu&ccaron;i, s katerimi poka&zcaron;emo, ali bo vozilo zavilo na levo ali desno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+smernik
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+</sense>
+</entry>

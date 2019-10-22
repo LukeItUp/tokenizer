@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pat
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;t/
+</pron>
+</form>
+<form type="inflected">
+pats, patting, patted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pats something
+</seg>
+, po tistem nekajkrat nalahko udari z odprto dlanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrepljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He patted the tree trunk softly.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a friendly pat on the shoulder.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

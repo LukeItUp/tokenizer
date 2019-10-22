@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dose
+</orth>
+<form type="variant">
+<pron>
+/d*@*Us/
+</pron>
+</form>
+<form type="inflected">
+doses, dosing, dosed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dose of a medicine or drug 
+</seg>
+je izmerjena koli&ccaron;ina zdravila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmerek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is lethal to rats in small doses.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dose someone 
+</seg>
+pomeni nekomu dati zdravilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati ali vzeti odmerek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He dosed himself with pills.
+</quote>
+</seg>
+</sense>
+</entry>

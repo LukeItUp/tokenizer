@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+contest,
+</orth>
+<form type="inflected">
+contests, contesting, contested;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/k*QntEst/
+</pron>
+, glagol pa 
+<pron>
+/k@7nt*est/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A contest 
+</seg>
+je tekmovanje ali tekma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tekmovanje, tekma
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fishing contest.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A contest 
+</seg>
+je tudi prizadevanje za prevzem oblasti ali nadzora. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He won the contest for the deputy leadership.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contest an election or competition 
+</seg>
+pomeni sodelovati na volitvah ali tekmovanju, da bi zmagali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kandidirati, tekmovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was an election contested by six candidates.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To contest a statement or decision 
+</seg>
+pomeni uradno nasprotovati neki izjavi ali odlo&ccaron;itvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We hotly contest the idea that any of them were ours.
+</quote>
+</seg>
+</sense>
+</entry>

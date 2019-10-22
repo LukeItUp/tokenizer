@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+core
+</orth>
+<form type="variant">
+<pron>
+/k*O*:/
+</pron>
+</form>
+<form type="inflected">
+cores.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The core of a fruit 
+</seg>
+je trd osrednji del sade&zcaron;a, v katerem so semena ali pe&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jedro, pe&scaron;&ccaron;i&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the core of an apple.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The core of something 
+</seg>
+je osrednji ali najpomembnej&scaron;i del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jedro, bistvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The planet probably has a molten core.
+</quote>
+<quote>
+...the core of industry's problems.
+</quote>
+</seg>
+</sense>
+</entry>

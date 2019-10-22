@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+veto
+</orth>
+<form type="variant">
+<pron>
+/v*i*:t@U/
+</pron>
+</form>
+<form type="inflected">
+vetoes, vetoing, vetoed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar oseba, ki ima oblast, 
+<seg type="lemma">
+vetoes something
+</seg>
+, nekaj prepove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati veto, zavrniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The government vetoed this proposal.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The rest of the committee could not accept the veto.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Veto 
+</seg>
+je pravica osebe na pomembnem polo&zcaron;aju, da nekaj prepove. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Sovereign&apos;s power of veto.
+</quote>
+</seg>
+</sense>
+</entry>

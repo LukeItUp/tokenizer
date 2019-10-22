@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+refund,
+</orth>
+<form type="inflected">
+refunds, refunding, refunded;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/r*i*:fVnd/
+</pron>
+, glagol pa 
+<pron>
+/rIf*Vnd/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A refund 
+</seg>
+je znesek, ki nam ga vrnejo, ker smo pla&ccaron;ali preve&ccaron; ali ker kupljeno blago vrnemo v trgovino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrnjen znesek
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To refund money to someone 
+</seg>
+pomeni vrniti denar nekomu, ker nam je preve&ccaron; pla&ccaron;al za kaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrniti denar
+</quote>
+</cit>
+</sense>
+</entry>

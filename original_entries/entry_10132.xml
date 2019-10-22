@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pain
+</orth>
+<form type="variant">
+<pron>
+/p*e*In/
+</pron>
+</form>
+<form type="inflected">
+pains, paining, pained.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pain 
+</seg>
+je neprijeten telesni ob&ccaron;utek, ki ga povzro&ccaron;a bolezen ali po&scaron;kodba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bole&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was in pain.
+</quote>
+<quote>
+She complained of severe pains in her chest.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pain 
+</seg>
+je tudi trpljenje, ko se nam zgodi kaj zelo neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bole&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the pain of realizing that she had failed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+pains someone
+</seg>
+, je tista oseba zaradi tistega zelo prizadeta ali nesre&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It pained him that his father talked like that.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+a pain 
+</seg>
+ali 
+<FV>
+a pain in the neck
+</FV>
+, nas zelo jezi ali razburja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nadloga, trn v peti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+take pains to do something
+</seg>
+, si zelo prizadeva, da bi tisto naredil uspe&scaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+truditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took great pains to conceal this from her parents.
+</quote>
+<quote>
+She always took great pains with her make-up.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

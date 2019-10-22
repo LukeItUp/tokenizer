@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interrogate
+</orth>
+<form type="variant">
+<pron>
+/Int*er@geIt/
+</pron>
+</form>
+<form type="inflected">
+interrogates, interrogating, interrogated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo, zlasti policijski ali voja&scaron;ki uradnik, 
+<seg type="lemma">
+interrogates someone
+</seg>
+, nekoga dolgo temeljito spra&scaron;uje, da bi od njega dobil podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasli&scaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had been interrogated for 20 hours about political demonstrations.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+interrogation
+</orth>
+<form type="variant">
+<pron>
+/Int*er@g*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Waddell had undergone a lengthy interrogation.
+</quote>
+<quote>
+We&apos;ve had him under interrogation for 36 hours.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

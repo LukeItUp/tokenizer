@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stereo
+</orth>
+<form type="variant">
+<pron>
+/st*eri1@U/
+</pron>
+</form>
+<form type="inflected">
+stereos.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+stereo 
+</seg>
+opi&scaron;emo plo&scaron;&ccaron;o ali sistem za predvajanje glasbe, pri katerem je zvok usmerjen skozi dva lo&ccaron;ena zvo&ccaron;nika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stereo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...buying stereo equipment.
+</quote>
+<quote>
+It sounds much better in stereo.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stereo 
+</seg>
+je hi-fi sprejemnik ali gramofon z dvema zvo&ccaron;nikoma; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stereo naprava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He turned on the stereo.
+</quote>
+</seg>
+</sense>
+</entry>

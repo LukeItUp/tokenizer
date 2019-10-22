@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+deceased
+</orth>
+<form type="variant">
+<pron>
+/di1s*i*:st/
+</pron>
+;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The deceased 
+</seg>
+je &ccaron;lovek, ki je pred kratkim umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umrli, pokojnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the property of the deceased.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+deceased
+</seg>
+, je pred kratkim umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umrli, ranjki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the relatives of the deceased couple.
+</quote>
+</seg>
+</sense>
+</entry>

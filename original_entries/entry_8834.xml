@@ -1,0 +1,254 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+measure
+</orth>
+<form type="variant">
+<pron>
+/m*eZ@/
+</pron>
+</form>
+<form type="inflected">
+measures, measuring, measured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+measures something
+</seg>
+, ugotavlja, kako veliko ali obse&zcaron;no je nekaj, in sicer z merilno napravo, kot je ravnilo, termometer ali tehtnica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He measured the diameter.
+</quote>
+<quote>
+The explosive force is measured in tons.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+measures a particular distance
+</seg>
+, dolo&ccaron;ena razdalja predstavlja dol&zcaron;ino, &scaron;irino ali globino tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...slivers of glass measuring a few millimetres across.
+</quote>
+<quote>
+...a square area measuring 900 metres.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+measure 
+</seg>
+lahko uporabimo tudi, ko govorimo o dolo&ccaron;eni koli&ccaron;ini ali stopnji ne&ccaron;esa abstraktnega; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stopnja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everyone is entitled to some measure of protection.
+</quote>
+<quote>
+...a large measure of public support.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A measure of an alcoholic drink 
+</seg>
+je koli&ccaron;ina alkoholne pija&ccaron;e v kozarcu, na primer vinjaka ali viskija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+merica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a generous measure of cognac.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+a measure of a particular thing
+</seg>
+, nam pove, kako velika ali izjemna je dolo&ccaron;ena stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+merilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is a measure of their achievement that the system has lasted so long.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Measures 
+</seg>
+so tudi dejanja, ki jih storijo poobla&scaron;&ccaron;eni ljudje, da bi dosegli dolo&ccaron;ene rezultate; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ukrepi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Measures had been taken to limit the economic decline.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj naredi 
+<seg type="lemma">
+for good measure
+</seg>
+, to naredi poleg vsega drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za povrh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The waiter had taken away the plates, and, for good measure, had removed his glass.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+tape measure
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+measure up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Oseba ali stvar, ki 
+<seg type="lemma">
+measures up
+</seg>
+, je prav tako dobra, kot smo pri&ccaron;akovali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpolniti pri&ccaron;akovanja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The repair failed to measure up to their standards.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

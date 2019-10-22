@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+breeze
+</orth>
+<form type="variant">
+<pron>
+/br*i*:z/
+</pron>
+</form>
+<form type="inflected">
+breezes, breezing, breezed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A breeze 
+</seg>
+je lahen veter. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vetri&ccaron;, sapa
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To breeze into a place 
+</seg>
+pomeni vstopiti nenadoma in zelo spro&scaron;&ccaron;eno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privihrati, privr&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I just breezed into her room, flinging the door wide.
+</quote>
+</seg>
+</sense>
+</entry>

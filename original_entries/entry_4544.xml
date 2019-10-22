@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+electronic
+</orth>
+<form type="variant">
+<pron>
+/Ilektr*QnIk, *i*:lek-/
+</pron>
+</form>
+<form type="inflected">
+electronics.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Naprava, ki je 
+<seg type="lemma">
+electronic
+</seg>
+, ima tranzistorje, silikonske &ccaron;ipe ali ventile, ki upravljajo ali spreminjajo elektri&ccaron;ni tok, ki te&ccaron;e skoznjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektronski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...electronic equipment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri postopku, ki je 
+<seg type="lemma">
+electronic
+</seg>
+, uporabimo elektronske naprave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektronski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...electronic surveillance.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+electronically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Each vehicle might be electronically tracked.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Electronics 
+</seg>
+je tehnologija, ki uporablja tranzistorje, silikonske &ccaron;ipe ali ventile pri izdelavi radiov, televizijskih sprejemnikov in ra&ccaron;unalnikov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektronika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the British electronics industry.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Electronics 
+</seg>
+se nana&scaron;a tudi na opremo, sestavljeno iz elektronskih naprav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektronska oprema
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The boat carries a mass of sophisticated electronics.
+</quote>
+</seg>
+</sense>
+</entry>

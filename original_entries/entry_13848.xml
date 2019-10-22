@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stumble
+</orth>
+<form type="variant">
+<pron>
+/st*Vmb@0l/
+</pron>
+</form>
+<form type="inflected">
+stumbles, stumbling, stumbled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stumble 
+</seg>
+pomeni, da se med hojo ali tekom zapletemo in skoraj pademo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spotakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The man was drunk and he stumbled on the bottom step.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stumble while speaking 
+</seg>
+pomeni, da se med govorjenjem zmotimo, tako da moramo narediti premor in besedo povedati &scaron;e enkrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She stumbled over the foreign words.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+stumble across 
+<VS>
+ali 
+</VS>
+<VV>
+stumble on.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To stumble across something 
+</seg>
+ali 
+<seg type="variant">
+to stumble on it 
+</seg>
+pomeni, da nekaj odkrijemo nepri&ccaron;akovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naleteti na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In the course of their search they may stumble across something quite different.
+</quote>
+<quote>
+Sir Alexander Fleming stumbled on his great discovery of penicillin by accident.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

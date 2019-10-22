@@ -1,0 +1,254 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tick
+</orth>
+<form type="variant">
+<pron>
+/t*Ik/
+</pron>
+</form>
+<form type="inflected">
+ticks, ticking, ticked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tick 
+</seg>
+je pisno znamenje *5X013. Z njim poka&zcaron;emo, da je nekaj pravilno ali opravljeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljukica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a red tick in the margin.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tick something 
+</seg>
+pomeni narediti kljukico ob ne&ccaron;em, kar je napisano na papirju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkljukati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ura 
+<seg type="lemma">
+ticks
+</seg>
+, oddaja kratke zvoke v rednih razmikih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiktakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I could hear my wristwatch ticking away.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+ticking
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She could hear a faint ticking.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tick of a clock or watch 
+</seg>
+je vrsta kratkih zvokov, ki jih povzro&ccaron;a ura, ki te&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tiktakanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The clock in the kitchen had a noisy tick.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+makes someone tick
+</seg>
+, je vzrok za &ccaron;lovekov zna&ccaron;aj ali ved&ecirc;nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gnati, dr&zcaron;ati pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What makes Patrick tick?
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tick by.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar sekunde, minute ali ure 
+<seg type="lemma">
+tick by
+</seg>
+, minevajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+minevati, te&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The seconds ticked by and still they heard no explosion.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tick off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To tick off an item on a list 
+</seg>
+pomeni narediti kljukico ob to&ccaron;ki na seznamu kot znak, da je tista to&ccaron;ka re&scaron;ena ali opravljena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkljukati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To tick someone off 
+</seg>
+pomeni z nekom govoriti jezno, ker je nekaj naredil narobe; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nadreti, napeti jih komu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+David had ticked her off for being careless.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+tick over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+ticks over
+</seg>
+, deluje redno, vendar ne tako dobro ali s polno mo&ccaron;jo, kot bi lahko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za silo delovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...enough to keep the essential processes ticking over for a few months.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

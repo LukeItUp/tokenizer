@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rinse
+</orth>
+<form type="variant">
+<pron>
+/r*Ins/
+</pron>
+</form>
+<form type="inflected">
+rinses, rinsing, rinsed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rinse something 
+</seg>
+pomeni nekaj oprati brez mila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+splakniti, izpirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He rinsed his hands under the tap.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Just give these a quick rinse.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rinse one&apos;s mouth 
+</seg>
+ali 
+<seg type="lemma">
+to rinse one&apos;s mouth out 
+</seg>
+pomeni napolniti usta s teko&ccaron;ino in jo izpljuniti, da si tako o&ccaron;istimo usta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+splakniti
+</quote>
+</cit>
+</sense>
+</entry>

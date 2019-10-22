@@ -1,0 +1,158 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blast
+</orth>
+<form type="variant">
+<pron>
+/bl*A*:st/
+</pron>
+</form>
+<form type="inflected">
+blasts, blasting, blasted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blast 
+</seg>
+je mo&ccaron;na eksplozija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+detonacija, razstrelitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nobody had been hurt in the blast.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali stvar 
+<seg type="lemma">
+blasts something
+</seg>
+, tisto uni&ccaron;i ali po&scaron;koduje z bombo ali eksplozijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razstreliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Tunnels have been blasted through bedrock beneath the city.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A blast 
+</seg>
+je tudi nenaden, mo&ccaron;an pi&scaron; zraka ali vetra ali pa kratek, glasen zvok, ki ga prinese veter. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sunek vetra; pisk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...icy blasts.
+</quote>
+<quote>
+Ralph blew a series of short blasts.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki stroj 
+<seg type="lemma">
+on at full blast
+</seg>
+, oddaja toliko glasu ali vro&ccaron;ine, kolikor najve&ccaron; zmore. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s polno paro, na ves glas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She insists on having the radio on at full blast.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+Blast 
+</seg>
+je blaga kletvica, ki jo ljudje uporabljajo, kadar so zaradi ne&ccaron;esa jezni ali slabe volje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presneto
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+blast off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar vesoljska raketa 
+<seg type="lemma">
+blasts off
+</seg>
+, zapusti zemljo in za&ccaron;ne svojo pot v vesolje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odleteti, izstreliti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

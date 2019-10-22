@@ -5,7 +5,7 @@ attack
 </orth>
 <form type="variant">
 <pron>
-/@t*#ae;k/
+/@t*&ae;k/
 </pron>
 </form>
 <form type="inflected">
@@ -15,9 +15,9 @@ attacks, attacking, attacked.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
@@ -26,8 +26,7 @@ OBJ
 <seg type="lemma">
 To attack someone
 </seg>
-pomeni, da poskusimo
-tistega &#269;loveka raniti z uporabo telesnega nasilja.
+ pomeni, da poskusimo tistega &ccaron;loveka raniti z uporabo telesnega nasilja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -39,7 +38,7 @@ napasti
 The court decided that he was insane when he attacked the women.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -50,24 +49,23 @@ COUNT N
 ...a worrying increase in attacks on old people.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attack a person, belief, or idea
+To attack a person, belief, or idea 
 </seg>
-pomeni
-mo&#269;no grajati neko osebo, prepri&#269;anje ali idejo.
+pomeni mo&ccaron;no grajati neko osebo, prepri&ccaron;anje ali idejo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -79,12 +77,12 @@ napasti
 The senator attacked the press for misleading the public.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-or
+or 
 </seg>
 UNCOUNT N
 </pos>
@@ -97,24 +95,23 @@ UNCOUNT N
 Burt's work came under violent attack.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="3">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To attack a job or a problem
+To attack a job or a problem 
 </seg>
-pomeni, da se
-za&#269;nemo z nekim delom ali problemom intenzivno ukvarjati.
+pomeni, da se za&ccaron;nemo z nekim delom ali problemom intenzivno ukvarjati. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -129,12 +126,11 @@ VB
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#353;portniki
+Kadar &scaron;portniki 
 <seg type="lemma">
 attack
 </seg>
-posku&#353;ajo zabiti
-gol, na primer pri nogometu.
+, posku&scaron;ajo zabiti gol, na primer pri nogometu. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -150,10 +146,9 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An attack of an illness
+An attack of an illness 
 </seg>
-je kraj&#353;e obdobje,
-ko smo zelo bolni.
+je kraj&scaron;e obdobje, ko smo zelo bolni. 
 </def>
 <cit type="translationEquivalent">
 <quote>

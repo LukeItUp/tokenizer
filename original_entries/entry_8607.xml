@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+main
+</orth>
+<form type="variant">
+<pron>
+/m*e*In/
+</pron>
+</form>
+<form type="inflected">
+mains.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar, ki je 
+<seg type="lemma">
+main
+</seg>
+, je najpomembnej&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glaven, poglaviten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What are the main reasons for going to university?
+</quote>
+<quote>
+Mrs Foster hurried through the main entrance.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj res 
+<seg type="lemma">
+in the main
+</seg>
+, je na splo&scaron;no res, &ccaron;eprav so mogo&ccaron;e tudi izjeme; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;inoma, na splo&scaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Worthingtons are in the main decent, friendly folk.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The mains 
+</seg>
+so cevi ali &zcaron;ice, ki v stavbo dovajajo plin, vodo ali elektriko, ali po katerih iz nje odtekajo odpadne snovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glavni vod (napeljave)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The radio we have at home plugs into the mains.
+</quote>
+<quote>
+You needn&apos;t turn off the mains water.
+</quote>
+<quote>
+A bulldozer had cut a gas main.
+</quote>
+</seg>
+</sense>
+</entry>

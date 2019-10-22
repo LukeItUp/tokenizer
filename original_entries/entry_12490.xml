@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+screech
+</orth>
+<form type="variant">
+<pron>
+/skr*i*:tS/
+</pron>
+</form>
+<form type="inflected">
+screeches, screeching, screeched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali &zcaron;ival 
+<seg type="lemma">
+screeches
+</seg>
+, se ogla&scaron;a z neprijetnimi visokimi in glasnimi glasovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The parrots screeched in the trees.
+</quote>
+<quote>
+&lsquo;You&apos;ll be sorry you did that!&rsquo; she screeched.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The parrot gave a loud screech.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar voze&ccaron;e vozilo 
+<seg type="lemma">
+screeches
+</seg>
+, z gumami povzro&ccaron;i neprijetne visoke zvoke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&scaron;kripati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bus came screeching to a stop.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I heard a screech of tyres.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

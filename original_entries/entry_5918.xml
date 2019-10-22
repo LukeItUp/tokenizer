@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+garden
+</orth>
+<form type="variant">
+<pron>
+/g*A*:d@0n/
+</pron>
+</form>
+<form type="inflected">
+gardens, gardening.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A garden 
+</seg>
+je zemlji&scaron;&ccaron;e poleg hi&scaron;e; na njem raste trava, drevje in druge rastline. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...sitting in the back garden.
+</quote>
+<quote>
+...the vegetable garden.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be gardening 
+</seg>
+pomeni opravljati delo na vrtu, na primer pleti ali saditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrtnariti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+gardening
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It is too hot to do any gardening.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Gardens 
+</seg>
+je park z drevesi in drugimi rastlinami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the botanical gardens.
+</quote>
+</seg>
+</sense>
+</entry>

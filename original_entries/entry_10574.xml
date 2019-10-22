@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pill
+</orth>
+<form type="variant">
+<pron>
+/p*Il/
+</pron>
+</form>
+<form type="inflected">
+pills.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A pill 
+</seg>
+je majhna koli&ccaron;ina zdravila v obliki okrogle plo&scaron;&ccaron;ice; to plo&scaron;&ccaron;ico pogoltnemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tableta
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+I took a sleeping pill.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pill 
+</seg>
+je vrsta pripravka, ki ga &zcaron;enske lahko redno jemljejo, da ne bi zanosile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kontracepcijska tableta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m not on the pill.
+</quote>
+</seg>
+</sense>
+</entry>

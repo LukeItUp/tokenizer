@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+young
+</orth>
+<form type="variant">
+<pron>
+/j*VN/
+</pron>
+</form>
+<form type="inflected">
+younger
+</form>
+<form type="variant">
+<pron>
+/j*VNg@/
+</pron>
+</form>
+<form type="inflected">
+youngest
+</form>
+<form type="variant">
+<pron>
+/j*VNg@2st/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba, &zcaron;ival ali rastlina, ki je 
+<seg type="lemma">
+young
+</seg>
+, &scaron;e ne &zcaron;ivi ali obstaja dolgo &ccaron;asa in &scaron;e ni zrela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Julia has two young boys.
+</quote>
+<quote>
+She was three years younger than me.
+</quote>
+<quote>
+The young seedlings grow very rapidly.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+young 
+</seg>
+opi&scaron;emo tudi &ccaron;as, ko je bil nekdo mlad. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was fond of dancing in my younger days.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The young 
+</seg>
+so mlade &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mladi&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the young first hatch, they are naked.
+</quote>
+</seg>
+</sense>
+</entry>

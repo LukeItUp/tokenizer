@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hourly
+</orth>
+<form type="variant">
+<pron>
+/*a*U*@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dogodek, ki je 
+<seg type="lemma">
+hourly
+</seg>
+, se zgodi enkrat vsako uro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vsako uro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is an hourly bus service.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s hourly earnings 
+</seg>
+je znesek, ki ga zaslu&zcaron;imo v eni uri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na uro
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their average hourly earnings were &pound;5.00.
+</quote>
+</seg>
+</sense>
+</entry>

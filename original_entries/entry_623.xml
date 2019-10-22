@@ -5,7 +5,7 @@ apple
 </orth>
 <form type="variant">
 <pron>
-/*#ae;p@0l/
+/*&ae;p@0l/
 </pron>
 </form>
 <form type="inflected">
@@ -15,30 +15,30 @@ apples.
 <sense>
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-or
+or 
 </seg>
 UNCOUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An apple
+An apple 
 </seg>
-je okrogel sade&#382; z gladko lupino
-in &#269;vrstim, belim mesom.
+je okrogel sade&zcaron; z gladko lupino in &ccaron;vrstim, belim mesom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 jabolko
 </quote>
 </cit>
-<ref type="picture">
-glej slikovno prilogo
-<ref>
-FOOD.
-</ref>
-</ref>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
 </sense>
 </entry>

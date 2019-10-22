@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surrender
+</orth>
+<form type="variant">
+<pron>
+/s@r*end@/
+</pron>
+</form>
+<form type="inflected">
+surrenders, surrendering, surrendered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+surrenders
+</seg>
+, se neha bojevati ali upirati nekomu in prizna, da je pora&zcaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdati se, predati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All the British forces surrendered.
+</quote>
+<quote>
+The protesters surrendered to the police after about an hour.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They tried to starve us into surrender.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To surrender to a force, temptation, or feeling 
+</seg>
+pomeni dovoliti neki sili, sku&scaron;njavi ali &ccaron;ustvu, da nam zagospodari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdati se, popustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...surrendering to a sense of apathy.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To surrender something 
+</seg>
+pomeni dovoliti nekomu drugemu, da ima dolo&ccaron;eno stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepustiti, predati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The United States would never surrender this territory.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the surrender of liberties.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

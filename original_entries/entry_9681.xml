@@ -1,0 +1,210 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+number
+</orth>
+<form type="variant">
+<pron>
+/n*Vmb@/
+</pron>
+</form>
+<form type="inflected">
+numbers, numbering, numbered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A number 
+</seg>
+je beseda kot 
+<seg type="lemma">
+two
+</seg>
+, 
+<seg type="lemma">
+nine
+</seg>
+ ali 
+<seg type="lemma">
+eleven
+</seg>
+ ali znak kot 1, 3 ali 47. Z njimi povemo, o koliko stvareh govorimo ali na katerem mestu v nizu se nekaj pojavi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilka, &scaron;tevilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Your licence number is here.
+</quote>
+<quote>
+He lives at number 19 New King Street.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s number 
+</seg>
+je niz &scaron;tevilk, ki jih zavrtimo, ko nekomu telefoniramo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(telefonska) &scaron;tevilka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ring me tomorrow. Here&apos;s my number.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+number 
+</seg>
+uporabljamo v povezavi z 
+<seg type="lemma">
+large
+</seg>
+ ali 
+<seg type="lemma">
+small
+</seg>
+, &ccaron;e &zcaron;elimo pribli&zcaron;no povedati, koliko stvari ali oseb je nekje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tevilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cities with large numbers of children in care.
+</quote>
+<quote>
+A surprising number of men never marry.
+</quote>
+<quote>
+They were produced in vast numbers.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A number of
+</seg>
+ pomeni ve&ccaron; stvari ali oseb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ve&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A number of people disagreed.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+Any number of 
+</seg>
+pomeni veliko stvari ali oseb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veliko
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The work can be done in any number of ways.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar skupina oseb ali stvari 
+<seg type="lemma">
+numbers a particular amount
+</seg>
+, jih je v skupini dolo&ccaron;eno &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The force numbered almost a quarter of a million men.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+numbers something
+</seg>
+, ne&ccaron;emu dodeli zaporedno &scaron;tevilko in to &scaron;tevilko napi&scaron;e nanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&scaron;tevil&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t numbered the pages yet.
+</quote>
+</seg>
+</sense>
+</entry>

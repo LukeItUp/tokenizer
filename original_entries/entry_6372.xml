@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+guest
+</orth>
+<form type="variant">
+<pron>
+/g*est/
+</pron>
+</form>
+<form type="inflected">
+guests.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guest 
+</seg>
+je oseba, ki za&ccaron;asno biva v na&scaron;em domu ali obi&scaron;&ccaron;e neko prireditev, ker je bila tja povabljena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...wedding guests.
+</quote>
+<quote>
+We&apos;re here as guests of the National Theatre.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A guest 
+</seg>
+je tudi oseba, ki biva v hotelu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gost
+</quote>
+</cit>
+</sense>
+</entry>

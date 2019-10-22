@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+barter
+</orth>
+<form type="variant">
+<pron>
+/b*A*:t@/
+</pron>
+</form>
+<form type="inflected">
+barters, bartering, bartered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To barter goods 
+</seg>
+pomeni menjati blago za drugo blago, ne pa ga prodati za gotovino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izmenjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They bring meat, grain, and vegetables to sell or barter.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Metal discs and chains were used for barter.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

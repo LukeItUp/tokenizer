@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spike
+</orth>
+<form type="variant">
+<pron>
+/sp*a*Ik/
+</pron>
+</form>
+<form type="inflected">
+spikes.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spike 
+</seg>
+je dolg kos kovine z ostrim koncem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konica, ost, &zcaron;ebelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a wall topped with spikes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spike 
+</seg>
+je vsak dolg koni&ccaron;ast predmet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+konica, klin, klas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plant bears spikes of greenish flowers.
+</quote>
+</seg>
+</sense>
+</entry>

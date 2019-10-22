@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+incredible
+</orth>
+<form type="variant">
+<pron>
+/IN1kr*ed@1b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+incredible
+</seg>
+, je osupljivo ali malo verjetno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neverjeten, nezasli&scaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was an incredible experience.
+</quote>
+<quote>
+...an incredible story.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+incredibly
+</orth>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Upstairs, incredibly, the beds were already made.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Incredible 
+</seg>
+pomeni tudi zelo velik po koli&ccaron;ini ali stopnji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neverjeten, nezasli&scaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They get an incredible amount of money.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+incredibly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The water was incredibly hot.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

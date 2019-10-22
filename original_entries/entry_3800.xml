@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+device
+</orth>
+<form type="variant">
+<pron>
+/di1v*a*Is/
+</pron>
+</form>
+<form type="inflected">
+devices.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A device 
+</seg>
+je predmet, ki je bil izdelan ali zgrajen v dolo&ccaron;en namen, na primer za zapisovanje ali merjenje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naprava, priprava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a device for processing information.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A device 
+</seg>
+je tudi metoda za doseganje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sredstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They used television advertising as a device for stimulating demand.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To leave someone to his own devices 
+</seg>
+pomeni nekoga pustiti samega, da po&ccaron;ne, kar &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepustiti nekoga njegovi lastni iznajdljivosti
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,746 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+work
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:k/
+</pron>
+</form>
+<form type="inflected">
+works, working, worked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work 
+</seg>
+pomeni opravljati slu&zcaron;bo, za katero smo pla&ccaron;ani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was working in a bank.
+</quote>
+<quote>
+Some of my salesmen formerly worked for a rival firm.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have work 
+</seg>
+ali 
+<seg type="lemma">
+to be in work 
+</seg>
+pomeni imeti slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people who can&apos;t find work.
+</quote>
+<quote>
+...the numbers out of work.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work 
+</seg>
+pomeni opravljati naloge, ki jih zahteva na&scaron;a slu&zcaron;ba, ali nalogo, ki jo je treba opraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I watched the people working at the weaving looms.
+</quote>
+<quote>
+She works hard at keeping herself fit.
+</quote>
+<quote>
+He has been working all season on his game.
+</quote>
+<quote>
+I used to work a ten-hour day.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Work 
+</seg>
+so tudi naloge, ki jih zahteva na&scaron;a slu&zcaron;ba, ali katerekoli naloge, ki jih je treba opraviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve got some work to do.
+</quote>
+<quote>
+I finish work at 3.
+</quote>
+<quote>
+A housewife&apos;s work can take ten or twelve hours a day.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi tisto, kar je posledica neke dejavnosti, slu&zcaron;be ali podro&ccaron;ja raziskav, imenujemo 
+<seg type="lemma">
+work
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That&apos;s an absolutely fascinating piece of work.
+</quote>
+<quote>
+There has been considerable work done in America on this subject.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work the land 
+</seg>
+pomeni obdelovati zemljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdelovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...peasants working the land.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work a machine or piece of equipment 
+</seg>
+pomeni uporabljati ali nadzorovati stroj ali del opreme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upravljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the boy who worked the milking machine.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stroj ali del opreme 
+<seg type="lemma">
+works
+</seg>
+, deluje in opravlja svoje naloge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovati, delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The traffic lights weren&apos;t working properly.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka zamisel, metoda ali sistem 
+<seg type="lemma">
+works
+</seg>
+, je uspe&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obnesti se, biti uspe&scaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That kind of democracy will never work.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+works against someone
+</seg>
+, nekomu povzro&ccaron;a te&zcaron;ave. Kadar nekaj 
+<seg type="variant">
+works in someone&apos;s favour
+</seg>
+, nekomu pomaga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati za/proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The apathy of the opposition is working in his favour.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work on an assumption or idea 
+</seg>
+pomeni odlo&ccaron;ati se na podlagi neke domneve ali zamisli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ravnati
+</quote>
+</cit>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+works into a particular position
+</seg>
+, se postopoma premika v dolo&ccaron;eni polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+utreti si pot, premakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The ropes had worked loose.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To work one&apos;s way somewhere 
+</seg>
+pomeni s te&zcaron;avo se nekam premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s te&zcaron;avo napredovati, utirati si pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I worked my way slowly out of the marsh.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A work 
+</seg>
+je neka stvaritev, na primer umetni&scaron;ka slika, knjiga ali skladba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a large volume containing all of Chopin&apos;s works.
+</quote>
+<quote>
+...the collected works of Proust.
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A works 
+</seg>
+je kraj, kjer nekaj izdelujejo z industrijskim postopkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovarna
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the gas works.
+</quote>
+</seg>
+</sense>
+<sense n="16">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+working, 
+</ref>
+<ref>
+social work
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have one&apos;s work cut out to do something 
+</seg>
+pomeni, da nekaj zelo te&zcaron;ko delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti polne roke dela
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ll have our work cut out to finish on time.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar delavci 
+<seg type="lemma">
+work to rule
+</seg>
+, v znak protesta odklanjajo nadurno delo in naredijo samo najnujnej&scaron;e, kar zahtevajo od njih; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stavkati (z upo&ccaron;asnitvijo dela)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The delivery men are working to rule.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+work-to-rule
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+work into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To work oneself into a state of being upset or angry 
+</seg>
+pomeni pripraviti se do tega, da postanemo vznemirjeni ali jezni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prisiliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She worked herself into a rage.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+work off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To work off a feeling 
+</seg>
+pomeni premagati neko &ccaron;ustvo, tako da po&ccaron;nemo nekaj silovitega ali nasilnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znebiti se, re&scaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We should all be able to work off our stress physically.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+work out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To work out a solution to a problem or mystery 
+</seg>
+pomeni priti do re&scaron;itve nekega problema ali skrivnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are always hoping that a more peaceful solution can be worked out.
+</quote>
+<quote>
+Now you can work out the area of the triangle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+works out at a particular amount
+</seg>
+, je prera&ccaron;unano tolik&scaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Petrol prices here work out at around &pound;1.15 a gallon.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar dolo&ccaron;ene okoli&scaron;&ccaron;ine 
+<seg type="lemma">
+work out in a particular way
+</seg>
+, nastanejo ali se razvijajo na tak na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razviti se, nastati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s funny how life worked out.
+</quote>
+<quote>
+Things worked out well with Marian.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To work out 
+</seg>
+pomeni delati telovadne vaje, da bi bilo na&scaron;e telo v kondiciji in mo&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telovaditi, razgibavati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She worked out in a ballet class three hours a week.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+workout
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+work up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To work oneself up 
+</seg>
+pomeni postopoma postati zelo vznemirjen ali jezen zaradi ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razburiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She worked herself up into a frenzy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To work up a feeling 
+</seg>
+pomeni postopoma za&ccaron;utiti dolo&ccaron;eno &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razviti, zbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can hardly work up enough energy to go to the shops.
+</quote>
+<quote>
+She went for a run to work up an appetite.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+worked up
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+work up to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To work up to a particular amount or level 
+</seg>
+pomeni postopoma pove&ccaron;ati ali izbolj&scaron;ati tisto, kar po&ccaron;nemo, dokler ne dose&zcaron;emo dolo&ccaron;ene koli&ccaron;ine ali ravni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napredovati, povzpeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Start slowly and work up to a faster time.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

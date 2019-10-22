@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dismay
+</orth>
+<form type="variant">
+<pron>
+/dIsm*e*I/
+</pron>
+</form>
+<form type="inflected">
+dismays, dismaying, dismayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+dismays someone
+</seg>
+, pri nekom povzro&ccaron;i strah, skrb ali razo&ccaron;aranje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opla&scaron;iti, potreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He dismayed his friends by his vicious attacks on the English way of life.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+dismayed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Barbara seemed dismayed at my views.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Dismay 
+</seg>
+je mo&ccaron;no &ccaron;ustvo strahu, zaskrbljenosti ali razo&ccaron;aranja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strah, groza, obup
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I realised with dismay that he had gone.
+</quote>
+</seg>
+</sense>
+</entry>

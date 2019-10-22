@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+suggest
+</orth>
+<form type="variant">
+<pron>
+/s@dZ*est/
+</pron>
+</form>
+<form type="inflected">
+suggests, suggesting, suggested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To suggest something 
+</seg>
+pomeni povedati na&ccaron;rt ali zamisel nekomu, da jo pretehta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predlagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have to suggest a list of possible topics for next term&apos;s seminars.
+</quote>
+<quote>
+Can you suggest somewhere for a short holiday?
+</quote>
+<quote>
+I&apos;m not suggesting that the accident was your fault.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+suggests another
+</seg>
+, zaradi nje lahko sklepamo, da je nekaj drugega res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti o, kazati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His expression suggested pleasure at the fact that I had come.
+</quote>
+<quote>
+The forecasts suggest that there will be higher unemployment.
+</quote>
+</seg>
+</sense>
+</entry>

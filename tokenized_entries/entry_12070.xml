@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+right angle,
+</orth>
+<form type="inflected">
+right angles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A right angle
+</seg>
+je kot, ki meri 90&deg;.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravi kot
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta dve stvari
+<seg type="lemma">
+at right angles
+</seg>
+tvorita kot 90&deg;.
+</def>
+<cit type="translationEquivalent">
+<quote>
+v pravem kotu, pravokotno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...four corridors at right angles to each other.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

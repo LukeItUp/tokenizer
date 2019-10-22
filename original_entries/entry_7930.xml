@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+juice
+</orth>
+<form type="variant">
+<pron>
+/dZ*u*:s/
+</pron>
+</form>
+<form type="inflected">
+juices.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Juice 
+</seg>
+je teko&ccaron;ina, ki jo lahko pridobimo iz sadja ali rastlin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...two glasses of pineapple juice.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The juices of a joint of meat 
+</seg>
+je teko&ccaron;ina, ki primezi iz mesa, ko ga pripravljamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(mesni) sok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...spooning the juices over the top of a leg of lamb.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The juices in one's stomach 
+</seg>
+je teko&ccaron;ina, ki nam pomaga prebavljati hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebavni sokovi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...digestive juices.
+</quote>
+</seg>
+</sense>
+</entry>

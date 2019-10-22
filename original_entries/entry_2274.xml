@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chime
+</orth>
+<form type="variant">
+<pron>
+/tS*a*Im/
+</pron>
+</form>
+<form type="inflected">
+chimes, chiming, chimed.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar cerkveni zvonovi ali ure 
+<seg type="lemma">
+chime
+</seg>
+, pozvanjajo tako, da vemo, koliko je ura. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvoniti, b&iacute;ti
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the silvery chime of the old stable clock.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+chime in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+chimes in
+</seg>
+, nekaj re&ccaron;e tik zatem, ko je govoril nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vme&scaron;ati se, vtakniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Bill chimed in with &lsquo;This is an emergency situation.&rsquo;
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

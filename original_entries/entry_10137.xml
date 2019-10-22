@@ -1,0 +1,127 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+paint
+</orth>
+<form type="variant">
+<pron>
+/p*e*Int/
+</pron>
+</form>
+<form type="inflected">
+paints, painting, painted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Paint 
+</seg>
+je obarvana teko&ccaron;ina, ki jo s &ccaron;opi&ccaron;em nana&scaron;amo na stene ali druge povr&scaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+barva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a tin of pink paint.
+</quote>
+<quote>
+...non-drip paints.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Paint 
+</seg>
+je tudi obarvana teko&ccaron;ina ali gosta krema; z njo ustvarjamo slike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+barva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tubes of oil paint.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+paints something
+</seg>
+ ali 
+<seg type="lemma">
+paints a picture of something
+</seg>
+, z barvami ustvari podobo tistega na papirju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slikati, risati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Whistler painted his mother in a rocking chair.
+</quote>
+<quote>
+Hopper painted in a &lsquo;realist&rsquo; style.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+paints a wall or other surface
+</seg>
+, steno ali drugo povr&scaron;ino prekrije z barvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobarvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rooms were painted green.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prepared
+</orth>
+<form type="variant">
+<pron>
+/pri1p*e*@d/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be prepared to do something 
+</seg>
+pomeni biti voljan nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m prepared to say I was wrong.
+</quote>
+<quote>
+Many countries seem prepared to consider nuclear energy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be prepared for something 
+</seg>
+pomeni biti nared za nekaj, kar se utegne zgoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Be prepared for power cuts by buying lots of candles.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+prepared
+</seg>
+, je bilo narejeno vnaprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He read out a prepared statement.
+</quote>
+</seg>
+</sense>
+</entry>

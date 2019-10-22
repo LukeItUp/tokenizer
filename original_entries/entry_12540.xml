@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seat
+</orth>
+<form type="variant">
+<pron>
+/s*i*:t/
+</pron>
+</form>
+<form type="inflected">
+seats, seating, seated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A seat 
+</seg>
+je predmet, na katerem lahko sedimo, na primer stol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sede&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Roger sat down carefully, using the edge of the crate as a seat.
+</quote>
+<quote>
+...the back seat of the car.
+</quote>
+<quote>
+I rang the theatre to see if I could get seats for the show.
+</quote>
+<quote>
+Come in, take a seat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The seat of a chair 
+</seg>
+je tisti del stola, na katerem sedimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sede&zcaron;, sedalo
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seat oneself somewhere 
+</seg>
+pomeni, da nekam sedemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Thank you,&rsquo; she said, seating herself on the sofa.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+seated
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+General Tomkins was seated behind his desk.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar stavba ali vozilo 
+<seg type="lemma">
+seats a particular number of people
+</seg>
+, je v njem dovolj sede&zcaron;ev za dolo&ccaron;eno &scaron;tevilo ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti prostor za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The hall seats four hundred.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To win a seat
+</seg>
+ pomeni, da je nekdo izvoljen v parlament in tako v njem dobi mesto zase ali za svojo stranko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sede&zcaron;, mesto
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Nationalists failed to win a single seat.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take a back seat 
+</seg>
+pomeni dovoliti drugim, da imajo vso mo&ccaron; in odlo&ccaron;ajo o vsem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umakniti se v ozadje, dr&zcaron;ati se v ozadju
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

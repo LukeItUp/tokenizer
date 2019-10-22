@@ -1,0 +1,213 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+steam
+</orth>
+<form type="variant">
+<pron>
+/st*i*:m/
+</pron>
+</form>
+<form type="inflected">
+steams, steaming, steamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Steam 
+</seg>
+je vro&ccaron;a meglica, ki nastaja, kadar voda vre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+para
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room was filled with steam.
+</quote>
+<quote>
+Steam hissed between the blocks of lava.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so vozila in stroji 
+<seg type="lemma">
+steam
+</seg>
+, jih poganja para. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+paren, na parni pogon
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The first steam locomotive was introduced in 1825.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+steams
+</seg>
+, spu&scaron;&ccaron;a paro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izparevati, kaditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The kettle was steaming away on the stove.
+</quote>
+<quote>
+Lynn brought her a steaming cup of tea.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To steam food 
+</seg>
+pomeni kuhati &zcaron;ivila v pari namesto v vodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pariti, kuhati v pari
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...steamed rice.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To let off steam 
+</seg>
+pomeni znebiti se energije ali jeze z glasnim ali nasilnim ved&ecirc;njem; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dati si du&scaron;ka
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To run out of steam 
+</seg>
+pomeni prenehati nekaj delati, ker smo zelo utrujeni; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+obnemo&ccaron;i
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+steam up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be steamed up about something 
+</seg>
+pomeni biti zelo slabe volje zaradi ne&ccaron;esa; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+razburiti se, razjeziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What was she getting so steamed up about?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar steklo 
+<seg type="lemma">
+steams up
+</seg>
+, se prekrije s paro ali hlapi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamegliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her spectacles had steamed up and she couldn&apos;t see.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

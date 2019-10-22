@@ -1,0 +1,45 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p480_s525899" id="p480_w536" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="608.092" base="614.5" width="46.5479" height="8.514">moderately</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p480_s525900" id="p480_w537" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="103.38" y="609.338" base="614.5" width="35.7597" height="6.844">/m&#201;d6r6tli</TOKEN>
+<TOKEN sid="p480_s525901" id="p480_w538" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="139.5" y="608.7" base="612.11" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p480_s525902" id="p480_w539" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="142.14" y="609.338" base="614.5" width="4.9016" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p480_s525903" id="p480_w540" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="149.35" y="610.584" base="614.5" width="23.6412" height="5.192">SUBMOD</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p480_s525904" id="p480_w541" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.3" y="608.804" base="614.5" width="38.7878" height="7.552">Moderately</TOKEN>
+</seg>
+<TOKEN sid="p480_s525905" id="p480_w542" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.4" y="608.804" base="614.5" width="25.1892" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p480_s525906" id="p480_w543" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="64.0944" base="69.7904" width="24.9754" height="7.552">srednjo</TOKEN>
+<TOKEN sid="p480_s525907" id="p480_w544" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.174" y="64.0944" base="69.7904" width="19.008" height="7.552">mero.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p480_s525909" id="p480_w546" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="311.6" y="64.094" base="69.79" width="21.1464" height="7.552">dokaj,</TOKEN>
+<TOKEN sid="p480_s525910" id="p480_w547" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="334.335" y="64.094" base="69.79" width="13.5662" height="7.552">kar;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p480_s525911" id="p480_w548" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.48" y="64.094" base="69.79" width="12.7685" height="7.552">Her</TOKEN>
+<TOKEN sid="p480_s525912" id="p480_w549" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="363.836" y="64.094" base="69.79" width="42.264" height="7.552">handwriting</TOKEN>
+<TOKEN sid="p480_s525913" id="p480_w550" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="407.688" y="64.094" base="69.79" width="13.1717" height="7.552">was</TOKEN>
+<TOKEN sid="p480_s525914" id="p480_w551" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.447" y="64.094" base="69.79" width="17.5651" height="7.552">mod-</TOKEN>
+<TOKEN sid="p480_s525915" id="p480_w552" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="73.174" base="78.87" width="23.593" height="7.552">erately</TOKEN>
+<TOKEN sid="p480_s525916" id="p480_w553" font-name="ssexcelsior" serif="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.202" y="73.174" base="78.87" width="18.4046" height="7.552">good.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

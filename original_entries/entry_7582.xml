@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+instance
+</orth>
+<form type="variant">
+<pron>
+/*Inst@ns/
+</pron>
+</form>
+<form type="inflected">
+instances.
+</form>
+</form>
+<sense n="1">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+for instance 
+</seg>
+uporabimo, kadar navedemo primer za tisto, o &ccaron;emer govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na primer
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I mean, for instance, a man like Tom.
+</quote>
+<quote>
+For instance, an electric fire is a relatively expensive method of heating a room.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An instance 
+</seg>
+je dolo&ccaron;en primer nekega dogodka, polo&zcaron;aja ali osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+primer
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I do not think that in this instance the doctor was right.
+</quote>
+<quote>
+...instances of government injustice.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -5,27 +5,26 @@ all
 </orth>
 <form type="variant">
 <pron>
-/*O*:l/.
+/*O*:l/
 </pron>
 </form>
 </form>
 <sense n="1">
 <gramGrp>
 <pos>
-PREDET, DET,
+PREDET, DET, 
 <seg>
-or
+or 
 </seg>
 PRON
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-all
+all 
 </seg>
-povemo, da se povedano nana&#353;a
-na vso skupino ali na celoten predmet.
+povemo, da se povedano nana&scaron;a na vso skupino ali na celoten predmet. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -57,12 +56,11 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-all
+all 
 </seg>
-tudi poudarimo obseg, v
-katerem se nekaj zgodi ali za katerega nekaj velja.
+tudi poudarimo obseg, v katerem se nekaj zgodi ali za katerega nekaj velja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -85,33 +83,30 @@ ADV
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Besedo
+Besedo 
 <seg type="lemma">
-all
+all 
 </seg>
-uporabimo, kadar govorimo o
-neodlo&#269;enem izidu igre. Na primer: kadar je izid
+uporabimo, kadar govorimo o neodlo&ccaron;enem izidu igre. Na primer: kadar je izid 
 <seg type="lemma">
-three
-all
+three all
 </seg>
-imata oba igralca po tri to&#269;ke.
+, imata oba igralca po tri to&ccaron;ke. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-neodlo&#269;eno
+neodlo&ccaron;eno
 </quote>
 </cit>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-above all
+above all 
 </seg>
-poudarimo, da je
-neka stvar pomembnej&#353;a od druge.
+poudarimo, da je neka stvar pomembnej&scaron;a od druge. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -126,12 +121,11 @@ Relax, and above all don't panic.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Izraz
+Izraz 
 <seg type="lemma">
-after all
+after all 
 </seg>
-uporabimo, kadar &#382;elimo
-opozoriti na nekaj, kar so drugi morda pozabili ali &#269;esar prej nismo opazili.
+uporabimo, kadar &zcaron;elimo opozoriti na nekaj, kar so drugi morda pozabili ali &ccaron;esar prej nismo opazili. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -146,12 +140,11 @@ Could it be true, after all, that money did not bring happiness?
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-all in all
+all in all 
 </seg>
-uvedemo povzetek
-ali posplo&#353;itev.
+uvedemo povzetek ali posplo&scaron;itev. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -166,16 +159,15 @@ All in all, I'm not in favour.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar re&#269;emo, da nekaj ni
+Kadar re&ccaron;emo, da nekaj ni 
 <seg type="lemma">
-all that good
+all that good 
 </seg>
-ali
+ali 
 <seg type="lemma">
 all that important
 </seg>
-&#382;elimo povedati, da ni
-zelo dobro ali pomembno;
+, &zcaron;elimo povedati, da ni zelo dobro ali pomembno; 
 </def>
 <usg>
 rabimo zlasti v govoru.
@@ -194,18 +186,17 @@ I don't know him all that well.
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-All the more
+All the more 
 </seg>
-ali
+ali 
 <seg type="lemma">
-all
-the better
+all the better 
 </seg>
-pomeni veliko ve&#269; ali bolje kakor prej.
+pomeni veliko ve&ccaron; ali bolje kakor prej. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#353;e ve&#269;, &#353;e bolj
+&scaron;e ve&ccaron;, &scaron;e bolj
 </quote>
 </cit>
 <seg type="example">
@@ -216,12 +207,11 @@ You must work all the more quickly now.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-at all
+at all 
 </seg>
-poudarimo nikalnico
-ali vpra&#353;anje.
+poudarimo nikalnico ali vpra&scaron;anje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -239,13 +229,11 @@ Haven't you got any at all?
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-for all
+for all 
 </seg>
-povemo, da dolo&#269;eno
-dejstvo ne vpliva na tisto ali ne nasprotuje tistemu, kar pripovedujemo, &#269;eprav
-vemo, da je videti druga&#269;e.
+povemo, da dolo&ccaron;eno dejstvo ne vpliva na tisto ali ne nasprotuje tistemu, kar pripovedujemo, &ccaron;eprav vemo, da je videti druga&ccaron;e. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -261,9 +249,9 @@ For all her sensitivity, she's extremely tough.
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-In all
+In all 
 </seg>
-pomeni v celoti.
+pomeni v celoti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -278,16 +266,15 @@ There were nine in all.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazoma
+Z izrazoma 
 <seg type="lemma">
-in all seriousness
+in all seriousness 
 </seg>
-ali
+ali 
 <seg type="lemma">
-in all honesty
+in all honesty 
 </seg>
-poudarimo, da mislimo povsem resno ali
-odkrito.
+poudarimo, da mislimo povsem resno ali odkrito. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -302,20 +289,19 @@ I say this in all seriousness.
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Z izrazom
+Z izrazom 
 <seg type="lemma">
-of all
+of all 
 </seg>
-poudarimo besedi
+poudarimo besedi 
 <seg type="lemma">
 first
 </seg>
-ali
+ ali 
 <seg type="lemma">
 last
 </seg>
-prislov, ali pa
-prese&#382;nik pridevnika.
+, prislov, ali pa prese&zcaron;nik pridevnika. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -331,5 +317,5 @@ This view is the best of all.
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

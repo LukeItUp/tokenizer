@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+map
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+maps, mapping, mapped.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A map 
+</seg>
+je risba nekega obmo&ccaron;ja, kakr&scaron;no je videti od zgoraj, v&ccaron;asih z vpisanimi posebnimi podatki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zemljevid, na&ccaron;rt
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SCHOOL
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+On the map it is quite a brief strip of road.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+map out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+maps out a plan or task
+</seg>
+, razdela predvideni potek na&ccaron;rta ali dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predvideti potek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They met and mapped out their task.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

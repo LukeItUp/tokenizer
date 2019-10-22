@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exceptional,
+</orth>
+<form type="variant">
+<pron>
+/I2ks*epS@0n@l, -S@n@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+exceptional
+</seg>
+, je nenavadno nadarjen in bister. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjemen, nenavaden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My brother isn't exceptional; there are plenty of youngsters like him.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exceptionally
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Ian is an exceptionally gifted musician.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Okoli&scaron;&ccaron;ine ali dogodki, ki so
+<seg type="lemma">
+ exceptional
+</seg>
+, so nenavadni ali redki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjemen, nenavaden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Permission will be granted only in very exceptional circumstances.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+exceptionally
+</orth>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Exceptionally, a degree will be awarded to a candidate who did not take all the exams.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

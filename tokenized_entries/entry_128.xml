@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p7_s7156" id="p7_w693" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="308.46" y="228.038" base="233.2" width="44.3816" height="6.844">/6kweËnt6ns/,</TOKEN>
+<TOKEN sid="p7_s7156" id="p7_w693" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="308.46" y="228.038" base="233.2" width="44.3816" height="6.844">/6kwe&#203;nt6ns/,</TOKEN>
 </pron>
 </form>
 <form type="inflected">
@@ -92,7 +92,7 @@
 </cit>
 <seg type="example">
 <quote>
-<TOKEN sid="p7_s7207" id="p7_w744" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.83" y="272.904" base="278.6" width="18.3895" height="7.552">…her</TOKEN>
+<TOKEN sid="p7_s7207" id="p7_w744" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="423.83" y="272.904" base="278.6" width="18.3895" height="7.552">&#8230;her</TOKEN>
 <TOKEN sid="p7_s7208" id="p7_w745" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="281.974" base="287.67" width="45.193" height="7.552">acquaintance</TOKEN>
 <TOKEN sid="p7_s7209" id="p7_w746" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="308.002" y="281.974" base="287.67" width="15.5909" height="7.552">with</TOKEN>
 <TOKEN sid="p7_s7210" id="p7_w747" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="325.591" y="281.974" base="287.67" width="25.992" height="7.552">modern</TOKEN>
@@ -100,7 +100,7 @@
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <TOKEN sid="p7_s7214" id="p7_w751" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="298.87" y="291.054" base="296.75" width="8.79768" height="7.552">^e</TOKEN>
@@ -159,5 +159,5 @@
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

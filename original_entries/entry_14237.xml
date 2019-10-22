@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tap
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+taps, tapping, tapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tap 
+</seg>
+je naprava, s katero uravnavamo dotok teko&ccaron;ine ali plina iz cevi ali posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pipa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Turn on the hot tap.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tap something 
+</seg>
+ali 
+<seg type="variant">
+to tap on something 
+</seg>
+pomeni nalahko udarjati po ne&ccaron;em s prsti ali &ccaron;im drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bobnati s prsti, rahlo udarjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It will come loose if you tap it with a hammer.
+</quote>
+<quote>
+She tapped on the glass partition.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I heard a soft tap at the front door.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tap a resource 
+</seg>
+pomeni uporabljati dolo&ccaron;en vir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izkori&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a new way of tapping the sun&apos;s energy.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,365 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+say
+</orth>
+<form type="variant">
+<pron>
+/s*e*I/
+</pron>
+</form>
+<form type="inflected">
+says
+</form>
+<form type="variant">
+<pron>
+/s*ez/
+</pron>
+</form>
+<form type="inflected">
+saying
+</form>
+<form type="variant">
+<pron>
+/s*e*IIN/
+</pron>
+</form>
+<form type="inflected">
+said
+</form>
+<form type="variant">
+<pron>
+/s*ed/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To say something 
+</seg>
+pomeni izgovoriti besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Please come in,&rsquo; she said.
+</quote>
+<quote>
+He said it was an accident.
+</quote>
+<quote>
+He had said nothing to me about his meeting.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+say 
+</seg>
+uvedemo mnenje ali komentar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+re&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I just want to say how pleased I am to be here.
+</quote>
+<quote>
+One thing you have to say about Americans: they love drama.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To say something in a letter or a book 
+</seg>
+pomeni izraziti tisto v pisni obliki, na primer v pismu ali knjigi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pisati, sporo&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wrote to say she wanted to meet me in London.
+</quote>
+<quote>
+There were stickers all over the crate saying: &lsquo;Glass&mdash;Handle with Care&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ura ali zemljevid 
+<seg type="lemma">
+says a particular thing
+</seg>
+, na njem lahko razberemo dolo&ccaron;ene podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The clock says that it is six o&apos;clock.
+</quote>
+<quote>
+The road was not where the map said it should be.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To say something about a person, situation, or thing 
+</seg>
+pomeni, da razkrijemo nekaj o dolo&ccaron;eni osebi, razmerah ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The title says it all.
+</quote>
+<quote>
+Their glances seemed to be saying something about their relationship.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+say 
+</seg>
+uporabimo, ko nekaj navedemo kot primer ali ko navedemo pribli&zcaron;no koli&ccaron;ino ali &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+denimo, recimo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Compare, say, a Michelangelo painting with a Van Gogh.
+</quote>
+<quote>
+...in the next, say, ten years.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a say in something 
+</seg>
+pomeni imeti pravico, da povemo svoje mnenje in vplivamo na odlo&ccaron;itve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti besedo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People want a much greater say in how the country should be governed.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To say something to oneself 
+</seg>
+pomeni, da nekaj mislimo sami pri sebi, ne re&ccaron;emo pa tega naglas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I began to say to myself, &lsquo;What about becoming an actor?&rsquo;
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraze, kot sta 
+<seg type="lemma">
+just say 
+</seg>
+in 
+<FV>
+let&apos;s say
+</FV>
+, uporabljamo, kadar &zcaron;elimo na&ccaron;eti pogovor o ne&ccaron;em, kar se utegne zgoditi ali biti res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+recimo, denimo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Just say you found treasure in your garden. Would you sell it?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to say the least 
+</seg>
+ozna&ccaron;uje, da so stvari veliko bolj resne, pretresljive ali skrajne, kot pravimo, da so. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+milo re&ccaron;eno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She lacked tact (to say the least) in expressing her views.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+that is to say 
+</seg>
+opozorimo, da bomo &scaron;e enkrat povedali isto vsebino na jasnej&scaron;i na&ccaron;in; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+se pravi, druga&ccaron;e re&ccaron;eno, torej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Romans left Britain in 410 AD&mdash;that is to say, England was under Roman rule for nearly 500 years.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+to say nothing of 
+</seg>
+uporabimo, preden navedemo nekaj, s &ccaron;imer dodatno podpremo svojo trditev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+da ne omenjamo, kaj &scaron;ele
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The effort required is immense, to say nothing of the cost.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+goes without saying
+</seg>
+, je o&ccaron;itno ali zelo verjetno res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samoumevno je, samo po sebi se razume, seveda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It goes without saying that I am grateful for all your help.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has a lot to be said for it
+</seg>
+, ima veliko dobrih lastnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti vrednost, zaslu&zcaron;iti pozornost ali pohvalo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have one&apos;s say 
+</seg>
+pomeni izraziti svoje mnenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati svoje
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

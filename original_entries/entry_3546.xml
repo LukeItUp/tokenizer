@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+decoy
+</orth>
+<form type="variant">
+<pron>
+/d*i*:k*O*I/
+</pron>
+</form>
+<form type="inflected">
+decoys, decoying, decoyed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A decoy 
+</seg>
+je &ccaron;lovek ali stvar, s katero nekoga zapeljemo pro&ccaron; od tam, kamor je nameraval iti, najve&ccaron;krat zato, da ga ujamemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vaba
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To decoy someone 
+</seg>
+pomeni nekoga zapeljati pro&ccaron; od tam, kamor je nameraval iti, pogosto z zvija&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Eight of the missiles were decoyed away from targets.
+</quote>
+</seg>
+</sense>
+</entry>

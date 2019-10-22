@@ -1,0 +1,437 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+feel
+</orth>
+<form type="variant">
+<pron>
+/f*i*:l/
+</pron>
+</form>
+<form type="inflected">
+feels, feeling, felt
+</form>
+<form type="variant">
+<pron>
+/f*elt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+LINK VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel an emotion or a sensation 
+</seg>
+pomeni do&zcaron;iveti neko &ccaron;ustvo ali ob&ccaron;utek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;utiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mrs Oliver felt a sudden desire to burst out crying.
+</quote>
+<quote>
+I was feeling hungry.
+</quote>
+<quote>
+She felt a fool.
+</quote>
+<quote>
+I felt like a murderer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB, VB 
+<seg>
+with 
+</seg>
+COMPLEMENT, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel that something is the case 
+</seg>
+pomeni, da je po na&scaron;em mnenju nekaj tako, kot pravimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;utiti; meniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He felt I was making a terrible mistake.
+</quote>
+<quote>
+I felt obliged to invite him in.
+</quote>
+<quote>
+He felt it necessary to explain why he had come.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel a particular way about something 
+</seg>
+pomeni imeti dolo&ccaron;en odnos do ne&ccaron;esa ali reakcijo na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;utiti; meniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She knew how I felt about totalitarianism.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;like&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+it feels
+</seg>
+ izra&zcaron;amo dolo&ccaron;ena &ccaron;ustva in ob&ccaron;utke, ki so povezani z nekim do&zcaron;ivetjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It felt good to be back.
+</quote>
+<quote>
+What does it feel like to watch yourself on TV?
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;like&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+it feels
+</seg>
+ izra&zcaron;amo vtis, ki ga nekaj naredi na nas, ko tisto primemo ali ko se tistega dotaknemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati ob&ccaron;utek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It feels like a normal fabric.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the cool feel of armchair leather.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel something 
+</seg>
+pomeni zavedati se, da se nekaj dotika na&scaron;ega telesa ali da se z njim nekaj dogaja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;utiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They felt the wind on their damp faces.
+</quote>
+<quote>
+He could feel himself blushing.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel something 
+</seg>
+pomeni tudi, da se ne&ccaron;esa zavedamo, &ccaron;eprav tistega ne moremo videti ali sli&scaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utiti, zaznati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had felt Binta&apos;s presence in the hut.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel a physical object 
+</seg>
+pomeni namenoma se dotakniti nekega predmeta, da bi ugotovili, kak&scaron;en je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potipati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Eric felt his face. &lsquo;I&apos;m all rough. Am I bleeding?&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel for an object 
+</seg>
+pomeni poskusiti najti neki predmet z rokami in ne z o&ccaron;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tipati, tipaje iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She felt in her bag for her key.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel the effect or result of something 
+</seg>
+pomeni do&zcaron;iveti vpliv ali posledico ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&ccaron;utiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We shan&apos;t feel the effect of the change for some years.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The feel of something 
+</seg>
+je splo&scaron;ni vtis, ki ga ustvari, na primer, neki kraj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Brazilian Amazon has the feel of a tropical wild west.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+feeling, 
+</ref>
+<ref>
+felt
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To feel like doing or having something 
+</seg>
+pomeni &zcaron;eleti si nekaj storiti ali imeti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;eleti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I feel like a stroll.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+does not feel oneself
+</seg>
+, je nekoliko bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne po&ccaron;utiti se dobro
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

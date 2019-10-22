@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wheedle
+</orth>
+<form type="variant">
+<pron>
+/w*i*:d@0l/
+</pron>
+</form>
+<form type="inflected">
+wheedles, wheedling, wheedled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wheedle someone into doing something 
+</seg>
+pomeni nekoga previdno in spretno prepri&ccaron;ati, naj nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretentati, pregovoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They tried to wheedle her into leaving the house.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wheedle something out of someone 
+</seg>
+pomeni nekoga prepri&ccaron;ati, naj nam nekaj da. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvabiti iz koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wheedled money out of him.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reservation
+</orth>
+<form type="variant">
+<pron>
+/r*ez@v*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+reservations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have reservations about something 
+</seg>
+pomeni, da nismo prepri&ccaron;ani, ali je nekaj povsem dobro oziroma pravilno ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ek, pomislek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have reservations about the desirability of such a change.
+</quote>
+<quote>
+They accepted the plan without reservation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a reservation 
+</seg>
+pomeni poskrbeti, da bodo za nas v restavraciji prihranili mizo ali v hotelu sobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rezervacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I will make the reservation for seven thirty.
+</quote>
+</seg>
+</sense>
+</entry>

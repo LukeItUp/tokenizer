@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p84_s92597" id="p84_w924" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="469.792" base="476.2" width="23.2688" height="8.514">brolly</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p84_s92598" id="p84_w925" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.28" y="471.038" base="476.2" width="19.5196" height="6.844">/br&#201;li</TOKEN>
+<TOKEN sid="p84_s92599" id="p84_w926" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="298.17" y="470.4" base="473.81" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p84_s92600" id="p84_w927" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.8" y="471.038" base="476.2" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p84_s92601" id="p84_w928" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="307.77" y="470.86" base="476.2" width="25.4975" height="7.08">brollies.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p84_s92602" id="p84_w929" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="335.34" y="472.284" base="476.2" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p84_s92603" id="p84_w930" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="355.737" y="472.284" base="476.2" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p84_s92604" id="p84_w931" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="361.93" y="470.504" base="476.2" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p84_s92605" id="p84_w932" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="369.599" y="470.504" base="476.2" width="20.2514" height="7.552">brolly</TOKEN>
+</seg>
+<TOKEN sid="p84_s92606" id="p84_w933" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="391.91" y="470.504" base="476.2" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p84_s92607" id="p84_w934" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="399.977" y="470.504" base="476.2" width="24.7925" height="7.552">de`nik;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p84_s92608" id="p84_w935" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.839" y="470.504" base="476.2" width="13.1882" height="7.552">bri-</TOKEN>
+<TOKEN sid="p84_s92609" id="p84_w936" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="479.724" base="485.42" width="22.7988" height="7.552">tanska</TOKEN>
+<TOKEN sid="p84_s92610" id="p84_w937" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="283.409" y="479.724" base="485.42" width="17.6011" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p84_s92612" id="p84_w939" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="309.24" y="479.724" base="485.42" width="22.7916" height="7.552">de`nik</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

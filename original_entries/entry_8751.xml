@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mask
+</orth>
+<form type="variant">
+<pron>
+/m*A*:sk/
+</pron>
+</form>
+<form type="inflected">
+masks, masking, masked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mask 
+</seg>
+je tisto, kar damo na obraz kot za&scaron;&ccaron;ito ali krinko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+maska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The thieves were wearing masks.
+</quote>
+<quote>
+...a surgical mask.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+masks something
+</seg>
+, tisto skrije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her eyes were masked by huge, round sunglasses.
+</quote>
+<quote>
+They couldn&apos;t mask their disappointment.
+</quote>
+</seg>
+</sense>
+</entry>

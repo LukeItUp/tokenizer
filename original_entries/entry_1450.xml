@@ -1,0 +1,252 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+board
+</orth>
+<form type="variant">
+<pron>
+/b*O*:d/
+</pron>
+</form>
+<form type="inflected">
+boards, boarding, boarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A board 
+</seg>
+je plo&scaron;&ccaron;at kos lesa, ki ga uporabljamo v dolo&ccaron;en namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tabla, deska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a chopping board.
+</quote>
+<quote>
+...a drawing board.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The board 
+</seg>
+je kraj&scaron;e poimenovanje za 
+<seg type="lemma">
+blackboard
+</seg>
+, 
+<seg type="lemma">
+chessboard
+</seg>
+ ali 
+<seg type="lemma">
+notice board
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tabla
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'll write the sum up on the board.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The board of a company or organization 
+</seg>
+je skupina ljudi, ki vodi podjetje ali ga nadzoruje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uprava, upravni odbor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...members of the board.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To board a train, ship, or aircraft 
+</seg>
+pomeni stopiti na vlak, ladjo ali letalo, da bi nekam odpotovali; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vkrcati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That same afternoon I boarded the plane at Kastrup.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+on board a train, ship, or aircraft
+</seg>
+, je na vlaku, ladji ali letalu ali v njem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na krovu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He looked around at the other people on board.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Board 
+</seg>
+je hrana, s katero nam postre&zcaron;ejo, kadar bivamo zunaj doma, na primer v hotelu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hrana, penzion
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+full board, 
+</ref>
+<ref>
+half board
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Dogovor ali kup&ccaron;ija, ki je 
+<seg type="lemma">
+above board
+</seg>
+, je zakonita in izpeljana po&scaron;teno in odkrito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkrit, po&scaron;ten
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e neka politika ali polo&zcaron;aj velja 
+<seg type="lemma">
+across the board
+</seg>
+, se nana&scaron;a na vse in vsakogar v dolo&ccaron;eni skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;ez, povpre&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We're aiming for a 20% reduction across the board.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e neki dogovor ali na&ccaron;rt 
+<seg type="lemma">
+goes by the board
+</seg>
+, ga ne uporabimo ali se ne uresni&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjaloviti se, pasti v vodo
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+board up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To board up a door or window
+</seg>
+ pomeni, da prek vrat ali okna pritrdimo deske, tako da je zakrito. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z deskami zabiti, oblo&zcaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

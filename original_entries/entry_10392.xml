@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peppermint
+</orth>
+<form type="variant">
+<pron>
+/p*ep@mInt/
+</pron>
+</form>
+<form type="inflected">
+peppermints.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Peppermint 
+</seg>
+je mo&ccaron;an sve&zcaron; okus, ki v ustih pusti hladen ob&ccaron;utek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mentol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...peppermint candy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A peppermint 
+</seg>
+je bonbon z okusom mentola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mentolov bonbon
+</quote>
+</cit>
+</sense>
+</entry>

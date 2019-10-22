@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+perpetrate
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:pI2treIt/
+</pron>
+</form>
+<form type="inflected">
+perpetrates, perpetrating, perpetrated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+perpetrates a crime
+</seg>
+, stori zlo&ccaron;in; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zagre&scaron;iti, storiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a fraud perpetrated by lawyers.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+perpetrator
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:pI2treIt@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the perpetrator of the crime.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

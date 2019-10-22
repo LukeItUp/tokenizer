@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+torpedo
+</orth>
+<form type="variant">
+<pron>
+/tO:p*i*:d@U/
+</pron>
+</form>
+<form type="inflected">
+torpedoes, torpedoing, torpedoed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A torpedo 
+</seg>
+je podvodni izstrelek cevaste oblike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+torpedo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ladja 
+<seg type="lemma">
+is torpedoed
+</seg>
+, jo zadene torpedo in jo najve&ccaron;krat tudi potopi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+torpedirati
+</quote>
+</cit>
+</sense>
+</entry>

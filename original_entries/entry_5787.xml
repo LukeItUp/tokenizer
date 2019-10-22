@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frontier
+</orth>
+<form type="variant">
+<pron>
+/fr*Vnt*I*@/
+</pron>
+</form>
+<form type="inflected">
+frontiers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A frontier 
+</seg>
+je meja med dvema dr&zcaron;avama. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meja
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The frontiers of a subject 
+</seg>
+so meje, do katerih je neka stvar lahko znana ali narejena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+meja, novo podro&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are doing work on the frontiers of discovery.
+</quote>
+<quote>
+...crossing social frontiers.
+</quote>
+</seg>
+</sense>
+</entry>

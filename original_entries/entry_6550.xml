@@ -1,0 +1,53 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hardware
+</orth>
+<form type="variant">
+<pron>
+/h*A:dwe@/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Hardware 
+</seg>
+je orodje in oprema za uporabo doma in na vrtu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovno orodje in pribor
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Computer hardware 
+</seg>
+je strojni del ra&ccaron;unalnika v nasprotju s programi, napisanimi zanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strojna oprema
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In addition to the basic hardware and software, several other components will be needed.
+</quote>
+</seg>
+</sense>
+</entry>

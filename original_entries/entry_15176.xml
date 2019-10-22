@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unfit
+</orth>
+<form type="variant">
+<pron>
+/Vnf*It/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unfit
+</seg>
+, njegovo telo ni v dobrem stanju, ker ne vadi redno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+telesno slabo pripravljen, brez kondicije
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor ali kar je 
+<seg type="lemma">
+unfit for a particular purpose
+</seg>
+, ni primerno ali dovolj dobro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neprimeren za dolo&ccaron;en namen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This meat is unfit for human consumption.
+</quote>
+<quote>
+Adams is clearly unfit to hold an administrative post.
+</quote>
+</seg>
+</sense>
+</entry>

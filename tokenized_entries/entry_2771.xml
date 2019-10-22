@@ -1,0 +1,52 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p141_s153768" id="p141_w133" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="199.562" base="205.97" width="33.4288" height="8.514">concord</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p141_s153769" id="p141_w134" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.86" y="200.808" base="205.97" width="15.2395" height="6.844">/k&#201;&#207;</TOKEN>
+<TOKEN sid="p141_s153770" id="p141_w135" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="109.5" y="200.17" base="203.58" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p141_s153771" id="p141_w136" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="112.19" y="200.808" base="205.97" width="19.8516" height="6.844">k&#213;&#194;d/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p141_s153772" id="p141_w137" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.74" y="202.054" base="205.97" width="27.5705" height="5.192">UNCOUNT</TOKEN>
+<TOKEN sid="p141_s153773" id="p141_w138" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="165.88" y="202.054" base="205.97" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p141_s153774" id="p141_w139" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="173.66" y="200.274" base="205.97" width="29.2198" height="7.552">Concord</TOKEN>
+</seg>
+<TOKEN sid="p141_s153775" id="p141_w140" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="206.57" y="200.274" base="205.97" width="6.0876" height="7.552">je</TOKEN>
+<TOKEN sid="p141_s153776" id="p141_w141" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.349" y="200.274" base="205.97" width="27.4284" height="7.552">soglasje</TOKEN>
+<TOKEN sid="p141_s153777" id="p141_w142" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="209.354" base="215.05" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p141_s153778" id="p141_w143" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.0101" y="209.354" base="215.05" width="29.201" height="7.552">drugimi;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p141_s153779" id="p141_w144" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="99.2142" y="209.354" base="215.05" width="25.6003" height="7.552">knji`na</TOKEN>
+<TOKEN sid="p141_s153780" id="p141_w145" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="126.818" y="209.354" base="215.05" width="17.6069" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p141_s153782" id="p141_w147" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="152.7" y="209.354" base="215.05" width="19.6092" height="7.552">sloga,</TOKEN>
+<TOKEN sid="p141_s153783" id="p141_w148" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.312" y="209.354" base="215.05" width="31.2106" height="7.552">enotnost;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p141_s153784" id="p141_w149" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.55" y="209.354" base="215.05" width="20.0002" height="7.552">&#8230;this</TOKEN>
+<TOKEN sid="p141_s153785" id="p141_w150" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="229.555" y="209.354" base="215.05" width="14.243" height="7.552">reli-</TOKEN>
+<TOKEN sid="p141_s153786" id="p141_w151" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3904" y="218.434" base="224.13" width="14.801" height="7.552">gion</TOKEN>
+<TOKEN sid="p141_s153787" id="p141_w152" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="79.1916" y="218.434" base="224.13" width="6.40008" height="7.552">of</TOKEN>
+<TOKEN sid="p141_s153788" id="p141_w153" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="87.5918" y="218.434" base="224.13" width="19.1995" height="7.552">peace</TOKEN>
+<TOKEN sid="p141_s153789" id="p141_w154" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="108.792" y="218.434" base="224.13" width="12.8002" height="7.552">and</TOKEN>
+<TOKEN sid="p141_s153790" id="p141_w155" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="123.592" y="218.434" base="224.13" width="29.0491" height="7.552">concord.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

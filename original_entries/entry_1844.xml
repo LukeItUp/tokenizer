@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+butter
+</orth>
+<form type="variant">
+<pron>
+/b*Vt@/
+</pron>
+</form>
+<form type="inflected">
+butters, buttering, buttered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Butter 
+</seg>
+je rumenkasto &zcaron;ivilo, narejeno iz smetane; nama&zcaron;emo ga na kruh ali pa ga uporabljamo za kuho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+maslo
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To butter bread or toast
+</seg>
+ pomeni namazati kruh ali pope&ccaron;enec z maslom.
+</def>
+<cit type="translationEquivalent">
+<quote>
+namazati z maslom
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+<seg type="lemma">
+butter wouldn't melt in his mouth
+</seg>
+ 
+</seg>
+ho&ccaron;emo povedati, da je tisti &ccaron;lovek sicer videti zelo nedol&zcaron;en, vendar vemo, da je storil nekaj slabega ali da to namerava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+videti je, kot da ne bi znal &scaron;teti do pet
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+butter up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To butter someone up 
+</seg>
+pomeni nekoga hvaliti ali se truditi, da bi mu ustregli, ker ga ho&ccaron;emo prositi za uslugo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+laskati, prilizovati se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

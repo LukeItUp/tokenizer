@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+blackmail
+</orth>
+<form type="variant">
+<pron>
+/bl*&ae;kmeIl/
+</pron>
+</form>
+<form type="inflected">
+blackmails, blackmailing, blackmailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Blackmail 
+</seg>
+je gro&zcaron;nja, da bomo nekomu storili nekaj neprijetnega, na primer razkrili njihovo skrivnost, &ccaron;e nam ne bo dal denarja ali se v&ecirc;del tako, kot zahtevamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izsiljevanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The statements amounted to blackmail.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+blackmailer
+</orth>
+<form type="variant">
+<pron>
+/bl*&ae;kmeIl@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the blackmailer's cruelty to his victim.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To blackmail someone 
+</seg>
+pomeni poskusiti od nekoga izsiliti denar z gro&zcaron;njo, da bomo o njem razkrili skrivnost ali mu naredili nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izsiljevati
+</quote>
+</cit>
+</sense>
+</entry>

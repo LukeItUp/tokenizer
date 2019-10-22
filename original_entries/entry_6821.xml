@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hive
+</orth>
+<form type="variant">
+<pron>
+/h*a*Iv/
+</pron>
+</form>
+<form type="inflected">
+hives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hive 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+a beehive
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+panj, &ccaron;ebelnjak
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Neki kraj opi&scaron;emo kot 
+<seg type="lemma">
+a hive of a particular kind of activity
+</seg>
+, kadar je tam veliko dolo&ccaron;ene dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbirali&scaron;&ccaron;e, sredi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Calcutta is a hive of industry and trade.
+</quote>
+</seg>
+</sense>
+</entry>

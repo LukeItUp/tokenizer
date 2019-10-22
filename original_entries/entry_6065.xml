@@ -1,0 +1,118 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glance
+</orth>
+<form type="variant">
+<pron>
+/gl*A*:ns/
+</pron>
+</form>
+<form type="inflected">
+glances, glancing, glanced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To glance at something 
+</seg>
+pomeni nekaj zelo na hitro pogledati in se potem ozreti pro&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+be&zcaron;no pogledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jacqueline glanced at her watch.
+</quote>
+<quote>
+Rudolph glanced around to make sure nobody was watching.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He cast a quick glance at his friend.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;through&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To glance through or at a newspaper or book 
+</seg>
+pomeni malo &ccaron;asa gledati &ccaron;asopis ali knjigo, ne da bi jo pazljivo brali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preleteti, prelistati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+During breakfast he glances through the morning paper.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj vidimo ali prepoznamo 
+<seg type="lemma">
+at a glance
+</seg>
+, to storimo takoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na prvi pogled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She can tell at a glance whether they are married.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

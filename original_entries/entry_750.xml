@@ -19,19 +19,18 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 ascetic
 </seg>
-&#382;ivi preprosto in strogo,
-navadno zaradi verskega prepri&#269;anja.
+, &zcaron;ivi preprosto in strogo, navadno zaradi verskega prepri&ccaron;anja. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-asketski, vzdr&#382;en
+asketski, vzdr&zcaron;en
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -42,6 +41,6 @@ COUNT N
 ...a Christian ascetic.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

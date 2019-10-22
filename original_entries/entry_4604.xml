@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+emergency
+</orth>
+<form type="variant">
+<pron>
+/i1m*$e*:dZ@nsi1/
+</pron>
+</form>
+<form type="inflected">
+emergencies.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An emergency 
+</seg>
+je nepri&ccaron;akovan ali nevaren polo&zcaron;aj, proti kateremu je treba hitro ukrepati.
+</def>
+<cit type="translationEquivalent">
+<quote>
+sila, stiska, nujen primer
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The bells were only used in emergencies.
+</quote>
+<quote>
+...what to do in case of emergency.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The plane made an emergency landing.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

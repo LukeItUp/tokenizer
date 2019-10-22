@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+silt
+</orth>
+<form type="variant">
+<pron>
+/s*Ilt/
+</pron>
+</form>
+<form type="inflected">
+silts, silting, silted.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Silt 
+</seg>
+je droben pesek ali blato, ki ga nosi s sabo reka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mulj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The problem is keeping the harbours free of silt.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+silt up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar reka ali jezero 
+<seg type="lemma">
+silts up
+</seg>
+, se v njem nakopi&ccaron;i veliko mulja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zama&scaron;iti se z blatom, zamuljiti se
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

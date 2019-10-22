@@ -1,0 +1,117 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dictate,
+</orth>
+<form type="inflected">
+dictates, dictating, dictated;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/dIkt*e*It/
+</pron>
+, samostalnik pa 
+<pron>
+/d*IkteIt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dictate something 
+</seg>
+pomeni nekomu na glas nekaj govoriti, da bo tisto zapisal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narekovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It took him a long time to dictate this letter.
+</quote>
+<quote>
+Walk about as you dictate.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;, 
+</seg>
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dictate to someone 
+</seg>
+pomeni nekomu povedati, kaj mora storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapovedati, ukazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The unions are hardly in a position to dictate to the Labour party.
+</quote>
+<quote>
+Landlords can dictate their own conditions.
+</quote>
+<quote>
+The law dictated that his right hand be cut off.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dictate 
+</seg>
+je ukaz, ki ga moramo ubogati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ukaz, zapoved
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They obeyed the union's dictates and went on strike.
+</quote>
+</seg>
+</sense>
+</entry>

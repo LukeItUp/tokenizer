@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+scheme
+</orth>
+<form type="variant">
+<pron>
+/sk*i*:m/
+</pron>
+</form>
+<form type="inflected">
+schemes, scheming, schemed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A scheme 
+</seg>
+je na&ccaron;rt ali program, zlasti tak, ki ga pripravi vlada ali druga ustanova. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+program, na&ccaron;rt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the State pension scheme.
+</quote>
+<quote>
+...a scheme to build 63 houses.
+</quote>
+<quote>
+...some scheme for perfecting the world.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To scheme 
+</seg>
+pomeni delati skrivne na&ccaron;rte; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+spletkariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He schemed against her.
+</quote>
+<quote>
+She schemed on her daughter&apos;s behalf.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+scheming
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a ruthless, scheming man.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The scheme of things 
+</seg>
+je na&ccaron;in, kako se nam zdi urejen svet okoli nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ureditev sveta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Man needed to understand his place in the scheme of things.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

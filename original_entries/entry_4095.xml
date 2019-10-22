@@ -1,0 +1,137 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distinct
+</orth>
+<form type="variant">
+<pron>
+/dIst*INkt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je neka stvar 
+<seg type="lemma">
+distinct from another
+</seg>
+, je med njima o&ccaron;itna razlika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razli&ccaron;en, lo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our interests were quite distinct from those of the workers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+as distinct from 
+</seg>
+natanko povemo, katero stvar imamo v mislih, tako da jo predstavimo kot nasprotje ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v nasprotju z, v primerjavi z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...parliamentary (as distinct from presidential) systems.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+distinct
+</seg>
+, tisto jasno sli&scaron;imo ali vidimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jasen, izrazit
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+distinctly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Jones was distinctly seen at the back door.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+distinct 
+</seg>
+lahko poudarimo, da je nekaj dovolj veliko, da je opazno ali pomembno.
+</def>
+<cit type="translationEquivalent">
+<quote>
+izrazit, poseben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a distinct possibility of war.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+distinctly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a Frenchwoman with a distinctly un-Latin temperament.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

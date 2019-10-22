@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sudden
+</orth>
+<form type="variant">
+<pron>
+/s*Vd@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+sudden
+</seg>
+, se zgodi hitro in nepri&ccaron;akovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenaden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sudden drop in the temperature.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+suddenly
+</orth>
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Suddenly, the door opened and in walked the boss.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+suddenness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...surprised by the suddenness of the attack.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar se zgodi 
+<seg type="lemma">
+all of a sudden
+</seg>
+, se zgodi tako hitro in nepri&ccaron;akovano, da nas preseneti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenadoma, kar naenkrat
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

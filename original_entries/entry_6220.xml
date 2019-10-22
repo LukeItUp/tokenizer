@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grammatical
+</orth>
+<form type="variant">
+<pron>
+/gr@m*&ae;tIk@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+grammatical 
+</seg>
+opi&scaron;emo vse, kar je povezano s slovnico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slovni&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This sentence is very complex in its grammatical structure.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+grammatically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His English was usually grammatically correct.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovekov jezik 
+<seg type="lemma">
+grammatical
+</seg>
+, je pravilen, ker se dr&zcaron;i slovni&ccaron;nih pravil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slovni&ccaron;no pravilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He speaks perfectly grammatical English.
+</quote>
+</seg>
+</sense>
+</entry>

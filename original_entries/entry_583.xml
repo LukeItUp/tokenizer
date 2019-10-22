@@ -5,7 +5,7 @@ anxious
 </orth>
 <form type="variant">
 <pron>
-/*#ae;Nk0S@s/.
+/*&ae;Nk0S@s/
 </pron>
 </form>
 </form>
@@ -16,12 +16,11 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 anxious
 </seg>
-je zaradi ne&#269;esa
-&#382;iv&#269;en ali v skrbeh.
+, je zaradi ne&ccaron;esa &zcaron;iv&ccaron;en ali v skrbeh. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -38,7 +37,6 @@ She was anxious about her job.
 <orth>
 anxiously
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -46,7 +44,7 @@ ADV
 </gramGrp>
 <seg type="example">
 <quote>
-"I'm not boring you?" she asked anxiously.
+&lsquo;I'm not boring you?&rsquo; she asked anxiously.
 </quote>
 </seg>
 </sense>
@@ -58,15 +56,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-&#268;as ali okoli&#353;&#269;ine, ki so
+&Ccaron;as ali okoli&scaron;&ccaron;ine, ki so 
 <seg type="lemma">
 anxious
 </seg>
-povzro&#269;ijo, da smo &#382;iv&#269;ni ali v skrbeh.
+, povzro&ccaron;ijo, da smo &zcaron;iv&ccaron;ni ali v skrbeh. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-zaskrbljujo&#269;, stresen
+zaskrbljujo&ccaron;, stresen
 </quote>
 </cit>
 <seg type="example">
@@ -82,20 +80,19 @@ PRED ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
-anxious to do something
+anxious to do something 
 </seg>
-ali
+ali 
 <seg type="lemma">
 anxious that something should happen
 </seg>
-si mo&#269;no
-&#382;eli nekaj storiti ali pa si &#382;eli, da bi se tisto zgodilo.
+, si mo&ccaron;no &zcaron;eli nekaj storiti ali pa si &zcaron;eli, da bi se tisto zgodilo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-komaj &#269;akati
+komaj &ccaron;akati
 </quote>
 </cit>
 <seg type="example">

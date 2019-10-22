@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+distress
+</orth>
+<form type="variant">
+<pron>
+/dIstr*es/
+</pron>
+</form>
+<form type="inflected">
+distresses, distressing, distressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Distress 
+</seg>
+je velika zaskrbljenost, &zcaron;alost ali bole&ccaron;ina. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stiska, gorj&eacute;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Delays may cause distress to your family.
+</quote>
+<quote>
+He was breathing fast and in obvious distress.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Distress 
+</seg>
+je tudi stanje, ko je &ccaron;lovek v veliki nevarnosti in nujno potrebuje pomo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nevarnost, stiska
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an aircraft in distress.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo ali nekaj 
+<seg type="lemma">
+distresses someone
+</seg>
+, povzro&ccaron;i, da je nekdo vznemirjen ali zaskrbljen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vznemiriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hate to distress you like this, but it is important.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+distressed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She was distressed about having to leave home.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+distressing
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It was a distressing experience for me.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

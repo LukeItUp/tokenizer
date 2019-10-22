@@ -1,0 +1,304 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+narrow
+</orth>
+<form type="variant">
+<pron>
+/n*&ae;r@U/
+</pron>
+</form>
+<form type="inflected">
+narrower, narrowest; narrows, narrowing, narrowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+narrow
+</seg>
+, ima zelo majhno razdaljo on ene strani do druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We turned into a narrow lane.
+</quote>
+<quote>
+The stream became narrower.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+narrowness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the narrowness of the tunnels.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+narrows
+</seg>
+, postane manj &scaron;iroko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zo&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The river narrowed and curved sharply to the left.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To narrow one&apos;s eyes 
+</seg>
+ali kadar o&ccaron;i nekega &ccaron;loveka 
+<seg type="lemma">
+narrow
+</seg>
+, se o&ccaron;i skoraj popolnoma zaprejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripreti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I want you back here in five minutes,&rsquo; he growled, narrowing his eyes.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so &ccaron;lovekove ideje ali pogledi 
+<seg type="lemma">
+narrow
+</seg>
+, upo&scaron;teva samo nekaj vidikov dolo&ccaron;enega polo&zcaron;aja, druge pa zanemari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think you are taking too narrow a view.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+narrowness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the narrowness of the range of opinion represented.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar razlika med dvema stvarema 
+<seg type="lemma">
+narrows 
+</seg>
+ali 
+<seg type="lemma">
+is narrowed
+</seg>
+, postane manj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;evati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The gap between the rich and the poor is narrowing.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+narrowing
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the narrowing of the individual&apos;s field of choice.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je zmaga, ki jo nekdo dose&zcaron;e, 
+<seg type="lemma">
+narrow
+</seg>
+, tisti &ccaron;lovek zmaga z majhno prednostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tesen
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+narrowly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The motion was narrowly defeated.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+has a narrow escape
+</seg>
+, se mu skorajda zgodi nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za las uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...narrow misses.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+narrowly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He narrowly escaped being run over.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+narrow down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+narrows something down
+</seg>
+, tisto zmanj&scaron;a na manj&scaron;e &scaron;tevilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had narrowed the choice down to a dozen sites.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

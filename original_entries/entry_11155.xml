@@ -1,0 +1,165 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+promise
+</orth>
+<form type="variant">
+<pron>
+/pr*QmIs/
+</pron>
+</form>
+<form type="inflected">
+promises, promising, promised.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+with 
+</seg>
+OBJ, REPORT VB, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To promise to do something 
+</seg>
+pomeni re&ccaron;i, da bomo nekaj zanesljivo naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Promise me you&apos;ll go.
+</quote>
+<quote>
+&lsquo;I won&apos;t fail you,&rsquo; he promised.
+</quote>
+<quote>
+I promised to take the children to the fair.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To promise someone something 
+</seg>
+pomeni re&ccaron;i nekomu, da mu bomo zanesljivo nekaj dali ali da bomo poskrbeli, da bo tisto dobil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obljubiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I promised him a canary for his birthday.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A promise 
+</seg>
+je izjava, s katero nekomu obljubimo, da mu bomo zanesljivo nekaj dali ali naredili zanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obljuba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They tried to break the promises made in negotiations.
+</quote>
+<quote>
+They fulfilled their promise to revive trade.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar polo&zcaron;aj ali dogodek 
+<seg type="lemma">
+promises to have a particular quality
+</seg>
+, po njem lahko sklepamo, da bo pozneje imel dolo&ccaron;eno lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obetati, kazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The debate promises to be lively.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+shows promise
+</seg>
+, vse ka&zcaron;e, da bo tista oseba ali stvar zelo dobra ali uspe&scaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She showed considerable promise as a tennis player.
+</quote>
+</seg>
+</sense>
+</entry>

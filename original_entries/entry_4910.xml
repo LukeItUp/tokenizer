@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+exceed
+</orth>
+<form type="variant">
+<pron>
+/I2ks*i*:d/
+</pron>
+</form>
+<form type="inflected">
+exceeds, exceeding, exceeded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+exceeds a particular amount
+</seg>
+, je ve&ccaron;je od dolo&ccaron;ene koli&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prese&ccaron;i, prekora&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Average annual temperatures exceed 20&deg; centigrade.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To exceed a limit 
+</seg>
+pomeni iti &ccaron;ez neko mejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekora&ccaron;iti, prestopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A motorist was caught exceeding the speed limit.
+</quote>
+<quote>
+The company is not allowed to exceed its budget.
+</quote>
+</seg>
+</sense>
+</entry>

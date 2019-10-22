@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+regret
+</orth>
+<form type="variant">
+<pron>
+/rI1gr*et/
+</pron>
+</form>
+<form type="inflected">
+regrets, regretting, regretted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To regret something 
+</seg>
+pomeni, da nam je &zcaron;al, da smo nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&zcaron;alovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I immediately regretted my decision.
+</quote>
+<quote>
+It made me regret that I had left home.
+</quote>
+<quote>
+Afterwards he regretted having spoken to them.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+PLURAL N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...pangs of regret.
+</quote>
+<quote>
+Linda has no regrets at having become a banker.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+I regret it
+</seg>
+ vljudno povemo, da nam je zaradi ne&ccaron;esa &zcaron;al; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ob&zcaron;alovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+London Transport regrets any inconvenience caused by these delays.
+</quote>
+<quote>
+The Prime Minister regrets that he is unable to reconsider your case.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We informed them with regret of our decision.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazi kot 
+<seg type="lemma">
+I regret to say 
+</seg>
+ali 
+<FV>
+I regret to inform you 
+</FV>
+poka&zcaron;emo, da nam je &zcaron;al zaradi ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;al moram re&ccaron;i, &zcaron;al vas moram obvestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The food and service, I regret to say, were disappointing.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

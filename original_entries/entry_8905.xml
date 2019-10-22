@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mercy
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:si1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+shows mercy to someone
+</seg>
+, nekoga ne kaznuje ali z njim ne ravna tako strogo, kot bi lahko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+milost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pleaded for mercy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+at the mercy of someone or something
+</seg>
+, ima tista oseba ali sila popolno oblast nad njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prepu&scaron;&ccaron;en na milost in nemilost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This action would leave them at the mercy of industrialised countries.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

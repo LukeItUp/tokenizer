@@ -1,0 +1,236 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+score
+</orth>
+<form type="variant">
+<pron>
+/sk*O*:/
+</pron>
+</form>
+<form type="inflected">
+scores, scoring, scored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To score in a game 
+</seg>
+pomeni dati gol ali dose&ccaron;i to&ccaron;ko na tekmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i zadetek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Barnes scored from a distance of twenty feet.
+</quote>
+<quote>
+Fowler scored 83.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The score in a game 
+</seg>
+je &scaron;tevilo zadetkov ali to&ccaron;k, ki jih na tekmi dose&zcaron;ejo mo&scaron;tva ali igralci. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rezultat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What&apos;s the score?&rsquo;&mdash;&lsquo;2-0.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To score a success, victory, or hit 
+</seg>
+pomeni dose&ccaron;i uspeh, zmago ali zadetek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Liberals have scored a dramatic victory in this by-election.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To score over someone 
+</seg>
+ali 
+<seg type="lemma">
+to score a point 
+</seg>
+pomeni pridobiti prednost pred nekom ali ga tako ali druga&ccaron;e premagati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premagati, dobiti to&ccaron;ko
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Government was anxious to score over the opposition in the education debate.
+</quote>
+<quote>
+Gareth grinned, as if he had scored an important point.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Scores of things 
+</seg>
+je veliko &scaron;tevilo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na desetine, na kupe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We received scores of letters.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To score a surface 
+</seg>
+pomeni, da oster predmet naredi razo v neko povr&scaron;ino; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vrezati, zarezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Each stone is scored with very thin grooves.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The score of a piece of music 
+</seg>
+je notni zapis glasbenega dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+note
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+On this score 
+</seg>
+ali 
+<FV>
+on that score 
+</FV>
+pomeni glede na nekaj, kar je &zcaron;e bilo omenjeno; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zaradi tega, glede
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was no need for concern on that score.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

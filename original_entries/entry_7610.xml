@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+insurance
+</orth>
+<form type="variant">
+<pron>
+/InS*U*@r@ns, -S*O*:-/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Insurance 
+</seg>
+je sporazum, po katerem nekemu podjetju pla&ccaron;amo dolo&ccaron;en znesek, navadno vsako leto posebej. &Ccaron;e potem zbolimo ali je na&scaron;e imetje po&scaron;kodovano ali ukradeno, nam podjetje izpla&ccaron;a dolo&ccaron;en znesek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavarovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...private health insurance.
+</quote>
+<quote>
+...insurance companies.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+national insurance
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj storimo 
+<seg type="lemma">
+as an insurance against something
+</seg>
+, storimo zato, da bi se zavarovali, &ccaron;e bi se zgodilo nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&scaron;&ccaron;ita, preventiva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They build up supplies as an insurance against drought.
+</quote>
+</seg>
+</sense>
+</entry>

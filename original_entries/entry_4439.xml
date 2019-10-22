@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eastward
+</orth>
+<form type="variant">
+<pron>
+/*i*:stw@d/
+</pron>
+</form>
+<HS>
+ali 
+</HS>
+<seg type="variant">
+eastwards. 
+</seg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Eastward 
+</seg>
+ali 
+<seg type="variant">
+eastwards 
+</seg>
+pomeni proti vzhodu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzhodno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They travelled eastwards.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Beseda 
+<seg type="lemma">
+eastward 
+</seg>
+opisuje stvari, ki se premikajo proti vzhodu ali so obrnjene na vzhod. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzhoden, usmerjen proti vzhodu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a grassy eastward slope.
+</quote>
+</seg>
+</sense>
+</entry>

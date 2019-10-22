@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+giant
+</orth>
+<form type="variant">
+<pron>
+/dZ*a*I@nt/
+</pron>
+</form>
+<form type="inflected">
+giants.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V legendah in pravljicah za otroke je 
+<seg type="lemma">
+a giant
+</seg>
+ orja&scaron;ka, zelo mo&ccaron;na oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velikan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...stories of cruel giants.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+giant 
+</seg>
+opi&scaron;emo nekaj, kar je veliko ve&ccaron;je kot navadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velikan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a giant of a man.
+</quote>
+<quote>
+...the electronics giant, Hitachi.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...giant Christmas trees.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

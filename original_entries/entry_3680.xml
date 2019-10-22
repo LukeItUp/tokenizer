@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+departure
+</orth>
+<form type="variant">
+<pron>
+/di1p*A*:tS@/
+</pron>
+</form>
+<form type="inflected">
+departures.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Departure 
+</seg>
+je zapustitev nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odhod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the week before their departure.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Neko dejanje, ki je 
+<seg type="lemma">
+a departure
+</seg>
+, je razli&ccaron;no od tistega, kar je bilo na&ccaron;rtovano ali kar navadno storimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odklon, razlika
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Does the budget represent a departure from stated Government policy?
+</quote>
+</seg>
+</sense>
+</entry>

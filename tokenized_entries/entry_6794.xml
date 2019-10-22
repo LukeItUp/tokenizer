@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p119_s130655" id="p119_w1067" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="420.63" y="581.564" base="587.26" width="21.5899" height="7.552">Hindu</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p119_s130656" id="p119_w1068" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="590.644" base="596.34" width="24.7932" height="7.552">scheme</TOKEN>
+<TOKEN sid="p119_s130657" id="p119_w1069" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="287.333" y="590.644" base="596.34" width="6.40008" height="7.552">of</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p119_s130658" id="p119_w1070" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="295.464" y="590.644" base="596.34" width="23.5973" height="7.552">values.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p119_s130660" id="p119_w1072" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="327.19" y="592.424" base="596.34" width="19.1847" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p119_s130661" id="p119_w1073" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="347.57" y="592.424" base="596.34" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p119_s130662" id="p119_w1074" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="359.74" y="590.644" base="596.34" width="25.9906" height="7.552">Glasba,</TOKEN>
+<TOKEN sid="p119_s130663" id="p119_w1075" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="387.459" y="590.644" base="596.34" width="6.79536" height="7.552">ki</TOKEN>
+</seg>
+<TOKEN sid="p119_s130664" id="p119_w1076" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.983" y="590.644" base="596.34" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p119_s130665" id="p119_w1077" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="403.72" y="590.644" base="596.34" width="30.7814" height="7.552">classical,</TOKEN>
+<TOKEN sid="p119_s130666" id="p119_w1078" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.233" y="590.644" base="596.34" width="5.9976" height="7.552">je</TOKEN>
+<TOKEN sid="p119_s130667" id="p119_w1079" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="599.724" base="605.42" width="18.247" height="7.552">resna</TOKEN>
+<TOKEN sid="p119_s130668" id="p119_w1080" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="281.917" y="599.724" base="605.42" width="6.79608" height="7.552">in</TOKEN>
+<TOKEN sid="p119_s130669" id="p119_w1081" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="291.573" y="599.724" base="605.42" width="12.8002" height="7.552">ima</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p119_s130670" id="p119_w1082" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.233" y="599.724" base="605.42" width="20.7972" height="7.552">trajno</TOKEN>
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+<TOKEN sid="p119_s130671" id="p119_w1083" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="330.89" y="599.724" base="605.42" width="31.446" height="7.552">vrednost.</TOKEN>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+<TOKEN sid="p119_s130673" id="p119_w1085" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="372.27" y="599.724" base="605.42" width="27.9886" height="7.552">klasi~en</TOKEN>
+<TOKEN sid="p119_s130675" id="p119_w1087" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="410.64" y="601.504" base="605.42" width="19.1748" height="5.192">ATTRIB</TOKEN>
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

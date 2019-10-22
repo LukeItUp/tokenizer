@@ -1,0 +1,112 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+worm
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:m/
+</pron>
+</form>
+<form type="inflected">
+worms, worming, wormed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A worm 
+</seg>
+je majhna, drobna &zcaron;ival brez kosti in nog, ki &zcaron;ivi v prsti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;rv
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Worms 
+</seg>
+so &ccaron;rvi, ki &zcaron;ivijo kot zajedalci v &ccaron;revesju &zcaron;ivali ali &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gliste
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a dog with worms.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To worm one&apos;s way somewhere 
+</seg>
+pomeni po&ccaron;asi in s te&zcaron;avo se nekam premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebiti se, utirati si pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wormed his way forward.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+worm out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To worm information out of someone 
+</seg>
+pomeni nekoga postopno pregovoriti, da nam nekaj da. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izvabiti, izviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The truth had been wormed out of him by his lawyers.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

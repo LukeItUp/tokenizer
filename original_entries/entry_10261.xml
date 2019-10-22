@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+passive
+</orth>
+<form type="variant">
+<pron>
+/p*&ae;sIv/
+</pron>
+</form>
+<form type="inflected">
+passives.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+passive
+</seg>
+, se ne odzove ali ne poka&zcaron;e &ccaron;ustev, ko se zgodi nekaj, kar ga zadeva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasiven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was so enraged that she could remain passive no longer.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+passively
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They accept passively every law that is passed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V slovnici je 
+<seg type="lemma">
+the passive 
+</seg>
+glagolska oblika, sestavljena iz pomo&zcaron;nega glagola 
+<seg type="lemma">
+be
+</seg>
+ (biti) in preteklega dele&zcaron;nika glavnega glagola. Na primer, v stavku 
+<seg type="lemma">
+She was asked to wait
+</seg>
+ je glagol 
+<seg type="lemma">
+ask
+</seg>
+ v pasivni obliki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trpnik, pasiv
+</quote>
+</cit>
+</sense>
+</entry>

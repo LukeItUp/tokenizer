@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+compile
+</orth>
+<form type="variant">
+<pron>
+/k@mp*a*Il/
+</pron>
+</form>
+<form type="inflected">
+compiles, compiling, compiled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To compile a book, report, or film 
+</seg>
+pomeni pripraviti knjigo, poro&ccaron;ilo ali film s sestavljanjem drobcev podatkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestaviti, zbrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The programme was compiled and presented by Dr Brian Smith.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+compilation
+</orth>
+<form type="variant">
+<pron>
+/k*QmpIl*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+One of the first steps was the compilation of a report.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

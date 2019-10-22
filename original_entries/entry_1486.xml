@@ -1,0 +1,129 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bone
+</orth>
+<form type="variant">
+<pron>
+/b*@*Un/
+</pron>
+</form>
+<form type="inflected">
+bones, boning, boned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's bones 
+</seg>
+so trdi deli v &ccaron;love&scaron;kem telesu, ki sestavljajo okostje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...hip bones.
+</quote>
+<quote>
+Its eye sockets are encircled by bone.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bone a piece of meat of fish 
+</seg>
+pomeni odstraniti kosti iz kosa mesa ali ribe, preden ga skuhamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odstraniti kosti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Orodje ali okras, ki je 
+<seg type="lemma">
+bone
+</seg>
+, je izdelan iz kosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ko&scaron;&ccaron;en
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To feel 
+</seg>
+ali 
+<FV>
+to know something in your bones 
+</FV>
+pomeni biti o ne&ccaron;em prepri&ccaron;an, &ccaron;eprav ne znamo pojasniti zakaj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+slutiti, vedeti globoko v sebi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He felt in his bones he could do it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To make no bones about doing something unpleasant or difficult 
+</seg>
+pomeni nekaj neprijetnega ali zahtevnega storiti brez oklevanja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne zmrdovati se, ne vihati nosu
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

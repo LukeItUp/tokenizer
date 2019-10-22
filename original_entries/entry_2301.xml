@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chop
+</orth>
+<form type="variant">
+<pron>
+/tS*Qp/
+</pron>
+</form>
+<form type="inflected">
+chops, chopping, chopped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chop something 
+</seg>
+pomeni nekaj razrezati z no&zcaron;em ali sekiro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sesekljati; sekati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't like chopping wood.
+</quote>
+<quote>
+Peel, slice, and chop the apple.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chop 
+</seg>
+je majhen kos mesa, odrezan od reber ovce ali pra&scaron;i&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zarebrnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...lamb chops.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+chop and change
+</seg>
+, si vedno znova premislijo, kaj bodo storili;
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+omahovati, kolebati
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+chop down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To chop down a tree 
+</seg>
+pomeni sekati drevesno deblo s sekiro, dokler ne pade. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posekati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+chop up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To chop something up 
+</seg>
+pomeni nekaj narezati na majhne ko&scaron;&ccaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasekljati, sesekljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chop up some tomatoes and add them to the onion.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

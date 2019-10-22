@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spice
+</orth>
+<form type="variant">
+<pron>
+/sp*a*Is/
+</pron>
+</form>
+<form type="inflected">
+spices, spicing, spiced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Spice 
+</seg>
+je prah, ki ga pridobivajo iz semen, skorje ali korenin rastlin in daje jedem poseben okus, na primer poper ali ingver. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;imba
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spice food 
+</seg>
+pomeni dodati za&ccaron;imbe jedem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;initi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Take the peas and butter and spice them with nutmeg.
+</quote>
+<quote>
+The soup was heavily spiced.
+</quote>
+</seg>
+</sense>
+</entry>

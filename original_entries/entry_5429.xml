@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+flap
+</orth>
+<form type="variant">
+<pron>
+/fl*&ae;p/
+</pron>
+</form>
+<form type="inflected">
+flaps, flapping, flapped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, kar je pritrjeno na enem koncu, 
+<seg type="lemma">
+flaps
+</seg>
+, se drugi konec hitro pomika gor in dol ali z ene strani na drugo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plahutati, mahati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She flapped her arms.
+</quote>
+<quote>
+Its wings flapped weakly.
+</quote>
+<quote>
+His long robes flapped in the breeze.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A flap 
+</seg>
+je ploski kos ne&ccaron;esa, ki se prosto premika, ker je pritrjen samo na eni strani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+loputa, zaklopec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...looking out through a tent flap.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+in a flap
+</seg>
+, je zelo vznemirjen ali prepla&scaron;en; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+razburjen, pani&ccaron;en
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

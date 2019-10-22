@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gender
+</orth>
+<form type="variant">
+<pron>
+/dZ*end@/
+</pron>
+</form>
+<form type="inflected">
+genders.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The gender of a person or animal 
+</seg>
+je zna&ccaron;ilnost &ccaron;loveka ali &zcaron;ivali, da je samec ali samica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...differences of race or gender.
+</quote>
+</seg>
+</sense>
+</entry>

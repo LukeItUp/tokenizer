@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interior
+</orth>
+<form type="variant">
+<pron>
+/Int*I*@rI@/
+</pron>
+</form>
+<form type="inflected">
+interiors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The interior of something 
+</seg>
+je notranji del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+notranjost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Very little is known about the deep interior of the earth.
+</quote>
+<quote>
+The castle has its interior well preserved.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an interior room without windows.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Minister ali politi&ccaron;no telo, ki je 
+<seg type="lemma">
+interior
+</seg>
+, se ukvarja z zadevami v svoji dr&zcaron;avi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+notranji
+</quote>
+</cit>
+</sense>
+</entry>

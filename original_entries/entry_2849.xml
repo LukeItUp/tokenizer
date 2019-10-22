@@ -1,0 +1,77 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+conscience
+</orth>
+<form type="variant">
+<pron>
+/k*QnS@ns/
+</pron>
+</form>
+<form type="inflected">
+consciences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's conscience 
+</seg>
+je del &ccaron;lovekove zavesti, ki nam pove, ali je tisto, kar po&ccaron;nemo, prav ali narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vest
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My conscience told me to vote against the others.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have a guilty conscience 
+</seg>
+pomeni ob&ccaron;utiti krivdo, ker smo storili nekaj slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti slabo vest
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Conscience 
+</seg>
+je po&ccaron;etje, ki je po na&scaron;em mnenju pravilno, &ccaron;eprav je morda na splo&scaron;no nepriljubljeno, te&zcaron;avno ali nevarno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vest
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In all conscience, I couldn't make things difficult for him.
+</quote>
+<quote>
+The exercise of conscience is an individual act.
+</quote>
+</seg>
+</sense>
+</entry>

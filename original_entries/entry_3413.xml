@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dam
+</orth>
+<form type="variant">
+<pron>
+/d*&ae;m/
+</pron>
+</form>
+<form type="inflected">
+dams, damming, dammed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dam 
+</seg>
+je zid, zgrajen &ccaron;ez reko, da ustavi tok vode in ustvari jezero. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jez, nasip
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dam a river 
+</seg>
+pomeni zgraditi jez &ccaron;ez reko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajeziti, zagraditi
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dam up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dam up a river 
+</seg>
+pomeni reko zajeziti ali popolnoma ustaviti njen tok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zajeziti, pregraditi
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

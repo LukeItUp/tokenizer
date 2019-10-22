@@ -1,0 +1,39 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p611_s668814" id="p611_w158" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="217.722" base="224.13" width="34.6728" height="8.514">raindrop</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p611_s668815" id="p611_w159" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.98" y="218.968" base="224.13" width="37.9016" height="6.844">/re&#203;ndr&#201;p/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p611_s668816" id="p611_w160" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="134.48" y="218.79" base="224.13" width="32.6173" height="7.08">raindrops.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p611_s668817" id="p611_w161" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="169.7" y="220.214" base="224.13" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p611_s668818" id="p611_w162" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.449" y="220.214" base="224.13" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p611_s668819" id="p611_w163" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="197.17" y="218.434" base="224.13" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p611_s668820" id="p611_w164" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.37" y="218.434" base="224.13" width="29.8361" height="7.552">raindrop</TOKEN>
+</seg>
+<TOKEN sid="p611_s668821" id="p611_w165" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="237.81" y="218.434" base="224.13" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p611_s668822" id="p611_w166" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3896" y="227.504" base="233.2" width="37.5998" height="7.552">posamezna</TOKEN>
+<TOKEN sid="p611_s668823" id="p611_w167" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="101.99" y="227.504" base="233.2" width="27.5926" height="7.552">kapljica</TOKEN>
+<TOKEN sid="p611_s668824" id="p611_w168" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.582" y="227.504" base="233.2" width="19.998" height="7.552">de`ja.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p611_s668826" id="p611_w170" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.81" y="227.504" base="233.2" width="19.9958" height="7.552">de`na</TOKEN>
+<TOKEN sid="p611_s668827" id="p611_w171" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="181.805" y="227.504" base="233.2" width="21.5928" height="7.552">kaplja</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

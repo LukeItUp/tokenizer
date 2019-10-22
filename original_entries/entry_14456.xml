@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thermal
+</orth>
+<form type="variant">
+<pron>
+/T*$e*:m@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Thermal 
+</seg>
+pomeni povezan s toploto ali nastal zaradi toplote. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+toploten, termi&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the thermal efficiency of an engine.
+</quote>
+<quote>
+...thermal energy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obla&ccaron;ila, ki so 
+<seg type="lemma">
+thermal
+</seg>
+, so posebej narejena tako, da nam je v njih toplo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+topel, zimski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...thermal underwear.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+preface
+</orth>
+<form type="variant">
+<pron>
+/pr*efI1s/
+</pron>
+</form>
+<form type="inflected">
+prefaces, prefacing, prefaced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A preface 
+</seg>
+je uvod na za&ccaron;etku knjige. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predgovor
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;by&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To preface an action or speech with something else 
+</seg>
+pomeni pred nekim dejanjem ali govorom narediti ali re&ccaron;i &scaron;e nekaj drugega; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+narediti ali povedati kot uvod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Each girl prefaced her remarks with &lsquo;sorry&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,94 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overlap,
+</orth>
+<form type="inflected">
+overlaps, overlapping, overlapped;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/*@*Uv@l*&ae;p/
+</pron>
+, samostalnik pa 
+<pron>
+/*@*Uv@l&ae;p/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ena stvar 
+<seg type="lemma">
+overlaps another
+</seg>
+, en njen del prekriva del druge stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekrivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The circles overlap.
+</quote>
+<quote>
+A quilt must overlap the sides of the bed.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dve zamisli ali dejavnosti 
+<seg type="lemma">
+overlap
+</seg>
+, kadar se nana&scaron;ata na isto vsebino, osebe ali obdobja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekrivati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The two theories obviously overlap.
+</quote>
+<quote>
+The work of the inspectors overlaps with that of the internal auditors.
+</quote>
+<quote>
+We worked overlapping shifts so there were always two of us on duty.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There is no overlap between our material and that of Lipset.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

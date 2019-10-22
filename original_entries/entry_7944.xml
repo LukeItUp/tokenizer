@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+junior
+</orth>
+<form type="variant">
+<pron>
+/dZ*u*:nj@/
+</pron>
+</form>
+<form type="inflected">
+juniors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+junior
+</seg>
+, ima nepomemben polo&zcaron;aj v neki organizaciji ali poklicu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlaj&scaron;i, podrejen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We could give the job to somebody more junior.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Police officers later blamed their juniors.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be someone's junior 
+</seg>
+pomeni biti mlaj&scaron;i od neke druge osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlaj&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man seventeen years her junior.
+</quote>
+</seg>
+</sense>
+</entry>

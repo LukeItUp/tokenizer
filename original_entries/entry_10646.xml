@@ -1,0 +1,276 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+plan
+</orth>
+<form type="variant">
+<pron>
+/pl*&ae;n/
+</pron>
+</form>
+<form type="inflected">
+plans, planning, planned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plan 
+</seg>
+je skrbno domi&scaron;ljen in pripravljen na&ccaron;in, kako bomo nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I told them of my plan.
+</quote>
+<quote>
+...a plan to give women more power.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plan 
+</seg>
+pomeni podrobno razmisliti, kaj bomo naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rtovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At breakfast I planned my day.
+</quote>
+<quote>
+We must plan for the future.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plan to do something 
+</seg>
+pomeni nameravati nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameravati, na&ccaron;rtovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What do you plan to do after college?
+</quote>
+<quote>
+I was planning a career in law.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+planned
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...news of the planned sale of 50,000 acres of state forests.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have plans 
+</seg>
+pomeni nameravati nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The gales forced him to change his plans.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To plan something 
+</seg>
+pomeni odlo&ccaron;iti se, kaj bodo najpomembnej&scaron;i deli tistega, kar bomo naredili, zgradili ali ustvarili, in kako bodo razporejeni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rtovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+How do you plan a book?
+</quote>
+<quote>
+...the art of planning gardens.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plan of something 
+</seg>
+je podrobna skica tistega, kar nameravamo zgraditi ali narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;rt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the plan and overall design of the building.
+</quote>
+<quote>
+Make a neat plan of your new home.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A plan of action 
+</seg>
+ali 
+<FV>
+a plan of campaign 
+</FV>
+je niz dejanj, ki jih nameravamo izvesti, da bi tako nekaj dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+akcijski na&ccaron;rt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His plan of campaign is to cycle into town and collect the money personally.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+planning
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+plan on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To plan on doing something 
+</seg>
+pomeni imeti namen nekaj narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameravati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I plan on staying in London.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

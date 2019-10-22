@@ -1,0 +1,154 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+master
+</orth>
+<form type="variant">
+<pron>
+/m*A*:st@/
+</pron>
+</form>
+<form type="inflected">
+masters, mastering, mastered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A master 
+</seg>
+je &ccaron;lovek, za katerega dela slu&zcaron;abnik; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+gospodar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sometimes there was no dispute between a master and his slave.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A master 
+</seg>
+je tudi mo&scaron;ki, ki u&ccaron;i v &scaron;oli; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+u&ccaron;itelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the science master.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+headmaster
+</ref>
+</xr>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+master of a situation
+</seg>
+, obladuje polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gospodar polo&zcaron;aja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This was before man was total master of his environment.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+master 
+</seg>
+opisujemo tudi &ccaron;loveka, ki je zelo spreten pri delu ali dejavnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mojster
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...master bakers.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+masters something
+</seg>
+, nekaj zmore. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvladati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Slowly, one begins to master the complex skills involved.
+</quote>
+<quote>
+...once we have mastered the basic problems.
+</quote>
+</seg>
+</sense>
+</entry>

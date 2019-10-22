@@ -1,0 +1,222 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+spare
+</orth>
+<form type="variant">
+<pron>
+/sp*e*@/
+</pron>
+</form>
+<form type="inflected">
+spares, sparing, spared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Predmet, ki je 
+<seg type="lemma">
+spare
+</seg>
+, je iste vrste kot tisti, ki jih uporabljamo, le da tega &scaron;e ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rezerven, nadomesten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Keep a spare fuse handy by the fuse box.
+</quote>
+<quote>
+Take a spare shirt.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A spare 
+</seg>
+je dodaten predmet iste vrste kot tisti, ki jih uporabljamo, le da tega &scaron;e ne potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rezerva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are some spares at the back if anyone wants more.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je predmet 
+<seg type="lemma">
+spare
+</seg>
+, ga trenutno nih&ccaron;e ne uporablja, zato ga lahko uporabimo mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prost, razpolo&zcaron;ljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We found a spare parking meter.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spare something for a particular purpose 
+</seg>
+pomeni nameniti nekaj za poseben namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati na stran, prihraniti, vzeti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I got to my feet, thanking him for sparing time to see me.
+</quote>
+<quote>
+More land is needed to grow food and less can be spared to graze cattle.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali kraj 
+<seg type="lemma">
+is spared
+</seg>
+, ne utrpi hudih posledic nekega dogajanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prizane&scaron;eno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thank God we were spared.
+</quote>
+<quote>
+The great cities of the Rhineland had not been spared.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To spare someone an unpleasant experience 
+</seg>
+pomeni prepre&ccaron;iti, da bi se nekomu zgodilo nekaj neprijetnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizanesti, prihraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+At least I am spared the shame of the children knowing.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have time or money to spare 
+</seg>
+pomeni imeti nekaj &ccaron;asa ali denarja, ki ga trenutno ne potrebujemo za ni&ccaron; konkretnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti odve&ccaron;, imeti na pretek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He often had money to spare nowadays.
+</quote>
+<quote>
+She caught her plane with a few minutes to spare.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To spare no expense in doing something 
+</seg>
+pomeni narediti nekaj na najbolj&scaron;i mo&zcaron;en na&ccaron;in, ne da bi posku&scaron;ali var&ccaron;evati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne var&ccaron;evati pri izdatkih
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Agency has spared no expense with the system for storage.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

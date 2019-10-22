@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+prop
+</orth>
+<form type="variant">
+<pron>
+/pr*Qp/
+</pron>
+</form>
+<form type="inflected">
+props, propping, propped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To prop an object on something 
+</seg>
+pomeni postaviti neki predmet ob nekaj, tako da ga tisto podpira. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasloniti, opreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She propped her chin on her hand.
+</quote>
+<quote>
+His gun lay propped against the wall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A prop 
+</seg>
+je palica ali drug predmet, s katerim nekaj podpremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opornik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We need a clothes prop for the washing line.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The props in a play or film 
+</seg>
+so predmeti in pohi&scaron;tvo, ki jih uporabljamo pri gledali&scaron;ki igri ali filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rekviziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sets, props, and costumes were all ready.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+prop up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To prop something up 
+</seg>
+pomeni nekaj podpreti, tako da stoji pokon&ccaron;no ali je dvignjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpreti, postaviti pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His feet were propped up on the coffee table.
+</quote>
+<quote>
+...timbers used to prop a building up during alterations.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar ena organizacija ali skupina 
+<seg type="lemma">
+props up another
+</seg>
+, pomaga drugi pre&zcaron;iveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpirati, dr&zcaron;ati pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Government does not intend to prop up declining industries.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

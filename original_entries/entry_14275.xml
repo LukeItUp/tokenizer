@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tea
+</orth>
+<form type="variant">
+<pron>
+/t*i*:/
+</pron>
+</form>
+<form type="inflected">
+teas.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tea 
+</seg>
+je pija&ccaron;a, pripravljena z vro&ccaron;o vodo in zdrobljenimi posu&scaron;enimi listi&ccaron;i &ccaron;ajevca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went into the kitchen to make a fresh pot of tea.
+</quote>
+<quote>
+Two teas, please.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tea 
+</seg>
+so tudi zdrobljeni posu&scaron;eni listi&ccaron;i; iz njih pripravljamo &ccaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;aj
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a packet of tea.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MASS N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tea 
+</seg>
+je tudi vsakr&scaron;na druga pija&ccaron;a, pripravljena z vro&ccaron;o vodo in listi&ccaron;i ali cvetovi rastlin. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...mint tea.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tea 
+</seg>
+je tudi lahek popoldanski ali zgodnji ve&ccaron;erni obrok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(popoldanski) &ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mr Evans is coming to tea.
+</quote>
+</seg>
+</sense>
+</entry>

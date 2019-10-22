@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shave
+</orth>
+<form type="variant">
+<pron>
+/S*e*Iv/
+</pron>
+</form>
+<form type="inflected">
+shaves, shaving, shaved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar mo&scaron;ki 
+<seg type="lemma">
+shaves
+</seg>
+, si z britvijo odstrani dlake z obraza. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obriti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When he had shaved and dressed, he went down to the kitchen.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had a shave and a bath.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To shave a part of one&apos;s body 
+</seg>
+pomeni z britvijo si odstraniti vse dlake z dolo&ccaron;enega dela telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obriti
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je bilo nekaj 
+<seg type="lemma">
+a close shave
+</seg>
+, se je skoraj zgodila nesre&ccaron;a ali katastrofa, vendar nam je le uspelo, da smo se ji izognili; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+za las je &scaron;lo, malo je manjkalo
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

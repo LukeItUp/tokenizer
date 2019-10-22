@@ -1,0 +1,137 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+extra
+</orth>
+<form type="variant">
+<pron>
+/*ekstr@/
+</pron>
+</form>
+<form type="inflected">
+extras.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+QUANTIF 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvar, oseba ali koli&ccaron;ina, ki je 
+<seg type="lemma">
+extra
+</seg>
+, je dodana drugim iste vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodaten, poseben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Take an extra pair of shoes.
+</quote>
+<quote>
+You have to pay extra for breakfast.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Extras 
+</seg>
+so stvari, ki niso nujno potrebne, vendar nekaj naredijo udobnej&scaron;e, bolj koristno ali prijetno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+With the extras, the car cost &pound;4,000.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Extras 
+</seg>
+so tudi dodatni stro&scaron;ki, pri&scaron;teti k osnovni ceni ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There are no hidden extras.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An extra 
+</seg>
+je oseba, ki igra nepomembno vlogo v filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+statist
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be extra polite 
+</seg>
+ali 
+<seg type="lemma">
+to be extra careful 
+</seg>
+pomeni biti bolj vljuden ali previden kot ponavadi.
+</def>
+<cit type="translationEquivalent">
+<quote>
+posebej
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was extra polite to his superiors.
+</quote>
+</seg>
+</sense>
+</entry>

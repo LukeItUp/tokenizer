@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+litre
+</orth>
+<form type="variant">
+<pron>
+/l*i*:t@/
+</pron>
+</form>
+<form type="inflected">
+litres;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo 
+<SV>
+liter
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A litre 
+</seg>
+je prostorninska mera za teko&ccaron;ine in pline, enakovredna tiso&ccaron; kubi&ccaron;nim centimetrom ali pribli&zcaron;no 1,76 pinte. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liter
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a litre of wine.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+litre 
+</seg>
+uporabimo tudi tedaj, ko govorimo o prostornini avtomobilskega motorja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liter
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a 1.3 litre Vauxhall Astra.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,164 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tail
+</orth>
+<form type="variant">
+<pron>
+/t*e*Il/
+</pron>
+</form>
+<form type="inflected">
+tails, tailing, tailed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tail of an animal, bird, or fish 
+</seg>
+je pri ptici, ribi ali drugi &zcaron;ivali del telesa, ki je nekak&scaron;en podalj&scaron;ek zadnjega dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dog was wagging his tail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tail 
+</seg>
+je tudi konec ali zadnji del ne&ccaron;esa, zlasti &ccaron;e je tisto dolgo in tanko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rep
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the stairway descending from the tail of the plane.
+</quote>
+<quote>
+...the tail of the queue.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tail someone 
+</seg>
+pomeni slediti nekomu, da bi ugotovili, kam gre ali kaj dela; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zasledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All day he was tailed by police cars.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ko vr&zcaron;emo kovanec in kovanec 
+<seg type="lemma">
+comes down tails
+</seg>
+, pade tako, da vidimo stran, na kateri ni upodobljena glava (&lsquo;mo&zcaron;&rsquo;). 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cifra
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<xr type="related">
+<QI>
+to not 
+</QI>
+<QF>
+make head nor tail 
+</QF>
+<QI>
+of something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+head
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tail off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+tails off
+</seg>
+, postaja vse manj&scaron;e in na koncu morda povsem izgine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izgubljati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rains tail off in September.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

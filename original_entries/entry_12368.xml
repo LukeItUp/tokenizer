@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+saturate
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;tS@reIt/
+</pron>
+</form>
+<form type="inflected">
+saturates, saturating, saturated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar kraj 
+<seg type="lemma">
+is saturated with things
+</seg>
+, je tako poln dolo&ccaron;enih stvari, da ni mogo&ccaron;e dodati ni&ccaron;esar ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasuti, zapolniti, zasititi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The next morning, teams saturated the community with literature about the attack.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+saturation
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;tS@r*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Even when the market reaches saturation, the process doesn&apos;t stop.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be saturated 
+</seg>
+pomeni biti zelo moker. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti premo&ccaron;en, biti prepojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Philip was totally saturated.
+</quote>
+</seg>
+</sense>
+</entry>

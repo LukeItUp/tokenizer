@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+herb
+</orth>
+<form type="variant">
+<pron>
+/h*$e*:b/
+</pron>
+</form>
+<form type="inflected">
+herbs.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A herb 
+</seg>
+je rastlina, ki jo uporabljamo za za&ccaron;injanje hrane ali zdravilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zeli&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...dried herbs and spices.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+herbal
+</orth>
+<form type="variant">
+<pron>
+/h*$e*:b@0l/
+</pron>
+</form>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...herbal medicine.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

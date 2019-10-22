@@ -1,0 +1,232 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pour
+</orth>
+<form type="variant">
+<pron>
+/p*O*:/
+</pron>
+</form>
+<form type="inflected">
+pours, pouring, poured.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pour a liquid 
+</seg>
+pomeni enakomerno prazniti teko&ccaron;ino ali drugo snov iz nagnjene posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+to&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The waiter poured the wine into her glass.
+</quote>
+<quote>
+...a machine that poured grain into sacks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pour someone a drink 
+</seg>
+pomeni nekomu napolniti kozarec ali skodelico, da bo pil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nato&ccaron;iti, naliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He poured Ellen a glass of wine.
+</quote>
+<quote>
+She poured a drink for herself.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina ali druga snov 
+<seg type="lemma">
+pours somewhere
+</seg>
+, nekam te&ccaron;e hitro in v veliki koli&ccaron;ini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rain poured through a hole in the roof.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be pouring
+</seg>
+ pomeni, da mo&ccaron;no de&zcaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+liti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+In London it poured all the time.
+</quote>
+<quote>
+It was absolutely pouring with rain.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+pouring
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Don&apos;t go out in the pouring rain.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+pour into a place
+</seg>
+, nekam prihajajo v velikem &scaron;tevilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dreti, zlivati se, mno&zcaron;i&ccaron;no prihajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Refugees are now pouring into this country.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To pour money into an activity or organization 
+</seg>
+pomeni porabiti veliko denarja za neko dejavnost ali organizacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlagati denar v kaj
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+pour out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To pour out a drink 
+</seg>
+pomeni napolniti kozarec ali skodelico s pija&ccaron;o. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nato&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Castle poured out two glasses of whisky.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

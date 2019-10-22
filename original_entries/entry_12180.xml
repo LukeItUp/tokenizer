@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+route
+</orth>
+<form type="variant">
+<pron>
+/r*u*:t/
+</pron>
+</form>
+<form type="inflected">
+routes, routing, routed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A route 
+</seg>
+je pot od enega kraja do drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I took the route through Beechwood.
+</quote>
+<quote>
+...the main route out of London to the west.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+en route
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A route 
+</seg>
+je tudi na&ccaron;in, kako lahko nekaj dose&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pot, na&ccaron;in
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Another route is by active participation in a trade union.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vozila 
+<seg type="lemma">
+are routed past a place or through a place
+</seg>
+, morajo peljati mimo dolo&ccaron;enega kraja ali skozenj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+usmeriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Flights were being routed around the trouble area.
+</quote>
+</seg>
+</sense>
+</entry>

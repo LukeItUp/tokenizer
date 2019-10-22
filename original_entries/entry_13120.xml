@@ -1,0 +1,281 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slow
+</orth>
+<form type="variant">
+<pron>
+/sl*@*U/
+</pron>
+</form>
+<form type="inflected">
+slower, slowest; slows, slowing, slowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+slow 
+</seg>
+pomeni, da se nekaj premika ali dogaja z majhno hitrostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;asen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His movements were all deliberate and slow.
+</quote>
+<quote>
+They have slow reflexes.
+</quote>
+<quote>
+...slow changes in the family structure.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+You&apos;re going too slow.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+slowly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He nodded slowly and walked very sadly out of the door
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+slowness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Time passed with agonizing slowness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slows 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+slows something
+</seg>
+, se tisto za&ccaron;ne premikati ali dogajati po&ccaron;asneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&ccaron;asniti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slowed to a walk.
+</quote>
+<quote>
+...ways of slowing population growth.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+slow
+</seg>
+, ni preve&ccaron; pameten. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;asen
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejavnost, kraj ali zgodba je 
+<seg type="lemma">
+slow
+</seg>
+, kadar se ne dogaja veliko zanimivega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspan, nerazburljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Business will be slow in the shop for another hour.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ura 
+<seg type="lemma">
+slow
+</seg>
+, ka&zcaron;e manj, kot bi morala, &ccaron;e bi bila to&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaostajati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That clock&apos;s half an hour slow.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+slow down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slows down 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+slows something down
+</seg>
+, se tisto za&ccaron;ne premikati ali dogajati po&ccaron;asneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&ccaron;asniti (se), zmanj&scaron;ati hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Economic growth has slowed down dramatically.
+</quote>
+<quote>
+Harold slowed the car down.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To slow down 
+</seg>
+pomeni postati manj dejaven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati tempo, &zcaron;iveti po&ccaron;asneje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He needs to slow down a little or he&apos;ll get an ulcer.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+slow up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slows up 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+slows something up
+</seg>
+, se tisto za&ccaron;ne premikati ali dogajati po&ccaron;asneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upo&ccaron;asniti, zmanj&scaron;ati hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She slowed up a little.
+</quote>
+<quote>
+The extra weight would have slowed me up considerably.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

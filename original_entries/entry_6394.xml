@@ -1,0 +1,96 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gulp
+</orth>
+<form type="variant">
+<pron>
+/g*Vlp/
+</pron>
+</form>
+<form type="inflected">
+gulps, gulping, gulped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gulp something 
+</seg>
+ali 
+<seg type="lemma">
+to gulp something down 
+</seg>
+pomeni naenkrat pogoltniti veliko koli&ccaron;ino ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogoltniti, goltati; zliti vase
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She gulped her coffee.
+</quote>
+<quote>
+After gulping down his breakfast, he hurried to the station.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She took a gulp of whisky.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gulp 
+</seg>
+pomeni po&zcaron;reti zrak, navadno zaradi &zcaron;iv&ccaron;nosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogoltniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He gulped and stammered for me to call back.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I gave a little gulp.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

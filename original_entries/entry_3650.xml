@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+demolish
+</orth>
+<form type="variant">
+<pron>
+/di1m*QlIS/
+</pron>
+</form>
+<form type="inflected">
+demolishes, demolishing, demolished.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neka stavba 
+<seg type="lemma">
+demolished
+</seg>
+, jo podrejo, pogosto zato, ker je stara ali nevarna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti, podreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The old prison was demolished in 1890.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+demolition
+</orth>
+<form type="variant">
+<pron>
+/d*em@l*IS@0n, d*i:-/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the demolition of the old YMCA building.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To demolish someone&apos;s idea, argument, or belief 
+</seg>
+pomeni dokazati, da so zamisel, trditev ali prepri&ccaron;anje nekega &ccaron;loveka popolnoma napa&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbiti, ovre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He soon demolished Mr Stewart&apos;s suggestions.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+demolition
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the demolition of a beloved theory.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

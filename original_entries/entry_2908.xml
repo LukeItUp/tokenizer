@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+consultation
+</orth>
+<form type="variant">
+<pron>
+/k*Qns@0lt*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+consultations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A consultation 
+</seg>
+je sestanek, namenjen razpravi o dolo&ccaron;eni t&eacute;mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetovanje, konferenca
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Consultation 
+</seg>
+je razprava med dvema osebama, zlasti kadar ena daje nasvete. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posvetovanje, strokovni sestanek, konzultacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is a matter for the Prime Minister to decide in consultation with the Ministry of Defence.
+</quote>
+</seg>
+</sense>
+</entry>

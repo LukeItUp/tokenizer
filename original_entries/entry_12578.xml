@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seduce
+</orth>
+<form type="variant">
+<pron>
+/si1dj*u*:s/
+</pron>
+</form>
+<form type="inflected">
+seduces, seducing, seduced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+seduces someone
+</seg>
+, je tako privla&ccaron;no, da &ccaron;loveka premami, da naredi nekaj, &ccaron;esar normalno ne bi odobraval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapeljati, premamiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was seduced into saying that he would do it.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+seduces another person
+</seg>
+, prepri&ccaron;uje drugega &ccaron;loveka, da bi imel spolne odnose z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapeljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He used to seduce all the maids.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+seduction
+</orth>
+<form type="variant">
+<pron>
+/si1d*VkS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The girl&apos;s seduction is an important part of the story.
+</quote>
+<quote>
+...a subtle form of seduction.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

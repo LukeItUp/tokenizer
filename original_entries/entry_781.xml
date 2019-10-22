@@ -5,7 +5,7 @@ asset
 </orth>
 <form type="variant">
 <pron>
-/*#ae;set/
+/*&ae;set/
 </pron>
 </form>
 <form type="inflected">
@@ -19,11 +19,11 @@ COUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je nekaj, kar &#269;lovek ima,
+Kadar je nekaj, kar &ccaron;lovek ima, 
 <seg type="lemma">
 an asset
 </seg>
-je zanj koristno.
+, je zanj koristno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -44,10 +44,9 @@ PLURAL N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The assets of a company or a person
+The assets of a company or a person 
 </seg>
-je vse
-premo&#382;enje nekega podjetja ali osebe.
+je vse premo&zcaron;enje nekega podjetja ali osebe. 
 </def>
 <cit type="translationEquivalent">
 <quote>

@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+freshen
+</orth>
+<form type="variant">
+<pron>
+/fr*eS@0n/
+</pron>
+</form>
+<form type="inflected">
+freshens, freshening, freshened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To freshen something 
+</seg>
+pomeni narediti nekaj &ccaron;istej&scaron;e in bolj sve&zcaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osve&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The air freshened his lungs.
+</quote>
+<quote>
+Keith freshened himself with a wash.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar veter 
+<seg type="lemma">
+freshens
+</seg>
+, postane mo&ccaron;nej&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okrepiti se
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+freshen up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To freshen up 
+</seg>
+pomeni na hitro se umiti in urediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osve&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sarah and Barry returned to their hotel to freshen up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

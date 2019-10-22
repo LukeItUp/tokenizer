@@ -1,0 +1,134 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+starve
+</orth>
+<form type="variant">
+<pron>
+/st*A*:v/
+</pron>
+</form>
+<form type="inflected">
+starves, starving, starved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be starving 
+</seg>
+pomeni trpeti hudo pomanjkanje hrane, ki mu najverjetneje sledi smrt. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stradati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People are starving because of inefficient farming methods.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To starve someone 
+</seg>
+pomeni nekomu ne dati hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izstradati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You should starve him for twelve hours.
+</quote>
+<quote>
+Ten men starved themselves to death in prison last year.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+I am starving 
+</seg>
+re&ccaron;emo, kadar smo zelo la&ccaron;ni; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+la&ccaron;en sem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve got to have something to eat. I&apos;m starving.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be starved of something one needs 
+</seg>
+pomeni trpeti, ker ne dobimo dovolj tistega, kar potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogre&scaron;ati, trpeti pomanjkanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They seem to be starved of attention from adults.
+</quote>
+<quote>
+The plant was starved of light and died.
+</quote>
+</seg>
+</sense>
+</entry>

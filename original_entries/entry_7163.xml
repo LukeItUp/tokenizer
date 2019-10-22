@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+immune
+</orth>
+<form type="variant">
+<pron>
+/Imj*u*:n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be immune to a disease 
+</seg>
+pomeni, da ne moremo zboleti za neko boleznijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imun, odporen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She thought that women might be immune to lung cancer.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+immunity
+</orth>
+<form type="variant">
+<pron>
+/Imj*u*:nI1ti1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Babies receive immunity to a variety of infections.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+immune to something harmful
+</seg>
+, nekaj &scaron;kodljivega ne more vplivati nanj ali se mu zgoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neob&ccaron;utljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was immune to the flattery of political leaders.
+</quote>
+<quote>
+...targets that the West had considered immune from air attack.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+immunity
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had been granted immunity from prosecution.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

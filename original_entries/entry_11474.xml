@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rake
+</orth>
+<form type="variant">
+<pron>
+/r*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+rakes, raking, raked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rake 
+</seg>
+je vrtno orodje, ki ima na dolgem ro&ccaron;aju pritrjeno vrsto kovinskih zob. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grablje
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rake leaves or soil 
+</seg>
+pomeni zbirati listje ali rahljati zemljo z grabljami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jeremy had raked the fallen leaves into a pile.
+</quote>
+<quote>
+The field had been raked.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+rake in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is raking in money
+</seg>
+, z lahkoto slu&zcaron;i veliko denarja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kopati se v denarju
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+rake up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To rake up something 
+</seg>
+pomeni, da nekoga spomnimo na nekaj neprijetnega iz preteklosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privle&ccaron;i na dan, pogreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

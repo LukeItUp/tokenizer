@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+forbid
+</orth>
+<form type="variant">
+<pron>
+/f@8b*Id/
+</pron>
+</form>
+<form type="inflected">
+forbids, forbidding, forbade
+</form>
+<form type="variant">
+<pron>
+/f@b*&ae;d, -b*e*Id/
+</pron>
+</form>
+<form type="inflected">
+forbidden.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To forbid someone to do something 
+</seg>
+pomeni nekomu ukazati, da ne&ccaron;esa ne sme storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepovedati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I forbid you to tell her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+forbids an event or course of action
+</seg>
+, prepre&ccaron;i, da se nekaj zgodi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prepre&ccaron;iti, ne dopu&scaron;&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Mexico City's altitude forbids such exertions.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p40_s43305" id="p40_w683" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="266.671" y="236.584" base="242.28" width="16.0589" height="7.552">NHS</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p40_s43306" id="p40_w684" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="284.158" y="236.584" base="242.28" width="31.2538" height="7.552">hospitals.</TOKEN>
+<TOKEN sid="p40_s43308" id="p40_w686" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="322.87" y="238.364" base="242.28" width="7.02702" height="5.192">VB</TOKEN>
+<TOKEN sid="p40_s43309" id="p40_w687" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="330.872" y="238.364" base="242.28" width="10.3594" height="5.192">with</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p40_s43310" id="p40_w688" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="342.207" y="238.364" base="242.28" width="9.65844" height="5.192">OBJ</TOKEN>
+<TOKEN sid="p40_s43312" id="p40_w690" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="362.375" y="238.364" base="242.28" width="13.3888" height="5.192">PREP</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p40_s43313" id="p40_w691" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="376.739" y="238.364" base="242.28" width="7.06761" height="5.192">&#353;to&#8217;</TOKEN>
+</seg>
+<TOKEN sid="p40_s43314" id="p40_w692" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="385.33" y="236.584" base="242.28" width="7.97328" height="7.552">To</TOKEN>
+<TOKEN sid="p40_s43315" id="p40_w693" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="394.732" y="236.584" base="242.28" width="20.7396" height="7.552">attach</TOKEN>
+<TOKEN sid="p40_s43316" id="p40_w694" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.899" y="236.584" base="242.28" width="4.0032" height="7.552">a</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p40_s43317" id="p40_w695" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.329" y="236.584" base="242.28" width="17.7019" height="7.552">qual-</TOKEN>
+<TOKEN sid="p40_s43318" id="p40_w696" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="245.664" base="251.36" width="9.03888" height="7.552">ity</TOKEN>
+<TOKEN sid="p40_s43319" id="p40_w697" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="269.168" y="245.664" base="251.36" width="6.72336" height="7.552">to</TOKEN>
+<TOKEN sid="p40_s43320" id="p40_w698" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="277.411" y="245.664" base="251.36" width="34.5499" height="7.552">something</TOKEN>
+</seg>
+<TOKEN sid="p40_s43321" id="p40_w699" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.48" y="245.664" base="251.36" width="7.11864" height="7.552">or</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p40_s43322" id="p40_w700" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="322.118" y="245.664" base="251.36" width="28.715" height="7.552">someone</TOKEN>
+<TOKEN sid="p40_s43323" id="p40_w701" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.4" y="245.664" base="251.36" width="24.7932" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p40_s43324" id="p40_w702" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="378.712" y="245.664" base="251.36" width="37.2766" height="7.552">domnevati,</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

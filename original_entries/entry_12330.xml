@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sandwich
+</orth>
+<form type="variant">
+<pron>
+/s*&ae;nwIdZ, -wItS/
+</pron>
+</form>
+<form type="inflected">
+sandwiches, sandwiched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sandwich 
+</seg>
+je jed, sestavljena iz dveh kosov kruha in vmesne plasti, na primer sira, mesa ali druge hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sendvi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a bacon, lettuce, and tomato sandwich.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be sandwiched between two things
+</seg>
+ pomeni, da je nekaj stisnjeno v ozek prostor med dvema drugima stvarema. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti stisnjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wooden shacks are sandwiched between modern blocks of flats.
+</quote>
+</seg>
+</sense>
+</entry>

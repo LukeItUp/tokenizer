@@ -1,0 +1,105 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gnaw
+</orth>
+<form type="variant">
+<pron>
+/n*O*:/
+</pron>
+</form>
+<form type="inflected">
+gnaws, gnawing, gnawed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ivali ali ljudje 
+<seg type="lemma">
+gnaw something 
+</seg>
+ali 
+<seg type="lemma">
+gnaw at something
+</seg>
+, nekaj vztrajno grizejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glodati, grizljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...watching her puppy gnaw a bone.
+</quote>
+<quote>
+The ant tried to gnaw through the thread.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neko &ccaron;ustvo 
+<seg type="lemma">
+gnaws at someone 
+</seg>
+ali 
+<seg type="lemma">
+gnaws away at someone
+</seg>
+, nekomu vztrajno povzro&ccaron;a skrbi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mu&ccaron;iti, gristi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These desires gnaw away at us constantly.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gnawing
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...gnawing doubts about the future of civilisation.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

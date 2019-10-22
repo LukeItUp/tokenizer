@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+purr
+</orth>
+<form type="variant">
+<pron>
+/p*$e*:/
+</pron>
+</form>
+<form type="inflected">
+purrs, purring, purred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ma&ccaron;ka 
+<seg type="lemma">
+purrs
+</seg>
+, se ogla&scaron;a s tihimi grlenimi glasovi, ker je zadovoljna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar motor ali stroj 
+<seg type="lemma">
+purrs
+</seg>
+, povzro&ccaron;a tih enakomeren zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I heard cars purr in the distance.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I could hear the gentle purr of a movie projector.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

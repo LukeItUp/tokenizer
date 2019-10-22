@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+eventually
+</orth>
+<form type="variant">
+<pron>
+/i1v*entSU0@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+happens eventually
+</seg>
+, se zgodi po &scaron;tevilnih odlogih ali te&zcaron;avah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;no, navsezadnje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rodin eventually agreed that Casson was right.
+</quote>
+<quote>
+Eventually they got through to the hospital.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Eventually 
+</seg>
+pomeni tudi tako, ki se zgodi kot kon&ccaron;ni izid postopka ali vrst dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s&ccaron;asoma, navsezadnje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The three firms eventually became Imperial Airways.
+</quote>
+</seg>
+</sense>
+</entry>

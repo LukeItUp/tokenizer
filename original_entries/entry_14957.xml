@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+twice
+</orth>
+<form type="variant">
+<pron>
+/tw*a*Is/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar se zgodi 
+<seg type="lemma">
+twice
+</seg>
+, se zgodi enkrat in nato &scaron;e enkrat. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvakrat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I knocked on the door twice.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+PREDET
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je ena stvar 
+<seg type="lemma">
+twice as big or old as another thing
+</seg>
+, je dvakrat ve&ccaron;ja ali starej&scaron;a kot neka druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvakrat, &scaron;e enkrat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is twice as common in France as in England.
+</quote>
+<quote>
+He&apos;s twice my size.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<QF>
+once or twice: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+once
+</ref>
+</xr>
+</sense>
+</entry>

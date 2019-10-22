@@ -15,18 +15,18 @@ aims, aiming, aimed.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To aim a weapon or object at something
+To aim a weapon or object at something 
 </seg>
-pomeni naperiti oro&#382;je ali predmet v neki cilj.
+pomeni naperiti oro&zcaron;je ali predmet v neki cilj. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -41,12 +41,12 @@ Roger picked up a stone, aimed it, and threw it at Henry.
 He aimed at the far wall and squeezed the trigger.
 </quote>
 </seg>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
@@ -56,7 +56,7 @@ SUPP
 He leaned against a tree to steady his aim.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 <sense n="2">
 <sense value="phrase">
@@ -67,10 +67,9 @@ PHRASE
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To take aim at someone or something
+To take aim at someone or something 
 </seg>
-pomeni z oro&#382;jem ali predmetom pokazati na nekoga ali nekaj v
-pripravljenosti, da bomo streljali ali vrgli tisti predmet.
+pomeni z oro&zcaron;jem ali predmetom pokazati na nekoga ali nekaj v pripravljenosti, da bomo streljali ali vrgli tisti predmet. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -87,14 +86,13 @@ VB
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To aim at something
+To aim at something 
 </seg>
-ali
+ali 
 <seg type="lemma">
-to aim to do something
+to aim to do something 
 </seg>
-pomeni na&#269;rtovati ali upati, da bomo dosegli svoj
-cilj.
+pomeni na&ccaron;rtovati ali upati, da bomo dosegli svoj cilj. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -113,22 +111,21 @@ A good solid job is the thing to aim for.
 <sense n="4">
 <gramGrp>
 <pos>
-PASSIVE VB
+PASSIVE VB 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"at"
+&lsquo;at&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je dejanje ali na&#269;rt
+Kadar je dejanje ali na&ccaron;rt 
 <seg type="lemma">
-aimed at achieving
-something
+aimed at achieving something
 </seg>
-z njim nameravamo nekaj uresni&#269;iti.
+, z njim nameravamo nekaj uresni&ccaron;iti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -144,19 +141,18 @@ namenjen
 <sense n="5">
 <gramGrp>
 <pos>
-COUNT N
+COUNT N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An aim
+An aim 
 </seg>
-je tisto, kar &#382;elimo dose&#269;i z nekim
-dejanjem ali na&#269;rtom.
+je tisto, kar &zcaron;elimo dose&ccaron;i z nekim dejanjem ali na&ccaron;rtom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -172,26 +168,25 @@ It is our aim to set up a workshop.
 <sense n="6">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
-OBJ
+OBJ 
 <seg>
-and
+and 
 </seg>
 <seg type="prep">
-"at"
+&lsquo;at&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar je na&#353;e dejanje
+Kadar je na&scaron;e dejanje 
 <seg type="lemma">
-aimed at a particular
-person
+aimed at a particular person
 </seg>
-ho&#269;emo z njim vplivati na dolo&#269;eno osebo.
+, ho&ccaron;emo z njim vplivati na dolo&ccaron;eno osebo. 
 </def>
 <cit type="translationEquivalent">
 <quote>

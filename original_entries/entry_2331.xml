@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chuck
+</orth>
+<form type="variant">
+<pron>
+/tS*Vk/
+</pron>
+</form>
+<form type="inflected">
+chucks, chucking, chucked;
+</form>
+<usg>
+pogovorna beseda.
+</usg>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To chuck something somewhere 
+</seg>
+pomeni nekaj nekam vre&ccaron;i malomarno ali lahkomiselno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zabrisati, zagnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chuck my tights across, please.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+chuck away 
+<VS>
+ali 
+</VS>
+<VV>
+chuck out.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To chuck something away 
+</seg>
+ali 
+<seg type="variant">
+to chuck something out 
+</seg>
+pomeni nekaj vre&ccaron;i stran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvre&ccaron;i
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

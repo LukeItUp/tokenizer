@@ -1,0 +1,282 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+piece
+</orth>
+<form type="variant">
+<pron>
+/p*i*:s/
+</pron>
+</form>
+<form type="inflected">
+pieces, piecing, pieced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A piece of something 
+</seg>
+je del, dele&zcaron; ali odsek ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He came back dragging a great big piece of a tree.
+</quote>
+<quote>
+She cut the cake and gave me a piece.
+</quote>
+<quote>
+He tore both letters into small pieces.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A piece of something 
+</seg>
+je tudi posamezni primerek ali sestavni del tiste stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The only piece of clothing she bought was a jumper.
+</quote>
+<quote>
+...the most important piece of apparatus.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+piece 
+</seg>
+uporabljamo ob ne&scaron;tevnih samostalnikih za poimenovanje posamezne skupine dejstev, posameznega dejanja ali izdelka. 
+</def>
+<seg type="example">
+<quote>
+...a valuable piece of information.
+</quote>
+<quote>
+...a thoughtful piece of research.
+</quote>
+<quote>
+...this piece of advice.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A piece 
+</seg>
+je tudi nekaj, kar je napisano ali ustvarjeno, na primer &ccaron;lanek, umetni&scaron;ko ali glasbeno delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+besedilo, skladba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a thoughtful piece about President Roosevelt.
+</quote>
+<quote>
+It was a classic piece called Forever Is For Us.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Pieces
+</seg>
+ so tudi kovanci z dolo&ccaron;eno vrednostjo. Na primer, 
+<seg type="lemma">
+a 10p piece 
+</seg>
+je kovanec, vreden deset penijev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kovanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lighter that was no bigger than a 50p piece.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The pieces 
+</seg>
+so pri dru&zcaron;abnih igrah predmeti, ki jih premikamo po igralni plo&scaron;&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+figure
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je oseba ali stvar po nevarnih okoli&scaron;&ccaron;inah &scaron;e vedno 
+<seg type="lemma">
+in one piece
+</seg>
+, ni po&scaron;kodovana ali prizadeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v enem kosu, cel
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To go to pieces 
+</seg>
+pomeni, da se ne obvladamo ve&ccaron;, ker smo &zcaron;iv&ccaron;ni ali razburjeni; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zlomiti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To tear someone to pieces 
+</seg>
+ali 
+<FV>
+to pull someone&apos;s work to pieces 
+</FV>
+pomeni zelo ostro kritizirati nekoga ali njegovo delo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+raztrgati na ko&scaron;&ccaron;ke
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+a piece of cake: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+cake
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+piece together.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To piece together the truth about something 
+</seg>
+pomeni postopoma odkriti resnico o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doumeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had not yet been able to piece together exactly what had happened.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To piece something together 
+</seg>
+pomeni postopoma urediti sestavne dele ne&ccaron;esa v celoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sestaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pieced together the torn-up drawing.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

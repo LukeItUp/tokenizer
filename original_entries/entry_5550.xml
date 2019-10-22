@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+follow-up,
+</orth>
+<form type="inflected">
+follow-ups.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delo ali dejanje, ki je 
+<seg type="lemma">
+follow-up
+</seg>
+, je narejeno kot nadaljevanje ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadaljnji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...follow-up treatment.
+</quote>
+<quote>
+...a follow-up survey.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This conference is a follow-up to an earlier one.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

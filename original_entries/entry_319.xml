@@ -20,10 +20,9 @@ UNCOUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Air
+Air 
 </seg>
-je me&#353;anica plinov, iz katerih je
-sestavljeno zemeljsko ozra&#269;je in ki jo dihamo.
+je me&scaron;anica plinov, iz katerih je sestavljeno zemeljsko ozra&ccaron;je in ki jo dihamo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -44,10 +43,9 @@ SING N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-The air
+The air 
 </seg>
-je prostor okoli predmetov nad
-zemljo.
+je prostor okoli predmetov nad zemljo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -70,12 +68,11 @@ UNCOUNT N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Beseda
+Beseda 
 <seg type="lemma">
-air
+air 
 </seg>
-se nana&#353;a na potovanja z
-letalom.
+se nana&scaron;a na potovanja z letalom. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -84,7 +81,7 @@ po zraku, z letalom, letalski
 </cit>
 <seg type="example">
 <quote>
-The fare by air from London to Luxembourg is &#163;145 return.
+The fare by air from London to Luxembourg is &pound;145 return.
 </quote>
 <quote>
 ...air travel.
@@ -94,20 +91,19 @@ The fare by air from London to Luxembourg is &#163;145 return.
 <sense n="4">
 <gramGrp>
 <pos>
-SING N
+SING N 
 <seg>
-with
+with 
 </seg>
 SUPP
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar nekdo ali nekaj
+Kadar nekdo ali nekaj 
 <seg type="lemma">
-has a particular
-air
+has a particular air
 </seg>
-daje tak splo&#353;ni vtis.
+, daje tak splo&scaron;ni vtis. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -123,19 +119,18 @@ He has a faintly old-fashioned air.
 <sense n="5">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To air one's opinions
+To air one's opinions 
 </seg>
-pomeni seznaniti
-druge s svojim mnenjem.
+pomeni seznaniti druge s svojim mnenjem. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -151,23 +146,22 @@ He spoke on the radio, airing his views to the nation.
 <sense n="6">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To air a room
+To air a room 
 </seg>
-pomeni v sobo spustiti sve&#382;
-zrak.
+pomeni v sobo spustiti sve&zcaron; zrak. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-(pre)zra&#269;iti
+(pre)zra&ccaron;iti
 </quote>
 </cit>
 </sense>
@@ -178,41 +172,39 @@ ERG VB
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar &#269;lovek
+Kadar &ccaron;lovek 
 <seg type="lemma">
 airs clothing
 </seg>
-ali kadar
+ ali kadar 
 <seg type="lemma">
 clothing airs
 </seg>
-pomeni, da postavimo obleko na toplo, da se
-do kraja posu&#353;i.
+, pomeni, da postavimo obleko na toplo, da se do kraja posu&scaron;i. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-su&#353;iti
+su&scaron;iti
 </quote>
 </cit>
 </sense>
 <sense n="8">
 <xr type="related">
 <seg>
-Glej tudi
+Glej tudi 
 </seg>
 <ref>
-airing.
+airing
 </ref>
 </xr>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-To disappear into thin air
+To disappear into thin air 
 </seg>
-pomeni
-popolnoma izginiti.
+pomeni popolnoma izginiti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -223,10 +215,9 @@ izginiti kot kafra, mrkniti
 <sense value="phrase">
 <def xml:lang="sl">
 <seg type="lemma">
-To appear out of thin air
+To appear out of thin air 
 </seg>
-pomeni
-prikazati se nenadoma in skrivnostno.
+pomeni prikazati se nenadoma in skrivnostno. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -236,12 +227,11 @@ pojaviti se kot strela z jasnega, pasti z neba
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 on the air
 </seg>
-nastopa na
-radiu ali televiziji.
+, nastopa na radiu ali televiziji. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -249,5 +239,5 @@ na radiu ali televiziji, v etru
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+worse
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Worse 
+</seg>
+je primernik pridevnika 
+<ref>
+bad
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have even worse news for you.
+</quote>
+<quote>
+The noise is getting worse.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Worse 
+</seg>
+je tudi primernik prislova 
+<ref>
+badly
+</ref>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab&scaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some people ski worse than others.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo, ki je bolan, 
+<seg type="lemma">
+gets worse
+</seg>
+, postane &scaron;e bolj bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+huje zboleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;ll get worse if you don&apos;t take this medicine.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+none the worse for something
+</seg>
+, mu nekaj ne &scaron;koduje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ni&ccaron; manj, ni&ccaron; slab&scaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children had gone to bed very late but they were none the worse for it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+for the worse
+</seg>
+, okoli&scaron;&ccaron;ine postanejo bolj neprijetne ali te&zcaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na slab&scaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were constant changes, usually for the worse.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rarity
+</orth>
+<form type="variant">
+<pron>
+/r*e*@rI1ti1/
+</pron>
+</form>
+<form type="inflected">
+rarities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A rarity 
+</seg>
+je nekaj, kar je zanimivo ali dragoceno, ker je tako nenavadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redkost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Blue marble was a rarity anywhere.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The rarity of something 
+</seg>
+je dejstvo, da tistega ni prav veliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+redkost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many animals are endangered by their rarity and beauty.
+</quote>
+</seg>
+</sense>
+</entry>

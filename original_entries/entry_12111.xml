@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+roar
+</orth>
+<form type="variant">
+<pron>
+/r*O*:/
+</pron>
+</form>
+<form type="inflected">
+roars, roaring, roared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+roars
+</seg>
+, oddaja zelo glasne zvoke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tuliti, rjoveti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wind roared in the forest.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I could hear the roar of traffic outside.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To roar 
+</seg>
+pomeni zelo glasno kri&ccaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tuliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Forward with the Revolution,&rsquo; the crowd roared back.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar lev 
+<seg type="lemma">
+roars
+</seg>
+, se ogla&scaron;a z glasom, zna&ccaron;ilnim za leve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rjoveti
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The lion let out one of its roars.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

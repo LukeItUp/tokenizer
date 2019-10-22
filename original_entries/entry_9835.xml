@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+omit
+</orth>
+<form type="variant">
+<pron>
+/@6m*It/
+</pron>
+</form>
+<form type="inflected">
+omits, omitting, omitted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To omit something 
+</seg>
+pomeni, da ne&ccaron;esa ne vklju&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two groups were omitted from the survey&mdash;the old and women.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+omits to do something
+</seg>
+, tistega ne stori; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne narediti, izpustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He omitted to say whether the men were armed.
+</quote>
+</seg>
+</sense>
+</entry>

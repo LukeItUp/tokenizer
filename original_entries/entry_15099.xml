@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+underline
+</orth>
+<form type="variant">
+<pron>
+/*Vnd@l*a*In/
+</pron>
+</form>
+<form type="inflected">
+underlines, underlining, underlined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+underlines a feeling or problem
+</seg>
+, poudarja pomen dolo&ccaron;enega &ccaron;ustva ali te&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poudariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An article in the Lancet underlined the same problem.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To underline a word or sentence 
+</seg>
+pomeni potegniti &ccaron;rto pod besedo ali stavkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pod&ccaron;rtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He underlined his signature with a little flourish.
+</quote>
+</seg>
+</sense>
+</entry>

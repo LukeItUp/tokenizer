@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+electrical
+</orth>
+<form type="variant">
+<pron>
+/i1l*ektrIk@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Napravo ali stroj, ki je 
+<seg type="lemma">
+electrical
+</seg>
+, poganja elektrika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektri&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...electrical equipment.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+electrically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...electrically operated windows.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+In&zcaron;enirji in tovarne, ki so 
+<seg type="lemma">
+electrical
+</seg>
+, so povezani s pridobivanjem ali vzdr&zcaron;evanjem elektrike ali elektri&ccaron;nih priprav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+elektri&scaron;ki, elektro-
+</quote>
+</cit>
+</sense>
+</entry>

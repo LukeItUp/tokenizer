@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+penny
+</orth>
+<form type="variant">
+<pron>
+/p*eni1/
+</pron>
+</form>
+<form type="inflected">
+pennies 
+<IS>
+ali
+</IS>
+<IV>
+pence 
+</IV>
+</form>
+<form type="variant">
+<pron>
+/p*ens/
+</pron>
+</form>
+<IN>
+Pri 1. pomenu je mno&zcaron;inska oblika 
+<IH>
+pennies
+</IH>
+<IC>
+, pri 2. pa 
+</IC>
+<IH>
+pence
+</IH>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A penny 
+</seg>
+je britanski kovanec, ki je vreden stoti del funta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peni
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A penny 
+</seg>
+je tudi denarna vrednost kovanca za en peni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peni
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a ten pence coin.
+</quote>
+<quote>
+They only cost a few pence.
+</quote>
+</seg>
+</sense>
+</entry>

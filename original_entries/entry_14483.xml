@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+third party,
+</orth>
+<form type="inflected">
+third parties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A third party 
+</seg>
+je nekdo, ki ni ena od dveh glavnih oseb ali skupin v poslovnem odnosu ali sodnem procesu, je pa kljub temu vpleten kot stranski udele&zcaron;enec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tretja stran
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A third party from outside the village was brought in as a witness.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have third-party insurance 
+</seg>
+pomeni, da smo zavarovani tako, da bo na&scaron;a zavarovalnica, &ccaron;e bomo povzro&ccaron;ili nesre&ccaron;o, pla&ccaron;ala drugim, ki so prizadeti v nesre&ccaron;i, nam pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvezno (&scaron;kodno) zavarovanje
+</quote>
+</cit>
+</sense>
+</entry>

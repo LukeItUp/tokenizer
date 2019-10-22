@@ -1,0 +1,162 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+register
+</orth>
+<form type="variant">
+<pron>
+/r*edZIst@/
+</pron>
+</form>
+<form type="inflected">
+registers, registering, registered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A register 
+</seg>
+je uradni seznam ali arhiv. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+register, popis; mati&ccaron;na knjiga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the register of births, marriages, and deaths.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To register for something 
+</seg>
+pomeni vpisati se na uraden seznam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijaviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You must register for work at the employment agency.
+</quote>
+<quote>
+They&apos;re coming to register as students on the English course.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+registered
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a registered drug addict.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To register something 
+</seg>
+pomeni poskrbeti, da so podatki o ne&ccaron;em zapisani na uradnem seznamu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+registrirati, prijaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One of the cars was registered in my name.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka koli&ccaron;ina 
+<seg type="lemma">
+registers 
+</seg>
+ali 
+<seg type="lemma">
+is registered
+</seg>
+, jo od&ccaron;itamo na tehtnici ali merilni napravi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The inflation index registered a modest 7.8% annual rate.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To register a feeling or opinion that one has 
+</seg>
+pomeni pokazati ob&ccaron;utek ali mnenje drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati (na obrazu)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He stared at me for a moment, his face registering disbelief.
+</quote>
+</seg>
+</sense>
+</entry>

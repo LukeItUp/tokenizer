@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fellowship
+</orth>
+<form type="variant">
+<pron>
+/f*el@6SIp/
+</pron>
+</form>
+<form type="inflected">
+fellowships.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fellowship 
+</seg>
+je &ccaron;ustvo prijateljstva, ki ga imajo ljudje, kadar nekaj po&ccaron;nejo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tovari&scaron;tvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the atmosphere of cheerful good fellowship.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fellowship 
+</seg>
+je skupina oseb, ki se zdru&zcaron;ijo za skupni cilj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bratov&scaron;&ccaron;ina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the Socialist Fellowship.
+</quote>
+</seg>
+</sense>
+</entry>

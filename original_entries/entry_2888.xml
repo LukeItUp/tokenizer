@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+constant
+</orth>
+<form type="variant">
+<pron>
+/k*Qnst@nt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+constant
+</seg>
+, se dogaja ves &ccaron;as ali je vedno navzo&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stalen, nenehen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was in constant pain.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+constantly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The world around us is constantly changing.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Koli&ccaron;ina ali raven, ki je 
+<seg type="lemma">
+constant
+</seg>
+, ostane enaka v dolo&ccaron;enem &ccaron;asovnem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trajen, stanoviten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a constant voltage.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+constancy
+</orth>
+<form type="variant">
+<pron>
+/k*Qnst@nsi1/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the constancy of the temperature.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+joke
+</orth>
+<form type="variant">
+<pron>
+/dZ*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+jokes, joking, joked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A joke 
+</seg>
+je nekaj, kar nekdo re&ccaron;e ali stori, da nas spravi v smeh, na primer sme&scaron;na zgodba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;ala, vic
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Dave was telling me this joke about a penguin.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To joke 
+</seg>
+pomeni pripovedovati sme&scaron;ne zgodbe ali govoriti stvari, ki so zabavne in ne resne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;aliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don't worry, I was only joking.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo ali nekaj 
+<seg type="lemma">
+a joke
+</seg>
+, se nam zdi sme&scaron;en in nevreden spo&scaron;tovanja; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pavliha, klovn; farsa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His colleagues regard him as a joke.
+</quote>
+</seg>
+</sense>
+</entry>

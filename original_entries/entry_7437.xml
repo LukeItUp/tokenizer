@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+inference
+</orth>
+<form type="variant">
+<pron>
+/*Inf@0r@ns/
+</pron>
+</form>
+<form type="inflected">
+inferences.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An inference 
+</seg>
+je sklep, ki ga povzamemo o ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzetek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The inferences drawn from data have led to some major changes in our policy.
+</quote>
+</seg>
+</sense>
+</entry>

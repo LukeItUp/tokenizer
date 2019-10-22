@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+harvest
+</orth>
+<form type="variant">
+<pron>
+/h*A*:vI2st/
+</pron>
+</form>
+<form type="inflected">
+harvests, harvesting, harvested.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The harvest 
+</seg>
+je pobiranje pridelkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;etev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their stock of rice wouldn&apos;t last until the harvest.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We harvested what we could before the rains came.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar poberemo polj&scaron;&ccaron;ine, jih imenujemo 
+<seg type="lemma">
+a harvest
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pridelek, letina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their sons always came home to help bring in the harvest.
+</quote>
+</seg>
+</sense>
+</entry>

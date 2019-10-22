@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+headline
+</orth>
+<form type="variant">
+<pron>
+/h*edlaIn/
+</pron>
+</form>
+<form type="inflected">
+headlines.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A headline 
+</seg>
+je naslov &ccaron;asopisnega &ccaron;lanka, natisnjen z velikimi &ccaron;rkami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naslov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The headlines that day were full of news of the kidnapping.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The headlines 
+</seg>
+so tudi najpomembnej&scaron;e novice, ki jih preberejo po radiu ali televiziji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najpomembnej&scaron;e novice
+</quote>
+</cit>
+<seg type="example">
+<quote>
+And now for the main headlines again.
+</quote>
+</seg>
+</sense>
+</entry>

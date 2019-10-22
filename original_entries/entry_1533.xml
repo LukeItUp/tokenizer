@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+both
+</orth>
+<form type="variant">
+<pron>
+/b*@*UT/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREDET, DET, 
+<seg>
+or 
+</seg>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+both 
+</seg>
+uporabimo, kadar govorimo o dveh osebah ali predmetih in nekaj povemo o njiju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oba, obadva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Both her parents were dead.
+</quote>
+<quote>
+Both policies made good sense.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+PRON
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He got angry with both of them.
+</quote>
+<quote>
+Most of them speak either English or German or both.
+</quote>
+<quote>
+We were both young.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Strukturo 
+<seg type="lemma">
+both...and 
+</seg>
+uporabimo, kadar navedemo dve dejstvi ali mo&zcaron;nosti in poudarimo, da sta obe resni&ccaron;ni ali izvedljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tako ... kot
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These are dangers that threaten both men and women.
+</quote>
+<quote>
+The prospects both excited and worried me.
+</quote>
+</seg>
+</sense>
+</entry>

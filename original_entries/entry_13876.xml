@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subdue
+</orth>
+<form type="variant">
+<pron>
+/s@bdj*u*:/
+</pron>
+</form>
+<form type="inflected">
+subdues, subduing, subdued.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki 
+<seg type="lemma">
+subdue a group of people
+</seg>
+, s silo vzpostavijo nadzor nad skupino ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvladati, ukrotiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Troops were sent to subdue the rebels.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+subdues someone&apos;s feelings
+</seg>
+, deluje na &ccaron;ustva nekega &ccaron;loveka tako, da so ta manj mo&ccaron;na. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmanj&scaron;ati, ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This thought subdued my delight at the news.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+commission
+</orth>
+<form type="variant">
+<pron>
+/k@m*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+commissions, commissioning, commissioned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To commission a piece of work 
+</seg>
+pomeni uradno priskrbeti pla&ccaron;ilo za nekoga, da nekaj naredi namesto nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Times commissioned a Public Opinion Poll.
+</quote>
+<quote>
+I was immediately commissioned to write another book.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Red House was Webb's first commission as an architect.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Commission 
+</seg>
+je znesek, ki ga pla&ccaron;amo &ccaron;loveku, ki prodaja neko blago, za vsako opravljeno prodajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+provizija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They get commission on top of their basic salary.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COLL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A commission 
+</seg>
+je tudi skupina ljudi, pristojnih, da o ne&ccaron;em nekaj izvedo ali nekaj nadzorujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komisija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A commission was appointed to investigate the assassination of the President.
+</quote>
+</seg>
+</sense>
+</entry>

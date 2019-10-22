@@ -1,0 +1,843 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+open
+</orth>
+<form type="variant">
+<pron>
+/*@*Up@0n/
+</pron>
+</form>
+<form type="inflected">
+opens, opening, opened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open something 
+</seg>
+pomeni premakniti nekaj, na primer vrata ali pokrov &scaron;katle, tako da ne zapira ve&ccaron; odprtine ali vrzeli. Kadar nekaj 
+<seg type="lemma">
+opens
+</seg>
+, se premakne tako, da ni&ccaron; ve&ccaron; ne pokriva odprtine ali vrzeli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Elizabeth opened the door and went in.
+</quote>
+<quote>
+The door opened almost before Brody had finished knocking.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the open window.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open a cupboard, container, or letter 
+</seg>
+pomeni premakniti, odstraniti ali odrezati del omare, posode ali pisma, tako da lahko tisto, kar je noter, vzamemo ven. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Open the tool-box.
+</quote>
+<quote>
+I opened a can of beans.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He tore open the envelope.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open a book 
+</seg>
+pomeni razpreti knjigo, da jo lahko beremo ali pi&scaron;emo vanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He opened the book at random.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the open Bible.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open one&apos;s mouth 
+</seg>
+pomeni razpreti ustnice in zobe. 
+<seg type="lemma">
+One&apos;s mouth opens
+</seg>
+, kadar se &ccaron;lovekove ustnice in zobje razprejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She opened her mouth to say something, then closed it.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Angelica looked at me with her mouth open.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open one&apos;s eyes 
+</seg>
+pomeni razpreti veke, tako da lahko gledamo. 
+<seg type="lemma">
+One&apos;s eyes open
+</seg>
+, kadar se veke razprejo, tako da tista oseba lahko gleda. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She opened her eyes and looked at me.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...lying with his eyes wide open.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have an open mind 
+</seg>
+ali 
+<seg type="lemma">
+to be open to ideas or suggestions 
+</seg>
+pomeni biti pripravljen pretehtati vsakr&scaron;no zamisel ali predlog. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dojemljiv, odprt
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+open
+</seg>
+, je po&scaron;ten in ne posku&scaron;a prikriti ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkrit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They looked at her with open curiosity.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+openness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their relaxed openness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je oseba, zamisel ali sistem 
+<seg type="lemma">
+open to criticism or blame
+</seg>
+, ga je mogo&ccaron;e kritizirati ali kriviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripravljen sprejeti kritiko, dovzeten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The proposals were certainly open to criticism.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar trgovina, pisarna ali javna ustanova 
+<seg type="lemma">
+opens 
+</seg>
+ali 
+<seg type="lemma">
+is opened
+</seg>
+, se njena vrata odklenejo in ljudje v njej za&ccaron;nejo delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When does the library open?
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The Tate Gallery is open 10 a.m.&mdash;6 p.m.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar pomembna oseba 
+<seg type="lemma">
+opens a building or a public area
+</seg>
+, uradno izjavi, da je ustanova ali obmo&ccaron;je nared za uporabo ali za&ccaron;etek delovanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti
+</quote>
+</cit>
+<T>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Lord Shawcross declared the hotel open.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+opening
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the opening of the new theatre.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki dogodek, na primer konferenca ali gledali&scaron;ka igra, 
+<seg type="lemma">
+opens
+</seg>
+, se za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The UN General Assembly opens in New York later this month.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+opening
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the opening of &lsquo;Nicholas Nickleby&rsquo; on Broadway.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open an event 
+</seg>
+pomeni kot prvi spregovoriti ali nekaj narediti na prireditvi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti, za&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Senator Denton opened the hearing by reminding us of our duty.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To open an account with a bank 
+</seg>
+pomeni za&ccaron;eti uporabljati usluge neke banke in ji dati nekaj denarja, da skrbi zanj ali ga kam vlo&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti ra&ccaron;un na banki
+</quote>
+</cit>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vrata ali soba 
+<seg type="lemma">
+opens into or onto a place
+</seg>
+, skozi vrata ali iz sobe lahko stopimo naravnost v drug prostor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpirati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These rooms have doors opening directly onto the garden.
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar cvetovi 
+<seg type="lemma">
+open
+</seg>
+, se razprejo njihovi cvetni listi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti se
+</quote>
+</cit>
+</sense>
+<sense n="16">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Obla&ccaron;ilo, ki je 
+<seg type="lemma">
+open
+</seg>
+, ni zapeto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an open black raincoat.
+</quote>
+<quote>
+...an open-necked shirt.
+</quote>
+</seg>
+</sense>
+<sense n="17">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je del kopnega ali morja 
+<seg type="lemma">
+open
+</seg>
+, je prostran in je na njem malo stvari, na primer stavb ali otokov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The road stretched across open country.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+openness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the openness of Vincent Square.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="18">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+open
+</seg>
+, ni pokrito ali zaprto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an open car.
+</quote>
+<quote>
+Never dry clothes in front of an open fire.
+</quote>
+</seg>
+</sense>
+<sense n="19">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je potek dogajanj 
+<seg type="lemma">
+open to someone
+</seg>
+, zaradi njega &ccaron;lovek lahko nekaj naredi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na voljo, dostopen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We should use the opportunities now open to us.
+</quote>
+</seg>
+</sense>
+<sense n="20">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Sestanek, tekmovanje ali povabilo je 
+<seg type="lemma">
+open
+</seg>
+, kadar lahko sodeluje kdorkoli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most Council meetings are open to the public.
+</quote>
+<quote>
+...the Women&apos;s Open Golf Championship.
+</quote>
+</seg>
+</sense>
+<sense n="21">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neki polo&zcaron;aj ali tema 
+<seg type="lemma">
+open
+</seg>
+, o njej &scaron;e ni bil sprejet noben sklep. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odprt
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I let joining the Party remain an open question.
+</quote>
+<quote>
+They had left their options open.
+</quote>
+</seg>
+</sense>
+<sense n="22">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+opening, 
+</ref>
+<ref>
+openly
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj delamo 
+<seg type="lemma">
+in the open
+</seg>
+, tisto delamo zunaj hi&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na prostem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The children enjoyed sleeping out in the open.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Za okoli&scaron;&ccaron;ine re&ccaron;emo, da so 
+<seg type="lemma">
+brought out into the open
+</seg>
+, kadar ljudje zvedo zanje, tako da niso ve&ccaron; skrivnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na dan, na plan
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+open up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar prilo&zcaron;nost 
+<seg type="lemma">
+opens up 
+</seg>
+ali 
+<seg type="lemma">
+is opened up
+</seg>
+, se nam ponudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ponuditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+All sorts of possibilities began to open up.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar obmo&ccaron;je 
+<seg type="lemma">
+opens up 
+</seg>
+ali 
+<seg type="lemma">
+is opened up
+</seg>
+, gredo ljudje la&zcaron;e tja ali la&zcaron;e trgujejo z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Brunel opened up the West.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To open up a building 
+</seg>
+ali 
+<seg type="lemma">
+to open up
+</seg>
+ pomeni odkleniti vrata stavbe, da ljudje lahko vstopijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

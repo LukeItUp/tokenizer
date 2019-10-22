@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hundredth
+</orth>
+<form type="variant">
+<pron>
+/h*Vndr@dT/
+</pron>
+</form>
+<form type="inflected">
+hundredths.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V nekem zaporedju je 
+<seg type="lemma">
+the hundredth item 
+</seg>
+tisti element, ki je na stotem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stoti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the hundredth anniversary of tennis championships at Wimbledon.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hundredth 
+</seg>
+je eden od stotih enakih delov ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stotina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one hundredth of a second.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+population
+</orth>
+<form type="variant">
+<pron>
+/p*Qpj@4l*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+populations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The population of a place 
+</seg>
+so vsi ljudje, ki &zcaron;ivijo na nekem obmo&ccaron;ju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebivalstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The country is unable to feed its population.
+</quote>
+<quote>
+Kandahar has a population of 230,000.
+</quote>
+<quote>
+...the increase in population.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Population 
+</seg>
+so tudi vsi ljudje ali &zcaron;ivali dolo&ccaron;ene vrste na nekem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+populacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a prison population of 44,000.
+</quote>
+</seg>
+</sense>
+</entry>

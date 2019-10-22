@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+shuttle
+</orth>
+<form type="variant">
+<pron>
+/S*Vt@0l/
+</pron>
+</form>
+<form type="inflected">
+shuttles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shuttle service 
+</seg>
+je redna letalska, avtobusna ali &zcaron;elezni&scaron;ka zveza med dvema krajema ali deloma mesta, med katerima vozi letalo, avtobus ali vlak. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+direktna prometna povezava
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A shuttle 
+</seg>
+je letalo, ki vzdr&zcaron;uje stalno zvezo med dvema krajema ali deloma mesta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+letalo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He caught the nine o&apos;clock shuttle to New York.
+</quote>
+</seg>
+</sense>
+</entry>

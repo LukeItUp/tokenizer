@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+four
+</orth>
+<form type="variant">
+<pron>
+/f*O*:/
+</pron>
+</form>
+<form type="inflected">
+fours.
+</form>
+</form>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+Four 
+</seg>
+je &scaron;tevilka 4. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tiri
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+on all fours
+</seg>
+, se plazi ali naslanja na dlani in kolena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vseh &scaron;tirih
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Claud slipped through the hedge on all fours.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

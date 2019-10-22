@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+glint
+</orth>
+<form type="variant">
+<pron>
+/gl*Int/
+</pron>
+</form>
+<form type="inflected">
+glints, glinting, glinted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+glints
+</seg>
+, ustvarja ali odbija kratek svetlobni &zcaron;arek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lesketati se, svetlikati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His spectacles glinted in the sunlight.
+</quote>
+<quote>
+The sun glinted on the walls.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a glint of metal.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar o&ccaron;i nekega &ccaron;loveka 
+<seg type="lemma">
+glint
+</seg>
+, sijejo in izra&zcaron;ajo dolo&ccaron;eno &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lesketati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her green eyes glinted with mockery.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was an ironic glint in his eyes.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

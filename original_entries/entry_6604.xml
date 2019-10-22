@@ -1,0 +1,443 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+head
+</orth>
+<form type="variant">
+<pron>
+/h*ed/
+</pron>
+</form>
+<form type="inflected">
+heads, heading, headed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s head 
+</seg>
+je tisti del telesa, na katerem so o&ccaron;i in usta, v notranjosti pa mo&zcaron;gani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She shook her head.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The head of something 
+</seg>
+je vrh, za&ccaron;etek ali najpomembnej&scaron;i del ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrh, za&ccaron;etek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Howard stood at the head of the stairs.
+</quote>
+<quote>
+...standing at the head of the queue.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The head of an organization, school, or department 
+</seg>
+je oseba, ki vodi neko organizacijo, &scaron;olo ali oddelek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vodja, predstojnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the head of the English department.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the head gardener.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A coin comes down heads
+</seg>
+, re&ccaron;emo, kadar vr&zcaron;emo kovanec v zrak in pade nazaj tako, da na zgornji strani kovanca vidimo glavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&zcaron;
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+heads a list
+</seg>
+, je na vrhu seznama. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na &ccaron;elu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...with Tower Hamlets heading the list.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To head an organization 
+</seg>
+pomeni biti pristojen za neko organizacijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The firm is headed by John Murray.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neki zapis 
+<seg type="lemma">
+is headed
+</seg>
+, nosi dolo&ccaron;eno ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naslovljen, z naslovom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an article headed &lsquo;An Open Letter to the Prime Minister.&rsquo;
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To head in a particular direction
+</seg>
+ pomeni iti v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameniti se, napotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Julie headed for the cupboard.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be heading for an unpleasant situation 
+</seg>
+pomeni vesti se tako, da bo verjetno nastal neprijeten polo&zcaron;aj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti proti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You may be heading for disaster.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To head a ball 
+</seg>
+pomeni zadeti &zcaron;ogo z glavo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udariti &zcaron;ogo z glavo
+</quote>
+</cit>
+</sense>
+<sense n="11">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+heading
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The cost or amount a head 
+</seg>
+ali 
+<FV>
+per head 
+</FV>
+je cena ali znesek za vsako osebo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na glavo, na osebo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be speaking off the top of one&apos;s head 
+</seg>
+re&ccaron;emo, kadar so podatki, ki jih dajemo, morda neto&ccaron;ni, ker jih nismo imeli &ccaron;asa preveriti ali razmisliti o njih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti na pamet
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be laughing, crying, or shouting one&apos;s head off 
+</seg>
+pomeni smejati se, jokati ali kri&ccaron;ati zelo glasno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+na vso mo&ccaron;, blazno
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To bite 
+</seg>
+ali 
+<FV>
+to snap someone&apos;s head off 
+</FV>
+pomeni zelo jezno govoriti z nekom; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ozmerjati, nadreti, nahruliti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+comes to a head 
+</seg>
+ali 
+<FV>
+is brought to a head
+</FV>
+, dose&zcaron;e stanje, ko moramo nujno nekaj ukreniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i kriti&ccaron;no to&ccaron;ko
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar alkohol 
+<seg type="lemma">
+goes to someone&apos;s head
+</seg>
+, povzro&ccaron;i, da je &ccaron;lovek pijan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti v glavo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar hvala ali uspeh 
+<seg type="lemma">
+goes to someone&apos;s head
+</seg>
+, &ccaron;loveka naredi domi&scaron;ljavega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stopiti v glavo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep one&apos;s head 
+</seg>
+pomeni ostati miren. 
+<FV>
+To lose one&apos;s head 
+</FV>
+pomeni zagnati preplah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ostati miren; izgubiti glavo
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+I cannot make head nor tail of something 
+</seg>
+re&ccaron;emo, kadar ne&ccaron;esa sploh ne razumemo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ne iti v glavo
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

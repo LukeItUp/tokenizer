@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stupid
+</orth>
+<form type="variant">
+<pron>
+/stj*u*:pId/
+</pron>
+</form>
+<form type="inflected">
+stupider, stupidest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+stupid
+</seg>
+, ne zna dobro presojati, ni preve&ccaron; pameten in se ne vede razumno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neumen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have been extremely stupid.
+</quote>
+<quote>
+...a stupid question.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+stupidly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I once stupidly asked him why he smiled so often.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Za nekaj re&ccaron;emo, da je 
+<seg type="lemma">
+stupid
+</seg>
+, &ccaron;e &zcaron;elimo pokazati, da nam ni v&scaron;e&ccaron; ali da nas jezi; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+neumen, trapast, zoprn
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hate these stupid black shoes.
+</quote>
+</seg>
+</sense>
+</entry>

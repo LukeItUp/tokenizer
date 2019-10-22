@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+perilous
+</orth>
+<form type="variant">
+<pron>
+/p*erIl@s/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+perilous
+</seg>
+, je zelo nevarno; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nevaren
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The perilous journey was over.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+perilously
+</orth>
+<gramGrp>
+<pos>
+SUBMOD 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It came perilously close to destruction.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

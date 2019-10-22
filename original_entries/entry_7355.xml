@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+index
+</orth>
+<form type="variant">
+<pron>
+/*Indeks/
+</pron>
+</form>
+<form type="inflected">
+indexes 
+<IS>
+ali 
+</IS>
+<IV>
+indices
+</IV>
+</form>
+<form type="variant">
+<pron>
+/*IndIsi:z/
+</pron>
+</form>
+<IN>
+Pri 1. in 2. pomenu je mno&zcaron;inska oblika obi&ccaron;ajno 
+<IH>
+indexes
+</IH>
+<IC>
+, pri 3. pa 
+</IC>
+<form type="inflected">
+indices
+</form>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An index 
+</seg>
+je abecedni seznam na koncu knjige; v njem je zapisano, kje v knjigi so dolo&ccaron;ene teme obravnavane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazalo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A card index 
+</seg>
+je abecedno urejena skupina karton&ccaron;kov s podatki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kartoteka
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An index 
+</seg>
+je tudi sistem, po katerem lahko primerjamo ali merimo spremembe vrednosti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+indeks
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a 0.3 per cent rise in the wholesale prices index.
+</quote>
+</seg>
+</sense>
+</entry>

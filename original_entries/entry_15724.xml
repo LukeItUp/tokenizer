@@ -1,0 +1,242 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wait
+</orth>
+<form type="variant">
+<pron>
+/w*e*It/
+</pron>
+</form>
+<form type="inflected">
+waits, waiting, waited.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wait 
+</seg>
+pomeni porabiti nekaj &ccaron;asa, preden se nekaj zgodi, tako da delamo zelo malo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He waited patiently for her.
+</quote>
+<quote>
+She had been waiting in the queue to buy some stamps.
+</quote>
+<quote>
+Wait until we sit down.
+</quote>
+<quote>
+Don&apos;t keep him waiting about in the hotel.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+waiting
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a waiting period of one month.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wait 
+</seg>
+je obdobje, preden se nekaj zgodi, v katerem delamo zelo malo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;akanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a long wait.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is waiting for someone
+</seg>
+, je pripravljeno za nekoga, da bo tisto uporabil ali storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have a lot of work waiting.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+can wait
+</seg>
+, tisto lahko obravnavamo pozneje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;akati; lahko po&ccaron;aka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dishes can wait.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wait on people in a restaurant 
+</seg>
+pomeni gostom v restavraciji stre&ccaron;i s hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stre&ccaron;i
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+can&apos;t wait to do something
+</seg>
+, je zaradi ne&ccaron;esa zelo vznemirjen in &zcaron;eljan, da bi tisto storil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komaj &ccaron;akati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He couldn&apos;t wait to tell Judy.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+You wait 
+</seg>
+re&ccaron;emo neki osebi, kadar ji &zcaron;elimo groziti ali jo posvariti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kar po&ccaron;akaj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You wait! You&apos;ll find Robinson isn&apos;t as gentle as he seems.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To wait on someone hand and foot 
+</seg>
+pomeni vedno opravljati delo namesto nekoga drugega, &ccaron;eprav bi ga lahko opravil sam; 
+</def>
+<usg>
+pogosto izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stre&ccaron;i komu spredaj in zadaj
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wait up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To wait up 
+</seg>
+pomeni ne iti v posteljo, ker &ccaron;akamo, da se bo nekdo pozno pono&ccaron;i vrnil domov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bedeti, biti pokonci
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She said that you shouldn&apos;t bother to wait up for her.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wood
+</orth>
+<form type="variant">
+<pron>
+/w*Ud/
+</pron>
+</form>
+<form type="inflected">
+woods.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Wood 
+</seg>
+je snov, iz katere so debla in veje dreves. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+les
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We gathered wood for the fire.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wood 
+</seg>
+je ve&ccaron;je obmo&ccaron;je, kjer drevesa rastejo tesno drugo ob drugem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gozd
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the big wood where the pheasants lived.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Velik gozd lahko imenujemo 
+<seg type="lemma">
+woods
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gozdovi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They walked through the woods.
+</quote>
+</seg>
+</sense>
+</entry>

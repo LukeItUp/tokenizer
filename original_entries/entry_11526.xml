@@ -1,0 +1,121 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rationalize
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;S@0n@laIz/
+</pron>
+</form>
+<form type="inflected">
+rationalizes, rationalizing, rationalized;
+</form>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+rationalise
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To rationalize something 
+</seg>
+pomeni iskati utemeljitev ali pojasnilo za nekaj, s &ccaron;imer nismo zadovoljni ali o &ccaron;emer nismo prepri&ccaron;ani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati opravi&ccaron;ilo/utemeljitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I rationalise my decision by saying that I need the money.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+rationalization
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;S@0n@laIz*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They devise elaborate rationalizations for their behaviour.
+</quote>
+<quote>
+...periodic attempts at rationalization.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar podjetje, sistem ali industrija 
+<seg type="lemma">
+is rationalized
+</seg>
+, postane bolj u&ccaron;inkovita, ker zmanj&scaron;a &scaron;tevilo zaposlenih in se znebi dolo&ccaron;ene opreme. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+racionalizirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+rationalization
+</orth>
+<form type="variant">
+<pron>
+/r*&ae;S@0n@laIz*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the continuing rationalization of the armed forces.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

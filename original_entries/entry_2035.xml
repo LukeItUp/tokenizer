@@ -1,0 +1,170 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+carve
+</orth>
+<form type="variant">
+<pron>
+/k*A*:v/
+</pron>
+</form>
+<form type="inflected">
+carves, carving, carved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To carve an object 
+</seg>
+pomeni izsekati nekaj iz kamna ali izrezati iz lesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klesati; rezbariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The statue was carved by John Gibson.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+carved
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Pat loved the carved Buddhas.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To carve a design on an object 
+</seg>
+pomeni vrezati dolo&ccaron;en vzorec v povr&scaron;ino predmeta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrezati, izrezljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He begins to carve his initials on the tree.
+</quote>
+<quote>
+...an intricately carved door.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To carve meat 
+</seg>
+pomeni rezati rezine z ve&ccaron;jega kosa mesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razrezati
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+carve out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To carve out something for yourself 
+</seg>
+pomeni nekaj ustvariti ali pridobiti, najve&ccaron;krat s te&zcaron;avo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvojiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The company is carving out a huge slice of the electronics market.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+carve up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To carve something up 
+</seg>
+pomeni nekaj razdeliti na manj&scaron;e dele ali kose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razkosati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When the old man died the estate was carved up and sold.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

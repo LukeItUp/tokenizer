@@ -1,0 +1,226 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mad
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;d/
+</pron>
+</form>
+<form type="inflected">
+madder, maddest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+mad
+</seg>
+, je du&scaron;evno bolan in se zato vede nenavadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was married to a man who&apos;d gone mad.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+madness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the terrible madness that overtook the king.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+mad
+</seg>
+, dela ali govori stvari, ki se ljudem zdijo zelo nespametne ali nesmiselne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They think I am mad to live in such a place.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+madness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+It is madness for them to remain unarmed.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+mad 
+</seg>
+opisujemo tudi divje, neobvladano vedenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was dashing around in the usual mad panic.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Lahko re&ccaron;emo, da je nekdo 
+<seg type="lemma">
+mad
+</seg>
+, &ccaron;e je zelo jezen; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+besen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;re mad at me.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+mad about something or someone
+</seg>
+, mu je tista oseba ali stvar zelo v&scaron;e&ccaron;; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nor na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For years he&apos;s been mad about opera.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is driving someone mad
+</seg>
+ ali 
+<seg type="lemma">
+will drive someone mad
+</seg>
+, tistega &ccaron;loveka zelo jezi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spraviti ob &zcaron;ivce
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These blinking kids will drive me mad.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj delamo 
+<seg type="lemma">
+like mad
+</seg>
+, tisto delamo zelo zavzeto ali navdu&scaron;eno; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kot nor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were still arguing like mad.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

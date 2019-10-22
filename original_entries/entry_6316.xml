@@ -1,0 +1,192 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grip
+</orth>
+<form type="variant">
+<pron>
+/gr*Ip/
+</pron>
+</form>
+<form type="inflected">
+grips, gripping, gripped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To grip something 
+</seg>
+pomeni nekaj trdno dr&zcaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgrabiti, stisniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lomax gripped the boy&apos;s arm.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I tightened my grip on the handrail.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A grip on someone or something 
+</seg>
+je obvladovanje nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblast, nadzor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He now took a firm grip on the management side of the newspaper.
+</quote>
+<quote>
+She felt herself in the grip of a sadness she could not understand.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+grips someone
+</seg>
+, na tisto osebo nenadoma za&ccaron;ne mo&ccaron;no vplivati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prijeti, zgrabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He seemed to be gripped by a powerful desire to laugh.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be gripped by something 
+</seg>
+pomeni, da je na&scaron;a pozornost osredoto&ccaron;ena na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pritegniti, zbuditi pozornost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was really gripped by the first few pages.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+gripping
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a gripping film.
+</quote>
+</seg>
+</sense>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get to grips with a problem 
+</seg>
+ali 
+<FV>
+to come to grips with a problem 
+</FV>
+pomeni za&ccaron;eti ukrepati, da bi re&scaron;ili neki problem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spopasti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It&apos;s taken us eighteen years to get to grips with our inadequacies.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be losing one&apos;s grip 
+</seg>
+pomeni postajati manj sposoben za urejanje zadev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgubljati oblast
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

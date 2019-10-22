@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+frost
+</orth>
+<form type="variant">
+<pron>
+/fr*Qst/
+</pron>
+</form>
+<form type="inflected">
+frosts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+There is a frost 
+</seg>
+re&ccaron;emo, kadar zunanja temperatura pade pod ledi&scaron;&ccaron;e in so tla pokrita z ledenimi kristali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slana, zmrzal
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was a touch of frost this morning.
+</quote>
+<quote>
+Even into April the frosts continued.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Frost 
+</seg>
+je tanka plast ledenih kristalov, ki nastanejo na tleh, kadar je zelo mrzlo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmrzal, slana
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The lawn was sparkling with frost.
+</quote>
+</seg>
+</sense>
+</entry>

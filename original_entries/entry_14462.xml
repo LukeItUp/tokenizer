@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+thesis
+</orth>
+<form type="variant">
+<pron>
+/T*i*:sIs/
+</pron>
+</form>
+<form type="inflected">
+theses
+</form>
+<form type="variant">
+<pron>
+/T*i*:si:z/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thesis 
+</seg>
+je ideja ali teorija, ki jo izrazimo kot trditev in katere veljavnost preverimo z logi&ccaron;nim postopkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+teza
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is my thesis that Australia underwent fundamental changes in the 1920s.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A thesis 
+</seg>
+je dalj&scaron;e besedilo, ki temelji na izvirnem raziskovanju in je del pogojev za pridobitev univerzitetne diplome. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is writing a thesis on Jane Austen.
+</quote>
+</seg>
+</sense>
+</entry>

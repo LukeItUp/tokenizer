@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+normally
+</orth>
+<form type="variant">
+<pron>
+/n*O*:m@li1/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj dogaja 
+<seg type="lemma">
+normally
+</seg>
+, se dogaja ponavadi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+normalno, ponavadi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Meetings are normally held three or four times a year.
+</quote>
+<quote>
+I don&apos;t normally drink at lunch.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj dela 
+<seg type="lemma">
+normally
+</seg>
+, tisto dela kot ponavadi in kot ve&ccaron;ina ljudi okoli njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+normalno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The important thing is that she&apos;s eating normally.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,132 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+drill
+</orth>
+<form type="variant">
+<pron>
+/dr*Il/
+</pron>
+</form>
+<form type="inflected">
+drills, drilling, drilled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drill 
+</seg>
+je orodje za vrtanje lukenj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sveder
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+TOOLS
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...an electric drill.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To drill into something 
+</seg>
+ali 
+<seg type="variant">
+to drill a hole in something 
+</seg>
+pomeni v ne&ccaron;em narediti luknjo s svedrom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(iz)vrtati, luknjati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+drill for oil or water
+</seg>
+, i&scaron;&ccaron;ejo nafto ali vodo z vrtanjem globokih lukenj v tla ali morsko dno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrtati
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A drill 
+</seg>
+je tudi na&ccaron;in, kako se ne&ccaron;esa nau&ccaron;imo s ponavljanjem rutinske vaje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rutinsko ponavljanje, mehani&ccaron;no urjenje, dril
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...spelling drills.
+</quote>
+<quote>
+...a fire drill.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The band were as tightly drilled as you might expect.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+invitation
+</orth>
+<form type="variant">
+<pron>
+/*InvIt*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+invitations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An invitation 
+</seg>
+je napisana ali izgovorjena pro&scaron;nja, naj nekdo pride na neko prireditev, na primer na zabavo, obed ali sestanek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povabilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Cindy accepted invitations to cocktail parties.
+</quote>
+<quote>
+I had an invitation to go and talk to the cadets.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Vizitka ali papir, na katerem je napisano povabilo, prav tako imenujemo 
+<seg type="lemma">
+an invitation
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vabilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jenny was waving the invitation.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Vedenje, ki &ccaron;loveka spodbudi, naj nekaj stori, imenujemo 
+<seg type="lemma">
+an invitation
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbuda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Houses left unlocked are an open invitation to burglary.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+table
+</orth>
+<form type="variant">
+<pron>
+/t*e*Ib@0l/
+</pron>
+</form>
+<form type="inflected">
+tables, tabling, tabled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A table 
+</seg>
+je kos pohi&scaron;tva z ravno gornjo povr&scaron;ino, na katero lahko postavljamo stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+miza
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A table 
+</seg>
+je tudi niz podatkov ali &scaron;tevilk, ki so na papirju urejeni v stolpce ali vrstice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preglednica
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To turn the tables on someone 
+</seg>
+pomeni, da polo&zcaron;aj spremenimo tako, da mi za&ccaron;nemo povzro&ccaron;ati te&zcaron;ave nekomu, ki je prej povzro&ccaron;al te&zcaron;ave nam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati vloge s kom, stvari obrniti okoli
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To table a proposal 
+</seg>
+pomeni uradno izraziti &zcaron;eljo, da se o nekem predlogu razpravlja na sestanku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predlo&zcaron;iti v razpravo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...parliamentary questions tabled by Frank Field.
+</quote>
+</seg>
+</sense>
+</entry>

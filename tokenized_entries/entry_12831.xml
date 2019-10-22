@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p692_s759905" id="p692_w469" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="580.392" base="586.8" width="37.5277" height="8.514">shoreline</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p692_s759906" id="p692_w470" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="93.85" y="581.638" base="586.8" width="29.6216" height="6.844">/&#196;&#213;&#194;la&#203;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p692_s759907" id="p692_w471" font-name="ssunivers" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="125.28" y="581.46" base="586.8" width="34.8772" height="7.08">shorelines.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p692_s759908" id="p692_w472" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="161.97" y="582.884" base="586.8" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p692_s759909" id="p692_w473" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="182.189" y="582.884" base="586.8" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p692_s759910" id="p692_w474" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="188.13" y="581.104" base="586.8" width="12.7987" height="7.552">The</TOKEN>
+<TOKEN sid="p692_s759911" id="p692_w475" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="202.747" y="581.104" base="586.8" width="31.0399" height="7.552">shoreline</TOKEN>
+</seg>
+<TOKEN sid="p692_s759912" id="p692_w476" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="235.6" y="581.104" base="586.8" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p692_s759913" id="p692_w477" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="590.334" base="596.03" width="21.2011" height="7.552">kopno</TOKEN>
+<TOKEN sid="p692_s759914" id="p692_w478" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="83.0813" y="590.334" base="596.03" width="8.40168" height="7.552">ob</TOKEN>
+<TOKEN sid="p692_s759915" id="p692_w479" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.1829" y="590.334" base="596.03" width="22.3956" height="7.552">morju,</TOKEN>
+<TOKEN sid="p692_s759916" id="p692_w480" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.278" y="590.334" base="596.03" width="20.79" height="7.552">jezeru</TOKEN>
+<TOKEN sid="p692_s759917" id="p692_w481" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="139.768" y="590.334" base="596.03" width="8.79696" height="7.552">ali</TOKEN>
+<TOKEN sid="p692_s759918" id="p692_w482" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.265" y="590.334" base="596.03" width="19.4184" height="7.552">{iroki</TOKEN>
+<TOKEN sid="p692_s759919" id="p692_w483" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="171.383" y="590.334" base="596.03" width="15.4512" height="7.552">reki.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p692_s759921" id="p692_w485" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.45" y="590.334" base="596.03" width="20.808" height="7.552">obala,</TOKEN>
+<TOKEN sid="p692_s759922" id="p692_w486" font-name="ssexcelsior" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.959" y="590.334" base="596.03" width="24.647" height="7.552">obre`je</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

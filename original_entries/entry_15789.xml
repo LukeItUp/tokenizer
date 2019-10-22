@@ -1,0 +1,381 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wash
+</orth>
+<form type="variant">
+<pron>
+/w*QS/
+</pron>
+</form>
+<form type="inflected">
+washes, washing, washed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wash something 
+</seg>
+pomeni nekaj o&ccaron;istiti z vodo in milom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprati, umiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the clatter of dishes being washed and put away.
+</quote>
+<quote>
+She washes and irons his clothes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Give it a good wash.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The wash 
+</seg>
+so vsa obla&ccaron;ila, ki jih naenkrat operemo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+perilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the average weekly wash.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wash oneself 
+</seg>
+ali 
+<seg type="lemma">
+to wash part of one&apos;s body 
+</seg>
+pomeni o&ccaron;istiti del svojega telesa z milom in vodo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll have to wash.
+</quote>
+<quote>
+First wash your hands.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was having a wash.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar teko&ccaron;ina 
+<seg type="lemma">
+washes somewhere
+</seg>
+, nekam te&ccaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmo&ccaron;iti, namo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The surf washed over her ankles.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj, kar nosi teko&ccaron;ina, 
+<seg type="lemma">
+is washed 
+</seg>
+ali 
+<seg type="lemma">
+washes in a particular direction
+</seg>
+, teko&ccaron;ina tisto odna&scaron;a v dolo&ccaron;eno smer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odplaviti, naplaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The body was washed ashore in Norway.
+</quote>
+<quote>
+Soil from the mountains washes down in the rivers.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wash one&apos;s hands of something 
+</seg>
+pomeni zavrniti, da bi se v nekaj &scaron;e naprej vme&scaron;avali ali za tisto sprejeli odgovornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umiti si roke
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+washing
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wash away.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar poplava 
+<seg type="lemma">
+washes away buildings
+</seg>
+, uni&ccaron;i stavbe in jih odnese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odplaviti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wash down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To wash down food 
+</seg>
+pomeni nekaj spiti, potem ko smo jedli hrano ali medtem ko jo jemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poplakniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a mash of overcooked rice, washed down with the local wine.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wash out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To wash a stain or colour out of something 
+</seg>
+pomeni odstraniti made&zcaron; ali barvo iz ne&ccaron;esa z vodo in milom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oprati, izprati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To wash out a container 
+</seg>
+pomeni pomiti notranjost neke posode. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izprati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+wash up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To wash up 
+</seg>
+pomeni umiti lonce, kro&zcaron;nike, skodelice in jedilni pribor, ki smo ga uporabili pri kuhanju ali pri jedi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomiti posodo
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To wash up 
+</seg>
+pomeni tudi umiti del svojega telesa z milom in vodo, zlasti roke in obraz; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+umiti se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is washed up on a piece of land
+</seg>
+, tisto reka ali morje prinese na dolo&ccaron;en del kopnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naplaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His body was washed up under the bridge at Dakao.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+washing-up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

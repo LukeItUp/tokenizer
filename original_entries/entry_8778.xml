@@ -1,0 +1,164 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+material
+</orth>
+<form type="variant">
+<pron>
+/m@t*I*@rI@l/
+</pron>
+</form>
+<form type="inflected">
+materials.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A material 
+</seg>
+je trdna snov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+snov
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...synthetic substitutes for natural materials.
+</quote>
+<quote>
+...decaying material.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Material 
+</seg>
+je blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+material
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sleeping bags are made of acrylic material.
+</quote>
+<quote>
+...delicate materials, like silk.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Materials 
+</seg>
+so oprema ali stvari, ki jih potrebujemo pri dolo&ccaron;enem opravilu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripomo&ccaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...writing materials.
+</quote>
+<quote>
+...cleaning materials.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Zamisli ali podatke, ki jih uporabimo kot izhodi&scaron;&ccaron;e za knjigo, igro ali film, imenujemo 
+<seg type="lemma">
+material
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gradivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She hoped to find material for some articles.
+</quote>
+<quote>
+They researched a lot of background material.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Stvari, ki so 
+<seg type="lemma">
+material
+</seg>
+, so povezane z lastnino ali denarjem, ne pa s &ccaron;im abstraktnej&scaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+materialen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the material comforts of life.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+materially
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Children can gain materially and psychologically when both parents work.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

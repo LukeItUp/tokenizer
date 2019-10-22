@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mourning
+</orth>
+<form type="variant">
+<pron>
+/m*O*:nIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mourning 
+</seg>
+je vedenje, s katerim &ccaron;lovek poka&zcaron;e, da je &zcaron;alosten zaradi smrti neke osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Beards were shaved off as a sign of mourning.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek je 
+<seg type="lemma">
+in mourning
+</seg>
+, kadar nosi posebna obla&ccaron;ila ali se vede na dolo&ccaron;en na&ccaron;in zato, ker mu je umrl sorodnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;alovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was in mourning for his wife.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

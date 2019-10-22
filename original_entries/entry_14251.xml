@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tart
+</orth>
+<form type="variant">
+<pron>
+/t*A*:t/
+</pron>
+</form>
+<form type="inflected">
+tarts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tart 
+</seg>
+je kos testa z vdolbino na sredini; v njej je sladek nadev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tortica, pita
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...jam tarts.
+</quote>
+<quote>
+Have another slice of tart.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pripomba, ki je 
+<seg type="lemma">
+tart
+</seg>
+, je neprijetna in precej groba; 
+</def>
+<usg>
+besedo uporabljamo v pisnem jeziku.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+jedek, zbadljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She spoke with tart contempt.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tartly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She tartly pointed out that he owed her some money.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

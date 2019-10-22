@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p422_s460930" id="p422_w257" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="308.502" base="314.91" width="22.8413" height="8.514">lately</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p422_s460931" id="p422_w258" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="81.07" y="309.748" base="314.91" width="19.7201" height="6.844">/le&#203;tli</TOKEN>
+<TOKEN sid="p422_s460932" id="p422_w259" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="101.24" y="309.11" base="312.52" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p422_s460933" id="p422_w260" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="103.92" y="309.748" base="314.91" width="4.9816" height="6.844">/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p422_s460934" id="p422_w261" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="112.59" y="310.994" base="314.91" width="11.6701" height="5.192">ADV</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p422_s460935" id="p422_w262" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="127.92" y="309.214" base="314.91" width="22.4496" height="7.552">Lately</TOKEN>
+</seg>
+<TOKEN sid="p422_s460936" id="p422_w263" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="154.04" y="309.214" base="314.91" width="25.6464" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p422_s460937" id="p422_w264" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="183.377" y="309.214" base="314.91" width="4.0032" height="7.552">v</TOKEN>
+<TOKEN sid="p422_s460938" id="p422_w265" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="191.07" y="309.214" base="314.91" width="29.3357" height="7.552">zadnjem</TOKEN>
+<TOKEN sid="p422_s460939" id="p422_w266" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.095" y="309.214" base="314.91" width="17.5579" height="7.552">~asu.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p422_s460941" id="p422_w268" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="66.42" y="318.294" base="323.99" width="30.7987" height="7.552">nedavno;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p422_s460942" id="p422_w269" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="99.2203" y="318.294" base="323.99" width="16.3994" height="7.552">John</TOKEN>
+<TOKEN sid="p422_s460943" id="p422_w270" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="117.62" y="318.294" base="323.99" width="11.5978" height="7.552">has</TOKEN>
+<TOKEN sid="p422_s460944" id="p422_w271" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="131.218" y="318.294" base="323.99" width="24.7932" height="7.552">seemed</TOKEN>
+<TOKEN sid="p422_s460945" id="p422_w272" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="158.011" y="318.294" base="323.99" width="26.7869" height="7.552">worried</TOKEN>
+<TOKEN sid="p422_s460946" id="p422_w273" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="186.798" y="318.294" base="323.99" width="20.7706" height="7.552">lately.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

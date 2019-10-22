@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+impart
+</orth>
+<form type="variant">
+<pron>
+/Imp*A*:t/
+</pron>
+</form>
+<form type="inflected">
+imparts, imparting, imparted;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To impart information to someone 
+</seg>
+pomeni nekomu povedati neki podatek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati, razglasiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had a terrible piece of news to impart.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+imparts a particular quality
+</seg>
+, ne&ccaron;emu da dolo&ccaron;eno lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Carrots impart a delicious flavour to stews.
+</quote>
+</seg>
+</sense>
+</entry>

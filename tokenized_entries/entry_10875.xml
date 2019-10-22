@@ -1,0 +1,40 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p576_s631317" id="p576_w20" font-name="SSUnivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="81.852" base="88.26" width="19.4692" height="8.514">posy</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p576_s631318" id="p576_w21" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="76.47" y="83.098" base="88.26" width="20.5798" height="6.844">/p6&#205;zi</TOKEN>
+<TOKEN sid="p576_s631319" id="p576_w22" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="97.42" y="82.4495" base="85.86" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p576_s631320" id="p576_w23" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="100.05" y="83.098" base="88.26" width="4.9016" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p576_s631321" id="p576_w24" font-name="SSUnivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="107.43" y="82.92" base="88.26" width="22.5005" height="7.08">posies.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p576_s631322" id="p576_w25" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="132.41" y="84.344" base="88.26" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p576_s631323" id="p576_w26" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="153.089" y="84.344" base="88.26" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p576_s631324" id="p576_w27" font-name="SSExcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="159.69" y="82.564" base="88.26" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p576_s631325" id="p576_w28" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="167.771" y="82.564" base="88.26" width="15.5981" height="7.552">posy</TOKEN>
+</seg>
+<TOKEN sid="p576_s631326" id="p576_w29" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="185.85" y="82.564" base="88.26" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p576_s631327" id="p576_w30" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="194.327" y="82.564" base="88.26" width="25.1964" height="7.552">majhen</TOKEN>
+<TOKEN sid="p576_s631328" id="p576_w31" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.004" y="82.564" base="88.26" width="19.5955" height="7.552">{opek</TOKEN>
+<TOKEN sid="p576_s631329" id="p576_w32" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1795" y="91.7936" base="97.4896" width="22.3978" height="7.552">cvetja.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p576_s631331" id="p576_w34" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.82" y="91.794" base="97.49" width="19.5898" height="7.552">{opek</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

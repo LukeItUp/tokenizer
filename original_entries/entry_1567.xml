@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+box office,
+</orth>
+<form type="inflected">
+box offices.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The box office 
+</seg>
+v gledali&scaron;&ccaron;u, kinu ali koncertni dvorani je prostor, kjer prodajajo vstopnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blagajna
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+box office 
+</seg>
+lahko opisujemo tudi stopnjo uspe&scaron;nosti filma, gledali&scaron;ke igre ali igralca, izra&ccaron;unano po &scaron;tevilu prodanih vstopnic. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+finan&ccaron;ni (ne)uspeh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was a very hot box office attraction indeed.
+</quote>
+</seg>
+</sense>
+</entry>

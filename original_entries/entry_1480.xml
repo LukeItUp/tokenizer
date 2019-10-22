@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bombard
+</orth>
+<form type="variant">
+<pron>
+/b*Qmb*A*:d/
+</pron>
+</form>
+<form type="inflected">
+bombards, bombarding, bombarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bombard someone with questions or criticism 
+</seg>
+pomeni nekomu vztrajno postavljati vpra&scaron;anja ali ga kritizirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasipati z vpra&scaron;anji ali kritiko
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki 
+<seg type="lemma">
+bombard a place
+</seg>
+, tisti kraj napadajo z nenehnim obstreljevanjem ali bombami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bombardirati, obstreljevati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+bombardment
+</orth>
+<form type="variant">
+<pron>
+/b*Qmb*A*:dm@2nt/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...increasingly heavy artillery bombardment.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

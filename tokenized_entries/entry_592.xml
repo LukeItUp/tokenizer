@@ -5,7 +5,7 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p29_s30828" id="p29_w265" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.13" y="336.988" base="342.15" width="25.2116" height="6.844">/6pÊÂt/.</TOKEN>
+<TOKEN sid="p29_s30828" id="p29_w265" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="80.13" y="336.988" base="342.15" width="25.2116" height="6.844">/6p&#202;&#194;t/.</TOKEN>
 </pron>
 </form>
 </form>
@@ -17,7 +17,7 @@
 <TOKEN sid="p29_s30831" id="p29_w268" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="126.92" y="338.234" base="342.15" width="10.7187" height="5.192">with</TOKEN>
 </seg>
 <seg type="prep">
-<TOKEN sid="p29_s30832" id="p29_w269" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="139.013" y="338.234" base="342.15" width="13.914" height="5.192">šfrom’</TOKEN>
+<TOKEN sid="p29_s30832" id="p29_w269" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="139.013" y="338.234" base="342.15" width="13.914" height="5.192">&#353;from&#8217;</TOKEN>
 </seg>
 </pos>
 </gramGrp>
@@ -252,7 +252,7 @@
 </quote>
 </seg>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
 <TOKEN sid="p29_s30982" id="p29_w419" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="98.81" y="481.704" base="487.4" width="21.4733" height="7.552">Kadar</TOKEN>
@@ -382,5 +382,5 @@
 </quote>
 </seg>
 </sense>
-</sense>
+</B>
 </entry>

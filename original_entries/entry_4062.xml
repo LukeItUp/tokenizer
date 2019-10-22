@@ -1,0 +1,176 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dispute,
+</orth>
+<form type="inflected">
+disputes, disputing, disputed;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/d*Ispju:t/
+</pron>
+, glagol pa
+<pron>
+/dIspj*u*:t/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dispute 
+</seg>
+je nesporazum ali spor med osebami ali skupinami ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepir, spor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...disputes between unions and employers.
+</quote>
+<quote>
+There is some dispute about this.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e so ljudje 
+<seg type="lemma">
+in dispute
+</seg>
+, se ne strinjajo drug z drugim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v sporu
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+in dispute
+</seg>
+, se ljudje o tistem ne strinjajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sporen
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dispute an opinion 
+</seg>
+pomeni izjaviti, da je po na&scaron;em mnenju nekaj nepravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oporekati, spodbijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't dispute that children need love.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disputed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a disputed decision.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+dispute something
+</seg>
+, se bojujejo za nadzor nad ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prepirati se, prerekati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They continued to dispute the ownership of the territory.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+disputed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the disputed provinces.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

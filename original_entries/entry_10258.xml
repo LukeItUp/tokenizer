@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+passing
+</orth>
+<form type="variant">
+<pron>
+/p*A*:sIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;ustvo, dejavnost ali moda, ki je 
+<seg type="lemma">
+passing
+</seg>
+, traja samo kratek &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+minljiv, be&zcaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the passing whims of her mother.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj omenimo 
+<seg type="lemma">
+in passing
+</seg>
+, tisto omenimo na kratko, ko govorimo ali pi&scaron;emo o ne&ccaron;em drugem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mimogrede
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We can note, in passing, the rapid expansion of private security organisations.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

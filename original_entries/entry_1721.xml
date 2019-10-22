@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bruise
+</orth>
+<form type="variant">
+<pron>
+/br*u*:z/
+</pron>
+</form>
+<form type="inflected">
+bruises, bruising, bruised.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bruise 
+</seg>
+je po&scaron;kodba, ki nastane, kadar z delom telesa kam udarimo in nastanejo modrikaste lise. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+modrica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je del &ccaron;lovekovega telesa 
+<seg type="lemma">
+bruised
+</seg>
+, je udarjen tako, da nastane modrikasta lisa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udarjen, modrikast
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were jostled, bruised, and scratched.
+</quote>
+<quote>
+I bruise easily.
+</quote>
+</seg>
+</sense>
+</entry>

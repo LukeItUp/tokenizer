@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+interpret
+</orth>
+<form type="variant">
+<pron>
+/Int*$e*:prIt/
+</pron>
+</form>
+<form type="inflected">
+interprets, interpreting, interpreted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To interpret something in a particular way 
+</seg>
+pomeni spoznati, da je zna&ccaron;aj ali pomen ne&ccaron;esa tak in ni&ccaron; druga&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlagati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m not quite sure how to interpret that question.
+</quote>
+<quote>
+The election result is being interpreted as a serious setback for the government.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To interpret what someone is saying 
+</seg>
+pomeni takoj prevesti tisto, kar nekdo govori, v drug jezik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tolma&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He interpreted the opening words of section 16.
+</quote>
+<quote>
+Paul had to interpret for us.
+</quote>
+</seg>
+</sense>
+</entry>

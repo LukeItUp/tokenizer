@@ -1,0 +1,43 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+first-hand.
+</orth>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Podatke ali izku&scaron;nje, ki so 
+<seg type="lemma">
+first-hand
+</seg>
+, pridobimo neposredno in ne od drugih ali iz knjig. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz prve roke, neposreden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They have first-hand experience of charitable organizations.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This sort of experience can only be gained first-hand.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

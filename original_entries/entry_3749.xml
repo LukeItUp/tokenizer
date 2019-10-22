@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+despite
+</orth>
+<form type="variant">
+<pron>
+/dI2sp*a*It/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+despite 
+</seg>
+napovemo dejstvo, zaradi katerega je nadaljevanje stavka presenetljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kljub
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Despite the difference in their ages they were close friends.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PREP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj stori 
+<seg type="lemma">
+despite himself
+</seg>
+, tisto stori, &ccaron;eprav v resnici ni nameraval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+proti svoji volji, v nasprotju s (svojimi) pri&ccaron;akovanji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rose, despite herself, had to admit that she was impressed.
+</quote>
+</seg>
+</sense>
+</entry>

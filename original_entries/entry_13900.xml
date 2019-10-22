@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+subsidiary
+</orth>
+<form type="variant">
+<pron>
+/s@bs*Idj@ri1/
+</pron>
+</form>
+<form type="inflected">
+subsidiaries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+subsidiary
+</seg>
+, je manj pomembno kot nekaj drugega, s &ccaron;imer je povezano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stranski, pomo&zcaron;en, drugoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Department offers a course in Opera Studies as a subsidiary subject.
+</quote>
+<quote>
+I tried to discuss this and some subsidiary questions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A subsidiary 
+</seg>
+je podjetje, ki je del ve&ccaron;jega podjetja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podru&zcaron;nica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The British company is a subsidiary of Racal Electronics.
+</quote>
+</seg>
+</sense>
+</entry>

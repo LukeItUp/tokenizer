@@ -1,0 +1,76 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+indictment
+</orth>
+<form type="variant">
+<pron>
+/Ind*a*Itm@nt/
+</pron>
+</form>
+<form type="inflected">
+indictments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je neko dejstvo ali polo&zcaron;aj 
+<seg type="lemma">
+an indictment of something
+</seg>
+, ho&ccaron;emo povedati, da ka&zcaron;e, kako slaba je tista stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It is a striking indictment of our educational system that so many children cannot read or write.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An indictment 
+</seg>
+je obto&zcaron;ba proti neki osebi, ki naj bi storila zlo&ccaron;in; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+obto&zcaron;nica, obto&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The indictment was read to the jury.
+</quote>
+<quote>
+Robbins is under indictment for fraud.
+</quote>
+</seg>
+</sense>
+</entry>

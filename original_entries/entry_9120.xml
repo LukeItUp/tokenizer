@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mob
+</orth>
+<form type="variant">
+<pron>
+/m*Qb/
+</pron>
+</form>
+<form type="inflected">
+mobs, mobbing, mobbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mob 
+</seg>
+je velika, neorganizirana skupina ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mno&zcaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The police faced a mob throwing bricks and petrol bombs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar skupina ljudi 
+<seg type="lemma">
+mobs someone
+</seg>
+, se zbere okoli tistega &ccaron;loveka in neorganizirano izra&zcaron;a svoja &ccaron;ustva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblegati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Pop stars are always moaning about being mobbed by their fans.
+</quote>
+</seg>
+</sense>
+</entry>

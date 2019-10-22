@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+seek
+</orth>
+<form type="variant">
+<pron>
+/s*i*:k/
+</pron>
+</form>
+<form type="inflected">
+seeks, seeking, sought
+</form>
+<form type="variant">
+<pron>
+/s*O*:t/
+</pron>
+;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seek something 
+</seg>
+pomeni posku&scaron;ati nekaj najti in si tisto zagotoviti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Thousands of people were seeking food and shelter.
+</quote>
+<quote>
+I was seeking the help of someone who spoke French.
+</quote>
+<quote>
+Books are eagerly sought for and sold on the streets.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To seek to do something 
+</seg>
+pomeni posku&scaron;ati tisto narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posku&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Power stations are seeking to reduce their use of oil.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+seek out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To seek out someone or something 
+</seg>
+pomeni nekoga ali nekaj iskati toliko &ccaron;asa, dokler tistega ne najdemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poiskati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

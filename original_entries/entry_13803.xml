@@ -1,0 +1,148 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stride
+</orth>
+<form type="variant">
+<pron>
+/str*a*Id/
+</pron>
+</form>
+<form type="inflected">
+strides, striding, strode
+</form>
+<form type="variant">
+<pron>
+/str*@*Ud/
+</pron>
+</form>
+<form type="inflected">
+stridden
+</form>
+<form type="variant">
+<pron>
+/str*Id@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To stride somewhere 
+</seg>
+pomeni iti nekam s hitrimi, dolgimi koraki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korakati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Louisa watched him striding across the lawn.
+</quote>
+<quote>
+He was striding out of the entrance.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stride 
+</seg>
+je dolg premik noge, ki ga naredimo, ko hodimo ali te&ccaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the length of each stride.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stride 
+</seg>
+je tudi hoja z dolgimi koraki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+korak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She walked ahead with her purposeful stride.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make strides in something that one is doing 
+</seg>
+pomeni hitro napredovati pri ne&ccaron;em, kar delamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti velike korake, dose&ccaron;i velik napredek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+On the question of pay, giant strides have been made.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To take a difficult situation in one&apos;s stride 
+</seg>
+pomeni, da &ccaron;lovek v zahtevnem polo&zcaron;aju deluje mirno in ga brez te&zcaron;av razre&scaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlahka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She takes examinations in her stride.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,933 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fall
+</orth>
+<form type="variant">
+<pron>
+/f*O*:l/
+</pron>
+</form>
+<form type="inflected">
+falls, falling, fell
+</form>
+<form type="variant">
+<pron>
+/f*el/
+</pron>
+</form>
+<form type="inflected">
+fallen
+</form>
+<form type="variant">
+<pron>
+/f*O*:l@n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+falls 
+</seg>
+ali 
+<seg type="lemma">
+falls down
+</seg>
+, se naglo pomika proti tlom ali pade na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cup fell from her hand and shattered on the floor.
+</quote>
+<quote>
+Tears fell from Mother&apos;s eyes.
+</quote>
+<quote>
+Part of the ceiling fell down.
+</quote>
+<quote>
+The snow was still falling.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He was rushed to hospital after a 40-foot fall.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj, kar stoji pokonci, 
+<seg type="lemma">
+falls 
+</seg>
+ali 
+<seg type="lemma">
+falls down 
+</seg>
+ali 
+<seg type="lemma">
+falls over
+</seg>
+, se po nesre&ccaron;i premakne ali ga nekdo porine, da oble&zcaron;i na tleh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She lost her balance and fell.
+</quote>
+<quote>
+He tripped and fell down.
+</quote>
+<quote>
+...a falling tree.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+fallen
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...to rescue people trapped inside fallen buildings.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek na visokem polo&zcaron;aju 
+<seg type="lemma">
+falls
+</seg>
+, nenadoma izgubi svoj polo&zcaron;aj. Kadar neki kraj 
+<seg type="lemma">
+falls in a war or election
+</seg>
+, sovra&zcaron;nik ali druga politi&ccaron;na stranka prevzame oblast v tistem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The regime had fallen.
+</quote>
+<quote>
+Greater London will fall to Labour.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+This led to the Government&apos;s fall.
+</quote>
+<quote>
+...the fall of France.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+falls in battle
+</seg>
+, je ubit v boju; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+falls in amount, value, or strength
+</seg>
+, se zmanj&scaron;a njegova koli&ccaron;ina, vrednost ali mo&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The value of the dollar has fallen.
+</quote>
+<quote>
+Their voices could be heard rising and falling.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a fall in moral standards.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+falling
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Some nations were uneasy about their falling birth rates.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar no&ccaron; ali tema 
+<seg type="lemma">
+falls
+</seg>
+, postane temno in se za&ccaron;ne no&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spustiti se
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar svetloba ali senca 
+<seg type="lemma">
+falls on something
+</seg>
+, tisto prekrije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A shadow fell over her book and she looked up.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar na&scaron;e o&ccaron;i 
+<seg type="lemma">
+fall on something
+</seg>
+, nekaj nenadoma zagledamo ali opazimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zagledati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His gaze fell on a small white bundle.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ti&scaron;ina ali ob&ccaron;utek &zcaron;alosti ali utrujenosti 
+<seg type="lemma">
+falls on a group of people
+</seg>
+, tista skupina ljudi postane tiha, &zcaron;alostna ali utrujena; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zajeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An expectant hush fell on the gathering.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+to fall 
+</seg>
+povemo, da nekdo ali nekaj preide v druga&ccaron;no stanje. Na primer, kadar nekdo 
+<seg type="lemma">
+falls ill
+</seg>
+, zboli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After a while I fell asleep.
+</quote>
+<quote>
+The crowd fell silent.
+</quote>
+<quote>
+He fell in love with her.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall into a particular group or category 
+</seg>
+pomeni pripadati neki skupini ali kategoriji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soditi, spadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Human beings fall into two types.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Slap lahko imenujemo 
+<seg type="lemma">
+the falls
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slap, slapovi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Niagara Falls.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The fall 
+</seg>
+ima enak pomen kot 
+<seg type="lemma">
+autumn
+</seg>
+; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+jes&eacute;n
+</quote>
+</cit>
+</sense>
+<sense n="14">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+fall flat: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+flat
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fall apart.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+falls apart
+</seg>
+, se razlomi na kosce, ker je staro ali slabo izdelano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cheap beds that fell apart.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar neka organizacija ali sistem 
+<seg type="lemma">
+falls apart
+</seg>
+, postaneta neorganizirana in nesposobna za u&ccaron;inkovito delovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpasti, propasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The nation is falling apart.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall back 
+</seg>
+pomeni hitro se odmakniti od nekoga ali ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umakniti se; odsko&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I saw my husband fall back in horror.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall back on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall back on something 
+</seg>
+pomeni nekaj narediti ali uporabiti, potem ko je vse drugo spodletelo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zate&ccaron;i se, zadovoljiti se, sprijazniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Often you give up and fall back on easier solutions.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall behind.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall behind 
+</seg>
+pomeni ne napredovati ali iti naprej tako hitro kot drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaostati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...children who fall behind with their reading.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+fall 1, 2
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall for.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To fall for someone 
+</seg>
+pomeni za&ccaron;utiti mo&ccaron;no privla&ccaron;nost do nekoga in ga za&ccaron;eti ljubiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaljubiti se v nekoga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Richard fell for her the moment he set eyes on her.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fall for a lie or trick 
+</seg>
+pomeni verjeti la&zcaron;i ali potegav&scaron;&ccaron;ini; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+nasesti, biti opeharjen, iti (komu) na led
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The working class were not going to fall for this one.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar streha ali strop 
+<seg type="lemma">
+falls in
+</seg>
+, se sesede in pade na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti se
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall in with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To fall in with an idea, plan, or system 
+</seg>
+pomeni sprejeti zamisel, na&ccaron;rt ali sistem in se ne potruditi, da bi jih spremenili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strinjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Instead of challenging the lie, she falls in with it.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar stopnja, koli&ccaron;ina ali obrok ne&ccaron;esa 
+<seg type="lemma">
+falls off
+</seg>
+, se zmanj&scaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upasti, skr&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We knew that the numbers of overseas students would fall off drastically.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovekov las ali zob 
+<seg type="lemma">
+falls out
+</seg>
+, se zrahlja in lo&ccaron;i od telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izpasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After about two weeks, the victim&apos;s hair starts to fall out.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To fall out with someone 
+</seg>
+pomeni spreti se z nekom, da nista ve&ccaron; prijatelja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+raziti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ve fallen out with certain members of the band.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+fallout
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+fall 2
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neki dogovor 
+<seg type="lemma">
+falls through
+</seg>
+, se ne uresni&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodleteti, izjaloviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We wanted to book a villa but it fell through.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+fall to.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar odgovornost ali dol&zcaron;nost 
+<seg type="lemma">
+falls to someone
+</seg>
+, postane odgovornost ali dol&zcaron;nost tistega &ccaron;loveka; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pripasti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It fell to Philip to act the part of host.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

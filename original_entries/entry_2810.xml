@@ -1,0 +1,124 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+conflict,
+</orth>
+<form type="inflected">
+conflicts, conflicting, conflicted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/k*QnflIkt/
+</pron>
+, glagol pa 
+<pron>
+/k@7nfl*Ikt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Conflict 
+</seg>
+je nesporazum in prepir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spor, navzkri&zcaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the familiar conflict between government and opposition.
+</quote>
+<quote>
+...a number of conflicts in the engineering industry.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A conflict 
+</seg>
+je vojna ali bitka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+boj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A conventional conflict might escalate to a nuclear confrontation.
+</quote>
+<quote>
+Europe was encircled by conflict.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ideje, zanimanja ali ra&ccaron;uni 
+<seg type="lemma">
+conflict
+</seg>
+, se mo&ccaron;no razlikujejo in je videti nemogo&ccaron;e, da bi lahko obstajali skupaj ali bili vsi resni&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nasprotovati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There is some research that conflicts with this view.
+</quote>
+<quote>
+These criteria might undoubtedly conflict.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+conflicting
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The evidence seems to be conflicting.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

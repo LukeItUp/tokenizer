@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mutate
+</orth>
+<form type="variant">
+<pron>
+/mju:t*e*It/
+</pron>
+</form>
+<form type="inflected">
+mutates, mutating, mutated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &zcaron;ival ali rastlina 
+<seg type="lemma">
+mutates
+</seg>
+, zaradi spremembe v genih razvije druga&ccaron;ne zna&ccaron;ilnosti; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mutirati
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+mutated
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a mutated flu virus.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+mutation
+</orth>
+<form type="variant">
+<pron>
+/mju:t*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The rate at which mutations occur is fairly regular.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

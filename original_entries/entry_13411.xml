@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sphere
+</orth>
+<form type="variant">
+<pron>
+/sf*I*@/
+</pron>
+</form>
+<form type="inflected">
+spheres.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sphere 
+</seg>
+je okroglo tridimenzionalno telo, kot na primer &zcaron;oga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krogla
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+SHAPES.
+</QZ>
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sphere of activity or interest 
+</seg>
+je skupna vsebina stvari, ki jih &ccaron;lovek dela ali ga zanimajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podro&ccaron;je
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He works in the sphere of race relations.
+</quote>
+</seg>
+</sense>
+</entry>

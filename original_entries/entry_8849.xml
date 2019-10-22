@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+medical
+</orth>
+<form type="variant">
+<pron>
+/m*edIk@0l/
+</pron>
+</form>
+<form type="inflected">
+medicals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+medical 
+</seg>
+se uporablja v zvezi z zdravljenjem bolezni in po&scaron;kodb ter prepre&ccaron;evanjem bolezni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravni&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had to undergo medical treatment.
+</quote>
+<quote>
+...the medical care of babies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A medical 
+</seg>
+je temeljit pregled telesa, ki ga opravi zdravnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravni&scaron;ki pregled
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were all set to give him a medical.
+</quote>
+</seg>
+</sense>
+</entry>

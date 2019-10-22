@@ -15,9 +15,9 @@ advises, advising, advised.
 <sense n="1">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
@@ -26,8 +26,7 @@ OBJ
 <seg type="lemma">
 To advise someone to do something
 </seg>
-pomeni
-nekomu povedati, kaj mislimo, da bi moral storiti.
+ pomeni nekomu povedati, kaj mislimo, da bi moral storiti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -49,18 +48,18 @@ I would strongly advise you against it.
 <sense n="2">
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with or without
+with or without 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-To advise people on a particular subject
+To advise people on a particular subject 
 </seg>
-pomeni ljudem posredovati podatke in pomo&#269; pri dolo&#269;eni temi.
+pomeni ljudem posredovati podatke in pomo&ccaron; pri dolo&ccaron;eni temi. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -69,8 +68,7 @@ svetovati
 </cit>
 <seg type="example">
 <quote>
-A panel of bishops has been appointed to advise on matters of religious
-policy.
+A panel of bishops has been appointed to advise on matters of religious policy.
 </quote>
 </seg>
 </sense>

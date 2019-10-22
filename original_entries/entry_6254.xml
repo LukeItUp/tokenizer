@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+grass
+</orth>
+<form type="variant">
+<pron>
+/gr*A*:s/
+</pron>
+</form>
+<form type="inflected">
+grasses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Grass 
+</seg>
+je zelo raz&scaron;irjena rastlina z ozkimi listi, ki prekriva dolo&ccaron;eno povr&scaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They lay on the grass.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Grasses 
+</seg>
+so razli&ccaron;ne vrste trave, zlasti take, ki rastejo v divjini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trave
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...prairie grasses.
+</quote>
+</seg>
+</sense>
+</entry>

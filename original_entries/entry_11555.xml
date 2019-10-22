@@ -1,0 +1,353 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+read,
+</orth>
+<form type="inflected">
+reads, reading.
+</form>
+<IN>
+Kadar je 
+<IH>
+read 
+</IH>
+<IC>
+oblika za sedanjik, jo izgovarjamo 
+</IC>
+<pron>
+/r*i*:d/
+</pron>
+<IC>
+, kadar pa je oblika za preteklik in pretekli dele&zcaron;nik, jo izgovarjamo 
+</IC>
+<pron>
+/r*ed/
+</pron>
+.
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To read something 
+</seg>
+pomeni gledati nekaj, kar je zapisano z besedami ali znamenji, in razumeti vsebino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Have you read that article?
+</quote>
+<quote>
+I remember reading about it in the paper.
+</quote>
+<quote>
+I have never been able to read music.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To read 
+</seg>
+ali 
+<seg type="lemma">
+to read something out 
+</seg>
+pomeni naglas povedati zapisane besede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebrati naglas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could you just read out this next paragraph?
+</quote>
+<quote>
+Shall I read to you?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ko govorimo o tem, kako dolo&ccaron;eno besedilo 
+<seg type="lemma">
+reads
+</seg>
+, imamo v mislih slog, v katerem je napisano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brati se, zveneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It read like a translation from the Latin.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+read 
+</seg>
+povemo tudi, kaj je nekje napisano. Na primer: 
+<seg type="lemma">
+a notice reads 
+<seg type="lemma">
+Exit
+</seg>
+</seg>
+ pomeni, da je na obvestilu napisana beseda 
+<seg type="lemma">
+Exit
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasiti se, biti napisano
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To read someone&apos;s moods or mind 
+</seg>
+pomeni, da znamo ugotoviti, kaj nekdo misli ali kako se po&ccaron;uti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brati misli, uganiti misli ali razpolo&zcaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He so often reads my thoughts.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To read a meter or gauge 
+</seg>
+pomeni pogledati na &scaron;tevec in z njega prepisati podatek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+od&ccaron;itati
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar merilna naprava 
+<seg type="lemma">
+reads a particular amount
+</seg>
+, z nje lahko od&ccaron;itamo dolo&ccaron;eno vrednost ali koli&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The thermometers are reading 108 degrees in the shade.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To read a subject at university 
+</seg>
+pomeni biti vpisan na dolo&ccaron;eno &scaron;tudijsko smer na univerzi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tudirati
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+reading
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To read between the lines 
+</seg>
+pomeni razumeti, kaj nekdo v resnici misli, &ccaron;eprav tega ne pove naravnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brati med vrsticami
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Knjiga ali revija je 
+<seg type="lemma">
+a good read
+</seg>
+, &ccaron;e u&zcaron;ivamo, ko jo beremo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dobro branje
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+read into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To read a meaning into something
+</seg>
+ pomeni, da mislimo, da dolo&ccaron;ena stvar nekaj pomeni, &ccaron;eprav to morda ni res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlagati si kot
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+read up on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To read up on a subject 
+</seg>
+pomeni veliko brati o dolo&ccaron;enem podro&ccaron;ju, tako da ga temeljito spoznamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veliko brati o ne&ccaron;em
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

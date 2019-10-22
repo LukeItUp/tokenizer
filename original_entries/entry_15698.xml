@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+vow
+</orth>
+<form type="variant">
+<pron>
+/v*a*U/
+</pron>
+</form>
+<form type="inflected">
+vows, vowing, vowed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To vow to do something 
+</seg>
+pomeni slovesno obljubiti, da bomo nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prise&ccaron;i, (za)obljubiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He vowed never to let it happen again.
+</quote>
+<quote>
+He vowed that he would ride at my side.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A vow 
+</seg>
+je slovesna obljuba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaobljuba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She made a vow to give up smoking.
+</quote>
+</seg>
+</sense>
+</entry>

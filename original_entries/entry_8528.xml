@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lumber
+</orth>
+<form type="variant">
+<pron>
+/l*Vmb@/
+</pron>
+</form>
+<form type="inflected">
+lumbers, lumbering, lumbered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Lumber 
+</seg>
+je grobo nasekan les; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+stavbni les
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...piles of lumber.
+</quote>
+<quote>
+...a lumber company.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lumber around 
+</seg>
+pomeni premikati se po&ccaron;asi in okorno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ko se premikati, vle&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lumbered upstairs looking for the bathroom.
+</quote>
+<quote>
+Donkeys lumbered by.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+lumber with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+lumbered with a task
+</seg>
+, je prisiljen opraviti neko nalogo, &ccaron;eprav tega ne &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obremeniti, nalo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Women are still lumbered with the cooking and cleaning.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

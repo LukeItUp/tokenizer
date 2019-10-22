@@ -15,28 +15,26 @@ audits, auditing, audited.
 <sense>
 <gramGrp>
 <pos>
-VB
+VB 
 <seg>
-with
+with 
 </seg>
 OBJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kadar revizor
+Kadar revizor 
 <seg type="lemma">
-audits an organization's
-accounts
+audits an organization's accounts
 </seg>
-uradno pregleda ra&#269;une nekega podjetja, da se prepri&#269;a o
-njihovi pravilnosti.
+, uradno pregleda ra&ccaron;une nekega podjetja, da se prepri&ccaron;a o njihovi pravilnosti. 
 </def>
 <cit type="translationEquivalent">
 <quote>
 opraviti revizijo
 </quote>
 </cit>
-<sense value="morph">
+<T>
 <gramGrp>
 <pos>
 COUNT N
@@ -47,6 +45,6 @@ COUNT N
 We're going to conduct a full audit.
 </quote>
 </seg>
-</sense>
+</T>
 </sense>
 </entry>

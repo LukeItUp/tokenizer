@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+beseech
+</orth>
+<form type="variant">
+<pron>
+/bi1s*i*:tS/
+</pron>
+</form>
+<form type="inflected">
+beseeches, beseeching, beseeched 
+<IS>
+ali 
+</IS>
+<IV>
+besought 
+</IV>
+<pron>
+/bi1s*O*:t/
+</pron>
+.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To beseech someone to do something 
+</seg>
+pomeni nekoga za nekaj vztrajno in obupano prositi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+rotiti, moledovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I beseech you to tell me.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+beseeching
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She was staring at me with great beseeching eyes.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+beseechingly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Larsen looked beseechingly at Rudolph.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,199 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+strip
+</orth>
+<form type="variant">
+<pron>
+/str*Ip/
+</pron>
+</form>
+<form type="inflected">
+strips, stripping, stripped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A strip of something 
+</seg>
+je dolg, ozek kos ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trak, pas
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a thin strip of paper.
+</quote>
+<quote>
+There was only a narrow strip of beach.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strip 
+</seg>
+pomeni odstraniti obla&ccaron;ila s telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sle&ccaron;i se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strip someone or something 
+</seg>
+pomeni odstraniti obla&ccaron;ila z nekoga ali zunanji ovoj z ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sle&ccaron;i; odviti, olupiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Before the ship sailed they were stripped and searched.
+</quote>
+<quote>
+The wind stripped the tree of all its leaves.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strip property or rights from someone
+</seg>
+ pomeni nekomu vzeti lastnino ali pravice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvzeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was stripped of all her property and possessions.
+</quote>
+<quote>
+They were stripping away my remaining pension rights.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A comic strip 
+</seg>
+je niz sli&ccaron;ic, ki pripovedujejo dolo&ccaron;eno zgodbo. V njih je pogosto vpisano, kaj govorijo osebe v zgodbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strip
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tear a strip off someone 
+</seg>
+ali 
+<FV>
+to tear someone off a strip 
+</FV>
+pomeni nekoga zelo okregati; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dati iz ko&zcaron;e
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+strip off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To strip off clothing 
+</seg>
+pomeni odstraniti obla&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sle&ccaron;i, potegniti dol
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Casson stripped off his raincoat.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

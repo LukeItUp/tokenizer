@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tint
+</orth>
+<form type="variant">
+<pron>
+/t*Int/
+</pron>
+</form>
+<form type="inflected">
+tints, tinted, tinting.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tint 
+</seg>
+je majhna koli&ccaron;ina barve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtenek, nadih
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His eyes had a yellow tint.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To tint one&apos;s hair 
+</seg>
+pomeni spremeniti barvo las tako, da jih nekoliko obarvamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niansirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He acquired a preparation for tinting his hair chestnut brown.
+</quote>
+</seg>
+</sense>
+</entry>

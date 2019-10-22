@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p555_s608304" id="p555_w930" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="526.382" base="532.79" width="38.4699" height="8.514">physician</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p555_s608305" id="p555_w931" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="295.55" y="527.628" base="532.79" width="20.3798" height="6.844">/f&#203;z&#203;&#196;6</TOKEN>
+<TOKEN sid="p555_s608306" id="p555_w932" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="316.25" y="526.99" base="530.4" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p555_s608307" id="p555_w933" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="318.89" y="527.628" base="532.79" width="9.2516" height="6.844">n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p555_s608308" id="p555_w934" font-name="ssunivers" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="330.07" y="527.45" base="532.79" width="35.6333" height="7.08">physicians.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p555_s608309" id="p555_w935" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="367.63" y="528.874" base="532.79" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p555_s608310" id="p555_w936" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="387.929" y="528.874" base="532.79" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p555_s608311" id="p555_w937" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="393.98" y="527.094" base="532.79" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p555_s608312" id="p555_w938" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="401.512" y="527.094" base="532.79" width="32.7902" height="7.552">physician</TOKEN>
+</seg>
+<TOKEN sid="p555_s608313" id="p555_w939" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.23" y="527.094" base="532.79" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p555_s608314" id="p555_w940" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="536.174" base="541.87" width="32.3885" height="7.552">zdravnik;</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p555_s608315" id="p555_w941" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="295.197" y="536.174" base="541.87" width="31.1875" height="7.552">ameri{ka</TOKEN>
+<TOKEN sid="p555_s608316" id="p555_w942" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="328.384" y="536.174" base="541.87" width="17.5982" height="7.552">raba.</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p555_s608318" id="p555_w944" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="354.23" y="536.174" base="541.87" width="30.3883" height="7.552">zdravnik</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

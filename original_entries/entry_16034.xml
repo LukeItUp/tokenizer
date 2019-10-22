@@ -1,0 +1,294 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+will
+</orth>
+<form type="variant">
+<pron>
+/w*Il/
+</pron>
+</form>
+<form type="inflected">
+wills, willing, willed.
+</form>
+<LN>
+Obi&ccaron;ajna oblika od &lsquo;will not&rsquo; je v govoru &lsquo;won&apos;t&rsquo;.
+</LN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekaj 
+<seg type="lemma">
+will happen
+</seg>
+, ho&ccaron;emo povedati, da se bo zgodilo v prihodnosti. 
+</def>
+<seg type="example">
+<quote>
+Inflation is rising and will continue to rise.
+</quote>
+<quote>
+Perhaps this time it won&apos;t rain.
+</quote>
+<quote>
+Perhaps when I am fifty I will have forgotten.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da nekdo 
+<seg type="lemma">
+will do something
+</seg>
+, ho&ccaron;emo povedati, da dolo&ccaron;en &ccaron;lovek namerava nekaj storiti ali pa je zanj sprejemljivo. 
+</def>
+<seg type="example">
+<quote>
+I will never betray you.
+</quote>
+<quote>
+People won&apos;t admit that they can&apos;t read.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+will 
+</seg>
+uporabimo v ponudbah, vabilih ali zahtevah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Will you have a whisky, Doctor?
+</quote>
+<quote>
+Will you do me a favour?
+</quote>
+<quote>
+Will you shut up!
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+will 
+</seg>
+tudi povemo, da je nekdo ali nekaj sposoben nekaj storiti. 
+</def>
+<seg type="example">
+<quote>
+This will cure anything.
+</quote>
+<quote>
+The car won&apos;t go.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+MODAL
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+will 
+</seg>
+tudi povemo, da sklepamo ali domnevamo, da je nekaj res, ker je verjetno ali navadno tako. 
+</def>
+<seg type="example">
+<quote>
+You will probably already be a member of a union.
+</quote>
+<quote>
+You will already have gathered that I don&apos;t like her.
+</quote>
+<quote>
+The bonus will usually be paid automatically.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Will 
+</seg>
+je odlo&ccaron;enost, da bomo nekaj storili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volja, hotenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lacked will and ambition.
+</quote>
+<quote>
+Their marriage became a fierce battle of wills.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+free will
+</ref>
+</xr>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+the will of a person or group of people
+</seg>
+, neka oseba ali skupina oseb, ki imajo vpliv ali oblast, &zcaron;elijo, da bi se nekaj zgodilo; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+volja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I must abide by the will of the people.
+</quote>
+<quote>
+It is the will of Allah.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To will something to happen 
+</seg>
+pomeni z du&scaron;evnim in ne telesnim naporom poskusiti dose&ccaron;i, da bi se nekaj zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I willed my trembling legs to walk straight.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar lahko nekaj storimo 
+<seg type="lemma">
+at will
+</seg>
+, tisto lahko storimo, kadarkoli &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po volji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Chang told us that we could wander around at will.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A will 
+</seg>
+je uradna listina, v kateri pi&scaron;e, kaj &zcaron;elimo, da se zgodi z na&scaron;im denarjem in lastnino po na&scaron;i smrti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oporoka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Has Des made a will?
+</quote>
+</seg>
+</sense>
+</entry>

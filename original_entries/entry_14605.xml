@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tissue
+</orth>
+<form type="variant">
+<pron>
+/t*Isju:, t*ISu:/
+</pron>
+</form>
+<form type="inflected">
+tissues.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+MASS N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tissue 
+</seg>
+je snov v telesu &zcaron;ivali in rastlin, sestavljena iz celic, ki so si podobne po videzu in delovanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tkivo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...scar tissue.
+</quote>
+<quote>
+...living tissues.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tissue 
+</seg>
+ali 
+<seg type="variant">
+tissue paper 
+</seg>
+je tanek papir, v katerega zavijamo stvari, ki se lahko hitro po&scaron;kodujejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tanek (svilen) papir
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tissue 
+</seg>
+je majhen pravokoten kos papirja, ki ga uporabljamo kot rob&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+papirni rob&ccaron;ek
+</quote>
+</cit>
+</sense>
+</entry>

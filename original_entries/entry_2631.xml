@@ -1,0 +1,199 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+command
+</orth>
+<form type="variant">
+<pron>
+/k@m*A*:nd/
+</pron>
+</form>
+<form type="inflected">
+commands, commanding, commanded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To command someone to do something 
+</seg>
+pomeni nekomu ukazati, naj nekaj stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukazati, zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Stay here!&rsquo; he commanded.
+</quote>
+<quote>
+She commanded me to lie down and relax.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They waited for their master's command.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To command something 
+</seg>
+pomeni nekaj ukazati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zahtevati, odrediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The king had commanded his presence at court.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To command something
+</seg>
+ pomeni dobiti poslu&scaron;nost ali pozornost zaradi svoje priljubljenosti ali pomembnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti na voljo, pri&ccaron;akovati, zahtevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was no longer in a position to command obedience or admiration.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To command part of an army, navy, or air force
+</seg>
+ pomeni voditi neki voja&scaron;ki oddelek kopenskih, pomorskih ali zra&ccaron;nih sil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poveljevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He commanded a regiment of cavalry in Algiers.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He had been in command of HMS Churchill for a year.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Command 
+</seg>
+je nadzor nad dolo&ccaron;enimi okoli&scaron;&ccaron;inami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oblast, obvladovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lady Sackville took command.
+</quote>
+<quote>
+He was looking more relaxed and in command than ever before.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's command of something 
+</seg>
+je &ccaron;lovekovo poznavanje ne&ccaron;esa in sposobnost, da tisto uporablja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obvladovanje, znanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a good command of spoken English.
+</quote>
+</seg>
+</sense>
+</entry>

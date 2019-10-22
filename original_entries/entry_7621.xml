@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+intellectual
+</orth>
+<form type="variant">
+<pron>
+/*Int@2l*ektSU0@l/
+</pron>
+</form>
+<form type="inflected">
+intellectuals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Intellectual 
+</seg>
+je tak, ki zadeva &ccaron;lovekovo sposobnost za razmi&scaron;ljanje in razumevanje zamisli in podatkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razumski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...children in need of extra emotional or intellectual stimulation.
+</quote>
+<quote>
+...his tremendous intellectual powers.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+intellectually
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an intellectually challenging occupation.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An intellectual 
+</seg>
+je oseba, ki nameni veliko &ccaron;asa preu&ccaron;evanju zapletenih zamisli in razmi&scaron;ljanju o njih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+intelektualec, razumnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...scholars and intellectuals.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an intellectual conversation.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

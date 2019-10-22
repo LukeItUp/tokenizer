@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+declaration
+</orth>
+<form type="variant">
+<pron>
+/d*ekl@r*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+declarations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A declaration 
+</seg>
+je trdna, jasna izjava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjava, priznanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He seemed embarrassed by her declaration of love.
+</quote>
+<quote>
+...his earlier declarations that things were improving.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A declaration 
+</seg>
+je tudi uradna objava ali izjava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+deklaracija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the day after the declaration was signed.
+</quote>
+<quote>
+...formal declarations of war.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bet
+</orth>
+<form type="variant">
+<pron>
+/b*et/
+</pron>
+</form>
+<form type="inflected">
+bets, betting.
+</form>
+<IN>
+<IH>
+Bet 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bet on a future event 
+</seg>
+pomeni z nekom se dogovoriti, da bomo dobili denar, &ccaron;e smo prav uganili, kaj se bo zgodilo, in ga izgubili, &ccaron;e smo se zmotili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+staviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He bet me a hundred pounds that I wouldn't get through.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I didn't put a bet on.
+</quote>
+</seg>
+</T>
+<sense>
+<form type="lemma">
+<orth>
+betting
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They spend their money on betting.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<seg type="lemma">
+You bet
+</seg>
+ 
+</seg>
+re&ccaron;emo, &ccaron;e ho&ccaron;emo poudariti pritrdilnico 
+<seg type="lemma">
+yes
+</seg>
+ ali kak&scaron;no drugo trditev; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+se razume, vsekakor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Are you coming?&rsquo;&mdash;&lsquo;You bet!&rsquo;
+</quote>
+<quote>
+You bet I'm getting out.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,128 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+involve
+</orth>
+<form type="variant">
+<pron>
+/Inv*Qlv/
+</pron>
+</form>
+<form type="inflected">
+involves, involving, involved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka dejavnost 
+<seg type="lemma">
+involves something
+</seg>
+, je tista stvar vklju&ccaron;ena ali uporabljena pri njej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obsegati, vsebovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some of the experiments involve the equipment you&apos;ve seen.
+</quote>
+<quote>
+Caring for a one-year-old involves changing nappies.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+involves someone
+</seg>
+, nekoga zadeva ali vpliva nanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadevati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Workers are never told about things which involve them.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To involve oneself in something 
+</seg>
+pomeni sodelovati pri ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplesti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They involve themselves deeply in community affairs.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To involve someone in something 
+</seg>
+pomeni pripraviti nekoga, da pri ne&ccaron;em sodeluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vplesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Did you have to involve me in this?
+</quote>
+</seg>
+</sense>
+</entry>

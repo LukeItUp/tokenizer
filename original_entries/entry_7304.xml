@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+incompetent
+</orth>
+<form type="variant">
+<pron>
+/IN1k*QmpIt@nt/
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+incompetent
+</seg>
+, svoje delo opravlja slabo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesposoben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Our secret services are completely incompetent.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+incompetence
+</orth>
+<form type="variant">
+<pron>
+/IN1k*QmpIt@ns/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Graffman fired him for incompetence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

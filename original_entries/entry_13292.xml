@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+song
+</orth>
+<form type="variant">
+<pron>
+/s*QN/
+</pron>
+</form>
+<form type="inflected">
+songs.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A song 
+</seg>
+so besede in melodija, ki jih zapojemo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pesem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a love song.
+</quote>
+<quote>
+We all burst into song.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bird&apos;s song 
+</seg>
+so prijetni melodi&ccaron;ni glasovi, s katerimi se ogla&scaron;a ptica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pesem, petje
+</quote>
+</cit>
+</sense>
+</entry>

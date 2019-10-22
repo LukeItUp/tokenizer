@@ -5,7 +5,7 @@ avid
 </orth>
 <form type="variant">
 <pron>
-/*#ae;vId/.
+/*&ae;vId/
 </pron>
 </form>
 </form>
@@ -16,16 +16,15 @@ ATTRIB ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Z besedo
+Z besedo 
 <seg type="lemma">
-avid
+avid 
 </seg>
-opi&#353;emo &#269;loveka, ki je za
-nekaj zelo vnet in navdu&#353;en.
+opi&scaron;emo &ccaron;loveka, ki je za nekaj zelo vnet in navdu&scaron;en. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-strasten, navdu&#353;en, zavzet
+strasten, navdu&scaron;en, zavzet
 </quote>
 </cit>
 <seg type="example">
@@ -38,7 +37,6 @@ strasten, navdu&#353;en, zavzet
 <orth>
 avidly
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV
@@ -54,26 +52,25 @@ They listened avidly.
 <sense n="2">
 <gramGrp>
 <pos>
-PRED ADJ
+PRED ADJ 
 <seg>
-with
+with 
 </seg>
 <seg type="prep">
-"for"
+&lsquo;for&rsquo;
 </seg>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kdor je
+Kdor je 
 <seg type="lemma">
 avid for something
 </seg>
-bi tisto zelo
-rad dobil.
+, bi tisto zelo rad dobil. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-&#382;eljan, lakomen
+&zcaron;eljan, lakomen
 </quote>
 </cit>
 </sense>

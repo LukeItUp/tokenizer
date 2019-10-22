@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+worker
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:k@/
+</pron>
+</form>
+<form type="inflected">
+workers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A worker 
+</seg>
+je oseba, zaposlena v tovarni ali podjetju, ki nima odgovornosti za vodenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delavec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dispute affected relations between management and workers.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+worker 
+</seg>
+lahko povemo, kako dobro ali slabo nekdo dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delavec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My husband was a hard worker.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A worker 
+</seg>
+je tudi oseba, ki opravlja dolo&ccaron;eno slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delavec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...American research workers.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+social worker
+</ref>
+</xr>
+</sense>
+</entry>

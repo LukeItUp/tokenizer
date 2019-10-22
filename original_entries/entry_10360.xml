@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+pelt
+</orth>
+<form type="variant">
+<pron>
+/p*elt/
+</pron>
+</form>
+<form type="inflected">
+pelts, pelting, pelted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+pelts someone with things
+</seg>
+, v nekoga me&ccaron;e stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obmetavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was pelted with eggs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar 
+<seg type="lemma">
+it is pelting with rain 
+</seg>
+ali kadar de&zcaron; 
+<seg type="lemma">
+is pelting down
+</seg>
+, zelo de&zcaron;uje; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+liti
+</quote>
+</cit>
+</sense>
+</entry>

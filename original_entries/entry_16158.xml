@@ -1,0 +1,300 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+world
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:ld/
+</pron>
+</form>
+<form type="inflected">
+worlds.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The world 
+</seg>
+je planet, na katerem &zcaron;ivimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svet, Zemlja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He attempted to sail round the world.
+</quote>
+<quote>
+...the growth in world population.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+world 
+</seg>
+uporabimo pri opisu osebe ali stvari, ki je ena najbolj&scaron;ih ali najpomembnej&scaron;ih svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svetoven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This book is a world classic.
+</quote>
+<quote>
+...a world famous physicist.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s world 
+</seg>
+so &ccaron;lovekovo &zcaron;ivljenje, izku&scaron;nje in odnosi z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Look, Howard, we&apos;re in different worlds now.
+</quote>
+<quote>
+They were letting me into their world.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular world 
+</seg>
+je podro&ccaron;je dejavnosti in osebe, ki so v njem udele&zcaron;ene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are well-known names in the film world.
+</quote>
+<quote>
+...the world of art.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Zcaron;ivljenje na tem svetu lahko imenujemo 
+<seg type="lemma">
+this world
+</seg>
+, obstoj po smrti pa 
+<seg type="lemma">
+the next world
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ta svet; oni svet
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Skupino &zcaron;ivih stvari lahko imenujemo 
+<seg type="lemma">
+the animal world, the plant world 
+</seg>
+ali 
+<seg type="lemma">
+the insect world
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ivalski svet; rastlinski svet; svet &zcaron;u&zcaron;elk
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A world 
+</seg>
+je lahko tudi poimenovanje za kak&scaron;en drug svet. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an alien world.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+in the world 
+</seg>
+lahko uporabimo s prese&zcaron;niki in tako poudarimo, da je stvar, o kateri govorimo, najpomembnej&scaron;a, najzna&ccaron;ilnej&scaron;a ali najskrajnej&scaron;a svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na svetu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To them housework was the most important activity in the world.
+</quote>
+<quote>
+...the simplest job in the world.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+The world over 
+</seg>
+pomeni po vsem svetu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po vsem svetu
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo ima ali &zcaron;eli 
+<seg type="lemma">
+the best of both worlds
+</seg>
+, ima ali &zcaron;eli vse prednosti dveh razli&ccaron;nih polo&zcaron;ajev brez neugodnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najbolj&scaron;e od obojega
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To think the world of someone or something 
+</seg>
+pomeni nekoga ali nekaj zelo ob&ccaron;udovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kovati v zvezde
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+does someone the world of good
+</seg>
+, poskrbi, da se nekdo bolje po&ccaron;uti; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+dobro deti, zelo koristiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A bit of fresh air will do you the world of good.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+There is a world of difference between two things 
+</seg>
+re&ccaron;emo, kadar sta dve stvari zelo razli&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+velika razlika, prepad
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

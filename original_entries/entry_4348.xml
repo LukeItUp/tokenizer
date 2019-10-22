@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dub
+</orth>
+<form type="variant">
+<pron>
+/d*Vb/
+</pron>
+</form>
+<form type="inflected">
+dubs, dubbing, dubbed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+dubbed a particular name
+</seg>
+, mu je dodeljeno dolo&ccaron;eno ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imenovati, dati vzdevek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+London was dubbed &lsquo;the insurance capital of the world&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je film 
+<seg type="lemma">
+dubbed
+</seg>
+, glasovi na zvo&ccaron;nem zapisu niso glasovi prvotnih igralcev, temve&ccaron; glasovi drugih igralcev, ki govorijo v druga&ccaron;nem jeziku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sinhronizirati
+</quote>
+</cit>
+</sense>
+</entry>

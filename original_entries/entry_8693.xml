@@ -1,0 +1,97 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+manual
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;njU0@l/
+</pron>
+</form>
+<form type="inflected">
+manuals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pri delu, ki je 
+<seg type="lemma">
+manual
+</seg>
+, je treba uporabljati telesno mo&ccaron;, ne pa toliko du&scaron;evne zmo&zcaron;nosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+fizi&ccaron;en
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+manual
+</seg>
+, tisto upravljamo ro&ccaron;no, ne pa z elektriko ali motorjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ro&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a manual system.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+manually
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Such pumps can be operated manually.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A manual 
+</seg>
+je knjiga, ki nam pove, kako nekaj naredimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priro&ccaron;nik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The instruction manuals are printed in German.
+</quote>
+</seg>
+</sense>
+</entry>

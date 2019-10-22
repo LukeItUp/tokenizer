@@ -5,7 +5,7 @@ ash
 </orth>
 <form type="variant">
 <pron>
-/*#ae;S/
+/*&ae;S/
 </pron>
 </form>
 <form type="inflected">
@@ -15,19 +15,18 @@ ashes.
 <sense n="1">
 <gramGrp>
 <pos>
-UNCOUNT N
+UNCOUNT N 
 <seg>
-or
+or 
 </seg>
 PLURAL N
 </pos>
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Ash
+Ash 
 </seg>
-je siv prah, ki ostane, kadar nekaj
-zgori.
+je siv prah, ki ostane, kadar nekaj zgori. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -51,13 +50,13 @@ COUNT N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-An ash
+An ash 
 </seg>
-je vrsta drevesa.
+je vrsta drevesa. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-j&#234;sen
+j&ecirc;sen
 </quote>
 </cit>
 </sense>

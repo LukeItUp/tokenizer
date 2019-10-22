@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bridle
+</orth>
+<form type="variant">
+<pron>
+/br*a*Id@0l/
+</pron>
+</form>
+<form type="inflected">
+bridles, bridling, bridled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bridle 
+</seg>
+je splet jermenov, ki jih nadenemo konju na glavo in gobec; &ccaron;lovek, ki konja jaha ali vodi, ga tako lahko obvlada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uzda
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bridle a horse 
+</seg>
+pomeni konju nadeti uzdo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uzdati, brzdati
+</quote>
+</cit>
+</sense>
+</entry>

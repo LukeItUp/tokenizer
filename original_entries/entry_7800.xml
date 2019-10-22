@@ -1,0 +1,106 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+irritate
+</orth>
+<form type="variant">
+<pron>
+/*IrIteIt/
+</pron>
+</form>
+<form type="inflected">
+irritates, irritating, irritated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+irritates someone
+</seg>
+, nekoga kar naprej jezi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jeziti, dra&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His style irritated some officials.
+</quote>
+<quote>
+Dixon, irritated by this question, said nothing.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+irritating
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...an irritating noise.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+irritatingly
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She was irritatingly slow.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+irritates a part of one&apos;s body
+</seg>
+, povzro&ccaron;i, da je del &ccaron;lovekovega telesa srbe&ccaron; ali bole&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dra&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The detergent can irritate sensitive feet.
+</quote>
+</seg>
+</sense>
+</entry>

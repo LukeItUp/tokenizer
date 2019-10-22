@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+weed
+</orth>
+<form type="variant">
+<pron>
+/w*i*:d/
+</pron>
+</form>
+<form type="inflected">
+weeds, weeding, weeded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A weed 
+</seg>
+je divja rastlina, ki raste tam, kjer ni za&zcaron;elena, na primer na vrtu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plevel
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To weed a place 
+</seg>
+pomeni odstraniti plevel z nekega kraja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pleti, opleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had weeded the garden.
+</quote>
+<quote>
+Go and ask that man who&apos;s weeding there.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekoga imenujemo 
+<seg type="lemma">
+a weed
+</seg>
+, ho&ccaron;emo povedati, da je strahopeten in telesno &scaron;ibak; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mev&zcaron;a
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+weed out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To weed out things 
+</seg>
+pomeni znebiti se stvari, ki v skupini niso za&zcaron;elene. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iztrebiti, izlo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Natural selection had weeded out the weakest.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

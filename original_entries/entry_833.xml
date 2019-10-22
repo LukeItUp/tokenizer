@@ -5,7 +5,7 @@ atrocious
 </orth>
 <form type="variant">
 <pron>
-/@tr*@*US@s/.
+/@tr*@*US@s/
 </pron>
 </form>
 </form>
@@ -16,15 +16,15 @@ ADJ
 </pos>
 </gramGrp>
 <def xml:lang="sl">
-Kar je
+Kar je 
 <seg type="lemma">
 atrocious
 </seg>
-je izjemno slabo.
+, je izjemno slabo. 
 </def>
 <cit type="translationEquivalent">
 <quote>
-grozljiv, grozen, stra&#353;en
+grozljiv, grozen, stra&scaron;en
 </quote>
 </cit>
 <seg type="example">
@@ -37,7 +37,6 @@ grozljiv, grozen, stra&#353;en
 <orth>
 atrociously
 </orth>
-</form>
 <gramGrp>
 <pos>
 ADV

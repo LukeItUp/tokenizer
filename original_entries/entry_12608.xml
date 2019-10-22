@@ -1,0 +1,56 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+self-defence.
+</orth>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Self-defence 
+</seg>
+je uporaba sile ali posebnih telesnih spretnosti, da se zavarujemo pred nekom, ki nas napade. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samoobramba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had struck her in self-defence.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj re&ccaron;emo 
+<seg type="lemma">
+in self-defence
+</seg>
+, navedemo vzroke za svoje ravnanje nekomu, ki misli, da nismo ravnali prav. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v samoobrambi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I didn&apos;t want to go anyway,&rsquo; he grumbled in self-defence.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+haystack
+</orth>
+<form type="variant">
+<pron>
+/h*e*Ist&ae;k/
+</pron>
+</form>
+<form type="inflected">
+haystacks.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A haystack 
+</seg>
+je velik, urejen kup sena, navadno na polju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+senena kopica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo, da je iskanje ne&ccaron;esa 
+<seg type="lemma">
+like looking for a needle in a haystack
+</seg>
+, ho&ccaron;emo povedati, da je tisto izjemno te&zcaron;ko ali nemogo&ccaron;e najti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kot bi iskali &scaron;ivanko v senu
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,42 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p800_s881675" id="p800_w652" font-name="ssunivers" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="154.172" base="160.58" width="45.5895" height="8.514">toothbrush</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p800_s881676" id="p800_w653" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="300.64" y="155.418" base="160.58" width="35.3216" height="6.844">/tu&#194;&#210;br&#216;&#196;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p800_s881677" id="p800_w654" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="338.08" y="155.24" base="160.58" width="44.2301" height="7.08">toothbrushes.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p800_s881678" id="p800_w655" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="384.44" y="156.664" base="160.58" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p800_s881679" id="p800_w656" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="404.859" y="156.664" base="160.58" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p800_s881680" id="p800_w657" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="411.1" y="154.884" base="160.58" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p800_s881681" id="p800_w658" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="418.82" y="154.884" base="160.58" width="21.2076" height="7.552">tooth-</TOKEN>
+<TOKEN sid="p800_s881682" id="p800_w659" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="163.954" base="169.65" width="19.5883" height="7.552">brush</TOKEN>
+</seg>
+<TOKEN sid="p800_s881683" id="p800_w660" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.19" y="163.954" base="169.65" width="5.99688" height="7.552">je</TOKEN>
+<TOKEN sid="p800_s881684" id="p800_w661" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="288.187" y="163.954" base="169.65" width="23.5973" height="7.552">{~etka,</TOKEN>
+<TOKEN sid="p800_s881685" id="p800_w662" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.784" y="163.954" base="169.65" width="3.1968" height="7.552">s</TOKEN>
+<TOKEN sid="p800_s881686" id="p800_w663" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="318.981" y="163.954" base="169.65" width="21.8599" height="7.552">katero</TOKEN>
+<TOKEN sid="p800_s881687" id="p800_w664" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="342.841" y="163.954" base="169.65" width="24.7925" height="7.552">~istimo</TOKEN>
+<TOKEN sid="p800_s881688" id="p800_w665" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="369.634" y="163.954" base="169.65" width="17.6011" height="7.552">zobe.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p800_s881690" id="p800_w667" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="395.47" y="163.954" base="169.65" width="20.4019" height="7.552">zobna</TOKEN>
+<TOKEN sid="p800_s881691" id="p800_w668" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="417.872" y="163.954" base="169.65" width="21.5964" height="7.552">{~etka</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

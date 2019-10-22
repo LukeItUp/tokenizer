@@ -1,0 +1,40 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p308_s337546" id="p308_w671" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="200.102" base="206.51" width="28.5707" height="8.514">gazelle</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p308_s337547" id="p308_w672" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="285.09" y="201.348" base="206.51" width="10.1601" height="6.844">/g6</TOKEN>
+<TOKEN sid="p308_s337548" id="p308_w673" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="295.59" y="200.71" base="204.12" width="2.39636" height="4.52176">3</TOKEN>
+<TOKEN sid="p308_s337549" id="p308_w674" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="298.22" y="201.348" base="206.51" width="14.7116" height="6.844">zel/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p308_s337550" id="p308_w675" font-name="ssunivers" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="316.54" y="201.17" base="206.51" width="27.4603" height="7.08">gazelles.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p308_s337551" id="p308_w676" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="347.56" y="202.594" base="206.51" width="18.9694" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p308_s337552" id="p308_w677" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="369.029" y="202.594" base="206.51" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p308_s337553" id="p308_w678" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.75" y="200.814" base="206.51" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p308_s337554" id="p308_w679" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="385.96" y="200.814" base="206.51" width="23.6578" height="7.552">gazelle</TOKEN>
+</seg>
+<TOKEN sid="p308_s337555" id="p308_w680" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.2" y="200.814" base="206.51" width="6.00696" height="7.552">je</TOKEN>
+<TOKEN sid="p308_s337556" id="p308_w681" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="422.817" y="200.814" base="206.51" width="17.2382" height="7.552">vrsta</TOKEN>
+<TOKEN sid="p308_s337557" id="p308_w682" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="209.884" base="215.58" width="25.1964" height="7.552">majhne</TOKEN>
+<TOKEN sid="p308_s337558" id="p308_w683" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="285.807" y="209.884" base="215.58" width="29.9966" height="7.552">antilope.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p308_s337560" id="p308_w685" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="324.03" y="209.884" base="215.58" width="21.6" height="7.552">gazela</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

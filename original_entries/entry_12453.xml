@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+science
+</orth>
+<form type="variant">
+<pron>
+/s*a*I*@ns/
+</pron>
+</form>
+<form type="inflected">
+sciences.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Science 
+</seg>
+je preu&ccaron;evanje narave in znanje, ki ga dobimo na ta na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naravoslovne vede
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the importance of mathematics to science.
+</quote>
+<quote>
+Why don&apos;t many girls go into science?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A science 
+</seg>
+je posamezno znanstveno podro&ccaron;je, na primer fizika ali biologija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+znanost, veda
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+social science
+</ref>
+</xr>
+</sense>
+</entry>

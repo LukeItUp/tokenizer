@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+citizen
+</orth>
+<form type="variant">
+<pron>
+/s*ItIz@n/
+</pron>
+</form>
+<form type="inflected">
+citizens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki je 
+<seg type="lemma">
+a citizen of a country
+</seg>
+, je uradno sprejet kot pripadnik neke dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dr&zcaron;avljan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a Swedish citizen.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The citizens of a town 
+</seg>
+so ljudje, ki &zcaron;ivijo v nekem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;&ccaron;an, ob&ccaron;an
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the citizens of Bristol.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+senior citizen
+</ref>
+</xr>
+</sense>
+</entry>

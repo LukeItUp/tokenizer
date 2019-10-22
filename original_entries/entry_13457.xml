@@ -1,0 +1,138 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sponge
+</orth>
+<form type="variant">
+<pron>
+/sp*VndZ/
+</pron>
+</form>
+<form type="inflected">
+sponges, sponging, sponged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sponge 
+</seg>
+je kos mehke, vpojne snovi z veliko luknjami, ki ga uporabljamo za &ccaron;i&scaron;&ccaron;enje predmetov ali umivanje telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+goba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Wipe the surface with a clean sponge.
+</quote>
+<quote>
+...a sponge mop.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sponge something 
+</seg>
+pomeni nekaj obrisati z mokro gobo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+otreti, popivnati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sponge 
+</seg>
+je tudi rahel kola&ccaron; ali puding. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biskvit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...baked apple with a layer of sponge on top.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sponge off 
+<VS>
+ali 
+</VS>
+<VV>
+sponge on.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sponge off other people 
+</seg>
+ali 
+<seg type="variant">
+to sponge on other people 
+</seg>
+pomeni redno dobivati denar od drugih, ne da bi jim dali kaj v zameno; 
+</def>
+<usg>
+pogovorna raba, ki izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+o&zcaron;emati, &zcaron;iveti na tuj ra&ccaron;un
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sponged on his friends.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

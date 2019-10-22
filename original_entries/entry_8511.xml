@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loyalty
+</orth>
+<form type="variant">
+<pron>
+/l*O*I*@lti1/
+</pron>
+</form>
+<form type="inflected">
+loyalties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Loyalty 
+</seg>
+je vedenje, pri katerem nekdo ostane stanoviten prijatelj ali pa neomajno podpira nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvestoba, zanesljivost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I am convinced of your loyalty to the cause.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Loyalties 
+</seg>
+so &ccaron;ustva prijateljstva, podpore ali dol&zcaron;nosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvestoba, zanesljivost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...their loyalties to the church.
+</quote>
+</seg>
+</sense>
+</entry>

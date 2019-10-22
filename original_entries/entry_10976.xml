@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+premier
+</orth>
+<form type="variant">
+<pron>
+/pr*emj@/
+</pron>
+</form>
+<form type="inflected">
+premiers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The premier 
+</seg>
+je oseba, ki vodi vlado neke dr&zcaron;ave. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premier, predsednik vlade
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the French premier.
+</quote>
+<quote>
+...Premier Francisco Pinto Balsemao.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+premier
+</seg>
+, velja za najbolj&scaron;e ali najpomembnej&scaron;e svoje vrste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vodilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The article referred to Hull as Europe&apos;s premier port.
+</quote>
+</seg>
+</sense>
+</entry>

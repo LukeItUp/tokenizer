@@ -1,0 +1,152 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+going
+</orth>
+<form type="variant">
+<pron>
+/g*@*UIN/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+be going to 
+</seg>
+izra&zcaron;amo prihodnji &ccaron;as. Na primer, kadar nekaj 
+<seg type="lemma">
+is going to happen
+</seg>
+, se bo zgodilo ali pa nameravamo poskrbeti, da se bo zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nameravati, hoteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She told him she was going to leave her job.
+</quote>
+<quote>
+I&apos;m not going to be made a scapegoat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The going 
+</seg>
+so pogoji, ki vplivajo na na&scaron;o sposobnost, da nekaj naredimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogoj, razmere
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...when the going gets tough.
+</quote>
+<quote>
+It was hard going at first.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The going rate for something 
+</seg>
+je navadna in pri&ccaron;akovana cena za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cenik; tarifa, te&ccaron;aj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The going rate is about &pound;1,000 a head.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+go
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get going 
+</seg>
+pomeni za&ccaron;eti nekaj delati po odlogu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti, spraviti v tek
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep going 
+</seg>
+pomeni &scaron;e naprej delati nekaj zahtevnega ali utrujajo&ccaron;ega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vztrajati
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To have something going for oneself 
+</seg>
+pomeni imeti prednost ali koristno lastnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti prednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had so much going for her in the way of wealth and success.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

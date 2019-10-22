@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reassert
+</orth>
+<form type="variant">
+<pron>
+/r*i*:@s*$e*:t/
+</pron>
+</form>
+<form type="inflected">
+reasserts, reasserting, reasserted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To reassert one&apos;s power or authority 
+</seg>
+pomeni jasno pokazati, da imamo znova mo&ccaron; in oblast. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spet uveljaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He made efforts to reassert his authority over them.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka zamisle ali navada 
+<seg type="lemma">
+reasserts itself
+</seg>
+, znova postane opazna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spet se uveljaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The urge to survive reasserted itself.
+</quote>
+</seg>
+</sense>
+</entry>

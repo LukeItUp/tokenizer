@@ -1,0 +1,135 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chance
+</orth>
+<form type="variant">
+<pron>
+/tS*A*:ns/
+</pron>
+</form>
+<form type="inflected">
+chances, chancing, chanced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar obstaja 
+<seg type="lemma">
+a chance of something happening
+</seg>
+, je mogo&ccaron;e, da se bo tisto zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mo&zcaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We've got a good chance of winning.
+</quote>
+<quote>
+What are her chances of getting the job?
+</quote>
+<quote>
+There's little chance that the situation will improve.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+takes a chance
+</seg>
+, poskusi nekaj narediti, &ccaron;eprav lahko zaide v nevarnost ali do&zcaron;ivi neuspeh. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tvegati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar se nekaj zgodi 
+<seg type="lemma">
+by chance
+</seg>
+, ni bilo na&ccaron;rtovano tako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po naklju&ccaron;ju
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Almost by chance I found myself talking to him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a chance meeting.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+chances to do something
+</seg>
+, nekaj stori, ne da bi tako nameraval; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+po naklju&ccaron;ju storiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I chanced to overhear them.
+</quote>
+</seg>
+</sense>
+</entry>

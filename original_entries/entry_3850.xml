@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+differ
+</orth>
+<form type="variant">
+<pron>
+/d*If@/
+</pron>
+</form>
+<form type="inflected">
+differs, differing, differed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ena stvar 
+<seg type="lemma">
+differs from another
+</seg>
+ ali &ccaron;e dve stvari 
+<seg type="lemma">
+differ
+</seg>
+, sta si obe v ne&ccaron;em razli&ccaron;ni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlikovati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Modern cars differ from the early ones in many ways.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+differ about something
+</seg>
+, se o ne&ccaron;em ne strinjajo med seboj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne strinjati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We differ about moral standards.
+</quote>
+</seg>
+</sense>
+</entry>

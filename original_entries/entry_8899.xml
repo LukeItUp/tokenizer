@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mercenary
+</orth>
+<form type="variant">
+<pron>
+/m*$e*:sIn@0ri1/
+</pron>
+</form>
+<form type="inflected">
+mercenaries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mercenary 
+</seg>
+je &ccaron;lovek, ki je pla&ccaron;an, da se bojuje za dr&zcaron;ave ali skupine, ki jim ne pripada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pla&ccaron;anec
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;loveka, ki je 
+<seg type="lemma">
+mercenary
+</seg>
+, zanima samo denar, ki ga lahko dobi; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+koristoljuben
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+discard
+</orth>
+<form type="variant">
+<pron>
+/dIsk*A*:d/
+</pron>
+</form>
+<form type="inflected">
+discards, discarding, discarded.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e &ccaron;lovek 
+<seg type="lemma">
+discards something
+</seg>
+, se ne&ccaron;esa znebi, ker tistega ne &zcaron;eli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvre&ccaron;i, zavre&ccaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Pull off and discard the outer leaves.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+discarded
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...discarded newspapers.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

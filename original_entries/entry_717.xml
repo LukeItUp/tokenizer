@@ -5,7 +5,7 @@ arrears
 </orth>
 <form type="variant">
 <pron>
-/@r*I*@z/.
+/@r*I*@z/
 </pron>
 </form>
 </form>
@@ -17,10 +17,9 @@ PLURAL N
 </gramGrp>
 <def xml:lang="sl">
 <seg type="lemma">
-Arrears
+Arrears 
 </seg>
-so vsote denarja, ki jih &#269;lovek
-dolguje.
+so vsote denarja, ki jih &ccaron;lovek dolguje. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -28,15 +27,14 @@ dolgovi
 </quote>
 </cit>
 </sense>
-<sense>
+<B>
 <sense value="phrase">
 <def xml:lang="sl">
-Kadar je &#269;lovek
+Kadar je &ccaron;lovek 
 <seg type="lemma">
 in arrears
 </seg>
-ni pla&#269;al
-rednih obrokov denarja takrat, ko bi jih moral.
+, ni pla&ccaron;al rednih obrokov denarja takrat, ko bi jih moral. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -46,12 +44,11 @@ v zaostanku
 </sense>
 <sense value="phrase">
 <def xml:lang="sl">
-&#268;e je delavec pla&#269;an
+&Ccaron;e je delavec pla&ccaron;an 
 <seg type="lemma">
 in arrears
 </seg>
-mu je
-denar za delo izpla&#269;an ob koncu &#269;asovnega roka, v katerem ga je zaslu&#382;il.
+, mu je denar za delo izpla&ccaron;an ob koncu &ccaron;asovnega roka, v katerem ga je zaslu&zcaron;il. 
 </def>
 <cit type="translationEquivalent">
 <quote>
@@ -59,5 +56,5 @@ za nazaj
 </quote>
 </cit>
 </sense>
-</sense>
+</B>
 </entry>

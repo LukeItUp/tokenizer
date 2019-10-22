@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sequel
+</orth>
+<form type="variant">
+<pron>
+/s*i*:kw@0l/
+</pron>
+</form>
+<form type="inflected">
+sequels.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sequel to a book or film 
+</seg>
+je nova knjiga ali film, v katerem se nadaljuje zgodba nekega prej&scaron;njega filma ali knjige. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadaljevanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He starred in &lsquo;The Godfather&rsquo; and in its sequel, &lsquo;The Godfather II&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The sequel to an event 
+</seg>
+je nekaj, kar se zgodi po nekem dogodku ali zaradi njega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nadaljevanje, posledica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was an amusing sequel to this incident.
+</quote>
+</seg>
+</sense>
+</entry>

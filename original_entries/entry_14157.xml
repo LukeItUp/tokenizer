@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+symptom
+</orth>
+<form type="variant">
+<pron>
+/s*Imp0t@m/
+</pron>
+</form>
+<form type="inflected">
+symptoms.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A symptom of an illness 
+</seg>
+je telesna motnja, ki opozarja, da smo bolni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolezenski znak, simptom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The first symptom of a cold is often a sore throat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A symptom of a bad situation 
+</seg>
+je tisto, kar se zgodi in kar razumemo kot opozorilo, da je polo&zcaron;aj slab. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(opozorilni) znak
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Migration is a symptom of rural poverty.
+</quote>
+</seg>
+</sense>
+</entry>

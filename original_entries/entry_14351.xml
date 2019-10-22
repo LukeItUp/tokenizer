@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tempo
+</orth>
+<form type="variant">
+<pron>
+/t*emp@U/
+</pron>
+</form>
+<form type="inflected">
+tempos.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tempo of an event 
+</seg>
+je hitrost, s katero se nekaj dogaja; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+hitrost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Events had been moving at an equally dramatic tempo.
+</quote>
+<quote>
+...the tempo of everyday life.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tempo of a piece of music 
+</seg>
+je hitrost, s katero izvajamo glasbeno delo; 
+</def>
+<usg>
+strokovni izraz.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+tempo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fluctuations of tempo are possible in a romantic piece.
+</quote>
+<quote>
+...the light-footed tempos of the Magic Flute.
+</quote>
+</seg>
+</sense>
+</entry>

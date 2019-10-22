@@ -1,0 +1,146 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cause
+</orth>
+<form type="variant">
+<pron>
+/k*O*:z/
+</pron>
+</form>
+<form type="inflected">
+causes, causing, caused.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The cause of an event 
+</seg>
+je tisto, kar povzro&ccaron;i neki dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzrok
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nobody knew the cause of the explosion.
+</quote>
+<quote>
+The men died of natural causes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e ima &ccaron;lovek 
+<seg type="lemma">
+cause for a particular feeling or action
+</seg>
+, ima dober razlog za neko &ccaron;ustvo ali dejanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzrok, razlog
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Years of training gave him every cause for confidence.
+</quote>
+<quote>
+I have no cause to go back.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ, 
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To cause something 
+</seg>
+pomeni poskrbeti, da se nekaj zgodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...difficulties caused by price increases.
+</quote>
+<quote>
+What's causing you so much concern?
+</quote>
+<quote>
+The sound caused her to step aside.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A cause 
+</seg>
+je tudi cilj, ki ga neka skupina ljudi podpira ali za katerega se bojuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stvar, ideal
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the cause of world peace.
+</quote>
+</seg>
+</sense>
+</entry>

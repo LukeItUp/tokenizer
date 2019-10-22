@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+necessity
+</orth>
+<form type="variant">
+<pron>
+/nI2s*esI1ti1/
+</pron>
+</form>
+<form type="inflected">
+necessities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Necessity 
+</seg>
+je polo&zcaron;aj, ko je nujno, da nekaj naredimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potreba, nuja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She went to work not out of choice but necessity.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Necessities 
+</seg>
+so stvari, ki jih &ccaron;lovek potrebuje, da lahko &zcaron;ivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vse potrebno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were supplied with all the necessities of life.
+</quote>
+</seg>
+</sense>
+</entry>

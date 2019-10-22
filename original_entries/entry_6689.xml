@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heir
+</orth>
+<form type="variant">
+<pron>
+/*e*@/
+</pron>
+</form>
+<form type="inflected">
+heirs.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s heir 
+</seg>
+je oseba, ki bo podedovala denar, lastnino ali naziv nekoga, ko bo umrl. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dedi&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Thompson&apos;s son and heir.
+</quote>
+<quote>
+The Prince of Wales is heir to the throne.
+</quote>
+</seg>
+</sense>
+</entry>

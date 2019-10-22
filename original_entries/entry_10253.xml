@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+passable
+</orth>
+<form type="variant">
+<pron>
+/p*A*:s@b@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+passable
+</seg>
+, je zadovoljive kakovosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprejemljiv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...some passable small restaurants.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je cesta ali pot 
+<seg type="lemma">
+passable
+</seg>
+, je potovanje po njej &scaron;e mo&zcaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehoden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many of these roads are not passable in bad weather.
+</quote>
+</seg>
+</sense>
+</entry>

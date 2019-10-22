@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slander
+</orth>
+<form type="variant">
+<pron>
+/sl*A*:nd@/
+</pron>
+</form>
+<form type="inflected">
+slanders, slandering, slandered.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slander 
+</seg>
+je neresni&ccaron;na izgovorjena trditev o nekom, s katero &zcaron;eli &ccaron;lovek &scaron;kodovati ugledu tiste osebe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kleveta, obrekovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll sue her for slander.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slander someone 
+</seg>
+pomeni o nekom govoriti neresni&ccaron;ne stvari, da bi &scaron;kodovali njegovemu ugledu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klevetati, obrekovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She slandered him behind his back.
+</quote>
+</seg>
+</sense>
+</entry>

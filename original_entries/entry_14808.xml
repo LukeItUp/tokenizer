@@ -1,0 +1,71 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+treatment
+</orth>
+<form type="variant">
+<pron>
+/tr*i*:tm@2nt/
+</pron>
+</form>
+<form type="inflected">
+treatments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Medical treatment 
+</seg>
+je vse tisto, kar bolniku pomaga, da ozdravi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravljenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...free dental treatment.
+</quote>
+<quote>
+I tried every treatment the doctor suggested.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s treatment of someone 
+</seg>
+je &ccaron;lovekovo ved&ecirc;nje do nekoga ali njegovo ravnanje z nekom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ravnanje, ved&ecirc;nje do nekoga, obravnava
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their treatment of women is unspeakable.
+</quote>
+<quote>
+I didn&apos;t want special treatment.
+</quote>
+</seg>
+</sense>
+</entry>

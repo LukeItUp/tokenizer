@@ -1,0 +1,202 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mix
+</orth>
+<form type="variant">
+<pron>
+/m*Iks/
+</pron>
+</form>
+<form type="inflected">
+mixes, mixing, mixed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB 
+<seg>
+or 
+</seg>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mixes two substances
+</seg>
+, stresa dve snovi skupaj, da se dobro preme&scaron;ata. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The mug had been used for mixing flour and water.
+</quote>
+<quote>
+They drink whisky mixed with beer.
+</quote>
+<quote>
+If you pour this liquid too fast, it will not mix.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mixes something
+</seg>
+, nekaj naredi tako, da ve&ccaron; snovi zme&scaron;a ali skupaj pretrese. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zme&scaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He carefully mixed the cement.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+MASS N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mix 
+</seg>
+je pra&scaron;ek, v katerem so vse snovi, ki jih potrebujemo, da nekaj naredimo. Temu pra&scaron;ku potem dodamo teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;anica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cake mixes.
+</quote>
+<quote>
+She bought a packet of cement mix.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A mix 
+</seg>
+dobimo tudi tako, da dve ali ve&ccaron; stvari zme&scaron;amo skupaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me&scaron;anica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We should try and keep a broad mix of subjects in our schools.
+</quote>
+<quote>
+I find the mix of politics and literature very interesting.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mixes with other people
+</seg>
+, na dru&zcaron;abni prireditvi spozna druge ljudi in se pogovarja z njimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dru&zcaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was making no effort to mix.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+mix up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mixes up two things or people
+</seg>
+, dve stvari ali osebi zamenja, tako da misli, da je ena oseba ali stvar ona druga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zamenjati za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People even mix us up and greet us by each other&apos;s names.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+mixed up, 
+</ref>
+<ref>
+mix-up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

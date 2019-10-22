@@ -5,12 +5,12 @@
 </orth>
 <form type="variant">
 <pron>
-<TOKEN sid="p43_s46748" id="p43_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="275.79" y="470.938" base="476.1" width="24.1316" height="6.844">/6veËl/.</TOKEN>
+<TOKEN sid="p43_s46748" id="p43_w837" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="275.79" y="470.938" base="476.1" width="24.1316" height="6.844">/6ve&#203;l/.</TOKEN>
 </pron>
 </form>
 </form>
 <sense>
-<sense value="phrase">
+<re value="phrase">
 <gramGrp>
 <pos>
 <TOKEN sid="p43_s46749" id="p43_w838" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="301.56" y="472.184" base="476.1" width="21.7206" height="5.192">PHRASE</TOKEN>
@@ -33,11 +33,11 @@
 <TOKEN sid="p43_s46761" id="p43_w850" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.01" y="479.634" base="485.33" width="5.99688" height="7.552">je</TOKEN>
 <TOKEN sid="p43_s46762" id="p43_w851" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="316.407" y="479.634" base="485.33" width="13.1954" height="7.552">bilo</TOKEN>
 <TOKEN sid="p43_s46763" id="p43_w852" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="333.002" y="479.634" base="485.33" width="27.5926" height="7.552">storjeno</TOKEN>
-<seg type="phrase_variant">
+<FV>
 <TOKEN sid="p43_s46764" id="p43_w853" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="364.01" y="479.634" base="485.33" width="6.80256" height="7.552">to</TOKEN>
 <TOKEN sid="p43_s46765" id="p43_w854" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="374.212" y="479.634" base="485.33" width="8.40096" height="7.552">no</TOKEN>
 <TOKEN sid="p43_s46766" id="p43_w855" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.012" y="479.634" base="485.33" width="18.8201" height="7.552">avail,</TOKEN>
-</seg>
+</FV>
 <TOKEN sid="p43_s46767" id="p43_w856" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="408.232" y="479.634" base="485.33" width="3.6" height="7.552">z</TOKEN>
 <TOKEN sid="p43_s46768" id="p43_w857" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="415.232" y="479.634" base="485.33" width="15.593" height="7.552">njim</TOKEN>
 <TOKEN sid="p43_s46769" id="p43_w858" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="434.225" y="479.634" base="485.33" width="7.99776" height="7.552">ne</TOKEN>
@@ -73,6 +73,6 @@
 <TOKEN sid="p43_s46791" id="p43_w880" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="292.807" y="507.315" base="513.011" width="18.7992" height="7.552">avail.</TOKEN>
 </quote>
 </seg>
-</sense>
+</re>
 </sense>
 </entry>

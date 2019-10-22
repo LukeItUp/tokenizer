@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+diffuse,
+</orth>
+<form type="inflected">
+diffuses, diffusing, diffused;
+</form>
+<usg>
+knji&zcaron;na beseda; 
+</usg>
+<PN>
+glagol izgovarjamo 
+<pron>
+/dIfj*u*:z/
+</pron>
+, pridevnik pa
+<pron>
+/dIfj*u*:s/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e svetloba ali znanje 
+<seg type="lemma">
+diffuses 
+</seg>
+ali 
+<seg type="lemma">
+is diffused
+</seg>
+, se &scaron;iri. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpr&scaron;iti (se), raz&scaron;iriti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The light was diffused by leaves.
+</quote>
+<quote>
+The sun diffuses through the trees.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+diffusion
+</orth>
+<form type="variant">
+<pron>
+/di1fj*u*:Z@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the diffusion of scientific knowledge.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+diffuse
+</seg>
+, je razpr&scaron;eno po prostranem obmo&ccaron;ju, ne pa osredoto&ccaron;eno na enem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpr&scaron;en, razkropljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a broad, diffuse organization.
+</quote>
+<quote>
+...a faint and diffuse glow of light.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ballot
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;l@t/
+</pron>
+</form>
+<form type="inflected">
+ballots, balloting, balloted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ballot 
+</seg>
+je tajno glasovanje, pri katerem ljudje izberejo kandidata na volitvah ali izrazijo svoje mnenje o nekem vpra&scaron;anju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajno glasovanje, tajne volitve
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To ballot a group of people 
+</seg>
+pomeni, da z organiziranjem tajnega glasovanja ugotovimo, kaj skupina ljudi misli o nekem vpra&scaron;anju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajno glasovati, anketirati
+</quote>
+</cit>
+</sense>
+</entry>

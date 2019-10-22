@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+diet
+</orth>
+<form type="variant">
+<pron>
+/d*a*I*@t/
+</pron>
+</form>
+<form type="inflected">
+diets, dieting, dieted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's diet 
+</seg>
+je vrsta hrane, ki jo nekdo u&zcaron;iva. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prehrana
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her diet consisted of bread and lentils.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be on a diet 
+</seg>
+pomeni, da jemo posebno vrsto hrane, ker &zcaron;elimo shuj&scaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(shuj&scaron;evalna) dieta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...people who aren't able to stick to a diet.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...diet drinks.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be dieting 
+</seg>
+pomeni, da imamo dieto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti na dieti
+</quote>
+</cit>
+</sense>
+</entry>

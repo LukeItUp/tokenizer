@@ -1,0 +1,101 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gallop
+</orth>
+<form type="variant">
+<pron>
+/g*&ae;l@p/
+</pron>
+</form>
+<form type="inflected">
+gallops, galloping, galloped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar konj 
+<seg type="lemma">
+gallops
+</seg>
+, te&ccaron;e tako hitro, da ima hkrati vse &scaron;tiri noge v zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+galopirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The horse galloped down the road.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+All the animals broke into a gallop.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To gallop 
+</seg>
+pomeni jahati konja, ki dirja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jezditi v diru
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He swung onto his horse, saluted, and galloped off.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gallop 
+</seg>
+je tudi je&zcaron;a na dirjajo&ccaron;em konju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dir
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a brisk morning&apos;s gallop.
+</quote>
+</seg>
+</sense>
+</entry>

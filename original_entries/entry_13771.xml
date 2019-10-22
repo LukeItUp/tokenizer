@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+stranger
+</orth>
+<form type="variant">
+<pron>
+/str*e*Ind0Z@/
+</pron>
+</form>
+<form type="inflected">
+strangers.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A stranger 
+</seg>
+je oseba, ki je &scaron;e nismo sre&ccaron;ali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tujec, neznanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Antonio was a stranger to all of us.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be a stranger in a place 
+</seg>
+pomeni, da &scaron;e nismo bili v dolo&ccaron;enem kraju. 
+<seg type="lemma">
+To be a stranger to a situation 
+</seg>
+pomeni, da dolo&ccaron;enega polo&zcaron;aja &scaron;e nismo do&zcaron;iveli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neseznanjen (s krajem, polo&zcaron;ajem)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are strangers in the village and lost their way in the fog.
+</quote>
+<quote>
+I was a stranger to this kind of gathering.
+</quote>
+</seg>
+</sense>
+</entry>

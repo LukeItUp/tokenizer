@@ -1,0 +1,88 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+taint
+</orth>
+<form type="variant">
+<pron>
+/t*e*Int/
+</pron>
+</form>
+<form type="inflected">
+taints, tainting, tainted;
+</form>
+<usg>
+knji&zcaron;na beseda.
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To taint something 
+</seg>
+pomeni tistemu dodati nekaj, kar ga pokvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti, omade&zcaron;evati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He feared that this would taint the scheme with some element of commercialism.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+tainted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The report was heavily tainted with racism.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A taint 
+</seg>
+je neza&zcaron;elena lastnost v ne&ccaron;em, ki tisto pokvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+made&zcaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His career was never free of the taint of corruption.
+</quote>
+</seg>
+</sense>
+</entry>

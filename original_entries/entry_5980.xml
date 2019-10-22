@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+generate
+</orth>
+<form type="variant">
+<pron>
+/dZ*en@reIt/
+</pron>
+</form>
+<form type="inflected">
+generates, generating, generated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To generate something 
+</seg>
+pomeni povzro&ccaron;iti, da se nekaj za&ccaron;ne in razvije; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+povzro&ccaron;iti, spodbuditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This book will continue to generate excitement for a long time.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To generate electricity or other forms of energy 
+</seg>
+pomeni pridobivati elektriko ali druge oblike energije. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+proizvajati
+</quote>
+</cit>
+</sense>
+</entry>

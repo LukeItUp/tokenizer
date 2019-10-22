@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+church
+</orth>
+<form type="variant">
+<pron>
+/tS*$e*:tS/
+</pron>
+</form>
+<form type="inflected">
+churches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A church 
+</seg>
+je stavba, v kateri kristjani opravljajo svoje verske obrede. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cerkev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were no services that day, and the church was empty.
+</quote>
+<quote>
+His parents go to church now and then.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A Church 
+</seg>
+je ena od skupin ljudi znotraj kr&scaron;&ccaron;anske vere, na primer katoliki. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+Cerkev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Jane had been received into the Church a month previously.
+</quote>
+</seg>
+</sense>
+</entry>

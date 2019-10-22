@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wipe
+</orth>
+<form type="variant">
+<pron>
+/w*a*Ip/
+</pron>
+</form>
+<form type="inflected">
+wipes, wiping, wiped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wipe something 
+</seg>
+pomeni podrgniti povr&scaron;ino ne&ccaron;esa, da bi z nje odstranili umazanijo ali teko&ccaron;ino. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brisati, obrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wiped his mouth with the back of his hand.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Give the table a wipe.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wipe dirt or liquid from something 
+</seg>
+pomeni odstraniti umazanijo ali teko&ccaron;ino z ne&ccaron;esa, na primer s krpo ali roko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wiped the tears from her eyes.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wipe out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To wipe out a place or group of people 
+</seg>
+pomeni popolnoma uni&ccaron;iti kraj ali skupino oseb. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbrisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Epidemics wiped out the local population.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

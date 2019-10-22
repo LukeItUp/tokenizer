@@ -1,0 +1,51 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bluster
+</orth>
+<form type="variant">
+<pron>
+/bl*Vst@/
+</pron>
+</form>
+<form type="inflected">
+blusters, blustering, blustered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+blusters
+</seg>
+, govori jezno in napadalno, ker je besen ali u&zcaron;aljen.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razsajati, besneti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They blustered and swore the pictures were fakes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She simply ignored his bluster.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

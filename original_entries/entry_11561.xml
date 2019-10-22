@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+reading
+</orth>
+<form type="variant">
+<pron>
+/r*i*:dIN/
+</pron>
+</form>
+<form type="inflected">
+readings.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Reading 
+</seg>
+je dejavnost &ccaron;loveka, ki bere knjigo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+branje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t do a lot of reading.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A poetry reading 
+</seg>
+je kulturna prireditev, na kateri nastopajo&ccaron;i ob&ccaron;instvu berejo poezijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pesni&scaron;ki ve&ccaron;er
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The reading on a meter or gauge 
+</seg>
+je &scaron;tevilka ali koli&ccaron;ina, ki jo poka&zcaron;e &scaron;tevec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stanje &scaron;tevca
+</quote>
+</cit>
+</sense>
+</entry>

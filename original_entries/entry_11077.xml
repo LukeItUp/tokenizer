@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+priority
+</orth>
+<form type="variant">
+<pron>
+/praI*QrI1ti1/
+</pron>
+</form>
+<form type="inflected">
+priorities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+a priority
+</seg>
+, moramo narediti ali re&scaron;iti &ccaron;im prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prednostna naloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Getting food was the main priority.
+</quote>
+<quote>
+Factories seemed to be China&apos;s highest priority.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The waiting list contains a thousand priority cases.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s priorities 
+</seg>
+so naloge ali stvari, ki jim nekdo pripisuje najve&ccaron;ji pomen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najpomembnej&scaron;e stvari
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must find out the priorities of the public.
+</quote>
+<quote>
+He had his priorities right.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have priority over other persons or things 
+</seg>
+pomeni, da je po na&scaron;em mnenju neka oseba ali stvar pomembnej&scaron;a kot druge, zato se z njo ukvarjamo najprej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prednost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These children are given priority when day nursery places are allocated.
+</quote>
+</seg>
+</sense>
+</entry>

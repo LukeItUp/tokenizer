@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+journey
+</orth>
+<form type="variant">
+<pron>
+/dZ*$e*:ni1/
+</pron>
+</form>
+<form type="inflected">
+journeys, journeying, journeyed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To make a journey 
+</seg>
+pomeni potovati iz enega kraja v drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iti na potovanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He went on a journey to London.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To journey somewhere 
+</seg>
+pomeni nekam potovati; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+potovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The nights became colder as they journeyed north.
+</quote>
+</seg>
+</sense>
+</entry>

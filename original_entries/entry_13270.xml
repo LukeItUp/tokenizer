@@ -1,0 +1,74 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+solo
+</orth>
+<form type="variant">
+<pron>
+/s*@*Ul@U/
+</pron>
+</form>
+<form type="inflected">
+solos.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A solo 
+</seg>
+je glasbeno delo, ki ga igra ali poje en sam izvajalec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+solo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a clarinet solo by Donizetti.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Nastop ali dejanje, ki je 
+<seg type="lemma">
+solo
+</seg>
+, izvede ena sama oseba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+samostojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a solo flight.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the boat in which he sailed solo round the world.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

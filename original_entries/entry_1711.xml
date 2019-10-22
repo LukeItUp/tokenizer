@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+brother
+</orth>
+<form type="variant">
+<pron>
+/br*VD@/
+</pron>
+</form>
+<form type="inflected">
+brothers.
+</form>
+<IN>
+Zastarelo obliko 
+<IH>
+brethren 
+</IH>
+<pron>
+/br*eDrI2n/
+</pron>
+ 
+<IC>
+uporabljamo tudi kot mno&zcaron;insko obliko pri 2. in 3. pomenu.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A brother 
+</seg>
+je fant ali odrasel mo&scaron;ki, ki ima iste star&scaron;e kot &scaron;e nekdo drug. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I have two brothers and one sister.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+half-brother
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A brother 
+</seg>
+je lahko tudi poimenovanje za mo&scaron;kega, kadar pripada isti veroizpovedi ali sindikatu kot mi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brat
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Brother 
+</seg>
+je naziv za mo&scaron;kega, ki je &ccaron;lan verske ustanove, na primer samostana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+brat
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Brother Michael.
+</quote>
+</seg>
+</sense>
+</entry>

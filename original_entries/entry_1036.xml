@@ -1,0 +1,161 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bang
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;N/
+</pron>
+</form>
+<form type="inflected">
+bangs, banging, banged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A bang 
+</seg>
+je glasen zvok, na primer pri eksploziji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pok, tresk
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She slammed the drawer shut with a bang.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+to bang a door 
+</seg>
+ali 
+<seg type="lemma">
+a door bangs
+</seg>
+ povemo, da se vrata silovito in z glasnim treskom zaprejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaloputniti (se)
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bang on something 
+</seg>
+ali 
+<seg type="lemma">
+to bang something 
+</seg>
+pomeni po ne&ccaron;em udariti tako mo&ccaron;no, da glasno zabobni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tol&ccaron;i, glasno udariti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bang part of one's body against something
+</seg>
+ pomeni, da s telesom po naklju&ccaron;ju ob nekaj udarimo in se po&scaron;kodujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadeti, butniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I bang my head against it every time.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Did you suffer any bangs or bumps?
+</quote>
+</seg>
+</T>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+goes with a bang
+</seg>
+, je zelo uspe&scaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sijajen biti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+bang in a particular position
+</seg>
+, je natanko v tistem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+natan&ccaron;no
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Emory University is bang in the middle of Atlanta.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

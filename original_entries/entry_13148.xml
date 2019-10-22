@@ -1,0 +1,208 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+smell
+</orth>
+<form type="variant">
+<pron>
+/sm*el/
+</pron>
+</form>
+<form type="inflected">
+smells, smelling, smelled 
+<IS>
+ali 
+</IS>
+<IV>
+smelt
+</IV>
+</form>
+<form type="variant">
+<pron>
+/sm*elt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The smell of something 
+</seg>
+je zna&ccaron;ilnost ne&ccaron;esa, ki jo zaznamo z nosom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vonj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What&apos;s that smell?
+</quote>
+<quote>
+...the smell of fresh bread.
+</quote>
+<quote>
+The air had a sweet smell.
+</quote>
+<quote>
+...cooking smells.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+smells
+</seg>
+, ima zna&ccaron;ilnost, ki jo zaznamo z nosom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti vonj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The room smelled of cigars.
+</quote>
+<quote>
+Our kitchen smelt like a rubber factory.
+</quote>
+<quote>
+The papers smelt musty and stale.
+</quote>
+<quote>
+Dinner smells good.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smell something 
+</seg>
+pomeni prepoznati nekaj po vonju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vohati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t strike a match if you smell gas.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smell something 
+</seg>
+pomeni tudi pribli&zcaron;ati nos ne&ccaron;emu in potegniti zrak vase, da bi ugotovili, kak&scaron;en vonj ima tisto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povohati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She picked up the soap and smelled it.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Smell 
+</seg>
+je sposobnost &ccaron;lovekovega nosu, da zaznava stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vonj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They all have an excellent sense of smell.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To smell something 
+</seg>
+pomeni nagonsko &ccaron;utiti, da se bo nekaj verjetno zgodilo, na primer, da se pribli&zcaron;uje nevarnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavohati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He&apos;s shrewd and can smell a successful project.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To smell a rat 
+</seg>
+pomeni za&ccaron;eti sumiti, da je nekaj narobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaslutiti/zavohati te&zcaron;ave
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

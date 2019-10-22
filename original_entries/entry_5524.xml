@@ -1,0 +1,413 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fly
+</orth>
+<form type="variant">
+<pron>
+/fl*a*I/
+</pron>
+</form>
+<form type="inflected">
+flies, flying, flew
+</form>
+<form type="variant">
+<pron>
+/fl*u*:/
+</pron>
+</form>
+<form type="inflected">
+flown
+</form>
+<form type="variant">
+<pron>
+/fl*@*Un/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fly 
+</seg>
+je majhna &zcaron;u&zcaron;elka z dvema kriloma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+muha
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptica, &zcaron;u&zcaron;elka ali letalo 
+<seg type="lemma">
+flies
+</seg>
+, se premika po zraku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+leteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My canary flew away.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fly somewhere 
+</seg>
+pomeni z letalom nekam potovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+leteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can fly from Cardiff to Ostend.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fly an aircraft 
+</seg>
+pomeni nadzorovati gibanje letala v zraku.
+</def>
+<cit type="translationEquivalent">
+<quote>
+upravljati, pilotirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Once I was flying my plane and ran into a storm over San Francisco.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+flying
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Why don't you take up flying?
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fly something somewhere 
+</seg>
+pomeni nekaj nekam poslati z letalom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslati z letalom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Exotic fruits were specially flown in for the occasion.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+flies about
+</seg>
+, se prosto premika in je ohlapno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opletati, mahedrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He jumped onto the platform with his cloak flying.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar zastava 
+<seg type="lemma">
+is flying
+</seg>
+ ali kadar ljudje 
+<seg type="lemma">
+fly a flag
+</seg>
+, je zastava obe&scaron;ena na vrh droga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razobesiti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fly in a particular direction 
+</seg>
+pomeni premikati se v dolo&ccaron;eno smer z veliko hitrostjo ali mo&ccaron;jo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odleteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His glasses flew off and smashed on the rocks.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;at&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fly at someone 
+</seg>
+ali 
+<seg type="variant">
+to let fly at someone 
+</seg>
+pomeni nekoga napasti z udarci ali &zcaron;aljivkami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti; ozmerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+One day the man flew at me in a temper.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The fly 
+</seg>
+ali 
+<seg type="variant">
+the flies
+</seg>
+ je sprednja odprtina pri hla&ccaron;ah.
+</def>
+<cit type="translationEquivalent">
+<quote>
+razporek, &lsquo;&scaron;lic&rsquo;
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+time flies
+</seg>
+, ho&ccaron;emo povedati, da &ccaron;as mineva zelo hitro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;as be&zcaron;i
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To take a flying leap 
+</seg>
+pomeni ste&ccaron;i in sko&ccaron;iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sko&ccaron;iti z zaletom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She took a flying leap at the fence.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+A flying visit 
+</seg>
+je obisk, ki traja zelo malo &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kratek obisk
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To get off to a flying start 
+</seg>
+pomeni nekaj zelo dobro za&ccaron;eti, na primer dirko ali novo slu&zcaron;bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti z lete&ccaron;im &scaron;tartom, dobro za&ccaron;eti
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+with flying colours: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+colour
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+fly off the handle: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+handle
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+fly into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kdor 
+<seg type="lemma">
+flies into a rage or a panic
+</seg>
+, ga nenadoma popade bes ali za&zcaron;ene preplah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pobesneti, zagnati preplah
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She flies into a temper if I make a mistake.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

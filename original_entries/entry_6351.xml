@@ -1,0 +1,86 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+growl
+</orth>
+<form type="variant">
+<pron>
+/gr*a*Ul/
+</pron>
+</form>
+<form type="inflected">
+growls, growling, growled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar neka &zcaron;ival 
+<seg type="lemma">
+growls
+</seg>
+, se ogla&scaron;a s tihim, ren&ccaron;e&ccaron;im glasom, navadno zato, ker je jezna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ren&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The dog growled at me.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He did not hear the growl of the leopard.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To growl 
+</seg>
+pomeni govoriti s tihim, grobim, precej jeznim glasom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+godrnjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;There&apos;s a visitor here,&rsquo; he growled.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+&lsquo;Yeah,&rsquo; said John in a low growl.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

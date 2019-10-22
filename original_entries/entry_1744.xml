@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+buddy
+</orth>
+<form type="variant">
+<pron>
+/b*Vdi1/
+</pron>
+</form>
+<form type="inflected">
+buddies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's buddy 
+</seg>
+je &ccaron;lovekov dober prijatelj; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+kolega, prijatelj
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VOCATIVE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V Ameriki se mo&scaron;ki med seboj v&ccaron;asih naslavljajo z vzdevkom 
+<seg type="lemma">
+buddy
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolega
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Keep going, buddy.
+</quote>
+</seg>
+</sense>
+</entry>

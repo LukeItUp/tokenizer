@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mood
+</orth>
+<form type="variant">
+<pron>
+/m*u*:d/
+</pron>
+</form>
+<form type="inflected">
+moods.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s mood 
+</seg>
+so &ccaron;lovekova &ccaron;ustva v nekem trenutku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volja, razpolo&zcaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was always in a good mood.
+</quote>
+<quote>
+I wasn&apos;t in the mood for helping.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+in a mood
+</seg>
+, je jezen in nestrpen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slaba volja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+When Chris was in one of his moods, he was unpleasant to everyone.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The mood of a group of people 
+</seg>
+so splo&scaron;ni ob&ccaron;utki ali stali&scaron;&ccaron;a skupine ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razpolo&zcaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The debate took place amid a mood of growing political despair.
+</quote>
+<quote>
+The mood of this week&apos;s meeting has been one of cautious optimism.
+</quote>
+</seg>
+</sense>
+</entry>

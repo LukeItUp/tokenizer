@@ -1,0 +1,238 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+second,
+</orth>
+<form type="inflected">
+seconds, seconding, seconded;
+</form>
+<PN>
+besedo izgovarjamo 
+<pron>
+/s*ek@nd/
+</pron>
+, razen pri 6. pomenu, kjer jo izgovarjamo 
+<pron>
+/sI2k*Qnd/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A second 
+</seg>
+je eden izmed &scaron;estdesetih delov, na katere je razdeljena minuta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sekunda
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rocket was rising at the rate of 300 feet per second.
+</quote>
+<quote>
+She looked at me for a few seconds.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A second 
+</seg>
+ali 
+<seg type="variant">
+seconds 
+</seg>
+pomeni tudi zelo kratek &ccaron;as. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+hip(ec), trenutek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Could I see your book for a second?
+</quote>
+<quote>
+In seconds the building had gone up in flames.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Element, ki je v nekem zaporedju 
+<seg type="lemma">
+second
+</seg>
+, je na drugem mestu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+drugi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his father&apos;s second marriage.
+</quote>
+<quote>
+...the second of February.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V trgovini je 
+<seg type="lemma">
+seconds 
+</seg>
+blago, ki je cenej&scaron;e, ker ima manj&scaron;e pomanjkljivosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blago druge vrste
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To second a proposal 
+</seg>
+pomeni, da se na sestanku ali v razpravi uradno strinjamo z nekim predlogom, tako da je potem mogo&ccaron;e o njem razpravljati ali glasovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I seconded Gene&apos;s nomination.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To second someone somewhere 
+</seg>
+pomeni nekoga za&ccaron;asno poslati nekam, kjer bo opravljal posebne naloge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premestiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was for a time seconded to the army.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<xr type="related">
+<QF>
+second nature: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+nature
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+second only to something else
+</seg>
+, je od tistega bolj&scaron;a samo navedena stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab&scaron;e samo od
+</quote>
+</cit>
+<seg type="example">
+<quote>
+San Francisco is second only to New York as the tourist city of the States.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj do&zcaron;ivimo 
+<seg type="lemma">
+at second hand
+</seg>
+, tistega ne do&zcaron;ivimo sami, pa&ccaron; pa nam o tistem pripovedujejo drugi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iz druge roke, od drugih, posredno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I knew nothing about Judith except what I&apos;d heard at second hand.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+second-hand
+</ref>
+</xr>
+</B>
+</entry>

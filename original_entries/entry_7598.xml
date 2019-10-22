@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+instrument
+</orth>
+<form type="variant">
+<pron>
+/*Instr@4m@2nt/
+</pron>
+</form>
+<form type="inflected">
+instruments.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An instrument 
+</seg>
+je orodje ali naprava, ki jo uporabljamo, da opravimo dolo&ccaron;eno nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+priprava, in&scaron;trument
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...surgical instruments.
+</quote>
+<quote>
+...instruments of torture.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A musical instrument 
+</seg>
+je predmet, na primer klavir, kitara ali flavta, na katerega igramo in tako ustvarjamo glasbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+glasbilo, glasbeni in&scaron;trument
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...stringed instruments.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+an instrument for achieving a particular aim
+</seg>
+, ljudje tisto uporabljajo, da dose&zcaron;ejo dolo&ccaron;eni cilj; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sredstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Incomes policy is a weak instrument for reducing inflation.
+</quote>
+</seg>
+</sense>
+</entry>

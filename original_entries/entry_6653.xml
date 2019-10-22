@@ -1,0 +1,231 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+heat
+</orth>
+<form type="variant">
+<pron>
+/h*i*:t/
+</pron>
+</form>
+<form type="inflected">
+heats, heating, heated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To heat something 
+</seg>
+pomeni dvigniti temperaturo ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+segreti, pogreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t heat more water than you need.
+</quote>
+<quote>
+...accommodation that is difficult to heat.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heat 
+</seg>
+je toplota ali lastnost, da je nekaj toplo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vro&ccaron;ina, toplota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Water retains heat much longer than air.
+</quote>
+<quote>
+...loss of body heat.
+</quote>
+<quote>
+You shouldn&apos;t go out in this heat.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heat 
+</seg>
+je tudi temperatura ne&ccaron;esa, kar je toplo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+temperatura, toplota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It should be equivalent to blood heat.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Heat 
+</seg>
+je tudi vir toplote, na primer gorilnik &scaron;tedilnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogenj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Don&apos;t put pans straight on to a high heat.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+heat 
+</seg>
+uporabljamo tudi za opisovanje mo&ccaron;nega &ccaron;ustva, zlasti jeze ali vznemirjenja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ar, gore&ccaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;You&apos;re a fool,&rsquo; Boylan said, without heat.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A heat 
+</seg>
+je dirka ali tekmovanje, katerega zmagovalci se pomerijo na drugem tekmovanju z zmagovalci sorodnih dirk ali tekmovanj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krog
+</quote>
+</cit>
+<xr type="related">
+<seg>
+glej tudi 
+</seg>
+<ref>
+dead heat
+</ref>
+</xr>
+</sense>
+<sense n="7">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+heated, 
+</ref>
+<ref>
+heating
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+heat up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+heats up
+</seg>
+, postopoma postaja toplej&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+segreti se
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To heat up food 
+</seg>
+pomeni &scaron;e enkrat segreti hrano, ki je &zcaron;e skuhana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

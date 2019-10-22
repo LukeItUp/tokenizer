@@ -1,0 +1,107 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+oppress
+</orth>
+<form type="variant">
+<pron>
+/@6pr*es/
+</pron>
+</form>
+<form type="inflected">
+oppresses, oppressing, oppressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To oppress someone 
+</seg>
+pomeni z nekom ravnati grobo ali krivi&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zatirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...institutions that oppress women.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+oppressed
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the sufferings of oppressed people everywhere.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+oppressor
+</orth>
+<form type="variant">
+<pron>
+/@6pr*es@/
+</pron>
+</form>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They didn&apos;t have the will to stand up against their foreign oppressors.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+oppresses someone
+</seg>
+, na &ccaron;loveka deluje tako, da je potrt in se po&ccaron;uti nelagodno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+moriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Somehow the room oppressed him.
+</quote>
+</seg>
+</sense>
+</entry>

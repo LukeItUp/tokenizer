@@ -1,0 +1,49 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p156_s170630" id="p156_w827" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="317.615" y="372.764" base="378.46" width="12.479" height="7.552">dad</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p156_s170631" id="p156_w828" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="331.533" y="372.764" base="378.46" width="19.3493" height="7.552">is&#8212;or</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p156_s170632" id="p156_w829" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="352.322" y="372.764" base="378.46" width="16.5557" height="7.552">was,&#8217;</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p156_s170633" id="p156_w830" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="370.317" y="372.764" base="378.46" width="9.83232" height="7.552">Mr</TOKEN>
+<seg>
+<TOKEN sid="p156_s170634" id="p156_w831" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="381.588" y="372.764" base="378.46" width="26.6227" height="7.552">Cupples</TOKEN>
+</seg>
+<TOKEN sid="p156_s170635" id="p156_w832" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.65" y="372.764" base="378.46" width="30.3775" height="7.552">corrected</TOKEN>
+<TOKEN sid="p156_s170636" id="p156_w833" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="381.844" base="387.54" width="26.7811" height="7.552">himself.</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p156_s170638" id="p156_w835" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="295.26" y="383.624" base="387.54" width="7.14681" height="5.192">VB</TOKEN>
+<TOKEN sid="p156_s170639" id="p156_w836" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="304.191" y="383.624" base="387.54" width="10.7182" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p156_s170640" id="p156_w837" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="316.693" y="383.624" base="387.54" width="9.89802" height="5.192">OBJ</TOKEN>
+<TOKEN sid="p156_s170641" id="p156_w838" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.19" y="381.844" base="387.54" width="21.5942" height="7.552">Kadar</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p156_s170642" id="p156_w839" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="353.383" y="381.844" base="387.54" width="20.795" height="7.552">nekdo</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p156_s170643" id="p156_w840" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="376.78" y="381.844" base="387.54" width="27.0497" height="7.552">corrects</TOKEN>
+<TOKEN sid="p156_s170644" id="p156_w841" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="406.43" y="381.844" base="387.54" width="4.0032" height="7.552">a</TOKEN>
+<TOKEN sid="p156_s170645" id="p156_w842" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="413.033" y="381.844" base="387.54" width="17.5939" height="7.552">piece</TOKEN>
+<TOKEN sid="p156_s170646" id="p156_w843" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="433.228" y="381.844" base="387.54" width="6.80328" height="7.552">of</TOKEN>
+<TOKEN sid="p156_s170647" id="p156_w844" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="390.924" base="396.62" width="27.1814" height="7.552">writing,</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

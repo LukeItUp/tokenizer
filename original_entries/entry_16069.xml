@@ -1,0 +1,141 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wire
+</orth>
+<form type="variant">
+<pron>
+/w*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+wires, wiring, wired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wire 
+</seg>
+je dolg, tanek kos kovine, ki ga uporabljamo za pritrjevanje ali povezovanje predmetov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&zcaron;ica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can mend it with a length of wire.
+</quote>
+<quote>
+...overhead lights suspended from wires.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wire 
+</seg>
+ima tudi enak pomen kot 
+<seg type="lemma">
+a telegram
+</seg>
+; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+brzojavka
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wire a person 
+</seg>
+pomeni nekomu poslati telegram; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+brzojaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wired Renata yesterday and asked her to marry me.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+barbed wire
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+wire up
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To wire something up 
+</seg>
+pomeni nekaj povezati z ne&ccaron;im drugim z elektri&ccaron;nimi &zcaron;icami, tako da med napravama ste&ccaron;e elektri&ccaron;ni tok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezati z &zcaron;ico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...electrical fittings wired up to the mains.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

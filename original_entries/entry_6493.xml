@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+handicapped
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;ndIk&ae;pt/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+handicapped
+</seg>
+, ima telesno ali du&scaron;evno okvaro. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadet
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A friend of his had a handicapped daughter.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Osebe, ki imajo kak&scaron;no telesno ali du&scaron;evno okvaro, imenujemo 
+<seg type="lemma">
+the handicapped
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...establishments for the mentally or physically handicapped.
+</quote>
+</seg>
+</sense>
+</entry>

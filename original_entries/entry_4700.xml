@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+enlarge
+</orth>
+<form type="variant">
+<pron>
+/I2nl*A*:dZ/
+</pron>
+</form>
+<form type="inflected">
+enlarges, enlarging, enlarged.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+enlarges something 
+</seg>
+ali kadar nekaj 
+<seg type="lemma">
+enlarges
+</seg>
+, tisto postane ve&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pove&ccaron;ati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The original windows were enlarged by Christopher Wren.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+enlarged
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...abnormally enlarged tonsils.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+enlarge on 
+<VS>
+ali 
+</VS>
+<VV>
+enlarge upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To enlarge on a subject 
+</seg>
+ali 
+<seg type="variant">
+to enlarge upon a subject 
+</seg>
+pomeni povedati ve&ccaron; podrobnosti o ne&ccaron;em; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+raz&scaron;iriti, ob&scaron;irno opisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He enlarged on the glorious future he had in mind.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,95 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+daily
+</orth>
+<form type="variant">
+<pron>
+/d*e*Ili1/
+</pron>
+</form>
+<form type="inflected">
+dailies.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADV 
+<seg>
+or 
+</seg>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+happens daily
+</seg>
+, se zgodi vsak dan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dneven, vsakdanji, vsakodneven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wrote to her almost daily.
+</quote>
+<quote>
+...Margaret&apos;s daily visits.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Daily 
+</seg>
+pomeni tudi povezan z enim samim dnevom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dneven
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Daily wage rates were around two dollars.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A daily newspaper 
+</seg>
+ali 
+<seg type="lemma">
+a daily 
+</seg>
+je &ccaron;asopis, ki izhaja vsak dan razen ob nedeljah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dnevnik
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,1222 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+set
+</orth>
+<form type="variant">
+<pron>
+/s*et/
+</pron>
+</form>
+<form type="inflected">
+sets, setting.
+</form>
+<IN>
+<IH>
+Set 
+</IH>
+<IC>
+je oblika za sedanjik, preteklik in pretekli dele&zcaron;nik.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A set of things 
+</seg>
+je ve&ccaron; stvari, ki tvorijo smiselno celoto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+komplet, niz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a set of encyclopaedias.
+</quote>
+<quote>
+...a chess set.
+</quote>
+<quote>
+We soon encountered a new set of problems.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set something somewhere 
+</seg>
+pomeni tisto stvar nekam dati, zlasti previdno ali z dolo&ccaron;enim namenom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He filled the kettle and set it on the stove.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+set in a particular place or position
+</seg>
+, je na dolo&ccaron;enem kraju ali v dolo&ccaron;enem polo&zcaron;aju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti, le&zcaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house is set back from the road.
+</quote>
+<quote>
+His eyes were set close together.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;in&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+set into a surface
+</seg>
+, je pritrjeno v neko povr&scaron;ino in ne &scaron;trli iz nje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdelati, vstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There was one tiny window set into the stone wall.
+</quote>
+<quote>
+...nine large panels set in a rich framework.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT, ADJ, 
+<seg>
+or 
+</seg>
+-ING
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+set 
+</seg>
+uporabljamo tudi, kadar ho&ccaron;emo re&ccaron;i, da nekdo ali nekaj povzro&ccaron;i, da se nekaj zgodi. 
+</def>
+<seg type="example">
+<quote>
+Let me set your mind at rest.
+</quote>
+<quote>
+One prisoner had been set free.
+</quote>
+<quote>
+Two further pieces of information set me questioning it all again.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sonce 
+<seg type="lemma">
+sets
+</seg>
+, izgine za obzorjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaiti
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set a trap 
+</seg>
+pomeni pripraviti past. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastaviti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set the table 
+</seg>
+pomeni pred obrokom razvrstiti kro&zcaron;nike in jedilni pribor na mizo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pogrniti mizo
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set a clock 
+</seg>
+pomeni nastaviti urni mehanizem tako, da ka&zcaron;e ali za&ccaron;ne delovati ob dolo&ccaron;enem &ccaron;asu. 
+<seg type="lemma">
+To set a control 
+</seg>
+pomeni postaviti nadzorni mehanizem na dolo&ccaron;eno vrednost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nastaviti, naravnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His alarm clock was set for four a.m.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set a time, price, or level 
+</seg>
+pomeni odlo&ccaron;iti, kdaj, po kak&scaron;ni ceni ali na kak&scaron;ni ravni nekaj bo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dolo&ccaron;iti, postaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They haven&apos;t set a date for the wedding.
+</quote>
+<quote>
+The government set a minimum price of &pound;1.15.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+set 
+</seg>
+opi&scaron;emo nekaj, kar je to&ccaron;no dolo&ccaron;eno in se ne spreminja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stalen, ustaljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We paid a set amount for the course.
+</quote>
+<quote>
+Her day usually followed a set pattern.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set a precedent, standard, or example
+</seg>
+ pomeni narediti nekaj, kar bodo drugi posnemali ali posku&scaron;ali dose&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti, dolo&ccaron;ati, biti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try and set the younger children a good example.
+</quote>
+<quote>
+They tended to follow the trend set by the other banks.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set someone some work 
+</seg>
+ali 
+<seg type="lemma">
+to set a target 
+</seg>
+pomeni re&ccaron;i, da mora nekdo opraviti neko delo ali dose&ccaron;i cilj, ki mu ga dolo&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti, dati, nalo&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Let me set you a little problem.
+</quote>
+<quote>
+It set a target for economic growth.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be set to do something 
+</seg>
+pomeni, da je nekdo pripravljen nekaj narediti ali da bo tisto zelo verjetno naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sposoben, pripravljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The left-wing seem set to do very well in the general election.
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;on&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be set on doing something 
+</seg>
+pomeni trdno skleniti, da bomo nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is set on regaining her title.
+</quote>
+</seg>
+</sense>
+<sense n="16">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar lepilo, &zcaron;ele ali beton 
+<seg type="lemma">
+sets
+</seg>
+, postane trd. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+strditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The cement had set hard.
+</quote>
+</seg>
+</sense>
+<sense n="17">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To set a poem to music 
+</seg>
+pomeni napisati glasbo za neko pesem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uglasbiti
+</quote>
+</cit>
+</sense>
+<sense n="18">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A television set 
+</seg>
+je televizija. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+televizijski sprejemnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We have a TV set in the living room.
+</quote>
+</seg>
+</sense>
+<sense n="19">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The set for a play or film 
+</seg>
+je oprema prizori&scaron;&ccaron;a ali pohi&scaron;tvo v gledali&scaron;ki igri ali filmu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+scena
+</quote>
+</cit>
+</sense>
+<sense n="20">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar igra, film ali zgodba 
+<seg type="lemma">
+is set at a particular time or in a particular place
+</seg>
+, se dogaja v dolo&ccaron;enem &ccaron;asu ali na dolo&ccaron;enem kraju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti postavljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The play is set in a small Midlands village.
+</quote>
+</seg>
+</sense>
+<sense n="21">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A set 
+</seg>
+je pri tenisu ena izmed skupin &scaron;estih ali ve&ccaron; iger, ki sestavljajo tekmo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+niz
+</quote>
+</cit>
+</sense>
+<sense n="22">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+setting.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+set fire to 
+</QF>
+<QI>
+something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+fire.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+set foot: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+foot.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+set 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+heart on 
+</QF>
+<QI>
+something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+heart.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+set sail: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+sail.
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+set the stage for: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+stage.
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+set about.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To set about doing something 
+</seg>
+pomeni za&ccaron;eti nekaj delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lotiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The next morning they set about cleaning the house.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set against.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To set one person against another 
+</seg>
+pomeni povzro&ccaron;iti, da dva &ccaron;loveka postaneta sovra&zcaron;nika ali tekmeca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrniti proti, nahujskati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set apart.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar neka lastnost 
+<seg type="lemma">
+sets someone apart from other people
+</seg>
+, se tista oseba razlikuje od drugih po tisti zna&ccaron;ilnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlikovati, lo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His exceptional height set him apart from the rest of the men.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set aside.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To set something aside 
+</seg>
+pomeni hraniti nekaj za posebno uporabo ali namen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati na stran, prihraniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Try and set aside time to do some mending jobs.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To set aside a belief, principle, or feeling 
+</seg>
+pomeni ne dovoliti, da bi dolo&ccaron;eno prepri&ccaron;anje, na&ccaron;elo ali &ccaron;ustvo vplivalo na nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmisliti, pozabiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must try and set aside our past hostilities.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To set someone or something back 
+</seg>
+pomeni povzro&ccaron;iti, da nekdo ali nekaj zamuja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadr&zcaron;ati, upo&ccaron;asniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This has set back the whole programme of nuclear power in America.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sets someone back a large amount of money
+</seg>
+, mora nekdo zaradi tistega pla&ccaron;ati velik znesek; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+drago stati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+setback.
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To set down one&apos;s thoughts or experiences 
+</seg>
+pomeni prenesti svoje misli ali do&zcaron;ivetja na papir. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapisati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were asked to set down a summary of their views.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj neprijetnega 
+<seg type="lemma">
+sets in
+</seg>
+, se za&ccaron;ne dogajati in se bo verjetno nadaljevalo ali razvijalo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti se, nastopiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A feeling of anti-climax set in.
+</quote>
+<quote>
+It must be treated quickly before infection sets in.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To set off 
+</seg>
+pomeni za&ccaron;eti potovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpotovati, odpraviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He set off on a trip to Mexico.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+sets off an event or a series of events
+</seg>
+, povzro&ccaron;i dogodek ali niz dogodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spro&zcaron;iti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To set animals on someone 
+</seg>
+pomeni povzro&ccaron;iti, da &zcaron;ivali nekoga napadejo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&scaron;&ccaron;uvati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were afraid they might set the dogs on us.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To set out 
+</seg>
+pomeni za&ccaron;eti potovanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpotovati, odpraviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They set out for Cuba.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To set out to do something 
+</seg>
+pomeni za&ccaron;eti si prizadevati, da bi nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti se, nameniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had failed in what they had set out to do.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To set things out 
+</seg>
+pomeni urediti polo&zcaron;aj stvari ali jih postaviti na ogled. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti, razpostaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were plenty of chairs set out for the guests.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To set out facts or opinions 
+</seg>
+pomeni povedati dejstva ali mnenja na jasen, urejen na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predstaviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Darwin set out his theory in &lsquo;The Origin of Species&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+set up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To set something up 
+</seg>
+pomeni izpeljati potrebne priprave za nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripraviti, izvesti, organizirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It took a long time to set up the experiment.
+</quote>
+<quote>
+The government were setting up an inquiry into the affair.
+</quote>
+<quote>
+An anti-terrorist squad was set up.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+setting up
+</orth>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the setting up of a Northern Seas Environmental Control Agency.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To set up a structure 
+</seg>
+pomeni nekaj nekje namestiti ali zgraditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postaviti, zgraditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A fund was launched to set up a monument in memory of the dead men.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To set up somewhere 
+</seg>
+pomeni za&ccaron;eti &zcaron;iveti v novem domu ali odpreti svoje podjetje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustvariti si dom; ustanoviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She left her parents&apos; home and set up on her own.
+</quote>
+<quote>
+He used the money to set himself up in business.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+<seg type="lemma">
+To set someone up 
+</seg>
+pomeni ustvariti vtis, da je nekdo naredil nekaj slabega, &ccaron;eprav to ni res; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+potunkati
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+set-up.
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

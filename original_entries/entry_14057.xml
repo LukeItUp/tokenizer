@@ -1,0 +1,140 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surprise
+</orth>
+<form type="variant">
+<pron>
+/s@pr*a*Iz/
+</pron>
+</form>
+<form type="inflected">
+surprises, surprising, surprised.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A surprise 
+</seg>
+je nepri&ccaron;akovan dogodek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presene&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This ruling came as a surprise to everyone.
+</quote>
+<quote>
+&lsquo;Why don&apos;t you tell me?&rsquo;&mdash;&lsquo;Because I want it to be a surprise.&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+MOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a surprise attack.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Surprise 
+</seg>
+je ob&ccaron;utek, ki nas prevzame, ko se zgodi nekaj nepri&ccaron;akovanega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presene&ccaron;enje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Boylan looked at her in surprise.
+</quote>
+<quote>
+To my surprise, he nodded and agreed.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+surprises someone
+</seg>
+, se zgodi, ne da bi &ccaron;lovek to pri&ccaron;akoval. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presenetiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I surprised everyone by gobbling an enormous lunch.
+</quote>
+<quote>
+It would not surprise me if he ends up in jail.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To surprise someone 
+</seg>
+pomeni napasti nekoga ali najti nekoga v trenutku, ko tega ne pri&ccaron;akuje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presenetiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They were surprised by a unit of US marines during the night.
+</quote>
+<quote>
+She feared her parents would return and surprise them.
+</quote>
+</seg>
+</sense>
+</entry>

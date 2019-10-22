@@ -1,0 +1,136 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+limp
+</orth>
+<form type="variant">
+<pron>
+/l*Imp/
+</pron>
+</form>
+<form type="inflected">
+limps, limping, limped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To limp 
+</seg>
+pomeni hoditi neenakomerno, ker je ena noga ali stopalo po&scaron;kodovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;epati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He picked up his bag and limped back to the road.
+</quote>
+<quote>
+Two of the dogs were limping badly.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He walks with a limp.
+</quote>
+<quote>
+She had a slight limp.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+limp
+</seg>
+, nima mo&ccaron;i ali energije in ga je zato mogo&ccaron;e premakniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mlahav, nemo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Her hand felt limp and damp.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+limply
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The tiny baby lay limply on her arm.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+limp
+</seg>
+, je mehko in ne trdo ali &ccaron;vrsto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mehek, ohlapen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a dressing-gown of limp, shiny fabric.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+limply
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The rope fell limply to the ground.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,65 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hoard
+</orth>
+<form type="variant">
+<pron>
+/h*O*:d/
+</pron>
+</form>
+<form type="inflected">
+hoards, hoarding, hoarded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hoard things 
+</seg>
+pomeni zbirati in spravljati stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kopi&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is it better to spend your money today or hoard every penny in the bank for tomorrow?
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hoard 
+</seg>
+je zaloga stvari, ki jih hranimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zbirka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a small hoard of coins.
+</quote>
+</seg>
+</sense>
+</entry>

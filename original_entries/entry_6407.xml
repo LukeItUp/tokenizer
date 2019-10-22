@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+gust
+</orth>
+<form type="variant">
+<pron>
+/g*Vst/
+</pron>
+</form>
+<form type="inflected">
+gusts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A gust 
+</seg>
+je kratek, mo&ccaron;an nalet vetra. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sunek vetra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a sudden gust of wind.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To feel a gust of emotion 
+</seg>
+pomeni nenadoma in silovito ob&ccaron;utiti neko &ccaron;ustvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruh
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A gust of pure happiness swept through her.
+</quote>
+</seg>
+</sense>
+</entry>

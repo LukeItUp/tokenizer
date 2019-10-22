@@ -1,0 +1,238 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+happy
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;pi1/
+</pron>
+</form>
+<form type="inflected">
+happier, happiest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+happy
+</seg>
+, ob&ccaron;uti veselje, pogosto zaradi ne&ccaron;esa lepega, kar se mu je zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;en, vesel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The old man&apos;s not very happy.
+</quote>
+<quote>
+I was happy to hear that you passed your exam.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+happily
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We laughed and chatted happily together.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+happiness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Money did not bring happiness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je neko obdobje ali kraj 
+<seg type="lemma">
+happy
+</seg>
+, v njem vlada veselo razpolo&zcaron;enje, ljudje pa imajo prijetne ob&ccaron;utke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;en, vesel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a happy childhood.
+</quote>
+<quote>
+...the happiest time of their lives.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be happy about a situation or arrangement 
+</seg>
+pomeni biti zadovoljen z nekim polo&zcaron;ajem ali ureditvijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadovoljen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are not too happy about this turn of events.
+</quote>
+<quote>
+Are you happy with that, Diana?
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be happy to do something 
+</seg>
+pomeni biti voljan nekaj storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vesel; z veseljem nekaj storiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was happy to work with George.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+happy 
+</seg>
+uporabljamo v pozdravih, kjer izrazimo upanje, da bo nekdo u&zcaron;ival ob posebni prilo&zcaron;nosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Happy birthday!
+</quote>
+<quote>
+Happy New Year!
+</quote>
+</seg>
+<xr type="related">
+<QF>
+many happy returns: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+return
+</ref>
+</xr>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z zrazom 
+<seg type="lemma">
+happy 
+</seg>
+opi&scaron;emo nekaj, kar je primerno ali posre&ccaron;eno; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ugoden, posre&ccaron;en, sre&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I appreciate that this is not a happy comparison.
+</quote>
+<quote>
+By a happy coincidence, we were all on the same train.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+happily
+</orth>
+<gramGrp>
+<pos>
+SENTENCE ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+That trend reversed itself, happily.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

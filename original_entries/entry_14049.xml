@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+surgery
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:dZ@0ri1/
+</pron>
+</form>
+<form type="inflected">
+surgeries.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Surgery 
+</seg>
+je medicinski poseg, pri katerem pose&zcaron;ejo v &ccaron;lovekovo telo, da bi popravili ali odstranili bolni ali po&scaron;kodovani del. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+operacija
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He has had major abdominal surgery.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A surgery 
+</seg>
+je prostor ali stavba, v kateri dela zdravnik ali zobozdravnik; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ordinacija
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A doctor&apos;s surgery 
+</seg>
+je tudi tisti &ccaron;as v dnevu, ko zdravnik sprejema paciente v svoji ordinaciji; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ordiniranje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;ll be in for morning surgery at ten.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+plastic surgery.
+</ref>
+</xr>
+</sense>
+</entry>

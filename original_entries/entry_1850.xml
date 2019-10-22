@@ -1,0 +1,60 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+buttress
+</orth>
+<form type="variant">
+<pron>
+/b*VtrIs/
+</pron>
+</form>
+<form type="inflected">
+buttresses, buttressing, buttressed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Buttresses 
+</seg>
+so stenski oporniki, navadno kamniti ali ope&ccaron;nati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opornik, steber
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To buttress an argument or system 
+</seg>
+pomeni dati oporo in mo&ccaron; kakemu dokazu ali sistemu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podpreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The present system serves to buttress the social structure in Britain.
+</quote>
+</seg>
+</sense>
+</entry>

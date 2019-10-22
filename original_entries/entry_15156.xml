@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unemployed
+</orth>
+<form type="variant">
+<pron>
+/*VnI2mpl*O*Id/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unemployed
+</seg>
+, nima slu&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezaposlen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The government ought to create more jobs for unemployed young people.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The unemployed 
+</seg>
+so osebe, ki bi &zcaron;elele delati, vendar ne morejo dobiti zaposlitve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezaposleni
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the problem of the unemployed.
+</quote>
+</seg>
+</sense>
+</entry>

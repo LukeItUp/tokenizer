@@ -1,0 +1,131 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+hunt
+</orth>
+<form type="variant">
+<pron>
+/h*Vnt/
+</pron>
+</form>
+<form type="inflected">
+hunts, hunting, hunted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+hunt
+</seg>
+, preganjajo divje &zcaron;ivali in jih pobijajo. Isto besedo uporabljamo tudi za &zcaron;ivali, ko preganjajo druge &zcaron;ivali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+loviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The men had gone to the forest to hunt wild game.
+</quote>
+<quote>
+Hyenas usually hunt at night.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+They sighted a zebra and the hunt began.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To hunt for someone or something 
+</seg>
+pomeni nekoga ali nekaj iskati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+iskati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two helicopters were hunting a submarine.
+</quote>
+<quote>
+The kids hunted for treasure.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the hunt for the missing child.
+</quote>
+</seg>
+</T>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+hunt down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To hunt someone or something down 
+</seg>
+pomeni uspe&scaron;no najti nekoga ali nekaj, potem ko smo ga iskali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izslediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They had hunted down their victims.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

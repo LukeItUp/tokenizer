@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+geometric
+</orth>
+<form type="variant">
+<pron>
+/dZ*i*:@6m*etrIk/
+</pron>
+</form>
+<HS>
+ali 
+</HS>
+<seg type="variant">
+geometrical 
+</seg>
+<form type="variant">
+<pron>
+/dZ*i*:@6m*etrIk@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+geometric 
+</seg>
+ali 
+<seg type="variant">
+geometrical 
+</seg>
+uporabljamo za opisovanje stvari, ki so povezane z geometrijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+geometrijski, geometri&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a geometrical problem.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Liki in oblike, ki so 
+<seg type="lemma">
+geometric 
+</seg>
+ali 
+<seg type="variant">
+geometrical
+</seg>
+, so sestavljeni iz pravilnih oblik, &ccaron;rt in ostrih kotov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+geometrijski, geometri&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...abstract geometrical designs.
+</quote>
+</seg>
+</sense>
+</entry>

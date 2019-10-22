@@ -1,0 +1,100 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+clutch
+</orth>
+<form type="variant">
+<pron>
+/kl*VtS/
+</pron>
+</form>
+<form type="inflected">
+clutches, clutching, clutched.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To clutch something 
+</seg>
+pomeni nekaj zelo trdno dr&zcaron;ati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stiskati, oklepati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Myra came in, clutching her handbag.
+</quote>
+<quote>
+Her pony stumbled, and she clutched at the reins.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be in the clutches of another person 
+</seg>
+pomeni biti v oblasti nekega &ccaron;loveka; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti v krempljih
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He escaped the clutches of the law.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The clutch 
+</seg>
+je pedal v avtomobilu, ki ga pritisnemo, preden zamenjamo prestavo, in mehanizem, ki ga uravnava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklopka
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+CAR AND BICYCLE
+</QZ>
+.
+</QP>
+</sense>
+</entry>

@@ -1,0 +1,68 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+complaint
+</orth>
+<form type="variant">
+<pron>
+/k@7mpl*e*Int/
+</pron>
+</form>
+<form type="inflected">
+complaints.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A complaint 
+</seg>
+je izra&zcaron;anje nezadovoljstva ali razlog za to. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prito&zcaron;ba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were the usual complaints of violence.
+</quote>
+<quote>
+She wrote a letter of complaint to the manufacturer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A complaint 
+</seg>
+je tudi bolezen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ava, bolezen, nadloga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a minor complaint.
+</quote>
+</seg>
+</sense>
+</entry>

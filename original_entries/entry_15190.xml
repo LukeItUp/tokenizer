@@ -1,0 +1,110 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+unhappy
+</orth>
+<form type="variant">
+<pron>
+/Vnh*&ae;pi1/
+</pron>
+</form>
+<form type="inflected">
+unhappier, unhappiest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unhappy
+</seg>
+, je &zcaron;alosten in potrt. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nesre&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She looked unhappy.
+</quote>
+<quote>
+I had an unhappy time at school.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+unhappiness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The quarrel caused her intense unhappiness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+unhappy about something
+</seg>
+, ni zadovoljen z ne&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezadovoljen zaradi ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The residents of the area are unhappy about the noise.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar za dogodek re&ccaron;emo, da je 
+<seg type="lemma">
+unhappy
+</seg>
+, izrazimo svoje ob&zcaron;alovanje zaradi tega dogodka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ob&zcaron;alovanja vreden
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This unhappy state of affairs would not exist if Ministers acted in a responsible way.
+</quote>
+</seg>
+</sense>
+</entry>

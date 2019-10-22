@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+censure
+</orth>
+<form type="variant">
+<pron>
+/s*enS@/
+</pron>
+</form>
+<form type="inflected">
+censures, censuring, censured.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To censure someone 
+</seg>
+pomeni nekomu povedati, da ostro nasprotujemo tistemu, kar je storil; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+grajati, karati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been censured for showing cowardice in the battle.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The result exposed him to official censure.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

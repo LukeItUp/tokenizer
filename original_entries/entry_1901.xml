@@ -1,0 +1,79 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+calendar
+</orth>
+<form type="variant">
+<pron>
+/k*&ae;lI1nd@/
+</pron>
+</form>
+<form type="inflected">
+calendars.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A calendar 
+</seg>
+je razpredelnica datumov, ki prikazuje razporeditev posameznih dni, tednov in mesecev v letu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koledar
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A calendar month 
+</seg>
+je eno od dvanajstih obdobij, na katera je razdeljeno leto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koledarski mesec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It costs one hundred dollars per calendar month.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A calendar 
+</seg>
+je tudi seznam datumov v letu, ki so pomembni za dolo&ccaron;eno organizacijo ali dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+koledar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a major event in the theatrical calendar.
+</quote>
+</seg>
+</sense>
+</entry>

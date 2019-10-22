@@ -1,0 +1,113 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+bash
+</orth>
+<form type="variant">
+<pron>
+/b*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+bashes, bashing, bashed;
+</form>
+<usg>
+pogovorna raba;
+</usg>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bash someone or something 
+</seg>
+pomeni nekoga namenoma mo&ccaron;no udariti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tresniti, mahniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was bashing him over the head with a saucepan.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bash into something or against something 
+</seg>
+pomeni nekaj po naklju&ccaron;ju zadeti ali se v nekaj zelo mo&ccaron;no zaleteti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tre&scaron;&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He bashed into a tree.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a bash on the nose.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a bash at something 
+</seg>
+ali 
+<FV>
+to give something a bash 
+</FV>
+pomeni nekaj poskusiti narediti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti se pri &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was going to have a bash at swimming the Channel.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

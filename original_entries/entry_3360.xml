@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+curve
+</orth>
+<form type="variant">
+<pron>
+/k*$e*:v/
+</pron>
+</form>
+<form type="inflected">
+curves, curving, curved.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A curve 
+</seg>
+je gladka, postopoma se spu&scaron;&ccaron;ajo&ccaron;a &ccaron;rta, na primer del oboda kroga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krivulja, krivina, zavoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The beach stretched away before them in a gentle curve.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+curves
+</seg>
+, je oblikovano v krivino ali se premika po krivulji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaviti, upogniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The lane curved round to the right.
+</quote>
+<quote>
+The missile curved gracefully towards its target.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+curved
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the curved tusks of a walrus.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

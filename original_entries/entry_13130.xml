@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slur
+</orth>
+<form type="variant">
+<pron>
+/sl*$e*:/
+</pron>
+</form>
+<form type="inflected">
+slurs, slurring, slurred.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slur 
+</seg>
+je &zcaron;aljiva pripomba, ki lahko uni&ccaron;i sloves nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+blatenje, obrekovanje, &zcaron;aljivka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He got angry whenever anyone cast the slightest slur on the regiment.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+slurs one&apos;s speech 
+</seg>
+ali kadar govor nekoga 
+<seg type="lemma">
+slurs
+</seg>
+, kadar &ccaron;lovek ne izgovarja besed razlo&ccaron;no, pogosto zato, ker je pijan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nerazlo&ccaron;no momljati; zapletati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;I&apos;ll sing for you,&rsquo; he said, his voice slurring so that he could barely be understood.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+slurred
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His words were slurred and his breath smelled of wine.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

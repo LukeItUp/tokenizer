@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+cheap
+</orth>
+<form type="variant">
+<pron>
+/tS*i*:p/
+</pron>
+</form>
+<form type="inflected">
+cheaper, cheapest.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dobrine in usluge, ki so 
+<seg type="lemma">
+cheap
+</seg>
+, ne stanejo veliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poceni, cenen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...cheap plastic buckets.
+</quote>
+<quote>
+A solid fuel cooker is cheap to run.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+cheaply
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He decorated my home cheaply and efficiently.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Ved&ecirc;nje in opazke, ki so 
+<seg type="lemma">
+cheap
+</seg>
+, so neljubeznive in nepotrebne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+slab, cenen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He could not resist making cheap jokes at their expense.
+</quote>
+</seg>
+</sense>
+</entry>

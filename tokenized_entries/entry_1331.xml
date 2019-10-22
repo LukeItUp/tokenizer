@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p64_s70042" id="p64_w649" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="218.232" base="224.64" width="24.1324" height="8.514">bisect</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p64_s70043" id="p64_w650" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="278.65" y="219.478" base="224.64" width="32.7516" height="6.844">/ba&#203;sekt/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p64_s70044" id="p64_w651" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="312.98" y="219.3" base="224.64" width="23.9274" height="7.08">bisects,</TOKEN>
+<TOKEN sid="p64_s70045" id="p64_w652" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="338.403" y="219.3" base="224.64" width="30.6558" height="7.08">bisecting,</TOKEN>
+<TOKEN sid="p64_s70046" id="p64_w653" font-name="ssunivers" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="370.553" y="219.3" base="224.64" width="28.4189" height="7.08">bisected.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p64_s70047" id="p64_w654" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="400.43" y="220.724" base="224.64" width="7.13641" height="5.192">VB</TOKEN>
+<seg>
+<TOKEN sid="p64_s70048" id="p64_w655" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="408.66" y="220.724" base="224.64" width="10.6875" height="5.192">with</TOKEN>
+</seg>
+<TOKEN sid="p64_s70049" id="p64_w656" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="420.442" y="220.724" base="224.64" width="9.87723" height="5.192">OBJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p64_s70050" id="p64_w657" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.89" y="218.944" base="224.64" width="8.13312" height="7.552">To</TOKEN>
+<TOKEN sid="p64_s70051" id="p64_w658" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="228.014" base="233.71" width="19.9404" height="7.552">bisect</TOKEN>
+<TOKEN sid="p64_s70052" id="p64_w659" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.14" y="228.014" base="233.71" width="8.3916" height="7.552">an</TOKEN>
+<TOKEN sid="p64_s70053" id="p64_w660" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="290.121" y="228.014" base="233.71" width="14.5814" height="7.552">area</TOKEN>
+<TOKEN sid="p64_s70054" id="p64_w661" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="306.292" y="228.014" base="233.71" width="7.1892" height="7.552">or</TOKEN>
+<TOKEN sid="p64_s70055" id="p64_w662" font-name="ssexcelsior" fixed-width="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="315.071" y="228.014" base="233.71" width="12.762" height="7.552">line</TOKEN>
+</seg>
+<TOKEN sid="p64_s70056" id="p64_w663" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="329.39" y="228.014" base="233.71" width="25.146" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p64_s70057" id="p64_w664" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="356.126" y="228.014" base="233.71" width="28.7064" height="7.552">razdeliti</TOKEN>
+<TOKEN sid="p64_s70058" id="p64_w665" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="386.422" y="228.014" base="233.71" width="28.3392" height="7.552">obmo~je</TOKEN>
+<TOKEN sid="p64_s70059" id="p64_w666" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="416.351" y="228.014" base="233.71" width="8.7768" height="7.552">ali</TOKEN>
+<TOKEN sid="p64_s70060" id="p64_w667" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="426.718" y="228.014" base="233.71" width="13.3193" height="7.552">~rto</TOKEN>
+<TOKEN sid="p64_s70061" id="p64_w668" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="237.084" base="242.78" width="8.40096" height="7.552">na</TOKEN>
+<TOKEN sid="p64_s70062" id="p64_w669" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="268.86" y="237.084" base="242.78" width="30.7973" height="7.552">polovico.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p64_s70064" id="p64_w671" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="307.59" y="237.084" base="242.78" width="39.1882" height="7.552">razpoloviti;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p64_s70065" id="p64_w672" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="348.63" y="237.084" base="242.78" width="12.7987" height="7.552">The</TOKEN>
+<TOKEN sid="p64_s70066" id="p64_w673" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="363.278" y="237.084" base="242.78" width="17.1965" height="7.552">main</TOKEN>
+<TOKEN sid="p64_s70067" id="p64_w674" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.323" y="237.084" base="242.78" width="40.3848" height="7.552">north-south</TOKEN>
+<TOKEN sid="p64_s70068" id="p64_w675" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.557" y="237.084" base="242.78" width="15.4591" height="7.552">road</TOKEN>
+<TOKEN sid="p64_s70069" id="p64_w676" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="246.144" base="251.84" width="22.7909" height="7.552">bisects</TOKEN>
+<TOKEN sid="p64_s70070" id="p64_w677" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="283.401" y="246.144" base="251.84" width="10.7986" height="7.552">the</TOKEN>
+<TOKEN sid="p64_s70071" id="p64_w678" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="296.2" y="246.144" base="251.84" width="19.1995" height="7.552">town.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

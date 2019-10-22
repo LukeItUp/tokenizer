@@ -1,0 +1,66 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peddle
+</orth>
+<form type="variant">
+<pron>
+/p*ed@0l/
+</pron>
+</form>
+<form type="inflected">
+peddles, peddling, peddled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki 
+<seg type="lemma">
+peddles drugs
+</seg>
+, nezakonito prodaja mamila. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preprodajati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+peddles an idea or piece of information
+</seg>
+, se zelo trudi, da bi prepri&ccaron;al ljudi, naj sprejmejo neko zamisel ali podatek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potegovati se za, forsirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...those who peddled this solution.
+</quote>
+</seg>
+</sense>
+</entry>

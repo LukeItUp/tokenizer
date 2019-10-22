@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trim
+</orth>
+<form type="variant">
+<pron>
+/tr*Im/
+</pron>
+</form>
+<form type="inflected">
+trimmer, trimmest; trims, trimming, trimmed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+trim
+</seg>
+, je &ccaron;isto, urejeno in privla&ccaron;no. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+negovan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the trim lawns and trees of suburbia.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor ima postavo, ki je 
+<seg type="lemma">
+trim
+</seg>
+, je vitek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vitek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a trim, balding man in his early sixties.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trim something 
+</seg>
+pomeni odrezati majhne ko&scaron;&ccaron;ke ne&ccaron;esa, da je videti bolj urejeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postri&ccaron;i, obrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The grass needed trimming.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+My hair needs a trim.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar obla&ccaron;ilo 
+<seg type="lemma">
+is trimmed with things
+</seg>
+, mu na rob pri&scaron;ijemo stvari, na primer trakove, da je lep&scaron;e. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obrobiti, ob&scaron;iti, okrasiti
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+trimmed
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a hat trimmed with ribbons.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+maiden
+</orth>
+<form type="variant">
+<pron>
+/m*e*Id@0n/
+</pron>
+</form>
+<form type="inflected">
+maidens.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A maiden 
+</seg>
+je mlada &zcaron;enska; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mladenka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Maidens performed graceful dances.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Plovba, ki je 
+<seg type="lemma">
+maiden
+</seg>
+, je prva uradna plovba neke ladje. Let, ki je 
+<seg type="lemma">
+maiden
+</seg>
+, je prvi uradni let nekega letala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+krsten
+</quote>
+</cit>
+</sense>
+</entry>

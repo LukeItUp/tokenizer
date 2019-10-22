@@ -1,0 +1,92 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lace
+</orth>
+<form type="variant">
+<pron>
+/l*e*Is/
+</pron>
+</form>
+<form type="inflected">
+laces, lacing, laced.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Lace 
+</seg>
+je zelo ne&zcaron;na tkanina s &scaron;tevilnimi luknjicami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&ccaron;ipka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a white lace handkerchief.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Laces 
+</seg>
+so kosi vrvice, ki jih vtaknemo skozi luknjice ob dveh robovih ne&ccaron;esa in jih zve&zcaron;emo, da robova pritrdimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vezalka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tying the laces of his shoes.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+lace up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To lace something up 
+</seg>
+pomeni nekaj pritrditi tako, da dva konca vezalke potegnemo skupaj in ju zve&zcaron;emo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He bent and laced up his shoes.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

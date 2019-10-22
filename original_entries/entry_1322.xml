@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+birch
+</orth>
+<form type="variant">
+<pron>
+/b*$e*:tS/
+</pron>
+</form>
+<form type="inflected">
+birches.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A birch 
+</seg>
+ali 
+<seg type="variant">
+a birch tree 
+</seg>
+je visoko drevo s tankimi vejami. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+breza
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The birch 
+</seg>
+je kazen, pri kateri &ccaron;loveka tepejo s &scaron;ibo ali leseno palico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretepanje s &scaron;ibo
+</quote>
+</cit>
+</sense>
+</entry>

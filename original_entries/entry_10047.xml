@@ -1,0 +1,87 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+overdue
+</orth>
+<form type="variant">
+<pron>
+/*@*Uv@dj*u*:/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Oseba, avtobus ali vlak je 
+<seg type="lemma">
+overdue
+</seg>
+, kadar ne pride nekam ob dogovorjenem &ccaron;asu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+z zamudo, zapoznel
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They&apos;re half an hour overdue. I wish they&apos;d come.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Sprememba ali dogodek je 
+<seg type="lemma">
+overdue
+</seg>
+, &ccaron;e bi se morala zgoditi &zcaron;e kdaj prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapoznel, prepozen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Reform in all these areas is long overdue.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar smo si izposodili ali smo dol&zcaron;ni pla&ccaron;ati, je 
+<seg type="lemma">
+overdue
+</seg>
+, &ccaron;e &scaron;e ni vrnjeno ali pla&ccaron;ano, &ccaron;eprav je rok za to &zcaron;e potekel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne vrnjeno ali pla&ccaron;ano v roku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The rent on his apartment was three weeks overdue.
+</quote>
+<quote>
+...overdue library books.
+</quote>
+</seg>
+</sense>
+</entry>

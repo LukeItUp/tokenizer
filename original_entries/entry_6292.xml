@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+greet
+</orth>
+<form type="variant">
+<pron>
+/gr*i*:t/
+</pron>
+</form>
+<form type="inflected">
+greets, greeting, greeted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To greet someone 
+</seg>
+pomeni nekomu re&ccaron;i nekaj ljubeznivega, kadar ga sre&ccaron;amo, na primer 
+<seg type="lemma">
+hello
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pozdraviti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To greet something in a particular way 
+</seg>
+pomeni na dolo&ccaron;en na&ccaron;in se odzvati na nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sprejeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The news will be greeted with shock and surprise.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+greets someone
+</seg>
+, je to prva stvar, ki jo v dolo&ccaron;enem kraju opazi; 
+</def>
+<usg>
+rabimo v pisni angle&scaron;&ccaron;ini.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+pozdraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The smell of coffee greeted us as we entered.
+</quote>
+</seg>
+</sense>
+</entry>

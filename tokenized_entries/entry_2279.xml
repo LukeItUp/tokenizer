@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p114_s124398" id="p114_w206" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="290.342" base="296.75" width="46.854" height="8.514">chimpanzee</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p114_s124399" id="p114_w207" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="102.78" y="291.588" base="296.75" width="23.6701" height="6.844">/t&#196;&#203;mp6</TOKEN>
+<TOKEN sid="p114_s124400" id="p114_w208" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="126.63" y="290.95" base="294.36" width="2.39636" height="4.52176">3</TOKEN>
+<TOKEN sid="p114_s124401" id="p114_w209" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="129.15" y="291.588" base="296.75" width="16.8216" height="6.844">nzi&#194;/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p114_s124402" id="p114_w210" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="147.38" y="291.41" base="296.75" width="41.5139" height="7.08">chimpanzees.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p114_s124403" id="p114_w211" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="190.34" y="292.834" base="296.75" width="18.4506" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p114_s124404" id="p114_w212" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="209.76" y="292.834" base="296.75" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p114_s124405" id="p114_w213" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="215.36" y="291.054" base="296.75" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p114_s124406" id="p114_w214" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="222.37" y="291.054" base="296.75" width="19.2283" height="7.552">chim-</TOKEN>
+<TOKEN sid="p114_s124407" id="p114_w215" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1798" y="300.134" base="305.83" width="23.598" height="7.552">panzee</TOKEN>
+</seg>
+<TOKEN sid="p114_s124408" id="p114_w216" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="85.7802" y="300.134" base="305.83" width="5.99616" height="7.552">je</TOKEN>
+<TOKEN sid="p114_s124409" id="p114_w217" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="93.775" y="300.134" base="305.83" width="25.596" height="7.552">majhna</TOKEN>
+<TOKEN sid="p114_s124410" id="p114_w218" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="121.37" y="300.134" base="305.83" width="23.989" height="7.552">afri{ka</TOKEN>
+<TOKEN sid="p114_s124411" id="p114_w219" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.357" y="300.134" base="305.83" width="20.3976" height="7.552">opica.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p114_s124413" id="p114_w221" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="176" y="300.134" base="305.83" width="28.3882" height="7.552">{impanz</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,119 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+ward
+</orth>
+<form type="variant">
+<pron>
+/w*O*:d/
+</pron>
+</form>
+<form type="inflected">
+wards, warding, warded.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ward 
+</seg>
+je prostor v bolni&scaron;nici, v katerem so postelje, pogosto za tiste ljudi, ki potrebujejo podobno zdravljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oddelek
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+She stayed five days in the emergency ward for observation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ward 
+</seg>
+je tudi obmo&ccaron;je, ki je del dolo&ccaron;enega volilnega okraja ali krajevnega sveta; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+okro&zcaron;je, &ccaron;etrt
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A ward 
+</seg>
+je otrok, ki ga uradno dodelijo v skrbo odrasli osebi, ker so njegovi star&scaron;i mrtvi. 
+<seg type="variant">
+A ward of court 
+</seg>
+je otrok, ki je v oskrbi sodi&scaron;&ccaron;a, ker potrebuje varstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+rejenec, varovanec
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+ward off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To ward off a danger or illness 
+</seg>
+pomeni nekaj storiti, da bi prepre&ccaron;ili, da bi neka nevarnost ali bolezen vplivala na nas ali nam &scaron;kodovala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvrniti, ubraniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He wears a copper bracelet to ward off rheumatism.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

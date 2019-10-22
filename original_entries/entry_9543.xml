@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nick
+</orth>
+<form type="variant">
+<pron>
+/n*Ik/
+</pron>
+</form>
+<form type="inflected">
+nicks, nicking, nicked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+REFL VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nicks something
+</seg>
+, v povr&scaron;ino ne&ccaron;esa naredi majhno zarezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zarezati, vrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He shaved badly, nicking himself in a couple of places.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nick 
+</seg>
+je majhna vreznina na povr&scaron;ini &ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zareza
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nicks something
+</seg>
+, nekaj ukrade; 
+</def>
+<usg>
+pogovorna britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+suniti, speljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My typewriter had been nicked.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek nekaj naredi 
+<seg type="lemma">
+in the nick of time
+</seg>
+, tisto uspe&scaron;no opravi, a v zadnjem hipu; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zadnji trenutek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We got there in the nick of time.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

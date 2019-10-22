@@ -1,0 +1,64 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+quake
+</orth>
+<form type="variant">
+<pron>
+/kw*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+quakes, quaking, quaked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+quakes
+</seg>
+, drgeta ali se trese od strahu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trepetati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I stood there quaking with fear.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A quake 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+an earthquake
+</seg>
+; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+potres
+</quote>
+</cit>
+</sense>
+</entry>

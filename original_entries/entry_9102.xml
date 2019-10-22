@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mistrust
+</orth>
+<form type="variant">
+<pron>
+/m*Istr*Vst/
+</pron>
+</form>
+<form type="inflected">
+mistrusts, mistrusting, mistrusted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Mistrust 
+</seg>
+je ob&ccaron;utek do nekoga, ki mu ne zaupate. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nezaupanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She gazed on me with a sudden fear and mistrust.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mistrusts someone or something
+</seg>
+, nima zaupanja do tiste osebe ali stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Marshall deeply mistrusted Jefferson.
+</quote>
+<quote>
+The child soon learns to mistrust offers of affection.
+</quote>
+</seg>
+</sense>
+</entry>

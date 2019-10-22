@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+yawn
+</orth>
+<form type="variant">
+<pron>
+/j*O*:n/
+</pron>
+</form>
+<form type="inflected">
+yawns, yawning, yawned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To yawn 
+</seg>
+pomeni &scaron;iroko odpreti usta in vdihniti ve&ccaron; zraka kot ponavadi. To pogosto naredimo takrat, ko smo utrujeni ali naveli&ccaron;ani. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zazehati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I yawned all through the concert.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She stifled a yawn.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vrzel ali odprtina 
+<seg type="lemma">
+yawns
+</seg>
+, postane velika, &scaron;iroka in pogosto stra&scaron;ljiva; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zazijati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A great gap yawned between the rocks.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+yawning
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...yawning craters.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

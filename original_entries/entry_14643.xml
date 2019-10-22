@@ -1,0 +1,200 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tone
+</orth>
+<form type="variant">
+<pron>
+/t*@*Un/
+</pron>
+</form>
+<form type="inflected">
+tones, toning, toned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s tone 
+</seg>
+je kakovost &ccaron;lovekovega glasu, ki poka&zcaron;e, kaj &ccaron;lovek ob&ccaron;uti ali misli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;Very good,&rsquo; he said in an encouraging tone.
+</quote>
+<quote>
+Her tone was defiant.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tone 
+</seg>
+je eden izmed zvokov, ki jih sli&scaron;imo, ko uporabljamo telefon, na primer zvok, ki pove, da je &scaron;tevilka zasedena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m getting the ringing tone, but there doesn&apos;t appear to be anyone at home.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tone of a musical instrument or a singer&apos;s voice 
+</seg>
+je vrsta zvoka, ki ga ima glasbeni in&scaron;trument ali pev&ccaron;ev glas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvok, ton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wish I had a piano with a better tone.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The tone of a piece of writing 
+</seg>
+je slog besedila ali ob&ccaron;utki, ki jih izra&zcaron;a pisec. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ton
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was greatly offended by the tone of the article.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A tone 
+</seg>
+je tudi ena izmed svetlej&scaron;ih, temnej&scaron;ih ali mo&ccaron;nej&scaron;ih razli&ccaron;ic iste barve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odtenek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the tones of the sky.
+</quote>
+<quote>
+You need a blue that is darker in tone.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lower the tone of a place or conversation 
+</seg>
+pomeni, da kraj ali pogovor naredimo manj ugleden ali spo&scaron;tovanja vreden. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zni&zcaron;ati raven, kvariti sloves
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He said the new people had lowered the tone of the neighbourhood.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+tone down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To tone down something 
+</seg>
+pomeni nekaj, kar smo napisali, spremeniti tako, da je manj udarno, ostro ali &zcaron;aljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He advised me to tone down my letter.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

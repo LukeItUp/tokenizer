@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+powerless
+</orth>
+<form type="variant">
+<pron>
+/p*a*U*@lI2s/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+powerless
+</seg>
+, ni sposoben obvladovati dogodkov ali vplivati nanje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemo&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Without the support of the party, the Cabinet is powerless.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+powerlessness
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She experienced an overwhelming sense of powerlessness.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+powerless to do something
+</seg>
+, ni sposoben narediti ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nemo&ccaron;en, nesposoben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I stood there watching, feeling powerless to help.
+</quote>
+</seg>
+</sense>
+</entry>

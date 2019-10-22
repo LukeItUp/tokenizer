@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+swoop
+</orth>
+<form type="variant">
+<pron>
+/sw*u*:p/
+</pron>
+</form>
+<form type="inflected">
+swoops, swooping, swooped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptica ali letalo 
+<seg type="lemma">
+swoops
+</seg>
+, se med letom nenadoma v loku spusti navzdol. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spustiti se, zvi&scaron;ka planiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We saw a distant eagle swoop down from the sky.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The swallow made a dazzling swoop through the air.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar vojaki ali policisti 
+<seg type="lemma">
+swoop on a place
+</seg>
+, se nenadoma in hitro pribli&zcaron;ajo nekemu kraju, da bi ga napadli in nekoga aretirali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nenadoma napasti, izvesti racijo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+British troops swooped down twice in dawn raids.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The police made a swoop on the headquarters.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

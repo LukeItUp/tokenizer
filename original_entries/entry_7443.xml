@@ -1,0 +1,73 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+infiltrate
+</orth>
+<form type="variant">
+<pron>
+/*InfIltreIt/
+</pron>
+</form>
+<form type="inflected">
+infiltrates, infiltrating, infiltrated.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;into&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To infiltrate an organization 
+</seg>
+ali 
+<seg type="lemma">
+to infiltrate into an organization 
+</seg>
+pomeni na skrivaj se pridru&zcaron;iti neki organizaciji, da bi vohunili ali vplivali nanjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vtihotapiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The organization was infiltrated by the police.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+infiltration
+</orth>
+<form type="variant">
+<pron>
+/*InfIltr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the infiltration of the party by extreme left-wing groups.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

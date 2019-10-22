@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+manner
+</orth>
+<form type="variant">
+<pron>
+/m*&ae;n@/
+</pron>
+</form>
+<form type="inflected">
+manners.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The manner 
+</seg>
+je postopek, ki ga &ccaron;lovek uporabi, ko nekaj dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;in
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They filed the report in a routine manner.
+</quote>
+<quote>
+Their manner of rearing their young is extremely unusual.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PLURAL N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;lovek, ki ima 
+<seg type="lemma">
+good manners
+</seg>
+, se vede in govori zelo vljudno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lepo vedenje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had beautiful manners.
+</quote>
+<quote>
+His manners were charming.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+All manner of things
+</seg>
+ pomeni najrazli&ccaron;nej&scaron;e stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vseh vrst
+</quote>
+</cit>
+<seg type="example">
+<quote>
+There were four canvas bags filled with all manner of tools.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in a manner of speaking 
+</seg>
+opozorimo, da to, kar smo pravkar rekli, ni povsem ali dobesedno res, pa&ccaron; pa bolj v splo&scaron;nem smislu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tako reko&ccaron;
+</quote>
+</cit>
+<seg type="example">
+<quote>
+If he hadn&apos;t been her boss, in a manner of speaking, she would have reported him to the police.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

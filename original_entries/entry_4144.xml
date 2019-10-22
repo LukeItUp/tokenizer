@@ -1,0 +1,705 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+do
+</orth>
+<form type="variant">
+<pron>
+/d*u*:/
+</pron>
+</form>
+<form type="inflected">
+does
+</form>
+<form type="variant">
+<pron>
+/d*Vz/
+</pron>
+</form>
+<form type="inflected">
+doing, did
+</form>
+<form type="variant">
+<pron>
+/d*Id/
+</pron>
+</form>
+<form type="inflected">
+done
+</form>
+<form type="variant">
+<pron>
+/d*Vn/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo za tvorbo nikalne oblike glavnih glagolov, tako da postavimo 
+<seg type="lemma">
+not
+</seg>
+ ali 
+<seg type="lemma">
+-n't
+</seg>
+ za pomo&zcaron;nim glagolom in pred nedolo&ccaron;nik glavnega glagola. 
+</def>
+<seg type="example">
+<quote>
+You don't have to go.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo za tvorbo vpra&scaron;anj, tako da osebek postavimo za pomo&zcaron;ni glagol in pred nedolo&ccaron;nik glavnega glagola. 
+</def>
+<seg type="example">
+<quote>
+What did he say?
+</quote>
+<quote>
+Do you think that's possible?
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo za nadome&scaron;&ccaron;anje in nana&scaron;anje na spredaj stoje&ccaron;o glagolsko skupino. 
+</def>
+<seg type="example">
+<quote>
+She meets lots more people than I do.
+</quote>
+<quote>
+I like cooking and so does John.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo v vpra&scaron;alnih dostavkih. 
+</def>
+<seg type="example">
+<quote>
+She made a lot of mistakes, didn't she?
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo za poudarjanje glavnega glagola, kadar ni drugega pomo&zcaron;nega glagola. 
+</def>
+<seg type="example">
+<quote>
+I did buy a map but I must have lost it.
+</quote>
+<quote>
+Do sit down.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+AUX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo z 
+<seg type="lemma">
+-n't
+</seg>
+ ali 
+<seg type="lemma">
+not
+</seg>
+, kadar ho&ccaron;emo nekomu povedati, naj se ne vede na dolo&ccaron;en na&ccaron;in. 
+</def>
+<seg type="example">
+<quote>
+Don't speak to me like that.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something 
+</seg>
+pomeni narediti neko dejanje, opraviti dejavnost ali nalogo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delati, po&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What are you doing?
+</quote>
+<quote>
+I do the cooking and Brian does the cleaning.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo s samostalnikom, ki se nana&scaron;a na neko stvar, kadar govorimo o ne&ccaron;em, kar kdo s tisto stvarjo redno po&ccaron;ne. Na primer: 
+<seg type="lemma">
+to do one's teeth 
+</seg>
+pomeni umivati si zobe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+urediti, poskrbeti za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She had done her hair for the party.
+</quote>
+<quote>
+We have a man to do the garden.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do something about a problem 
+</seg>
+pomeni truditi se, da bi re&scaron;ili neki problem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ukreniti, storiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They promised that they were going to do something about immigration.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Do 
+</seg>
+uporabljamo, kadar &zcaron;elimo povedati, da ima nekaj povsem dolo&ccaron;eno posledico ali u&ccaron;inek.
+</def>
+<cit type="translationEquivalent">
+<quote>
+storiti, povzro&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their policies have done more harm for the working class than ours.
+</quote>
+<quote>
+They are afraid of what it might do to the children.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekoga vpra&scaron;amo: 
+<seg type="lemma">
+what do you do
+</seg>
+, spra&scaron;ujemo, kak&scaron;na je njegova slu&zcaron;ba. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;eti, delati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What do you want to do when you leave school?
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+does well or badly
+</seg>
+, ho&ccaron;emo povedati, da je uspe&scaron;en oziroma neuspe&scaron;en.
+</def>
+<cit type="translationEquivalent">
+<quote>
+(dobro ali slabo) opraviti, (ne) uspeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I didn't do very well in my exams.
+</quote>
+<quote>
+It all depends how the Labour Party do at this next election.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To do a subject 
+</seg>
+pomeni &scaron;tudirati neki predmet v &scaron;oli ali na univerzi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;tudirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm doing biology.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+NUMBER
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+do 
+</seg>
+govorimo o hitrosti, ki jo nekaj dose&zcaron;e ali zmore dose&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+peljati, iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The car's already doing 70 miles per hour.
+</quote>
+</seg>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+will do
+</seg>
+, je zadovoljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zadostovati, ustrezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+No other school will do.
+</quote>
+<quote>
+Two thousand will do me very well.
+</quote>
+</seg>
+</sense>
+<sense n="16">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+doings, 
+</ref>
+<ref>
+done
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekoga vpra&scaron;amo 
+<seg type="lemma">
+what did you do with something
+</seg>
+, spra&scaron;ujemo, kam je nekaj dal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+storiti z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What did you do with the keys?
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekoga vpra&scaron;amo 
+<seg type="lemma">
+what are you doing in a particular place
+</seg>
+, izra&zcaron;amo presene&ccaron;enje, da je tam, kjer je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&ccaron;eti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What are you doing here? I thought you were still in London.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+would do well to do something
+</seg>
+, bi moral tisto storiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prav bi bilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She would do well to steer clear of men.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e za nekaj re&ccaron;emo 
+<seg type="lemma">
+it has to do with 
+</seg>
+ali 
+<FV>
+it is to do with
+</FV>
+, ho&ccaron;emo povedati, da je tisto z ne&ccaron;im povezano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti opravka, biti povezan z
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The basic argument has nothing to do with agriculture.
+</quote>
+<quote>
+It's got something to do with an economic crisis.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e re&ccaron;emo: 
+<seg type="lemma">
+I could do with something
+</seg>
+, ho&ccaron;emo povedati, da nekaj potrebujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+potrebovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think we could all do with a good night's sleep.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+&lsquo;How do you do?&rsquo; 
+</seg>
+je uradnej&scaron;i na&ccaron;in pozdravljanja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+me veseli
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+do away with.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To do away with something 
+</seg>
+pomeni ne&ccaron;esa se znebiti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpraviti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Modern medicines have not done away with disease.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+do out of.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To do someone out of something 
+</seg>
+pomeni po krivici povzro&ccaron;iti, da nekdo ne&ccaron;esa nima;
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ogoljufati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did me out of &pound;500.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+do up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To do something up 
+</seg>
+pomeni nekaj pritrditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zavezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He did his shoelaces up.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To do up an old building 
+</seg>
+pomeni popraviti in prebeliti staro stavbo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+prenoviti, urediti, renovirati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+do without.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To do without something 
+</seg>
+pomeni nekako pre&zcaron;iveti kljub temu, da ne&ccaron;esa nimamo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdr&zcaron;ati brez
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many Victorian households did without a bathroom altogether.
+</quote>
+<quote>
+If you don't have cigarettes, you must simply do without.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+zip
+</orth>
+<form type="variant">
+<pron>
+/z*Ip/
+</pron>
+</form>
+<form type="inflected">
+zips, zipping, zipped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A zip 
+</seg>
+je pripomo&ccaron;ek, s katerim zapiramo obla&ccaron;ila ali torbice. Sestavljata ga dve vrsti kovinskih ali plasti&ccaron;nih zobcev, ki ju potegnemo skupaj, kadar ho&ccaron;emo stvar zapreti; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zadrga
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To zip something 
+</seg>
+pomeni nekaj zapreti z zadrgo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapeti zadrgo
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+zip up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To zip up something 
+</seg>
+pomeni nekaj, na primer obla&ccaron;ilo, zapreti ali zapeti z zadrgo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapeti zadrgo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She zipped up the dress with difficulty.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+belong
+</orth>
+<form type="variant">
+<pron>
+/bi1l*QN/
+</pron>
+</form>
+<form type="inflected">
+belongs, belonging, belonged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+belongs to someone
+</seg>
+, je njegova last ali mu pripada. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The land belongs to a big family.
+</quote>
+<quote>
+...a myth belonging to some tribe in Western Australia.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+belongs to a particular group
+</seg>
+, je &ccaron;lan tiste skupine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She belongs to the Labour Party.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+belongs in a particular place
+</seg>
+, bi moral biti tam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soditi, spadati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The plates don't belong in that cupboard.
+</quote>
+</seg>
+</sense>
+</entry>

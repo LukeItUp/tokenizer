@@ -1,0 +1,114 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+migrate
+</orth>
+<form type="variant">
+<pron>
+/maIgr*e*It/
+</pron>
+</form>
+<form type="inflected">
+migrates, migrating, migrated.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+migrate
+</seg>
+, se selijo iz kraja v kraj, zlasti zato, da bi na&scaron;li delo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Millions have migrated to the cities.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+migration
+</orth>
+<form type="variant">
+<pron>
+/maIgr*e*IS@0n/
+</pron>
+</form>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Migration for work is accelerating in the Third World.
+</quote>
+<quote>
+...the vast Greek migrations into Asia and Egypt.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ptice ali druge &zcaron;ivali 
+<seg type="lemma">
+migrate
+</seg>
+, se za del leta preselijo in &zcaron;ivijo nekje drugje, ter imajo tam mladi&ccaron;e in najdejo hrano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+seliti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Every spring they migrate towards the coast.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+migration
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Swallows begin their migration south in early autumn.
+</quote>
+<quote>
+...the migrations of the reindeer.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

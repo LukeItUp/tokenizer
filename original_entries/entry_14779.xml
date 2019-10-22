@@ -1,0 +1,91 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+transplant,
+</orth>
+<form type="inflected">
+transplants, transplanting, transplanted;
+</form>
+<PN>
+samostalnik izgovarjamo 
+<pron>
+/tr*&ae;nsplA:nt/
+</pron>
+, glagol pa 
+<pron>
+/tr&ae;nspl*A*:nt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A transplant 
+</seg>
+je kirur&scaron;ka operacija, pri kateri presadijo oboleli del telesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presaditev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...kidney transplants.
+</quote>
+<quote>
+...allegations of a trade in human organs for transplant.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Doctors hope to transplant a human heart into the patient within the next few days.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+is transplanted
+</seg>
+, tisto prenesemo drugam. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prenesti, presaditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...how an established technology can be transplanted to another region.
+</quote>
+</seg>
+</sense>
+</entry>

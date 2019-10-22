@@ -1,0 +1,147 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+process
+</orth>
+<form type="variant">
+<pron>
+/pr*@*Uses/
+</pron>
+</form>
+<form type="inflected">
+processes, processing, processed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A process 
+</seg>
+je niz dejanj ali dogodkov, ki imajo dolo&ccaron;en izid. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+postopek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It has been a long process getting this information.
+</quote>
+<quote>
+...industrial processes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar surovine ali &zcaron;ivila 
+<seg type="lemma">
+are processed
+</seg>
+, jih obdelajo v kemi&ccaron;nem ali industrijskem postopku. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+predelati, obdelati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...chemically processed food.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To process information 
+</seg>
+pomeni raz&ccaron;leniti podatke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdel(ov)ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Ten computers are processing the data.
+</quote>
+<quote>
+Your application will take a few weeks to process.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+word processing
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is in the process of doing something
+</seg>
+, nekaj dela. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti sredi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She is still in the painful process of growing up.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Z izrazom 
+<seg type="lemma">
+in the process 
+</seg>
+uvedemo opis ne&ccaron;esa, kar naredimo ob tem, ko delamo nekaj drugega, in kot rezultat tistega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri tem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I got him out, but overbalanced in the process and fell.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

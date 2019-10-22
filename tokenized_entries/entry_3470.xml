@@ -1,0 +1,55 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dead end,
+</orth>
+<form type="inflected">
+dead ends.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dead end
+</seg>
+je ulica, ki na enem koncu nima izhoda.
+</def>
+<cit type="translationEquivalent">
+<quote>
+slepa ulica
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Delo ali potek dogajanja, ki je
+<seg type="lemma">
+a dead end
+</seg>
+ne pelje nikamor.
+</def>
+<cit type="translationEquivalent">
+<quote>
+slepa ulica, zastoj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The investigation has reached a dead end.
+</quote>
+<quote>
+...a dead-end job.
+</quote>
+</seg>
+</sense>
+</entry>

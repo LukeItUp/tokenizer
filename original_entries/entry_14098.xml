@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sway
+</orth>
+<form type="variant">
+<pron>
+/sw*e*I/
+</pron>
+</form>
+<form type="inflected">
+sways, swaying, swayed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sway 
+</seg>
+pomeni nagibati se ali nihati v eno in drugo stran. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zibati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She sang and swayed from side to side.
+</quote>
+<quote>
+...trees swaying in the wind.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be swayed by something that one hears or reads 
+</seg>
+pomeni, da na &ccaron;loveka vpliva nekaj, kar sli&scaron;i ali prebere. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+delovati na, vplivati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Do not be swayed by glamorous advertisements.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be under the sway of someone or something 
+</seg>
+pomeni biti pod vplivom nekoga ali ne&ccaron;esa; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+vpliv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Laing was coming increasingly under the sway of new ideas.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+holds sway
+</seg>
+, ima velik vpliv; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+biti vpliven, vladati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The beliefs which now hold sway may one day be rejected.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

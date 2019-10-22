@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lease
+</orth>
+<form type="variant">
+<pron>
+/l*i*:s/
+</pron>
+</form>
+<form type="inflected">
+leases, leasing, leased.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lease 
+</seg>
+je zakonski sporazum, po katerem nekdo pla&ccaron;a za uporabo neke stavbe ali zemlji&scaron;&ccaron;a v dolo&ccaron;nem obdobju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakupna pogodba
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house was let on a 99-year lease.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+leases property from someone
+</seg>
+, od nekoga dobi dovoljenje za uporabo njegove lastnine v zameno za pla&ccaron;ilo; kadar nekdo 
+<seg type="lemma">
+leases property to someone
+</seg>
+, nekomu da tako dovoljenje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najeti, vzeti v najem; dati v najem
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They leased a house at Cospoli.
+</quote>
+<quote>
+He had persuaded the local council to lease him a house.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima nekdo, ki je bil videti &scaron;ibak ali neuspe&scaron;en, 
+<seg type="lemma">
+a new lease of life
+</seg>
+, postane &zcaron;ivahnej&scaron;i ali uspe&scaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+novo &zcaron;ivljenje, preporod
+</quote>
+</cit>
+<seg type="example">
+<quote>
+After her marriage it was as though she&apos;d got a new lease of life.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

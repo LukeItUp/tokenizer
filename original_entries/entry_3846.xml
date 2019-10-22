@@ -1,0 +1,190 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+die
+</orth>
+<form type="variant">
+<pron>
+/d*a*I/
+</pron>
+</form>
+<form type="inflected">
+dies, dying, died.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek, &zcaron;ival in rastlina 
+<seg type="lemma">
+dies
+</seg>
+, preneha &zcaron;iveti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umreti, poginiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He died of a heart attack.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+dies a violent or unnatural death
+</seg>
+, umre nasilno ali nenaravno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+umreti nasilne/nenaravne smrti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don't believe Davis died a natural death.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+dies 
+</seg>
+ali 
+<seg type="variant">
+dies away 
+</seg>
+ali 
+<seg type="variant">
+dies down
+</seg>
+, postane &scaron;ibkej&scaron;e in izgine; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ponehati, ugasniti, pole&ccaron;i se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+True love never dies.
+</quote>
+<quote>
+Now that the cheers had died away, it seemed oddly quiet.
+</quote>
+<quote>
+The wind has died down.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+dying
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be dying for something 
+</seg>
+ali 
+<FV>
+to be dying to do something 
+</FV>
+pomeni zelo mo&ccaron;no si &zcaron;eleti, da bi nekaj imeli ali storili; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+umirati za &ccaron;im, hrepeneti po &ccaron;em
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm dying for a drink.
+</quote>
+<quote>
+They were all dying to go to Paris.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar zamisel ali navada 
+<seg type="lemma">
+dies hard
+</seg>
+, se zelo po&ccaron;asi spremeni ali izgine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti trdo&zcaron;iv
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Colonial traditions die hard.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+die out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+dies out
+</seg>
+, postaja vedno manj pogosto in nazadnje izgine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izumreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Many species died out.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

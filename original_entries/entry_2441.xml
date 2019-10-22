@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+click
+</orth>
+<form type="variant">
+<pron>
+/kl*Ik/
+</pron>
+</form>
+<form type="inflected">
+clicks, clicking, clicked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To click 
+</seg>
+pomeni povzro&ccaron;iti kratek, oster zvok. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tleskniti, po&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His camera was clicking away.
+</quote>
+<quote>
+He clicked the switch on the radio.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The lock opened with a click.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+has clicked
+</seg>
+, tisto nenadoma razumemo; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+posvetiti se, postati jasno
+</quote>
+</cit>
+</sense>
+</entry>

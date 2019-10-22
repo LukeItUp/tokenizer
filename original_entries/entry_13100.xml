@@ -1,0 +1,285 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slip
+</orth>
+<form type="variant">
+<pron>
+/sl*Ip/
+</pron>
+</form>
+<form type="inflected">
+slips, slipping, slipped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slip 
+</seg>
+pomeni po nesre&ccaron;i zdrsniti in izgubiti razvnote&zcaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrsniti, spodrsniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I slipped on the snow and sprained my ankle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slips
+</seg>
+, se po&ccaron;asi premakne s svojega mesta. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrsniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She pulled up her sock which had slipped down.
+</quote>
+<quote>
+It slipped from his fingers and fell with a bump.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slip somewhere 
+</seg>
+pomeni iti nekam hitro in tiho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmuzniti se, uiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I hope we can slip away before she notices.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To slip something somewhere 
+</seg>
+pomeni nekaj dati nekam hitro in tiho. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neopazno dati, spustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He slipped it quickly into his pocket.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ, 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+slip 
+</seg>
+pove tudi, da nekdo oble&ccaron;e ali sle&ccaron;e obla&ccaron;ila hitro in brez te&zcaron;av. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdrsniti, sko&ccaron;iti v/iz
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I slipped into my pyjamas.
+</quote>
+<quote>
+He slipped on his shoes and went out.
+</quote>
+<quote>
+She slipped off her dress.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slip 
+</seg>
+je majhna napaka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodrsljaj, napakica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I must have made a slip somewhere.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slip of paper 
+</seg>
+je majhen kos papirja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+listi&ccaron;
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slips one&apos;s mind
+</seg>
+, na tisto nekdo pozabi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uiti iz spomina
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+gives someone the slip
+</seg>
+, mu uspe, da se nekomu izogne; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zmuzniti se, izogniti se
+</quote>
+</cit>
+</sense>
+<xr type="related">
+<QF>
+slip of the tongue: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+tongue.
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+slip up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To slip up 
+</seg>
+pomeni narediti napako. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+narediti napako, spodrsniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must have slipped up somewhere.
+</quote>
+</seg>
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+slip-up.
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

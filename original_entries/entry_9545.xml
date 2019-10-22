@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nickname
+</orth>
+<form type="variant">
+<pron>
+/n*IkneIm/
+</pron>
+</form>
+<form type="inflected">
+nicknames, nicknaming, nicknamed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nickname 
+</seg>
+je &ccaron;lovekovo neuradno ime. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzdevek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...Graham Rathbone, whose nickname was Raffy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nicknames someone or something
+</seg>
+, nekomu ali ne&ccaron;emu da vzdevek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dati vzdevek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For a brief while, Mrs Thatcher was nicknamed &lsquo;Tina&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

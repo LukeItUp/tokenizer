@@ -1,0 +1,250 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trust
+</orth>
+<form type="variant">
+<pron>
+/tr*Vst/
+</pron>
+</form>
+<form type="inflected">
+trusts, trusting, trusted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trust someone 
+</seg>
+pomeni verjeti, da je nekdo po&scaron;ten in nam ne bo namerno naredil ni&ccaron; slabega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Everybody liked and trusted him.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Adam could feel his father&apos;s trust in him.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trust someone to do something 
+</seg>
+pomeni verjeti, da bo nekdo nekaj res naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She didn&apos;t trust anyone to look after her child properly.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trust someone with something 
+</seg>
+pomeni dovoliti nekomu, da nekaj naredi ali za nekaj poskrbi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nekaj zaupati nekomu
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Next year I hope the company will trust me with a bigger budget.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Not to trust something 
+</seg>
+pomeni, da imamo ob&ccaron;utek, da nekaj ni varno ali zanesljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I don&apos;t trust fancy gimmicks in cars.
+</quote>
+<quote>
+He wanted to get up and walk, but he didn&apos;t trust his legs.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trust one&apos;s judgement or advice 
+</seg>
+pomeni verjeti, da je presoja ali nasvet nekoga dober ali pravilen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Trust your own instincts.
+</quote>
+<quote>
+She seems to trust his advice.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To trust that something is true 
+</seg>
+pomeni upati in pri&ccaron;akovati, da je nekaj res; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+domnevati, pri&ccaron;akovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They will give you a good pension, I trust?
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Trust 
+</seg>
+je tudi odgovornost, ki nam jo nekdo nalo&zcaron;i za pomembne, veliko vredne ali skrivne zadeve. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaupanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The judge took the view that to betray a position of trust in such a manner was disgraceful.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trust 
+</seg>
+je tudi oblika finan&ccaron;nega poslovanja, pri kateri neka organizacija upravlja s finan&ccaron;nimi sredstvi za nekoga in jih vlaga v razli&ccaron;ne nalo&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sklad
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a lifetime interest trust.
+</quote>
+</seg>
+</sense>
+</entry>

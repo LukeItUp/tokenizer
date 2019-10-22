@@ -1,0 +1,81 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+nurse
+</orth>
+<form type="variant">
+<pron>
+/n*$e*:s/
+</pron>
+</form>
+<form type="inflected">
+nurses, nursing, nursed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A nurse 
+</seg>
+je oseba, ki poklicno skrbi za bolne ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+medicinska sestra
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...a trained nurse.
+</quote>
+<quote>
+Nurse Lorimer.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+nurses someone
+</seg>
+, skrbi za nekoga, ki je bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+negovati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+nursing
+</ref>
+</xr>
+</sense>
+</entry>

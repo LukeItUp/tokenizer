@@ -1,0 +1,54 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sham
+</orth>
+<form type="variant">
+<pron>
+/S*&ae;m/
+</pron>
+</form>
+<form type="inflected">
+shams.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+a sham
+</seg>
+, ni tisto, kar se zdi na prvi pogled; 
+</def>
+<usg>
+izra&zcaron;a neodobravanje.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+slepilo, prevara, farsa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their independence is a sham.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a sham fight.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

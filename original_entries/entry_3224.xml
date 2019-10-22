@@ -1,0 +1,104 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+criminal
+</orth>
+<form type="variant">
+<pron>
+/kr*ImIn@0l/
+</pron>
+</form>
+<form type="inflected">
+criminals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A criminal 
+</seg>
+je oseba, ki je storila zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&ccaron;inec, hudodelec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...one of the country's ten most wanted criminals.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+criminal
+</seg>
+, je povezano z zlo&ccaron;inom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&ccaron;inski, kazenski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had done nothing criminal.
+</quote>
+<quote>
+...a criminal offence.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+criminally
+</orth>
+<gramGrp>
+<pos>
+SUBMOD
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...criminally responsible for the loss of lives.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Criminal 
+</seg>
+pomeni tudi eti&ccaron;no napa&ccaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlo&ccaron;inski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+To refuse medical aid would be criminal.
+</quote>
+</seg>
+</sense>
+</entry>

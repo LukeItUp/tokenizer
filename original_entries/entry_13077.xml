@@ -1,0 +1,289 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleep
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:p/
+</pron>
+</form>
+<form type="inflected">
+sleeps, sleeping, slept
+</form>
+<form type="variant">
+<pron>
+/sl*ept/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sleep 
+</seg>
+je naravno stanje, v katerem so na&scaron;e o&ccaron;i zaprte, telo in um pa sta nedejavna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spanje, spanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t been getting enough sleep recently.
+</quote>
+<quote>
+Now go to sleep and stop worrying.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sleep 
+</seg>
+pomeni po&ccaron;ivati tako, da so na&scaron;e o&ccaron;i zaprte, telo in um pa nedejavna in nezavestna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She slept till ten in the morning.
+</quote>
+<quote>
+He was so excited he could hardly sleep.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+sleeping
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I glanced down at the sleeping figure.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sleep 
+</seg>
+je obdobje, v katerem spimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spanje, spanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You&apos;ll feel better if you have a little sleep.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar hi&scaron;a 
+<seg type="lemma">
+sleeps a particular number of people
+</seg>
+, so v njej postelje za dolo&ccaron;eno &scaron;tevilo ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti dolo&ccaron;eno &scaron;tevilo postelj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Each apartment sleeps up to five adults.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dve osebi 
+<seg type="lemma">
+are sleeping together
+</seg>
+, imata spolne odnose. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spati
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar del telesa 
+<seg type="lemma">
+goes to sleep
+</seg>
+, &ccaron;lovek v njem ne &ccaron;uti ni&ccaron;esar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaspati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His foot had gone to sleep.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar bolna ali po&scaron;kodovana &zcaron;ival 
+<seg type="lemma">
+is put to sleep
+</seg>
+, jo usmrtijo na nebole&ccaron; na&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uspavati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Sheba had to be put to sleep.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+sleep around.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sleep around 
+</seg>
+pomeni imeti spolne odnose z ve&ccaron; razli&ccaron;nimi osebami v dolo&ccaron;enem obdobju; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+spati
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sleep off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sleep off the effects of too much food or alcohol 
+</seg>
+pomeni s spanjem okrevati po preve&ccaron; zau&zcaron;ite hrane ali alkohola. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odspati, prespati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We went back to our room to sleep it off.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+sleep through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To sleep through a noise 
+</seg>
+pomeni, da se &ccaron;lovek, ki spi, kljub hrupu ne zbudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prespati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The girl slept through everything.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

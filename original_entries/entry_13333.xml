@@ -1,0 +1,116 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sow,
+</orth>
+<form type="inflected">
+sows, sowing, sowed, sown
+</form>
+<form type="variant">
+<pron>
+/s*@*Un/
+</pron>
+;
+</form>
+<PN>
+Kadar je beseda 
+<PP>
+sow 
+</PP>
+glagol, jo izgovarjamo 
+<pron>
+/s*@*U/
+</pron>
+, kadar je samostalnik, pa 
+<pron>
+/s*a*U/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sow seeds 
+</seg>
+ali 
+<seg type="lemma">
+to sow an area of land with seeds 
+</seg>
+pomeni, da na nekem obmo&ccaron;ju polo&zcaron;imo seme v zemljo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posejati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+You can sow winter wheat in October.
+</quote>
+<quote>
+The land was cleared of weeds and sown with grass.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To sow an undesirable feeling among people 
+</seg>
+pomeni spro&zcaron;iti neza&zcaron;elene ob&ccaron;utke v ljudeh; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zasejati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She attacked those who sow dismay and division in the party.
+</quote>
+<quote>
+...sowing doubt and uncertainty.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A sow 
+</seg>
+je odrasla samica pra&scaron;i&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+svinja
+</quote>
+</cit>
+</sense>
+</entry>

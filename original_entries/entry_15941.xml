@@ -1,0 +1,125 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wheel
+</orth>
+<form type="variant">
+<pron>
+/w*i*:l/
+</pron>
+</form>
+<form type="inflected">
+wheels, wheeling, wheeled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wheel 
+</seg>
+je okrogel predmet, ki se vrti okoli svoje osi. Take predmete privijemo pod vozilo, da se lahko premika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kolo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The train started, its wheels squealing against the metal tracks.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A wheel 
+</seg>
+ima tudi enak pomen kot 
+<seg type="lemma">
+a steering wheel
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+volan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Howard sits behind the wheel.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To wheel something 
+</seg>
+pomeni nekaj potiskati naprej, na primer kolo ali vozi&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+voziti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My father was wheeling his bicycle up the hill.
+</quote>
+<quote>
+The equipment had to be wheeled around on a large trolley.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+wheels
+</seg>
+, se premika v kro&zcaron;ni &ccaron;rti ali po delnem obodu kroga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti se, kro&zcaron;iti; obrniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The sky becomes filled with birds wheeling back and forth.
+</quote>
+<quote>
+The plane banked and wheeled.
+</quote>
+<quote>
+I wheeled around and shook her hand.
+</quote>
+</seg>
+</sense>
+</entry>

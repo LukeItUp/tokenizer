@@ -1,0 +1,59 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+rental
+</orth>
+<form type="variant">
+<pron>
+/r*ent@0l/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+rental 
+</seg>
+pomeni povezan z oddajanjem v najem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+najemni&scaron;ki
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a computer rental service.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The rental 
+</seg>
+je znesek, ki ga moramo pla&ccaron;ati, ko si nekaj izposodimo, na primer televizijo ali avto. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izposojevalnina
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The quarterly rental will be &pound;35.
+</quote>
+</seg>
+</sense>
+</entry>

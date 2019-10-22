@@ -1,0 +1,83 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+whirl
+</orth>
+<form type="variant">
+<pron>
+/w*$e*:l/
+</pron>
+</form>
+<form type="inflected">
+whirls, whirling, whirled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+whirls 
+</seg>
+ali kadar nekdo 
+<seg type="lemma">
+whirls something round
+</seg>
+, se tisto zelo hitro vrti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrteti (se), sukati (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the whirling blades of a helicopter.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a whirl of dust.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Veliko silovite dejavnosti lahko imenujemo 
+<seg type="lemma">
+a whirl of activity
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vrtinec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We flung ourselves into the mad whirl of pleasure.
+</quote>
+</seg>
+</sense>
+</entry>

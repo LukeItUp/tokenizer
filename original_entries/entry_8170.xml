@@ -1,0 +1,103 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+leaf
+</orth>
+<form type="variant">
+<pron>
+/l*i*:f/
+</pron>
+</form>
+<form type="inflected">
+leaves
+</form>
+<form type="variant">
+<pron>
+/l*i*:vz/
+</pron>
+;
+</form>
+<form type="inflected">
+leafs, leafing, leafed.
+</form>
+<IN>
+<IH>
+Leaves 
+</IH>
+<IC>
+je mno&zcaron;inska oblika samostalnika. 
+</IC>
+<IH>
+Leafs 
+</IH>
+<IC>
+je oblika za 3. osebo ednine sedanjega &ccaron;asa pri fraznem glagolu.
+</IC>
+</IN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The leaves of a tree or plant 
+</seg>
+so deli drevesa ali rastline, ki so ploski, tanki in navadno zeleni. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+list; listje
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so drevesa 
+<seg type="lemma">
+in leaf
+</seg>
+, imajo na vejah liste. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ozelenel
+</quote>
+</cit>
+</sense>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+leaf through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To leaf through a book or newspaper 
+</seg>
+pomeni hitro obra&ccaron;ati liste knjige ali &ccaron;asopisa, ne da bi jih pozorno pogledali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prelistati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

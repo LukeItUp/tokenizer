@@ -1,0 +1,383 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+count
+</orth>
+<form type="variant">
+<pron>
+/k*a*Unt/
+</pron>
+</form>
+<form type="inflected">
+counts, counting, counted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To count 
+</seg>
+pomeni na&scaron;teti vsa &scaron;tevila po vrsti do dolo&ccaron;ene vrednosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+&scaron;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I'm going to count up to three.
+</quote>
+<quote>
+After counting sixty the rest set off in pursuit.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To count all the things in a group 
+</seg>
+pomeni se&scaron;teti vse stvari v skupini, da bi videli, koliko jih je.
+</def>
+<cit type="translationEquivalent">
+<quote>
+pre&scaron;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He withdrew to his office to count the money.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A count 
+</seg>
+je &scaron;tevilo, ki ga dobimo, &ccaron;e pre&scaron;tejemo dolo&ccaron;eno vrsto stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&scaron;tevek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The official government count has now risen to eight million.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+counts
+</seg>
+, je v dolo&ccaron;enih okoli&scaron;&ccaron;inah najpomembnej&scaron;a stvar. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti pomemben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+What counts is how you feel about yourself.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e dolo&ccaron;ena stvar 
+<seg type="lemma">
+counts for something
+</seg>
+, je dragocena ali pomembna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veljati, biti pomemben
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I felt that all my years there counted for nothing.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+counts as a particular thing
+</seg>
+, tisto obravnavamo kot nekaj podobnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+veljati za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+These benefits do not count as income for tax purposes.
+</quote>
+<quote>
+They can hardly be counted as friends.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+TITLE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A count 
+</seg>
+je tudi evropski plemi&ccaron; enake veljave kot britanski 
+<seg type="lemma">
+earl
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+grof
+</quote>
+</cit>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To keep count of a number of things 
+</seg>
+pomeni zabele&zcaron;iti, koliko stvari se je zgodilo. 
+<FV>
+To lose count of a number of things 
+</FV>
+pomeni, da se ne spominjamo, koliko stvari se je zgodilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pre&scaron;teti; u&scaron;teti se
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+&Ccaron;e je nekaj narobe 
+<seg type="lemma">
+on a number of counts
+</seg>
+, je narobe zaradi toliko vzrokov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razlog, stvar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The use of these tests is criticized on two counts.
+</quote>
+<quote>
+They are right on the first count but wrong on the second.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+count against.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+counts against someone
+</seg>
+, lahko povzro&ccaron;i, da je nekdo kaznovan ali zavrnjen. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+govoriti proti, biti ovira
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+count on 
+<VS>
+ali 
+</VS>
+<VV>
+count upon.
+</VV>
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To count on someone or something 
+</seg>
+ali 
+<seg type="variant">
+to count upon someone or something 
+</seg>
+pomeni zanesti se na nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanesti se, ra&ccaron;unati na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Doctors could now count on a regular salary.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+count out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To count out a sum of money 
+</seg>
+pomeni &scaron;teti denar, medtem ko polagamo bankovce ali kovance na kup&ccaron;ek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pre&scaron;teti
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+count up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To count up all things in a group 
+</seg>
+pomeni pre&scaron;teti vse stvari v skupini. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&scaron;teti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I counted up my years of teaching experience.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+count upon.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<xr type="related">
+<seg>
+Glej 
+</seg>
+<ref>
+count on
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

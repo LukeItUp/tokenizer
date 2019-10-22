@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+compare
+</orth>
+<form type="variant">
+<pron>
+/k@7mp*e*@/
+</pron>
+</form>
+<form type="inflected">
+compares, comparing, compared.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+RECIP VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To compare things 
+</seg>
+pomeni stvari oceniti in ugotoviti njihove razlike ali podobnosti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+primerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It's interesting to compare the two prospectuses.
+</quote>
+<quote>
+...studies comparing Russian children with those in Britain.
+</quote>
+<quote>
+The fee is low, compared with that at many other independent schools.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To compare one person or thing to another 
+</seg>
+pomeni re&ccaron;i, da sta si dva &ccaron;loveka ali stvari podobna. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+primerjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As an essayist he is compared frequently to Paine and Hazlitt.
+</quote>
+</seg>
+</sense>
+</entry>

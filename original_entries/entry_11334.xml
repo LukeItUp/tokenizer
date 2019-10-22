@@ -1,0 +1,98 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+purse
+</orth>
+<form type="variant">
+<pron>
+/p*$e:s/
+</pron>
+</form>
+<form type="inflected">
+purses, pursing, pursed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A purse 
+</seg>
+je torbica, v kateri ljudje, zlasti &zcaron;enske, nosijo denar; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+denarnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She began hunting in her purse for some coins.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A purse 
+</seg>
+pomeni isto kot 
+<seg type="lemma">
+a handbag
+</seg>
+; 
+</def>
+<usg>
+ameri&scaron;ka raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+ro&ccaron;na torbica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She strolled along, swinging her old white purse.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To purse one&apos;s lips 
+</seg>
+pomeni potegniti ustnice v stisnjeno okroglo obliko. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&scaron;obiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He pursed his lips in distaste.
+</quote>
+</seg>
+</sense>
+</entry>

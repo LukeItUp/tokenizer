@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+creature
+</orth>
+<form type="variant">
+<pron>
+/kr*i*:tS@/
+</pron>
+</form>
+<form type="inflected">
+creatures.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A creature 
+</seg>
+je &zcaron;ivo bitje, na primer &zcaron;ival, ptica ali &zcaron;u&zcaron;elka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bitje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Worms are very simple creatures.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+creature 
+</seg>
+lahko uporabimo tudi, kadar govorimo o ljudeh. Na primer: nekoga imenujemo 
+<seg type="lemma">
+a stupid creature
+</seg>
+, da poudarimo njegovo neumnost.
+</def>
+<cit type="translationEquivalent">
+<quote>
+bitje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was a weak and helpless creature.
+</quote>
+</seg>
+</sense>
+</entry>

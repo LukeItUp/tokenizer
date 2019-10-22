@@ -1,0 +1,99 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+underground;
+</orth>
+<PN>
+prislov izgovarjamo 
+<pron>
+/Vnd@gr*a*Und/
+</pron>
+, pridevnik ali samostalnik pa 
+<pron>
+/*Vnd@graUnd/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ 
+<seg>
+or 
+</seg>
+ADV
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+underground
+</seg>
+, je pod zemeljskim povr&scaron;jem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podzemen, pod zemljo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an underground car park.
+</quote>
+<quote>
+The larvae hatch and make their way underground.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Dejavnosti, ki so 
+<seg type="lemma">
+underground
+</seg>
+, se v dr&zcaron;avi, v kateri politi&ccaron;na opozija ni dovoljena, dogajajo na skrivaj in so uperjene proti vladi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+tajen, ilegalen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an underground newspaper.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The Underground 
+</seg>
+je &zcaron;elezni&scaron;ki promet, pri katerem elektri&ccaron;ni vlaki vozijo v podzemnih predorih; 
+</def>
+<usg>
+britanska raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+podzemna &zcaron;eleznica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We went by Underground to Trafalgar Square.
+</quote>
+</seg>
+</sense>
+</entry>

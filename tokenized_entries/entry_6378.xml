@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p333_s365278" id="p333_w241" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="290.342" base="296.75" width="37.5208" height="8.514">guideline</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p333_s365279" id="p333_w242" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="96.07" y="291.588" base="296.75" width="36.1916" height="6.844">/ga&#203;dla&#203;n/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p333_s365280" id="p333_w243" font-name="ssunivers" serif="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="134.09" y="291.41" base="296.75" width="34.8705" height="7.08">guidelines.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p333_s365281" id="p333_w244" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="170.79" y="292.834" base="296.75" width="18.9714" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p333_s365282" id="p333_w245" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="191.021" y="292.834" base="296.75" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p333_s365283" id="p333_w246" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="196.97" y="291.054" base="296.75" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p333_s365284" id="p333_w247" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.4" y="291.054" base="296.75" width="31.5821" height="7.552">guideline</TOKEN>
+</seg>
+<TOKEN sid="p333_s365285" id="p333_w248" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="237.81" y="291.054" base="296.75" width="6.00048" height="7.552">je</TOKEN>
+<TOKEN sid="p333_s365286" id="p333_w249" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="300.134" base="305.83" width="24.0005" height="7.552">nasvet,</TOKEN>
+<TOKEN sid="p333_s365287" id="p333_w250" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="88.2205" y="300.134" base="305.83" width="16.8026" height="7.552">kako</TOKEN>
+<TOKEN sid="p333_s365288" id="p333_w251" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="106.853" y="300.134" base="305.83" width="10.7986" height="7.552">naj</TOKEN>
+<TOKEN sid="p333_s365289" id="p333_w252" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="119.482" y="300.134" base="305.83" width="18.7963" height="7.552">nekaj</TOKEN>
+<TOKEN sid="p333_s365290" id="p333_w253" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="140.109" y="300.134" base="305.83" width="27.9958" height="7.552">storimo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p333_s365292" id="p333_w255" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="175.98" y="300.134" base="305.83" width="32.7902" height="7.552">smernica;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p333_s365293" id="p333_w256" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="210.6" y="300.134" base="305.83" width="33.2014" height="7.552">&#8230;govern-</TOKEN>
+<TOKEN sid="p333_s365294" id="p333_w257" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3899" y="309.214" base="314.91" width="17.1965" height="7.552">ment</TOKEN>
+<TOKEN sid="p333_s365295" id="p333_w258" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="81.5851" y="309.214" base="314.91" width="12.4027" height="7.552">pay</TOKEN>
+<TOKEN sid="p333_s365296" id="p333_w259" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.9866" y="309.214" base="314.91" width="36.7776" height="7.552">guidelines.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

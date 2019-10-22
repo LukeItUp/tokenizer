@@ -1,0 +1,670 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+strike
+</orth>
+<form type="variant">
+<pron>
+/str*a*Ik/
+</pron>
+</form>
+<form type="inflected">
+strikes, striking, struck
+</form>
+<form type="variant">
+<pron>
+/str*Vk/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A strike 
+</seg>
+je dogodek, ko delavci za nekaj &ccaron;asa nehajo delati, da bi dosegli bolj&scaron;e pla&ccaron;ilo ali delovne pogoje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the miners&apos; strike.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar delavci 
+<seg type="lemma">
+strike
+</seg>
+, za nekaj &ccaron;asa nehajo delati, da bi dosegli bolj&scaron;e pla&ccaron;ilo ali delovne pogoje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavkati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Airline pilots are threatening to strike.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A hunger strike 
+</seg>
+je protest v obliki odklanjanja hrane. 
+<seg type="lemma">
+A rent strike 
+</seg>
+je protest v obliki nepla&ccaron;evanja najemnine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gladovna stavka; stavka z nepla&ccaron;evanjem najemnine
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike someone or something 
+</seg>
+pomeni nekoga ali nekaj mo&ccaron;no zadeti z delom telesa ali kakim predmetom; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+udariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He struck the ball beautifully.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+or 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+strikes something else 
+</seg>
+ali 
+<seg type="lemma">
+strikes against something else
+</seg>
+, se mo&ccaron;no dotakne ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+udariti, zadeti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The house was struck by lightning.
+</quote>
+<quote>
+The trawler struck against the jetty.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar bolezen ali katastrofa 
+<seg type="lemma">
+strikes
+</seg>
+, se zgodi nenadoma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prizadeti, udariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the earthquake that struck Japan last Tuesday.
+</quote>
+<quote>
+When disaster strikes, you need sympathy and practical advice.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike 
+</seg>
+pomeni hitro in nasilno napasti nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napasti, nasko&ccaron;iti, udariti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Raising herself slightly, the snake strikes.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The Air Force carried out air strikes as a result of the information received.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ideja ali misel 
+<seg type="lemma">
+strikes someone
+</seg>
+, se je &ccaron;lovek nenadoma domisli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pasti na pamet, pre&scaron;initi, posvetiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It struck him how foolish his behaviour had been.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+strikes someone in a particular way
+</seg>
+, na &ccaron;loveka naredi dolo&ccaron;en vtis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdeti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Gertie strikes me as a very silly girl.
+</quote>
+<quote>
+How did London strike you?
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be struck by something 
+</seg>
+pomeni, da nekaj na nas naredi mo&ccaron;an vtis. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osupniti, pustiti nepozaben vtis
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had been struck by what he saw.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ura 
+<seg type="lemma">
+strikes
+</seg>
+, njeni udarci povedo, koliko je ura. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(od)biti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The church clock struck eleven.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike a bargain or deal with someone 
+</seg>
+pomeni, da z nekom pridemo do dogovora ali pogodbe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dose&ccaron;i, skleniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The council hoped to strike a deal that would give it more power.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike a match 
+</seg>
+pomeni potegniti z v&zcaron;igalico po trdi povr&scaron;ini, da zagori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pri&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He struck a match and put it to his pipe.
+</quote>
+</seg>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike oil or gold 
+</seg>
+pomeni s kopanjem ali vrtanjem najti nafto ali zlato pod zemeljskim povr&scaron;jem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odkriti, naleteti na
+</quote>
+</cit>
+</sense>
+<sense n="15">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+striking.
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar so delavci 
+<seg type="lemma">
+on strike
+</seg>
+, no&ccaron;ejo delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+stavka
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I would never go on strike for more money.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar izre&ccaron;ene besede 
+<seg type="lemma">
+strike a particular note
+</seg>
+, ustvarijo dolo&ccaron;en vtis ali ozra&ccaron;je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zveneti, sli&scaron;ati se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His words struck a slightly false note for me.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To strike a balance 
+</seg>
+pomeni narediti nekaj, kar je na sredini med dvema skrajnostima. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlo&ccaron;iti se za srednjo re&scaron;itev, vzpostaviti ravnote&zcaron;je
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+strikes fear or terror into people
+</seg>
+, nenadoma povzro&ccaron;i strah med ljudmi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+napolniti (s strahom ali grozo), nagnati (strah v kosti)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tanks struck terror into the hearts of the peasants.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To be struck dumb 
+</seg>
+ali 
+<FV>
+to be struck blind 
+</FV>
+pomeni, da nenadoma ne moremo govoriti ali videti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+onemeti; zaslepiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We were struck dumb with horror.
+</quote>
+</seg>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+strike down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To strike someone down 
+</seg>
+pomeni ubiti ali hudo po&scaron;kodovati nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podreti; umoriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Kennedy was struck down by an assassin&apos;s bullet.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+strike off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar zdravnik ali odvetnik 
+<seg type="lemma">
+is struck off
+</seg>
+, je njegovo ime odstranjeno z uradnega seznama oseb, ki smejo opravljati delo zdravnika ali odvetnika. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti &ccaron;rtan s seznama; izgubiti licenco
+</quote>
+</cit>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+strike out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To strike out somewhere 
+</seg>
+pomeni oditi od nekod proti dolo&ccaron;enemu cilju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odpraviti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He struck out for the village of Tracy.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To strike out 
+</seg>
+pomeni tudi za&ccaron;eti nekaj delati brez sodelovanja z drugimi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti na svoje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He decided to strike out on his own.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+strike up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+strikes up a conversation or friendship
+</seg>
+, za&ccaron;ne pogovor ali prijateljstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaplesti se; skleniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Alice and I struck up a friendship immediately.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar glasbeniki 
+<seg type="lemma">
+strike up
+</seg>
+, za&ccaron;nejo igrati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaigrati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The band had just struck up Ellington&apos;s &lsquo;Satin Doll&rsquo;.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

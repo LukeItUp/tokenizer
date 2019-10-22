@@ -1,0 +1,78 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+entitle
+</orth>
+<form type="variant">
+<pron>
+/I2nt*a*It@0l/
+</pron>
+</form>
+<form type="inflected">
+entitles, entitling, entitled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+entitles someone to have or do something
+</seg>
+, nekomu daje pravico, da tisto ima ali stori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+upravi&ccaron;iti, dati pravico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Their qualifications entitle them to a higher salary.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Besedo 
+<seg type="lemma">
+entitled 
+</seg>
+uporabimo, kadar govorimo o naslovu knjige, filma ali slike. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+naslovljen, z naslovom
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a report entitled &lsquo;Attitudes Towards Geriatrics&rsquo;.
+</quote>
+</seg>
+</sense>
+</entry>

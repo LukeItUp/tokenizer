@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+censor
+</orth>
+<form type="variant">
+<pron>
+/s*ens@/
+</pron>
+</form>
+<form type="inflected">
+censors, censoring, censored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+censors something
+</seg>
+, uradno pregleda neko pismo, poro&ccaron;ilo, knjigo, igro ali film in &ccaron;rta ali izlo&ccaron;i dele, ki se mu zdijo nesprejemljivi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cenzurirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was censoring his platoon's mail.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A censor 
+</seg>
+je &ccaron;lovek, ki je uradno odgovoren za cenzuriranje knjig, iger in filmov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+cenzor
+</quote>
+</cit>
+</sense>
+</entry>

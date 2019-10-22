@@ -1,0 +1,990 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+break
+</orth>
+<form type="variant">
+<pron>
+/br*e*Ik/
+</pron>
+</form>
+<form type="inflected">
+breaks, breaking, broke
+</form>
+<form type="variant">
+<pron>
+/br*@*Uk/
+</pron>
+</form>
+<form type="inflected">
+broken
+</form>
+<form type="variant">
+<pron>
+/br*@*Uk@0n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+breaks
+</seg>
+ ali kadar &ccaron;lovek 
+<seg type="lemma">
+breaks something
+</seg>
+, se tisti predmet nenadoma razleti na dva ali ve&ccaron; kosov, ker ga nekaj zadene ali ker ga spustimo na tla. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zlomiti (se), razbiti (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The string broke.
+</quote>
+<quote>
+He has broken a window.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar orodje ali del stroja 
+<seg type="lemma">
+breaks
+</seg>
+ ali kadar &ccaron;lovek 
+<seg type="lemma">
+breaks it
+</seg>
+, je orodje ali stroj pokvarjen in ne deluje ve&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&scaron;kodovati (se), pokvariti (se)
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break a rule, promise, or agreement 
+</seg>
+pomeni storiti nekaj, kar se ne sklada s tistim pravilom, obljubo ali sporazumom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kr&scaron;iti, prelomiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We're not breaking the law.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break a connection or situation 
+</seg>
+pomeni kar na lepem kon&ccaron;ati zvezo ali polo&zcaron;aj, ki je trajal nekaj &ccaron;asa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, opustiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They cannot break the habit.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break with a group of people 
+</seg>
+pomeni ne imeti ve&ccaron; stikov z neko skupino ljudi. 
+<seg type="lemma">
+To break with a way of doing things 
+</seg>
+pomeni, da ne&ccaron;esa ne delamo ve&ccaron; tako kot doslej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, pretrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He broke with precedent by making his maiden speech on a controversial subject.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...their break with the Labour Party in 1968.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break something 
+</seg>
+pomeni zmanj&scaron;ati vpliv ne&ccaron;esa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ubla&zcaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Fortunately, the tree broke her fall.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break someone 
+</seg>
+pomeni nekomu prepre&ccaron;iti uspeh ali uni&ccaron;iti kariero. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uni&ccaron;iti, onemogo&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break a piece of news to someone 
+</seg>
+pomeni nekomu povedati novico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povedati, sporo&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was Ted who broke the news to me.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break for a meal 
+</seg>
+pomeni prekiniti delo zaradi obroka hrane. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vzeti si odmor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We broke for tea.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A break 
+</seg>
+je tudi kratko obdobje, ko po&ccaron;ivamo ali delamo kaj drugega kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odmor
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We all met in the pub during the lunch break.
+</quote>
+<quote>
+The doctors had worked without a break.
+</quote>
+</seg>
+</sense>
+<sense n="11">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A break 
+</seg>
+je tudi ugodna prilo&zcaron;nost; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+sre&ccaron;a, dobra prilo&zcaron;nost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His big break came last spring in Australia.
+</quote>
+</seg>
+</sense>
+<sense n="12">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break a record 
+</seg>
+pomeni dose&ccaron;i bolj&scaron;i uspeh, kot so ga v dolo&ccaron;eni dejavnosti dosegli dotlej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podreti rekord
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Oliver Barrett was out to break his New York-Boston speed record.
+</quote>
+</seg>
+</sense>
+<sense n="13">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar dan 
+<seg type="lemma">
+breaks
+</seg>
+, se za&ccaron;ne svitati, potem ko se no&ccaron; kon&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+daniti se
+</quote>
+</cit>
+</sense>
+<sense n="14">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar val 
+<seg type="lemma">
+breaks
+</seg>
+, se prevali najvi&scaron;ji del vala. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prelomiti se
+</quote>
+</cit>
+</sense>
+<sense n="15">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break a secret code 
+</seg>
+pomeni ugotoviti, kako je mogo&ccaron;e prebrati &scaron;ifrirano sporo&ccaron;ilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dekodirati, de&scaron;ifrirati
+</quote>
+</cit>
+</sense>
+<sense n="16">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar de&scaron;ki glas 
+<seg type="lemma">
+breaks
+</seg>
+, se za stalno poglobi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mutirati
+</quote>
+</cit>
+</sense>
+<sense n="17">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To break one's opponent's serve 
+</seg>
+pri tenisu pomeni zmagati v igri, v kateri servira nasprotnik. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odvzeti servis
+</quote>
+</cit>
+</sense>
+<sense n="18">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+broke, 
+</ref>
+<ref>
+broken
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To break free 
+</seg>
+ali 
+<FV>
+to break someone's hold 
+</FV>
+pomeni na silo se re&scaron;iti nekoga, ki nas dr&zcaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osvoboditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was trying to break free.
+</quote>
+<quote>
+He had my hands behind my back in a hold that was impossible to break.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar podjetje 
+<seg type="lemma">
+breaks even
+</seg>
+, nima ne dobi&ccaron;ka ne izgube. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poslovati s pozitivno ni&ccaron;lo
+</quote>
+</cit>
+</sense>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+break down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar stroj ali vozilo 
+<seg type="lemma">
+breaks down
+</seg>
+, neha delovati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokvariti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The car broke down three miles outside Winchester.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+Kadar sistem, na&ccaron;rt ali razgovor 
+<seg type="lemma">
+breaks down
+</seg>
+, spodleti zaradi kak&scaron;ne te&zcaron;ave ali nesporazuma. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izjaloviti se, obti&ccaron;ati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The talks broke down over differences on doctrine.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar neka snov 
+<seg type="lemma">
+breaks down
+</seg>
+ ali kadar nekaj 
+<seg type="lemma">
+breaks it down
+</seg>
+, se spremeni zaradi kemi&ccaron;nega procesa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razgraditi (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Enzymes break down proteins by chemical action.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+breaks down
+</seg>
+, za&ccaron;ne jokati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti v jok
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<def xml:lang="sl">
+<seg type="lemma">
+To break down a door or barrier 
+</seg>
+pomeni tako mo&ccaron;no udariti po vratih ali pregradi, da se podre. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poru&scaron;iti, podreti
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+breakdown
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break in.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+breaks in
+</seg>
+, na silo pride v stavbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vlomiti, vdreti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To break in on someone's conversation or activity 
+</seg>
+pomeni prekiniti pogovor ali dejavnost drugih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vme&scaron;ati se
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+break-in
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break into.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To break into a building 
+</seg>
+pomeni na silo vstopiti v stavbo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vdreti, vlomiti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To break into 
+</seg>
+pomeni tudi, da nekdo nenadoma za&ccaron;ne nekaj delati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+za&ccaron;eti, planiti v
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rudolph broke into a run.
+</quote>
+<quote>
+The boys broke into applause.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To break into a new area of activity 
+</seg>
+pomeni za&ccaron;eti se ukvarjati z neko novo dejavnostjo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prodreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...women wanting to break into the labour market.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar neki del 
+<seg type="lemma">
+breaks off
+</seg>
+ ali kadar &ccaron;lovek 
+<seg type="lemma">
+breaks it off
+</seg>
+, se tisto odlomi ali odtrga od ne&ccaron;esa drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+odlomiti, odtrgati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Garroway broke off another piece of bread.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To break off
+</seg>
+ pomeni nenadoma opustiti tisto, kar po&ccaron;nemo ali govorimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prekiniti, nehati
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+<seg type="lemma">
+To break off a relationship 
+</seg>
+pomeni kon&ccaron;ati razmerje ali odnos. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razdreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She broke off her engagement.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj, na primer pretep ali bolezen, 
+<seg type="lemma">
+breaks out
+</seg>
+, se nenadoma za&ccaron;ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izbruhniti
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To break out in a rash or a sweat
+</seg>
+, ali kadar 
+<seg type="lemma">
+a rash or a sweat breaks out
+</seg>
+, se na ko&zcaron;i nenadoma pojavi izpu&scaron;&ccaron;aj ali znoj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokazati se, pojaviti se; izlo&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She felt the sweat break out on her forehead.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To break through a barrier 
+</seg>
+pomeni, da se nam posre&ccaron;i izsiliti pot skozi pregrado. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premagati, prebiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I broke through the bushes.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+breakthrough
+</ref>
+</xr>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+break up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+breaks up
+</seg>
+ ali kadar &ccaron;lovek 
+<seg type="lemma">
+breaks something up
+</seg>
+, se tisto lo&ccaron;i ali razdeli na ve&ccaron; manj&scaron;ih delov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razleteti se; povzro&ccaron;iti razpad, razgraditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The wood broke up into a shower of fragments.
+</quote>
+<quote>
+...bacteria that break up decaying vegetation.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To break up with one's wife, husband, girlfriend, or boyfriend 
+</seg>
+pomeni kon&ccaron;ati razmerje z &zcaron;eno, mo&zcaron;em, dekletom ali fantom; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+raziti se, prekiniti zvezo
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<def xml:lang="sl">
+Kadar neka dejavnost 
+<seg type="lemma">
+breaks up
+</seg>
+ ali kadar nekdo 
+<seg type="lemma">
+breaks it up
+</seg>
+, se ta dejavnost kon&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati, prekiniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The party had just broken up.
+</quote>
+<quote>
+The policemen broke the fight up.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<def xml:lang="sl">
+Kadar &scaron;ole ali njihovi u&ccaron;enci 
+<seg type="lemma">
+break up
+</seg>
+, se semester kon&ccaron;a in za u&ccaron;ence se za&ccaron;nejo po&ccaron;itnice. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kon&ccaron;ati pouk
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+break-up
+</ref>
+</xr>
+</sense>
+</sense>
+</sense>
+</entry>

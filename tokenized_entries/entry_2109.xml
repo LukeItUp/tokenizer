@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p105_s115223" id="p105_w861" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="453.962" base="460.37" width="34.7626" height="8.514">celebrity</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p105_s115224" id="p105_w862" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="291.41" y="455.208" base="460.37" width="9.33012" height="6.844">/s6</TOKEN>
+<TOKEN sid="p105_s115225" id="p105_w863" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="301.03" y="454.57" base="457.98" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p105_s115226" id="p105_w864" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="303.64" y="455.208" base="460.37" width="15.8689" height="6.844">lebr&#203;</TOKEN>
+<TOKEN sid="p105_s115227" id="p105_w865" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="319.79" y="454.57" base="457.98" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p105_s115228" id="p105_w866" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="322.4" y="455.208" base="460.37" width="5.02953" height="6.844">ti</TOKEN>
+<TOKEN sid="p105_s115229" id="p105_w867" font-name="ssexcelsior" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="327.75" y="454.57" base="457.98" width="2.39636" height="4.52176">1</TOKEN>
+<TOKEN sid="p105_s115230" id="p105_w868" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="330.36" y="455.208" base="460.37" width="4.8516" height="6.844">/,</TOKEN>
+</pron>
+</form>
+<form type="inflected">
+<TOKEN sid="p105_s115231" id="p105_w869" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="no" italic="no" font-size="7.5" font-color="#000000" rotation="0" angle="0" x="336.77" y="455.03" base="460.37" width="34.0598" height="7.08">celebrities.</TOKEN>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p105_s115232" id="p105_w870" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="372.35" y="456.454" base="460.37" width="18.8506" height="5.192">COUNT</TOKEN>
+<TOKEN sid="p105_s115233" id="p105_w871" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="392.26" y="456.454" base="460.37" width="4.12335" height="5.192">N</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p105_s115234" id="p105_w872" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="397.95" y="454.674" base="460.37" width="5.6016" height="7.552">A</TOKEN>
+<TOKEN sid="p105_s115235" id="p105_w873" font-name="ssexcelsior" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="405.11" y="454.674" base="460.37" width="29.592" height="7.552">celebrity</TOKEN>
+</seg>
+<TOKEN sid="p105_s115236" id="p105_w874" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="436.28" y="454.674" base="460.37" width="5.95008" height="7.552">je</TOKEN>
+<TOKEN sid="p105_s115237" id="p105_w875" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="463.744" base="469.44" width="31.5907" height="7.552">znamenit</TOKEN>
+<TOKEN sid="p105_s115238" id="p105_w876" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="294.4" y="463.744" base="469.44" width="23.9962" height="7.552">~lovek.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p105_s115240" id="p105_w878" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="326.64" y="463.744" base="469.44" width="21.9996" height="7.552">slavna</TOKEN>
+<TOKEN sid="p105_s115241" id="p105_w879" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="350.64" y="463.744" base="469.44" width="29.5942" height="7.552">osebnost</TOKEN>
+</quote>
+</cit>
+</sense>
+</entry>

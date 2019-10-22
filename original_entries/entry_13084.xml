@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sleet
+</orth>
+<form type="variant">
+<pron>
+/sl*i*:t/
+</pron>
+</form>
+<form type="inflected">
+sleeting.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Sleet 
+</seg>
+je delno zmrznjen de&zcaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodra
+</quote>
+</cit>
+<seg type="example">
+<quote>
+An icy sleet was beginning to fall.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+it is sleeting
+</seg>
+ pomeni, da pada sodra. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sodra pada
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It started to sleet.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,57 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+town
+</orth>
+<form type="variant">
+<pron>
+/t*a*Un/
+</pron>
+</form>
+<form type="inflected">
+towns.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A town 
+</seg>
+je kraj z veliko cestami in stavbami, kjer ljudje &zcaron;ivijo in delajo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mesto
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+town 
+</seg>
+lahko uporabljamo za kraj, v katerem &zcaron;ivimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doma&ccaron;i kraj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We packed our stuff and left town.
+</quote>
+</seg>
+</sense>
+</entry>

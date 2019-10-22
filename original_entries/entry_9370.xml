@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mutter
+</orth>
+<form type="variant">
+<pron>
+/m*Vt@/
+</pron>
+</form>
+<form type="inflected">
+mutters, muttering, muttered.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+or 
+</seg>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+mutters
+</seg>
+, govori zelo tiho, tako da ga je te&zcaron;ko sli&scaron;ati, in marsikdaj jezno ali neprijazno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+godrnjati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Denis could be heard muttering to himself about my stupidity.
+</quote>
+<quote>
+&lsquo;Sorry,&rsquo; he muttered.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a quick low mutter.
+</quote>
+</seg>
+</T>
+</sense>
+</entry>

@@ -1,0 +1,281 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+fire
+</orth>
+<form type="variant">
+<pron>
+/f*a*I*@/
+</pron>
+</form>
+<form type="inflected">
+fires, firing, fired.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fire 
+</seg>
+so vro&ccaron;i, svetli plameni, ki jih povzro&ccaron;ijo gore&ccaron;e stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogenj, plamen
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fire 
+</seg>
+je dogodek, pri katerem nekaj neobvladano gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po&zcaron;ar
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A fire had severely damaged the school.
+</quote>
+<quote>
+His neighbour&apos;s house is not insured against fire.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A fire 
+</seg>
+je tudi kup kurjave, ki smo ga za&zcaron;gali in zdaj gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogenj
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He lit a fire and cooked a meal.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Tudi napravo, ki jo poganjata elektrika ali plin, da oddaja vro&ccaron;ino, imenujemo 
+<seg type="lemma">
+a fire
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pe&ccaron;
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fire a gun 
+</seg>
+ali 
+<seg type="lemma">
+to fire a bullet 
+</seg>
+pomeni povzro&ccaron;iti, da krogla zleti iz pu&scaron;ke. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ustreliti, izstreliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I fired three or four times in quick succession.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+firing
+</orth>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The firing stopped.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Fire
+</seg>
+ so streli, izstreljeni iz pu&scaron;ke ali pu&scaron;k. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ogenj, streli
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We climbed up the hill under fire.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To fire questions at someone 
+</seg>
+pomeni nekomu hitro zastaviti veliko vpra&scaron;anj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zasuti z vpra&scaron;anji
+</quote>
+</cit>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar delodajalec 
+<seg type="lemma">
+fires someone
+</seg>
+, nekoga odpusti iz slu&zcaron;be; 
+</def>
+<usg>
+pogovorna raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+odpustiti, nagnati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Graffman fired him for incompetence.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+on fire
+</seg>
+, gori in se uni&ccaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+goreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Two vehicles were on fire.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+catches fire
+</seg>
+, za&ccaron;ne goreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vneti se, zagoreti
+</quote>
+</cit>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To set fire to something 
+</seg>
+pomeni povzro&ccaron;iti, da nekaj za&ccaron;ne goreti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zanetiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He set fire to the church.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

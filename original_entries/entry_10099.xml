@@ -1,0 +1,38 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+owner
+</orth>
+<form type="variant">
+<pron>
+/*@*Un@/
+</pron>
+</form>
+<form type="inflected">
+owners.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The owner of something 
+</seg>
+je oseba, ki ima nekaj v lasti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+lastnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The average car owner drives 10,000 miles per year.
+</quote>
+</seg>
+</sense>
+</entry>

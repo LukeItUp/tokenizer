@@ -1,0 +1,269 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+taste
+</orth>
+<form type="variant">
+<pron>
+/t*e*Ist/
+</pron>
+</form>
+<form type="inflected">
+tastes, tasting, tasted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s sense of taste 
+</seg>
+je &ccaron;lovekova sposobnost, da z jezikom prepozna okus stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okus
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The taste of something 
+</seg>
+je okus ne&ccaron;esa, na primer sladek ali slan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The soup was peppered and spiced to improve the taste.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT 
+<seg>
+or 
+</seg>
+COMPLEMENT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To taste 
+</seg>
+pomeni imeti dolo&ccaron;en okus. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+imeti okus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The tea tasted faintly of bitter almonds.
+</quote>
+<quote>
+Tinned tomatoes taste delicious.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To taste something 
+</seg>
+pomeni zaznavati okus ne&ccaron;esa, kar jemo ali pijemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okusiti, &ccaron;utiti okus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Roger chewed and swallowed so fast that he hardly tasted the meat.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To taste food or drink 
+</seg>
+pomeni dati v usta majhno koli&ccaron;ino hrane ali pija&ccaron;e, da ugotovimo, kak&scaron;en okus ima. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pokusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He insisted on pouring the wine for a guest to taste.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a taste of food or drink 
+</seg>
+pomeni dati v usta majhno koli&ccaron;ino hrane ali pija&ccaron;e, da vidimo, kak&scaron;en okus ima. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+oku&scaron;anje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I opened one of the bottles and had a taste of the contents.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a taste for something 
+</seg>
+pomeni u&zcaron;ivati v ne&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagnjenje, ljubezen do ne&ccaron;esa
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had not lost the taste for power.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To have a taste of a state or activity 
+</seg>
+pomeni za kraj&scaron;i &ccaron;as izkusiti neko stanje ali dejavnost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+(kraj&scaron;a) izku&scaron;nja
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The child may already have had a taste of street life.
+</quote>
+</seg>
+</sense>
+<sense n="9">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s taste 
+</seg>
+je to, da so nekomu nekatere stvari v&scaron;e&ccaron;, druge pa ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+okus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She has very good taste in clothes.
+</quote>
+<quote>
+Her novels are too violent for my taste.
+</quote>
+</seg>
+</sense>
+<sense n="10">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kar je 
+<seg type="lemma">
+in bad taste
+</seg>
+, je nekoliko &zcaron;aljivo. Kar je 
+<FV>
+in good taste
+</FV>
+, ni &zcaron;aljivo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+neokusen, netakten; okusen, takten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That remark was in rather poor taste.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

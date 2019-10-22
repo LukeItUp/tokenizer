@@ -1,0 +1,296 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+try
+</orth>
+<form type="variant">
+<pron>
+/tr*a*I/
+</pron>
+</form>
+<form type="inflected">
+tries, trying, tried.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To try to do something 
+</seg>
+pomeni truditi se, da bi nekaj naredili. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My sister tried to cheer me up.
+</quote>
+<quote>
+They tried but failed.
+</quote>
+<quote>
+I tried hard not to think about it.
+</quote>
+<quote>
+Try and finish that by next Friday.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+After a few tries they gave up.
+</quote>
+<quote>
+It&apos;s certainly worth a try.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;for&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To try for something 
+</seg>
+pomeni truditi se, da bi nekaj dobili ali dosegli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti nekaj dose&ccaron;i, prizadevati si za
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The school advised Mr Denby to let his son try for university.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To try something 
+</seg>
+pomeni nekaj uporabiti ali narediti, da bi tako ugotovili, kako uporabno, u&ccaron;inkovito ali prijetno je. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskusiti, poskusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I tried a different approach to the problem.
+</quote>
+<quote>
+Have you ever tried painting?
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+We can give it a try and see how it looks.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To try a particular place or person 
+</seg>
+pomeni iti na neki kraj ali do neke osebe, ker mislimo, da bi tam lahko dobili tisto, kar si &zcaron;elimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskusiti sre&ccaron;o
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We tried two or three hotels, but they were full.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek 
+<seg type="lemma">
+is tried
+</seg>
+, mora priti na sodi&scaron;&ccaron;e; tam sodnik in porotniki poslu&scaron;ajo dokazni postopek in se nato odlo&ccaron;ijo, ali je tisti &ccaron;lovek kriv ali nedol&zcaron;en. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+soditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A youth was tried in the criminal courts for stealing.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+try 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+hand 
+</QF>
+<QI>
+at something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+hand
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+try 
+</QF>
+<QI>
+your 
+</QI>
+<QF>
+luck 
+</QF>
+<QI>
+at something: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+luck
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+try on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To try on a piece of clothing 
+</seg>
+pomeni oble&ccaron;i obla&ccaron;ilo, da vidimo, ali je primerno za nas. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomeriti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She tried on her new dress.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+try out.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To try something out 
+</seg>
+pomeni preverjati, kako uporabno ali u&ccaron;inkovito je nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+preskusiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Oxford is trying out an idea to help working parents.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

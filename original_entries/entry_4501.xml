@@ -1,0 +1,111 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+egg
+</orth>
+<form type="variant">
+<pron>
+/*eg/
+</pron>
+</form>
+<form type="inflected">
+eggs, egging, egged.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An egg 
+</seg>
+je okrogel predmet, ki ga zle&zcaron;e pti&ccaron;ja samica in iz katerega se pozneje izvali mladi&ccaron;. Tudi nekatere druge &zcaron;ivali, na primer plazilci in ribe, le&zcaron;ejo jajca. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jajce
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An egg 
+</seg>
+je tudi koko&scaron;je jajce in velja za &zcaron;ivilo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jajce
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+FOOD
+</QZ>
+.
+</QP>
+<seg type="example">
+<quote>
+...bacon and egg.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An egg 
+</seg>
+je tudi celica &zcaron;enske ali &zcaron;ivalske samice, ki se lahko razvije v otroka ali mladi&ccaron;a. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+jaj&ccaron;ece
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+egg on.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To egg someone on 
+</seg>
+pomeni nekoga spodbujati, naj stori nekaj drznega ali neumnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spodbujati, siliti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

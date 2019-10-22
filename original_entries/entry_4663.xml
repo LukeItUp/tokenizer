@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+endeavour
+</orth>
+<form type="variant">
+<pron>
+/I2nd*ev@/
+</pron>
+</form>
+<form type="inflected">
+endeavours, endeavouring, endeavoured;
+</form>
+<SN>
+v ameri&scaron;ki angle&scaron;&ccaron;ini pi&scaron;emo
+<SV>
+endeavor
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To endeavour to do something 
+</seg>
+pomeni poskusiti nekaj storiti; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+truditi se, prizadevati si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He endeavoured to adopt a positive but realistic attitude.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An endeavour 
+</seg>
+je poskus, da bi nekaj storili, zlasti &ccaron;e je novo ali izvirno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+trud, prizadevanje
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must wish him good fortune in his endeavours.
+</quote>
+<quote>
+...this exciting new field of endeavour.
+</quote>
+</seg>
+</sense>
+</entry>

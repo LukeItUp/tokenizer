@@ -1,0 +1,109 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+tax
+</orth>
+<form type="variant">
+<pron>
+/t*&ae;ks/
+</pron>
+</form>
+<form type="inflected">
+taxes, taxing, taxed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N 
+<seg>
+or 
+</seg>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Tax 
+</seg>
+je znesek, ki ga moramo pla&ccaron;ati vladi, da lahko vzdr&zcaron;uje javne slu&zcaron;be. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+davek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...income tax.
+</quote>
+<quote>
+...a tax on pensions.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Znesek ali dobrina 
+<seg type="lemma">
+is taxed
+</seg>
+, kadar moramo dr&zcaron;avi pla&ccaron;ati dolo&ccaron;en znesek, ko dobimo dolo&ccaron;en znesek ali kupimo tisto blago. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdav&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Any money earned over that level is taxed at the rate of 59%.
+</quote>
+<quote>
+Crops were taxed very heavily.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;lovek ali podjetje 
+<seg type="lemma">
+is taxed
+</seg>
+, mora del svojega dohodka ali dobi&ccaron;ka pla&ccaron;ati dr&zcaron;avi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obdav&ccaron;iti
+</quote>
+</cit>
+</sense>
+<sense n="4">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+taxing
+</ref>
+</xr>
+</sense>
+</entry>

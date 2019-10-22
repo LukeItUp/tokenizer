@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dupe
+</orth>
+<form type="variant">
+<pron>
+/dj*u*:p/
+</pron>
+</form>
+<form type="inflected">
+dupes, duping, duped.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekdo 
+<seg type="lemma">
+dupes someone
+</seg>
+, nekoga ogoljufa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+opehariti, potegniti za nos
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I was duped into expressing my thoughts.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dupe 
+</seg>
+je &ccaron;lovek, ki so ga ogoljufali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prevaranec, opeharjenec
+</quote>
+</cit>
+</sense>
+</entry>

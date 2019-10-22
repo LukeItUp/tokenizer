@@ -1,0 +1,63 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+peerage
+</orth>
+<form type="variant">
+<pron>
+/p*I*@rIdZ/
+</pron>
+</form>
+<form type="inflected">
+peerages.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ima &ccaron;lovek 
+<seg type="lemma">
+a peerage
+</seg>
+, je plemi&ccaron; ali peer. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plemi&scaron;ki naziv peera
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an heir to a peerage.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Plemi&ccaron;e neke dr&zcaron;ave z eno besedo imenujemo 
+<seg type="lemma">
+the peerage
+</seg>
+. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+plemstvo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...his elevation to the peerage.
+</quote>
+</seg>
+</sense>
+</entry>

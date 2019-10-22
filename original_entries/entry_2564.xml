@@ -1,0 +1,89 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+coin
+</orth>
+<form type="variant">
+<pron>
+/k*O*In/
+</pron>
+</form>
+<form type="inflected">
+coins, coining, coined.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A coin 
+</seg>
+je majhen kos kovine, ki se uporablja kot pla&ccaron;ilno sredstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kovanec
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a 10p coin.
+</quote>
+<quote>
+...notes and coins.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To coin a word or a phrase 
+</seg>
+pomeni izmisliti si besedo ali stavek. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skovati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Schumacher coined the slogan &lsquo;Small is beautiful&rsquo;.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sta dve stvari 
+<seg type="lemma">
+two sides of the same coin
+</seg>
+, predstavljata dva razli&ccaron;na vidika istih okoli&scaron;&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dve plati
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

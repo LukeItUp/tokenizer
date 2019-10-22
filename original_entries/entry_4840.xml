@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+estimation
+</orth>
+<form type="variant">
+<pron>
+/*estIm*e*IS@0n/
+</pron>
+</form>
+<form type="inflected">
+estimations.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One's estimation of a person or situation 
+</seg>
+je na&scaron;e mnenje o neki osebi ali razmerah. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+presoja, ocena
+</quote>
+</cit>
+<seg type="example">
+<quote>
+His comments were, in my estimation, correct and most useful.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An estimation 
+</seg>
+je pribli&zcaron;ni izra&ccaron;un ali izid, ki ga dobimo z njim. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ocena, cenitev
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an estimation of the speed of the air leaving the lungs.
+</quote>
+</seg>
+</sense>
+</entry>

@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+doctor
+</orth>
+<form type="variant">
+<pron>
+/d*Qkt@/
+</pron>
+</form>
+<form type="inflected">
+doctors, doctoring, doctored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A doctor 
+</seg>
+je oseba z zdravstveno izobrazbo, ki zdravi bolne ali ranjene ljudi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zdravnik
+</quote>
+</cit>
+<QP>
+glej slikovno prilogo 
+<QZ>
+HEALTH
+</QZ>
+.
+</QP>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Doctor 
+</seg>
+je tudi naziv, podeljen osebi, ki si je pridobila najvi&scaron;jo akademsko stopnjo na univerzi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+doktor
+</quote>
+</cit>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To doctor something 
+</seg>
+pomeni nekaj namenoma spremeniti, navadno zato, da ljudi prevaramo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prirediti, ponarediti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The despatch from Davis had been doctored.
+</quote>
+</seg>
+</sense>
+</entry>

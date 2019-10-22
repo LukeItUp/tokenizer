@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+orphan
+</orth>
+<form type="variant">
+<pron>
+/*O*:f@n/
+</pron>
+</form>
+<form type="inflected">
+orphans, orphaned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An orphan 
+</seg>
+je otrok, &ccaron;igar star&scaron;i so umrli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sirota
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She became an orphan at twelve.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+PASSIVE VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar otrok 
+<seg type="lemma">
+is orphaned
+</seg>
+, so mu star&scaron;i umrli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+osiroteti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We adopted the twins when they were orphaned.
+</quote>
+</seg>
+</sense>
+</entry>

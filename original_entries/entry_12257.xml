@@ -1,0 +1,72 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+-s;
+</orth>
+<SN>
+pi&scaron;emo tudi 
+<SV>
+-es
+</SV>
+. 
+</SN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SUFFIX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kon&ccaron;nici 
+<seg type="lemma">
+-s 
+</seg>
+in 
+<seg type="variant">
+-es 
+</seg>
+dodajamo samostalnikom, da dobimo mno&zcaron;insko obliko. 
+</def>
+<seg type="example">
+<quote>
+...dogs, cats, and rabbits.
+</quote>
+<quote>
+...ancient palaces.
+</quote>
+<quote>
+...profits and losses.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SUFFIX
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kon&ccaron;nici 
+<seg type="lemma">
+-s 
+</seg>
+in 
+<seg type="variant">
+-es 
+</seg>
+dodajamo glagolom, da dobimo tretjo osebo ednine sedanjega &ccaron;asa. 
+</def>
+<seg type="example">
+<quote>
+The lift stops at the fifth floor.
+</quote>
+<quote>
+He realizes what he has done.
+</quote>
+<quote>
+He pushes the button.
+</quote>
+</seg>
+</sense>
+</entry>

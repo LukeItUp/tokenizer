@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+certainty
+</orth>
+<form type="variant">
+<pron>
+/s*$e*:t@0nti1/
+</pron>
+</form>
+<form type="inflected">
+certainties.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Certainty 
+</seg>
+je ob&ccaron;utek, ko smo odlo&ccaron;eni in ne dvomimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gotovost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Answers to such questions would never be known with certainty.
+</quote>
+<quote>
+...the certainty of death in battle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A certainty 
+</seg>
+je tisto, o &ccaron;emer nih&ccaron;e niti najmanj ne dvomi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+gotovost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It's by no means a certainty that we'll win.
+</quote>
+<quote>
+...probabilities rather than certainties.
+</quote>
+</seg>
+</sense>
+</entry>

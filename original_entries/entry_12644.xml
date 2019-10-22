@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+senior
+</orth>
+<form type="variant">
+<pron>
+/s*i*:nj@/
+</pron>
+</form>
+<form type="inflected">
+seniors.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+V neki organizaciji so ljudje, ki so 
+<seg type="lemma">
+senior
+</seg>
+, tisti, ki so na najvi&scaron;jih in najpomembnej&scaron;ih polo&zcaron;ajih. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vi&scaron;ji, vodilen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...senior officers.
+</quote>
+<quote>
+...a senior member of staff.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+His seniors, however, were not amused.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+someone&apos;s senior
+</seg>
+, je starej&scaron;i od drugega &ccaron;loveka. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+starej&scaron;i
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was at least fifteen years his senior.
+</quote>
+</seg>
+</sense>
+</entry>

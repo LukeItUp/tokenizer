@@ -1,0 +1,126 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+happen
+</orth>
+<form type="variant">
+<pron>
+/h*&ae;p@0n/
+</pron>
+</form>
+<form type="inflected">
+happens, happening, happened.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+happens
+</seg>
+, se zgodi ali je storjeno, ne da bi bilo na&ccaron;rtovano. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripetiti se, zgoditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The explosion had happened at one in the morning.
+</quote>
+<quote>
+...a court of inquiry into what happened.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+happens to someone
+</seg>
+, se zgodi in vpliva na nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripetiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...all the ghastly things that had happened to him.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+TO-INF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To happen to do something 
+</seg>
+pomeni nekaj storiti po naklju&ccaron;ju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+po naklju&ccaron;ju storiti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He happened to be at their base when the alert began.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+as it happens 
+</seg>
+uporabimo pred trditvijo, da bi napovedali novo dejstvo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pravzaprav
+</quote>
+</cit>
+<seg type="example">
+<quote>
+As it happens, I brought the note with me.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

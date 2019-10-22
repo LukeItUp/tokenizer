@@ -1,0 +1,90 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+convict,
+</orth>
+<form type="inflected">
+convicts, convicting, convicted;
+</form>
+<PN>
+glagol izgovarjamo 
+<pron>
+/k@7nv*Ikt/
+</pron>
+, samostalnik pa 
+<pron>
+/k*QnvIkt/
+</pron>
+.
+</PN>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To convict someone of a crime 
+</seg>
+pomeni, da sodi&scaron;&ccaron;e razsodi, da je nekdo kriv za zlo&ccaron;in. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obsoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He was convicted of spying.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+convicted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...convicted criminals.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A convict 
+</seg>
+je oseba, ki je v zaporu; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+zapornik, jetnik
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...an escaped convict.
+</quote>
+</seg>
+</sense>
+</entry>

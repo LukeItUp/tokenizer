@@ -1,0 +1,41 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p376_s411869" id="p376_w70" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="154.452" base="160.86" width="38.858" height="8.514">imprecise</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p376_s411870" id="p376_w71" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="94.89" y="155.698" base="160.86" width="39.2816" height="6.844">/&#203;mpr&#203;sa&#203;s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p376_s411871" id="p376_w72" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="135.71" y="156.944" base="160.86" width="10.3702" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<TOKEN sid="p376_s411872" id="p376_w73" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="147.63" y="155.164" base="160.86" width="13.0752" height="7.552">Kar</TOKEN>
+<TOKEN sid="p376_s411873" id="p376_w74" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="162.245" y="155.164" base="160.86" width="5.9364" height="7.552">je</TOKEN>
+<seg type="lemma">
+<TOKEN sid="p376_s411874" id="p376_w75" font-name="ssexcelsior" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="169.72" y="155.164" base="160.86" width="34.1014" height="7.552">imprecise,</TOKEN>
+</seg>
+<TOKEN sid="p376_s411875" id="p376_w76" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="205.361" y="155.164" base="160.86" width="6.7356" height="7.552">ni</TOKEN>
+<TOKEN sid="p376_s411876" id="p376_w77" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="213.636" y="155.164" base="160.86" width="17.7552" height="7.552">jasno</TOKEN>
+<TOKEN sid="p376_s411877" id="p376_w78" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="232.931" y="155.164" base="160.86" width="8.676" height="7.552">ali</TOKEN>
+<TOKEN sid="p376_s411878" id="p376_w79" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="164.234" base="169.93" width="33.5981" height="7.552">natan~no.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p376_s411880" id="p376_w81" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="102.02" y="164.234" base="169.93" width="28.399" height="7.552">neto~en;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p376_s411881" id="p376_w82" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="132.42" y="164.234" base="169.93" width="39.8426" height="7.552">&#8230;imprecise</TOKEN>
+<TOKEN sid="p376_s411882" id="p376_w83" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="174.263" y="164.234" base="169.93" width="17.2051" height="7.552">data.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

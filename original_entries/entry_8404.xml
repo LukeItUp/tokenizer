@@ -1,0 +1,135 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+loan
+</orth>
+<form type="variant">
+<pron>
+/l*@*Un/
+</pron>
+</form>
+<form type="inflected">
+loans, loaning, loaned.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A loan 
+</seg>
+je znesek, ki si ga sposodimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posojilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They found it impossible to get a bank loan.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+gives someone a loan of something
+</seg>
+, si tista oseba od njega nekaj sposodi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posojilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He asked for the loan of twelve dozen glasses.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je knjiga ali slika 
+<seg type="lemma">
+on loan
+</seg>
+, je sposojena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sposojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Most of his books are on loan from the library.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+PREP 
+<seg type="prep">
+&lsquo;to&rsquo;, 
+</seg>
+<seg>
+or 
+</seg>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To loan something to someone 
+</seg>
+pomeni nekomu nekaj posoditi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posoditi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He never loaned his car to anybody.
+</quote>
+<quote>
+I&apos;ll loan you fifty dollars.
+</quote>
+</seg>
+</sense>
+</entry>

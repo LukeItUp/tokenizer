@@ -1,0 +1,80 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+concoct
+</orth>
+<form type="variant">
+<pron>
+/k@7N1k*Qkt/
+</pron>
+</form>
+<form type="inflected">
+concocts, concocting, concocted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To concoct an excuse 
+</seg>
+pomeni izmisliti si izgovor. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+skovati, zasnovati
+</quote>
+</cit>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To concoct something 
+</seg>
+pomeni nekaj narediti z me&scaron;anjem ve&ccaron; stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zme&scaron;ati, skuhati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Nancy had concocted a red wine sauce.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+concoction
+</orth>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Chutney is a concoction of almost any fruit or vegetable you like.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

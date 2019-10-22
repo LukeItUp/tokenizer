@@ -1,0 +1,75 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+chemical
+</orth>
+<form type="variant">
+<pron>
+/k*emIk@0l/
+</pron>
+</form>
+<form type="inflected">
+chemicals.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Chemical 
+</seg>
+pomeni povezan s kemijo ali tak, ki je nastal v kemi&ccaron;nem procesu. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kemi&ccaron;en
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the chemical composition of the atmosphere.
+</quote>
+<quote>
+...chemical fertilizers.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+chemically
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Chemically, this substance is similar to cellulose.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A chemical 
+</seg>
+je snov, ki jo uporabljamo ali izdelamo s kemi&ccaron;nim postopkom. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kemikalija, kemi&ccaron;ni preparat
+</quote>
+</cit>
+</sense>
+</entry>

@@ -1,0 +1,67 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+wayside
+</orth>
+<form type="variant">
+<pron>
+/w*e*IsaId/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The wayside 
+</seg>
+je rob ceste; 
+</def>
+<usg>
+zastarela raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+rob ceste ali poti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Broken-down buses may frequently be seen by the wayside.
+</quote>
+<quote>
+...travellers who buy food from wayside stalls.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo ali nekaj 
+<seg type="lemma">
+falls by the wayside
+</seg>
+, mu spodleti ali ga pozabijo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti prezrt ali odrinjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We must care for the weak who would otherwise fall by the wayside.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

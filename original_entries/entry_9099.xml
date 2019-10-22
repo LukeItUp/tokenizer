@@ -1,0 +1,82 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+mistaken
+</orth>
+<form type="variant">
+<pron>
+/mIst*e*Ik@n/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar je &ccaron;lovek 
+<seg type="lemma">
+mistaken about something
+</seg>
+, se o ne&ccaron;em moti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v zmoti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I told her she must be mistaken.
+</quote>
+<quote>
+How could she have been mistaken about a thing like this?
+</quote>
+<quote>
+I had been mistaken in believing Nick was mad.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Prepri&ccaron;anje ali mnenje, ki je 
+<seg type="lemma">
+mistaken
+</seg>
+, ni pravilno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zmoten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The discovery of adrenalin came about through a mistaken impression.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+mistakenly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+The parents may mistakenly believe that they are to blame for their child&apos;s illness.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

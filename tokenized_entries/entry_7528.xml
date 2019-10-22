@@ -1,0 +1,48 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p388_s425332" id="p388_w1055" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="608.092" base="614.5" width="42.0181" height="8.514">innocuous</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p388_s425333" id="p388_w1056" font-name="ssexcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="296.56" y="609.338" base="614.5" width="39.1816" height="6.844">/&#203;n&#201;kju&#194;6s/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p388_s425334" id="p388_w1057" font-name="ssexcelsior" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="337.31" y="610.584" base="614.5" width="10.4099" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p388_s425335" id="p388_w1058" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="349.31" y="608.804" base="614.5" width="35.028" height="7.552">Innocuous</TOKEN>
+</seg>
+<TOKEN sid="p388_s425336" id="p388_w1059" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="385.91" y="608.804" base="614.5" width="25.0956" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p388_s425337" id="p388_w1060" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="412.585" y="608.804" base="614.5" width="15.5398" height="7.552">prav</TOKEN>
+<TOKEN sid="p388_s425338" id="p388_w1061" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="429.704" y="608.804" base="614.5" width="10.355" height="7.552">ni~</TOKEN>
+<TOKEN sid="p388_s425339" id="p388_w1062" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="239.76" y="47.272" base="53.68" width="15.0102" height="8.496">388</TOKEN>
+</def>
+<usg>
+<TOKEN sid="p388_s425340" id="p388_w1063" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="48.512" base="54.92" width="35.6296" height="8.514">initiative</TOKEN>
+<TOKEN sid="p388_s425341" id="p388_w1064" font-name="ssunivers" symbolic="yes" serif="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="397.76" y="48.512" base="54.92" width="42.2575" height="8.514">innocuous</TOKEN>
+</usg>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p388_s425342" id="p388_w1065" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="54.51" y="632.036" base="637.02" width="3.8493" height="6.608">b</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p388_s425343" id="p388_w1066" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="61.8898" y="632.036" base="637.02" width="10.8694" height="6.608">bed</TOKEN>
+<TOKEN sid="p388_s425344" id="p388_w1067" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="84.4697" y="632.036" base="637.02" width="3.8493" height="6.608">d</TOKEN>
+<TOKEN sid="p388_s425345" id="p388_w1068" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="91.84" y="632.036" base="637.02" width="10.8694" height="6.608">day</TOKEN>
+<TOKEN sid="p388_s425346" id="p388_w1069" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="114.43" y="632.036" base="637.02" width="2.4507" height="6.608">f</TOKEN>
+<TOKEN sid="p388_s425347" id="p388_w1070" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="120.41" y="632.036" base="637.02" width="7.02009" height="6.608">fit</TOKEN>
+<TOKEN sid="p388_s425348" id="p388_w1071" font-name="ssexcelsior" bold="no" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="139.14" y="632.036" base="637.02" width="3.5028" height="6.608">g</TOKEN>
+<TOKEN sid="p388_s425349" id="p388_w1072" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="7" font-color="#000000" rotation="0" angle="0" x="146.17" y="632.036" base="637.02" width="14.3797" height="6.608">good</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

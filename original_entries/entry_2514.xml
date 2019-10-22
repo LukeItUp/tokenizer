@@ -1,0 +1,62 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+coast
+</orth>
+<form type="variant">
+<pron>
+/k*@*Ust/
+</pron>
+</form>
+<form type="inflected">
+coasts.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The coast 
+</seg>
+je pokrajina ob morju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obala
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a trawler fishing off the coast of Portugal.
+</quote>
+<quote>
+We had made up our minds to stay on the East Coast.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar re&ccaron;emo 
+<seg type="lemma">
+the coast is clear
+</seg>
+, povemo, da ni v bli&zcaron;ini nikogar, ki bi nas lahko videl ali ujel. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zrak je &ccaron;ist
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

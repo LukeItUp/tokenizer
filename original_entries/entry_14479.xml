@@ -1,0 +1,470 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+think
+</orth>
+<form type="variant">
+<pron>
+/T*INk/
+</pron>
+</form>
+<form type="inflected">
+thinks, thinking, thought
+</form>
+<form type="variant">
+<pron>
+/T*O*:t/
+</pron>
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+REPORT VB 
+<seg>
+or 
+</seg>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To think that something is the case 
+</seg>
+pomeni biti mnenja, da je nekaj res. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think a woman has as much right to work as a man.
+</quote>
+<quote>
+At first I thought he was asleep.
+</quote>
+<quote>
+She thought of Deirdre simply as an old chum.
+</quote>
+<quote>
+She&apos;s cleverer than I thought.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To think about something 
+</seg>
+pomeni v mislih nekaj pretresati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+razmi&scaron;ljati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+That ought to make us think about how we can make a safer product.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To think of something or someone 
+</seg>
+pomeni spomniti se na nekaj ali nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+spomniti se, pomisliti na
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I can never think of her name.
+</quote>
+<quote>
+He can think of no reason for going.
+</quote>
+<quote>
+...a method which had never been thought of before.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To think of someone 
+</seg>
+pomeni tudi biti obziren do nekoga. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti na koga
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It was very kind of you to think of him.
+</quote>
+<quote>
+You never think about anybody but yourself!
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To think a lot of someone or something 
+</seg>
+pomeni ob&ccaron;udovati nekoga ali nekaj. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zelo ceniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She thinks a lot of you.
+</quote>
+<quote>
+I didn&apos;t think much of his letter.
+</quote>
+</seg>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+REPORT VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is thinking something
+</seg>
+, na nekaj osredoto&ccaron;a pozornost. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I lay there thinking how funny it was.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;of&rsquo; 
+</seg>
+<seg>
+or 
+</seg>
+<seg type="prep">
+&lsquo;about&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekdo 
+<seg type="lemma">
+is thinking of doing something
+</seg>
+, se ukvarja z mislijo, da bi nekaj naredil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+misliti, imeti namen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Is he still thinking of going away to Italy for a month?
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<xr type="related">
+<seg>
+Glej tudi 
+</seg>
+<ref>
+thinking, 
+</ref>
+<ref>
+thought
+</ref>
+</xr>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Izraz 
+<seg type="lemma">
+I think 
+</seg>
+dodamo svoji izjavi, da zveni manj mo&ccaron;no ali nevljudno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+mislim
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I think I ought to go.
+</quote>
+<quote>
+I think that you will find my figures are correct.
+</quote>
+<quote>
+Thank you, I don&apos;t think I will.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To think better of something 
+</seg>
+pomeni, da smo imeli namen nekaj narediti, potem pa sklenemo, da ne bomo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She was on the point of waking Ben again, but then thought better of it.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+<seg type="lemma">
+To think nothing of doing something difficult or strange 
+</seg>
+pomeni, da smo pripravljeni narediti nekaj te&zcaron;avnega ali nenavadnega in da se nam to sploh ne zdi te&zcaron;ko ali nenavadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ne biti ni&ccaron; takega, narediti za malo malico
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We would think nothing of walking six miles just to post a letter.
+</quote>
+</seg>
+</sense>
+<xr type="related">
+<QF>
+come to think of it: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+come
+</ref>
+</xr>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+think the world of 
+</QF>
+<QI>
+someone: 
+</QI>
+<seg>
+glej 
+</seg>
+<ref>
+world
+</ref>
+</xr>
+</B>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+think back.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To think back 
+</seg>
+pomeni spominjati se stvari, ki so se zgodile. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomisliti nazaj, spomniti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I&apos;m thinking back to my own experience as a teacher.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+think over.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To think something over 
+</seg>
+pomeni skrbno razmi&scaron;ljati o ne&ccaron;em, preden se odlo&ccaron;imo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premisliti, pretehtati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I wanted to think over one or two business problems.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+think through.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To think a problem or situation through 
+</seg>
+pomeni nekaj temeljito premisliti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pretresti, premleti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t really thought the whole business through.
+</quote>
+</seg>
+</sense>
+</sense>
+<form type="lemma">
+<orth>
+think up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To think up something 
+</seg>
+pomeni ustvariti v svoji glavi nekaj domiselnega ali nenavadnega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+domisliti se, izmisliti si
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a new financial agreement he had thought up.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</entry>

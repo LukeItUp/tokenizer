@@ -1,0 +1,115 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+principle
+</orth>
+<form type="variant">
+<pron>
+/pr*InsIp@0l/
+</pron>
+</form>
+<form type="inflected">
+principles.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A principle 
+</seg>
+je &ccaron;lovekovo prepri&ccaron;anje, kako se mora vesti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;elo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a man of high principles.
+</quote>
+<quote>
+Our party remains a party of principle.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A principle 
+</seg>
+je tudi splo&scaron;no pravilo ali znanstveni zakon, ki pojasnjuje, kako se nekaj zgodi ali deluje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;elo, pravilo
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the principles of formal logic.
+</quote>
+<quote>
+...the principle of acceleration.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj naredimo 
+<seg type="lemma">
+on principle
+</seg>
+, tisto naredimo zaradi svojega prepri&ccaron;anja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaradi svojih na&ccaron;el, na&ccaron;elno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I had to vote for him, of course, on principle.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar se z ne&ccaron;im strinjamo 
+<seg type="lemma">
+in principle
+</seg>
+, se strinjamo z zamislijo, ne moremo ali ne &zcaron;elimo pa je podpreti tudi v praksi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na&ccaron;elno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We are willing, in principle, to look afresh at the 1921 constitution.
+</quote>
+</seg>
+</sense>
+</B>
+</entry>

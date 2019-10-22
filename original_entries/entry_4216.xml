@@ -1,0 +1,287 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+double
+</orth>
+<form type="variant">
+<pron>
+/d*Vb@0l/
+</pron>
+</form>
+<form type="inflected">
+doubles, doubling, doubled.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+PREDET 
+<seg>
+or 
+</seg>
+QUANTIF
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e je nekaj 
+<seg type="lemma">
+double the amount or size of another thing
+</seg>
+, je dvakrat tolik&scaron;no kot nekaj drugega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojen, dvakraten
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We paid her double what she was getting before.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+double 
+</seg>
+opi&scaron;emo koli&ccaron;ino hrane ali pija&ccaron;e, ki je dvakrat tolik&scaron;na kot navadno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a double gin.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Beseda 
+<seg type="lemma">
+double 
+</seg>
+pred &scaron;tevilko ali &ccaron;rko pomeni, da se dvakrat ponovi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvakraten, podvojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+My phone number is nine, double three, two, four.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Z besedo 
+<seg type="lemma">
+double 
+</seg>
+opisujemo tudi par podobnih stvari. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The double doors were open.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A double room or bed 
+</seg>
+je soba ali postelja, namenjena temu, da jo uporabljata dve osebi. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+dvojen
+</quote>
+</cit>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+doubles
+</seg>
+, postane dvakrat tako veliko kot prej. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+podvojiti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The world population is doubling every thirty-five years.
+</quote>
+<quote>
+If every performance sold out, he would double his investment.
+</quote>
+</seg>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;as&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+&Ccaron;e nekaj 
+<seg type="lemma">
+doubles as something else
+</seg>
+, tisto uporabimo &scaron;e za nekaj drugega poleg navadne rabe. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+biti v dvojni rabi
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This bedroom doubles as a study.
+</quote>
+</seg>
+</sense>
+<sense n="8">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Doubles 
+</seg>
+je igra tenisa ali badmintona, pri kateri igrata dve osebi proti dvema nasprotnikoma.
+</def>
+<cit type="translationEquivalent">
+<quote>
+igra dvojic
+</quote>
+</cit>
+</sense>
+<sense n="9">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To bend double 
+</seg>
+pomeni skloniti se. 
+<FV>
+To be bent double 
+</FV>
+pomeni sklanjati se. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripogniti se, pripogibati se
+</quote>
+</cit>
+</sense>
+</sense>
+<sense n="10">
+<xr type="related">
+<QF>
+double figures: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+double
+</ref>
+</xr>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+double up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To double up with laughter or pain 
+</seg>
+pomeni prepogibati se od smeha ali bole&ccaron;ine. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zvijati se
+</quote>
+</cit>
+<sense>
+<form type="lemma">
+<orth>
+doubled up
+</orth>
+<gramGrp>
+<pos>
+PRED ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+I was doubled up in pain.
+</quote>
+</seg>
+</sense>
+</sense>
+</sense>
+</sense>
+</entry>

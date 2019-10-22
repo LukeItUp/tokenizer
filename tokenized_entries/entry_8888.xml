@@ -1,0 +1,44 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+<TOKEN sid="p468_s512468" id="p468_w35" font-name="ssunivers" symbolic="yes" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="109.542" base="115.95" width="41.317" height="8.514">menstrual</TOKEN>
+</orth>
+<form type="variant">
+<pron>
+<TOKEN sid="p468_s512469" id="p468_w36" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="98.41" y="110.788" base="115.95" width="30.0854" height="6.844">/menstr&#205;</TOKEN>
+<TOKEN sid="p468_s512470" id="p468_w37" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="4.79" font-color="#000000" rotation="0" angle="0" x="128.82" y="110.15" base="113.56" width="2.39636" height="4.52176">0</TOKEN>
+<TOKEN sid="p468_s512471" id="p468_w38" font-name="SLExcelsior" bold="no" italic="no" font-size="7.25" font-color="#000000" rotation="0" angle="0" x="131.46" y="112.485" base="115.95" width="11.0216" height="3.51625">6l/.</TOKEN>
+</pron>
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+<TOKEN sid="p468_s512472" id="p468_w39" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="145.06" y="112.034" base="115.95" width="19.1748" height="5.192">ATTRIB</TOKEN>
+<TOKEN sid="p468_s512473" id="p468_w40" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="166.01" y="112.034" base="115.95" width="10.4485" height="5.192">ADJ</TOKEN>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+<TOKEN sid="p468_s512474" id="p468_w41" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="179.04" y="110.254" base="115.95" width="34.7789" height="7.552">Menstrual</TOKEN>
+</seg>
+<TOKEN sid="p468_s512475" id="p468_w42" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.4" y="110.254" base="115.95" width="25.1892" height="7.552">pomeni</TOKEN>
+<TOKEN sid="p468_s512476" id="p468_w43" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="119.494" base="125.19" width="28.0037" height="7.552">povezan</TOKEN>
+<TOKEN sid="p468_s512477" id="p468_w44" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="90.1243" y="119.494" base="125.19" width="3.6" height="7.552">z</TOKEN>
+<TOKEN sid="p468_s512478" id="p468_w45" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.6647" y="119.494" base="125.19" width="46.3882" height="7.552">menstruacijo.</TOKEN>
+</def>
+<cit type="translationEquivalent">
+<quote>
+<TOKEN sid="p468_s512480" id="p468_w47" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="150.15" y="119.494" base="125.19" width="52.367" height="7.552">menstruacijski;</TOKEN>
+</quote>
+</cit>
+<seg type="example">
+<quote>
+<TOKEN sid="p468_s512481" id="p468_w48" font-name="SSExcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="204.46" y="119.494" base="125.19" width="18" height="7.552">&#8230;the</TOKEN>
+<TOKEN sid="p468_s512482" id="p468_w49" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="224.402" y="119.494" base="125.19" width="17.2008" height="7.552">men-</TOKEN>
+<TOKEN sid="p468_s512483" id="p468_w50" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1802" y="128.724" base="134.42" width="19.9908" height="7.552">strual</TOKEN>
+<TOKEN sid="p468_s512484" id="p468_w51" font-name="ssexcelsior" serif="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="82.1712" y="128.724" base="134.42" width="19.1988" height="7.552">cycle.</TOKEN>
+</quote>
+</seg>
+</sense>
+</entry>

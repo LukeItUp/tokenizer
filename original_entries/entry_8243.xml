@@ -1,0 +1,85 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lesson
+</orth>
+<form type="variant">
+<pron>
+/l*es@n/
+</pron>
+</form>
+<form type="inflected">
+lessons.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lesson 
+</seg>
+je kratko obdobje, v katerem ljudi nekdo pou&ccaron;uje. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&ccaron;na ura
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...tennis lessons.
+</quote>
+<quote>
+...a history lesson.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar izku&scaron;nja 
+<seg type="lemma">
+teaches someone a lesson
+</seg>
+, nekoga pripravi do tega, da spozna resnico ali ugotovi, kaj bi moralo biti storjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+izu&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+This is a lesson that every generation has to learn.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To teach someone a lesson 
+</seg>
+pomeni nekoga kaznovati za nekaj, kar je storil, da tistega ne bo ve&ccaron; ponovil. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nau&ccaron;iti kozjih molitvic
+</quote>
+</cit>
+</sense>
+</sense>
+</entry>

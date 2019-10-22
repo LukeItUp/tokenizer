@@ -1,0 +1,58 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+recycle
+</orth>
+<form type="variant">
+<pron>
+/r*i*:s*a*Ik@0l/
+</pron>
+</form>
+<form type="inflected">
+recycles, recycling, recycled.
+</form>
+</form>
+<sense>
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To recycle things 
+</seg>
+pomeni predelati uporabljene stvari, na primer steklenice ali papir, tako da jih lahko znova uporabimo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+reciklirati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Plastic bottles can easily be recycled.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+recycled
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...recycled paper.
+</quote>
+</seg>
+</sense>
+</sense>
+</entry>

@@ -1,0 +1,93 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+sly
+</orth>
+<form type="variant">
+<pron>
+/sl*a*I/
+</pron>
+</form>
+<form type="inflected">
+slyer 
+<IS>
+ali 
+</IS>
+<IV>
+slier
+</IV>
+, slyest 
+<IS>
+ali 
+</IS>
+<IV>
+sliest
+</IV>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Pogled, izraz ali pripomba, ki je 
+<seg type="lemma">
+sly
+</seg>
+, poka&zcaron;e, da vemo nekaj, &ccaron;esar drugi ne vedo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+premeten, prebrisan
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a slow sly smile.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+slyly
+</orth>
+<gramGrp>
+<pos>
+ADV
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+She glanced slyly at Madeleine.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kdor je 
+<seg type="lemma">
+sly
+</seg>
+, zna premeteno pretentati druge. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+prebrisan, zvit
+</quote>
+</cit>
+<seg type="example">
+<quote>
+They are suspicious and wary and sly.
+</quote>
+</seg>
+</sense>
+</entry>

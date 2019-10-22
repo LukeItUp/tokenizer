@@ -1,0 +1,225 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+burn
+</orth>
+<form type="variant">
+<pron>
+/b*$e*:n/
+</pron>
+</form>
+<form type="inflected">
+burns, burning, burned 
+<IS>
+ali 
+</IS>
+<IV>
+burnt 
+</IV>
+<pron>
+/b*$e*:nt/
+</pron>
+.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be burning
+</seg>
+ pomeni, da nekaj gori. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+goreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The stubble was burning in the fields.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+burning
+</orth>
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+There was a smell of burning.
+</quote>
+</seg>
+</sense>
+<sense>
+<form type="lemma">
+<orth>
+burnt
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a charred bit of burnt wood.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To burn something 
+</seg>
+pomeni nekaj uni&ccaron;iti z ognjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+se&zcaron;gati, za&zcaron;gati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We couldn't burn the rubbish because it was raining.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To burn oneself 
+</seg>
+pomeni po&scaron;kodovati se z ognjem ali z ne&ccaron;im zelo vro&ccaron;im. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+ope&ccaron;i (se)
+</quote>
+</cit>
+<seg type="example">
+<quote>
+&lsquo;What's the matter with your hand?&rsquo;&mdash;&lsquo;I burned it on my cigar.&rsquo;
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+Many had serious burns over much of their bodies.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+<seg type="prep">
+&lsquo;with&rsquo;
+</seg>
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To be burning with an emotion 
+</seg>
+pomeni mo&ccaron;no ob&ccaron;utiti neko &ccaron;ustvo, na primer jezo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+goreti, biti poln
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...letters burning with indignation.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar sonce 
+<seg type="lemma">
+burns someone's skin
+</seg>
+, povzro&ccaron;i, da postane &ccaron;lovekova ko&zcaron;a rde&ccaron;a ali rjava. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+o&zcaron;gati, ope&ccaron;i; potemniti
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+burn down.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+Kadar stavba 
+<seg type="lemma">
+burns down 
+</seg>
+ali 
+<seg type="lemma">
+is burned down
+</seg>
+, jo ogenj popolnoma uni&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zgoreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

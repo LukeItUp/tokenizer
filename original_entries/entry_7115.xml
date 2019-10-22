@@ -1,0 +1,61 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+illness
+</orth>
+<form type="variant">
+<pron>
+/*IlnI2s/
+</pron>
+</form>
+<form type="inflected">
+illnesses.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+Illness 
+</seg>
+je dejstvo ali stanje, ko je &ccaron;lovek bolan. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+I haven&apos;t been able to work because of illness.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+An illness 
+</seg>
+je dolo&ccaron;ena bolezen, na primer prehlad, o&scaron;pice ali plju&ccaron;nica. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+bolezen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She died of a mysterious illness.
+</quote>
+</seg>
+</sense>
+</entry>

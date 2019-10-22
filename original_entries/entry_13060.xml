@@ -1,0 +1,133 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+slant
+</orth>
+<form type="variant">
+<pron>
+/sl*A*:nt/
+</pron>
+</form>
+<form type="inflected">
+slants, slanting, slanted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+slants
+</seg>
+, ni vodoravno ali navpi&ccaron;no, ampak nagnjeno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagibati se, le&zcaron;ati po&scaron;evno
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The old wooden floor slanted a little.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+slanting
+</orth>
+<gramGrp>
+<pos>
+ATTRIB ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...her slanting eyes.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A slant 
+</seg>
+je nagnjena lega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+nagib
+</quote>
+</cit>
+<seg type="example">
+<quote>
+For some reason the shelf was set on a slant.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar novica ali informacija 
+<seg type="lemma">
+is slanted
+</seg>
+, je predstavljena tako, da je naklonjena dolo&ccaron;eni skupini ali stali&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pristranski
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Burger&apos;s report was obviously slanted.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+SING N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A particular slant on a subject 
+</seg>
+je dolo&ccaron;en na&ccaron;in razmi&scaron;ljanja o ne&ccaron;em, zlasti kadar je pristranski ali izvira iz predsodkov. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zorni kot, perspektiva
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a leftist political slant.
+</quote>
+</seg>
+</sense>
+</entry>

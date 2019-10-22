@@ -1,0 +1,277 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+lock
+</orth>
+<form type="variant">
+<pron>
+/l*Qk/
+</pron>
+</form>
+<form type="inflected">
+locks, locking, locked.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lock something 
+</seg>
+pomeni nekaj zapreti s klju&ccaron;em. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakleniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Lock the door after you leave.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+locked
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...the locked cupboard.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To lock something in a cupboard, room, or drawer 
+</seg>
+pomeni nekaj dati v kredenco, sobo ali predal in zakleniti vrata ali predal. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakleniti, zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He had locked all his papers in the safe.
+</quote>
+<quote>
+He locked them away in a drawer.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ERG VB
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar nekaj 
+<seg type="lemma">
+locks 
+</seg>
+ali 
+<seg type="variant">
+is locked
+</seg>
+, se premakne v dolo&ccaron;eni polo&zcaron;aj in tam trdno stoji. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+u&ccaron;vrstiti, zagozditi se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Smoothly the rod locked into place.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+PASSIVE VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar ljudje 
+<seg type="lemma">
+are locked in a fight or argument
+</seg>
+, se ne morejo nehati bojevati ali prepirati. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zaplesti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Rebel groups and government forces are locked in a fierce battle for control of the country.
+</quote>
+</seg>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The lock on something 
+</seg>
+je del ne&ccaron;esa, na primer vrat, ki tisto pritrdi, kadar zavrtimo klju&ccaron;. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+klju&ccaron;avnica
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The key rattling in the lock startled me.
+</quote>
+</seg>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+under lock and key
+</seg>
+, je v zaklenjeni sobi ali &scaron;katli. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pod klju&ccaron;em, zaklenjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She would keep any sensitive documents under lock and key.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="6">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lock on a canal 
+</seg>
+je del prekopa med pregradama, kjer lahko dvignemo ali spustimo gladino vode, da se &ccaron;olni lahko premaknejo v vi&scaron;ji ali ni&zcaron;ji del prekopa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zapornica
+</quote>
+</cit>
+</sense>
+<sense n="7">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A lock of hair 
+</seg>
+je majhen &ccaron;op las; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+koder, pramen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+A lock of hair had fallen down over her eyes.
+</quote>
+<quote>
+He shook his black locks.
+</quote>
+</seg>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+lock up.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense n="1">
+<def xml:lang="sl">
+<seg type="lemma">
+To be locked up 
+</seg>
+pomeni priti v zapor ali psihiatri&ccaron;no bolni&scaron;nico. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pripreti, zapreti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The idea of being locked up in jail filled her with horror.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<def xml:lang="sl">
+<seg type="lemma">
+To lock up 
+</seg>
+pomeni poskrbeti, da so vsa vrata in okna neke stavbe dobro zaprta in zaklenjena. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+zakleniti, zapreti
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

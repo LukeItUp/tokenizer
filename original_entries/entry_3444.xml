@@ -1,0 +1,175 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+dash
+</orth>
+<form type="variant">
+<pron>
+/d*&ae;S/
+</pron>
+</form>
+<form type="inflected">
+dashes, dashing, dashed.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dash somewhere 
+</seg>
+pomeni hitro in nenadoma nekam iti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+planiti, &scaron;vigniti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+People dashed out into the street to see what was happening.
+</quote>
+</seg>
+<T>
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+He made a dash for the door.
+</quote>
+</seg>
+</T>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+SING N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dash of a liquid 
+</seg>
+je majhna koli&ccaron;ina teko&ccaron;ine, ki jo dodamo hrani ali pija&ccaron;i. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+kan&ccaron;ek, dodatek
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Some soups are delicious served cold with a dash of cream.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ 
+<seg>
+and 
+</seg>
+ADJUNCT
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To dash something somewhere 
+</seg>
+pomeni nekaj vre&ccaron;i ali silovito suniti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+vre&ccaron;i, tre&scaron;&ccaron;iti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She picked up his photograph and dashed it to the ground.
+</quote>
+</seg>
+</sense>
+<sense n="4">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar so &ccaron;lovekovi upi 
+<seg type="lemma">
+dashed
+</seg>
+, &ccaron;lovek zaradi ne&ccaron;esa ne more dobiti tistega, na kar upa. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+uni&ccaron;iti, splavati po vodi
+</quote>
+</cit>
+</sense>
+<sense n="5">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A dash 
+</seg>
+je tudi kraj&scaron;a vodoravna &ccaron;rta (&mdash;), ki jo uporabljamo pri pisanju. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+pomi&scaron;ljaj
+</quote>
+</cit>
+</sense>
+<sense value="phr vb">
+<form type="lemma">
+<orth>
+dash off.
+</orth>
+</form>
+<gramGrp>
+<pos>
+PHR VB
+</pos>
+</gramGrp>
+<sense>
+<def xml:lang="sl">
+<seg type="lemma">
+To dash off a letter 
+</seg>
+pomeni hitro napisati pismo, ne da bi pri tem veliko razmi&scaron;ljali. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+v naglici napisati
+</quote>
+</cit>
+</sense>
+</sense>
+</sense>
+</entry>

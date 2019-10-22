@@ -1,0 +1,69 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+moor
+</orth>
+<form type="variant">
+<pron>
+/m*U*@, m*O:/
+</pron>
+</form>
+<form type="inflected">
+moors, mooring, moored.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A moor 
+</seg>
+je visoka prostrana pokrajina, pora&scaron;&ccaron;ena predvsem s travo in resjem. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+resi&scaron;&ccaron;e
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The mists had vanished from the moor.
+</quote>
+<quote>
+He used to go for long walks on the moors.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Kadar &ccaron;oln 
+<seg type="lemma">
+is moored
+</seg>
+, je z vrvjo pritrjen na kopno. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+privezati
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Boats were moored on both sides of the river.
+</quote>
+</seg>
+</sense>
+</entry>

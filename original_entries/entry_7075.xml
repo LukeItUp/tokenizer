@@ -1,0 +1,70 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+identity
+</orth>
+<form type="variant">
+<pron>
+/aId*entI1ti1/
+</pron>
+</form>
+<form type="inflected">
+identities.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+POSS
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Beseda 
+<seg type="lemma">
+identity 
+</seg>
+ozna&ccaron;uje to, kdo smo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+identiteta
+</quote>
+</cit>
+<seg type="example">
+<quote>
+Glenn whipped off the mask to reveal his identity.
+</quote>
+</seg>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+The identity of a place 
+</seg>
+so zna&ccaron;ilnosti nekega kraja, ki ga lo&ccaron;ijo od drugih krajev. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+posebnost
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...a region with its own cultural identity.
+</quote>
+</seg>
+</sense>
+</entry>

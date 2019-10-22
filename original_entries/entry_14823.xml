@@ -1,0 +1,163 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+trial
+</orth>
+<form type="variant">
+<pron>
+/tr*a*I*@l/
+</pron>
+</form>
+<form type="inflected">
+trials.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+or 
+</seg>
+UNCOUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trial 
+</seg>
+je sodni postopek, v katerem sodnik in porota poslu&scaron;ata dokaze in se odlo&ccaron;ita, ali je nekdo kriv ali ne. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+sojenje, proces
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She won&apos;t get a fair trial.
+</quote>
+<quote>
+Huey was awaiting trial for murder.
+</quote>
+</seg>
+<xr type="related">
+<QI>
+to 
+</QI>
+<QF>
+stand trial: 
+</QF>
+<seg>
+glej 
+</seg>
+<ref>
+stand
+</ref>
+</xr>
+</sense>
+<sense n="2">
+<gramGrp>
+<pos>
+COUNT N
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+A trial 
+</seg>
+je tudi postopek, v katerem nekaj presku&scaron;amo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+poskus
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We&apos;ve completed a number of fairly successful trials with laboratory animals.
+</quote>
+</seg>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+COUNT N 
+<seg>
+with 
+</seg>
+SUPP
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+One&apos;s trials 
+</seg>
+so neprijetne stvari, ki jih nekdo do&zcaron;ivlja. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+te&zcaron;ave, tegobe
+</quote>
+</cit>
+<seg type="example">
+<quote>
+...the trials of pregnancy.
+</quote>
+</seg>
+</sense>
+<B>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekdo 
+<seg type="lemma">
+on trial
+</seg>
+, mu sodijo na sodi&scaron;&ccaron;u. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+obto&zcaron;en, v sodnem postopku
+</quote>
+</cit>
+<seg type="example">
+<quote>
+We don&apos;t intend to put him on trial.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar je nekaj 
+<seg type="lemma">
+on trial
+</seg>
+, tisto presku&scaron;amo ali podrobno preu&ccaron;ujemo. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+na presku&scaron;nji
+</quote>
+</cit>
+<seg type="example">
+<quote>
+The Parliamentary system is on trial.
+</quote>
+</seg>
+</sense>
+<sense value="phrase">
+<def xml:lang="sl">
+Kadar nekaj delamo 
+<seg type="lemma">
+by trial and error
+</seg>
+, presku&scaron;amo razli&ccaron;ne na&ccaron;ine, kako bi tisto naredili, dokler ne najdemo pravega. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+s posku&scaron;anjem
+</quote>
+</cit>
+</sense>
+</B>
+</entry>

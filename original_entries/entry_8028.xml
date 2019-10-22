@@ -1,0 +1,120 @@
+<entry xml:lang="en">
+<form type="lemma">
+<orth>
+knit
+</orth>
+<form type="variant">
+<pron>
+/n*It/
+</pron>
+</form>
+<form type="inflected">
+knits, knitting, knitted.
+</form>
+</form>
+<sense n="1">
+<gramGrp>
+<pos>
+VB 
+<seg>
+with or without 
+</seg>
+OBJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knit something 
+</seg>
+pomeni s pletilkami ali strojem nekaj izdelati iz volne ali podobne niti. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+splesti
+</quote>
+</cit>
+<seg type="example">
+<quote>
+She wore a scarf that she had knitted.
+</quote>
+<quote>
+The old lady sat in her doorway and knitted.
+</quote>
+</seg>
+<sense>
+<form type="lemma">
+<orth>
+knitted
+</orth>
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<seg type="example">
+<quote>
+...a knitted shawl.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="2">
+<sense value="phrase">
+<gramGrp>
+<pos>
+PHRASE
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+<seg type="lemma">
+To knit one's brows 
+</seg>
+pomeni nagubati &ccaron;elo zaradi jeze ali skrbi; 
+</def>
+<usg>
+knji&zcaron;na raba.
+</usg>
+<cit type="translationEquivalent">
+<quote>
+mr&scaron;&ccaron;iti se
+</quote>
+</cit>
+<seg type="example">
+<quote>
+He sat there knitting his brows and twisting his napkin.
+</quote>
+</seg>
+</sense>
+</sense>
+<sense n="3">
+<gramGrp>
+<pos>
+ADJ
+</pos>
+</gramGrp>
+<def xml:lang="sl">
+Skupina ljudi, ki je 
+<seg type="lemma">
+close knit 
+</seg>
+ali 
+<seg type="lemma">
+tightly knit
+</seg>
+, se po&ccaron;uti tesno povezana. 
+</def>
+<cit type="translationEquivalent">
+<quote>
+povezan, strnjen
+</quote>
+</cit>
+<seg type="example">
+<quote>
+It's a very close-knit community.
+</quote>
+<quote>
+They live in tightly knit families.
+</quote>
+</seg>
+</sense>
+</entry>
