@@ -1,18 +1,20 @@
 ## Entries
-This repository contains original entries and transformed entries form **Bridge_A.pdf** Dictionary.
+This repository contains original entries and transformed entries form **Bridge_AZ.pdf** Dictionary.
 Entries from folder **original_entries** were transformed where each word has *< TOKEN >* tags around it.
 Transformed entries are located in **tokenized_entries** folder.
 
 Correct entries with *< dictScrap >* and *< re >* tags are located in **dictScrap** folder.
-
-In **correct_entries** folder, are entries that had been manually checked for errors.
+These entries were manually checked for errors.
 This folder is missing the following entries (due to the fact that they were incorrectly transformed).
+- entry_9.xml
 - entry_22.xml
 
 **Note:**
 
-Entries in **correct_entries** folder might not be the same as entries in **tokenized_entries** folder.
-Assume that entries in **correct_entries** are correct and disregard the same entries in **tokenized_entries** folder.
+Entries in **dictScrap** folder might not be the same as entries in **tokenized_entries** folder.
+Assume that entries in **dictScrap** are correct and disregard the same entries in **tokenized_entries** folder.
+Entries in **correct_entries** folder are from and older version. They have been manually checked for errors but do not
+have < dictScrap > and < re > tags.
 
 ## Logs
 
@@ -26,6 +28,7 @@ Each entry in transformation log, has described with which word each word was re
 At the end of each entry, there is also a grade showing the similarity factor of the original and transformed entries given in percentage.
 
 File **grade.log** contains grades for each entry.
+**WARNING** in grade.log means, that the entry could not be parsed using lxml library. This usually occurs when a tag (e.g. < form >) is not closed.
 
 
 ### How the grade is calculated:
@@ -51,5 +54,4 @@ Mark which entries are faulty so I can correct them manually.
 - As mentioned above, some words might be missing in *tokens.xml* file, which misplaces all the following words. This is an
 incorrect entry and should be marked down.
 - Sometimes an additional word is placed beside pronunciation. This also misplaces all the following words and makes entry incorrect.
-
 
