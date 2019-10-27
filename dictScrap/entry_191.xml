@@ -1,7 +1,7 @@
 <entry xml:lang="en">
 <form type="lemma">
 <orth>
-<TOKEN sid="p11_s11032" id="p11_w103" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="163.242" base="169.65" width="40.48" height="8.514">adjustable</TOKEN>
+<TOKEN text="true" sid="p11_s11032" id="p11_w103" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="163.242" base="169.65" width="40.48" height="8.514">adjustable</TOKEN>
 </orth>
 <form type="variant">
 <pron>
@@ -26,7 +26,7 @@
 <seg type="lemma">
 <TOKEN sid="p11_s11042" id="p11_w113" font-name="ssexcelsior" symbolic="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="207.93" y="163.954" base="169.65" width="35.8718" height="7.552">adjustable,</TOKEN>
 </seg>
-<TOKEN sid="p11_s11043" id="p11_w114" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="173.034" base="178.73" width="5.87664" height="7.552">je</TOKEN>
+<TOKEN text="true" sid="p11_s11043" id="p11_w114" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3898" y="173.034" base="178.73" width="5.87664" height="7.552">je</TOKEN>
 <TOKEN sid="p11_s11044" id="p11_w115" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="69.746" y="173.034" base="178.73" width="24.8702" height="7.552">tistemu</TOKEN>
 <TOKEN sid="p11_s11045" id="p11_w116" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="96.0958" y="173.034" base="178.73" width="25.0056" height="7.552">mogo~e</TOKEN>
 <TOKEN sid="p11_s11046" id="p11_w117" font-name="ssexcelsior" symbolic="yes" serif="yes" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="122.581" y="173.034" base="178.73" width="35.2109" height="7.552">spremeniti</TOKEN>
@@ -43,7 +43,7 @@
 <seg type="example">
 <quote>
 <TOKEN sid="p11_s11050" id="p11_w121" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="228.44" y="173.034" base="178.73" width="15.359" height="7.552">&#8230;an</TOKEN>
-<TOKEN sid="p11_s11051" id="p11_w122" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="182.114" base="187.81" width="35.1943" height="7.552">adjustable</TOKEN>
+<TOKEN text="true" sid="p11_s11051" id="p11_w122" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.39" y="182.114" base="187.81" width="35.1943" height="7.552">adjustable</TOKEN>
 <TOKEN sid="p11_s11052" id="p11_w123" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="99.5845" y="182.114" base="187.81" width="28.0714" height="7.552">spanner.</TOKEN>
 </quote>
 </seg>

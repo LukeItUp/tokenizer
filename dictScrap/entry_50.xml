@@ -1,7 +1,7 @@
 <entry xml:lang="en">
 <form type="lemma">
 <orth>
-<TOKEN sid="p3_s2378" id="p3_w276" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="353.892" base="360.3" width="31.3511" height="8.514">absolve</TOKEN>
+<TOKEN text="true" sid="p3_s2378" id="p3_w276" font-name="ssunivers" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="56.72" y="353.892" base="360.3" width="31.3511" height="8.514">absolve</TOKEN>
 </orth>
 <form type="variant">
 <pron>
@@ -23,7 +23,7 @@
 <seg>
 <TOKEN sid="p3_s2386" id="p3_w284" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="233.07" y="356.384" base="360.3" width="10.7276" height="5.192">with</TOKEN>
 </seg>
-<TOKEN sid="p3_s2387" id="p3_w285" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="62.3899" y="365.464" base="369.38" width="9.74061" height="5.192">OBJ</TOKEN>
+<TOKEN text="true" sid="p3_s2387" id="p3_w285" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="5.5" font-color="#000000" rotation="0" angle="0" x="62.3899" y="365.464" base="369.38" width="9.74061" height="5.192">OBJ</TOKEN>
 </pos>
 </gramGrp>
 <def xml:lang="sl">
@@ -37,7 +37,7 @@
 <TOKEN sid="p3_s2394" id="p3_w292" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="yes" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="170.826" y="363.684" base="369.38" width="45.0454" height="7.552">responsibility</TOKEN>
 </seg>
 <TOKEN sid="p3_s2395" id="p3_w293" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.34" y="363.684" base="369.38" width="26.4715" height="7.552">pomeni,</TOKEN>
-<TOKEN sid="p3_s2396" id="p3_w294" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="372.764" base="378.46" width="8.40168" height="7.552">da</TOKEN>
+<TOKEN text="true" sid="p3_s2396" id="p3_w294" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="62.3901" y="372.764" base="378.46" width="8.40168" height="7.552">da</TOKEN>
 <TOKEN sid="p3_s2397" id="p3_w295" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="73.2218" y="372.764" base="378.46" width="21.9996" height="7.552">~lovek</TOKEN>
 <TOKEN sid="p3_s2398" id="p3_w296" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="97.6514" y="372.764" base="378.46" width="24.3972" height="7.552">uradno</TOKEN>
 <TOKEN sid="p3_s2399" id="p3_w297" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="124.479" y="372.764" base="378.46" width="6.79608" height="7.552">ni</TOKEN>
@@ -51,7 +51,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p3_s2406" id="p3_w304" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="62.39" y="382.665" base="387.54" width="4.23262" height="6.5">&#961;</TOKEN>
+<TOKEN text="true" sid="p3_s2406" id="p3_w304" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="62.39" y="382.665" base="387.54" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p3_s2407" id="p3_w305" font-name="ssexcelsior" fixed-width="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="68.62" y="381.844" base="387.54" width="29.0405" height="7.552">oprostiti</TOKEN>
 </quote>

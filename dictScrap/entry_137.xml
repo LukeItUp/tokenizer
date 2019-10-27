@@ -1,7 +1,7 @@
 <entry xml:lang="en">
 <form type="lemma">
 <orth>
-<TOKEN sid="p8_s7652" id="p8_w117" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="191.032" base="197.44" width="19.9489" height="8.514">acrid</TOKEN>
+<TOKEN text="true" sid="p8_s7652" id="p8_w117" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="54.51" y="191.032" base="197.44" width="19.9489" height="8.514">acrid</TOKEN>
 </orth>
 <form type="variant">
 <pron>
@@ -26,7 +26,7 @@
 </seg>
 <TOKEN sid="p8_s7661" id="p8_w126" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="208.832" y="191.744" base="197.44" width="5.99688" height="7.552">je</TOKEN>
 <TOKEN sid="p8_s7662" id="p8_w127" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="217.189" y="191.744" base="197.44" width="24.4044" height="7.552">mo~an,</TOKEN>
-<TOKEN sid="p8_s7663" id="p8_w128" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1805" y="200.814" base="206.51" width="20.4797" height="7.552">peko~</TOKEN>
+<TOKEN text="true" sid="p8_s7663" id="p8_w128" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1805" y="200.814" base="206.51" width="20.4797" height="7.552">peko~</TOKEN>
 <TOKEN sid="p8_s7664" id="p8_w129" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="84.3804" y="200.814" base="206.51" width="6.91632" height="7.552">in</TOKEN>
 <TOKEN sid="p8_s7665" id="p8_w130" font-name="ssexcelsior" symbolic="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="95.017" y="200.814" base="206.51" width="37.9872" height="7.552">neprijeten.</TOKEN>
 </def>
@@ -43,7 +43,7 @@
 <seg type="example">
 <quote>
 <TOKEN sid="p8_s7670" id="p8_w135" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="216.22" y="200.814" base="206.51" width="25.3944" height="7.552">&#8230;acrid</TOKEN>
-<TOKEN sid="p8_s7671" id="p8_w136" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1803" y="209.884" base="215.58" width="23.6009" height="7.552">smoke.</TOKEN>
+<TOKEN text="true" sid="p8_s7671" id="p8_w136" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="60.1803" y="209.884" base="215.58" width="23.6009" height="7.552">smoke.</TOKEN>
 </quote>
 </seg>
 </sense>

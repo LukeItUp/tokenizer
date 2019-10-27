@@ -1,7 +1,7 @@
 <entry xml:lang="en">
 <form type="lemma">
 <orth>
-<TOKEN sid="p14_s14940" id="p14_w810" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="345.162" base="351.57" width="65.0715" height="8.514">aforementioned</TOKEN>
+<TOKEN text="true" sid="p14_s14940" id="p14_w810" font-name="ssunivers" fixed-width="yes" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="252.94" y="345.162" base="351.57" width="65.0715" height="8.514">aforementioned</TOKEN>
 </orth>
 <form type="variant">
 <pron>
@@ -19,7 +19,7 @@
 <def xml:lang="sl">
 <TOKEN sid="p14_s14944" id="p14_w814" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="405.3" y="345.874" base="351.57" width="23.5944" height="7.552">^lovek</TOKEN>
 <TOKEN sid="p14_s14945" id="p14_w815" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="431.224" y="345.874" base="351.57" width="8.79552" height="7.552">ali</TOKEN>
-<TOKEN sid="p14_s14946" id="p14_w816" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="354.944" base="360.64" width="18.3593" height="7.552">stvar,</TOKEN>
+<TOKEN text="true" sid="p14_s14946" id="p14_w816" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="354.944" base="360.64" width="18.3593" height="7.552">stvar,</TOKEN>
 <TOKEN sid="p14_s14947" id="p14_w817" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="280.489" y="354.944" base="360.64" width="6.79608" height="7.552">ki</TOKEN>
 <TOKEN sid="p14_s14948" id="p14_w818" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="290.804" y="354.944" base="360.64" width="5.99688" height="7.552">je</TOKEN>
 <seg type="lemma">
@@ -32,7 +32,7 @@
 <TOKEN sid="p14_s14954" id="p14_w824" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="424.566" y="354.944" base="360.64" width="15.4627" height="7.552">prej;</TOKEN>
 </def>
 <usg>
-<TOKEN sid="p14_s14955" id="p14_w825" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="364.014" base="369.71" width="25.5917" height="7.552">knji`na</TOKEN>
+<TOKEN text="true" sid="p14_s14955" id="p14_w825" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.609" y="364.014" base="369.71" width="25.5917" height="7.552">knji`na</TOKEN>
 <TOKEN sid="p14_s14956" id="p14_w826" font-name="ssexcelsior" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.711" y="364.014" base="369.71" width="17.6011" height="7.552">raba.</TOKEN>
 </usg>
 <cit type="translationEquivalent">
@@ -51,7 +51,7 @@
 <TOKEN sid="p14_s14962" id="p14_w832" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="409.018" y="364.014" base="369.71" width="6.40008" height="7.552">of</TOKEN>
 <TOKEN sid="p14_s14963" id="p14_w833" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="417.928" y="364.014" base="369.71" width="8.79696" height="7.552">all</TOKEN>
 <TOKEN sid="p14_s14964" id="p14_w834" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="429.235" y="364.014" base="369.71" width="10.7986" height="7.552">the</TOKEN>
-<TOKEN sid="p14_s14965" id="p14_w835" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="373.074" base="378.77" width="53.0417" height="7.552">aforementioned</TOKEN>
+<TOKEN text="true" sid="p14_s14965" id="p14_w835" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="258.61" y="373.074" base="378.77" width="53.0417" height="7.552">aforementioned</TOKEN>
 <TOKEN sid="p14_s14966" id="p14_w836" font-name="ssexcelsior" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="313.651" y="373.074" base="378.77" width="26.383" height="7.552">writers.</TOKEN>
 </quote>
 </seg>

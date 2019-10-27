@@ -1,7 +1,7 @@
 <entry xml:lang="en">
 <form type="lemma">
 <orth>
-<TOKEN sid="p13_s13850" id="p13_w769" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="353.892" base="360.3" width="52.7278" height="8.514">aerodynamic</TOKEN>
+<TOKEN text="true" sid="p13_s13850" id="p13_w769" font-name="ssunivers" bold="yes" italic="no" font-size="9" font-color="#000000" rotation="0" angle="0" x="255.14" y="353.892" base="360.3" width="52.7278" height="8.514">aerodynamic</TOKEN>
 </orth>
 <form type="variant">
 <pron>
@@ -21,7 +21,7 @@
 <def xml:lang="sl">
 <TOKEN sid="p13_s13856" id="p13_w775" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="408.82" y="354.604" base="360.3" width="23.184" height="7.552">U~inki</TOKEN>
 <TOKEN sid="p13_s13857" id="p13_w776" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="435.433" y="354.604" base="360.3" width="6.79536" height="7.552">in</TOKEN>
-<TOKEN sid="p13_s13858" id="p13_w777" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="363.684" base="369.38" width="23.8752" height="7.552">na~ela,</TOKEN>
+<TOKEN text="true" sid="p13_s13858" id="p13_w777" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="363.684" base="369.38" width="23.8752" height="7.552">na~ela,</TOKEN>
 <TOKEN sid="p13_s13859" id="p13_w778" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="286.264" y="363.684" base="369.38" width="6.7752" height="7.552">ki</TOKEN>
 <TOKEN sid="p13_s13860" id="p13_w779" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="294.619" y="363.684" base="369.38" width="7.1784" height="7.552">so</TOKEN>
 <seg type="lemma">
@@ -36,7 +36,7 @@
 <cit type="translationEquivalent">
 <quote>
 <dictScrap>
-<TOKEN sid="p13_s13867" id="p13_w786" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="260.81" y="373.585" base="378.46" width="4.23262" height="6.5">&#961;</TOKEN>
+<TOKEN text="true" sid="p13_s13867" id="p13_w786" font-name="slsymbol" symbolic="yes" serif="yes" bold="no" italic="no" font-size="6.5" font-color="#000000" rotation="0" angle="0" x="260.81" y="373.585" base="378.46" width="4.23262" height="6.5">&#961;</TOKEN>
 </dictScrap>
 <TOKEN sid="p13_s13868" id="p13_w787" font-name="ssexcelsior" symbolic="yes" serif="yes" bold="no" italic="no" font-size="8" font-color="#000000" rotation="0" angle="0" x="268.7" y="372.764" base="378.46" width="53.6861" height="7.552">aerodinami~en;</TOKEN>
 </quote>
@@ -46,7 +46,7 @@
 <TOKEN sid="p13_s13869" id="p13_w788" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="326.12" y="372.764" base="378.46" width="52.2734" height="7.552">&#8230;aerodynamic</TOKEN>
 <TOKEN sid="p13_s13870" id="p13_w789" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="382.103" y="372.764" base="378.46" width="49.4755" height="7.552">improvements</TOKEN>
 <TOKEN sid="p13_s13871" id="p13_w790" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="435.288" y="372.764" base="378.46" width="6.90552" height="7.552">in</TOKEN>
-<TOKEN sid="p13_s13872" id="p13_w791" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="381.844" base="387.54" width="23.989" height="7.552">design.</TOKEN>
+<TOKEN text="true" sid="p13_s13872" id="p13_w791" font-name="ssexcelsior" symbolic="yes" fixed-width="yes" bold="no" italic="yes" font-size="8" font-color="#000000" rotation="0" angle="0" x="260.81" y="381.844" base="387.54" width="23.989" height="7.552">design.</TOKEN>
 </quote>
 </seg>
 </sense>
