@@ -1,23 +1,19 @@
 ## Entries
-This repository contains original entries and transformed entries form **Bridge_AZ.pdf** Dictionary.
+This repository contains original entries and transformed entries form **Bridge_AZ.pdf** dictionary.
 Entries from folder **original_entries** were transformed where each word has *< TOKEN >* tags around it.
 Transformed entries are located in **tokenized_entries** folder.
 
 Correct entries with *< dictScrap >* and *< re >* tags are located in **dictScrap** folder.
 These entries also contain **page** and **text** attributes.
-
-
 These entries were manually checked for errors.
-This folder is missing the following entries (due to the fact that they were incorrectly transformed).
-- entry_9.xml
-- entry_22.xml
+
 
 **Note:**
 
 Entries in **dictScrap** folder might not be the same as entries in **tokenized_entries** folder.
 Assume that entries in **dictScrap** are correct and disregard the same entries in **tokenized_entries** folder.
 Entries in **correct_entries** folder are from and older version. They have been manually checked for errors but do not
-have < dictScrap > and < re > tags.
+have < dictScrap/re > tags and page/text attributes.
 
 ## Dictionary pages
 Dictionary pages are located in **dictinary_pages** folder.
